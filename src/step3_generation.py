@@ -72,9 +72,9 @@ def validate_entry(entry: FinalWordEntry) -> list[str]:
     """
     errors = []
 
-    # Check we have all 11 styles
-    if len(entry.examples) != 11:
-        errors.append(f"Expected 11 examples, got {len(entry.examples)}")
+    # Check we have all styles
+    if len(entry.examples) != len(config.EXAMPLE_STYLES):
+        errors.append(f"Expected {len(config.EXAMPLE_STYLES)} examples, got {len(entry.examples)}")
 
     # Check each example
     for i, ex in enumerate(entry.examples):
@@ -87,6 +87,10 @@ def validate_entry(entry: FinalWordEntry) -> list[str]:
         # Check for em dash
         if "—" in ex.sentence or "—" in ex.translation:
             errors.append(f"Example {i+1}: contains em dash")
+
+        # Check scores are present (warning, not error)
+        if ex.contextual_fitness is None or ex.memorability is None or ex.emotional_resonance is None:
+            errors.append(f"Example {i+1}: missing one or more scores")
 
     return errors
 

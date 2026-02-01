@@ -52,13 +52,10 @@ DRY_RUN_LIMIT = 10
 # Example styles
 EXAMPLE_STYLES = [
     "Inspirational",
-    "Funny",
     "Philosophical",
     "News-like",
     "Poetic",
     "Conversational",
-    "Movie/TV quotes",
-    "Sarcastic/Ironic",
     "Romantic",
     "Business/Professional",
     "Pop-culture",

@@ -159,6 +159,10 @@ def parse_generation_result(data: dict) -> LLMGenerationResult:
                 style=ex.get("style", ""),
                 translation=ex.get("translation", ""),
                 translated_word=ex.get("translated_word", ""),
+                # Score fields - use .get() for backward compatibility
+                contextual_fitness=ex.get("contextual_fitness"),
+                memorability=ex.get("memorability"),
+                emotional_resonance=ex.get("emotional_resonance"),
             )
         )
 
