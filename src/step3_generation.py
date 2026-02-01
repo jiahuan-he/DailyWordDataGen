@@ -21,7 +21,7 @@ def load_prompt_template(path: Path = config.EXAMPLE_GENERATION_PROMPT) -> str:
         return f.read()
 
 
-def load_final_output(path: Path = config.FINAL_OUTPUT_JSON) -> list[FinalWordEntry]:
+def load_final_output(path: Path) -> list[FinalWordEntry]:
     """Load previously generated final output from JSON."""
     if not path.exists():
         return []
@@ -30,9 +30,7 @@ def load_final_output(path: Path = config.FINAL_OUTPUT_JSON) -> list[FinalWordEn
     return [FinalWordEntry(**item) for item in data]
 
 
-def save_final_output(
-    words: list[FinalWordEntry], path: Path = config.FINAL_OUTPUT_JSON
-) -> None:
+def save_final_output(words: list[FinalWordEntry], path: Path) -> None:
     """Save final output to JSON."""
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w") as f:
