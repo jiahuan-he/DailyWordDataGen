@@ -142,8 +142,10 @@ def parse_generation_result(data: dict) -> LLMGenerationResult:
         data: Parsed JSON response
 
     Returns:
-        LLMGenerationResult with definition and examples
+        LLMGenerationResult with selected_pos, definition and examples
     """
+    if "selected_pos" not in data:
+        raise ClaudeParseError("Response missing 'selected_pos' field")
     if "definition" not in data:
         raise ClaudeParseError("Response missing 'definition' field")
     if "examples" not in data:
@@ -161,6 +163,7 @@ def parse_generation_result(data: dict) -> LLMGenerationResult:
         )
 
     return LLMGenerationResult(
+        selected_pos=data["selected_pos"],
         definition=data["definition"],
         examples=examples,
     )

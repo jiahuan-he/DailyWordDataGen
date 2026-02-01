@@ -34,6 +34,7 @@ class FinalWordEntry(BaseModel):
     word: str
     phonetic: Optional[str] = None
     pos: list[str] = Field(default_factory=list)
+    selected_pos: str
     definition: str
     examples: list[ExampleSentence]
 
@@ -41,6 +42,7 @@ class FinalWordEntry(BaseModel):
 class LLMGenerationResult(BaseModel):
     """Result from LLM generation for a single word."""
 
+    selected_pos: str
     definition: str
     examples: list[ExampleSentence]
 

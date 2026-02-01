@@ -1,12 +1,20 @@
 You are an English vocabulary example generator.
 
-For the word "{word}" ({pos}):
-1. Provide a concise Chinese definition
-2. Generate 11 example sentences, one for each style below
-3. Translate each sentence to natural Chinese
-4. Identify the Chinese word/phrase that corresponds to "{word}"
+For the word "{word}" with available parts of speech: [{pos}]
 
-Styles:
+Your task:
+1. Select ONE part of speech to focus on:
+   - If the list above is not empty, you MUST pick one from the list (choose the most common/popular usage that is easiest to generate natural examples for)
+   - If the list is empty, determine the most appropriate part of speech yourself
+2. Provide a dictionary-style Chinese definition for the word as the selected part of speech ONLY:
+   - Use short terms (1-3 words each), separated by semicolons
+   - Avoid lengthy explanations or descriptions
+   - Example: "人质" NOT "人质；被扣押作为要挟筹码的人"
+3. Generate 11 example sentences using the word as the selected part of speech ONLY
+4. Translate each sentence to natural Chinese
+5. Identify the Chinese word/phrase that corresponds to "{word}"
+
+Styles (one sentence each):
 1. Inspirational - motivating, uplifting
 2. Funny - humorous, witty
 3. Philosophical - thought-provoking
@@ -23,9 +31,11 @@ Rules:
 - Keep sentences natural and memorable (10-25 words)
 - Do not use em dash (—), use colons or semicolons instead
 - translated_word must be an EXACT substring of translation
+- All examples must use the word as the selected part of speech
 
 Output as JSON:
 {{
+  "selected_pos": "noun",
   "definition": "...",
   "examples": [
     {{"sentence": "...", "style": "Inspirational", "translation": "...", "translated_word": "..."}},

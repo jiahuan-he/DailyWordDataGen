@@ -56,6 +56,7 @@ def create_final_entry(
         word=enriched.word,
         phonetic=enriched.phonetic,
         pos=enriched.pos,
+        selected_pos=generated.selected_pos,
         definition=generated.definition,
         examples=generated.examples,
     )
