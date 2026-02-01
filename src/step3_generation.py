@@ -121,6 +121,7 @@ def generate_for_word(
 
 
 def run_step3(
+    output_path: Path | None = None,
     resume: bool = False,
     dry_run: bool = False,
 ) -> list[FinalWordEntry]:
@@ -128,12 +129,16 @@ def run_step3(
     Run Step 3 of the pipeline.
 
     Args:
+        output_path: Path to save final output. If None, generates with current timestamp.
         resume: Whether to resume from checkpoint
         dry_run: If True, only process a small number of words
 
     Returns:
         List of final word entries
     """
+    if output_path is None:
+        output_path = config.get_final_output_path()
+
     print("Step 3: Generating examples with Claude...")
 
     # Load enriched words
@@ -147,7 +152,7 @@ def run_step3(
     checkpoint = CheckpointManager(config.STEP3_CHECKPOINT)
 
     # Load existing results if resuming
-    final_entries = load_final_output() if resume else []
+    final_entries = load_final_output(output_path) if resume else []
     entries_dict = {e.word: e for e in final_entries}
 
     # Apply dry run limit
@@ -188,13 +193,13 @@ def run_step3(
         # Save periodically (every 10 words)
         if (i + 1) % 10 == 0:
             result = list(entries_dict.values())
-            save_final_output(result)
+            save_final_output(result, output_path)
 
     # Final save
     result = list(entries_dict.values())
-    save_final_output(result)
+    save_final_output(result, output_path)
 
-    print(f"  Saved {len(result)} entries to: {config.FINAL_OUTPUT_JSON}")
+    print(f"  Saved {len(result)} entries to: {output_path}")
     print(f"  Successfully processed: {checkpoint.processed_count}")
     print(f"  Failed: {checkpoint.failed_count}")
 
@@ -209,4 +214,4 @@ def run_step3(
 
 
 if __name__ == "__main__":
-    run_step3(dry_run=True)
+    run_step3(output_path=config.get_final_output_path(), dry_run=True)

@@ -3,6 +3,7 @@
 
 import argparse
 import sys
+from datetime import datetime
 
 import config
 from src.step1_selection import run_step1
@@ -88,6 +89,10 @@ Examples:
             print(f"Error: {e}")
             sys.exit(1)
 
+    # Generate output path with timestamp at pipeline start
+    pipeline_start = datetime.now()
+    output_path = config.get_final_output_path(pipeline_start)
+
     print("=" * 60)
     print("DailyWord Data Generation Pipeline")
     print("=" * 60)
@@ -98,6 +103,7 @@ Examples:
         print("Mode: Resume from checkpoint")
     if args.dry_run:
         print(f"Mode: Dry run ({config.DRY_RUN_LIMIT} words)")
+    print(f"Output: {output_path}")
     print("=" * 60)
     print()
 
@@ -115,6 +121,7 @@ Examples:
         # Step 3: LLM Example Generation
         if args.start_step <= 3 <= args.end_step:
             run_step3(
+                output_path=output_path,
                 resume=args.resume,
                 dry_run=args.dry_run,
             )

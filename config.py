@@ -1,5 +1,6 @@
 """Configuration settings for DailyWord data generation pipeline."""
 
+from datetime import datetime
 from pathlib import Path
 
 # Base paths
@@ -12,7 +13,21 @@ PROMPTS_DIR = PROJECT_ROOT / "prompts"
 WORD_SELECTION_CSV = PROJECT_ROOT / "word_selection.csv"
 SELECTED_WORDS_CSV = DATA_DIR / "selected_words.csv"
 ENRICHED_WORDS_JSON = DATA_DIR / "enriched_words.json"
-FINAL_OUTPUT_JSON = DATA_DIR / "final_output.json"
+
+
+def get_final_output_path(timestamp: datetime | None = None) -> Path:
+    """Generate output path with datetime suffix.
+
+    Args:
+        timestamp: Datetime to use for suffix. If None, uses current time.
+
+    Returns:
+        Path like data/final_output_20260131_143022.json
+    """
+    if timestamp is None:
+        timestamp = datetime.now()
+    suffix = timestamp.strftime("%Y%m%d_%H%M%S")
+    return DATA_DIR / f"final_output_{suffix}.json"
 
 # Checkpoint files
 STEP2_CHECKPOINT = CHECKPOINTS_DIR / "step2_progress.json"
