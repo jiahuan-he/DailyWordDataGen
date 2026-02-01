@@ -59,7 +59,7 @@ Examples:
     parser.add_argument(
         "--word-range",
         type=str,
-        help="Word index range to process, e.g., '0-100'",
+        help="Word index range for Step 2, e.g., '0-100'. Step 3 processes all enriched words.",
     )
     parser.add_argument(
         "--resume",
@@ -115,7 +115,6 @@ Examples:
         # Step 3: LLM Example Generation
         if args.start_step <= 3 <= args.end_step:
             run_step3(
-                word_range=word_range,
                 resume=args.resume,
                 dry_run=args.dry_run,
             )

@@ -120,7 +120,6 @@ def generate_for_word(
 
 
 def run_step3(
-    word_range: tuple[int, int] | None = None,
     resume: bool = False,
     dry_run: bool = False,
 ) -> list[FinalWordEntry]:
@@ -128,7 +127,6 @@ def run_step3(
     Run Step 3 of the pipeline.
 
     Args:
-        word_range: Optional (start, end) tuple for processing subset
         resume: Whether to resume from checkpoint
         dry_run: If True, only process a small number of words
 
@@ -151,16 +149,12 @@ def run_step3(
     final_entries = load_final_output() if resume else []
     entries_dict = {e.word: e for e in final_entries}
 
-    # Determine word range
+    # Apply dry run limit
     if dry_run:
-        start_idx = 0
-        end_idx = min(config.DRY_RUN_LIMIT, len(enriched_words))
-        print(f"  Dry run: processing {end_idx} words")
+        words_to_process = enriched_words[:config.DRY_RUN_LIMIT]
+        print(f"  Dry run: processing {len(words_to_process)} words")
     else:
-        start_idx = word_range[0] if word_range else 0
-        end_idx = word_range[1] if word_range else len(enriched_words)
-
-    words_to_process = enriched_words[start_idx:end_idx]
+        words_to_process = enriched_words
 
     # Filter out already processed words if resuming
     if resume:
@@ -182,7 +176,7 @@ def run_step3(
 
         if entry:
             entries_dict[enriched.word] = entry
-            checkpoint.mark_processed(enriched.word, start_idx + i)
+            checkpoint.mark_processed(enriched.word, i)
 
             if errors:
                 validation_warnings.append((enriched.word, errors))
