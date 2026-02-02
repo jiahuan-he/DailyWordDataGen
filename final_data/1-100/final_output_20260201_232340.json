@@ -1,0 +1,516 @@
+[
+  {
+    "word": "think",
+    "phonetic": "/θɪŋk/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "思考；认为；想",
+    "examples": [
+      {
+        "sentence": "Think bigger than your fears, and you will discover strength you never knew existed.",
+        "style": "Inspirational",
+        "translation": "想得比你的恐惧更远大，你会发现自己从未意识到的力量。",
+        "translated_word": "想",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "To think is to exist, but to question what we think is to truly live.",
+        "style": "Philosophical",
+        "translation": "思考即存在，但质疑我们所思考的才是真正的生活。",
+        "translated_word": "思考",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Analysts think the central bank will raise interest rates by the end of the quarter.",
+        "style": "News-like",
+        "translation": "分析师认为央行将在本季度末加息。",
+        "translated_word": "认为",
+        "contextual_fitness": 10,
+        "memorability": 5,
+        "emotional_resonance": 3
+      },
+      {
+        "sentence": "I think of you like the moon thinks of the tide: quietly, constantly, and from afar.",
+        "style": "Poetic",
+        "translation": "我想你，如同月亮想念潮汐：静静地、持续地、从远方。",
+        "translated_word": "想",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I think we should grab some coffee; it's been way too long since we caught up.",
+        "style": "Conversational",
+        "translation": "我觉得我们应该去喝杯咖啡，我们好久没聊了。",
+        "translated_word": "觉得",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "Every time I close my eyes, I think of your smile and my heart skips a beat.",
+        "style": "Romantic",
+        "translation": "每次闭上眼睛，我就想起你的微笑，心跳漏了一拍。",
+        "translated_word": "想起",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We think this partnership will create significant value for both organizations moving forward.",
+        "style": "Business/Professional",
+        "translation": "我们认为这次合作将为双方组织创造显著的价值。",
+        "translated_word": "认为",
+        "contextual_fitness": 9,
+        "memorability": 4,
+        "emotional_resonance": 3
+      },
+      {
+        "sentence": "I don't think you're ready for this level of drama in your feed right now.",
+        "style": "Pop-culture",
+        "translation": "我觉得你还没准备好在动态里看到这种程度的狗血剧情。",
+        "translated_word": "觉得",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 5
+      }
+    ]
+  },
+  {
+    "word": "like",
+    "phonetic": "/laɪk/",
+    "pos": [
+      "adjective",
+      "adverb",
+      "conjunction",
+      "interjection",
+      "noun",
+      "preposition",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "喜欢；喜爱；想要",
+    "examples": [
+      {
+        "sentence": "Like what you do, and you will never work a day in your life.",
+        "style": "Inspirational",
+        "translation": "喜欢你所做的事，你这一生就不会有一天是在工作。",
+        "translated_word": "喜欢",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 10
+      },
+      {
+        "sentence": "To like something is to accept it as it is, not as we wish it to be.",
+        "style": "Philosophical",
+        "translation": "喜欢一样东西，就是接受它本来的样子，而非我们希望的样子。",
+        "translated_word": "喜欢",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Survey reveals that most teenagers like short-form video content over traditional television.",
+        "style": "News-like",
+        "translation": "调查显示，大多数青少年喜欢短视频内容胜过传统电视节目。",
+        "translated_word": "喜欢",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "The heart likes what it likes, as rivers seek the sea without reason.",
+        "style": "Poetic",
+        "translation": "心喜欢它所喜欢的，如同河流无缘由地奔向大海。",
+        "translated_word": "喜欢",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I really like this coffee shop; they make the best lattes in town.",
+        "style": "Conversational",
+        "translation": "我真的很喜欢这家咖啡店，他们的拿铁是城里最好喝的。",
+        "translated_word": "喜欢",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "I like the way you laugh; it makes the whole world feel warmer.",
+        "style": "Romantic",
+        "translation": "我喜欢你笑的样子，它让整个世界都变得更温暖。",
+        "translated_word": "喜欢",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 10
+      },
+      {
+        "sentence": "We would like to schedule a meeting to discuss the quarterly results.",
+        "style": "Business/Professional",
+        "translation": "我们想安排一次会议来讨论季度业绩。",
+        "translated_word": "想",
+        "contextual_fitness": 9,
+        "memorability": 5,
+        "emotional_resonance": 3
+      },
+      {
+        "sentence": "Comment below if you like this song and want more recommendations.",
+        "style": "Pop-culture",
+        "translation": "如果你喜欢这首歌并想要更多推荐，请在下面评论。",
+        "translated_word": "喜欢",
+        "contextual_fitness": 8,
+        "memorability": 6,
+        "emotional_resonance": 5
+      }
+    ]
+  },
+  {
+    "word": "way",
+    "phonetic": "/weɪ/",
+    "pos": [
+      "adverb",
+      "interjection",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "方法；道路；方式；方向",
+    "examples": [
+      {
+        "sentence": "There is always a way forward, even when the path seems impossible.",
+        "style": "Inspirational",
+        "translation": "即使道路看似不可能，前方总有一条路。",
+        "translated_word": "路",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "The way we treat others reflects the way we see ourselves.",
+        "style": "Philosophical",
+        "translation": "我们对待他人的方式反映了我们看待自己的方式。",
+        "translated_word": "方式",
+        "contextual_fitness": 10,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Officials are seeking a new way to address the city's growing traffic congestion.",
+        "style": "News-like",
+        "translation": "官员们正在寻找解决城市日益严重交通拥堵的新方法。",
+        "translated_word": "方法",
+        "contextual_fitness": 9,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "The moon lights the way through the silent forest of dreams.",
+        "style": "Poetic",
+        "translation": "月光照亮了穿越寂静梦境森林的道路。",
+        "translated_word": "道路",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Is there any way you could help me move this weekend?",
+        "style": "Conversational",
+        "translation": "这个周末你有没有办法帮我搬家？",
+        "translated_word": "办法",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "You have a way of making my heart feel completely at home.",
+        "style": "Romantic",
+        "translation": "你有一种让我的心感到完全安定的方式。",
+        "translated_word": "方式",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We need to find a more efficient way to streamline our quarterly reporting process.",
+        "style": "Business/Professional",
+        "translation": "我们需要找到一种更有效的方法来简化季度报告流程。",
+        "translated_word": "方法",
+        "contextual_fitness": 9,
+        "memorability": 4,
+        "emotional_resonance": 3
+      },
+      {
+        "sentence": "She's got that main character energy; her way just hits different.",
+        "style": "Pop-culture",
+        "translation": "她有那种主角气场；她的风格就是不一样。",
+        "translated_word": "风格",
+        "contextual_fitness": 7,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "use",
+    "phonetic": null,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "使用；利用；运用",
+    "examples": [
+      {
+        "sentence": "Use your talents to light up the world, for that is why they were given to you.",
+        "style": "Inspirational",
+        "translation": "用你的才华照亮世界，因为这正是你被赋予它们的原因。",
+        "translated_word": "用",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We use time, yet we cannot hold it; we spend it, yet we cannot save it.",
+        "style": "Philosophical",
+        "translation": "我们使用时间，却无法握住它；我们花费它，却无法储存它。",
+        "translated_word": "使用",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Officials urged residents to use public transportation as the city prepares for the annual marathon.",
+        "style": "News-like",
+        "translation": "官员敦促居民使用公共交通工具，因为该市正在为年度马拉松做准备。",
+        "translated_word": "使用",
+        "contextual_fitness": 9,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "The river knows how to use the stones in its path: it simply flows around them.",
+        "style": "Poetic",
+        "translation": "河流懂得如何利用路途中的石头：它只是绕过它们流淌。",
+        "translated_word": "利用",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Can I use your phone for a sec? Mine just died.",
+        "style": "Conversational",
+        "translation": "我能用一下你的手机吗？我的刚没电了。",
+        "translated_word": "用",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "I want to use every moment with you wisely, because loving you is my favorite way to spend time.",
+        "style": "Romantic",
+        "translation": "我想珍惜与你在一起的每一刻，因为爱你是我最喜欢的度过时光的方式。",
+        "translated_word": "珍惜",
+        "contextual_fitness": 6,
+        "memorability": 7,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Please use the new software system for all client communications effective Monday.",
+        "style": "Business/Professional",
+        "translation": "请从周一起使用新的软件系统进行所有客户沟通。",
+        "translated_word": "使用",
+        "contextual_fitness": 9,
+        "memorability": 4,
+        "emotional_resonance": 3
+      },
+      {
+        "sentence": "I use this filter on literally every selfie; it's giving main character energy.",
+        "style": "Pop-culture",
+        "translation": "我每张自拍都用这个滤镜；简直是主角光环。",
+        "translated_word": "用",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "find",
+    "phonetic": "/faɪnd/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "找到；发现；觉得",
+    "examples": [
+      {
+        "sentence": "Find the courage within yourself to chase your dreams, no matter how impossible they seem.",
+        "style": "Inspirational",
+        "translation": "找到内心的勇气去追逐你的梦想，无论它们看起来多么不可能。",
+        "translated_word": "找到",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We spend our whole lives trying to find meaning, only to realize we create it ourselves.",
+        "style": "Philosophical",
+        "translation": "我们穷尽一生试图发现意义，最终却意识到意义是我们自己创造的。",
+        "translated_word": "发现",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Researchers find that regular exercise can reduce the risk of heart disease by up to 30 percent.",
+        "style": "News-like",
+        "translation": "研究人员发现，经常锻炼可以将患心脏病的风险降低高达30%。",
+        "translated_word": "发现",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "In the silence of dawn, I find your whispers still echoing through my restless heart.",
+        "style": "Poetic",
+        "translation": "在黎明的寂静中，我发觉你的低语仍在我不安的心中回荡。",
+        "translated_word": "发觉",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I find it really hard to wake up early on weekends; my bed is just too comfortable.",
+        "style": "Conversational",
+        "translation": "我觉得周末早起真的很难，我的床实在太舒服了。",
+        "translated_word": "觉得",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "Every time I look into your eyes, I find a home I never knew I was searching for.",
+        "style": "Romantic",
+        "translation": "每次凝视你的双眼，我都找到了一个从未意识到自己在寻觅的归宿。",
+        "translated_word": "找到",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 10
+      },
+      {
+        "sentence": "Our team needs to find a more efficient solution before the end of the fiscal quarter.",
+        "style": "Business/Professional",
+        "translation": "我们的团队需要在本财季结束前找到一个更高效的解决方案。",
+        "translated_word": "找到",
+        "contextual_fitness": 9,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "When you find your vibe, protect it; not everyone deserves access to your energy.",
+        "style": "Pop-culture",
+        "translation": "当你找到自己的状态时，好好保护它；不是每个人都配得上你的能量。",
+        "translated_word": "找到",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 8
+      }
+    ]
+  },
+  {
+    "word": "well",
+    "phonetic": "/wɛl/",
+    "pos": [
+      "adjective",
+      "adverb",
+      "interjection",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "adverb",
+    "definition": "好；充分地；完全地",
+    "examples": [
+      {
+        "sentence": "Learn your craft well, and success will follow you wherever you go.",
+        "style": "Inspirational",
+        "translation": "好好学习你的技艺，成功就会如影随形。",
+        "translated_word": "好好",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "To live well is not about having more, but about needing less.",
+        "style": "Philosophical",
+        "translation": "生活得好不在于拥有更多，而在于需要更少。",
+        "translated_word": "好",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "The new policy has been well received by both investors and consumers.",
+        "style": "News-like",
+        "translation": "新政策受到了投资者和消费者的普遍好评。",
+        "translated_word": "好",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "The moon knows well the secrets that the restless ocean keeps.",
+        "style": "Poetic",
+        "translation": "月亮深知那不安的海洋所守护的秘密。",
+        "translated_word": "深",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I slept really well last night; I feel like a new person today.",
+        "style": "Conversational",
+        "translation": "我昨晚睡得特别好，今天感觉像换了一个人。",
+        "translated_word": "好",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "You know me well enough to see through my smile when I'm hurting.",
+        "style": "Romantic",
+        "translation": "你足够了解我，能在我受伤时看穿我的微笑。",
+        "translated_word": "了解",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We need to communicate well with stakeholders before launching this project.",
+        "style": "Business/Professional",
+        "translation": "在启动这个项目之前，我们需要与利益相关方进行充分沟通。",
+        "translated_word": "充分",
+        "contextual_fitness": 9,
+        "memorability": 5,
+        "emotional_resonance": 3
+      },
+      {
+        "sentence": "That song aged well; it still hits different after all these years.",
+        "style": "Pop-culture",
+        "translation": "那首歌经久不衰，这么多年过去了听起来依然很有感觉。",
+        "translated_word": "经久不衰",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  }
+]
