@@ -1,7 +1,15 @@
 """Free Dictionary API client for word lookups."""
 
+import asyncio
+
 import httpx
-from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
+from tenacity import (
+    retry,
+    stop_after_attempt,
+    wait_exponential,
+    retry_if_exception_type,
+    RetryError,
+)
 
 import config
 
@@ -18,9 +26,22 @@ class WordNotFoundError(DictionaryLookupError):
     pass
 
 
+class RateLimitError(DictionaryLookupError):
+    """Raised when rate limited by the API."""
+
+    pass
+
+
+def is_rate_limit_error(exception: BaseException) -> bool:
+    """Check if exception is a rate limit error (429 or 503)."""
+    if isinstance(exception, httpx.HTTPStatusError):
+        return exception.response.status_code in (429, 503)
+    return False
+
+
 @retry(
     stop=stop_after_attempt(config.DICTIONARY_API_MAX_RETRIES),
-    wait=wait_exponential(multiplier=1, min=1, max=10),
+    wait=wait_exponential(multiplier=2, min=2, max=60),
     retry=retry_if_exception_type((httpx.TimeoutException, httpx.HTTPStatusError)),
 )
 async def lookup_word(word: str, client: httpx.AsyncClient) -> dict:

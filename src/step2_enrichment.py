@@ -4,6 +4,8 @@ import asyncio
 import json
 from pathlib import Path
 
+import httpx
+from tenacity import RetryError
 from tqdm import tqdm
 
 import config
@@ -11,8 +13,6 @@ from src.models import EnrichedWord, SelectedWord
 from src.dictionary_client import lookup_word, WordNotFoundError, DictionaryLookupError
 from src.checkpoint import CheckpointManager
 from src.step1_selection import load_selected_words
-
-import httpx
 
 
 def load_enriched_words(path: Path = config.ENRICHED_WORDS_JSON) -> list[EnrichedWord]:
@@ -56,6 +56,9 @@ async def enrich_word(
         return EnrichedWord(word=word, phonetic=None, pos=[])
     except DictionaryLookupError:
         return EnrichedWord(word=word, phonetic=None, pos=[])
+    except RetryError:
+        # All retries exhausted (likely rate limited)
+        return EnrichedWord(word=word, phonetic=None, pos=[])
 
 
 async def enrich_words_async(
@@ -70,7 +73,7 @@ async def enrich_words_async(
     Args:
         selected_words: List of words to enrich
         checkpoint: Checkpoint manager for progress tracking
-        word_range: Optional (start, end) tuple for processing subset
+        word_range: Optional (start, end) tuple for filtering by row index (0-based, end exclusive)
         resume: Whether to resume from checkpoint
 
     Returns:
@@ -80,11 +83,14 @@ async def enrich_words_async(
     enriched_words = load_enriched_words() if resume else []
     enriched_dict = {w.word: w for w in enriched_words}
 
-    # Determine word range
-    start_idx = word_range[0] if word_range else 0
-    end_idx = word_range[1] if word_range else len(selected_words)
+    # Filter words by row index range (slice-based)
+    if word_range:
+        start, end = word_range
+        filtered_words = selected_words[start:end]
+    else:
+        filtered_words = selected_words
 
-    words_to_process = selected_words[start_idx:end_idx]
+    words_to_process = filtered_words
 
     # Filter out already processed words if resuming
     if resume:
@@ -95,20 +101,20 @@ async def enrich_words_async(
 
     if not words_to_process:
         print("  No words to process (all already completed)")
-        return enriched_words
+        return [enriched_dict[sw.word] for sw in filtered_words if sw.word in enriched_dict]
 
     print(f"  Processing {len(words_to_process)} words...")
 
     async with httpx.AsyncClient() as client:
-        # Use semaphore for rate limiting (5 concurrent requests max)
-        semaphore = asyncio.Semaphore(5)
+        # Use semaphore for rate limiting (2 concurrent requests to avoid 429)
+        semaphore = asyncio.Semaphore(2)
 
         async def process_with_semaphore(sw: SelectedWord, idx: int):
             async with semaphore:
                 result = await enrich_word(sw.word, client)
                 enriched_dict[sw.word] = result
                 checkpoint.mark_processed(sw.word, idx)
-                await asyncio.sleep(0.1)  # Small delay to avoid rate limiting
+                await asyncio.sleep(0.5)  # Delay between requests to avoid rate limiting
                 return result
 
         # Process with progress bar
@@ -119,14 +125,14 @@ async def enrich_words_async(
                 return result
 
             tasks = [
-                process_and_update(sw, start_idx + i)
+                process_and_update(sw, i)
                 for i, sw in enumerate(words_to_process)
             ]
             await asyncio.gather(*tasks)
 
-    # Rebuild ordered list
+    # Rebuild ordered list based on filtered words
     result = []
-    for sw in selected_words[start_idx:end_idx]:
+    for sw in filtered_words:
         if sw.word in enriched_dict:
             result.append(enriched_dict[sw.word])
 
@@ -142,7 +148,7 @@ def run_step2(
     Run Step 2 of the pipeline.
 
     Args:
-        word_range: Optional (start, end) tuple for processing subset
+        word_range: Optional (start, end) tuple for filtering by row index (0-based, end exclusive)
         resume: Whether to resume from checkpoint
         dry_run: If True, only process a small number of words
 
@@ -155,10 +161,11 @@ def run_step2(
     selected_words = load_selected_words()
     print(f"  Loaded {len(selected_words)} selected words")
 
-    # Apply dry run limit
+    # Apply dry run limit (process first N words by row order)
     if dry_run and word_range is None:
-        word_range = (0, min(config.DRY_RUN_LIMIT, len(selected_words)))
-        print(f"  Dry run: processing {word_range[1]} words")
+        # For dry run, just take first N words
+        selected_words = selected_words[:config.DRY_RUN_LIMIT]
+        print(f"  Dry run: processing {len(selected_words)} words")
 
     # Initialize checkpoint
     checkpoint = CheckpointManager(config.STEP2_CHECKPOINT)

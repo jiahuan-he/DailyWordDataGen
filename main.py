@@ -11,8 +11,8 @@ from src.step2_enrichment import run_step2
 from src.step3_generation import run_step3
 
 
-def parse_word_range(range_str: str) -> tuple[int, int]:
-    """Parse word range string like '0-100' into tuple."""
+def parse_range(range_str: str) -> tuple[int, int]:
+    """Parse range string like '1-100' into tuple."""
     if "-" not in range_str:
         raise ValueError(f"Invalid range format: {range_str}. Use format: start-end")
     parts = range_str.split("-")
@@ -35,8 +35,8 @@ Examples:
   python main.py --start-step 2 --end-step 2
   python main.py --start-step 3 --end-step 3
 
-  # Process specific word range (for batching)
-  python main.py --start-step 3 --word-range 0-100
+  # Process specific word range (row indices, for batching)
+  python main.py --start-step 2 --word-range 0-100
 
   # Resume from checkpoint
   python main.py --start-step 3 --resume
@@ -60,7 +60,7 @@ Examples:
     parser.add_argument(
         "--word-range",
         type=str,
-        help="Word index range for Step 2, e.g., '0-100'. Step 3 processes all enriched words.",
+        help="Word range for Step 2, e.g., '0-100'. Filters words by row index (0-based).",
     )
     parser.add_argument(
         "--resume",
@@ -84,7 +84,7 @@ Examples:
     word_range = None
     if args.word_range:
         try:
-            word_range = parse_word_range(args.word_range)
+            word_range = parse_range(args.word_range)
         except ValueError as e:
             print(f"Error: {e}")
             sys.exit(1)

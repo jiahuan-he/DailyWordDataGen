@@ -39,7 +39,7 @@ EXAMPLE_GENERATION_PROMPT = PROMPTS_DIR / "example_generation.txt"
 # API settings
 FREE_DICTIONARY_API_URL = "https://api.dictionaryapi.dev/api/v2/entries/en"
 DICTIONARY_API_TIMEOUT = 10  # seconds
-DICTIONARY_API_MAX_RETRIES = 3
+DICTIONARY_API_MAX_RETRIES = 5
 
 # Claude CLI settings
 CLAUDE_MODEL = "claude-opus-4-5-20251101"
