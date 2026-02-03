@@ -13,6 +13,7 @@ from src.claude_client import (
 )
 from src.checkpoint import CheckpointManager
 from src.step2_enrichment import load_enriched_words
+from src.logger import get_logger
 
 
 def load_prompt_template(path: Path = config.EXAMPLE_GENERATION_PROMPT) -> str:
@@ -138,14 +139,16 @@ def run_step3(
     Returns:
         List of final word entries
     """
+    logger = get_logger()
+
     if output_path is None:
         output_path = config.get_final_output_path()
 
-    print("Step 3: Generating examples with Claude...")
+    logger.info("Step 3: Generating examples with Claude...")
 
     # Load enriched words
     enriched_words = load_enriched_words()
-    print(f"  Loaded {len(enriched_words)} enriched words")
+    logger.info(f"  Loaded {len(enriched_words)} enriched words")
 
     # Load prompt template
     prompt_template = load_prompt_template()
@@ -160,7 +163,7 @@ def run_step3(
     # Apply dry run limit
     if dry_run:
         words_to_process = enriched_words[:config.DRY_RUN_LIMIT]
-        print(f"  Dry run: processing {len(words_to_process)} words")
+        logger.info(f"  Dry run: processing {len(words_to_process)} words")
     else:
         words_to_process = enriched_words
 
@@ -171,46 +174,51 @@ def run_step3(
         ]
 
     if not words_to_process:
-        print("  No words to process (all already completed)")
+        logger.info("  No words to process (all already completed)")
         return final_entries
 
-    print(f"  Processing {len(words_to_process)} words...")
+    logger.info(f"  Processing {len(words_to_process)} words...")
 
     # Process each word
     validation_warnings = []
+    total_words = len(words_to_process)
 
     for i, enriched in enumerate(tqdm(words_to_process, desc="  Generating")):
+        logger.info(f"  [{i+1}/{total_words}] Processing: {enriched.word}")
         entry, errors = generate_for_word(enriched, prompt_template)
 
         if entry:
             entries_dict[enriched.word] = entry
             checkpoint.mark_processed(enriched.word, i)
+            logger.info(f"  [{i+1}/{total_words}] Success: {enriched.word}")
 
             if errors:
                 validation_warnings.append((enriched.word, errors))
+                logger.warning(f"  [{i+1}/{total_words}] Validation warning for {enriched.word}: {errors}")
         else:
             checkpoint.mark_failed(enriched.word)
-            print(f"\n  Failed: {enriched.word} - {errors}")
+            logger.error(f"  [{i+1}/{total_words}] Failed: {enriched.word} - {errors}")
 
         # Save periodically (every 10 words)
         if (i + 1) % 10 == 0:
             result = list(entries_dict.values())
             save_final_output(result, output_path)
+            logger.info(f"  Checkpoint saved: {len(result)} words")
 
     # Final save
     result = list(entries_dict.values())
     save_final_output(result, output_path)
 
-    print(f"  Saved {len(result)} entries to: {output_path}")
-    print(f"  Successfully processed: {checkpoint.processed_count}")
-    print(f"  Failed: {checkpoint.failed_count}")
+    logger.info(f"  Saved {len(result)} entries to: {output_path}")
+    logger.info(f"  Successfully processed: {checkpoint.processed_count}")
+    logger.info(f"  Failed: {checkpoint.failed_count}")
 
     if validation_warnings:
-        print(f"\n  Validation warnings ({len(validation_warnings)} words):")
+        logger.warning(f"Validation warnings ({len(validation_warnings)} words):")
         for word, errors in validation_warnings[:5]:
-            print(f"    {word}: {errors}")
+            logger.warning(f"  {word}: {errors}")
         if len(validation_warnings) > 5:
-            print(f"    ... and {len(validation_warnings) - 5} more")
+            logger.warning(f"  ... and {len(validation_warnings) - 5} more")
 
     return result
 

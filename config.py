@@ -8,6 +8,7 @@ PROJECT_ROOT = Path(__file__).parent
 DATA_DIR = PROJECT_ROOT / "data"
 CHECKPOINTS_DIR = PROJECT_ROOT / "checkpoints"
 PROMPTS_DIR = PROJECT_ROOT / "prompts"
+LOGS_DIR = PROJECT_ROOT / "logs"
 
 # Input/Output files
 WORD_SELECTION_CSV = PROJECT_ROOT / "word_selection.csv"

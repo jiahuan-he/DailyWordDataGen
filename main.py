@@ -6,6 +6,7 @@ import sys
 from datetime import datetime
 
 import config
+from src.logger import setup_logger
 from src.step1_selection import run_step1
 from src.step2_enrichment import run_step2
 from src.step3_generation import run_step3
@@ -75,9 +76,12 @@ Examples:
 
     args = parser.parse_args()
 
+    # Set up logging
+    logger = setup_logger()
+
     # Validate step range
     if args.start_step > args.end_step:
-        print("Error: start-step cannot be greater than end-step")
+        logger.error("start-step cannot be greater than end-step")
         sys.exit(1)
 
     # Parse word range if provided
@@ -86,37 +90,34 @@ Examples:
         try:
             word_range = parse_range(args.word_range)
         except ValueError as e:
-            print(f"Error: {e}")
+            logger.error(f"Invalid word range: {e}")
             sys.exit(1)
 
     # Generate output path with timestamp at pipeline start
     pipeline_start = datetime.now()
     output_path = config.get_final_output_path(pipeline_start)
 
-    print("=" * 60)
-    print("DailyWord Data Generation Pipeline")
-    print("=" * 60)
-    print(f"Steps: {args.start_step} to {args.end_step}")
+    logger.info("=" * 60)
+    logger.info("DailyWord Data Generation Pipeline")
+    logger.info("=" * 60)
+    logger.info(f"Steps: {args.start_step} to {args.end_step}")
     if word_range:
-        print(f"Word range: {word_range[0]} to {word_range[1]}")
+        logger.info(f"Word range: {word_range[0]} to {word_range[1]}")
     if args.resume:
-        print("Mode: Resume from checkpoint")
+        logger.info("Mode: Resume from checkpoint")
     if args.dry_run:
-        print(f"Mode: Dry run ({config.DRY_RUN_LIMIT} words)")
-    print(f"Output: {output_path}")
-    print("=" * 60)
-    print()
+        logger.info(f"Mode: Dry run ({config.DRY_RUN_LIMIT} words)")
+    logger.info(f"Output: {output_path}")
+    logger.info("=" * 60)
 
     try:
         # Step 1: Word Selection
         if args.start_step <= 1 <= args.end_step:
             run_step1()
-            print()
 
         # Step 2: Word Enrichment
         if args.start_step <= 2 <= args.end_step:
             run_step2(word_range=word_range, resume=args.resume, dry_run=args.dry_run)
-            print()
 
         # Step 3: LLM Example Generation
         if args.start_step <= 3 <= args.end_step:
@@ -125,19 +126,18 @@ Examples:
                 resume=args.resume,
                 dry_run=args.dry_run,
             )
-            print()
 
-        print("=" * 60)
-        print("Pipeline completed successfully!")
-        print("=" * 60)
+        logger.info("=" * 60)
+        logger.info("Pipeline completed successfully!")
+        logger.info("=" * 60)
 
     except KeyboardInterrupt:
-        print("\n\nPipeline interrupted by user.")
-        print("Progress has been saved. Use --resume to continue.")
+        logger.warning("Pipeline interrupted by user.")
+        logger.info("Progress has been saved. Use --resume to continue.")
         sys.exit(1)
     except Exception as e:
-        print(f"\nError: {e}")
-        print("Progress has been saved. Use --resume to continue.")
+        logger.error(f"Pipeline error: {e}", exc_info=True)
+        logger.info("Progress has been saved. Use --resume to continue.")
         sys.exit(1)
 
 

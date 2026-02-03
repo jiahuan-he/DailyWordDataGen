@@ -13,6 +13,7 @@ from src.models import EnrichedWord, SelectedWord
 from src.dictionary_client import lookup_word, WordNotFoundError, DictionaryLookupError
 from src.checkpoint import CheckpointManager
 from src.step1_selection import load_selected_words
+from src.logger import get_logger
 
 
 def load_enriched_words(path: Path = config.ENRICHED_WORDS_JSON) -> list[EnrichedWord]:
@@ -100,10 +101,12 @@ async def enrich_words_async(
         ]
 
     if not words_to_process:
-        print("  No words to process (all already completed)")
+        logger = get_logger()
+        logger.info("  No words to process (all already completed)")
         return [enriched_dict[sw.word] for sw in filtered_words if sw.word in enriched_dict]
 
-    print(f"  Processing {len(words_to_process)} words...")
+    logger = get_logger()
+    logger.info(f"  Processing {len(words_to_process)} words...")
 
     async with httpx.AsyncClient() as client:
         # Use semaphore for rate limiting (2 concurrent requests to avoid 429)
@@ -155,17 +158,18 @@ def run_step2(
     Returns:
         List of enriched words
     """
-    print("Step 2: Enriching words with dictionary data...")
+    logger = get_logger()
+    logger.info("Step 2: Enriching words with dictionary data...")
 
     # Load selected words
     selected_words = load_selected_words()
-    print(f"  Loaded {len(selected_words)} selected words")
+    logger.info(f"  Loaded {len(selected_words)} selected words")
 
     # Apply dry run limit (process first N words by row order)
     if dry_run and word_range is None:
         # For dry run, just take first N words
         selected_words = selected_words[:config.DRY_RUN_LIMIT]
-        print(f"  Dry run: processing {len(selected_words)} words")
+        logger.info(f"  Dry run: processing {len(selected_words)} words")
 
     # Initialize checkpoint
     checkpoint = CheckpointManager(config.STEP2_CHECKPOINT)
@@ -177,13 +181,13 @@ def run_step2(
 
     # Save results
     save_enriched_words(enriched)
-    print(f"  Saved {len(enriched)} enriched words to: {config.ENRICHED_WORDS_JSON}")
+    logger.info(f"  Saved {len(enriched)} enriched words to: {config.ENRICHED_WORDS_JSON}")
 
     # Report statistics
     with_phonetic = sum(1 for w in enriched if w.phonetic)
     with_pos = sum(1 for w in enriched if w.pos)
-    print(f"  Words with phonetic: {with_phonetic}/{len(enriched)}")
-    print(f"  Words with POS: {with_pos}/{len(enriched)}")
+    logger.info(f"  Words with phonetic: {with_phonetic}/{len(enriched)}")
+    logger.info(f"  Words with POS: {with_pos}/{len(enriched)}")
 
     return enriched
 

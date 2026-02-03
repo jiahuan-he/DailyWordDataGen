@@ -6,11 +6,15 @@ Processes all words organized by frequency range (e.g., 1-100, 101-200, etc.).
 
 import csv
 import glob
+import json
 import shutil
 import subprocess
 import sys
 import time
+from datetime import datetime
 from pathlib import Path
+
+from src.logger import setup_logger
 
 # Configuration
 BATCH_SIZE = 100  # Frequency range per batch
@@ -22,11 +26,11 @@ CHECKPOINTS_DIR = Path("checkpoints")
 SELECTED_WORDS_CSV = DATA_DIR / "selected_words.csv"
 
 
-def clear_checkpoints():
+def clear_checkpoints(logger):
     """Clear checkpoint files to ensure fresh processing for each batch."""
     for checkpoint_file in CHECKPOINTS_DIR.glob("*.json"):
         checkpoint_file.unlink()
-        print(f"  Cleared checkpoint: {checkpoint_file.name}")
+        logger.debug(f"Cleared checkpoint: {checkpoint_file.name}")
 
 
 def load_frequency_set() -> set[int]:
@@ -90,25 +94,28 @@ def count_words_in_range(frequencies: set[int], min_freq: int, max_freq: int) ->
     return sum(1 for f in frequencies if min_freq <= f <= max_freq)
 
 
-def run_command(cmd: list[str], description: str) -> bool:
-    """Run a command and return success status."""
-    print(f"  Running: {' '.join(cmd)}")
+def run_command(cmd: list[str], description: str, logger) -> tuple[bool, str]:
+    """Run a command and return success status and output."""
+    logger.info(f"Running: {' '.join(cmd)}")
     try:
         result = subprocess.run(
             cmd,
             check=True,
-            capture_output=False,
+            capture_output=True,
+            text=True,
         )
-        return True
+        logger.debug(f"Command stdout: {result.stdout[-500:] if result.stdout else 'empty'}")
+        return True, result.stdout
     except subprocess.CalledProcessError as e:
-        print(f"  ERROR: {description} failed with return code {e.returncode}")
-        return False
+        logger.error(f"{description} failed with return code {e.returncode}")
+        logger.error(f"Stderr: {e.stderr}")
+        return False, e.stderr
     except Exception as e:
-        print(f"  ERROR: {description} failed: {e}")
-        return False
+        logger.error(f"{description} failed: {e}")
+        return False, str(e)
 
 
-def batch_has_valid_output(batch_folder: Path, expected_word_count: int) -> bool:
+def batch_has_valid_output(batch_folder: Path, expected_word_count: int, logger) -> bool:
     """Check if batch folder already has valid output."""
     json_files = list(batch_folder.glob("final_output_*.json"))
     if not json_files:
@@ -117,24 +124,41 @@ def batch_has_valid_output(batch_folder: Path, expected_word_count: int) -> bool
     # Check if the output file has actual content
     for json_file in json_files:
         try:
-            import json
             with open(json_file, 'r') as f:
                 data = json.load(f)
                 # Consider valid if at least 50% of expected words are present
                 if len(data) >= expected_word_count * 0.5:
+                    logger.debug(f"Found valid output: {json_file} with {len(data)} words")
                     return True
-        except:
-            pass
+                else:
+                    logger.debug(f"Output file {json_file} has only {len(data)} words (expected {expected_word_count})")
+        except Exception as e:
+            logger.warning(f"Error reading {json_file}: {e}")
     return False
 
 
-def process_batch(batch_index: int, frequencies: set[int], words_data: list[tuple[int, int, str]], force: bool = False) -> bool:
+def is_valid_output_file(file_path: Path, min_words: int = 1) -> tuple[bool, int]:
+    """Check if an output file has valid content.
+
+    Returns:
+        Tuple of (is_valid, word_count)
+    """
+    try:
+        with open(file_path, 'r') as f:
+            data = json.load(f)
+            return len(data) >= min_words, len(data)
+    except Exception:
+        return False, 0
+
+
+def process_batch(batch_index: int, frequencies: set[int], words_data: list[tuple[int, int, str]], logger, force: bool = False) -> bool:
     """Process a single batch with retry logic.
 
     Args:
         batch_index: 0-based batch index
         frequencies: Set of all frequencies (for quick count check)
         words_data: List of (row_index, frequency, word) tuples for row range lookup
+        logger: Logger instance
         force: Force reprocessing even if output exists
 
     Returns:
@@ -146,34 +170,34 @@ def process_batch(batch_index: int, frequencies: set[int], words_data: list[tupl
     # Check if any words exist in this frequency range
     word_count = count_words_in_range(frequencies, min_freq, max_freq)
     if word_count == 0:
-        print(f"\n[Batch {batch_index + 1}] {folder_name}: No words in range, skipping")
+        logger.info(f"[Batch {batch_index}] {folder_name}: No words in range, skipping")
         return True
 
     # Check if batch already has valid output (skip if so, unless forced)
-    if not force and batch_has_valid_output(batch_folder, word_count):
-        print(f"\n[Batch {batch_index + 1}] {folder_name}: Already has valid output, skipping")
+    if not force and batch_has_valid_output(batch_folder, word_count, logger):
+        logger.info(f"[Batch {batch_index}] {folder_name}: Already has valid output, skipping")
         return True
 
     # Convert frequency range to row range
     row_range = get_row_range_for_frequency(words_data, min_freq, max_freq)
     if row_range is None:
-        print(f"\n[Batch {batch_index + 1}] {folder_name}: No words in frequency range, skipping")
+        logger.info(f"[Batch {batch_index}] {folder_name}: No words in frequency range, skipping")
         return True
 
     start_row, end_row = row_range
 
-    print(f"\n{'='*60}")
-    print(f"Processing batch {batch_index + 1}: {folder_name} ({word_count} words, rows {start_row}-{end_row})")
-    print(f"{'='*60}")
+    logger.info("=" * 60)
+    logger.info(f"Processing batch {batch_index}: {folder_name} ({word_count} words, rows {start_row}-{end_row})")
+    logger.info("=" * 60)
 
     # Create batch folder
     batch_folder.mkdir(parents=True, exist_ok=True)
 
     # Clear checkpoints before each batch to ensure fresh processing
-    clear_checkpoints()
+    clear_checkpoints(logger)
 
     for attempt in range(1, MAX_RETRIES + 1):
-        print(f"\nAttempt {attempt}/{MAX_RETRIES}")
+        logger.info(f"Attempt {attempt}/{MAX_RETRIES}")
 
         # Step 2: Enrich words in this row range
         step2_cmd = [
@@ -184,10 +208,10 @@ def process_batch(batch_index: int, frequencies: set[int], words_data: list[tupl
         if attempt > 1:
             step2_cmd.append("--resume")
 
-        step2_success = run_command(step2_cmd, "Step 2 (enrichment)")
+        step2_success, step2_output = run_command(step2_cmd, "Step 2 (enrichment)", logger)
 
         if not step2_success:
-            print(f"  Step 2 failed, retrying...")
+            logger.warning(f"Step 2 failed, retrying in 5 seconds...")
             time.sleep(5)
             continue
 
@@ -196,51 +220,87 @@ def process_batch(batch_index: int, frequencies: set[int], words_data: list[tupl
         if attempt > 1:
             step3_cmd.append("--resume")
 
-        step3_success = run_command(step3_cmd, "Step 3 (generation)")
+        step3_success, step3_output = run_command(step3_cmd, "Step 3 (generation)", logger)
 
         if not step3_success:
-            print(f"  Step 3 failed, retrying...")
+            logger.warning(f"Step 3 failed, retrying in 5 seconds...")
             time.sleep(5)
             continue
 
-        # Move output files to batch folder
+        # Move output files to batch folder (only if valid)
         output_files = glob.glob(str(DATA_DIR / "final_output_*.json"))
         if not output_files:
-            print("  WARNING: No output file found!")
+            logger.warning("No output file found!")
             continue
 
+        moved_valid = False
         for output_file in output_files:
-            dest = batch_folder / Path(output_file).name
-            shutil.move(output_file, dest)
-            print(f"  Moved: {output_file} -> {dest}")
+            output_path = Path(output_file)
+            is_valid, file_word_count = is_valid_output_file(output_path, min_words=1)
 
-        print(f"  Batch {folder_name} completed successfully!")
-        return True
+            if is_valid:
+                dest = batch_folder / output_path.name
+                shutil.move(output_file, dest)
+                logger.info(f"Moved: {output_file} -> {dest} ({file_word_count} words)")
+                moved_valid = True
+            else:
+                # Delete empty output files
+                output_path.unlink()
+                logger.warning(f"Deleted empty output file: {output_file}")
 
-    print(f"  FAILED: Batch {folder_name} failed after {MAX_RETRIES} attempts")
+        if moved_valid:
+            logger.info(f"Batch {folder_name} completed successfully!")
+            return True
+        else:
+            logger.warning(f"No valid output produced, retrying...")
+            time.sleep(5)
+            continue
+
+    logger.error(f"FAILED: Batch {folder_name} failed after {MAX_RETRIES} attempts")
     return False
 
 
 def main():
     """Main batch processing loop."""
+    # Parse command line for starting batch and force flag
+    start_batch = 0
+    force = False
+    for arg in sys.argv[1:]:
+        if arg == "--force":
+            force = True
+        else:
+            try:
+                start_batch = int(arg)
+            except ValueError:
+                print(f"Usage: {sys.argv[0]} [start_batch_index] [--force]")
+                sys.exit(1)
+
+    # Set up logging with batch-specific log file
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    log_file = f"batch_from_{start_batch}_{timestamp}.log"
+    logger = setup_logger(name="batch", log_file=log_file)
+
     # Calculate total batches
     total_batches = (MAX_FREQUENCY + BATCH_SIZE - 1) // BATCH_SIZE
 
-    print("=" * 60)
-    print("DailyWord Batch Processing (by Frequency)")
-    print("=" * 60)
-    print(f"Frequency range: 1 to {MAX_FREQUENCY}")
-    print(f"Batch size: {BATCH_SIZE} frequencies per batch")
-    print(f"Total batches: {total_batches}")
-    print(f"Output directory: {FINAL_DATA_DIR}")
+    logger.info("=" * 60)
+    logger.info("DailyWord Batch Processing (by Frequency)")
+    logger.info("=" * 60)
+    logger.info(f"Frequency range: 1 to {MAX_FREQUENCY}")
+    logger.info(f"Batch size: {BATCH_SIZE} frequencies per batch")
+    logger.info(f"Total batches: {total_batches}")
+    logger.info(f"Output directory: {FINAL_DATA_DIR}")
+    logger.info(f"Starting from batch: {start_batch}")
+    if force:
+        logger.info("Force mode: will reprocess all batches")
 
     # Load frequencies to check which ranges have words
-    print("\nLoading word frequencies...")
+    logger.info("Loading word frequencies...")
     frequencies = load_frequency_set()
     words_data = load_words_with_indices()
-    print(f"Total unique frequencies: {len(frequencies)}")
-    print(f"Total words loaded: {len(words_data)}")
-    print("=" * 60)
+    logger.info(f"Total unique frequencies: {len(frequencies)}")
+    logger.info(f"Total words loaded: {len(words_data)}")
+    logger.info("=" * 60)
 
     # Create main output directory
     FINAL_DATA_DIR.mkdir(parents=True, exist_ok=True)
@@ -250,63 +310,63 @@ def main():
     skipped_batches = 0
     processed_batches = 0
 
-    # Parse command line for starting batch and force flag
-    start_batch = 0
-    force = False
-    for arg in sys.argv[1:]:
-        if arg == "--force":
-            force = True
-            print("\nForce mode: will reprocess all batches")
-        else:
-            try:
-                start_batch = int(arg)
-                print(f"\nStarting from batch {start_batch}")
-            except ValueError:
-                print(f"Usage: {sys.argv[0]} [start_batch_index] [--force]")
-                sys.exit(1)
-
     # Process each batch
+    stopped_early = False
+    last_batch_index = start_batch
+
     for batch_index in range(start_batch, total_batches):
-        min_freq, max_freq, _ = get_batch_info(batch_index)
+        last_batch_index = batch_index
+        min_freq, max_freq, folder_name = get_batch_info(batch_index)
         word_count = count_words_in_range(frequencies, min_freq, max_freq)
 
         if word_count == 0:
             skipped_batches += 1
             continue
 
-        success = process_batch(batch_index, frequencies, words_data, force=force)
+        success = process_batch(batch_index, frequencies, words_data, logger, force=force)
         if success:
             processed_batches += 1
         else:
             failed_batches.append(batch_index)
+            # Stop processing immediately on failure
+            logger.error("=" * 60)
+            logger.error(f"STOPPING: Batch {batch_index} ({folder_name}) failed to produce valid output")
+            logger.error("This likely indicates a systemic issue (rate limiting, API errors, etc.)")
+            logger.error(f"To resume from this batch, run: python batch_process.py {batch_index}")
+            logger.error("=" * 60)
+            stopped_early = True
+            break
 
-        # Brief pause between batches
-        time.sleep(2)
+        # Brief pause between batches (increased to 5 seconds to avoid rate limiting)
+        logger.info("Waiting 5 seconds before next batch...")
+        time.sleep(5)
 
     # Summary
-    print("\n" + "=" * 60)
-    print("BATCH PROCESSING COMPLETE")
-    print("=" * 60)
-    print(f"Processed: {processed_batches} batches")
-    print(f"Skipped (empty): {skipped_batches} batches")
-    print(f"Failed: {len(failed_batches)} batches")
+    logger.info("=" * 60)
+    if stopped_early:
+        logger.info("BATCH PROCESSING STOPPED (due to failure)")
+    else:
+        logger.info("BATCH PROCESSING COMPLETE")
+    logger.info("=" * 60)
+    logger.info(f"Processed: {processed_batches} batches")
+    logger.info(f"Skipped (empty): {skipped_batches} batches")
+    logger.info(f"Failed: {len(failed_batches)} batches")
 
     if failed_batches:
-        print(f"\nFailed batches:")
+        logger.warning("Failed batches:")
         for batch_idx in failed_batches:
             _, _, folder_name = get_batch_info(batch_idx)
-            print(f"  - Batch {batch_idx}: {folder_name}")
-        print("\nTo retry failed batches, run:")
-        for batch_idx in failed_batches:
-            print(f"  python batch_process.py {batch_idx}")
+            logger.warning(f"  - Batch {batch_idx}: {folder_name}")
+        logger.info("To resume, run:")
+        logger.info(f"  python batch_process.py {failed_batches[0]}")
     else:
-        print("\nAll batches completed successfully!")
+        logger.info("All batches completed successfully!")
 
     # Verification
-    print("\n" + "-" * 40)
-    print("Verification:")
+    logger.info("-" * 40)
+    logger.info("Verification:")
     folder_count = len(list(FINAL_DATA_DIR.iterdir())) if FINAL_DATA_DIR.exists() else 0
-    print(f"  Output folders created: {folder_count}")
+    logger.info(f"  Output folders created: {folder_count}")
 
     return 0 if not failed_batches else 1
 
