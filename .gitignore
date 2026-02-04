@@ -9,6 +9,7 @@ __pycache__/
 # Data outputs (regenerable)
 data/
 checkpoints/
+logs/
 
 # IDE
 .idea/

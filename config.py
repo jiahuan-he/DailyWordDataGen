@@ -57,7 +57,5 @@ EXAMPLE_STYLES = [
     "News-like",
     "Poetic",
     "Conversational",
-    "Romantic",
-    "Business/Professional",
     "Pop-culture",
 ]
