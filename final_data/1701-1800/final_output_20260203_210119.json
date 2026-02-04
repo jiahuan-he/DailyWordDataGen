@@ -1,0 +1,4476 @@
+[
+  {
+    "word": "anymore",
+    "phonetic": "/ˌæ.niˈmoːɹ/",
+    "pos": [
+      "adverb"
+    ],
+    "selected_pos": "adverb",
+    "definition": "不再；再也不",
+    "examples": [
+      {
+        "sentence": "You don't have to carry the weight of yesterday anymore; today is a fresh start.",
+        "style": "Inspirational",
+        "translation": "你不必再背负昨天的重担；今天是一个全新的开始。",
+        "translated_word": "再",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "When we stop asking why, we don't really live anymore; we merely exist.",
+        "style": "Philosophical",
+        "translation": "当我们不再追问为什么，我们就不再真正地活着；我们只是存在而已。",
+        "translated_word": "不再",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The historic factory will not operate anymore after the company announced its closure yesterday.",
+        "style": "News-like",
+        "translation": "在公司昨日宣布关闭后，这座历史悠久的工厂将不再运营。",
+        "translated_word": "不再",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "The garden doesn't bloom anymore where we once whispered secrets to the moon.",
+        "style": "Poetic",
+        "translation": "在我们曾对月亮低语秘密的地方，花园再也不开花了。",
+        "translated_word": "再也不",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I don't really watch TV anymore; I just scroll through my phone instead.",
+        "style": "Conversational",
+        "translation": "我真的不怎么看电视了；我只是刷手机而已。",
+        "translated_word": "不怎么",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "Nobody uses that filter anymore; it's giving 2020 vibes.",
+        "style": "Pop-culture",
+        "translation": "没人再用那个滤镜了；太2020年的感觉了。",
+        "translated_word": "再",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "propose",
+    "phonetic": "/pɹəˈpəʊz/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "提议；求婚；打算",
+    "examples": [
+      {
+        "sentence": "Have the courage to propose your wildest ideas; they might just change the world.",
+        "style": "Inspirational",
+        "translation": "勇敢地提出你最疯狂的想法吧；它们也许能改变世界。",
+        "translated_word": "提出",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "To propose a question is often more valuable than to answer one.",
+        "style": "Philosophical",
+        "translation": "提出一个问题往往比回答一个问题更有价值。",
+        "translated_word": "提出",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "The committee will propose new regulations to address climate change at next month's summit.",
+        "style": "News-like",
+        "translation": "委员会将在下月峰会上提出应对气候变化的新规定。",
+        "translated_word": "提出",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "The sunset seemed to propose a truce between the day and the coming night.",
+        "style": "Poetic",
+        "translation": "夕阳仿佛在向白昼与即将来临的黑夜提议休战。",
+        "translated_word": "提议",
+        "contextual_fitness": 7,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I wanted to propose we grab dinner, but she was already heading out.",
+        "style": "Conversational",
+        "translation": "我本想提议一起吃晚饭，但她已经准备出门了。",
+        "translated_word": "提议",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "He went viral after he decided to propose at a Taylor Swift concert.",
+        "style": "Pop-culture",
+        "translation": "他在泰勒·斯威夫特演唱会上求婚后迅速走红网络。",
+        "translated_word": "求婚",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 8
+      }
+    ]
+  },
+  {
+    "word": "thinking",
+    "phonetic": "/ˈθɪŋkɪŋ/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "思考；想法；思维",
+    "examples": [
+      {
+        "sentence": "Your thinking shapes your reality, so choose thoughts that empower you to grow.",
+        "style": "Inspirational",
+        "translation": "你的思维塑造你的现实，所以选择那些能赋予你成长力量的想法。",
+        "translated_word": "思维",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "The thinking of one generation becomes the common sense of the next.",
+        "style": "Philosophical",
+        "translation": "一代人的思想会成为下一代人的常识。",
+        "translated_word": "思想",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Experts say this outdated thinking is holding back progress on climate policy.",
+        "style": "News-like",
+        "translation": "专家表示，这种过时的思维正在阻碍气候政策的进展。",
+        "translated_word": "思维",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "Her thinking moved like water: quiet on the surface, deep currents underneath.",
+        "style": "Poetic",
+        "translation": "她的思绪如水流动：表面平静，底下暗流涌动。",
+        "translated_word": "思绪",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "What's your thinking on this? Should we grab dinner or just order in?",
+        "style": "Conversational",
+        "translation": "你怎么想的？我们出去吃还是叫外卖？",
+        "translated_word": "想",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "Main character thinking: convincing yourself the barista remembers your order.",
+        "style": "Pop-culture",
+        "translation": "主角心态：说服自己咖啡师记得你点的东西。",
+        "translated_word": "心态",
+        "contextual_fitness": 7,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "possibly",
+    "phonetic": "/ˈpɒsɪbli/",
+    "pos": [
+      "adverb"
+    ],
+    "selected_pos": "adverb",
+    "definition": "可能；也许；或许",
+    "examples": [
+      {
+        "sentence": "You could possibly be one decision away from changing your entire life.",
+        "style": "Inspirational",
+        "translation": "你可能只差一个决定，就能改变整个人生。",
+        "translated_word": "可能",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 10
+      },
+      {
+        "sentence": "How can we possibly know truth when our senses constantly deceive us?",
+        "style": "Philosophical",
+        "translation": "当我们的感官不断欺骗我们时，我们怎么可能认识真理？",
+        "translated_word": "可能",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The investigation could possibly take several months, officials confirmed today.",
+        "style": "News-like",
+        "translation": "官员今日证实，调查可能需要数月时间。",
+        "translated_word": "可能",
+        "contextual_fitness": 9,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "Could the moon possibly hold secrets in her silver silence?",
+        "style": "Poetic",
+        "translation": "月亮是否可能在她银色的沉默中藏着秘密？",
+        "translated_word": "可能",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Could you possibly help me carry these bags upstairs?",
+        "style": "Conversational",
+        "translation": "你能不能帮我把这些袋子拿上楼？",
+        "translated_word": "能不能",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "This is possibly the most viral video of the year so far.",
+        "style": "Pop-culture",
+        "translation": "这可能是今年到目前为止最火的视频了。",
+        "translated_word": "可能",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "trend",
+    "phonetic": "/tɹɛnd/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "趋势；潮流；动向",
+    "examples": [
+      {
+        "sentence": "Be the one who sets the trend, not the one who follows it blindly.",
+        "style": "Inspirational",
+        "translation": "做引领潮流的人，而不是盲目跟风的人。",
+        "translated_word": "潮流",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Every trend reveals what society values at a particular moment in time.",
+        "style": "Philosophical",
+        "translation": "每一种趋势都揭示了社会在特定时刻所珍视的东西。",
+        "translated_word": "趋势",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "Analysts predict this economic trend will continue well into the next quarter.",
+        "style": "News-like",
+        "translation": "分析师预测这一经济趋势将持续到下一季度。",
+        "translated_word": "趋势",
+        "contextual_fitness": 10,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "Like a river finding its course, the trend of time flows only forward.",
+        "style": "Poetic",
+        "translation": "如河流寻觅其道，时间的潮流只向前奔涌。",
+        "translated_word": "潮流",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Did you notice that vintage clothing is a huge trend right now?",
+        "style": "Conversational",
+        "translation": "你注意到复古服装现在是个大潮流吗？",
+        "translated_word": "潮流",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "That dance move became a viral trend on TikTok overnight.",
+        "style": "Pop-culture",
+        "translation": "那个舞蹈动作一夜之间在TikTok上成了病毒式潮流。",
+        "translated_word": "潮流",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "loan",
+    "phonetic": "/ləʊn/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "贷款；借款",
+    "examples": [
+      {
+        "sentence": "Every loan you take is an investment in your future self; make it count.",
+        "style": "Inspirational",
+        "translation": "你借的每一笔贷款都是对未来自己的投资；要让它有价值。",
+        "translated_word": "贷款",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "A loan is merely time borrowed from tomorrow, and tomorrow always collects its debt.",
+        "style": "Philosophical",
+        "translation": "贷款不过是向明天借来的时间，而明天总会收回它的债。",
+        "translated_word": "贷款",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The central bank announced a new low-interest loan program to support small businesses.",
+        "style": "News-like",
+        "translation": "央行宣布了一项新的低息贷款计划以支持小型企业。",
+        "translated_word": "贷款",
+        "contextual_fitness": 10,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "Her smile was a loan of sunshine on a day heavy with rain.",
+        "style": "Poetic",
+        "translation": "她的微笑是阴雨天里借来的一缕阳光。",
+        "translated_word": "借来的",
+        "contextual_fitness": 6,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I'm still paying off my student loan, so eating out is a rare treat.",
+        "style": "Conversational",
+        "translation": "我还在还学生贷款，所以下馆子是难得的享受。",
+        "translated_word": "贷款",
+        "contextual_fitness": 10,
+        "memorability": 8,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "That influencer took out a huge loan just to flex designer bags on Instagram.",
+        "style": "Pop-culture",
+        "translation": "那个网红借了一大笔贷款，就为了在Instagram上炫耀名牌包。",
+        "translated_word": "贷款",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "currently",
+    "phonetic": "/ˈkʌɹəntli/",
+    "pos": [
+      "adverb"
+    ],
+    "selected_pos": "adverb",
+    "definition": "目前；现在；当前",
+    "examples": [
+      {
+        "sentence": "You are currently writing the story of your life; make every chapter count.",
+        "style": "Inspirational",
+        "translation": "你目前正在书写自己的人生故事；让每一章都有意义。",
+        "translated_word": "目前",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "What we currently believe to be true may one day become a forgotten myth.",
+        "style": "Philosophical",
+        "translation": "我们当前认为是真理的东西，有一天可能会成为被遗忘的神话。",
+        "translated_word": "当前",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The company is currently under investigation for alleged financial misconduct.",
+        "style": "News-like",
+        "translation": "该公司目前正因涉嫌财务违规行为接受调查。",
+        "translated_word": "目前",
+        "contextual_fitness": 10,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "The moon currently hangs low, a silver witness to our fleeting dreams.",
+        "style": "Poetic",
+        "translation": "月亮此刻低悬，是我们短暂梦想的银色见证者。",
+        "translated_word": "此刻",
+        "contextual_fitness": 7,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I'm currently binge-watching that new show everyone's talking about.",
+        "style": "Conversational",
+        "translation": "我现在正在追大家都在聊的那部新剧。",
+        "translated_word": "现在",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "Currently obsessed with this song; it's been on repeat all day.",
+        "style": "Pop-culture",
+        "translation": "目前超迷这首歌；已经单曲循环一整天了。",
+        "translated_word": "目前",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "comfortable",
+    "phonetic": "/ˈkʌm.fə.tə.bəl/",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "selected_pos": "adjective",
+    "definition": "舒适的；舒服的；自在的",
+    "examples": [
+      {
+        "sentence": "Step outside your comfortable zone, for that is where true growth begins.",
+        "style": "Inspirational",
+        "translation": "走出你的舒适区，因为那里才是真正成长开始的地方。",
+        "translated_word": "舒适",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Is a comfortable life the same as a meaningful one?",
+        "style": "Philosophical",
+        "translation": "舒适的生活和有意义的生活是一回事吗？",
+        "translated_word": "舒适的",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The candidate maintains a comfortable lead in the polls with two weeks until the election.",
+        "style": "News-like",
+        "translation": "距离选举还有两周，该候选人在民调中保持着稳定的领先优势。",
+        "translated_word": "稳定的",
+        "contextual_fitness": 8,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "Like a comfortable old sweater, memories of home wrap around my weary soul.",
+        "style": "Poetic",
+        "translation": "如同一件舒适的旧毛衣，家的记忆温柔地包裹着我疲惫的灵魂。",
+        "translated_word": "舒适的",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Make yourself comfortable; I'll grab us some coffee.",
+        "style": "Conversational",
+        "translation": "你先随便坐，我去拿点咖啡。",
+        "translated_word": "随便坐",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "Netflix and a comfortable couch: my weekend plans are sorted.",
+        "style": "Pop-culture",
+        "translation": "奈飞加舒服的沙发：我的周末计划就这么定了。",
+        "translated_word": "舒服的",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "investor",
+    "phonetic": "/ɪnˈvɛstɚ/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "投资者；投资人",
+    "examples": [
+      {
+        "sentence": "Every successful investor was once a beginner who refused to give up on their dreams.",
+        "style": "Inspirational",
+        "translation": "每一位成功的投资者都曾是一个拒绝放弃梦想的初学者。",
+        "translated_word": "投资者",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "The wisest investor knows that patience, not timing, is the true currency of wealth.",
+        "style": "Philosophical",
+        "translation": "最睿智的投资者深知，耐心而非时机才是财富的真正货币。",
+        "translated_word": "投资者",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "A major investor announced plans to acquire a 30% stake in the struggling tech company.",
+        "style": "News-like",
+        "translation": "一位主要投资者宣布计划收购这家陷入困境的科技公司30%的股份。",
+        "translated_word": "投资者",
+        "contextual_fitness": 10,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "Like a gardener of gold, the investor plants seeds in soil unseen, harvesting tomorrow's light.",
+        "style": "Poetic",
+        "translation": "如同黄金的园丁，投资人在无形的土壤中播种，收获明日的光芒。",
+        "translated_word": "投资人",
+        "contextual_fitness": 7,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "My uncle is an investor, so family dinners always turn into stock market debates.",
+        "style": "Conversational",
+        "translation": "我叔叔是个投资者，所以家庭聚餐总是变成股市辩论会。",
+        "translated_word": "投资者",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "She went from posting makeup tutorials to becoming a serious investor in beauty startups.",
+        "style": "Pop-culture",
+        "translation": "她从发布化妆教程起步，成为了美妆初创公司的正式投资人。",
+        "translated_word": "投资人",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "profit",
+    "phonetic": "/ˈpɹɒfɪt/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "利润；收益；盈利",
+    "examples": [
+      {
+        "sentence": "True profit is not measured in dollars, but in the lives you've touched along the way.",
+        "style": "Inspirational",
+        "translation": "真正的收益不是用金钱来衡量的，而是你一路上触动过的生命。",
+        "translated_word": "收益",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 10
+      },
+      {
+        "sentence": "What profit is there in gaining the whole world if you lose yourself in the process?",
+        "style": "Philosophical",
+        "translation": "如果在追逐的过程中迷失了自己，赢得整个世界又有什么益处呢？",
+        "translated_word": "益处",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "The company reported a net profit of $2.3 billion in the third quarter, exceeding analyst expectations.",
+        "style": "News-like",
+        "translation": "该公司第三季度净利润达23亿美元，超出分析师预期。",
+        "translated_word": "利润",
+        "contextual_fitness": 10,
+        "memorability": 5,
+        "emotional_resonance": 3
+      },
+      {
+        "sentence": "The profit of a sunset costs nothing, yet fills the soul with gold.",
+        "style": "Poetic",
+        "translation": "日落的馈赠分文不取，却让灵魂盈满金色。",
+        "translated_word": "馈赠",
+        "contextual_fitness": 6,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "After splitting the profit three ways, we each walked away with about five hundred bucks.",
+        "style": "Conversational",
+        "translation": "把利润三等分后，我们每人拿走了大约五百块。",
+        "translated_word": "利润",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "No cap, side hustles are all about that profit; you gotta stack while you can.",
+        "style": "Pop-culture",
+        "translation": "不骗你，搞副业就是为了赚钱；能攒钱的时候就得攒。",
+        "translated_word": "赚钱",
+        "contextual_fitness": 7,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "crew",
+    "phonetic": null,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "全体船员；机组人员；团队",
+    "examples": [
+      {
+        "sentence": "A great crew doesn't just work together; they lift each other up when the journey gets rough.",
+        "style": "Inspirational",
+        "translation": "一个优秀的团队不仅仅是一起工作，更是在旅途艰难时相互扶持。",
+        "translated_word": "团队",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Is a ship truly a ship without its crew, or merely wood floating on water?",
+        "style": "Philosophical",
+        "translation": "一艘船若没有船员，还能称之为船吗，还是只是漂浮在水上的木头？",
+        "translated_word": "船员",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "The rescue crew worked through the night to locate survivors trapped beneath the rubble.",
+        "style": "News-like",
+        "translation": "救援队彻夜工作，搜寻被困在废墟下的幸存者。",
+        "translated_word": "救援队",
+        "contextual_fitness": 10,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "We are all crew on this pale blue vessel, sailing through the silent cosmos together.",
+        "style": "Poetic",
+        "translation": "我们都是这艘淡蓝色飞船上的船员，一起在寂静的宇宙中航行。",
+        "translated_word": "船员",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I'm heading out with my crew tonight; we're checking out that new ramen place downtown.",
+        "style": "Conversational",
+        "translation": "今晚我要和我的朋友们出去，我们想去市中心那家新开的拉面店看看。",
+        "translated_word": "朋友们",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "She rolled up with her whole crew, and suddenly the party had main character energy.",
+        "style": "Pop-culture",
+        "translation": "她带着整个闺蜜团出现，派对瞬间有了主角光环。",
+        "translated_word": "闺蜜团",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "accident",
+    "phonetic": "/ˈæk.sə.dənt/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "事故；意外；偶然",
+    "examples": [
+      {
+        "sentence": "Every accident in life is a chance to discover strength you never knew you had.",
+        "style": "Inspirational",
+        "translation": "生活中的每一次意外都是发现你从未知晓的内在力量的机会。",
+        "translated_word": "意外",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "There are no accidents in the universe; every collision of atoms follows an ancient pattern.",
+        "style": "Philosophical",
+        "translation": "宇宙中没有偶然；每一次原子的碰撞都遵循着古老的规律。",
+        "translated_word": "偶然",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "A serious car accident on the highway this morning caused traffic delays of up to three hours.",
+        "style": "News-like",
+        "translation": "今晨高速公路上发生一起严重车祸，造成长达三小时的交通延误。",
+        "translated_word": "车祸",
+        "contextual_fitness": 10,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "Love arrived like an accident: sudden rain on a cloudless day, soaking us to the bone.",
+        "style": "Poetic",
+        "translation": "爱情如意外降临：晴空突降骤雨，将我们淋透至骨。",
+        "translated_word": "意外",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Sorry I'm late; I saw an accident on my way here and had to take a detour.",
+        "style": "Conversational",
+        "translation": "抱歉我迟到了，路上看到一起事故，不得不绕道。",
+        "translated_word": "事故",
+        "contextual_fitness": 10,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "My playlist is full of songs I found by accident while scrolling through TikTok at 2 a.m.",
+        "style": "Pop-culture",
+        "translation": "我的歌单里全是凌晨两点刷抖音时偶然发现的歌。",
+        "translated_word": "偶然",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "hearing",
+    "phonetic": "/ˈhiːɹ.ɪŋ/",
+    "pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "听力；听证会；审讯",
+    "examples": [
+      {
+        "sentence": "Protect your hearing now, for it is a gift that lets you experience the music of life.",
+        "style": "Inspirational",
+        "translation": "现在就保护你的听力吧，因为它是让你体验生命之乐的珍贵礼物。",
+        "translated_word": "听力",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Is hearing merely the reception of sound, or is it the beginning of true understanding?",
+        "style": "Philosophical",
+        "translation": "听力仅仅是接收声音，还是真正理解的开端？",
+        "translated_word": "听力",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "The congressional hearing on climate policy attracted protesters from across the nation.",
+        "style": "News-like",
+        "translation": "这场关于气候政策的国会听证会吸引了来自全国各地的抗议者。",
+        "translated_word": "听证会",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "In the quiet forest, my hearing became a bridge between silence and the whispers of ancient trees.",
+        "style": "Poetic",
+        "translation": "在寂静的森林里，我的听觉成为连接沉默与古树低语的桥梁。",
+        "translated_word": "听觉",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "My grandpa's hearing isn't great anymore, so we have to speak up when we visit.",
+        "style": "Conversational",
+        "translation": "我爷爷的听力不太好了，所以我们去看他时得大声说话。",
+        "translated_word": "听力",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "The celebrity's custody hearing became trending news on social media within minutes.",
+        "style": "Pop-culture",
+        "translation": "这位名人的监护权听证会几分钟内就成为社交媒体上的热门新闻。",
+        "translated_word": "听证会",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "traffic",
+    "phonetic": "/ˈtɹæfɪk/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "交通；车流；往来车辆",
+    "examples": [
+      {
+        "sentence": "Don't let the traffic of life slow you down; find your own lane and keep moving forward.",
+        "style": "Inspirational",
+        "translation": "不要让生活中的车流拖慢你的脚步；找到属于自己的车道，继续前行。",
+        "translated_word": "车流",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We spend years stuck in traffic, yet rarely question where we're all rushing to.",
+        "style": "Philosophical",
+        "translation": "我们花费数年时间困在交通拥堵中，却很少质疑我们都在急着去哪里。",
+        "translated_word": "交通拥堵",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Heavy traffic caused major delays on the interstate this morning, affecting thousands of commuters.",
+        "style": "News-like",
+        "translation": "今早严重的交通拥堵导致州际公路大面积延误，影响了数千名通勤者。",
+        "translated_word": "交通拥堵",
+        "contextual_fitness": 10,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "The traffic hums a lullaby of engines, a river of light flowing through the sleeping city.",
+        "style": "Poetic",
+        "translation": "车流哼唱着引擎的摇篮曲，一条光的河流穿过沉睡的城市。",
+        "translated_word": "车流",
+        "contextual_fitness": 7,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Sorry I'm late; the traffic was absolutely insane today.",
+        "style": "Conversational",
+        "translation": "抱歉我迟到了；今天的交通简直疯了。",
+        "translated_word": "交通",
+        "contextual_fitness": 10,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "My TikTok blew up overnight; I wasn't ready for all that traffic on my page.",
+        "style": "Pop-culture",
+        "translation": "我的TikTok一夜爆火；我没准备好应对我主页上那么大的流量。",
+        "translated_word": "流量",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "muscle",
+    "phonetic": "/ˈmʌs.əl/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "肌肉；力量；影响力",
+    "examples": [
+      {
+        "sentence": "Every muscle you build is a testament to the battles you've fought and won.",
+        "style": "Inspirational",
+        "translation": "你练就的每一块肌肉，都是你战斗并胜利的见证。",
+        "translated_word": "肌肉",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "The mind is a muscle that grows stronger not through comfort, but through challenge.",
+        "style": "Philosophical",
+        "translation": "心智是一块肌肉，它不是在舒适中，而是在挑战中变得更强大。",
+        "translated_word": "肌肉",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The tech giant is flexing its financial muscle to acquire smaller competitors.",
+        "style": "News-like",
+        "translation": "这家科技巨头正在动用其财力收购规模较小的竞争对手。",
+        "translated_word": "财力",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "Her words carried the muscle of mountains, quiet yet impossible to move.",
+        "style": "Poetic",
+        "translation": "她的话语有着山峦般的力量，静默却不可撼动。",
+        "translated_word": "力量",
+        "contextual_fitness": 7,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I pulled a muscle in my back moving furniture yesterday; it still hurts.",
+        "style": "Conversational",
+        "translation": "我昨天搬家具拉伤了背部肌肉，现在还疼。",
+        "translated_word": "肌肉",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "That influencer has serious muscle in the beauty industry; brands line up to work with her.",
+        "style": "Pop-culture",
+        "translation": "那位网红在美妆界有很大的影响力，各大品牌都排着队想和她合作。",
+        "translated_word": "影响力",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 5
+      }
+    ]
+  },
+  {
+    "word": "notion",
+    "phonetic": "/ˈnəʊʃən/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "概念；想法；观念",
+    "examples": [
+      {
+        "sentence": "The notion that you can reinvent yourself at any age is the most liberating truth you'll ever embrace.",
+        "style": "Inspirational",
+        "translation": "你可以在任何年龄重塑自己，这个观念是你能拥抱的最具解放性的真理。",
+        "translated_word": "观念",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "If reality is shaped by perception, then every notion we hold becomes a brick in the walls of our world.",
+        "style": "Philosophical",
+        "translation": "如果现实由感知塑造，那么我们持有的每个概念都成为构筑我们世界的一块砖。",
+        "translated_word": "概念",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The administration has rejected the notion that budget cuts will affect public services.",
+        "style": "News-like",
+        "translation": "政府否认了预算削减会影响公共服务的说法。",
+        "translated_word": "说法",
+        "contextual_fitness": 9,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "A notion drifts like a feather on wind, weightless until it lands upon a willing heart.",
+        "style": "Poetic",
+        "translation": "一个想法如羽毛随风飘荡，轻盈无重，直到落入一颗愿意接纳的心。",
+        "translated_word": "想法",
+        "contextual_fitness": 7,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I have no notion what she's talking about; she completely lost me after the first sentence.",
+        "style": "Conversational",
+        "translation": "我完全不知道她在说什么；第一句话之后我就跟不上了。",
+        "translated_word": "不知道",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "Gen Z is challenging the notion that success means climbing the corporate ladder.",
+        "style": "Pop-culture",
+        "translation": "Z世代正在挑战成功就是攀登公司阶梯的观念。",
+        "translated_word": "观念",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "capture",
+    "phonetic": "/ˈkæp.t͡ʃə/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "捕获；俘虏；夺取；拍摄；记录",
+    "examples": [
+      {
+        "sentence": "Every sunrise is an invitation to capture the beauty of a new beginning.",
+        "style": "Inspirational",
+        "translation": "每一次日出都是一份邀请，让我们捕捉新开始的美好。",
+        "translated_word": "捕捉",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We spend our lives trying to capture moments, yet time itself remains forever beyond our grasp.",
+        "style": "Philosophical",
+        "translation": "我们穷尽一生试图捕捉瞬间，然而时间本身却永远在我们的掌控之外。",
+        "translated_word": "捕捉",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Government forces captured the rebel stronghold after a three-week siege.",
+        "style": "News-like",
+        "translation": "政府军在围困三周后攻占了叛军据点。",
+        "translated_word": "攻占",
+        "contextual_fitness": 10,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "The painter's brush captures the fading light, holding twilight hostage on canvas.",
+        "style": "Poetic",
+        "translation": "画家的笔触捕捉渐逝的光芒，将黄昏囚禁在画布之上。",
+        "translated_word": "捕捉",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I tried to capture the perfect selfie, but my cat photobombed every single one.",
+        "style": "Conversational",
+        "translation": "我想拍一张完美的自拍，结果我的猫每张都来抢镜。",
+        "translated_word": "拍",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "This song totally captures that late-night drive vibe when you're in your feels.",
+        "style": "Pop-culture",
+        "translation": "这首歌完全捕捉到了深夜开车时那种沉浸在情绪里的感觉。",
+        "translated_word": "捕捉",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 8
+      }
+    ]
+  },
+  {
+    "word": "prefer",
+    "phonetic": "/pɹɪˈfɜː/",
+    "pos": [
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "更喜欢；偏爱；宁愿",
+    "examples": [
+      {
+        "sentence": "Choose the path you prefer, not the one others expect you to walk.",
+        "style": "Inspirational",
+        "translation": "选择你更喜欢的路，而不是别人期望你走的路。",
+        "translated_word": "更喜欢",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We often prefer the familiar pain over the unfamiliar joy.",
+        "style": "Philosophical",
+        "translation": "我们常常宁愿选择熟悉的痛苦，也不愿接受陌生的快乐。",
+        "translated_word": "宁愿",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Analysts say younger consumers prefer sustainable brands over traditional ones.",
+        "style": "News-like",
+        "translation": "分析人士称，年轻消费者更偏爱可持续品牌而非传统品牌。",
+        "translated_word": "偏爱",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "The moon prefers silence; the stars prefer to sing in clusters.",
+        "style": "Poetic",
+        "translation": "月亮偏爱寂静；星星喜欢成群歌唱。",
+        "translated_word": "偏爱",
+        "contextual_fitness": 7,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I prefer coffee over tea, especially in the morning.",
+        "style": "Conversational",
+        "translation": "比起茶，我更喜欢咖啡，尤其是早上。",
+        "translated_word": "更喜欢",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "Gen Z prefers short videos to long articles; if it's not under a minute, swipe.",
+        "style": "Pop-culture",
+        "translation": "Z世代更喜欢短视频而非长文章；超过一分钟就划走。",
+        "translated_word": "更喜欢",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "chest",
+    "phonetic": "/t͡ʃɛst/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "胸部；胸腔；箱子；柜子",
+    "examples": [
+      {
+        "sentence": "She placed her hand on her chest and felt her heart beating with newfound courage.",
+        "style": "Inspirational",
+        "translation": "她把手放在胸口，感受到心脏因新生的勇气而跳动。",
+        "translated_word": "胸口",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "The chest holds not just organs, but the weight of every breath we dare to take.",
+        "style": "Philosophical",
+        "translation": "胸腔中不仅承载着器官，还承载着我们每一次呼吸的分量。",
+        "translated_word": "胸腔",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The victim suffered severe injuries to the chest and was rushed to the emergency room.",
+        "style": "News-like",
+        "translation": "受害者胸部受重伤，被紧急送往急诊室。",
+        "translated_word": "胸部",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "In the old wooden chest, forgotten letters whispered secrets of a love long gone.",
+        "style": "Poetic",
+        "translation": "在那只老旧的木箱里，被遗忘的信件低语着逝去爱情的秘密。",
+        "translated_word": "木箱",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I've been doing push-ups all week and my chest is so sore I can barely move.",
+        "style": "Conversational",
+        "translation": "我做了一周俯卧撑，胸肌酸得几乎动不了。",
+        "translated_word": "胸肌",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "That new song hits different; it feels like the beat is pounding right in my chest.",
+        "style": "Pop-culture",
+        "translation": "那首新歌感觉不一样；节拍仿佛就在我胸口砰砰作响。",
+        "translated_word": "胸口",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "truly",
+    "phonetic": "/ˈtɹuːli/",
+    "pos": [
+      "adverb"
+    ],
+    "selected_pos": "adverb",
+    "definition": "真正地；确实；真诚地",
+    "examples": [
+      {
+        "sentence": "When you truly believe in yourself, the impossible becomes possible.",
+        "style": "Inspirational",
+        "translation": "当你真正相信自己时，不可能就会变成可能。",
+        "translated_word": "真正",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Can we ever truly know another person, or do we only see reflections of ourselves?",
+        "style": "Philosophical",
+        "translation": "我们真的能了解另一个人吗，还是我们只是看到了自己的投影？",
+        "translated_word": "真的",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Officials say this is a truly unprecedented economic recovery for the region.",
+        "style": "News-like",
+        "translation": "官员们表示，这是该地区确实前所未有的经济复苏。",
+        "translated_word": "确实",
+        "contextual_fitness": 8,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "The stars truly sing at midnight, whispering secrets to the sleeping earth.",
+        "style": "Poetic",
+        "translation": "星星在午夜真正歌唱，向沉睡的大地低语秘密。",
+        "translated_word": "真正",
+        "contextual_fitness": 7,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I truly appreciate you helping me move last weekend; it meant a lot.",
+        "style": "Conversational",
+        "translation": "我真心感谢你上周末帮我搬家，这对我意义重大。",
+        "translated_word": "真心",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "That concert was truly iconic; the videos are all over my feed right now.",
+        "style": "Pop-culture",
+        "translation": "那场演唱会真的太经典了，视频现在刷屏我的动态。",
+        "translated_word": "真的",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "earth",
+    "phonetic": "/ɜːθ/",
+    "pos": [
+      "noun",
+      "proper noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "地球；土地；泥土",
+    "examples": [
+      {
+        "sentence": "We only have one earth, so let's protect it with everything we've got.",
+        "style": "Inspirational",
+        "translation": "我们只有一个地球，所以让我们竭尽全力保护它。",
+        "translated_word": "地球",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "If the earth could speak, what would it say about the way we live?",
+        "style": "Philosophical",
+        "translation": "如果地球会说话，它会如何评价我们的生活方式？",
+        "translated_word": "地球",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Scientists reported that the earth's average temperature rose by 1.2 degrees last year.",
+        "style": "News-like",
+        "translation": "科学家报告称，去年地球平均温度上升了1.2度。",
+        "translated_word": "地球",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "The earth sleeps beneath a blanket of snow, dreaming of spring.",
+        "style": "Poetic",
+        "translation": "大地在雪被下沉睡，梦着春天的到来。",
+        "translated_word": "大地",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I got earth all over my shoes from walking through the garden.",
+        "style": "Conversational",
+        "translation": "我在花园里走了一圈，鞋上沾满了泥土。",
+        "translated_word": "泥土",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "That concert was so good; it felt like the best night on earth.",
+        "style": "Pop-culture",
+        "translation": "那场演唱会太棒了，感觉像是世上最美好的夜晚。",
+        "translated_word": "世上",
+        "contextual_fitness": 7,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "cash",
+    "phonetic": "/kæʃ/",
+    "pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "现金；现款",
+    "examples": [
+      {
+        "sentence": "Your dreams don't require cash; they require courage, persistence, and the belief that you are enough.",
+        "style": "Inspirational",
+        "translation": "你的梦想不需要现金，需要的是勇气、坚持和相信自己足够好。",
+        "translated_word": "现金",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We trade our time for cash, yet time is the one currency we can never earn back.",
+        "style": "Philosophical",
+        "translation": "我们用时间换取现金，但时间是唯一无法赚回的货币。",
+        "translated_word": "现金",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The suspect fled the scene with over fifty thousand dollars in cash, according to police reports.",
+        "style": "News-like",
+        "translation": "据警方报告，嫌疑人携带五万多美元现金逃离现场。",
+        "translated_word": "现金",
+        "contextual_fitness": 10,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "Love is not measured in cash but in the quiet moments we choose to share.",
+        "style": "Poetic",
+        "translation": "爱不以现金衡量，而在于我们选择分享的静谧时光。",
+        "translated_word": "现金",
+        "contextual_fitness": 7,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Sorry, I only have cash on me; do you guys take that here?",
+        "style": "Conversational",
+        "translation": "抱歉，我身上只有现金，你们这儿收吗？",
+        "translated_word": "现金",
+        "contextual_fitness": 10,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "She went viral after posting a video about ditching credit cards and going cash only.",
+        "style": "Pop-culture",
+        "translation": "她发布了一段关于放弃信用卡、只用现金的视频后走红了。",
+        "translated_word": "现金",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "beauty",
+    "phonetic": "/ˈbuːti/",
+    "pos": [
+      "adjective",
+      "interjection",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "美；美丽；美人；美好之处",
+    "examples": [
+      {
+        "sentence": "The beauty of life lies not in never falling, but in rising every time we fall.",
+        "style": "Inspirational",
+        "translation": "生命的美好不在于从不跌倒，而在于每次跌倒后都能重新站起来。",
+        "translated_word": "美好",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 10
+      },
+      {
+        "sentence": "We often seek beauty in distant places, forgetting that it exists in the ordinary moments around us.",
+        "style": "Philosophical",
+        "translation": "我们常常在远方寻找美，却忘了它就存在于身边的平凡时刻中。",
+        "translated_word": "美",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "The natural beauty of the national park attracts over two million visitors annually.",
+        "style": "News-like",
+        "translation": "这座国家公园的自然美景每年吸引超过两百万游客。",
+        "translated_word": "美景",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "She moves through the garden like a whisper, her beauty borrowed from the morning light.",
+        "style": "Poetic",
+        "translation": "她如轻语般穿过花园，她的美丽仿佛借自晨曦。",
+        "translated_word": "美丽",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The beauty of this recipe is that you can make it with whatever's in your fridge.",
+        "style": "Conversational",
+        "translation": "这个食谱的妙处在于你可以用冰箱里现有的任何食材来做。",
+        "translated_word": "妙处",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "That sunset filter really brings out the beauty of your beach photos on Instagram.",
+        "style": "Pop-culture",
+        "translation": "那个日落滤镜真的让你在Instagram上的海滩照片更显美丽。",
+        "translated_word": "美丽",
+        "contextual_fitness": 7,
+        "memorability": 7,
+        "emotional_resonance": 5
+      }
+    ]
+  },
+  {
+    "word": "emergency",
+    "phonetic": "/ɪˈmɝ.dʒən.si/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "紧急情况；突发事件；急症",
+    "examples": [
+      {
+        "sentence": "Every emergency is an invitation to discover strength you never knew you had.",
+        "style": "Inspirational",
+        "translation": "每一次紧急情况都是一份邀请，让你发现自己从未意识到的力量。",
+        "translated_word": "紧急情况",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "In an emergency, we learn who we truly are: the masks fall away and only instinct remains.",
+        "style": "Philosophical",
+        "translation": "在紧急情况下，我们才能认清真正的自己：面具脱落，只剩本能。",
+        "translated_word": "紧急情况",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The governor declared a state of emergency as wildfires spread across three counties.",
+        "style": "News-like",
+        "translation": "随着野火蔓延至三个县，州长宣布进入紧急状态。",
+        "translated_word": "紧急状态",
+        "contextual_fitness": 10,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "Love arrives like an emergency: sudden, breathless, demanding all of you at once.",
+        "style": "Poetic",
+        "translation": "爱如突发事件般降临：突然、令人窒息，瞬间索取你的全部。",
+        "translated_word": "突发事件",
+        "contextual_fitness": 7,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Hey, keep this number saved; call me if there's ever an emergency, okay?",
+        "style": "Conversational",
+        "translation": "嘿，把这个号码存好，要是有紧急情况就打给我，好吗？",
+        "translated_word": "紧急情况",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "My phone battery at 1% is my daily emergency; someone get me a charger!",
+        "style": "Pop-culture",
+        "translation": "手机电量只剩1%是我每天的紧急状况；谁给我找个充电器！",
+        "translated_word": "紧急状况",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "unique",
+    "phonetic": "/juːˈniːk/",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "selected_pos": "adjective",
+    "definition": "独特的；独一无二的；罕见的",
+    "examples": [
+      {
+        "sentence": "Your unique perspective is exactly what the world needs; never be afraid to share it.",
+        "style": "Inspirational",
+        "translation": "你独特的视角正是这个世界所需要的；永远不要害怕分享它。",
+        "translated_word": "独特的",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Every snowflake is unique, yet they all melt into the same ocean of forgotten things.",
+        "style": "Philosophical",
+        "translation": "每一片雪花都是独一无二的，但它们最终都融入同一片被遗忘的海洋。",
+        "translated_word": "独一无二的",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Scientists have discovered a unique species of deep-sea fish that glows in complete darkness.",
+        "style": "News-like",
+        "translation": "科学家发现了一种独特的深海鱼类，能在完全黑暗中发光。",
+        "translated_word": "独特的",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "She wore her scars like unique constellations, mapping the journeys she had survived.",
+        "style": "Poetic",
+        "translation": "她把伤疤当作独特的星座，标记着她所经历的旅程。",
+        "translated_word": "独特的",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I love this café; it has such a unique vibe that you can't find anywhere else.",
+        "style": "Conversational",
+        "translation": "我喜欢这家咖啡馆；它有一种别处找不到的独特氛围。",
+        "translated_word": "独特",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "Her unique fashion sense broke the internet when she showed up in that vintage outfit.",
+        "style": "Pop-culture",
+        "translation": "她穿着那套复古装扮亮相时，她独特的时尚品味瞬间刷爆网络。",
+        "translated_word": "独特的",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "internal",
+    "phonetic": "/ɪnˈtɝnəl/",
+    "pos": [
+      "adjective"
+    ],
+    "selected_pos": "adjective",
+    "definition": "内部的；内在的；体内的",
+    "examples": [
+      {
+        "sentence": "True strength comes from your internal resolve, not from the applause of others.",
+        "style": "Inspirational",
+        "translation": "真正的力量来自你内在的决心，而非他人的掌声。",
+        "translated_word": "内在的",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "The internal world we build shapes how we perceive the external one.",
+        "style": "Philosophical",
+        "translation": "我们构建的内心世界决定了我们如何感知外部世界。",
+        "translated_word": "内心",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The company launched an internal investigation after reports of financial irregularities surfaced.",
+        "style": "News-like",
+        "translation": "在财务违规报告浮出水面后，该公司启动了内部调查。",
+        "translated_word": "内部",
+        "contextual_fitness": 10,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "In the garden of the soul, internal storms water the flowers of wisdom.",
+        "style": "Poetic",
+        "translation": "在心灵的花园里，内心的风暴浇灌着智慧之花。",
+        "translated_word": "内心的",
+        "contextual_fitness": 7,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I'm dealing with some internal conflict about whether to take the job offer.",
+        "style": "Conversational",
+        "translation": "我正在处理一些内心的纠结，不知道该不该接受这份工作。",
+        "translated_word": "内心的",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "Her new album explores internal battles that fans instantly connected with on social media.",
+        "style": "Pop-culture",
+        "translation": "她的新专辑探索了内心的挣扎，粉丝们在社交媒体上立刻产生了共鸣。",
+        "translated_word": "内心的",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "ethnic",
+    "phonetic": "/ˈɛθ.nɪk/",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "selected_pos": "adjective",
+    "definition": "民族的；种族的",
+    "examples": [
+      {
+        "sentence": "Your ethnic heritage is not a limitation; it's a unique strength that colors your journey through life.",
+        "style": "Inspirational",
+        "translation": "你的民族传承不是限制，而是为你的人生旅程增添色彩的独特力量。",
+        "translated_word": "民族",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Are we defined by our ethnic roots, or do we transcend them to become something entirely our own?",
+        "style": "Philosophical",
+        "translation": "我们是由种族根源所定义，还是超越它们成为完全属于自己的存在？",
+        "translated_word": "种族",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The city council approved funding for an ethnic cultural festival celebrating diversity in the downtown district.",
+        "style": "News-like",
+        "translation": "市议会批准拨款在市中心举办一场庆祝多元化的民族文化节。",
+        "translated_word": "民族",
+        "contextual_fitness": 9,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "In the tapestry of humanity, each ethnic thread weaves a pattern no other hand could trace.",
+        "style": "Poetic",
+        "translation": "在人类的织锦中，每一根民族的丝线都编织出无人能复刻的图案。",
+        "translated_word": "民族",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Have you tried that new ethnic restaurant on Fifth Street? The flavors are incredible.",
+        "style": "Conversational",
+        "translation": "你试过第五大街那家新开的民族风味餐厅吗？味道太棒了。",
+        "translated_word": "民族风味",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "Her ethnic jewelry collection went viral on TikTok, inspiring thousands to embrace their cultural roots.",
+        "style": "Pop-culture",
+        "translation": "她的民族风饰品系列在TikTok上爆火，激励了成千上万人拥抱自己的文化根源。",
+        "translated_word": "民族风",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "link",
+    "phonetic": "/lɪŋk/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "联系；纽带；环节",
+    "examples": [
+      {
+        "sentence": "Every challenge you overcome becomes a link in the chain of your personal strength.",
+        "style": "Inspirational",
+        "translation": "你克服的每一个挑战都会成为你个人力量链条中的一环。",
+        "translated_word": "一环",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Memory is the invisible link between who we were and who we are becoming.",
+        "style": "Philosophical",
+        "translation": "记忆是连接过去的自己与正在成为的自己之间的无形纽带。",
+        "translated_word": "纽带",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Investigators have discovered a direct link between the company and offshore tax havens.",
+        "style": "News-like",
+        "translation": "调查人员发现该公司与离岸避税天堂之间存在直接联系。",
+        "translated_word": "联系",
+        "contextual_fitness": 10,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "A single glance can be a link that binds two wandering souls across a crowded room.",
+        "style": "Poetic",
+        "translation": "一个眼神便能成为纽带，将两颗漂泊的灵魂在人群中相连。",
+        "translated_word": "纽带",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Can you send me the link? I want to check out that playlist you mentioned.",
+        "style": "Conversational",
+        "translation": "你能把链接发给我吗？我想看看你说的那个歌单。",
+        "translated_word": "链接",
+        "contextual_fitness": 10,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "The link in her bio had fans rushing to pre-order the surprise album drop.",
+        "style": "Pop-culture",
+        "translation": "她简介里的链接让粉丝们争相预购这张突然发布的专辑。",
+        "translated_word": "链接",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "stress",
+    "phonetic": "/stɹɛs/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "压力；紧张；重音",
+    "examples": [
+      {
+        "sentence": "The stress you feel today is building the strength you'll need tomorrow.",
+        "style": "Inspirational",
+        "translation": "你今天感受到的压力，正在塑造你明天所需的力量。",
+        "translated_word": "压力",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Stress reveals what we truly value; we only worry about things that matter to us.",
+        "style": "Philosophical",
+        "translation": "压力揭示了我们真正珍视的东西；我们只会为在乎的事物担忧。",
+        "translated_word": "压力",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "A new study links chronic workplace stress to increased risk of heart disease.",
+        "style": "News-like",
+        "translation": "一项新研究表明，长期的职场压力与心脏病风险增加有关。",
+        "translated_word": "压力",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "Stress settles like winter fog, quiet and heavy, blurring the edges of joy.",
+        "style": "Poetic",
+        "translation": "压力如冬日的雾霭般沉降，静谧而沉重，模糊了快乐的边缘。",
+        "translated_word": "压力",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I've been under so much stress lately; I really need a vacation.",
+        "style": "Conversational",
+        "translation": "我最近压力太大了，真的需要休个假。",
+        "translated_word": "压力",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "That song perfectly captures the stress of adulting in your twenties.",
+        "style": "Pop-culture",
+        "translation": "那首歌完美地捕捉了二十多岁成年生活的压力。",
+        "translated_word": "压力",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "select",
+    "phonetic": "/sɪˈlɛkt/",
+    "pos": [
+      "adjective",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "选择；挑选；选取",
+    "examples": [
+      {
+        "sentence": "Select the path that scares you a little; that's where your growth awaits.",
+        "style": "Inspirational",
+        "translation": "选择那条让你有点害怕的路，那里有你的成长在等待。",
+        "translated_word": "选择",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We do not select our circumstances, but we select how we respond to them.",
+        "style": "Philosophical",
+        "translation": "我们无法选择自己的处境，但可以选择如何回应它们。",
+        "translated_word": "选择",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The committee will select five finalists from over two hundred applicants next week.",
+        "style": "News-like",
+        "translation": "委员会将于下周从两百多名申请者中选出五名决赛入围者。",
+        "translated_word": "选出",
+        "contextual_fitness": 10,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "Stars select their lovers from the dust, spinning them into constellations of light.",
+        "style": "Poetic",
+        "translation": "星星从尘埃中挑选它们的爱人，将其编织成光的星座。",
+        "translated_word": "挑选",
+        "contextual_fitness": 7,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Just select whatever looks good; I'm not picky about lunch today.",
+        "style": "Conversational",
+        "translation": "随便挑你觉得好吃的吧，我今天午饭不挑。",
+        "translated_word": "挑",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "Fans can now select their favorite idol's photocard through the new app feature.",
+        "style": "Pop-culture",
+        "translation": "粉丝现在可以通过新的应用功能选择自己喜欢的偶像小卡。",
+        "translated_word": "选择",
+        "contextual_fitness": 8,
+        "memorability": 6,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "root",
+    "phonetic": "/ɹuːt/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "根；根源；根本",
+    "examples": [
+      {
+        "sentence": "Never forget your roots, for they are the foundation of everything you will become.",
+        "style": "Inspirational",
+        "translation": "永远不要忘记你的根，因为它们是你未来一切成就的基础。",
+        "translated_word": "根",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "The root of all suffering lies not in pain itself, but in our resistance to it.",
+        "style": "Philosophical",
+        "translation": "所有痛苦的根源不在于痛苦本身，而在于我们对它的抗拒。",
+        "translated_word": "根源",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Investigators are working to identify the root cause of the factory explosion that injured twelve workers.",
+        "style": "News-like",
+        "translation": "调查人员正在努力查明导致十二名工人受伤的工厂爆炸的根本原因。",
+        "translated_word": "根本",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "Like ancient oaks with roots that drink from hidden streams, our souls draw strength from depths unseen.",
+        "style": "Poetic",
+        "translation": "如同古老的橡树，根须汲取隐秘溪流的滋养，我们的灵魂也从无形的深处获得力量。",
+        "translated_word": "根须",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I visited my grandparents' village last summer to reconnect with my roots.",
+        "style": "Conversational",
+        "translation": "去年夏天我去了祖父母的村庄，想重新找回自己的根。",
+        "translated_word": "根",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "Her new album is a return to her country roots, blending folk melodies with modern beats.",
+        "style": "Pop-culture",
+        "translation": "她的新专辑回归了她的乡村音乐根源，将民谣旋律与现代节拍融合在一起。",
+        "translated_word": "根源",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "declare",
+    "phonetic": "/dɪˈkleə/",
+    "pos": [
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "宣布；声明；申报",
+    "examples": [
+      {
+        "sentence": "Today, I declare my independence from fear and step boldly into the life I deserve.",
+        "style": "Inspirational",
+        "translation": "今天，我宣布摆脱恐惧的束缚，勇敢地迈向我应得的生活。",
+        "translated_word": "宣布",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "To declare what you believe is to risk everything, yet silence risks even more.",
+        "style": "Philosophical",
+        "translation": "声明你的信念意味着冒一切风险，但沉默的风险更大。",
+        "translated_word": "声明",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The president is expected to declare a state of emergency following the devastating earthquake.",
+        "style": "News-like",
+        "translation": "预计总统将在毁灭性地震后宣布进入紧急状态。",
+        "translated_word": "宣布",
+        "contextual_fitness": 10,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "The roses declare their love in crimson whispers as dawn breaks over the garden.",
+        "style": "Poetic",
+        "translation": "玫瑰在黎明破晓时用绯红的低语诉说着它们的爱意。",
+        "translated_word": "诉说",
+        "contextual_fitness": 7,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I'm just going to declare bankruptcy on this diet; the pizza won.",
+        "style": "Conversational",
+        "translation": "我要宣告这次节食彻底失败了；披萨赢了。",
+        "translated_word": "宣告",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "She posted a video to declare herself officially team Taylor after the album dropped.",
+        "style": "Pop-culture",
+        "translation": "新专辑发布后，她发了一个视频宣布自己正式加入泰勒阵营。",
+        "translated_word": "宣布",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "appreciate",
+    "phonetic": "/əˈpɹiː.si.eɪt/",
+    "pos": [
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "欣赏；感激；理解",
+    "examples": [
+      {
+        "sentence": "Learn to appreciate the small victories, for they are the stepping stones to greatness.",
+        "style": "Inspirational",
+        "translation": "学会欣赏那些小小的胜利，因为它们是通往伟大的垫脚石。",
+        "translated_word": "欣赏",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We cannot truly appreciate light until we have known darkness.",
+        "style": "Philosophical",
+        "translation": "只有经历过黑暗，我们才能真正理解光明的可贵。",
+        "translated_word": "理解",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Officials said they appreciate the public's patience during the ongoing investigation.",
+        "style": "News-like",
+        "translation": "官员表示，他们感谢公众在调查期间的耐心配合。",
+        "translated_word": "感谢",
+        "contextual_fitness": 9,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "She learned to appreciate the silence between raindrops, where peace quietly blooms.",
+        "style": "Poetic",
+        "translation": "她学会了欣赏雨滴之间的寂静，那里宁静悄然绽放。",
+        "translated_word": "欣赏",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I really appreciate you helping me move last weekend; it meant a lot.",
+        "style": "Conversational",
+        "translation": "我真的很感激你上周末帮我搬家，这对我意义重大。",
+        "translated_word": "感激",
+        "contextual_fitness": 10,
+        "memorability": 7,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "Can we just appreciate how iconic this outfit is? Total main character energy!",
+        "style": "Pop-culture",
+        "translation": "我们能不能好好欣赏一下这套穿搭有多经典？完全是主角气场！",
+        "translated_word": "欣赏",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "actual",
+    "phonetic": "/ˈak(t)ʃj(ʊ)əl/",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "selected_pos": "adjective",
+    "definition": "实际的；真实的；真正的",
+    "examples": [
+      {
+        "sentence": "Your actual potential is far greater than the doubts whispering in your mind.",
+        "style": "Inspirational",
+        "translation": "你真正的潜力远比你心中的疑虑要大得多。",
+        "translated_word": "真正的",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We spend our lives chasing shadows while the actual treasure lies within ourselves.",
+        "style": "Philosophical",
+        "translation": "我们一生都在追逐幻影，而实际的宝藏就在我们内心。",
+        "translated_word": "实际的",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The actual cost of the project exceeded initial estimates by thirty percent.",
+        "style": "News-like",
+        "translation": "该项目的实际成本超出最初预算百分之三十。",
+        "translated_word": "实际",
+        "contextual_fitness": 10,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "Beyond the painted smile, her actual heart bloomed like a secret garden.",
+        "style": "Poetic",
+        "translation": "在伪装的微笑背后，她真实的心灵如秘密花园般绽放。",
+        "translated_word": "真实的",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Wait, is that your actual hair color or did you dye it?",
+        "style": "Conversational",
+        "translation": "等等，那是你真正的发色还是染的？",
+        "translated_word": "真正的",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "Plot twist: the actual villain was the friend we trusted all along.",
+        "style": "Pop-culture",
+        "translation": "剧情反转：真正的反派竟然是我们一直信任的朋友。",
+        "translated_word": "真正的",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "hardly",
+    "phonetic": "/ˈhɑːdli/",
+    "pos": [
+      "adverb",
+      "interjection"
+    ],
+    "selected_pos": "adverb",
+    "definition": "几乎不；简直不；刚刚",
+    "examples": [
+      {
+        "sentence": "You can hardly fail when you pour your whole heart into something you truly believe in.",
+        "style": "Inspirational",
+        "translation": "当你全心全意投入到真正相信的事情中时，你几乎不可能失败。",
+        "translated_word": "几乎不",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We can hardly know ourselves until we have been tested by life's unexpected trials.",
+        "style": "Philosophical",
+        "translation": "在经历生活的意外考验之前，我们简直不了解自己。",
+        "translated_word": "简直不",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Officials could hardly contain their surprise as the underdog candidate swept the election results.",
+        "style": "News-like",
+        "translation": "当黑马候选人横扫选举结果时，官员们几乎无法掩饰他们的惊讶。",
+        "translated_word": "几乎无法",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "The moon had hardly risen when the first stars began their ancient dance across the sky.",
+        "style": "Poetic",
+        "translation": "月亮刚刚升起，第一批星星便开始了它们在天空中的古老舞蹈。",
+        "translated_word": "刚刚",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I can hardly keep my eyes open; let's just grab coffee and call it a night.",
+        "style": "Conversational",
+        "translation": "我几乎睁不开眼睛了；我们喝杯咖啡就收工吧。",
+        "translated_word": "几乎",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "This song is so good I can hardly stop hitting replay on my playlist.",
+        "style": "Pop-culture",
+        "translation": "这首歌太好听了，我简直停不下来，一直在播放列表里单曲循环。",
+        "translated_word": "简直",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "setting",
+    "phonetic": "/ˈsɛtɪŋ/",
+    "pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "环境；背景；场景",
+    "examples": [
+      {
+        "sentence": "The right setting can transform an ordinary moment into a life-changing experience.",
+        "style": "Inspirational",
+        "translation": "合适的环境可以将平凡的时刻转化为改变人生的经历。",
+        "translated_word": "环境",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We are shaped not only by our choices but also by the setting in which we make them.",
+        "style": "Philosophical",
+        "translation": "塑造我们的不仅是我们的选择，还有我们做出选择时所处的环境。",
+        "translated_word": "环境",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The historic summit will take place in a rural setting outside Geneva next week.",
+        "style": "News-like",
+        "translation": "这次历史性峰会将于下周在日内瓦郊外的乡村环境中举行。",
+        "translated_word": "环境",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "In this quiet setting of moonlight and mist, even silence learns to sing.",
+        "style": "Poetic",
+        "translation": "在这月光与薄雾交织的静谧场景中，连沉默都学会了歌唱。",
+        "translated_word": "场景",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "This cafe has such a cozy setting; I could stay here all afternoon.",
+        "style": "Conversational",
+        "translation": "这家咖啡馆的环境好温馨，我能在这儿待一整个下午。",
+        "translated_word": "环境",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "The Netflix series is praised for its stunning medieval setting and complex characters.",
+        "style": "Pop-culture",
+        "translation": "这部Netflix剧集因其惊艳的中世纪背景和复杂的角色而广受好评。",
+        "translated_word": "背景",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "launch",
+    "phonetic": "/lɔːnt͡ʃ/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "发射；推出；启动",
+    "examples": [
+      {
+        "sentence": "The courage to launch yourself into the unknown is the first step toward discovering who you truly are.",
+        "style": "Inspirational",
+        "translation": "勇于将自己投入未知，是发现真正自我的第一步。",
+        "translated_word": "投入",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We launch ships into the sea and rockets into space, yet hesitate to launch our own dreams into reality.",
+        "style": "Philosophical",
+        "translation": "我们把船送入大海，把火箭发射到太空，却迟迟不敢将自己的梦想付诸现实。",
+        "translated_word": "发射",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The tech giant announced plans to launch its new AI-powered smartphone in markets across Asia next month.",
+        "style": "News-like",
+        "translation": "这家科技巨头宣布计划下月在亚洲各市场推出其新款人工智能手机。",
+        "translated_word": "推出",
+        "contextual_fitness": 10,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "She watched the birds launch from the cliff's edge, their wings catching the light like scattered prayers.",
+        "style": "Poetic",
+        "translation": "她看着鸟儿从悬崖边缘起飞，翅膀在阳光下闪烁，如同飘散的祈祷。",
+        "translated_word": "起飞",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Hey, did you hear? They're going to launch that new coffee shop right around the corner from us.",
+        "style": "Conversational",
+        "translation": "嘿，你听说了吗？他们要在我们附近开一家新咖啡店。",
+        "translated_word": "开",
+        "contextual_fitness": 7,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "The influencer is about to launch her skincare line and honestly, my wallet is not ready.",
+        "style": "Pop-culture",
+        "translation": "那个网红马上要推出她的护肤品系列了，说实话，我的钱包还没准备好。",
+        "translated_word": "推出",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "file",
+    "phonetic": "/faɪl/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "文件；档案；文件夹",
+    "examples": [
+      {
+        "sentence": "Every file you organize today is a step toward the clarity and peace you deserve tomorrow.",
+        "style": "Inspirational",
+        "translation": "你今天整理的每一份文件，都是通向明天清晰与安宁的一步。",
+        "translated_word": "文件",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "A file holds more than data; it preserves the decisions and dreams of those who created it.",
+        "style": "Philosophical",
+        "translation": "一份档案承载的不仅是数据，还有创建者的决定与梦想。",
+        "translated_word": "档案",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Investigators recovered a classified file linking the company to offshore accounts in three countries.",
+        "style": "News-like",
+        "translation": "调查人员找到了一份机密文件，揭示该公司与三个国家的离岸账户有关联。",
+        "translated_word": "文件",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "Like a file tucked in a forgotten drawer, some memories wait in silence to be found again.",
+        "style": "Poetic",
+        "translation": "如同一份被遗忘在抽屉里的档案，有些记忆静静等待着被重新发现。",
+        "translated_word": "档案",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Can you send me that file? I need it for the meeting in ten minutes.",
+        "style": "Conversational",
+        "translation": "你能把那个文件发给我吗？十分钟后开会我要用。",
+        "translated_word": "文件",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "She accidentally deleted the file and her reaction became the most viral meme of the week.",
+        "style": "Pop-culture",
+        "translation": "她不小心删了文件，她的反应成了本周最火的表情包。",
+        "translated_word": "文件",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "sick",
+    "phonetic": "/sɪk/",
+    "pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "adjective",
+    "definition": "生病的；恶心的；厌烦的",
+    "examples": [
+      {
+        "sentence": "Even when you feel sick and weak, remember that every storm eventually passes and sunshine awaits.",
+        "style": "Inspirational",
+        "translation": "即使当你感到生病和虚弱时，请记住每场风暴终将过去，阳光在等待着你。",
+        "translated_word": "生病",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Is a society truly healthy when its people are sick with loneliness and disconnection?",
+        "style": "Philosophical",
+        "translation": "当人们因孤独和疏离而生病时，这个社会真的健康吗？",
+        "translated_word": "生病",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Health officials urge residents to stay home if they feel sick to prevent further spread of the virus.",
+        "style": "News-like",
+        "translation": "卫生官员敦促居民如果感到不适就待在家中，以防止病毒进一步传播。",
+        "translated_word": "不适",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "The roses in winter stand sick and pale, waiting for spring to restore their bloom.",
+        "style": "Poetic",
+        "translation": "冬日里的玫瑰憔悴苍白，等待春天恢复它们的芬芳。",
+        "translated_word": "憔悴",
+        "contextual_fitness": 7,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I called in sick today because I woke up with a terrible headache and sore throat.",
+        "style": "Conversational",
+        "translation": "我今天请了病假，因为醒来时头疼得厉害，嗓子也疼。",
+        "translated_word": "病假",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "That skateboard trick was absolutely sick; it went viral with ten million views overnight.",
+        "style": "Pop-culture",
+        "translation": "那个滑板技巧太酷了，一夜之间就获得了一千万的浏览量。",
+        "translated_word": "酷",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "outcome",
+    "phonetic": "/ˈaʊtkʌm/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "结果；结局；成果",
+    "examples": [
+      {
+        "sentence": "Every small step you take today shapes the outcome of your tomorrow.",
+        "style": "Inspirational",
+        "translation": "你今天迈出的每一小步都在塑造你明天的结果。",
+        "translated_word": "结果",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "The outcome of our choices reveals who we truly are, not who we wish to be.",
+        "style": "Philosophical",
+        "translation": "我们选择的结局揭示了我们真正是谁，而非我们希望成为谁。",
+        "translated_word": "结局",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Officials are still awaiting the outcome of the investigation before making any public statements.",
+        "style": "News-like",
+        "translation": "官员们仍在等待调查结果，然后才会发表任何公开声明。",
+        "translated_word": "结果",
+        "contextual_fitness": 10,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "Like petals scattered by the wind, the outcome of love remains beautifully uncertain.",
+        "style": "Poetic",
+        "translation": "如同被风吹散的花瓣，爱情的结局依然美丽而不确定。",
+        "translated_word": "结局",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I'm nervous about the outcome of my job interview; they said they'd call by Friday.",
+        "style": "Conversational",
+        "translation": "我很紧张面试的结果；他们说周五之前会打电话通知我。",
+        "translated_word": "结果",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "No spoilers please: I'm still binge-watching and don't want to know the outcome!",
+        "style": "Pop-culture",
+        "translation": "请不要剧透：我还在追剧，不想知道结局！",
+        "translated_word": "结局",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "defend",
+    "phonetic": "/dɪˈfɛnd/",
+    "pos": [
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "保卫；辩护；防守",
+    "examples": [
+      {
+        "sentence": "Defend your dreams fiercely, for no one else will fight for them as hard as you will.",
+        "style": "Inspirational",
+        "translation": "坚定地捍卫你的梦想，因为没有人会比你更努力地为它们而战。",
+        "translated_word": "捍卫",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "To defend one's beliefs is noble, but to question them takes even greater courage.",
+        "style": "Philosophical",
+        "translation": "捍卫自己的信仰是高尚的，但质疑它们需要更大的勇气。",
+        "translated_word": "捍卫",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The attorney will defend her client against charges of corporate fraud in a trial set for next month.",
+        "style": "News-like",
+        "translation": "这位律师将在下个月的审判中为她的客户辩护，对抗公司欺诈指控。",
+        "translated_word": "辩护",
+        "contextual_fitness": 10,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "Like ancient oaks that defend the hill, she stood unwavering against the storm of doubt.",
+        "style": "Poetic",
+        "translation": "如同守护山丘的古老橡树，她在怀疑的风暴中岿然不动。",
+        "translated_word": "守护",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Hey, I'm not trying to defend what he did; I'm just saying we should hear his side.",
+        "style": "Conversational",
+        "translation": "嘿，我不是要为他做的事辩护，我只是说我们应该听听他怎么说。",
+        "translated_word": "辩护",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "Fans quickly jumped online to defend their favorite artist after the controversial interview went viral.",
+        "style": "Pop-culture",
+        "translation": "在那段争议性采访走红后，粉丝们迅速上网为他们最喜欢的艺人辩护。",
+        "translated_word": "辩护",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "duty",
+    "phonetic": "/ˈdjuːti/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "责任；义务；职责",
+    "examples": [
+      {
+        "sentence": "Your duty to yourself is just as important as your duty to others; never forget to nurture your own dreams.",
+        "style": "Inspirational",
+        "translation": "你对自己的责任与对他人的责任同样重要；永远不要忘记滋养自己的梦想。",
+        "translated_word": "责任",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Is duty something we choose, or does it choose us the moment we become aware of suffering?",
+        "style": "Philosophical",
+        "translation": "责任是我们选择的，还是在我们意识到苦难的那一刻它就选择了我们？",
+        "translated_word": "责任",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The firefighters carried out their duty with exceptional bravery during the warehouse blaze yesterday.",
+        "style": "News-like",
+        "translation": "消防员们在昨天的仓库大火中以非凡的勇气履行了他们的职责。",
+        "translated_word": "职责",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "Duty is a quiet river that runs through the heart, carving its path without asking for praise.",
+        "style": "Poetic",
+        "translation": "责任是一条静静流淌在心中的河流，默默开辟道路，从不索求赞美。",
+        "translated_word": "责任",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I can't come to the party tonight; I'm on duty at the hospital until midnight.",
+        "style": "Conversational",
+        "translation": "我今晚不能来参加派对了；我在医院值班到午夜。",
+        "translated_word": "值班",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "When duty calls in a video game, you better answer or your whole squad is going down.",
+        "style": "Pop-culture",
+        "translation": "当游戏中召唤你履行义务时，你最好响应，否则整个小队都会完蛋。",
+        "translated_word": "义务",
+        "contextual_fitness": 7,
+        "memorability": 8,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "sheet",
+    "phonetic": "/ʃiːt/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "床单；薄片；一张",
+    "examples": [
+      {
+        "sentence": "Every morning is a blank sheet waiting for you to write your story.",
+        "style": "Inspirational",
+        "translation": "每个早晨都是一张白纸，等待你书写自己的故事。",
+        "translated_word": "一张白纸",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Life, like a sheet of paper, gains meaning only through the marks we choose to make.",
+        "style": "Philosophical",
+        "translation": "生命如同一张纸，只有通过我们选择留下的印记才获得意义。",
+        "translated_word": "一张纸",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Officials released a fact sheet detailing the new environmental regulations yesterday.",
+        "style": "News-like",
+        "translation": "官员们昨日发布了一份情况说明书，详细介绍了新的环境法规。",
+        "translated_word": "情况说明书",
+        "contextual_fitness": 9,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "The moon cast a silver sheet across the sleeping ocean, soft as a whispered dream.",
+        "style": "Poetic",
+        "translation": "月光在沉睡的海面上铺开一层银色的薄纱，轻柔如低语的梦。",
+        "translated_word": "薄纱",
+        "contextual_fitness": 7,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Can you grab a clean sheet from the closet? I need to change the bed.",
+        "style": "Conversational",
+        "translation": "你能从衣柜里拿一条干净的床单吗？我需要换床单。",
+        "translated_word": "床单",
+        "contextual_fitness": 10,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "Her new single dropped and fans are calling it an absolute banger; streaming numbers are off the sheet.",
+        "style": "Pop-culture",
+        "translation": "她的新单曲发布了，粉丝们都说这首歌超级炸；播放量简直爆表。",
+        "translated_word": "爆表",
+        "contextual_fitness": 6,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "ensure",
+    "phonetic": "/ɪnˈʃɔː/",
+    "pos": [
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "确保；保证；担保",
+    "examples": [
+      {
+        "sentence": "Every small step you take today will ensure a brighter tomorrow for yourself and those you love.",
+        "style": "Inspirational",
+        "translation": "你今天迈出的每一小步都会确保你和你爱的人拥有更光明的明天。",
+        "translated_word": "确保",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Can we ever truly ensure happiness, or is certainty itself an illusion we chase?",
+        "style": "Philosophical",
+        "translation": "我们真的能保证幸福吗，还是确定性本身就是我们追逐的幻觉？",
+        "translated_word": "保证",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Government officials announced new regulations to ensure public safety during the upcoming festival.",
+        "style": "News-like",
+        "translation": "政府官员宣布了新规定，以确保即将到来的节日期间的公共安全。",
+        "translated_word": "确保",
+        "contextual_fitness": 9,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "The lighthouse stands alone against the storm, its steady beam ensuring that wandering ships find their way home.",
+        "style": "Poetic",
+        "translation": "灯塔独自伫立在风暴中，它稳定的光束确保迷途的船只找到回家的路。",
+        "translated_word": "确保",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I always double-check my alarm to ensure I don't oversleep before important meetings.",
+        "style": "Conversational",
+        "translation": "我总是反复检查闹钟，确保在重要会议前不会睡过头。",
+        "translated_word": "确保",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "Fans created a viral hashtag to ensure their favorite artist wins the music award this year.",
+        "style": "Pop-culture",
+        "translation": "粉丝们创建了一个病毒式传播的话题标签，以确保他们最喜欢的艺人今年赢得音乐奖。",
+        "translated_word": "确保",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "ought",
+    "phonetic": null,
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "零钱；少量",
+    "examples": [
+      {
+        "sentence": "Every ought of kindness you give to the world will come back to you tenfold.",
+        "style": "Inspirational",
+        "translation": "你给予世界的每一点善意都将十倍回报于你。",
+        "translated_word": "一点",
+        "contextual_fitness": 6,
+        "memorability": 7,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "In the grand scheme of existence, we are but an ought in the cosmic balance.",
+        "style": "Philosophical",
+        "translation": "在宏大的存在图景中，我们不过是宇宙天平上微不足道的一点。",
+        "translated_word": "微不足道的一点",
+        "contextual_fitness": 5,
+        "memorability": 6,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "The collector paid top dollar, refusing to leave even an ought behind.",
+        "style": "News-like",
+        "translation": "这位收藏家出了高价，连一分零钱都不肯留下。",
+        "translated_word": "一分零钱",
+        "contextual_fitness": 6,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "An ought of starlight fell upon her face, soft as a whispered promise.",
+        "style": "Poetic",
+        "translation": "一缕星光轻落在她脸上，柔和得像低语的誓言。",
+        "translated_word": "一缕",
+        "contextual_fitness": 5,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I don't have an ought to spare; my wallet is completely empty.",
+        "style": "Conversational",
+        "translation": "我一分钱零钱都没有了，钱包完全空了。",
+        "translated_word": "一分钱零钱",
+        "contextual_fitness": 6,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "Started from an ought, now we're here: that's the ultimate glow-up story.",
+        "style": "Pop-culture",
+        "translation": "从一无所有开始，到如今的成就：这就是终极逆袭故事。",
+        "translated_word": "一无所有",
+        "contextual_fitness": 5,
+        "memorability": 7,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "long-term",
+    "phonetic": null,
+    "pos": [
+      "adjective"
+    ],
+    "selected_pos": "adjective",
+    "definition": "长期的；长远的",
+    "examples": [
+      {
+        "sentence": "Every small step you take today is building toward your long-term success.",
+        "style": "Inspirational",
+        "translation": "你今天迈出的每一小步，都在为你的长期成功奠定基础。",
+        "translated_word": "长期",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "True wisdom lies in sacrificing short-term pleasures for long-term fulfillment.",
+        "style": "Philosophical",
+        "translation": "真正的智慧在于为了长远的满足而放弃短期的快乐。",
+        "translated_word": "长远",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The government announced a long-term infrastructure plan worth billions of dollars.",
+        "style": "News-like",
+        "translation": "政府宣布了一项价值数十亿美元的长期基础设施计划。",
+        "translated_word": "长期",
+        "contextual_fitness": 10,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "Like rivers carving canyons, long-term patience shapes the landscape of our dreams.",
+        "style": "Poetic",
+        "translation": "如同河流雕刻峡谷，长久的耐心塑造着我们梦想的版图。",
+        "translated_word": "长久",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We're not just dating; this is a long-term relationship for me.",
+        "style": "Conversational",
+        "translation": "我们不只是在约会；对我来说这是一段长期的感情。",
+        "translated_word": "长期",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "Forget get-rich-quick schemes; real wealth is all about that long-term investing mindset.",
+        "style": "Pop-culture",
+        "translation": "别想一夜暴富的套路了；真正的财富靠的是长期投资的心态。",
+        "translated_word": "长期",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "extremely",
+    "phonetic": "/ɪksˈtɹiːmli/",
+    "pos": [
+      "adverb"
+    ],
+    "selected_pos": "adverb",
+    "definition": "极其；非常；极度",
+    "examples": [
+      {
+        "sentence": "Pushing through when things get extremely difficult is what separates dreamers from achievers.",
+        "style": "Inspirational",
+        "translation": "在事情变得极其困难时坚持下去，这正是空想家和实干家的区别。",
+        "translated_word": "极其",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "What we find extremely important today may seem trivial in the grand scheme of time.",
+        "style": "Philosophical",
+        "translation": "我们今天认为极为重要的事情，在时间的长河中可能显得微不足道。",
+        "translated_word": "极为",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Firefighters worked in extremely hazardous conditions to rescue residents from the burning apartment complex.",
+        "style": "News-like",
+        "translation": "消防员在极其危险的条件下工作，从燃烧的公寓楼中救出居民。",
+        "translated_word": "极其",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "The night was extremely still, as if the stars themselves were holding their breath.",
+        "style": "Poetic",
+        "translation": "夜晚异常寂静，仿佛连星星都屏住了呼吸。",
+        "translated_word": "异常",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I'm extremely sorry for being late; the traffic was absolutely insane this morning.",
+        "style": "Conversational",
+        "translation": "我非常抱歉迟到了；今早的交通简直疯了。",
+        "translated_word": "非常",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "That new song is extremely catchy; I've had it stuck in my head all week.",
+        "style": "Pop-culture",
+        "translation": "那首新歌特别上头；我整整一周都在脑海里循环播放。",
+        "translated_word": "特别",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "extent",
+    "phonetic": "/ɪksˈtɛnt/",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "程度；范围；限度",
+    "examples": [
+      {
+        "sentence": "The extent of your growth depends on the challenges you dare to embrace.",
+        "style": "Inspirational",
+        "translation": "你成长的程度取决于你敢于接受的挑战。",
+        "translated_word": "程度",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We never truly know the extent of our own ignorance until we begin to learn.",
+        "style": "Philosophical",
+        "translation": "我们永远不会真正了解自己无知的程度，直到我们开始学习。",
+        "translated_word": "程度",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Investigators are still assessing the full extent of the damage caused by the earthquake.",
+        "style": "News-like",
+        "translation": "调查人员仍在评估地震造成破坏的全部范围。",
+        "translated_word": "范围",
+        "contextual_fitness": 10,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "The stars reveal the extent of the universe, yet whisper of mysteries still untold.",
+        "style": "Poetic",
+        "translation": "星辰揭示了宇宙的广度，却低语着尚未诉说的秘密。",
+        "translated_word": "广度",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "To some extent, I agree with you, but I think there's more to consider.",
+        "style": "Conversational",
+        "translation": "在某种程度上我同意你的看法，但我觉得还有更多需要考虑的。",
+        "translated_word": "程度",
+        "contextual_fitness": 10,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "Social media shows us the extent of our obsession with likes and followers.",
+        "style": "Pop-culture",
+        "translation": "社交媒体向我们展示了我们对点赞和粉丝痴迷的程度。",
+        "translated_word": "程度",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "mix",
+    "phonetic": "/ˈmɪks/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "混合；搅拌；调配",
+    "examples": [
+      {
+        "sentence": "Mix courage with kindness, and you will create a life worth living.",
+        "style": "Inspirational",
+        "translation": "将勇气与善良混合在一起，你将创造出值得过的人生。",
+        "translated_word": "混合",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We mix our memories with imagination, never quite certain which is which.",
+        "style": "Philosophical",
+        "translation": "我们将记忆与想象混合，从不确定哪个是哪个。",
+        "translated_word": "混合",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Scientists are developing new ways to mix renewable energy sources into the national power grid.",
+        "style": "News-like",
+        "translation": "科学家们正在开发将可再生能源整合进国家电网的新方法。",
+        "translated_word": "整合",
+        "contextual_fitness": 8,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "The evening sky began to mix its colors: rose and gold melting into velvet blue.",
+        "style": "Poetic",
+        "translation": "傍晚的天空开始调和它的色彩：玫瑰色与金色融入丝绒般的蓝。",
+        "translated_word": "调和",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Can you mix the salad dressing while I finish setting the table?",
+        "style": "Conversational",
+        "translation": "你能帮我搅拌沙拉酱吗？我来把桌子摆好。",
+        "translated_word": "搅拌",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "The DJ knows how to mix old school beats with viral TikTok sounds.",
+        "style": "Pop-culture",
+        "translation": "这位DJ知道如何把老派节拍与TikTok热门音效混搭在一起。",
+        "translated_word": "混搭",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "component",
+    "phonetic": "/kʌmˈpoʊnənt/",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "组成部分；成分；元件",
+    "examples": [
+      {
+        "sentence": "Courage is not the absence of fear; it is merely one component of a brave heart.",
+        "style": "Inspirational",
+        "translation": "勇气并非没有恐惧，它只是一颗勇敢之心的一个组成部分。",
+        "translated_word": "组成部分",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "If time is a river, is each moment a component or the whole stream itself?",
+        "style": "Philosophical",
+        "translation": "如果时间是一条河流，那么每一刻是它的一个组成部分，还是整条河流本身？",
+        "translated_word": "组成部分",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "A faulty component in the aircraft's engine system led to the emergency landing yesterday.",
+        "style": "News-like",
+        "translation": "飞机发动机系统中一个故障元件导致了昨天的紧急迫降。",
+        "translated_word": "元件",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "Every raindrop is a component of the storm, every tear a piece of the ocean within.",
+        "style": "Poetic",
+        "translation": "每一滴雨都是暴风雨的组成部分，每一滴泪都是内心海洋的碎片。",
+        "translated_word": "组成部分",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I need to buy a new component for my computer; the old graphics card finally died.",
+        "style": "Conversational",
+        "translation": "我需要给电脑买个新元件，旧显卡终于坏了。",
+        "translated_word": "元件",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "Self-care is a key component of the wellness lifestyle trending on TikTok right now.",
+        "style": "Pop-culture",
+        "translation": "自我关爱是当下TikTok上流行的健康生活方式的关键组成部分。",
+        "translated_word": "组成部分",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "contrast",
+    "phonetic": "/ˈkɒntɹɑːst/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "对比；反差；对照",
+    "examples": [
+      {
+        "sentence": "The contrast between who you were and who you've become is the measure of your growth.",
+        "style": "Inspirational",
+        "translation": "你曾经的样子和现在的你之间的反差，正是你成长的见证。",
+        "translated_word": "反差",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "In the contrast between silence and noise, we discover what truly demands our attention.",
+        "style": "Philosophical",
+        "translation": "在寂静与喧嚣的对比中，我们发现了什么才真正值得关注。",
+        "translated_word": "对比",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The stark contrast between the two candidates' policies has dominated this week's headlines.",
+        "style": "News-like",
+        "translation": "两位候选人政策之间的鲜明对比成为本周头条新闻的焦点。",
+        "translated_word": "对比",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "She was a contrast of fire and ice, burning bright yet cold to the touch.",
+        "style": "Poetic",
+        "translation": "她是火与冰的对照，燃烧得明亮却触感冰冷。",
+        "translated_word": "对照",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The contrast between his messy room and his organized desk always cracks me up.",
+        "style": "Conversational",
+        "translation": "他乱糟糟的房间和整整齐齐的书桌之间的反差总让我笑喷。",
+        "translated_word": "反差",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "The contrast between her Instagram feed and real life is giving major plot twist energy.",
+        "style": "Pop-culture",
+        "translation": "她的Instagram动态和现实生活之间的反差简直是大型反转现场。",
+        "translated_word": "反差",
+        "contextual_fitness": 7,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "zone",
+    "phonetic": "/zəʊn/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "区域；地带；范围",
+    "examples": [
+      {
+        "sentence": "Step outside your comfort zone, and you'll discover strengths you never knew you had.",
+        "style": "Inspirational",
+        "translation": "走出你的舒适区，你会发现自己从未意识到的力量。",
+        "translated_word": "舒适区",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "The mind has its own twilight zone where logic fades and intuition takes over.",
+        "style": "Philosophical",
+        "translation": "心灵有自己的灰色地带，在那里逻辑消退，直觉接管。",
+        "translated_word": "地带",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "Authorities have declared the flooded neighborhood a disaster zone, evacuating over 500 residents.",
+        "style": "News-like",
+        "translation": "当局已宣布被洪水淹没的社区为灾区，疏散了500多名居民。",
+        "translated_word": "灾区",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "In that quiet zone between waking and sleep, dreams whisper their secrets to us.",
+        "style": "Poetic",
+        "translation": "在清醒与睡眠之间那片宁静的地带，梦境向我们低语它的秘密。",
+        "translated_word": "地带",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Sorry, I totally zoned out; this no-phone zone at dinner is driving me crazy.",
+        "style": "Conversational",
+        "translation": "抱歉，我完全走神了；晚餐时这个禁用手机区快把我逼疯了。",
+        "translated_word": "区",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "When that beat drops, I'm in the zone; nothing else exists but the music and me.",
+        "style": "Pop-culture",
+        "translation": "当节拍响起，我就进入了状态；除了音乐和我，其他一切都不存在。",
+        "translated_word": "状态",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "wake",
+    "phonetic": "/ˈweɪk/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "醒来；唤醒；意识到",
+    "examples": [
+      {
+        "sentence": "Wake up every morning with the determination to make today better than yesterday.",
+        "style": "Inspirational",
+        "translation": "每天早晨醒来时，都要怀着让今天比昨天更好的决心。",
+        "translated_word": "醒来",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "To truly wake is not to open your eyes, but to see the world with fresh understanding.",
+        "style": "Philosophical",
+        "translation": "真正的觉醒不是睁开双眼，而是以全新的理解看待世界。",
+        "translated_word": "觉醒",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Residents woke to the sound of emergency sirens as floodwaters approached the neighborhood.",
+        "style": "News-like",
+        "translation": "随着洪水逼近社区，居民们在紧急警报声中醒来。",
+        "translated_word": "醒来",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "The garden wakes in spring; each petal unfolds like a sleeper greeting the dawn.",
+        "style": "Poetic",
+        "translation": "花园在春天苏醒；每片花瓣如沉睡者迎接黎明般徐徐展开。",
+        "translated_word": "苏醒",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I usually wake around seven, but on weekends I let myself sleep in.",
+        "style": "Conversational",
+        "translation": "我通常七点左右醒，但周末我会让自己睡个懒觉。",
+        "translated_word": "醒",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "That documentary about climate change will wake you up to what's really happening.",
+        "style": "Pop-culture",
+        "translation": "那部关于气候变化的纪录片会让你意识到正在发生的一切。",
+        "translated_word": "意识到",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "pilot",
+    "phonetic": "/ˈpaɪlət/",
+    "pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "飞行员；领航员",
+    "examples": [
+      {
+        "sentence": "Every pilot was once a dreamer who refused to let fear keep them grounded.",
+        "style": "Inspirational",
+        "translation": "每一位飞行员都曾是一个拒绝让恐惧束缚自己的梦想家。",
+        "translated_word": "飞行员",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 10
+      },
+      {
+        "sentence": "A pilot trusts instruments over instincts, reminding us that truth often defies perception.",
+        "style": "Philosophical",
+        "translation": "飞行员相信仪表而非直觉，这提醒我们真相往往与感知相悖。",
+        "translated_word": "飞行员",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "The pilot safely landed the aircraft after both engines failed over the Atlantic Ocean.",
+        "style": "News-like",
+        "translation": "这名飞行员在大西洋上空双引擎失灵后安全降落了飞机。",
+        "translated_word": "飞行员",
+        "contextual_fitness": 10,
+        "memorability": 8,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "She became the pilot of her own story, steering through clouds of doubt toward sunlit horizons.",
+        "style": "Poetic",
+        "translation": "她成为自己故事的领航员，穿越疑虑的云层驶向阳光普照的地平线。",
+        "translated_word": "领航员",
+        "contextual_fitness": 7,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "My uncle is a pilot, so we always get great travel tips from him.",
+        "style": "Conversational",
+        "translation": "我叔叔是个飞行员，所以我们总能从他那儿得到很棒的旅行建议。",
+        "translated_word": "飞行员",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "That new Netflix series about a fighter pilot has everyone obsessed right now.",
+        "style": "Pop-culture",
+        "translation": "那部关于战斗机飞行员的Netflix新剧现在让所有人都着迷。",
+        "translated_word": "飞行员",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "warn",
+    "phonetic": "/wɔːn/",
+    "pos": [
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "警告；告诫；提醒",
+    "examples": [
+      {
+        "sentence": "Let failure warn you, not define you; every setback is a lesson in disguise.",
+        "style": "Inspirational",
+        "translation": "让失败警告你，而不是定义你；每一次挫折都是伪装的教训。",
+        "translated_word": "警告",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "History does not warn us of the future; it only shows us patterns we choose to ignore.",
+        "style": "Philosophical",
+        "translation": "历史并不告诫我们未来会怎样；它只是展示我们选择忽视的规律。",
+        "translated_word": "告诫",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "Officials warn residents to evacuate immediately as the wildfire approaches the city limits.",
+        "style": "News-like",
+        "translation": "官员警告居民立即撤离，因为野火正在逼近城市边界。",
+        "translated_word": "警告",
+        "contextual_fitness": 10,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "The autumn leaves warn of winter's breath, whispering secrets of the coming cold.",
+        "style": "Poetic",
+        "translation": "秋叶预示着冬天的气息，低语着即将到来的寒冷的秘密。",
+        "translated_word": "预示",
+        "contextual_fitness": 7,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I tried to warn you about that restaurant, but you never listen to me!",
+        "style": "Conversational",
+        "translation": "我试着提醒过你那家餐厅的问题，但你从来不听我的！",
+        "translated_word": "提醒",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "My gut feeling warned me not to trust his vibe; sometimes your intuition just knows.",
+        "style": "Pop-culture",
+        "translation": "我的直觉警告我不要相信他的气场；有时候你的第六感就是知道。",
+        "translated_word": "警告",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "ultimately",
+    "phonetic": "/ˈʌltɪmətli/",
+    "pos": [
+      "adverb"
+    ],
+    "selected_pos": "adverb",
+    "definition": "最终；终究；归根结底",
+    "examples": [
+      {
+        "sentence": "Every setback you face is shaping you into the person you will ultimately become.",
+        "style": "Inspirational",
+        "translation": "你所面对的每一次挫折，都在塑造你最终将成为的那个人。",
+        "translated_word": "最终",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "We spend our lives chasing answers, but ultimately, it is the questions that define us.",
+        "style": "Philosophical",
+        "translation": "我们穷尽一生追寻答案，但归根结底，是问题定义了我们。",
+        "translated_word": "归根结底",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The investigation concluded that the bridge collapse was ultimately caused by structural fatigue.",
+        "style": "News-like",
+        "translation": "调查得出结论，桥梁坍塌最终是由结构疲劳造成的。",
+        "translated_word": "最终",
+        "contextual_fitness": 9,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "The river bends and wanders through the hills, but ultimately finds its way to the sea.",
+        "style": "Poetic",
+        "translation": "河流在山间蜿蜒曲折，但终究会找到通往大海的路。",
+        "translated_word": "终究",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I know we disagree on a lot, but ultimately, we both want the same thing.",
+        "style": "Conversational",
+        "translation": "我知道我们在很多事上有分歧，但说到底，我们想要的是一样的。",
+        "translated_word": "说到底",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "All the drama and online feuds aside, fans ultimately just want good music.",
+        "style": "Pop-culture",
+        "translation": "撇开所有的戏剧性事件和网络骂战，粉丝们终究只是想要好音乐。",
+        "translated_word": "终究",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "contribution",
+    "phonetic": "/ˌkɒntɹɪˈbjuːʃən/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "贡献；捐献；投稿",
+    "examples": [
+      {
+        "sentence": "Your contribution to this world doesn't have to be loud; sometimes the quietest acts leave the deepest marks.",
+        "style": "Inspirational",
+        "translation": "你对这个世界的贡献不必轰轰烈烈；有时最安静的行动留下最深的印记。",
+        "translated_word": "贡献",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Every contribution we make ripples through time, touching lives we may never know.",
+        "style": "Philosophical",
+        "translation": "我们所做的每一份贡献都会在时间中泛起涟漪，触及我们可能永远不会认识的生命。",
+        "translated_word": "贡献",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The scientist's contribution to cancer research earned her the Nobel Prize in Medicine.",
+        "style": "News-like",
+        "translation": "这位科学家对癌症研究的贡献为她赢得了诺贝尔医学奖。",
+        "translated_word": "贡献",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "Her contribution was a single seed, planted in silence, that grew into a forest of hope.",
+        "style": "Poetic",
+        "translation": "她的贡献是一颗默默种下的种子，长成了一片希望的森林。",
+        "translated_word": "贡献",
+        "contextual_fitness": 7,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Thanks for your contribution to the potluck; that pasta salad was amazing!",
+        "style": "Conversational",
+        "translation": "谢谢你为聚餐带来的食物；那份意面沙拉太好吃了！",
+        "translated_word": "食物",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "His contribution to the viral challenge raised over a million dollars for charity.",
+        "style": "Pop-culture",
+        "translation": "他参与这个网络挑战的捐款为慈善机构筹集了超过一百万美元。",
+        "translated_word": "捐款",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "capacity",
+    "phonetic": "/kəˈpæsɪti/",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "容量；能力；容纳量",
+    "examples": [
+      {
+        "sentence": "You have the capacity to achieve greatness; never let anyone tell you otherwise.",
+        "style": "Inspirational",
+        "translation": "你有能力成就伟大，永远不要让任何人告诉你不行。",
+        "translated_word": "能力",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "The capacity for suffering and the capacity for joy are two sides of the same coin.",
+        "style": "Philosophical",
+        "translation": "承受苦难的能力和感受快乐的能力是同一枚硬币的两面。",
+        "translated_word": "能力",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The stadium reached full capacity as thousands gathered for the championship finals.",
+        "style": "News-like",
+        "translation": "数千人聚集观看冠军决赛，体育场座无虚席。",
+        "translated_word": "座无虚席",
+        "contextual_fitness": 8,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "Her heart held a capacity for love as vast and endless as the sea.",
+        "style": "Poetic",
+        "translation": "她的心怀有如大海般广阔无垠的爱的容量。",
+        "translated_word": "容量",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I'd love to help, but honestly, I'm at capacity with work right now.",
+        "style": "Conversational",
+        "translation": "我很想帮忙，但说实话，我现在的工作量已经饱和了。",
+        "translated_word": "饱和",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "Living life at full capacity is the ultimate flex in this hustle culture.",
+        "style": "Pop-culture",
+        "translation": "在这个奋斗文化中，全力以赴地生活才是最酷的炫耀。",
+        "translated_word": "全力以赴",
+        "contextual_fitness": 7,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "estate",
+    "phonetic": "/ɪsˈteɪt/",
+    "pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "房产；地产；庄园；遗产",
+    "examples": [
+      {
+        "sentence": "Building your estate starts with a single wise investment and the courage to dream bigger.",
+        "style": "Inspirational",
+        "translation": "积累你的财产始于一次明智的投资和敢于追求更大梦想的勇气。",
+        "translated_word": "财产",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "What we call an estate is merely borrowed time; we are all temporary custodians of the earth.",
+        "style": "Philosophical",
+        "translation": "我们所说的地产不过是借来的时间；我们都只是大地的临时守护者。",
+        "translated_word": "地产",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The billionaire's estate, valued at over 500 million dollars, will be divided among three charities.",
+        "style": "News-like",
+        "translation": "这位亿万富翁价值超过五亿美元的遗产将分给三家慈善机构。",
+        "translated_word": "遗产",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "The old estate sleeps beneath the oaks, its windows holding centuries of whispered secrets.",
+        "style": "Poetic",
+        "translation": "古老的庄园沉睡在橡树下，窗户里藏着几个世纪的低语秘密。",
+        "translated_word": "庄园",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "My grandparents left a small estate, mostly just the house and some savings.",
+        "style": "Conversational",
+        "translation": "我祖父母留下了一小笔遗产，主要就是房子和一些存款。",
+        "translated_word": "遗产",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "Everyone's obsessed with real estate TikTok now; my whole feed is house tours.",
+        "style": "Pop-culture",
+        "translation": "现在大家都迷上了房地产抖音；我整个推送都是看房视频。",
+        "translated_word": "房地产",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "guide",
+    "phonetic": "/ɡaɪd/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "向导；指南；导游",
+    "examples": [
+      {
+        "sentence": "Let your dreams be your guide, and you will never lose your way in life.",
+        "style": "Inspirational",
+        "translation": "让梦想成为你的向导，你就永远不会在人生中迷失方向。",
+        "translated_word": "向导",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Experience is a silent guide that teaches through failure rather than instruction.",
+        "style": "Philosophical",
+        "translation": "经验是一位沉默的向导，通过失败而非说教来教导我们。",
+        "translated_word": "向导",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The museum has released a new audio guide covering all major exhibitions.",
+        "style": "News-like",
+        "translation": "博物馆发布了一份新的语音导览，涵盖所有主要展览。",
+        "translated_word": "导览",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "The stars were her only guide through the endless desert night.",
+        "style": "Poetic",
+        "translation": "星星是她穿越漫漫沙漠长夜的唯一指引。",
+        "translated_word": "指引",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I bought a travel guide for Japan; it has great restaurant recommendations.",
+        "style": "Conversational",
+        "translation": "我买了一本日本旅行指南，上面有很棒的餐厅推荐。",
+        "translated_word": "指南",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "This TikTok is your ultimate guide to achieving the perfect skincare routine.",
+        "style": "Pop-culture",
+        "translation": "这条TikTok是你实现完美护肤流程的终极指南。",
+        "translated_word": "指南",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "circumstance",
+    "phonetic": "/-æns/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "情况；环境；境遇",
+    "examples": [
+      {
+        "sentence": "Your circumstance does not define your destiny; your response to it does.",
+        "style": "Inspirational",
+        "translation": "你的境遇不能决定你的命运，你对它的回应才能。",
+        "translated_word": "境遇",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 10
+      },
+      {
+        "sentence": "Every circumstance, whether fortunate or tragic, is simply life asking us who we truly are.",
+        "style": "Philosophical",
+        "translation": "每一种境况，无论幸运还是悲惨，都只是生活在询问我们究竟是谁。",
+        "translated_word": "境况",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "The investigation revealed that circumstance, not criminal intent, led to the accident.",
+        "style": "News-like",
+        "translation": "调查显示，这起事故是由客观情况而非犯罪意图导致的。",
+        "translated_word": "情况",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "Like a river shaped by stone, we are carved by circumstance into something beautiful.",
+        "style": "Poetic",
+        "translation": "如同河流被岩石塑造，我们被境遇雕琢成美丽的模样。",
+        "translated_word": "境遇",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Under no circumstance should you text your ex after midnight.",
+        "style": "Conversational",
+        "translation": "无论在什么情况下，你都不应该在午夜后给前任发短信。",
+        "translated_word": "情况",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "Main character energy is thriving no matter the circumstance.",
+        "style": "Pop-culture",
+        "translation": "主角能量就是无论处于什么境况都能活得精彩。",
+        "translated_word": "境况",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "politician",
+    "phonetic": "/ˈpɒl.ɪ.tɪʃ.ən/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "政治家；政客；从政者",
+    "examples": [
+      {
+        "sentence": "A true politician listens to the people and turns their hopes into action.",
+        "style": "Inspirational",
+        "translation": "真正的政治家倾听人民的声音，将他们的希望转化为行动。",
+        "translated_word": "政治家",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Every politician must ask themselves: do I serve power, or do I serve the people?",
+        "style": "Philosophical",
+        "translation": "每个政客都必须扪心自问：我是在服务权力，还是在服务人民？",
+        "translated_word": "政客",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The veteran politician announced her retirement after three decades in public office.",
+        "style": "News-like",
+        "translation": "这位资深政治家在担任公职三十年后宣布退休。",
+        "translated_word": "政治家",
+        "contextual_fitness": 10,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "The politician speaks in silver threads, weaving dreams that shimmer but seldom hold.",
+        "style": "Poetic",
+        "translation": "政客口吐银丝，编织着闪烁却难以成真的梦。",
+        "translated_word": "政客",
+        "contextual_fitness": 7,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "My uncle became a politician, and now every family dinner turns into a debate.",
+        "style": "Conversational",
+        "translation": "我叔叔当了从政者，现在每次家庭聚餐都变成了辩论会。",
+        "translated_word": "从政者",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "That politician's speech went viral; even meme accounts couldn't keep up.",
+        "style": "Pop-culture",
+        "translation": "那位政客的演讲火遍全网，连表情包账号都跟不上节奏。",
+        "translated_word": "政客",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "steal",
+    "phonetic": "/stiːl/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "偷；窃取；悄悄移动",
+    "examples": [
+      {
+        "sentence": "Don't let fear steal your dreams; the courage to begin is often all you need.",
+        "style": "Inspirational",
+        "translation": "不要让恐惧偷走你的梦想；开始的勇气往往就是你所需要的一切。",
+        "translated_word": "偷走",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Time does not steal our youth; we simply forget to hold on to it.",
+        "style": "Philosophical",
+        "translation": "时间并没有偷走我们的青春；只是我们忘了紧紧抓住它。",
+        "translated_word": "偷走",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Hackers attempted to steal sensitive data from several government agencies last month.",
+        "style": "News-like",
+        "translation": "黑客上个月试图从多个政府机构窃取敏感数据。",
+        "translated_word": "窃取",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "The autumn wind steals through the window, carrying whispers of forgotten summers.",
+        "style": "Poetic",
+        "translation": "秋风悄悄溜进窗户，带来被遗忘的夏日的低语。",
+        "translated_word": "悄悄溜进",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Someone stole my parking spot right when I was about to pull in!",
+        "style": "Conversational",
+        "translation": "有人在我正要停进去的时候抢走了我的车位！",
+        "translated_word": "抢走",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "She totally stole the show at the concert; everyone was talking about her performance.",
+        "style": "Pop-culture",
+        "translation": "她在演唱会上完全抢尽风头；每个人都在谈论她的表演。",
+        "translated_word": "抢尽风头",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "pursue",
+    "phonetic": "/pəˈʃu/",
+    "pos": [
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "追求；追赶；从事",
+    "examples": [
+      {
+        "sentence": "Never let fear stop you from pursuing the life you were meant to live.",
+        "style": "Inspirational",
+        "translation": "永远不要让恐惧阻止你追求注定属于你的生活。",
+        "translated_word": "追求",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "To pursue happiness is human nature, but defining what happiness means is the real challenge.",
+        "style": "Philosophical",
+        "translation": "追求幸福是人的本性，但定义幸福的含义才是真正的挑战。",
+        "translated_word": "追求",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "Authorities continue to pursue the suspect believed to be responsible for the downtown robbery.",
+        "style": "News-like",
+        "translation": "当局继续追捕涉嫌参与市中心抢劫案的嫌疑人。",
+        "translated_word": "追捕",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "Like moths that pursue the distant flame, we chase what burns us most.",
+        "style": "Poetic",
+        "translation": "如同飞蛾追逐远方的火焰，我们追寻那最灼伤我们的东西。",
+        "translated_word": "追逐",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "I decided to pursue a career in music instead of going to law school.",
+        "style": "Conversational",
+        "translation": "我决定从事音乐事业，而不是去读法学院。",
+        "translated_word": "从事",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "She quit her nine-to-five to pursue her dream of becoming a travel influencer.",
+        "style": "Pop-culture",
+        "translation": "她辞去了朝九晚五的工作，去追求成为旅行博主的梦想。",
+        "translated_word": "追求",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "slip",
+    "phonetic": "/slɪp/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "滑倒；溜走；滑落",
+    "examples": [
+      {
+        "sentence": "Don't let your dreams slip away; hold on tight and keep pushing forward.",
+        "style": "Inspirational",
+        "translation": "不要让你的梦想溜走；紧紧抓住，继续前进。",
+        "translated_word": "溜走",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "Time slips through our fingers like sand, yet we only notice when our hands are empty.",
+        "style": "Philosophical",
+        "translation": "时间像沙子一样从指间滑落，而我们只有在双手空空时才会察觉。",
+        "translated_word": "滑落",
+        "contextual_fitness": 9,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The suspect slipped out of the building before police could secure the exits.",
+        "style": "News-like",
+        "translation": "嫌疑人在警方封锁出口之前溜出了大楼。",
+        "translated_word": "溜出",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "Stars slip behind the clouds, whispering secrets to the silent moon.",
+        "style": "Poetic",
+        "translation": "星星滑入云层之后，向静默的月亮低语着秘密。",
+        "translated_word": "滑入",
+        "contextual_fitness": 7,
+        "memorability": 8,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I almost slipped on the wet floor; someone really needs to put up a sign.",
+        "style": "Conversational",
+        "translation": "我差点在湿地板上滑倒；真该有人立个警示牌。",
+        "translated_word": "滑倒",
+        "contextual_fitness": 10,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "She slipped into the DMs like a pro and now they're dating.",
+        "style": "Pop-culture",
+        "translation": "她像高手一样悄悄滑进私信，现在他们在约会了。",
+        "translated_word": "滑进",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 6
+      }
+    ]
+  },
+  {
+    "word": "percentage",
+    "phonetic": "/pəˈsɛntɪd͡ʒ/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "百分比；百分率；比例",
+    "examples": [
+      {
+        "sentence": "A small percentage of effort every day leads to extraordinary results over time.",
+        "style": "Inspirational",
+        "translation": "每天付出一小部分努力，日积月累就能取得非凡的成果。",
+        "translated_word": "部分",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "What percentage of our choices are truly free, and how many are shaped by circumstance?",
+        "style": "Philosophical",
+        "translation": "我们的选择中有多少比例是真正自由的，又有多少是被环境所塑造的？",
+        "translated_word": "比例",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The unemployment percentage dropped to 3.5%, marking the lowest rate in two decades.",
+        "style": "News-like",
+        "translation": "失业百分比降至3.5%，创下二十年来的最低水平。",
+        "translated_word": "百分比",
+        "contextual_fitness": 10,
+        "memorability": 6,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "Love cannot be measured in percentage points; it flows like rivers without calculation.",
+        "style": "Poetic",
+        "translation": "爱无法用百分比来衡量；它如河流般自然流淌，不需计算。",
+        "translated_word": "百分比",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "What percentage of your paycheck goes to rent? Mine is almost half!",
+        "style": "Conversational",
+        "translation": "你工资的多大比例用来付房租？我的差不多一半！",
+        "translated_word": "比例",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "This song hit different: 100 percentage of my playlist is just this track on repeat.",
+        "style": "Pop-culture",
+        "translation": "这首歌太上头了：我播放列表百分之百都是这首歌单曲循环。",
+        "translated_word": "百分之百",
+        "contextual_fitness": 7,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "funny",
+    "phonetic": "/ˈfʊnɪ/",
+    "pos": [
+      "adjective",
+      "adverb",
+      "noun"
+    ],
+    "selected_pos": "adjective",
+    "definition": "有趣的；滑稽的；可笑的",
+    "examples": [
+      {
+        "sentence": "Life becomes more beautiful when you learn to find something funny in every difficult situation.",
+        "style": "Inspirational",
+        "translation": "当你学会在每个困境中发现有趣的事物时，生活会变得更加美好。",
+        "translated_word": "有趣的",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "What strikes us as funny often reveals the hidden contradictions we pretend not to see.",
+        "style": "Philosophical",
+        "translation": "让我们觉得可笑的事物，往往揭示了我们假装看不见的矛盾。",
+        "translated_word": "可笑的",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "The comedian's funny remarks about modern technology drew widespread applause from the audience.",
+        "style": "News-like",
+        "translation": "这位喜剧演员关于现代科技的滑稽言论赢得了观众的热烈掌声。",
+        "translated_word": "滑稽",
+        "contextual_fitness": 9,
+        "memorability": 6,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "The world wears a funny mask, laughing through tears, dancing through rain.",
+        "style": "Poetic",
+        "translation": "世界戴着一副滑稽的面具，含泪而笑，在雨中起舞。",
+        "translated_word": "滑稽的",
+        "contextual_fitness": 7,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "That's funny; I could have sworn I left my keys on the kitchen table.",
+        "style": "Conversational",
+        "translation": "真奇怪，我明明记得把钥匙放在厨房桌上了。",
+        "translated_word": "奇怪",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 6
+      },
+      {
+        "sentence": "This meme is so funny that I've already sent it to everyone in my group chat.",
+        "style": "Pop-culture",
+        "translation": "这个表情包太搞笑了，我已经发给群里的每个人了。",
+        "translated_word": "搞笑",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 7
+      }
+    ]
+  },
+  {
+    "word": "neither",
+    "phonetic": "/ˈnaɪð.ə(ɹ)/",
+    "pos": [
+      "adverb",
+      "conjunction",
+      "pronoun"
+    ],
+    "selected_pos": "adverb",
+    "definition": "也不；同样不",
+    "examples": [
+      {
+        "sentence": "She didn't give up, and neither should you when chasing your dreams.",
+        "style": "Inspirational",
+        "translation": "她没有放弃，在追逐梦想时你也不应该放弃。",
+        "translated_word": "也不",
+        "contextual_fitness": 9,
+        "memorability": 8,
+        "emotional_resonance": 9
+      },
+      {
+        "sentence": "If truth cannot be found in words, neither can it be found in silence.",
+        "style": "Philosophical",
+        "translation": "如果真理无法在言语中找到，那么在沉默中同样不能找到。",
+        "translated_word": "同样不",
+        "contextual_fitness": 8,
+        "memorability": 8,
+        "emotional_resonance": 7
+      },
+      {
+        "sentence": "The spokesperson declined to comment, and neither did any government officials.",
+        "style": "News-like",
+        "translation": "发言人拒绝置评，政府官员也不愿发表评论。",
+        "translated_word": "也不",
+        "contextual_fitness": 9,
+        "memorability": 5,
+        "emotional_resonance": 4
+      },
+      {
+        "sentence": "The stars did not weep for him, and neither did the cold, indifferent moon.",
+        "style": "Poetic",
+        "translation": "星星没有为他哭泣，冷漠的月亮也不曾流泪。",
+        "translated_word": "也不",
+        "contextual_fitness": 8,
+        "memorability": 9,
+        "emotional_resonance": 8
+      },
+      {
+        "sentence": "I don't really like horror movies, and neither does my sister.",
+        "style": "Conversational",
+        "translation": "我不太喜欢恐怖电影，我姐姐也不喜欢。",
+        "translated_word": "也不",
+        "contextual_fitness": 9,
+        "memorability": 7,
+        "emotional_resonance": 5
+      },
+      {
+        "sentence": "He's not on TikTok, and neither are most of his Gen X friends.",
+        "style": "Pop-culture",
+        "translation": "他不玩TikTok，他大多数X世代的朋友也不玩。",
+        "translated_word": "也不",
+        "contextual_fitness": 8,
+        "memorability": 7,
+        "emotional_resonance": 5
+      }
+    ]
+  }
+]
