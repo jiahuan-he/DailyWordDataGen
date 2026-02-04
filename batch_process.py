@@ -262,18 +262,33 @@ def process_batch(batch_index: int, frequencies: set[int], words_data: list[tupl
 
 def main():
     """Main batch processing loop."""
-    # Parse command line for starting batch and force flag
+    # Parse command line for starting batch, count, and force flag
     start_batch = 0
+    batch_count = None  # None means process all remaining batches
     force = False
-    for arg in sys.argv[1:]:
+    args = sys.argv[1:]
+    i = 0
+    while i < len(args):
+        arg = args[i]
         if arg == "--force":
             force = True
+        elif arg in ("--count", "-n"):
+            if i + 1 >= len(args):
+                print(f"Error: {arg} requires a number")
+                sys.exit(1)
+            try:
+                batch_count = int(args[i + 1])
+                i += 1
+            except ValueError:
+                print(f"Error: {arg} requires a valid number")
+                sys.exit(1)
         else:
             try:
                 start_batch = int(arg)
             except ValueError:
-                print(f"Usage: {sys.argv[0]} [start_batch_index] [--force]")
+                print(f"Usage: {sys.argv[0]} [start_batch_index] [--count N] [--force]")
                 sys.exit(1)
+        i += 1
 
     # Set up logging with batch-specific log file
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -291,6 +306,8 @@ def main():
     logger.info(f"Total batches: {total_batches}")
     logger.info(f"Output directory: {FINAL_DATA_DIR}")
     logger.info(f"Starting from batch: {start_batch}")
+    if batch_count is not None:
+        logger.info(f"Batch count limit: {batch_count}")
     if force:
         logger.info("Force mode: will reprocess all batches")
 
@@ -315,6 +332,11 @@ def main():
     last_batch_index = start_batch
 
     for batch_index in range(start_batch, total_batches):
+        # Check if we've reached the batch count limit
+        if batch_count is not None and processed_batches >= batch_count:
+            logger.info(f"Reached batch count limit ({batch_count}), stopping")
+            break
+
         last_batch_index = batch_index
         min_freq, max_freq, folder_name = get_batch_info(batch_index)
         word_count = count_words_in_range(frequencies, min_freq, max_freq)
@@ -335,6 +357,11 @@ def main():
             logger.error(f"To resume from this batch, run: python batch_process.py {batch_index}")
             logger.error("=" * 60)
             stopped_early = True
+            break
+
+        # Check if we've reached the batch count limit after processing
+        if batch_count is not None and processed_batches >= batch_count:
+            logger.info(f"Completed {batch_count} batch(es), stopping as requested")
             break
 
         # Brief pause between batches (increased to 5 seconds to avoid rate limiting)
