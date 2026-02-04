@@ -10,7 +10,7 @@ Your task:
    - Use short terms (1-3 words each), separated by semicolons
    - Avoid lengthy explanations or descriptions
    - Example: "人质" NOT "人质；被扣押作为要挟筹码的人"
-3. Generate 6 example sentences using the word as the selected part of speech ONLY
+3. Generate 5 example sentences using the word as the selected part of speech ONLY
 4. Translate each sentence to natural Chinese
 5. Identify the Chinese word/phrase that corresponds to "{word}"
 6. Score each example on three dimensions (1-10 scale):
@@ -24,7 +24,6 @@ Styles (one sentence each):
 3. News-like - formal journalism
 4. Poetic - lyrical, metaphorical
 5. Conversational - casual daily speech
-6. Pop-culture - music, social media, trends
 
 Rules:
 - Keep sentences natural and memorable (10-25 words)
@@ -43,7 +42,6 @@ Output as JSON:
     {{"sentence": "...", "style": "Philosophical", "translation": "...", "translated_word": "...", "contextual_fitness": 9, "memorability": 7, "emotional_resonance": 8}},
     {{"sentence": "...", "style": "News-like", "translation": "...", "translated_word": "...", "contextual_fitness": 9, "memorability": 6, "emotional_resonance": 5}},
     {{"sentence": "...", "style": "Poetic", "translation": "...", "translated_word": "...", "contextual_fitness": 7, "memorability": 9, "emotional_resonance": 9}},
-    {{"sentence": "...", "style": "Conversational", "translation": "...", "translated_word": "...", "contextual_fitness": 8, "memorability": 8, "emotional_resonance": 6}},
-    {{"sentence": "...", "style": "Pop-culture", "translation": "...", "translated_word": "...", "contextual_fitness": 6, "memorability": 8, "emotional_resonance": 7}}
+    {{"sentence": "...", "style": "Conversational", "translation": "...", "translated_word": "...", "contextual_fitness": 8, "memorability": 8, "emotional_resonance": 6}}
   ]
 }}
