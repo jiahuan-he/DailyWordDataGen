@@ -1,0 +1,2435 @@
+[
+  {
+    "word": "pitcher",
+    "phonetic": "/ˈpɪtʃə/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "投手；水壶",
+    "examples": [
+      {
+        "sentence": "Every great pitcher knows that failure on the mound is just practice for the victories ahead.",
+        "style": "Inspirational",
+        "translation": "每位伟大的投手都明白，投手丘上的失败只是通往胜利的练习。",
+        "translated_word": "投手"
+      },
+      {
+        "sentence": "The pitcher holds water without knowing thirst, yet serves those who do.",
+        "style": "Philosophical",
+        "translation": "水壶盛水却不知渴，却服务于那些口渴的人。",
+        "translated_word": "水壶"
+      },
+      {
+        "sentence": "Like a pitcher pouring moonlight, she filled the silence with silver dreams.",
+        "style": "Poetic",
+        "translation": "她如同倾倒月光的水壶，用银色的梦填满了寂静。",
+        "translated_word": "水壶"
+      },
+      {
+        "sentence": "The rookie pitcher struck out twelve batters in his major league debut last night.",
+        "style": "News-like",
+        "translation": "这位新秀投手在昨晚的大联盟首秀中三振了十二名击球手。",
+        "translated_word": "投手"
+      }
+    ]
+  },
+  {
+    "word": "retail",
+    "phonetic": "/ˈɹiˌteɪl/",
+    "pos": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "零售；零售业",
+    "examples": [
+      {
+        "sentence": "Starting in retail taught me that every small interaction can build something extraordinary over time.",
+        "style": "Inspirational",
+        "translation": "从零售业起步让我明白，每一次微小的互动都能随着时间积累成非凡的成就。",
+        "translated_word": "零售业"
+      },
+      {
+        "sentence": "Retail reveals the strange truth that we often buy not what we need, but who we wish to become.",
+        "style": "Philosophical",
+        "translation": "零售揭示了一个奇怪的真相：我们购买的往往不是所需之物，而是我们想成为的那个人。",
+        "translated_word": "零售"
+      },
+      {
+        "sentence": "In the cathedral of retail, shelves stand like silent choirs singing hymns of desire.",
+        "style": "Poetic",
+        "translation": "在零售的殿堂里，货架如沉默的唱诗班，吟唱着欲望的赞歌。",
+        "translated_word": "零售"
+      },
+      {
+        "sentence": "The retail sector reported a five percent increase in sales during the holiday season.",
+        "style": "News-like",
+        "translation": "零售行业报告称，假日季销售额增长了百分之五。",
+        "translated_word": "零售行业"
+      }
+    ]
+  },
+  {
+    "word": "march",
+    "phonetic": "/mɑːtʃ/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "行进；前进；游行",
+    "examples": [
+      {
+        "sentence": "No matter how steep the mountain, we must march forward with unwavering determination.",
+        "style": "Inspirational",
+        "translation": "无论山有多陡峭，我们都必须以坚定不移的决心向前行进。",
+        "translated_word": "行进"
+      },
+      {
+        "sentence": "Time marches on indifferently, caring nothing for the monuments we build or the legacies we leave.",
+        "style": "Philosophical",
+        "translation": "时间冷漠地前进，丝毫不在意我们建造的丰碑或留下的遗产。",
+        "translated_word": "前进"
+      },
+      {
+        "sentence": "The seasons march in silent procession, painting the world in ever-changing hues of light.",
+        "style": "Poetic",
+        "translation": "四季在无声的队列中行进，用不断变幻的光影色彩描绘着世界。",
+        "translated_word": "行进"
+      },
+      {
+        "sentence": "Thousands of protesters marched through the city center demanding immediate climate action.",
+        "style": "News-like",
+        "translation": "数千名抗议者在市中心游行，要求立即采取气候行动。",
+        "translated_word": "游行"
+      }
+    ]
+  },
+  {
+    "word": "excuse",
+    "phonetic": null,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "借口；托辞；理由",
+    "examples": [
+      {
+        "sentence": "Stop making excuses and start making progress; your dreams are waiting for you to take action.",
+        "style": "Inspirational",
+        "translation": "别再找借口了，开始行动吧；你的梦想正在等你去实现。",
+        "translated_word": "借口"
+      },
+      {
+        "sentence": "An excuse is merely a story we tell ourselves to avoid facing the truth of our own limitations.",
+        "style": "Philosophical",
+        "translation": "借口不过是我们为了逃避面对自身局限而编造的故事。",
+        "translated_word": "借口"
+      },
+      {
+        "sentence": "Her excuse floated like autumn leaves: beautiful in its fall, yet signaling the end of something.",
+        "style": "Poetic",
+        "translation": "她的托辞如秋叶般飘落：坠落时很美，却预示着某些事物的终结。",
+        "translated_word": "托辞"
+      },
+      {
+        "sentence": "Sorry I'm late; traffic was terrible, but honestly that's just a lame excuse.",
+        "style": "Conversational",
+        "translation": "抱歉我迟到了，交通太糟糕了，但说实话这只是个蹩脚的借口。",
+        "translated_word": "借口"
+      }
+    ]
+  },
+  {
+    "word": "weakness",
+    "phonetic": "/ˈwiːk.nəs/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "弱点；缺点；软肋",
+    "examples": [
+      {
+        "sentence": "Your weakness today can become your greatest strength tomorrow if you have the courage to face it.",
+        "style": "Inspirational",
+        "translation": "如果你有勇气面对，今天的弱点明天可以成为你最大的优势。",
+        "translated_word": "弱点"
+      },
+      {
+        "sentence": "To know your weakness is wisdom; to accept it is peace; to overcome it is growth.",
+        "style": "Philosophical",
+        "translation": "认识自己的弱点是智慧，接受它是平和，克服它是成长。",
+        "translated_word": "弱点"
+      },
+      {
+        "sentence": "Her weakness was a quiet river, hidden beneath the surface, yet shaping everything it touched.",
+        "style": "Poetic",
+        "translation": "她的软肋是一条静谧的河流，隐于表面之下，却塑造着它触及的一切。",
+        "translated_word": "软肋"
+      },
+      {
+        "sentence": "I have a weakness for chocolate cake; I can never say no to a slice.",
+        "style": "Conversational",
+        "translation": "我对巧克力蛋糕毫无抵抗力，每次都没法拒绝来一块。",
+        "translated_word": "毫无抵抗力"
+      }
+    ]
+  },
+  {
+    "word": "classical",
+    "phonetic": "/ˈklæsɪkl̩/",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "selected_pos": "adjective",
+    "definition": "古典的；经典的；传统的",
+    "examples": [
+      {
+        "sentence": "Classical music has the power to elevate your spirit and remind you that beauty is timeless.",
+        "style": "Inspirational",
+        "translation": "古典音乐有力量提升你的精神，并提醒你美是永恒的。",
+        "translated_word": "古典"
+      },
+      {
+        "sentence": "Is classical knowledge a foundation for wisdom, or merely a relic of outdated thinking?",
+        "style": "Philosophical",
+        "translation": "古典知识是智慧的基础，还是仅仅是过时思想的遗迹？",
+        "translated_word": "古典"
+      },
+      {
+        "sentence": "The classical columns stood like silent poets, whispering stories of ages long forgotten.",
+        "style": "Poetic",
+        "translation": "那些古典的立柱如沉默的诗人伫立，低语着早已被遗忘的时代故事。",
+        "translated_word": "古典"
+      },
+      {
+        "sentence": "I've been getting into classical architecture lately; those old buildings have such incredible detail.",
+        "style": "Conversational",
+        "translation": "我最近对古典建筑很感兴趣，那些老建筑的细节真是太精美了。",
+        "translated_word": "古典"
+      }
+    ]
+  },
+  {
+    "word": "estimated",
+    "phonetic": null,
+    "pos": [
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "估计；估算；预计",
+    "examples": [
+      {
+        "sentence": "She estimated her potential and discovered she was capable of far more than she ever imagined.",
+        "style": "Inspirational",
+        "translation": "她估计了自己的潜力，发现自己的能力远超想象。",
+        "translated_word": "估计"
+      },
+      {
+        "sentence": "We estimated the distance to the stars, yet the universe remains beyond our full comprehension.",
+        "style": "Philosophical",
+        "translation": "我们估算了到星星的距离，但宇宙仍然超出我们的完全理解。",
+        "translated_word": "估算"
+      },
+      {
+        "sentence": "The old poet estimated the weight of silence, measuring it in fallen leaves and fading light.",
+        "style": "Poetic",
+        "translation": "老诗人估量着沉默的重量，用落叶和渐逝的光芒来衡量。",
+        "translated_word": "估量"
+      },
+      {
+        "sentence": "Experts estimated the damage from the earthquake at over two billion dollars.",
+        "style": "News-like",
+        "translation": "专家估计地震造成的损失超过二十亿美元。",
+        "translated_word": "估计"
+      }
+    ]
+  },
+  {
+    "word": "unemployment",
+    "phonetic": "/ʌn.ɪmˈplɔɪ.mənt/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "失业；失业状态",
+    "examples": [
+      {
+        "sentence": "Unemployment is not the end of your story; it's the beginning of a new chapter waiting to be written.",
+        "style": "Inspirational",
+        "translation": "失业不是你故事的结局，而是等待书写的新篇章的开始。",
+        "translated_word": "失业"
+      },
+      {
+        "sentence": "In the silence of unemployment, we discover whether our identity was built on what we do or who we are.",
+        "style": "Philosophical",
+        "translation": "在失业的沉寂中，我们才发现自己的身份究竟建立在所做之事还是本真之上。",
+        "translated_word": "失业"
+      },
+      {
+        "sentence": "Unemployment hangs like morning fog over the city, waiting for the sun of opportunity to burn it away.",
+        "style": "Poetic",
+        "translation": "失业如晨雾笼罩城市，等待机遇的阳光将其驱散。",
+        "translated_word": "失业"
+      },
+      {
+        "sentence": "The national unemployment rate fell to 3.8 percent last month, marking a decade low.",
+        "style": "News-like",
+        "translation": "上月全国失业率降至3.8%，创下十年来新低。",
+        "translated_word": "失业率"
+      }
+    ]
+  },
+  {
+    "word": "fold",
+    "phonetic": "/fəʊld/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "折叠；对折；合拢",
+    "examples": [
+      {
+        "sentence": "When life tries to break you, learn to fold with grace and rise stronger.",
+        "style": "Inspirational",
+        "translation": "当生活试图击垮你时，学会优雅地弯折，然后更强大地站起来。",
+        "translated_word": "弯折"
+      },
+      {
+        "sentence": "To fold a paper crane is to understand that transformation requires surrender.",
+        "style": "Philosophical",
+        "translation": "折一只纸鹤，便能领悟：蜕变需要顺从。",
+        "translated_word": "折"
+      },
+      {
+        "sentence": "The evening folds its velvet wings around the weary earth.",
+        "style": "Poetic",
+        "translation": "夜晚将天鹅绒般的羽翼合拢，环抱疲惫的大地。",
+        "translated_word": "合拢"
+      },
+      {
+        "sentence": "Could you help me fold these towels before the guests arrive?",
+        "style": "Conversational",
+        "translation": "客人来之前，你能帮我把这些毛巾叠好吗？",
+        "translated_word": "叠"
+      }
+    ]
+  },
+  {
+    "word": "reverse",
+    "phonetic": "/ɹɪˈvɜːs/",
+    "pos": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "逆转；倒转；颠倒",
+    "examples": [
+      {
+        "sentence": "It's never too late to reverse the course of your life and start fresh.",
+        "style": "Inspirational",
+        "translation": "逆转人生的航向、重新开始永远不会太晚。",
+        "translated_word": "逆转"
+      },
+      {
+        "sentence": "To reverse a decision is not weakness; it is the wisdom to admit when we were wrong.",
+        "style": "Philosophical",
+        "translation": "推翻一个决定并非软弱，而是承认错误的智慧。",
+        "translated_word": "推翻"
+      },
+      {
+        "sentence": "The river cannot reverse its flow, yet the heart can always find its way back home.",
+        "style": "Poetic",
+        "translation": "河流无法倒流，但心灵总能找到回家的路。",
+        "translated_word": "倒流"
+      },
+      {
+        "sentence": "Can you reverse the car a bit? I need more space to get out.",
+        "style": "Conversational",
+        "translation": "你能把车倒一下吗？我需要更多空间出去。",
+        "translated_word": "倒"
+      }
+    ]
+  },
+  {
+    "word": "rumor",
+    "phonetic": "/ˈɹuːmə(ɹ)/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "谣言；传闻；流言",
+    "examples": [
+      {
+        "sentence": "Don't let a rumor define your worth; those who truly know you will never believe the lies.",
+        "style": "Inspirational",
+        "translation": "不要让谣言定义你的价值；真正了解你的人永远不会相信那些谎言。",
+        "translated_word": "谣言"
+      },
+      {
+        "sentence": "A rumor reveals more about the one who spreads it than the one it speaks of.",
+        "style": "Philosophical",
+        "translation": "一则流言更多地揭示了传播者的本性，而非被议论者的真相。",
+        "translated_word": "流言"
+      },
+      {
+        "sentence": "The rumor floated through the town like autumn leaves carried by a restless wind.",
+        "style": "Poetic",
+        "translation": "那则传闻如秋叶般飘过小镇，被不安的风四处吹散。",
+        "translated_word": "传闻"
+      },
+      {
+        "sentence": "I heard a rumor that the coffee shop on Main Street is closing next month.",
+        "style": "Conversational",
+        "translation": "我听到一个传言说主街上那家咖啡店下个月要关门了。",
+        "translated_word": "传言"
+      }
+    ]
+  },
+  {
+    "word": "missing",
+    "phonetic": "/ˈmɪsɪŋ/",
+    "pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "adjective",
+    "definition": "失踪的；缺少的；丢失的",
+    "examples": [
+      {
+        "sentence": "The missing piece of yourself is often found when you stop searching and start believing.",
+        "style": "Inspirational",
+        "translation": "当你停止寻找、开始相信时，往往就能找到自己缺失的那一部分。",
+        "translated_word": "缺失的"
+      },
+      {
+        "sentence": "What is missing from our lives reveals more about us than what we already possess.",
+        "style": "Philosophical",
+        "translation": "生活中缺少的东西，比我们已经拥有的更能揭示我们是谁。",
+        "translated_word": "缺少的"
+      },
+      {
+        "sentence": "Like a missing star in the constellation, her absence rewrote the shape of the night sky.",
+        "style": "Poetic",
+        "translation": "如同星座中消失的一颗星，她的缺席重写了夜空的轮廓。",
+        "translated_word": "消失的"
+      },
+      {
+        "sentence": "Police are asking the public for any information about the missing hiker last seen near the mountain trail.",
+        "style": "News-like",
+        "translation": "警方请求公众提供任何关于这名失踪徒步者的信息，此人最后一次被看到是在山间小道附近。",
+        "translated_word": "失踪"
+      }
+    ]
+  },
+  {
+    "word": "flash",
+    "phonetic": "/flæʃ/",
+    "pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "闪光；闪现；一瞬间",
+    "examples": [
+      {
+        "sentence": "In a flash of insight, she realized that every setback was simply a stepping stone to her dreams.",
+        "style": "Inspirational",
+        "translation": "在灵感闪现的一瞬间，她意识到每一次挫折都只是通往梦想的垫脚石。",
+        "translated_word": "闪现"
+      },
+      {
+        "sentence": "Life is but a flash between two eternities: the darkness before birth and the silence after death.",
+        "style": "Philosophical",
+        "translation": "生命不过是两片永恒之间的一道闪光：出生前的黑暗与死后的寂静。",
+        "translated_word": "闪光"
+      },
+      {
+        "sentence": "The firefly's flash was a whispered secret, written in light upon the velvet night.",
+        "style": "Poetic",
+        "translation": "萤火虫的闪光是一个轻声低语的秘密，用光芒书写在丝绒般的夜幕上。",
+        "translated_word": "闪光"
+      },
+      {
+        "sentence": "The camera flash startled the celebrity as she stepped out of the limousine.",
+        "style": "News-like",
+        "translation": "当这位名人走出豪华轿车时，相机的闪光灯让她吃了一惊。",
+        "translated_word": "闪光灯"
+      }
+    ]
+  },
+  {
+    "word": "humanity",
+    "phonetic": "/hjuˈmænɪti/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "人类；人性；人道",
+    "examples": [
+      {
+        "sentence": "Even in the darkest times, humanity's capacity for kindness and compassion shines through.",
+        "style": "Inspirational",
+        "translation": "即使在最黑暗的时刻，人类善良和同情的能力依然闪耀。",
+        "translated_word": "人类"
+      },
+      {
+        "sentence": "What separates humanity from other species is not intelligence alone, but our awareness of mortality.",
+        "style": "Philosophical",
+        "translation": "将人类与其他物种区分开的不仅是智慧，还有我们对死亡的意识。",
+        "translated_word": "人类"
+      },
+      {
+        "sentence": "In every child's laughter, I hear the ancient song of humanity echoing through time.",
+        "style": "Poetic",
+        "translation": "在每个孩子的笑声中，我听到人性的古老歌谣穿越时空回响。",
+        "translated_word": "人性"
+      },
+      {
+        "sentence": "The charity has provided humanitarian aid to millions, restoring faith in humanity worldwide.",
+        "style": "News-like",
+        "translation": "该慈善机构已向数百万人提供人道主义援助，恢复了全世界对人道的信心。",
+        "translated_word": "人道"
+      }
+    ]
+  },
+  {
+    "word": "correlation",
+    "phonetic": "/kɒɹəˈleɪʃən/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "相关性；关联",
+    "examples": [
+      {
+        "sentence": "There is a strong correlation between hard work and success; your efforts today shape your tomorrow.",
+        "style": "Inspirational",
+        "translation": "努力与成功之间有着强烈的相关性；你今天的付出塑造着你的明天。",
+        "translated_word": "相关性"
+      },
+      {
+        "sentence": "The correlation between knowledge and wisdom is not as straightforward as we often assume.",
+        "style": "Philosophical",
+        "translation": "知识与智慧之间的关联并不像我们通常以为的那样简单直接。",
+        "translated_word": "关联"
+      },
+      {
+        "sentence": "In the garden of memory, there blooms a quiet correlation between rain and tears.",
+        "style": "Poetic",
+        "translation": "在记忆的花园里，雨水与泪水之间悄然绽放着某种关联。",
+        "translated_word": "关联"
+      },
+      {
+        "sentence": "Scientists have found a significant correlation between sleep quality and mental health outcomes.",
+        "style": "News-like",
+        "translation": "科学家发现睡眠质量与心理健康结果之间存在显著的相关性。",
+        "translated_word": "相关性"
+      }
+    ]
+  },
+  {
+    "word": "developer",
+    "phonetic": "/dɪˈvɛləpə(ɹ)/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "开发者；开发商；研发人员",
+    "examples": [
+      {
+        "sentence": "Every great developer was once a beginner who refused to give up on their dreams.",
+        "style": "Inspirational",
+        "translation": "每一位伟大的开发者都曾是一个拒绝放弃梦想的初学者。",
+        "translated_word": "开发者"
+      },
+      {
+        "sentence": "The developer creates worlds that never existed, yet shape the reality we live in.",
+        "style": "Philosophical",
+        "translation": "开发者创造了从未存在过的世界，却塑造了我们所生活的现实。",
+        "translated_word": "开发者"
+      },
+      {
+        "sentence": "Like a silent architect of dreams, the developer weaves code into cathedrals of light.",
+        "style": "Poetic",
+        "translation": "如同梦想的无声建筑师，开发者将代码编织成光之殿堂。",
+        "translated_word": "开发者"
+      },
+      {
+        "sentence": "The developer fixed the bug in ten minutes and saved us hours of frustration.",
+        "style": "Conversational",
+        "translation": "那个开发者十分钟就修好了这个漏洞，省了我们好几个小时的烦恼。",
+        "translated_word": "开发者"
+      }
+    ]
+  },
+  {
+    "word": "reliable",
+    "phonetic": "/ɹɪˈlaɪəbəl/",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "selected_pos": "adjective",
+    "definition": "可靠的；可信赖的；稳定的",
+    "examples": [
+      {
+        "sentence": "A reliable friend is worth more than a thousand fair-weather companions on your journey to success.",
+        "style": "Inspirational",
+        "translation": "在通往成功的路上，一个可靠的朋友胜过千百个酒肉之交。",
+        "translated_word": "可靠的"
+      },
+      {
+        "sentence": "Is anything truly reliable, or do we simply choose to trust patterns that have not yet failed us?",
+        "style": "Philosophical",
+        "translation": "世间真有什么是完全可信赖的吗，还是我们只是选择相信那些尚未让我们失望的规律？",
+        "translated_word": "可信赖的"
+      },
+      {
+        "sentence": "Like the North Star, reliable and constant, her love guided him through the darkest nights.",
+        "style": "Poetic",
+        "translation": "她的爱如北极星般稳定恒久，指引他穿越最黑暗的长夜。",
+        "translated_word": "稳定"
+      },
+      {
+        "sentence": "Hey, do you know a reliable mechanic? My car's been making weird noises lately.",
+        "style": "Conversational",
+        "translation": "嘿，你认识靠谱的修车师傅吗？我的车最近老是发出奇怪的声音。",
+        "translated_word": "靠谱的"
+      }
+    ]
+  },
+  {
+    "word": "excitement",
+    "phonetic": "/ɪkˈsaɪtmənt/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "兴奋；激动；刺激",
+    "examples": [
+      {
+        "sentence": "The excitement of chasing your dreams is what makes the journey worth every sacrifice.",
+        "style": "Inspirational",
+        "translation": "追逐梦想的兴奋感让旅途中的每一份牺牲都变得值得。",
+        "translated_word": "兴奋"
+      },
+      {
+        "sentence": "True excitement lies not in the destination, but in the anticipation of what might unfold.",
+        "style": "Philosophical",
+        "translation": "真正的激动不在于目的地，而在于对未知可能的期待。",
+        "translated_word": "激动"
+      },
+      {
+        "sentence": "Her excitement bloomed like spring flowers, coloring the gray world with vivid hues of hope.",
+        "style": "Poetic",
+        "translation": "她的兴奋如春花般绽放，为灰暗的世界染上希望的鲜艳色彩。",
+        "translated_word": "兴奋"
+      },
+      {
+        "sentence": "There's so much excitement in the air; I can't wait for the concert tonight!",
+        "style": "Conversational",
+        "translation": "气氛太让人激动了，我已经迫不及待想去今晚的演唱会了！",
+        "translated_word": "激动"
+      }
+    ]
+  },
+  {
+    "word": "architecture",
+    "phonetic": "/ˈɑː.kɪ.ˌtɛk.tʃə/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "建筑学；建筑风格；架构",
+    "examples": [
+      {
+        "sentence": "The architecture of your dreams becomes real when you lay the first brick of action.",
+        "style": "Inspirational",
+        "translation": "当你付诸行动的第一步时，梦想的架构就会变成现实。",
+        "translated_word": "架构"
+      },
+      {
+        "sentence": "Architecture reveals what a civilization values: permanence or progress, beauty or function.",
+        "style": "Philosophical",
+        "translation": "建筑揭示了一个文明所珍视的东西：永恒还是进步，美感还是功能。",
+        "translated_word": "建筑"
+      },
+      {
+        "sentence": "The ancient architecture stood like frozen music, its columns singing hymns of stone.",
+        "style": "Poetic",
+        "translation": "古老的建筑宛如凝固的音乐，石柱吟唱着岩石的赞歌。",
+        "translated_word": "建筑"
+      },
+      {
+        "sentence": "The city unveiled a new museum, showcasing innovative architecture that blends tradition with modernity.",
+        "style": "News-like",
+        "translation": "该市揭幕了一座新博物馆，展示了融合传统与现代的创新建筑风格。",
+        "translated_word": "建筑风格"
+      }
+    ]
+  },
+  {
+    "word": "administrative",
+    "phonetic": "/ədˈmɪ.nɪs.tɹəˌtɪv/",
+    "pos": [
+      "adjective"
+    ],
+    "selected_pos": "adjective",
+    "definition": "行政的；管理的；行政管理的",
+    "examples": [
+      {
+        "sentence": "Every administrative challenge you overcome builds the foundation for greater leadership.",
+        "style": "Inspirational",
+        "translation": "你克服的每一个行政挑战都为更卓越的领导力奠定基础。",
+        "translated_word": "行政"
+      },
+      {
+        "sentence": "Administrative systems reveal how societies choose to organize power and responsibility.",
+        "style": "Philosophical",
+        "translation": "行政系统揭示了社会如何选择组织权力与责任。",
+        "translated_word": "行政"
+      },
+      {
+        "sentence": "Behind the administrative curtain, a thousand silent hands keep the world in motion.",
+        "style": "Poetic",
+        "translation": "在行政的帷幕之后，千万双无声的手让世界持续运转。",
+        "translated_word": "行政"
+      },
+      {
+        "sentence": "The company announced major administrative changes to streamline its operations.",
+        "style": "News-like",
+        "translation": "该公司宣布进行重大行政调整以精简运营。",
+        "translated_word": "行政"
+      }
+    ]
+  },
+  {
+    "word": "occasional",
+    "phonetic": "/əˈkeɪʒ(ə)nəl/",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "selected_pos": "adjective",
+    "definition": "偶尔的；偶然的；临时的",
+    "examples": [
+      {
+        "sentence": "Occasional setbacks are not roadblocks; they are stepping stones that build your resilience.",
+        "style": "Inspirational",
+        "translation": "偶尔的挫折不是绊脚石，而是磨练你意志的垫脚石。",
+        "translated_word": "偶尔的"
+      },
+      {
+        "sentence": "The occasional silence between words often speaks louder than the words themselves.",
+        "style": "Philosophical",
+        "translation": "言语之间偶然的沉默，往往比言语本身更有力量。",
+        "translated_word": "偶然的"
+      },
+      {
+        "sentence": "Like occasional stars breaking through the clouds, hope finds its way into the darkest nights.",
+        "style": "Poetic",
+        "translation": "如同偶尔穿透云层的星光，希望总能照进最黑暗的夜晚。",
+        "translated_word": "偶尔"
+      },
+      {
+        "sentence": "I enjoy the occasional cup of coffee with my neighbor; it's become our little tradition.",
+        "style": "Conversational",
+        "translation": "我喜欢偶尔和邻居喝杯咖啡，这已经成了我们的小传统。",
+        "translated_word": "偶尔"
+      }
+    ]
+  },
+  {
+    "word": "deadly",
+    "phonetic": "/ˈdɛd.li/",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "selected_pos": "adjective",
+    "definition": "致命的；极度的；非常的",
+    "examples": [
+      {
+        "sentence": "Fear is only deadly when you let it paralyze you; transform it into fuel for your courage.",
+        "style": "Inspirational",
+        "translation": "恐惧只有在让你停滞不前时才是致命的；把它转化为勇气的燃料。",
+        "translated_word": "致命的"
+      },
+      {
+        "sentence": "The most deadly enemy we face is not external; it lives within our own unexamined minds.",
+        "style": "Philosophical",
+        "translation": "我们面对的最致命的敌人不在外部，而是存在于我们未经审视的内心。",
+        "translated_word": "致命的"
+      },
+      {
+        "sentence": "Silence fell like a deadly frost, freezing every whispered dream beneath its weight.",
+        "style": "Poetic",
+        "translation": "寂静如致命的寒霜降临，将每一个低语的梦想冰封在它的重压之下。",
+        "translated_word": "致命的"
+      },
+      {
+        "sentence": "The outbreak of the deadly virus has prompted governments worldwide to implement strict quarantine measures.",
+        "style": "News-like",
+        "translation": "这种致命病毒的爆发促使世界各国政府实施严格的隔离措施。",
+        "translated_word": "致命"
+      }
+    ]
+  },
+  {
+    "word": "allegation",
+    "phonetic": "/ˌæl.əˈɡeɪ.ʃən/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "指控；指责；声称",
+    "examples": [
+      {
+        "sentence": "Rise above every allegation with the quiet strength of your integrity.",
+        "style": "Inspirational",
+        "translation": "以你正直的力量默默超越每一个指控。",
+        "translated_word": "指控"
+      },
+      {
+        "sentence": "An allegation reveals more about the accuser's fears than the accused's truth.",
+        "style": "Philosophical",
+        "translation": "一项指责所揭示的，往往是指责者的恐惧，而非被指责者的真相。",
+        "translated_word": "指责"
+      },
+      {
+        "sentence": "The allegation hung in the air like storm clouds before rain.",
+        "style": "Poetic",
+        "translation": "那指控悬在空中，如同暴雨前的乌云。",
+        "translated_word": "指控"
+      },
+      {
+        "sentence": "The senator denied the allegation of corruption during the press conference.",
+        "style": "News-like",
+        "translation": "这位参议员在新闻发布会上否认了腐败指控。",
+        "translated_word": "指控"
+      }
+    ]
+  },
+  {
+    "word": "confuse",
+    "phonetic": "/kənˈfjuːz/",
+    "pos": [
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "使困惑；使混淆；弄错",
+    "examples": [
+      {
+        "sentence": "Don't let temporary setbacks confuse you about your true potential; clarity comes to those who persist.",
+        "style": "Inspirational",
+        "translation": "不要让暂时的挫折使你对自己的真正潜力感到困惑；坚持下去的人终会看清一切。",
+        "translated_word": "困惑"
+      },
+      {
+        "sentence": "We often confuse the familiar with the true, mistaking comfort for wisdom.",
+        "style": "Philosophical",
+        "translation": "我们常常把熟悉的事物与真实的事物混淆，将舒适误认为智慧。",
+        "translated_word": "混淆"
+      },
+      {
+        "sentence": "The autumn leaves confuse the sky with earth, painting borders where none exist.",
+        "style": "Poetic",
+        "translation": "秋叶模糊了天与地的界限，在虚无之处描绘边界。",
+        "translated_word": "模糊"
+      },
+      {
+        "sentence": "Sorry, I always confuse your name with your brother's; you two look so alike!",
+        "style": "Conversational",
+        "translation": "抱歉，我总是把你的名字和你哥哥的搞混；你们俩长得太像了！",
+        "translated_word": "搞混"
+      }
+    ]
+  },
+  {
+    "word": "monthly",
+    "phonetic": "/ˈmʌnθli/",
+    "pos": [
+      "adjective",
+      "adverb",
+      "noun"
+    ],
+    "selected_pos": "adjective",
+    "definition": "每月的；按月的",
+    "examples": [
+      {
+        "sentence": "Your monthly efforts, no matter how small, compound into remarkable achievements over time.",
+        "style": "Inspirational",
+        "translation": "你每月的努力，无论多么微小，随着时间的推移都会累积成非凡的成就。",
+        "translated_word": "每月的"
+      },
+      {
+        "sentence": "The monthly cycle of the moon reminds us that endings are merely beginnings in disguise.",
+        "style": "Philosophical",
+        "translation": "月亮的每月周期提醒我们，结束不过是伪装的开始。",
+        "translated_word": "每月"
+      },
+      {
+        "sentence": "Like a monthly letter from the seasons, autumn leaves drift down with quiet grace.",
+        "style": "Poetic",
+        "translation": "如同季节寄来的每月信笺，秋叶带着宁静的优雅飘落。",
+        "translated_word": "每月"
+      },
+      {
+        "sentence": "I finally set up a monthly budget to track where all my money goes.",
+        "style": "Conversational",
+        "translation": "我终于制定了一个月度预算来追踪我的钱都花到哪里去了。",
+        "translated_word": "月度"
+      }
+    ]
+  },
+  {
+    "word": "duck",
+    "phonetic": "/dʌk/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "鸭子；鸭肉",
+    "examples": [
+      {
+        "sentence": "Like a duck gliding across the water, stay calm on the surface while working hard beneath.",
+        "style": "Inspirational",
+        "translation": "像一只鸭子滑过水面一样，表面保持镇定，暗地里努力前行。",
+        "translated_word": "鸭子"
+      },
+      {
+        "sentence": "The duck swims serenely, yet we never see the frantic paddling underneath; so it is with success.",
+        "style": "Philosophical",
+        "translation": "鸭子悠然游动，我们却看不见水下拼命划动的双蹼；成功亦是如此。",
+        "translated_word": "鸭子"
+      },
+      {
+        "sentence": "A lone duck drifts through the mist, a feathered dream dissolving into dawn's silver light.",
+        "style": "Poetic",
+        "translation": "一只孤鸭穿雾而过，如羽化之梦消融于黎明的银光中。",
+        "translated_word": "鸭"
+      },
+      {
+        "sentence": "I saw the cutest duck at the park today; it kept following me around hoping for bread.",
+        "style": "Conversational",
+        "translation": "我今天在公园看到一只超可爱的鸭子，它一直跟着我转，想吃面包。",
+        "translated_word": "鸭子"
+      }
+    ]
+  },
+  {
+    "word": "dose",
+    "phonetic": null,
+    "pos": [],
+    "selected_pos": "noun",
+    "definition": "剂量；一剂；一份",
+    "examples": [
+      {
+        "sentence": "A small dose of courage each day can transform your entire life.",
+        "style": "Inspirational",
+        "translation": "每天一小剂量的勇气可以改变你的整个人生。",
+        "translated_word": "剂量"
+      },
+      {
+        "sentence": "Perhaps happiness is not about the size of the dose, but the frequency of small joys.",
+        "style": "Philosophical",
+        "translation": "也许幸福不在于剂量的大小，而在于小快乐的频率。",
+        "translated_word": "剂量"
+      },
+      {
+        "sentence": "The morning light delivered its golden dose of hope through the window.",
+        "style": "Poetic",
+        "translation": "晨光透过窗户送来它那金色的一剂希望。",
+        "translated_word": "一剂"
+      },
+      {
+        "sentence": "The doctor adjusted my dose after reviewing the test results.",
+        "style": "Conversational",
+        "translation": "医生看了检查结果后调整了我的剂量。",
+        "translated_word": "剂量"
+      }
+    ]
+  },
+  {
+    "word": "initiate",
+    "phonetic": null,
+    "pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "发起；开始；启动",
+    "examples": [
+      {
+        "sentence": "The courage to initiate change is the first step toward the life you truly deserve.",
+        "style": "Inspirational",
+        "translation": "发起改变的勇气是迈向你真正值得拥有的生活的第一步。",
+        "translated_word": "发起"
+      },
+      {
+        "sentence": "To initiate is to accept responsibility for what does not yet exist.",
+        "style": "Philosophical",
+        "translation": "启动意味着为尚不存在的事物承担责任。",
+        "translated_word": "启动"
+      },
+      {
+        "sentence": "The spring rains initiate a symphony of green across the sleeping meadows.",
+        "style": "Poetic",
+        "translation": "春雨在沉睡的草地上开启一曲绿色的交响乐。",
+        "translated_word": "开启"
+      },
+      {
+        "sentence": "The company plans to initiate a new training program for all employees next month.",
+        "style": "News-like",
+        "translation": "该公司计划下月为所有员工启动一项新的培训计划。",
+        "translated_word": "启动"
+      }
+    ]
+  },
+  {
+    "word": "plead",
+    "phonetic": null,
+    "pos": [
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "恳求；请求；辩护",
+    "examples": [
+      {
+        "sentence": "Never be afraid to plead for the dreams that set your soul on fire.",
+        "style": "Inspirational",
+        "translation": "永远不要害怕为那些点燃你灵魂的梦想而恳求。",
+        "translated_word": "恳求"
+      },
+      {
+        "sentence": "To plead for understanding is to admit that connection matters more than being right.",
+        "style": "Philosophical",
+        "translation": "请求理解，就是承认连接比正确更重要。",
+        "translated_word": "请求"
+      },
+      {
+        "sentence": "The autumn leaves plead with the wind, begging for one more dance before they fall.",
+        "style": "Poetic",
+        "translation": "秋叶向风儿恳求，乞求在坠落前再跳一支舞。",
+        "translated_word": "恳求"
+      },
+      {
+        "sentence": "The defendant chose to plead not guilty to all charges filed against him.",
+        "style": "News-like",
+        "translation": "被告选择对所有指控进行无罪辩护。",
+        "translated_word": "辩护"
+      }
+    ]
+  },
+  {
+    "word": "lecture",
+    "phonetic": "/ˈlɛk.t͡ʃə/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "讲座；演讲；训斥",
+    "examples": [
+      {
+        "sentence": "One lecture can plant a seed that grows into a lifetime of curiosity and discovery.",
+        "style": "Inspirational",
+        "translation": "一场讲座可以播下一颗种子，长成一生的好奇与探索。",
+        "translated_word": "讲座"
+      },
+      {
+        "sentence": "A lecture heard but not questioned is merely sound passing through an empty room.",
+        "style": "Philosophical",
+        "translation": "听而不问的讲座，不过是声音穿过空房间。",
+        "translated_word": "讲座"
+      },
+      {
+        "sentence": "The professor's lecture fell like autumn leaves: each word a color, each pause a breath of wind.",
+        "style": "Poetic",
+        "translation": "教授的演讲如秋叶飘落：每个词是一抹色彩，每次停顿是一缕风。",
+        "translated_word": "演讲"
+      },
+      {
+        "sentence": "Mom gave me a long lecture about staying out past midnight without calling.",
+        "style": "Conversational",
+        "translation": "妈妈因为我过了午夜还不回家也不打电话，狠狠训斥了我一顿。",
+        "translated_word": "训斥"
+      }
+    ]
+  },
+  {
+    "word": "bay",
+    "phonetic": "/beɪ/",
+    "pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "海湾；月桂树",
+    "examples": [
+      {
+        "sentence": "Every dream begins like a quiet bay, waiting for the winds of courage to set your sails in motion.",
+        "style": "Inspirational",
+        "translation": "每个梦想都始于一片宁静的海湾，等待勇气之风扬起你的帆。",
+        "translated_word": "海湾"
+      },
+      {
+        "sentence": "The bay holds the ocean's secrets, yet remains open to the endless horizon beyond.",
+        "style": "Philosophical",
+        "translation": "海湾藏着大海的秘密，却始终向无尽的地平线敞开。",
+        "translated_word": "海湾"
+      },
+      {
+        "sentence": "Moonlight spills like silver wine across the sleeping bay, where stars come down to bathe.",
+        "style": "Poetic",
+        "translation": "月光如银酒洒落在沉睡的海湾，星星降临于此沐浴。",
+        "translated_word": "海湾"
+      },
+      {
+        "sentence": "We spent the afternoon kayaking around the bay and spotted a family of seals.",
+        "style": "Conversational",
+        "translation": "我们下午在海湾划皮艇，还看到了一家海豹。",
+        "translated_word": "海湾"
+      }
+    ]
+  },
+  {
+    "word": "mainstream",
+    "phonetic": null,
+    "pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "adjective",
+    "definition": "主流的；大众化的",
+    "examples": [
+      {
+        "sentence": "What seems radical today may become mainstream tomorrow, so never stop believing in your vision.",
+        "style": "Inspirational",
+        "translation": "今天看似激进的事物明天可能成为主流，所以永远不要停止相信你的愿景。",
+        "translated_word": "主流"
+      },
+      {
+        "sentence": "The mainstream often represents not truth, but merely the comfort of consensus.",
+        "style": "Philosophical",
+        "translation": "主流往往代表的不是真理，而仅仅是共识带来的舒适感。",
+        "translated_word": "主流"
+      },
+      {
+        "sentence": "Like a river finding its course, ideas drift from the margins until they join the mainstream current.",
+        "style": "Poetic",
+        "translation": "如同河流寻找归途，思想从边缘漂流，直至汇入主流。",
+        "translated_word": "主流"
+      },
+      {
+        "sentence": "Electric vehicles have finally become mainstream, with sales doubling over the past year.",
+        "style": "News-like",
+        "translation": "电动汽车终于成为主流，过去一年销量翻了一番。",
+        "translated_word": "主流"
+      }
+    ]
+  },
+  {
+    "word": "implementation",
+    "phonetic": null,
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "实施；执行；落实",
+    "examples": [
+      {
+        "sentence": "The implementation of your dreams begins with a single step of courage.",
+        "style": "Inspirational",
+        "translation": "梦想的实现始于一步勇敢的迈进。",
+        "translated_word": "实现"
+      },
+      {
+        "sentence": "True understanding lies not in the idea itself, but in its implementation.",
+        "style": "Philosophical",
+        "translation": "真正的理解不在于想法本身，而在于它的执行。",
+        "translated_word": "执行"
+      },
+      {
+        "sentence": "Like seeds finding soil, the implementation of hope blooms in patient hands.",
+        "style": "Poetic",
+        "translation": "如同种子寻觅土壤，希望的落实在耐心的双手中绽放。",
+        "translated_word": "落实"
+      },
+      {
+        "sentence": "The government announced the implementation of new environmental policies starting next month.",
+        "style": "News-like",
+        "translation": "政府宣布将于下月开始实施新的环境政策。",
+        "translated_word": "实施"
+      }
+    ]
+  },
+  {
+    "word": "trunk",
+    "phonetic": "/tɹʌŋk/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "树干；象鼻；汽车后备箱",
+    "examples": [
+      {
+        "sentence": "Like a mighty trunk that supports countless branches, your core values will sustain every dream you pursue.",
+        "style": "Inspirational",
+        "translation": "就像一棵强壮的树干支撑着无数枝条，你的核心价值观将支撑你追求的每一个梦想。",
+        "translated_word": "树干"
+      },
+      {
+        "sentence": "The trunk of a tree reveals its history; each ring a silent witness to storms weathered and seasons endured.",
+        "style": "Philosophical",
+        "translation": "树干揭示着树的历史；每一圈年轮都是经历风暴、熬过四季的无声见证。",
+        "translated_word": "树干"
+      },
+      {
+        "sentence": "The ancient trunk stood wrapped in moss and memory, its bark a map of whispered centuries.",
+        "style": "Poetic",
+        "translation": "古老的树干披着青苔与记忆，它的树皮是一幅低语着的世纪地图。",
+        "translated_word": "树干"
+      },
+      {
+        "sentence": "I forgot the groceries in the trunk again; can you grab them while I start dinner?",
+        "style": "Conversational",
+        "translation": "我又把食品杂货忘在后备箱里了，你能帮我拿一下吗？我先去做饭。",
+        "translated_word": "后备箱"
+      }
+    ]
+  },
+  {
+    "word": "motivate",
+    "phonetic": "/ˈməʊtɪveɪt/",
+    "pos": [
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "激励；激发；促使",
+    "examples": [
+      {
+        "sentence": "Let your dreams motivate you to rise each morning with purpose and determination.",
+        "style": "Inspirational",
+        "translation": "让你的梦想激励你每天早晨带着目标和决心起床。",
+        "translated_word": "激励"
+      },
+      {
+        "sentence": "What truly motivates us reveals who we are far more than what we achieve.",
+        "style": "Philosophical",
+        "translation": "真正激发我们的东西比我们取得的成就更能揭示我们是谁。",
+        "translated_word": "激发"
+      },
+      {
+        "sentence": "The whisper of spring winds motivates the sleeping seeds to reach for the sun.",
+        "style": "Poetic",
+        "translation": "春风的低语促使沉睡的种子向太阳伸展。",
+        "translated_word": "促使"
+      },
+      {
+        "sentence": "What motivates you to get up so early every day for your workout?",
+        "style": "Conversational",
+        "translation": "是什么激励你每天这么早起来锻炼？",
+        "translated_word": "激励"
+      }
+    ]
+  },
+  {
+    "word": "swallow",
+    "phonetic": "/ˈswɒləʊ/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "吞咽；咽下；忍受",
+    "examples": [
+      {
+        "sentence": "Swallow your pride and ask for help; that's where real growth begins.",
+        "style": "Inspirational",
+        "translation": "放下你的骄傲，开口寻求帮助；真正的成长就从这里开始。",
+        "translated_word": "放下"
+      },
+      {
+        "sentence": "We swallow countless truths we cannot speak, and silence becomes our second language.",
+        "style": "Philosophical",
+        "translation": "我们咽下无数无法言说的真相，沉默便成了我们的第二语言。",
+        "translated_word": "咽下"
+      },
+      {
+        "sentence": "The sea swallows the sun each evening, only to give birth to stars.",
+        "style": "Poetic",
+        "translation": "大海每晚吞没落日，却孕育出满天繁星。",
+        "translated_word": "吞没"
+      },
+      {
+        "sentence": "I had to swallow my disappointment when they canceled the concert at the last minute.",
+        "style": "Conversational",
+        "translation": "演唱会在最后一刻被取消，我只能强忍失望。",
+        "translated_word": "强忍"
+      }
+    ]
+  },
+  {
+    "word": "longtime",
+    "phonetic": null,
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "selected_pos": "adjective",
+    "definition": "长期的；多年的；老资格的",
+    "examples": [
+      {
+        "sentence": "A longtime dream pursued with patience will eventually bloom into reality.",
+        "style": "Inspirational",
+        "translation": "一个长期怀抱的梦想，若以耐心追求，终将绽放成现实。",
+        "translated_word": "长期"
+      },
+      {
+        "sentence": "We wonder if a longtime friendship shapes who we are, or if who we are shapes our friendships.",
+        "style": "Philosophical",
+        "translation": "我们不禁思索：是多年的友谊塑造了我们，还是我们塑造了这些友谊？",
+        "translated_word": "多年的"
+      },
+      {
+        "sentence": "Like rivers carving stone, longtime love wears away the sharp edges of the soul.",
+        "style": "Poetic",
+        "translation": "如河流雕琢岩石，长久的爱磨平了灵魂的棱角。",
+        "translated_word": "长久的"
+      },
+      {
+        "sentence": "The longtime residents of this neighborhood remember when these streets were still unpaved.",
+        "style": "Conversational",
+        "translation": "这个社区的老住户还记得这些街道还没铺路的时候。",
+        "translated_word": "老"
+      }
+    ]
+  },
+  {
+    "word": "render",
+    "phonetic": "/ˈɹɛn.də/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "使成为；提供；呈现；渲染",
+    "examples": [
+      {
+        "sentence": "Your courage to persist can render the impossible possible.",
+        "style": "Inspirational",
+        "translation": "你坚持的勇气能使不可能变为可能。",
+        "translated_word": "使"
+      },
+      {
+        "sentence": "Time renders all certainties into mere memories and dust.",
+        "style": "Philosophical",
+        "translation": "时间将所有的确定性化为记忆与尘埃。",
+        "translated_word": "化为"
+      },
+      {
+        "sentence": "The autumn light rendered the forest in shades of gold and whispered fire.",
+        "style": "Poetic",
+        "translation": "秋日的光将森林渲染成金色与低语的火焰。",
+        "translated_word": "渲染"
+      },
+      {
+        "sentence": "The new evidence rendered the previous testimony completely unreliable.",
+        "style": "News-like",
+        "translation": "新证据使先前的证词变得完全不可靠。",
+        "translated_word": "使"
+      }
+    ]
+  },
+  {
+    "word": "trap",
+    "phonetic": "/tɹæp/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "陷阱；圈套；困境",
+    "examples": [
+      {
+        "sentence": "Don't let fear become a trap that keeps you from pursuing your dreams.",
+        "style": "Inspirational",
+        "translation": "不要让恐惧成为阻止你追逐梦想的陷阱。",
+        "translated_word": "陷阱"
+      },
+      {
+        "sentence": "The greatest trap in life is the comfort zone we build around ourselves.",
+        "style": "Philosophical",
+        "translation": "人生最大的陷阱是我们为自己建造的舒适区。",
+        "translated_word": "陷阱"
+      },
+      {
+        "sentence": "Memory is a velvet trap: soft to fall into, impossible to escape.",
+        "style": "Poetic",
+        "translation": "记忆是一个天鹅绒般的陷阱：跌入时柔软，却无法逃脱。",
+        "translated_word": "陷阱"
+      },
+      {
+        "sentence": "Police set up a trap to catch the suspects who had been robbing local stores.",
+        "style": "News-like",
+        "translation": "警方设下圈套，抓捕了一直抢劫当地商店的嫌疑人。",
+        "translated_word": "圈套"
+      }
+    ]
+  },
+  {
+    "word": "restrict",
+    "phonetic": "/ɹɪˈstɹɪkt/",
+    "pos": [
+      "adjective",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "限制；约束；管制",
+    "examples": [
+      {
+        "sentence": "Don't let fear restrict your potential; the only limits that truly exist are the ones you accept.",
+        "style": "Inspirational",
+        "translation": "不要让恐惧限制你的潜力；真正存在的唯一界限是你自己接受的那些。",
+        "translated_word": "限制"
+      },
+      {
+        "sentence": "To restrict another's freedom is to imprison a part of oneself, for we are all bound by the same human condition.",
+        "style": "Philosophical",
+        "translation": "限制他人的自由就是囚禁自己的一部分，因为我们都受制于同样的人类境况。",
+        "translated_word": "限制"
+      },
+      {
+        "sentence": "The winter river does not restrict its flow; it simply learns to sing beneath the ice.",
+        "style": "Poetic",
+        "translation": "冬日的河流并不约束自己的流淌；它只是学会了在冰层下歌唱。",
+        "translated_word": "约束"
+      },
+      {
+        "sentence": "The city council voted to restrict parking in the downtown area during peak hours.",
+        "style": "News-like",
+        "translation": "市议会投票决定在高峰时段管制市中心区域的停车。",
+        "translated_word": "管制"
+      }
+    ]
+  },
+  {
+    "word": "cloth",
+    "phonetic": "/klɑθ/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "布；织物；布料",
+    "examples": [
+      {
+        "sentence": "From a single piece of cloth, we can weave the fabric of our dreams if we work with patience.",
+        "style": "Inspirational",
+        "translation": "从一块布开始，只要我们有耐心，就能编织出梦想的图景。",
+        "translated_word": "布"
+      },
+      {
+        "sentence": "The cloth that covers the table knows nothing of the hands that wove it into being.",
+        "style": "Philosophical",
+        "translation": "覆盖桌面的布料对织造它的双手一无所知。",
+        "translated_word": "布料"
+      },
+      {
+        "sentence": "Morning light falls upon the cloth like whispered gold, soft and fleeting.",
+        "style": "Poetic",
+        "translation": "晨光洒落在织物上，如轻声细语的金色，柔软而短暂。",
+        "translated_word": "织物"
+      },
+      {
+        "sentence": "Could you pass me that cloth? I need to wipe down the kitchen counter.",
+        "style": "Conversational",
+        "translation": "你能把那块布递给我吗？我需要擦一下厨房台面。",
+        "translated_word": "布"
+      }
+    ]
+  },
+  {
+    "word": "seemingly",
+    "phonetic": "/ˈsiːmɪŋli/",
+    "pos": [
+      "adverb"
+    ],
+    "selected_pos": "adverb",
+    "definition": "看似；表面上；貌似",
+    "examples": [
+      {
+        "sentence": "Every seemingly impossible dream becomes achievable when you refuse to give up.",
+        "style": "Inspirational",
+        "translation": "当你拒绝放弃时，每一个看似不可能的梦想都会变得可以实现。",
+        "translated_word": "看似"
+      },
+      {
+        "sentence": "The seemingly simple choices we make today shape the complex lives we live tomorrow.",
+        "style": "Philosophical",
+        "translation": "我们今天做出的貌似简单的选择，塑造了我们明天复杂的生活。",
+        "translated_word": "貌似"
+      },
+      {
+        "sentence": "Stars hang like diamonds in the seemingly endless velvet of the night sky.",
+        "style": "Poetic",
+        "translation": "星星如钻石般悬挂在表面上无尽的夜空丝绒中。",
+        "translated_word": "表面上"
+      },
+      {
+        "sentence": "The seemingly routine traffic stop led to the discovery of stolen artifacts worth millions.",
+        "style": "News-like",
+        "translation": "这次看似例行的交通拦检，意外发现了价值数百万的被盗文物。",
+        "translated_word": "看似"
+      }
+    ]
+  },
+  {
+    "word": "legislative",
+    "phonetic": "/ˈlɛ.dʒɪ.slə.tɪv/",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "selected_pos": "adjective",
+    "definition": "立法的；有立法权的",
+    "examples": [
+      {
+        "sentence": "Every legislative victory begins with citizens who refuse to accept injustice as the status quo.",
+        "style": "Inspirational",
+        "translation": "每一次立法胜利都始于那些拒绝将不公视为常态的公民。",
+        "translated_word": "立法"
+      },
+      {
+        "sentence": "The legislative process reveals a paradox: laws meant to create order often emerge from chaos and compromise.",
+        "style": "Philosophical",
+        "translation": "立法过程揭示了一个悖论：旨在创造秩序的法律往往诞生于混乱与妥协之中。",
+        "translated_word": "立法"
+      },
+      {
+        "sentence": "In the legislative halls, words become bridges, spanning the distance between what is and what could be.",
+        "style": "Poetic",
+        "translation": "在立法殿堂里，言语化作桥梁，跨越现实与理想之间的距离。",
+        "translated_word": "立法"
+      },
+      {
+        "sentence": "The legislative session concluded with lawmakers passing a historic climate protection bill.",
+        "style": "News-like",
+        "translation": "立法会议结束时，议员们通过了一项历史性的气候保护法案。",
+        "translated_word": "立法"
+      }
+    ]
+  },
+  {
+    "word": "effectiveness",
+    "phonetic": null,
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "效力；有效性；效果",
+    "examples": [
+      {
+        "sentence": "The effectiveness of your efforts is not measured by speed, but by the lasting change you create.",
+        "style": "Inspirational",
+        "translation": "你努力的效力不在于速度，而在于你创造的持久改变。",
+        "translated_word": "效力"
+      },
+      {
+        "sentence": "We often question the effectiveness of our choices only after the consequences have already unfolded.",
+        "style": "Philosophical",
+        "translation": "我们往往在后果已经显现之后，才开始质疑自己选择的有效性。",
+        "translated_word": "有效性"
+      },
+      {
+        "sentence": "Like rain upon parched earth, the effectiveness of kindness blooms in ways unseen.",
+        "style": "Poetic",
+        "translation": "如同雨水落在干涸的土地上，善意的效果以无形的方式绽放。",
+        "translated_word": "效果"
+      },
+      {
+        "sentence": "Researchers are still debating the effectiveness of the new policy in reducing carbon emissions.",
+        "style": "News-like",
+        "translation": "研究人员仍在争论新政策在减少碳排放方面的有效性。",
+        "translated_word": "有效性"
+      }
+    ]
+  },
+  {
+    "word": "lens",
+    "phonetic": "/lɛnz/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "镜头；透镜；晶状体",
+    "examples": [
+      {
+        "sentence": "View your challenges through a lens of growth, and every obstacle becomes an opportunity to rise stronger.",
+        "style": "Inspirational",
+        "translation": "用成长的视角看待挑战，每个障碍都会成为让你更强大的机会。",
+        "translated_word": "视角"
+      },
+      {
+        "sentence": "The lens through which we perceive reality shapes not the world itself, but the meaning we derive from it.",
+        "style": "Philosophical",
+        "translation": "我们感知现实的透镜塑造的不是世界本身，而是我们从中获得的意义。",
+        "translated_word": "透镜"
+      },
+      {
+        "sentence": "Morning dew rests upon the petal like a tiny lens, bending light into rainbows only the patient eye can find.",
+        "style": "Poetic",
+        "translation": "晨露栖息在花瓣上如同一枚小小的透镜，将光线折射成唯有耐心的眼睛才能发现的彩虹。",
+        "translated_word": "透镜"
+      },
+      {
+        "sentence": "The photographer adjusted his camera lens to capture the perfect shot of the sunset over the mountains.",
+        "style": "Conversational",
+        "translation": "摄影师调整了相机镜头，想要捕捉夕阳落在山峦之上的完美画面。",
+        "translated_word": "镜头"
+      }
+    ]
+  },
+  {
+    "word": "enforce",
+    "phonetic": "/ɪnˈfɔːs/",
+    "pos": [
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "执行；强制执行；实施",
+    "examples": [
+      {
+        "sentence": "Enforce your boundaries with courage, for self-respect is the foundation of every meaningful relationship.",
+        "style": "Inspirational",
+        "translation": "勇敢地执行你的底线，因为自尊是每段有意义关系的基础。",
+        "translated_word": "执行"
+      },
+      {
+        "sentence": "We create laws to enforce order, yet true harmony arises only when hearts align without coercion.",
+        "style": "Philosophical",
+        "translation": "我们制定法律来强制执行秩序，然而真正的和谐只有在心灵自然契合、无需强迫时才会出现。",
+        "translated_word": "强制执行"
+      },
+      {
+        "sentence": "The winter wind enforces its silence upon the meadow, where even the rivers learn to hold their breath.",
+        "style": "Poetic",
+        "translation": "冬风将它的沉寂施加于草地之上，连河流都学会了屏住呼吸。",
+        "translated_word": "施加"
+      },
+      {
+        "sentence": "City officials announced they will strictly enforce the new parking regulations starting next Monday.",
+        "style": "News-like",
+        "translation": "市政官员宣布，从下周一开始将严格执行新的停车规定。",
+        "translated_word": "执行"
+      }
+    ]
+  },
+  {
+    "word": "companion",
+    "phonetic": "/kəmˈpænjən/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "同伴；伙伴；陪伴者",
+    "examples": [
+      {
+        "sentence": "A true companion walks beside you not just in sunshine, but through every storm life brings.",
+        "style": "Inspirational",
+        "translation": "真正的同伴不仅在阳光下与你同行，更会陪你度过生命中的每一场风暴。",
+        "translated_word": "同伴"
+      },
+      {
+        "sentence": "We seek companions not to fill our emptiness, but to share the fullness of who we are.",
+        "style": "Philosophical",
+        "translation": "我们寻找伙伴，不是为了填补空虚，而是为了分享完整的自我。",
+        "translated_word": "伙伴"
+      },
+      {
+        "sentence": "The moon became my silent companion, casting silver dreams upon the restless sea.",
+        "style": "Poetic",
+        "translation": "月亮成了我沉默的陪伴者，将银色的梦洒向不眠的大海。",
+        "translated_word": "陪伴者"
+      },
+      {
+        "sentence": "My dog has been my loyal companion for eight years; I can't imagine life without her.",
+        "style": "Conversational",
+        "translation": "我的狗已经陪伴了我八年，我无法想象没有她的生活。",
+        "translated_word": "陪伴"
+      }
+    ]
+  },
+  {
+    "word": "lend",
+    "phonetic": "/lɛnd/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "借出；借给；提供",
+    "examples": [
+      {
+        "sentence": "Lend your strength to those who are struggling, and you will find your own spirit renewed.",
+        "style": "Inspirational",
+        "translation": "把你的力量借给那些正在挣扎的人，你会发现自己的精神也焕然一新。",
+        "translated_word": "借给"
+      },
+      {
+        "sentence": "We cannot truly own anything; we can only lend our attention to the world for a brief moment.",
+        "style": "Philosophical",
+        "translation": "我们无法真正拥有任何东西；我们只能将注意力短暂地借予这个世界。",
+        "translated_word": "借予"
+      },
+      {
+        "sentence": "The autumn trees lend their golden light to the fading afternoon.",
+        "style": "Poetic",
+        "translation": "秋天的树木将它们的金色光芒借给渐逝的午后。",
+        "translated_word": "借给"
+      },
+      {
+        "sentence": "Could you lend me your phone for a minute? I need to make a quick call.",
+        "style": "Conversational",
+        "translation": "你能把手机借我用一下吗？我需要打个电话。",
+        "translated_word": "借我"
+      }
+    ]
+  },
+  {
+    "word": "plain",
+    "phonetic": "/pleɪn/",
+    "pos": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "adjective",
+    "definition": "朴素的；简单的；清楚的；坦率的",
+    "examples": [
+      {
+        "sentence": "The most extraordinary achievements often begin with plain, ordinary efforts repeated every single day.",
+        "style": "Inspirational",
+        "translation": "最非凡的成就往往始于每天重复的朴素而平凡的努力。",
+        "translated_word": "朴素"
+      },
+      {
+        "sentence": "In a world obsessed with complexity, there is profound wisdom in choosing a plain life.",
+        "style": "Philosophical",
+        "translation": "在一个沉迷于复杂的世界里，选择简单的生活蕴含着深刻的智慧。",
+        "translated_word": "简单的"
+      },
+      {
+        "sentence": "She wore a plain white dress, yet her grace outshone every jewel in the room.",
+        "style": "Poetic",
+        "translation": "她穿着一件朴素的白裙，却比房间里所有的珠宝更加耀眼。",
+        "translated_word": "朴素的"
+      },
+      {
+        "sentence": "Let me be plain with you: this project needs more funding or it will fail.",
+        "style": "Conversational",
+        "translation": "让我坦率地告诉你：这个项目需要更多资金，否则会失败。",
+        "translated_word": "坦率地"
+      }
+    ]
+  },
+  {
+    "word": "inspector",
+    "phonetic": "/ɪnˈspɛktə/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "检查员；督察；巡视员",
+    "examples": [
+      {
+        "sentence": "Be the inspector of your own life, examining each day for opportunities to grow and improve.",
+        "style": "Inspirational",
+        "translation": "做自己人生的检查员，审视每一天，寻找成长和进步的机会。",
+        "translated_word": "检查员"
+      },
+      {
+        "sentence": "The inspector who questions everything discovers that truth often hides beneath layers of assumption.",
+        "style": "Philosophical",
+        "translation": "质疑一切的督察会发现，真相往往隐藏在层层假设之下。",
+        "translated_word": "督察"
+      },
+      {
+        "sentence": "Like an inspector of dreams, the moon peers through windows, checking on sleeping souls below.",
+        "style": "Poetic",
+        "translation": "月亮如同梦境的巡视员，透过窗户凝视，守望着沉睡的灵魂。",
+        "translated_word": "巡视员"
+      },
+      {
+        "sentence": "The health inspector found several violations and ordered the restaurant to close immediately.",
+        "style": "News-like",
+        "translation": "卫生检查员发现了多项违规行为，并下令该餐厅立即停业。",
+        "translated_word": "检查员"
+      }
+    ]
+  },
+  {
+    "word": "fraud",
+    "phonetic": "/fɹɔːd/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "欺诈；骗局；骗子",
+    "examples": [
+      {
+        "sentence": "Exposing fraud takes courage, but truth always rewards those who defend it.",
+        "style": "Inspirational",
+        "translation": "揭露欺诈需要勇气，但真相总会回报那些捍卫它的人。",
+        "translated_word": "欺诈"
+      },
+      {
+        "sentence": "Every fraud reveals a gap between what we wish to believe and what we choose to question.",
+        "style": "Philosophical",
+        "translation": "每一场骗局都揭示了我们愿意相信的与选择质疑的之间的鸿沟。",
+        "translated_word": "骗局"
+      },
+      {
+        "sentence": "The fraud wore a smile like a mask, hiding shadows where trust once lived.",
+        "style": "Poetic",
+        "translation": "那个骗子戴着微笑如同面具，将阴影藏在信任曾经栖居的地方。",
+        "translated_word": "骗子"
+      },
+      {
+        "sentence": "Authorities arrested three suspects in connection with a massive investment fraud.",
+        "style": "News-like",
+        "translation": "当局逮捕了三名与大规模投资欺诈案有关的嫌疑人。",
+        "translated_word": "欺诈"
+      }
+    ]
+  },
+  {
+    "word": "contend",
+    "phonetic": "/kənˈtɛnd/",
+    "pos": [
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "竞争；抗争；主张",
+    "examples": [
+      {
+        "sentence": "No matter how fierce the competition, those who contend with courage will always find a way to rise.",
+        "style": "Inspirational",
+        "translation": "无论竞争多么激烈，勇于抗争的人总会找到崛起的方法。",
+        "translated_word": "抗争"
+      },
+      {
+        "sentence": "To contend with fate is to acknowledge that we have the power to shape our own destiny.",
+        "style": "Philosophical",
+        "translation": "与命运抗争，就是承认我们有能力塑造自己的命运。",
+        "translated_word": "抗争"
+      },
+      {
+        "sentence": "The wildflowers contend with the wind, bending but never breaking beneath the endless sky.",
+        "style": "Poetic",
+        "translation": "野花与风抗争，在无垠的天空下弯而不折。",
+        "translated_word": "抗争"
+      },
+      {
+        "sentence": "Several tech giants are expected to contend for the lucrative government contract.",
+        "style": "News-like",
+        "translation": "预计多家科技巨头将竞争这份利润丰厚的政府合同。",
+        "translated_word": "竞争"
+      }
+    ]
+  },
+  {
+    "word": "strict",
+    "phonetic": "/stɹɪkt/",
+    "pos": [
+      "adjective"
+    ],
+    "selected_pos": "adjective",
+    "definition": "严格的；严厉的；严谨的",
+    "examples": [
+      {
+        "sentence": "A strict discipline today builds the freedom you will enjoy tomorrow.",
+        "style": "Inspirational",
+        "translation": "今天严格的自律，将铸就你明天享有的自由。",
+        "translated_word": "严格的"
+      },
+      {
+        "sentence": "The strict teacher and the lenient one both claim to serve the student; only time reveals who truly did.",
+        "style": "Philosophical",
+        "translation": "严厉的老师和宽容的老师都声称是为学生好，只有时间能揭示谁才是真正做到的。",
+        "translated_word": "严厉的"
+      },
+      {
+        "sentence": "Winter keeps a strict watch over the earth, letting no flower bloom before its time.",
+        "style": "Poetic",
+        "translation": "冬天严格地守望着大地，不让任何花朵在时机未到时绽放。",
+        "translated_word": "严格地"
+      },
+      {
+        "sentence": "My mom is pretty strict about screen time, so I can only play games on weekends.",
+        "style": "Conversational",
+        "translation": "我妈妈对屏幕时间管得很严，所以我只能在周末玩游戏。",
+        "translated_word": "严"
+      }
+    ]
+  },
+  {
+    "word": "array",
+    "phonetic": "/əˈɹeɪ/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "一系列；大量；阵列",
+    "examples": [
+      {
+        "sentence": "Life offers you an array of opportunities; it's up to you to seize the ones that matter.",
+        "style": "Inspirational",
+        "translation": "生活为你提供了一系列机会；抓住那些重要的机会取决于你自己。",
+        "translated_word": "一系列"
+      },
+      {
+        "sentence": "The vast array of choices we face daily reminds us that freedom is both a gift and a burden.",
+        "style": "Philosophical",
+        "translation": "我们每天面对的大量选择提醒我们，自由既是礼物也是负担。",
+        "translated_word": "大量"
+      },
+      {
+        "sentence": "Stars hung like an array of scattered diamonds across the velvet night sky.",
+        "style": "Poetic",
+        "translation": "星星如同一排散落的钻石悬挂在天鹅绒般的夜空中。",
+        "translated_word": "一排"
+      },
+      {
+        "sentence": "The museum unveiled an impressive array of ancient artifacts from the Silk Road.",
+        "style": "News-like",
+        "translation": "博物馆展出了一批令人印象深刻的丝绸之路古代文物。",
+        "translated_word": "一批"
+      }
+    ]
+  },
+  {
+    "word": "frankly",
+    "phonetic": "/ˈfɹæŋkli/",
+    "pos": [
+      "adverb"
+    ],
+    "selected_pos": "adverb",
+    "definition": "坦白地；直率地；老实说",
+    "examples": [
+      {
+        "sentence": "Frankly, the only limit to your success is the courage to begin and the will to keep going.",
+        "style": "Inspirational",
+        "translation": "坦白说，成功的唯一限制是开始的勇气和坚持下去的意志。",
+        "translated_word": "坦白说"
+      },
+      {
+        "sentence": "To speak frankly is to honor truth, even when silence would be easier.",
+        "style": "Philosophical",
+        "translation": "直率地说话是对真理的尊重，即使沉默会更容易。",
+        "translated_word": "直率地"
+      },
+      {
+        "sentence": "Frankly, the autumn leaves confess their colors before they fall, hiding nothing from the wind.",
+        "style": "Poetic",
+        "translation": "坦白地，秋叶在飘落前坦露它们的色彩，对风毫无保留。",
+        "translated_word": "坦白地"
+      },
+      {
+        "sentence": "Frankly, I think we should just order pizza tonight instead of cooking.",
+        "style": "Conversational",
+        "translation": "老实说，我觉得今晚我们应该点披萨而不是自己做饭。",
+        "translated_word": "老实说"
+      }
+    ]
+  },
+  {
+    "word": "nail",
+    "phonetic": "/neɪl/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "钉住；确定；抓住",
+    "examples": [
+      {
+        "sentence": "If you want to nail your goals, start by nailing your daily habits.",
+        "style": "Inspirational",
+        "translation": "如果你想实现目标，就从养成日常习惯开始。",
+        "translated_word": "实现"
+      },
+      {
+        "sentence": "We spend our lives trying to nail down certainty in a world that refuses to be pinned.",
+        "style": "Philosophical",
+        "translation": "我们穷尽一生试图在这个无法被固定的世界里抓住确定性。",
+        "translated_word": "抓住"
+      },
+      {
+        "sentence": "The carpenter nails the sunset to the wall, framing light that will never fade.",
+        "style": "Poetic",
+        "translation": "木匠将落日钉在墙上，框住永不褪色的光芒。",
+        "translated_word": "钉"
+      },
+      {
+        "sentence": "Did you nail the interview? I heard they called you back for a second round.",
+        "style": "Conversational",
+        "translation": "你面试表现得好吗？我听说他们叫你去第二轮了。",
+        "translated_word": "表现得好"
+      }
+    ]
+  },
+  {
+    "word": "assemble",
+    "phonetic": "/əˈsɛmbl̩/",
+    "pos": [
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "组装；集合；召集",
+    "examples": [
+      {
+        "sentence": "When you assemble the broken pieces of your life, you discover a strength you never knew existed.",
+        "style": "Inspirational",
+        "translation": "当你将生活的碎片重新组装起来时，你会发现自己从未意识到的力量。",
+        "translated_word": "组装"
+      },
+      {
+        "sentence": "We assemble meaning from chaos, yet the chaos itself may be the truest meaning of all.",
+        "style": "Philosophical",
+        "translation": "我们从混沌中集合意义，然而混沌本身或许才是最真实的意义。",
+        "translated_word": "集合"
+      },
+      {
+        "sentence": "The stars assemble in quiet constellations, whispering ancient stories to the dreaming earth.",
+        "style": "Poetic",
+        "translation": "星星在寂静中汇聚成座，向沉睡的大地低语着古老的故事。",
+        "translated_word": "汇聚"
+      },
+      {
+        "sentence": "Protesters began to assemble outside the courthouse early this morning, demanding justice for the victims.",
+        "style": "News-like",
+        "translation": "抗议者今早开始在法院外集结，为受害者要求正义。",
+        "translated_word": "集结"
+      }
+    ]
+  },
+  {
+    "word": "rat",
+    "phonetic": "/ɹæt/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "老鼠；卑鄙小人；告密者",
+    "examples": [
+      {
+        "sentence": "Even a rat trapped in a maze finds its way out; never underestimate your ability to overcome obstacles.",
+        "style": "Inspirational",
+        "translation": "即使是困在迷宫里的老鼠也能找到出路；永远不要低估自己克服障碍的能力。",
+        "translated_word": "老鼠"
+      },
+      {
+        "sentence": "The rat survives not by strength but by cunning: adaptability is the truest form of intelligence.",
+        "style": "Philosophical",
+        "translation": "老鼠的生存不是靠力量而是靠狡黠：适应能力才是智慧的真正体现。",
+        "translated_word": "老鼠"
+      },
+      {
+        "sentence": "In the cellar's shadow, a lone rat moved like a whisper through the forgotten hours of night.",
+        "style": "Poetic",
+        "translation": "在地窖的阴影中，一只孤独的老鼠如低语般穿行于被遗忘的夜色里。",
+        "translated_word": "老鼠"
+      },
+      {
+        "sentence": "I saw a huge rat run across the kitchen floor last night; we need to call pest control.",
+        "style": "Conversational",
+        "translation": "昨晚我看到一只大老鼠跑过厨房地板，我们得叫灭虫公司了。",
+        "translated_word": "老鼠"
+      }
+    ]
+  },
+  {
+    "word": "burst",
+    "phonetic": "/bɜːst/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "爆发；破裂；冲破",
+    "examples": [
+      {
+        "sentence": "Let your passion burst through every barrier that stands between you and your dreams.",
+        "style": "Inspirational",
+        "translation": "让你的热情冲破横亘在你与梦想之间的每一道障碍。",
+        "translated_word": "冲破"
+      },
+      {
+        "sentence": "The seed must burst open before it can become the tree it was always meant to be.",
+        "style": "Philosophical",
+        "translation": "种子必须先破裂，才能成长为它注定要成为的大树。",
+        "translated_word": "破裂"
+      },
+      {
+        "sentence": "Stars burst into bloom across the velvet sky, scattering light like whispered secrets.",
+        "style": "Poetic",
+        "translation": "繁星在天鹅绒般的夜空中绽放，将光芒如低语的秘密般洒落。",
+        "translated_word": "绽放"
+      },
+      {
+        "sentence": "The kids burst into laughter when the puppy tripped over its own ears.",
+        "style": "Conversational",
+        "translation": "当小狗被自己的耳朵绊倒时，孩子们爆发出一阵大笑。",
+        "translated_word": "爆发"
+      }
+    ]
+  },
+  {
+    "word": "inevitable",
+    "phonetic": "/ɪnˈɛvɪtəbəl/",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "selected_pos": "adjective",
+    "definition": "不可避免的；必然的",
+    "examples": [
+      {
+        "sentence": "Growth is inevitable when you embrace challenges instead of running from them.",
+        "style": "Inspirational",
+        "translation": "当你拥抱挑战而非逃避时，成长是不可避免的。",
+        "translated_word": "不可避免的"
+      },
+      {
+        "sentence": "Is suffering inevitable, or do we create it through our attachments to things that cannot last?",
+        "style": "Philosophical",
+        "translation": "痛苦是必然的，还是我们对无法长久之物的执念所造成的？",
+        "translated_word": "必然的"
+      },
+      {
+        "sentence": "Like autumn leaves surrendering to the wind, change remains as inevitable as the turning tide.",
+        "style": "Poetic",
+        "translation": "如同秋叶随风飘落，变化如潮汐般不可避免。",
+        "translated_word": "不可避免"
+      },
+      {
+        "sentence": "Experts say a market correction is inevitable given current economic conditions.",
+        "style": "News-like",
+        "translation": "专家表示，鉴于当前经济形势，市场调整不可避免。",
+        "translated_word": "不可避免"
+      }
+    ]
+  },
+  {
+    "word": "cave",
+    "phonetic": "/keɪv/",
+    "pos": [
+      "interjection",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "洞穴；山洞",
+    "examples": [
+      {
+        "sentence": "Even in the darkest cave, a single flame can illuminate the path to freedom.",
+        "style": "Inspirational",
+        "translation": "即使在最黑暗的洞穴中，一束火焰也能照亮通往自由的道路。",
+        "translated_word": "洞穴"
+      },
+      {
+        "sentence": "The cave knows nothing of the sun, yet the sun exists; what else might we be blind to?",
+        "style": "Philosophical",
+        "translation": "洞穴对太阳一无所知，但太阳依然存在；我们还可能对什么视而不见？",
+        "translated_word": "洞穴"
+      },
+      {
+        "sentence": "The cave exhales mist at dawn, breathing secrets older than the mountains themselves.",
+        "style": "Poetic",
+        "translation": "山洞在黎明时分吐出薄雾，呼吸着比群山本身更古老的秘密。",
+        "translated_word": "山洞"
+      },
+      {
+        "sentence": "Scientists discovered ancient paintings in a cave that had been sealed for thousands of years.",
+        "style": "News-like",
+        "translation": "科学家在一个封闭了数千年的洞穴中发现了古代壁画。",
+        "translated_word": "洞穴"
+      }
+    ]
+  },
+  {
+    "word": "monster",
+    "phonetic": "/ˈmɒnstə(ɹ)/",
+    "pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "noun",
+    "definition": "怪物；巨兽；恶魔",
+    "examples": [
+      {
+        "sentence": "The monster you fear most is often the one you must face to become who you're meant to be.",
+        "style": "Inspirational",
+        "translation": "你最害怕的怪物往往是你必须面对的，这样你才能成为命中注定的自己。",
+        "translated_word": "怪物"
+      },
+      {
+        "sentence": "Perhaps every monster was once a child who learned that kindness could not protect them.",
+        "style": "Philosophical",
+        "translation": "也许每个怪物曾经都是一个孩子，他们发现善良无法保护自己。",
+        "translated_word": "怪物"
+      },
+      {
+        "sentence": "In the garden of night, the monster sleeps beneath roses, dreaming of a gentler name.",
+        "style": "Poetic",
+        "translation": "在夜的花园里，怪物在玫瑰下沉睡，梦想着一个更温柔的名字。",
+        "translated_word": "怪物"
+      },
+      {
+        "sentence": "My little brother insists there's a monster under his bed, so I have to check every night.",
+        "style": "Conversational",
+        "translation": "我弟弟坚持说他床底下有个怪物，所以我每晚都得检查一遍。",
+        "translated_word": "怪物"
+      }
+    ]
+  },
+  {
+    "word": "unexpected",
+    "phonetic": "/ʌnɪkˈspɛktɪd/",
+    "pos": [
+      "adjective"
+    ],
+    "selected_pos": "adjective",
+    "definition": "意外的；出乎意料的；突如其来的",
+    "examples": [
+      {
+        "sentence": "The most unexpected moments often become the greatest turning points in our lives.",
+        "style": "Inspirational",
+        "translation": "最意外的时刻往往成为我们人生中最重要的转折点。",
+        "translated_word": "意外的"
+      },
+      {
+        "sentence": "What we call unexpected is merely the universe revealing how little we truly know.",
+        "style": "Philosophical",
+        "translation": "我们所谓的意外，不过是宇宙在揭示我们知之甚少。",
+        "translated_word": "意外"
+      },
+      {
+        "sentence": "Like unexpected rain on summer leaves, her laughter fell soft upon my weary heart.",
+        "style": "Poetic",
+        "translation": "如同夏日树叶上不期而至的雨滴，她的笑声轻柔地落在我疲惫的心上。",
+        "translated_word": "不期而至的"
+      },
+      {
+        "sentence": "The team's unexpected victory in the finals shocked fans and critics alike.",
+        "style": "News-like",
+        "translation": "该队在决赛中出人意料的胜利让球迷和评论家都大为震惊。",
+        "translated_word": "出人意料的"
+      }
+    ]
+  },
+  {
+    "word": "facilitate",
+    "phonetic": "/fəˈsɪləteɪt/",
+    "pos": [
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "促进；使便利；推动",
+    "examples": [
+      {
+        "sentence": "Great leaders don't command; they facilitate the growth of those around them.",
+        "style": "Inspirational",
+        "translation": "伟大的领导者不发号施令，而是促进身边人的成长。",
+        "translated_word": "促进"
+      },
+      {
+        "sentence": "Language does not merely describe reality; it facilitates our very ability to perceive it.",
+        "style": "Philosophical",
+        "translation": "语言不仅仅描述现实，它还推动我们感知现实的能力。",
+        "translated_word": "推动"
+      },
+      {
+        "sentence": "The river facilitates the journey of fallen leaves toward the waiting sea.",
+        "style": "Poetic",
+        "translation": "河流引领落叶踏上通往大海的旅程。",
+        "translated_word": "引领"
+      },
+      {
+        "sentence": "The new trade agreement will facilitate economic cooperation between the two nations.",
+        "style": "News-like",
+        "translation": "新的贸易协定将促进两国之间的经济合作。",
+        "translated_word": "促进"
+      }
+    ]
+  },
+  {
+    "word": "obstacle",
+    "phonetic": "/ˈɒbstəkl̩/",
+    "pos": [
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "障碍；阻碍；妨碍",
+    "examples": [
+      {
+        "sentence": "Every obstacle you overcome makes you stronger than you were yesterday.",
+        "style": "Inspirational",
+        "translation": "你克服的每一个障碍都会让你比昨天更强大。",
+        "translated_word": "障碍"
+      },
+      {
+        "sentence": "The greatest obstacle to discovery is not ignorance, but the illusion of knowledge.",
+        "style": "Philosophical",
+        "translation": "发现真理的最大阻碍不是无知，而是知识的假象。",
+        "translated_word": "阻碍"
+      },
+      {
+        "sentence": "Like a river flowing around a stone, she moved past each obstacle with quiet grace.",
+        "style": "Poetic",
+        "translation": "如河水绕石而过，她以宁静的优雅越过每一个障碍。",
+        "translated_word": "障碍"
+      },
+      {
+        "sentence": "Funding remains the primary obstacle to completing the new city hospital.",
+        "style": "News-like",
+        "translation": "资金仍然是完成新市立医院建设的主要障碍。",
+        "translated_word": "障碍"
+      }
+    ]
+  },
+  {
+    "word": "overwhelming",
+    "phonetic": "/ˌəʊvəˈwɛlmɪŋ/",
+    "pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "adjective",
+    "definition": "压倒性的；势不可挡的；令人难以承受的",
+    "examples": [
+      {
+        "sentence": "The overwhelming support from strangers reminded her that kindness still thrives in this world.",
+        "style": "Inspirational",
+        "translation": "来自陌生人的压倒性支持提醒她，善良在这个世界上依然蓬勃生长。",
+        "translated_word": "压倒性"
+      },
+      {
+        "sentence": "Is it not strange that overwhelming evidence often fails to change a mind already made up?",
+        "style": "Philosophical",
+        "translation": "奇怪的是，势不可挡的证据往往无法改变一个已经做出决定的人的想法。",
+        "translated_word": "势不可挡的"
+      },
+      {
+        "sentence": "The overwhelming scent of jasmine drifted through the night like a whispered secret.",
+        "style": "Poetic",
+        "translation": "浓郁的茉莉花香飘过夜空，如同一个轻声诉说的秘密。",
+        "translated_word": "浓郁的"
+      },
+      {
+        "sentence": "I felt this overwhelming urge to call my mom after watching that old family video.",
+        "style": "Conversational",
+        "translation": "看完那段老家庭录像后，我有一种难以抑制的冲动想给妈妈打电话。",
+        "translated_word": "难以抑制的"
+      }
+    ]
+  },
+  {
+    "word": "rip",
+    "phonetic": "/ɹɪp/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "selected_pos": "verb",
+    "definition": "撕裂；扯破；猛拉",
+    "examples": [
+      {
+        "sentence": "Sometimes you have to rip away the old habits to make room for the person you're becoming.",
+        "style": "Inspirational",
+        "translation": "有时你必须撕掉旧习惯，才能为正在成长的自己腾出空间。",
+        "translated_word": "撕掉"
+      },
+      {
+        "sentence": "We rip pages from the book of yesterday, yet the stories remain written in our souls.",
+        "style": "Philosophical",
+        "translation": "我们撕去昨日书页，故事却仍镌刻于灵魂深处。",
+        "translated_word": "撕去"
+      },
+      {
+        "sentence": "The autumn wind began to rip golden leaves from trembling branches like whispered farewells.",
+        "style": "Poetic",
+        "translation": "秋风开始从颤抖的枝头扯落金黄的叶片，如同低语的告别。",
+        "translated_word": "扯落"
+      },
+      {
+        "sentence": "I accidentally ripped my jacket on a nail while moving the furniture.",
+        "style": "Conversational",
+        "translation": "我搬家具的时候不小心在钉子上把外套扯破了。",
+        "translated_word": "扯破"
+      }
+    ]
+  },
+  {
+    "word": "crystal",
+    "phonetic": "/ˈkɹɪstəl/",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "selected_pos": "noun",
+    "definition": "水晶；晶体；水晶制品",
+    "examples": [
+      {
+        "sentence": "Like a crystal forming under pressure, your character is shaped by the challenges you overcome.",
+        "style": "Inspirational",
+        "translation": "就像水晶在压力下形成，你的品格也是由你克服的挑战所塑造的。",
+        "translated_word": "水晶"
+      },
+      {
+        "sentence": "Truth, like a crystal, has many facets; which one you see depends on where you stand.",
+        "style": "Philosophical",
+        "translation": "真理如同晶体，有许多面；你看到哪一面取决于你站在哪里。",
+        "translated_word": "晶体"
+      },
+      {
+        "sentence": "Morning dew hung on the grass like tiny crystals, catching the first light of dawn.",
+        "style": "Poetic",
+        "translation": "晨露悬挂在草叶上，宛如细小的水晶，捕捉着黎明的第一缕光。",
+        "translated_word": "水晶"
+      },
+      {
+        "sentence": "She picked up the wine glass, admiring how the crystal caught the candlelight.",
+        "style": "Conversational",
+        "translation": "她拿起酒杯，欣赏着水晶杯在烛光下的闪耀。",
+        "translated_word": "水晶"
+      }
+    ]
+  }
+]
