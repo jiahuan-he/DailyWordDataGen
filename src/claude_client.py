@@ -28,6 +28,12 @@ class ClaudeParseError(ClaudeGenerationError):
     pass
 
 
+class ClaudeConsecutiveFailureError(ClaudeGenerationError):
+    """Raised when Claude fails consecutively, indicating systemic issues like rate limits."""
+
+    pass
+
+
 @retry(
     stop=stop_after_attempt(3),
     wait=wait_exponential(multiplier=2, min=5, max=60),

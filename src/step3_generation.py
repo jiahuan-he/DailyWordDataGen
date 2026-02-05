@@ -10,6 +10,7 @@ from src.models import EnrichedWord, FinalWordEntry, LLMGenerationResult
 from src.claude_client import (
     generate_examples_for_word,
     ClaudeGenerationError,
+    ClaudeConsecutiveFailureError,
 )
 from src.checkpoint import CheckpointManager
 from src.step2_enrichment import load_enriched_words
@@ -178,28 +179,49 @@ def run_step3(
     # Process each word
     validation_warnings = []
     total_words = len(words_to_process)
+    consecutive_failures = 0  # Track consecutive Claude CLI errors
+    CONSECUTIVE_FAILURE_THRESHOLD = 2
 
-    for i, enriched in enumerate(tqdm(words_to_process, desc="  Generating")):
-        logger.info(f"  [{i+1}/{total_words}] Processing: {enriched.word}")
-        entry, errors = generate_for_word(enriched, prompt_template)
+    try:
+        for i, enriched in enumerate(tqdm(words_to_process, desc="  Generating")):
+            logger.info(f"  [{i+1}/{total_words}] Processing: {enriched.word}")
+            entry, errors = generate_for_word(enriched, prompt_template)
 
-        if entry:
-            entries_dict[enriched.word] = entry
-            checkpoint.mark_processed(enriched.word, i)
-            logger.info(f"  [{i+1}/{total_words}] Success: {enriched.word}")
+            if entry:
+                entries_dict[enriched.word] = entry
+                checkpoint.mark_processed(enriched.word, i)
+                logger.info(f"  [{i+1}/{total_words}] Success: {enriched.word}")
+                consecutive_failures = 0  # Reset on success
 
-            if errors:
-                validation_warnings.append((enriched.word, errors))
-                logger.warning(f"  [{i+1}/{total_words}] Validation warning for {enriched.word}: {errors}")
-        else:
-            checkpoint.mark_failed(enriched.word)
-            logger.error(f"  [{i+1}/{total_words}] Failed: {enriched.word} - {errors}")
+                if errors:
+                    validation_warnings.append((enriched.word, errors))
+                    logger.warning(f"  [{i+1}/{total_words}] Validation warning for {enriched.word}: {errors}")
+            else:
+                checkpoint.mark_failed(enriched.word)
+                logger.error(f"  [{i+1}/{total_words}] Failed: {enriched.word} - {errors}")
 
-        # Save periodically (every 10 words)
-        if (i + 1) % 10 == 0:
-            result = list(entries_dict.values())
-            save_final_output(result, output_path)
-            logger.info(f"  Checkpoint saved: {len(result)} words")
+                # Check if this is a Claude CLI error (indicates rate limit or systemic issue)
+                is_cli_error = any("Claude CLI error" in str(e) for e in errors)
+                if is_cli_error:
+                    consecutive_failures += 1
+                    logger.warning(f"  Consecutive Claude CLI failures: {consecutive_failures}/{CONSECUTIVE_FAILURE_THRESHOLD}")
+                    if consecutive_failures >= CONSECUTIVE_FAILURE_THRESHOLD:
+                        raise ClaudeConsecutiveFailureError(
+                            f"Stopping after {CONSECUTIVE_FAILURE_THRESHOLD} consecutive Claude CLI errors"
+                        )
+                else:
+                    consecutive_failures = 0  # Reset on non-CLI errors
+
+            # Save periodically (every 10 words)
+            if (i + 1) % 10 == 0:
+                result = list(entries_dict.values())
+                save_final_output(result, output_path)
+                logger.info(f"  Checkpoint saved: {len(result)} words")
+
+    except ClaudeConsecutiveFailureError as e:
+        logger.error(f"  {e}")
+        logger.error("  Stopping early due to consecutive failures. Partial results NOT saved.")
+        return final_entries  # Return original entries, discarding partial results
 
     # Final save
     result = list(entries_dict.values())
