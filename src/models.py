@@ -27,26 +27,6 @@ class ExampleSentence(BaseModel):
     translation: str
     translated_word: str
 
-    # Scoring fields (1-10 scale, None for legacy data)
-    contextual_fitness: Optional[int] = Field(
-        default=None,
-        ge=1,
-        le=10,
-        description="How well the example shows the word in a natural, clear context",
-    )
-    memorability: Optional[int] = Field(
-        default=None,
-        ge=1,
-        le=10,
-        description="How easy the sentence is to remember for learning",
-    )
-    emotional_resonance: Optional[int] = Field(
-        default=None,
-        ge=1,
-        le=10,
-        description="How relatable and inspirational the sentence is",
-    )
-
 
 class FinalWordEntry(BaseModel):
     """Complete word entry with all generated data."""

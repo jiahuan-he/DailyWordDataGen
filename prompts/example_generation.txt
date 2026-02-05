@@ -10,38 +10,33 @@ Your task:
    - Use short terms (1-3 words each), separated by semicolons
    - Avoid lengthy explanations or descriptions
    - Example: "人质" NOT "人质；被扣押作为要挟筹码的人"
-3. Generate 5 example sentences using the word as the selected part of speech ONLY
+3. Generate 4 example sentences using the word as the selected part of speech ONLY
 4. Translate each sentence to natural Chinese
 5. Identify the Chinese word/phrase that corresponds to "{word}"
-6. Score each example on three dimensions (1-10 scale):
-   - contextual_fitness: How well does this example show the word in a natural, clear context? (10 = perfect demonstration of meaning and usage)
-   - memorability: How easy is this sentence to remember for a language learner? (10 = highly memorable due to vivid imagery, rhythm, or simplicity)
-   - emotional_resonance: How relatable and inspirational is this sentence? (10 = deeply moving or personally meaningful)
 
 Styles (one sentence each):
+Required styles (generate all 3):
 1. Inspirational - motivating, uplifting
 2. Philosophical - thought-provoking
-3. News-like - formal journalism
-4. Poetic - lyrical, metaphorical
-5. Conversational - casual daily speech
+3. Poetic - lyrical, metaphorical
+
+Pick ONE that best fits the word:
+4. News-like - formal journalism OR Conversational - casual daily speech
 
 Rules:
 - Keep sentences natural and memorable (10-25 words)
 - Do not use em dash (—), use colons or semicolons instead
 - translated_word must be an EXACT substring of translation
 - All examples must use the word as the selected part of speech
-- Be honest and critical with scores; not every example should be a 10
-- Scores should reflect genuine quality differences between examples
 
 Output as JSON:
 {{
   "selected_pos": "noun",
   "definition": "...",
   "examples": [
-    {{"sentence": "...", "style": "Inspirational", "translation": "...", "translated_word": "...", "contextual_fitness": 8, "memorability": 9, "emotional_resonance": 10}},
-    {{"sentence": "...", "style": "Philosophical", "translation": "...", "translated_word": "...", "contextual_fitness": 9, "memorability": 7, "emotional_resonance": 8}},
-    {{"sentence": "...", "style": "News-like", "translation": "...", "translated_word": "...", "contextual_fitness": 9, "memorability": 6, "emotional_resonance": 5}},
-    {{"sentence": "...", "style": "Poetic", "translation": "...", "translated_word": "...", "contextual_fitness": 7, "memorability": 9, "emotional_resonance": 9}},
-    {{"sentence": "...", "style": "Conversational", "translation": "...", "translated_word": "...", "contextual_fitness": 8, "memorability": 8, "emotional_resonance": 6}}
+    {{"sentence": "...", "style": "Inspirational", "translation": "...", "translated_word": "..."}},
+    {{"sentence": "...", "style": "Philosophical", "translation": "...", "translated_word": "..."}},
+    {{"sentence": "...", "style": "Poetic", "translation": "...", "translated_word": "..."}},
+    {{"sentence": "...", "style": "News-like or Conversational", "translation": "...", "translated_word": "..."}}
   ]
 }}

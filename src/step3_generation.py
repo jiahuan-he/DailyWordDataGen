@@ -89,10 +89,6 @@ def validate_entry(entry: FinalWordEntry) -> list[str]:
         if "—" in ex.sentence or "—" in ex.translation:
             errors.append(f"Example {i+1}: contains em dash")
 
-        # Check scores are present (warning, not error)
-        if ex.contextual_fitness is None or ex.memorability is None or ex.emotional_resonance is None:
-            errors.append(f"Example {i+1}: missing one or more scores")
-
     return errors
 
 
