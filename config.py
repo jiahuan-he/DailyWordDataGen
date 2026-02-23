@@ -50,10 +50,15 @@ CLAUDE_TIMEOUT = 180  # seconds
 DEFAULT_BATCH_SIZE = 100
 DRY_RUN_LIMIT = 10
 
-# Example styles (4th can be News-like or Conversational)
+# Example styles (9 styles, one sentence each)
 EXAMPLE_STYLES = [
-    "Inspirational",
+    "Formal",
+    "Definitional",
+    "Contrastive",
+    "Collocational",
     "Philosophical",
+    "Warm",
     "Poetic",
-    "News-like/Conversational",
+    "Inspirational",
+    "News-like",
 ]
