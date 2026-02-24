@@ -26,6 +26,7 @@ class ExampleSentence(BaseModel):
     style: str
     translation: str
     translated_word: str
+    display_order: Optional[int] = None  # 1-4 for selected examples, None for others
 
 
 class FinalWordEntry(BaseModel):

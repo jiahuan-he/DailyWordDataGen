@@ -9,6 +9,7 @@ import config
 from src.models import EnrichedWord, FinalWordEntry, LLMGenerationResult
 from src.claude_client import (
     generate_examples_for_word,
+    select_best_examples,
     ClaudeGenerationError,
     ClaudeConsecutiveFailureError,
 )
@@ -90,29 +91,56 @@ def validate_entry(entry: FinalWordEntry) -> list[str]:
         if "—" in ex.sentence or "—" in ex.translation:
             errors.append(f"Example {i+1}: contains em dash")
 
+    # Check exactly 4 examples have display_order
+    selected_count = sum(1 for ex in entry.examples if ex.display_order is not None)
+    if selected_count != 4:
+        errors.append(f"Expected 4 selected examples, got {selected_count}")
+
+    # Check display_order values are 1-4
+    display_orders = sorted([ex.display_order for ex in entry.examples if ex.display_order is not None])
+    if display_orders != [1, 2, 3, 4]:
+        errors.append(f"Invalid display_order values: {display_orders}")
+
     return errors
 
 
 def generate_for_word(
     enriched: EnrichedWord,
-    prompt_template: str,
+    generation_prompt: str,
+    selection_prompt: str,
 ) -> tuple[FinalWordEntry | None, list[str]]:
     """
-    Generate examples for a single word.
+    Generate examples for a single word and select the best 4.
 
     Args:
         enriched: Enriched word data
-        prompt_template: The prompt template to use
+        generation_prompt: The prompt template for generating examples
+        selection_prompt: The prompt template for selecting best examples
 
     Returns:
         Tuple of (FinalWordEntry or None, list of errors)
     """
     try:
+        # Step A: Generate 9 examples
         result = generate_examples_for_word(
             word=enriched.word,
             pos=enriched.pos,
-            prompt_template=prompt_template,
+            prompt_template=generation_prompt,
         )
+
+        # Step B: Select best 4 examples
+        selections = select_best_examples(
+            word=enriched.word,
+            selected_pos=result.selected_pos,
+            definition=result.definition,
+            examples=result.examples,
+            prompt_template=selection_prompt,
+        )
+
+        # Step C: Apply display_order to examples
+        for selection in selections:
+            result.examples[selection["index"]].display_order = selection["display_order"]
+
         entry = create_final_entry(enriched, result)
         errors = validate_entry(entry)
         return entry, errors
@@ -147,8 +175,9 @@ def run_step3(
     enriched_words = load_enriched_words()
     logger.info(f"  Loaded {len(enriched_words)} enriched words")
 
-    # Load prompt template
-    prompt_template = load_prompt_template()
+    # Load prompt templates
+    generation_prompt = load_prompt_template(config.EXAMPLE_GENERATION_PROMPT)
+    selection_prompt = load_prompt_template(config.EXAMPLE_SELECTION_PROMPT)
 
     # Initialize checkpoint
     checkpoint = CheckpointManager(config.STEP3_CHECKPOINT)
@@ -185,7 +214,7 @@ def run_step3(
     try:
         for i, enriched in enumerate(tqdm(words_to_process, desc="  Generating")):
             logger.info(f"  [{i+1}/{total_words}] Processing: {enriched.word}")
-            entry, errors = generate_for_word(enriched, prompt_template)
+            entry, errors = generate_for_word(enriched, generation_prompt, selection_prompt)
 
             if entry:
                 entries_dict[enriched.word] = entry

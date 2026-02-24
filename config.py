@@ -34,8 +34,9 @@ def get_final_output_path(timestamp: datetime | None = None) -> Path:
 STEP2_CHECKPOINT = CHECKPOINTS_DIR / "step2_progress.json"
 STEP3_CHECKPOINT = CHECKPOINTS_DIR / "step3_progress.json"
 
-# Prompt template
+# Prompt templates
 EXAMPLE_GENERATION_PROMPT = PROMPTS_DIR / "example_generation.txt"
+EXAMPLE_SELECTION_PROMPT = PROMPTS_DIR / "example_selection.txt"
 
 # API settings
 FREE_DICTIONARY_API_URL = "https://api.dictionaryapi.dev/api/v2/entries/en"

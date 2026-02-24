@@ -200,3 +200,54 @@ def generate_examples_for_word(
 
     response = generate_with_claude(prompt)
     return parse_generation_result(response)
+
+
+def select_best_examples(
+    word: str,
+    selected_pos: str,
+    definition: str,
+    examples: list[ExampleSentence],
+    prompt_template: str,
+) -> list[dict]:
+    """
+    Select 4 best examples from 9 generated examples.
+
+    Args:
+        word: The vocabulary word
+        selected_pos: The selected part of speech
+        definition: The word's definition
+        examples: List of 9 generated examples
+        prompt_template: The selection prompt template
+
+    Returns:
+        List of {"index": int, "display_order": int} dicts
+    """
+    # Format examples as JSON for prompt
+    examples_json = json.dumps(
+        [
+            {
+                "index": i,
+                "style": ex.style,
+                "sentence": ex.sentence,
+                "translation": ex.translation,
+                "translated_word": ex.translated_word,
+            }
+            for i, ex in enumerate(examples)
+        ],
+        ensure_ascii=False,
+        indent=2,
+    )
+
+    prompt = prompt_template.format(
+        word=word,
+        selected_pos=selected_pos,
+        definition=definition,
+        examples_json=examples_json,
+    )
+
+    response = generate_with_claude(prompt)
+
+    if "selections" not in response:
+        raise ClaudeParseError("Response missing 'selections' field")
+
+    return response["selections"]

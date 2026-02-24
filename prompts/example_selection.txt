@@ -1,0 +1,52 @@
+You are an expert vocabulary example evaluator for an ESL learning app.
+
+For the word "{word}" ({selected_pos}), select the 4 BEST examples from the 9 provided below.
+
+Word definition: {definition}
+
+Examples to evaluate:
+{examples_json}
+
+## Selection Criteria
+
+Evaluate each example on these dimensions:
+
+1. **Contextual Clarity** (for ESL learners)
+   - Does the sentence clearly demonstrate the word's meaning?
+   - Can a learner infer the word's usage from context?
+   - Is the difficulty level appropriate (not too simple, not too complex)?
+
+2. **Memorability** (for all learners)
+   - Is the sentence interesting and engaging?
+   - Does it paint a vivid picture or tell a mini-story?
+   - Would a reader naturally remember this example?
+
+3. **Translation Quality**
+   - Is the Chinese translation natural and accurate?
+   - Does translated_word correctly identify the corresponding Chinese?
+
+4. **Practical Value**
+   - Does the example show a common, useful usage pattern?
+   - Is it applicable to real-life situations?
+
+## Style Diversity Requirement
+
+IMPORTANT: Prefer style diversity in your selection. Avoid selecting examples that are too similar in tone (e.g., don't select both Formal and News-like if other quality examples exist). Aim for a mix that gives learners varied contexts.
+
+## Output
+
+Select exactly 4 examples and rank them:
+- display_order 1: Best overall (will be shown most prominently)
+- display_order 2: Second best
+- display_order 3: Third best
+- display_order 4: Fourth best
+
+Output as JSON:
+{{
+  "selections": [
+    {{"index": 0, "display_order": 1, "reason": "Brief reason"}},
+    {{"index": 3, "display_order": 2, "reason": "Brief reason"}},
+    {{"index": 5, "display_order": 3, "reason": "Brief reason"}},
+    {{"index": 7, "display_order": 4, "reason": "Brief reason"}}
+  ]
+}}
