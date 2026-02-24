@@ -30,6 +30,7 @@ Rules:
 - Do not use em dash (—), use colons or semicolons instead
 - translated_word must be an EXACT substring of translation
 - All examples must use the word as the selected part of speech
+- Avoid first-person pronouns (I, we, my, our); use second-person (you, your) or third-person
 
 Output as JSON:
 {{
