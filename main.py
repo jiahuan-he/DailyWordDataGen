@@ -95,7 +95,7 @@ Examples:
 
     # Generate output path with timestamp at pipeline start
     pipeline_start = datetime.now()
-    output_path = config.get_final_output_path(pipeline_start)
+    output_path = config.get_final_output_path(pipeline_start, word_range=word_range)
 
     logger.info("=" * 60)
     logger.info("DailyWord Data Generation Pipeline")

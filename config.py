@@ -6,6 +6,7 @@ from pathlib import Path
 # Base paths
 PROJECT_ROOT = Path(__file__).parent
 DATA_DIR = PROJECT_ROOT / "data"
+FINAL_DATA_DIR = PROJECT_ROOT / "final_data_v2"  # Step 3 output directory
 CHECKPOINTS_DIR = PROJECT_ROOT / "checkpoints"
 PROMPTS_DIR = PROJECT_ROOT / "prompts"
 LOGS_DIR = PROJECT_ROOT / "logs"
@@ -16,19 +17,26 @@ SELECTED_WORDS_CSV = DATA_DIR / "selected_words.csv"
 ENRICHED_WORDS_JSON = DATA_DIR / "enriched_words.json"
 
 
-def get_final_output_path(timestamp: datetime | None = None) -> Path:
+def get_final_output_path(
+    timestamp: datetime | None = None, word_range: tuple[int, int] | None = None
+) -> Path:
     """Generate output path with datetime suffix.
 
     Args:
         timestamp: Datetime to use for suffix. If None, uses current time.
+        word_range: Optional word range tuple (start, end) for subfolder organization.
 
     Returns:
-        Path like data/final_output_20260131_143022.json
+        Path like final_data_v2/final_output_20260131_143022.json
+        or final_data_v2/201-300/final_output_20260131_143022.json if word_range provided
     """
     if timestamp is None:
         timestamp = datetime.now()
     suffix = timestamp.strftime("%Y%m%d_%H%M%S")
-    return DATA_DIR / f"final_output_{suffix}.json"
+    if word_range:
+        range_folder = f"{word_range[0]}-{word_range[1]}"
+        return FINAL_DATA_DIR / range_folder / f"final_output_{suffix}.json"
+    return FINAL_DATA_DIR / f"final_output_{suffix}.json"
 
 # Checkpoint files
 STEP2_CHECKPOINT = CHECKPOINTS_DIR / "step2_progress.json"
