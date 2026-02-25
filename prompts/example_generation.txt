@@ -2,49 +2,47 @@ You are an English vocabulary example generator.
 
 For the word "{word}" with available parts of speech: [{pos}]
 
-Your task:
-1. Select ONE part of speech to focus on:
-   - If the list above is not empty, you MUST pick one from the list (choose the most common/popular usage that is easiest to generate natural examples for)
-   - If the list is empty, determine the most appropriate part of speech yourself
-2. Provide a dictionary-style Chinese definition for the word as the selected part of speech ONLY:
-   - Use short terms (1-3 words each), separated by semicolons
-   - Avoid lengthy explanations or descriptions
-   - Example: "人质" NOT "人质；被扣押作为要挟筹码的人"
-3. Generate 9 example sentences using the word as the selected part of speech ONLY
-4. Translate each sentence to natural Chinese
-5. Identify the Chinese word/phrase that corresponds to "{word}"
+Step 1: Select Part of Speech
+- If the list above is not empty, pick the most common/natural usage from it
+- If the list is empty, determine the most appropriate part of speech yourself
 
-Styles (one sentence each, generate all 9):
-1. Formal - professional, journalistic
-2. Definitional - clear, concise
-3. Contrastive - comparative, distinguishing
-4. Collocational - phrase-focused, practical
-5. Philosophical - thought-provoking
-6. Warm - empathetic, comforting
-7. Poetic - lyrical, metaphorical
-8. Inspirational - motivating, uplifting
-9. News-like - formal journalism
+Step 2: Define the Word
+Provide a dictionary-style Chinese definition for the selected part of speech ONLY:
+- Use 2-4 short terms (1-3 words each), separated by semicolons
+- Example: "辞职；放弃；顺从" NOT "辞职；自愿离开某个工作岗位或职务"
+
+Step 3: Generate 7 Example Sentences
+Create one sentence per style below. Prioritize naturalness over all other qualities.
+
+Styles:
+1. Formal: professional, journalistic, news-like
+2. Definitional: clear, concise, explaining meaning
+3. Contrastive: comparative, distinguishing from alternatives
+4. Collocational: showcasing common phrases or pairings
+5. Philosophical: thought-provoking, reflective
+6. Poetic: lyrical, metaphorical, vivid imagery
+7. Inspirational: motivating, uplifting, empowering
 
 Rules:
-- Keep sentences natural and memorable (6-18 words)
-- Do not use em dash (—), use colons or semicolons instead
-- translated_word must be an EXACT substring of translation
+- Keep sentences short and natural
+- Do not use em dash (—); use colons or semicolons instead
+- Avoid first-person pronouns (I, we, my, our); use second-person or third-person
 - All examples must use the word as the selected part of speech
-- Avoid first-person pronouns (I, we, my, our); use second-person (you, your) or third-person
 
-Output as JSON:
+Step 4: Translate
+Translate each sentence into natural Chinese. Prioritize fluent Chinese over word-for-word correspondence.
+
+Output Format:
 {{
-  "selected_pos": "noun",
+  "selected_pos": "...",
   "definition": "...",
   "examples": [
-    {{"sentence": "...", "style": "Formal", "translation": "...", "translated_word": "..."}},
-    {{"sentence": "...", "style": "Definitional", "translation": "...", "translated_word": "..."}},
-    {{"sentence": "...", "style": "Contrastive", "translation": "...", "translated_word": "..."}},
-    {{"sentence": "...", "style": "Collocational", "translation": "...", "translated_word": "..."}},
-    {{"sentence": "...", "style": "Philosophical", "translation": "...", "translated_word": "..."}},
-    {{"sentence": "...", "style": "Warm", "translation": "...", "translated_word": "..."}},
-    {{"sentence": "...", "style": "Poetic", "translation": "...", "translated_word": "..."}},
-    {{"sentence": "...", "style": "Inspirational", "translation": "...", "translated_word": "..."}},
-    {{"sentence": "...", "style": "News-like", "translation": "...", "translated_word": "..."}}
+    {{"sentence": "...", "style": "Formal", "translation": "..."}},
+    {{"sentence": "...", "style": "Definitional", "translation": "..."}},
+    {{"sentence": "...", "style": "Contrastive", "translation": "..."}},
+    {{"sentence": "...", "style": "Collocational", "translation": "..."}},
+    {{"sentence": "...", "style": "Philosophical", "translation": "..."}},
+    {{"sentence": "...", "style": "Poetic", "translation": "..."}},
+    {{"sentence": "...", "style": "Inspirational", "translation": "..."}}
   ]
 }}
