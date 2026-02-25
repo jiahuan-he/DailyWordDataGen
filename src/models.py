@@ -7,7 +7,6 @@ from pydantic import BaseModel, Field
 class SelectedWord(BaseModel):
     """A word selected for inclusion in the vocabulary list."""
 
-    frequency: int
     word: str
 
 

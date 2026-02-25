@@ -12,8 +12,18 @@ import config
 from src.models import EnrichedWord, SelectedWord
 from src.dictionary_client import lookup_word, WordNotFoundError, DictionaryLookupError
 from src.checkpoint import CheckpointManager
-from src.step1_selection import load_selected_words
 from src.logger import get_logger
+
+
+def load_vocabulary_words(path: Path = config.VOCABULARY_TXT) -> list[SelectedWord]:
+    """Load words from vocabulary.txt file (one word per line)."""
+    words = []
+    with open(path, "r") as f:
+        for line in f:
+            word = line.strip()
+            if word:  # Skip empty lines
+                words.append(SelectedWord(word=word))
+    return words
 
 
 def load_enriched_words(path: Path = config.ENRICHED_WORDS_JSON) -> list[EnrichedWord]:
@@ -162,7 +172,7 @@ def run_step2(
     logger.info("Step 2: Enriching words with dictionary data...")
 
     # Load selected words
-    selected_words = load_selected_words()
+    selected_words = load_vocabulary_words()
     logger.info(f"  Loaded {len(selected_words)} selected words")
 
     # Apply dry run limit (process first N words by row order)

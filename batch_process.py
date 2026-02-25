@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 """Batch processor for DailyWord vocabulary data generation.
 
-Processes all words organized by frequency range (e.g., 1-100, 101-200, etc.).
+Processes all words organized by row index (e.g., 0-100, 100-200, etc.).
 """
 
-import csv
 import glob
 import json
 import shutil
@@ -17,13 +16,12 @@ from pathlib import Path
 from src.logger import setup_logger
 
 # Configuration
-BATCH_SIZE = 100  # Frequency range per batch
-MAX_FREQUENCY = 20000
+BATCH_SIZE = 100  # Number of words per batch
 MAX_RETRIES = 3
 FINAL_DATA_DIR = Path("final_data")
 DATA_DIR = Path("data")
 CHECKPOINTS_DIR = Path("checkpoints")
-SELECTED_WORDS_CSV = DATA_DIR / "selected_words.csv"
+VOCABULARY_TXT = DATA_DIR / "vocabulary.txt"
 
 
 def clear_checkpoints(logger):
@@ -33,65 +31,30 @@ def clear_checkpoints(logger):
         logger.debug(f"Cleared checkpoint: {checkpoint_file.name}")
 
 
-def load_frequency_set() -> set[int]:
-    """Load all frequencies from selected_words.csv."""
-    frequencies = set()
-    with open(SELECTED_WORDS_CSV, "r") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            frequencies.add(int(row["frequency"]))
-    return frequencies
-
-
-def load_words_with_indices() -> list[tuple[int, int, str]]:
-    """Load words with their row index and frequency.
-
-    Returns:
-        List of (row_index, frequency, word) tuples
-    """
+def load_vocabulary() -> list[str]:
+    """Load all words from vocabulary.txt."""
     words = []
-    with open(SELECTED_WORDS_CSV, "r") as f:
-        reader = csv.DictReader(f)
-        for idx, row in enumerate(reader):
-            words.append((idx, int(row["frequency"]), row["word"]))
+    with open(VOCABULARY_TXT, "r") as f:
+        for line in f:
+            word = line.strip()
+            if word:
+                words.append(word)
     return words
 
 
-def get_row_range_for_frequency(words: list[tuple[int, int, str]], min_freq: int, max_freq: int) -> tuple[int, int] | None:
-    """Find the row index range for words within a frequency range.
-
-    Args:
-        words: List of (row_index, frequency, word) tuples
-        min_freq: Minimum frequency (inclusive)
-        max_freq: Maximum frequency (inclusive)
-
-    Returns:
-        (start_row, end_row) tuple where end is exclusive, or None if no words in range
-    """
-    matching_indices = [idx for idx, freq, _ in words if min_freq <= freq <= max_freq]
-    if not matching_indices:
-        return None
-    return min(matching_indices), max(matching_indices) + 1  # end is exclusive
-
-
 def get_batch_info(batch_index: int) -> tuple[int, int, str]:
-    """Calculate batch frequency range and folder name.
+    """Calculate batch row range and folder name.
 
     Args:
         batch_index: 0-based batch index (0, 1, 2, ...)
 
     Returns:
-        Tuple of (min_freq, max_freq, folder_name)
+        Tuple of (start_row, end_row, folder_name) - end_row is exclusive
     """
-    min_freq = batch_index * BATCH_SIZE + 1
-    max_freq = (batch_index + 1) * BATCH_SIZE
-    folder_name = f"{min_freq}-{max_freq}"
-    return min_freq, max_freq, folder_name
-
-
-def count_words_in_range(frequencies: set[int], min_freq: int, max_freq: int) -> int:
-    """Count how many words fall within a frequency range."""
-    return sum(1 for f in frequencies if min_freq <= f <= max_freq)
+    start_row = batch_index * BATCH_SIZE
+    end_row = (batch_index + 1) * BATCH_SIZE
+    folder_name = f"{start_row}-{end_row}"
+    return start_row, end_row, folder_name
 
 
 def run_command(cmd: list[str], description: str, logger) -> tuple[bool, str]:
@@ -151,25 +114,26 @@ def is_valid_output_file(file_path: Path, min_words: int = 1) -> tuple[bool, int
         return False, 0
 
 
-def process_batch(batch_index: int, frequencies: set[int], words_data: list[tuple[int, int, str]], logger, force: bool = False) -> bool:
+def process_batch(batch_index: int, total_words: int, logger, force: bool = False) -> bool:
     """Process a single batch with retry logic.
 
     Args:
         batch_index: 0-based batch index
-        frequencies: Set of all frequencies (for quick count check)
-        words_data: List of (row_index, frequency, word) tuples for row range lookup
+        total_words: Total number of words in vocabulary
         logger: Logger instance
         force: Force reprocessing even if output exists
 
     Returns:
         True if successful (or skipped), False if failed after all retries
     """
-    min_freq, max_freq, folder_name = get_batch_info(batch_index)
+    start_row, end_row, folder_name = get_batch_info(batch_index)
     batch_folder = FINAL_DATA_DIR / folder_name
 
-    # Check if any words exist in this frequency range
-    word_count = count_words_in_range(frequencies, min_freq, max_freq)
-    if word_count == 0:
+    # Clamp end_row to actual word count
+    end_row = min(end_row, total_words)
+    word_count = end_row - start_row
+
+    if word_count <= 0:
         logger.info(f"[Batch {batch_index}] {folder_name}: No words in range, skipping")
         return True
 
@@ -177,14 +141,6 @@ def process_batch(batch_index: int, frequencies: set[int], words_data: list[tupl
     if not force and batch_has_valid_output(batch_folder, word_count, logger):
         logger.info(f"[Batch {batch_index}] {folder_name}: Already has valid output, skipping")
         return True
-
-    # Convert frequency range to row range
-    row_range = get_row_range_for_frequency(words_data, min_freq, max_freq)
-    if row_range is None:
-        logger.info(f"[Batch {batch_index}] {folder_name}: No words in frequency range, skipping")
-        return True
-
-    start_row, end_row = row_range
 
     logger.info("=" * 60)
     logger.info(f"Processing batch {batch_index}: {folder_name} ({word_count} words, rows {start_row}-{end_row})")
@@ -295,14 +251,17 @@ def main():
     log_file = f"batch_from_{start_batch}_{timestamp}.log"
     logger = setup_logger(name="batch", log_file=log_file)
 
-    # Calculate total batches
-    total_batches = (MAX_FREQUENCY + BATCH_SIZE - 1) // BATCH_SIZE
+    # Load vocabulary and calculate total batches
+    logger.info("Loading vocabulary...")
+    words = load_vocabulary()
+    total_words = len(words)
+    total_batches = (total_words + BATCH_SIZE - 1) // BATCH_SIZE
 
     logger.info("=" * 60)
-    logger.info("DailyWord Batch Processing (by Frequency)")
+    logger.info("DailyWord Batch Processing (by Row Index)")
     logger.info("=" * 60)
-    logger.info(f"Frequency range: 1 to {MAX_FREQUENCY}")
-    logger.info(f"Batch size: {BATCH_SIZE} frequencies per batch")
+    logger.info(f"Total words: {total_words}")
+    logger.info(f"Batch size: {BATCH_SIZE} words per batch")
     logger.info(f"Total batches: {total_batches}")
     logger.info(f"Output directory: {FINAL_DATA_DIR}")
     logger.info(f"Starting from batch: {start_batch}")
@@ -310,13 +269,6 @@ def main():
         logger.info(f"Batch count limit: {batch_count}")
     if force:
         logger.info("Force mode: will reprocess all batches")
-
-    # Load frequencies to check which ranges have words
-    logger.info("Loading word frequencies...")
-    frequencies = load_frequency_set()
-    words_data = load_words_with_indices()
-    logger.info(f"Total unique frequencies: {len(frequencies)}")
-    logger.info(f"Total words loaded: {len(words_data)}")
     logger.info("=" * 60)
 
     # Create main output directory
@@ -338,14 +290,14 @@ def main():
             break
 
         last_batch_index = batch_index
-        min_freq, max_freq, folder_name = get_batch_info(batch_index)
-        word_count = count_words_in_range(frequencies, min_freq, max_freq)
+        start_row, end_row, folder_name = get_batch_info(batch_index)
 
-        if word_count == 0:
+        # Skip if beyond total words
+        if start_row >= total_words:
             skipped_batches += 1
             continue
 
-        success = process_batch(batch_index, frequencies, words_data, logger, force=force)
+        success = process_batch(batch_index, total_words, logger, force=force)
         if success:
             processed_batches += 1
         else:

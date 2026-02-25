@@ -7,7 +7,6 @@ from datetime import datetime
 
 import config
 from src.logger import setup_logger
-from src.step1_selection import run_step1
 from src.step2_enrichment import run_step2
 from src.step3_generation import run_step3
 
@@ -32,7 +31,6 @@ Examples:
   python main.py --dry-run
 
   # Run specific steps
-  python main.py --start-step 1 --end-step 1
   python main.py --start-step 2 --end-step 2
   python main.py --start-step 3 --end-step 3
 
@@ -47,16 +45,16 @@ Examples:
     parser.add_argument(
         "--start-step",
         type=int,
-        choices=[1, 2, 3],
-        default=1,
-        help="Step to start from (1-3)",
+        choices=[2, 3],
+        default=2,
+        help="Step to start from (2-3)",
     )
     parser.add_argument(
         "--end-step",
         type=int,
-        choices=[1, 2, 3],
+        choices=[2, 3],
         default=3,
-        help="Step to end at (1-3)",
+        help="Step to end at (2-3)",
     )
     parser.add_argument(
         "--word-range",
@@ -111,10 +109,6 @@ Examples:
     logger.info("=" * 60)
 
     try:
-        # Step 1: Word Selection
-        if args.start_step <= 1 <= args.end_step:
-            run_step1()
-
         # Step 2: Word Enrichment
         if args.start_step <= 2 <= args.end_step:
             run_step2(word_range=word_range, resume=args.resume, dry_run=args.dry_run)

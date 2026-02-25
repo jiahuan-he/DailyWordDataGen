@@ -12,8 +12,7 @@ PROMPTS_DIR = PROJECT_ROOT / "prompts"
 LOGS_DIR = PROJECT_ROOT / "logs"
 
 # Input/Output files
-WORD_SELECTION_CSV = PROJECT_ROOT / "word_selection.csv"
-SELECTED_WORDS_CSV = DATA_DIR / "selected_words.csv"
+VOCABULARY_TXT = DATA_DIR / "vocabulary.txt"
 ENRICHED_WORDS_JSON = DATA_DIR / "enriched_words.json"
 
 
