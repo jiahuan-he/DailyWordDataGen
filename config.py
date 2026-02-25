@@ -45,6 +45,7 @@ STEP3_CHECKPOINT = CHECKPOINTS_DIR / "step3_progress.json"
 # Prompt templates
 EXAMPLE_GENERATION_PROMPT = PROMPTS_DIR / "example_generation.txt"
 EXAMPLE_SELECTION_PROMPT = PROMPTS_DIR / "example_selection.txt"
+TRANSLATION_ENRICHMENT_PROMPT = PROMPTS_DIR / "translation_enrichment.txt"
 
 # API settings
 FREE_DICTIONARY_API_URL = "https://api.dictionaryapi.dev/api/v2/entries/en"
@@ -59,15 +60,13 @@ CLAUDE_TIMEOUT = 180  # seconds
 DEFAULT_BATCH_SIZE = 100
 DRY_RUN_LIMIT = 10
 
-# Example styles (9 styles, one sentence each)
+# Example styles (7 styles, one sentence each)
 EXAMPLE_STYLES = [
     "Formal",
     "Definitional",
     "Contrastive",
     "Collocational",
     "Philosophical",
-    "Warm",
     "Poetic",
     "Inspirational",
-    "News-like",
 ]

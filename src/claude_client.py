@@ -202,6 +202,54 @@ def generate_examples_for_word(
     return parse_generation_result(response)
 
 
+def enrich_with_translated_word(
+    word: str,
+    selected_pos: str,
+    examples: list[ExampleSentence],
+    prompt_template: str,
+) -> list[str]:
+    """
+    Enrich examples with translated_word field.
+
+    Args:
+        word: The vocabulary word
+        selected_pos: The selected part of speech
+        examples: List of generated examples (without translated_word)
+        prompt_template: The enrichment prompt template
+
+    Returns:
+        List of translated_word values in order matching examples
+    """
+    # Format examples as JSON for prompt
+    examples_json = json.dumps(
+        [
+            {
+                "index": i,
+                "sentence": ex.sentence,
+                "translation": ex.translation,
+            }
+            for i, ex in enumerate(examples)
+        ],
+        ensure_ascii=False,
+        indent=2,
+    )
+
+    prompt = prompt_template.format(
+        word=word,
+        selected_pos=selected_pos,
+        examples_json=examples_json,
+    )
+
+    response = generate_with_claude(prompt)
+
+    if "results" not in response:
+        raise ClaudeParseError("Response missing 'results' field")
+
+    # Extract translated_word values in order
+    results = sorted(response["results"], key=lambda x: x["index"])
+    return [r["translated_word"] for r in results]
+
+
 def select_best_examples(
     word: str,
     selected_pos: str,
@@ -210,13 +258,13 @@ def select_best_examples(
     prompt_template: str,
 ) -> list[dict]:
     """
-    Select 4 best examples from 9 generated examples.
+    Select 4 best examples from 7 generated examples.
 
     Args:
         word: The vocabulary word
         selected_pos: The selected part of speech
         definition: The word's definition
-        examples: List of 9 generated examples
+        examples: List of 7 generated examples
         prompt_template: The selection prompt template
 
     Returns:

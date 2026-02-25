@@ -1,0 +1,20 @@
+For the word "{word}" ({selected_pos}), identify the Chinese translation of the word in each example.
+
+Examples:
+{examples_json}
+
+For each example, find the exact Chinese word or phrase in the translation that corresponds to "{word}".
+
+Rules:
+- translated_word must be an EXACT substring of the translation
+- Choose the most specific translation (not the whole phrase if a single word suffices)
+- If the word is implied but not directly translated, use the closest equivalent
+
+Output as JSON:
+{{
+  "results": [
+    {{"index": 0, "translated_word": "..."}},
+    {{"index": 1, "translated_word": "..."}},
+    ...
+  ]
+}}

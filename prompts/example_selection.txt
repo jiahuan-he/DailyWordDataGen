@@ -1,6 +1,6 @@
 You are an expert vocabulary example evaluator for an ESL learning app.
 
-For the word "{word}" ({selected_pos}), select the 4 BEST examples from the 9 provided below.
+For the word "{word}" ({selected_pos}), select the 4 BEST examples from the 7 provided below.
 
 Word definition: {definition}
 
@@ -50,8 +50,8 @@ Output as JSON:
 {{
   "selections": [
     {{"index": 0, "display_order": 1, "reason": "Brief reason"}},
-    {{"index": 3, "display_order": 2, "reason": "Brief reason"}},
-    {{"index": 5, "display_order": 3, "reason": "Brief reason"}},
-    {{"index": 7, "display_order": 4, "reason": "Brief reason"}}
+    {{"index": 2, "display_order": 2, "reason": "Brief reason"}},
+    {{"index": 4, "display_order": 3, "reason": "Brief reason"}},
+    {{"index": 6, "display_order": 4, "reason": "Brief reason"}}
   ]
 }}
