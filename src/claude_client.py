@@ -97,6 +97,32 @@ def generate_with_claude(prompt: str, timeout: int = config.CLAUDE_TIMEOUT) -> d
     return extract_json_from_response(content)
 
 
+def _fix_unescaped_quotes(json_str: str) -> str:
+    """
+    Fix unescaped double quotes inside JSON string values.
+
+    Claude sometimes generates JSON like:
+        "translation": ""Recently"指的是..."
+    When it should be:
+        "translation": "\"Recently\"指的是..."
+
+    This function finds and escapes such unescaped quotes.
+    """
+    import re
+
+    # Fix quoted words at the start of string values
+    # Pattern: ": ""word" -> ": "\"word\"
+    # This catches: "key": ""quoted"rest" -> "key": "\"quoted\"rest"
+    json_str = re.sub(r'(": ")"([^"]+)"', r'\1\\"\2\\"', json_str)
+
+    # Fix quoted words after Chinese characters (mid-string)
+    # Pattern: 中文"word"  -> 中文\"word\"
+    # Only match when preceded by CJK character to avoid false positives
+    json_str = re.sub(r'([\u4e00-\u9fff])"([^"]+)"', r'\1\\"\2\\"', json_str)
+
+    return json_str
+
+
 def extract_json_from_response(content: str) -> dict:
     """
     Extract JSON object from Claude's response.
@@ -124,18 +150,28 @@ def extract_json_from_response(content: str) -> dict:
     # Look for ```json ... ``` blocks
     json_match = re.search(r"```(?:json)?\s*(\{[\s\S]*\})\s*```", content)
     if json_match:
+        json_str = json_match.group(1)
         try:
-            return json.loads(json_match.group(1))
+            return json.loads(json_str)
         except json.JSONDecodeError:
-            pass
+            # Try fixing unescaped quotes
+            try:
+                return json.loads(_fix_unescaped_quotes(json_str))
+            except json.JSONDecodeError:
+                pass
 
     # Look for raw JSON object
     json_match = re.search(r"\{[\s\S]*\}", content)
     if json_match:
+        json_str = json_match.group(0)
         try:
-            return json.loads(json_match.group(0))
+            return json.loads(json_str)
         except json.JSONDecodeError:
-            pass
+            # Try fixing unescaped quotes
+            try:
+                return json.loads(_fix_unescaped_quotes(json_str))
+            except json.JSONDecodeError:
+                pass
 
     raise ClaudeParseError(f"Could not extract JSON from response: {content}")
 
