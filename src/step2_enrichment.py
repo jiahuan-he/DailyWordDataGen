@@ -77,6 +77,7 @@ async def enrich_word(
 async def enrich_words_async(
     selected_words: list[SelectedWord],
     checkpoint: CheckpointManager,
+    output_path: Path,
     word_range: tuple[int, int] | None = None,
     resume: bool = False,
 ) -> list[EnrichedWord]:
@@ -86,6 +87,7 @@ async def enrich_words_async(
     Args:
         selected_words: List of words to enrich
         checkpoint: Checkpoint manager for progress tracking
+        output_path: Path to save/load enriched words
         word_range: Optional (start, end) tuple for filtering by row index (0-based, end exclusive)
         resume: Whether to resume from checkpoint
 
@@ -93,7 +95,7 @@ async def enrich_words_async(
         List of enriched words
     """
     # Load existing results if resuming
-    enriched_words = load_enriched_words() if resume else []
+    enriched_words = load_enriched_words(output_path) if resume else []
     enriched_dict = {w.word: w for w in enriched_words}
 
     # Filter words by row index range (slice-based)
@@ -183,17 +185,21 @@ def run_step2(
         selected_words = selected_words[:config.DRY_RUN_LIMIT]
         logger.info(f"  Dry run: processing {len(selected_words)} words")
 
-    # Initialize checkpoint
-    checkpoint = CheckpointManager(config.STEP2_CHECKPOINT)
+    # Initialize checkpoint with range-specific path
+    checkpoint_path = config.get_step2_checkpoint_path(word_range)
+    checkpoint = CheckpointManager(checkpoint_path)
+
+    # Get range-specific output path
+    output_path = config.get_enriched_words_path(word_range)
 
     # Run async enrichment
     enriched = asyncio.run(
-        enrich_words_async(selected_words, checkpoint, word_range, resume)
+        enrich_words_async(selected_words, checkpoint, output_path, word_range, resume)
     )
 
     # Save results
-    save_enriched_words(enriched)
-    logger.info(f"  Saved {len(enriched)} enriched words to: {config.ENRICHED_WORDS_JSON}")
+    save_enriched_words(enriched, output_path)
+    logger.info(f"  Saved {len(enriched)} enriched words to: {output_path}")
 
     # Report statistics
     with_phonetic = sum(1 for w in enriched if w.phonetic)

@@ -16,10 +16,12 @@ Word source: `data/word_frequencies_sorted.csv` (12,059 words)
 ## Usage
 ```bash
 python main.py --dry-run              # Test with 10 words
-python main.py --start-step 2         # Run step 2 only
-python main.py --start-step 3         # Run step 3 only
-python main.py --word-range 0-100     # Process subset
+python main.py --word-range 0-100     # Process subset (parallel-safe)
 python main.py --resume               # Resume from checkpoint
+
+# Parallel execution (each uses separate checkpoint/output files)
+python main.py --word-range 200-300   # Terminal 1
+python main.py --word-range 300-400   # Terminal 2
 ```
 
 ## Key Files

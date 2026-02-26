@@ -163,6 +163,7 @@ def generate_for_word(
 
 def run_step3(
     output_path: Path | None = None,
+    word_range: tuple[int, int] | None = None,
     resume: bool = False,
     dry_run: bool = False,
 ) -> list[FinalWordEntry]:
@@ -171,6 +172,7 @@ def run_step3(
 
     Args:
         output_path: Path to save final output. If None, generates with current timestamp.
+        word_range: Optional (start, end) tuple for range-specific checkpoint/input paths
         resume: Whether to resume from checkpoint
         dry_run: If True, only process a small number of words
 
@@ -180,21 +182,23 @@ def run_step3(
     logger = get_logger()
 
     if output_path is None:
-        output_path = config.get_final_output_path()
+        output_path = config.get_final_output_path(word_range=word_range)
 
     logger.info("Step 3: Generating examples with Claude...")
 
-    # Load enriched words
-    enriched_words = load_enriched_words()
-    logger.info(f"  Loaded {len(enriched_words)} enriched words")
+    # Load enriched words from range-specific path
+    enriched_path = config.get_enriched_words_path(word_range)
+    enriched_words = load_enriched_words(enriched_path)
+    logger.info(f"  Loaded {len(enriched_words)} enriched words from: {enriched_path}")
 
     # Load prompt templates
     generation_prompt = load_prompt_template(config.EXAMPLE_GENERATION_PROMPT)
     enrichment_prompt = load_prompt_template(config.TRANSLATION_ENRICHMENT_PROMPT)
     selection_prompt = load_prompt_template(config.EXAMPLE_SELECTION_PROMPT)
 
-    # Initialize checkpoint
-    checkpoint = CheckpointManager(config.STEP3_CHECKPOINT)
+    # Initialize checkpoint with range-specific path
+    checkpoint_path = config.get_step3_checkpoint_path(word_range)
+    checkpoint = CheckpointManager(checkpoint_path)
 
     # Load existing results if resuming
     final_entries = load_final_output(output_path) if resume else []

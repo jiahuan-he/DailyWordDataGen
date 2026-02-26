@@ -30,36 +30,22 @@ Examples:
   # Full pipeline (dry run with 10 words)
   python main.py --dry-run
 
-  # Run specific steps
-  python main.py --start-step 2 --end-step 2
-  python main.py --start-step 3 --end-step 3
-
-  # Process specific word range (row indices, for batching)
-  python main.py --start-step 2 --word-range 0-100
+  # Process specific word range (row indices, for parallel batching)
+  python main.py --word-range 0-100
 
   # Resume from checkpoint
-  python main.py --start-step 3 --resume
+  python main.py --resume
+
+  # Parallel execution (in separate terminals)
+  python main.py --word-range 200-300
+  python main.py --word-range 300-400
         """,
     )
 
     parser.add_argument(
-        "--start-step",
-        type=int,
-        choices=[2, 3],
-        default=2,
-        help="Step to start from (2-3)",
-    )
-    parser.add_argument(
-        "--end-step",
-        type=int,
-        choices=[2, 3],
-        default=3,
-        help="Step to end at (2-3)",
-    )
-    parser.add_argument(
         "--word-range",
         type=str,
-        help="Word range for Step 2, e.g., '0-100'. Filters words by row index (0-based).",
+        help="Word range, e.g., '0-100'. Filters words by row index (0-based). Uses separate checkpoint/output files for parallel execution.",
     )
     parser.add_argument(
         "--resume",
@@ -77,11 +63,6 @@ Examples:
     # Set up logging
     logger = setup_logger()
 
-    # Validate step range
-    if args.start_step > args.end_step:
-        logger.error("start-step cannot be greater than end-step")
-        sys.exit(1)
-
     # Parse word range if provided
     word_range = None
     if args.word_range:
@@ -98,7 +79,6 @@ Examples:
     logger.info("=" * 60)
     logger.info("DailyWord Data Generation Pipeline")
     logger.info("=" * 60)
-    logger.info(f"Steps: {args.start_step} to {args.end_step}")
     if word_range:
         logger.info(f"Word range: {word_range[0]} to {word_range[1]}")
     if args.resume:
@@ -110,16 +90,15 @@ Examples:
 
     try:
         # Step 2: Word Enrichment
-        if args.start_step <= 2 <= args.end_step:
-            run_step2(word_range=word_range, resume=args.resume, dry_run=args.dry_run)
+        run_step2(word_range=word_range, resume=args.resume, dry_run=args.dry_run)
 
         # Step 3: LLM Example Generation
-        if args.start_step <= 3 <= args.end_step:
-            run_step3(
-                output_path=output_path,
-                resume=args.resume,
-                dry_run=args.dry_run,
-            )
+        run_step3(
+            output_path=output_path,
+            word_range=word_range,
+            resume=args.resume,
+            dry_run=args.dry_run,
+        )
 
         logger.info("=" * 60)
         logger.info("Pipeline completed successfully!")

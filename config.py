@@ -41,6 +41,27 @@ def get_final_output_path(
 STEP2_CHECKPOINT = CHECKPOINTS_DIR / "step2_progress.json"
 STEP3_CHECKPOINT = CHECKPOINTS_DIR / "step3_progress.json"
 
+
+def get_step2_checkpoint_path(word_range: tuple[int, int] | None = None) -> Path:
+    """Get checkpoint path for Step 2, optionally scoped to a word range."""
+    if word_range:
+        return CHECKPOINTS_DIR / f"step2_progress_{word_range[0]}-{word_range[1]}.json"
+    return STEP2_CHECKPOINT
+
+
+def get_step3_checkpoint_path(word_range: tuple[int, int] | None = None) -> Path:
+    """Get checkpoint path for Step 3, optionally scoped to a word range."""
+    if word_range:
+        return CHECKPOINTS_DIR / f"step3_progress_{word_range[0]}-{word_range[1]}.json"
+    return STEP3_CHECKPOINT
+
+
+def get_enriched_words_path(word_range: tuple[int, int] | None = None) -> Path:
+    """Get enriched words output path, optionally scoped to a word range."""
+    if word_range:
+        return DATA_DIR / f"enriched_words_{word_range[0]}-{word_range[1]}.json"
+    return ENRICHED_WORDS_JSON
+
 # Prompt templates
 EXAMPLE_GENERATION_PROMPT = PROMPTS_DIR / "example_generation.txt"
 EXAMPLE_SELECTION_PROMPT = PROMPTS_DIR / "example_selection.txt"

@@ -1,6 +1,8 @@
 """Checkpoint system for tracking pipeline progress."""
 
+import fcntl
 import json
+from contextlib import contextmanager
 from pathlib import Path
 from typing import Optional
 
@@ -18,19 +20,32 @@ class CheckpointManager:
             checkpoint_path: Path to the checkpoint JSON file
         """
         self.checkpoint_path = checkpoint_path
+        self._lock_path = checkpoint_path.with_suffix(".lock")
         self._data: Optional[CheckpointData] = None
+
+    @contextmanager
+    def _file_lock(self):
+        """Context manager for file locking using fcntl."""
+        self._lock_path.parent.mkdir(parents=True, exist_ok=True)
+        with open(self._lock_path, "w") as lock_file:
+            fcntl.flock(lock_file.fileno(), fcntl.LOCK_EX)
+            try:
+                yield
+            finally:
+                fcntl.flock(lock_file.fileno(), fcntl.LOCK_UN)
 
     def load(self) -> CheckpointData:
         """Load checkpoint data from file, or create new if not exists."""
         if self._data is not None:
             return self._data
 
-        if self.checkpoint_path.exists():
-            with open(self.checkpoint_path, "r") as f:
-                data = json.load(f)
-                self._data = CheckpointData(**data)
-        else:
-            self._data = CheckpointData()
+        with self._file_lock():
+            if self.checkpoint_path.exists():
+                with open(self.checkpoint_path, "r") as f:
+                    data = json.load(f)
+                    self._data = CheckpointData(**data)
+            else:
+                self._data = CheckpointData()
 
         return self._data
 
@@ -39,9 +54,10 @@ class CheckpointManager:
         if self._data is None:
             return
 
-        self.checkpoint_path.parent.mkdir(parents=True, exist_ok=True)
-        with open(self.checkpoint_path, "w") as f:
-            json.dump(self._data.model_dump(), f, indent=2)
+        with self._file_lock():
+            self.checkpoint_path.parent.mkdir(parents=True, exist_ok=True)
+            with open(self.checkpoint_path, "w") as f:
+                json.dump(self._data.model_dump(), f, indent=2)
 
     def mark_processed(self, word: str, index: int) -> None:
         """
