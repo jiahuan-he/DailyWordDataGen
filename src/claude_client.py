@@ -122,7 +122,7 @@ def extract_json_from_response(content: str) -> dict:
     import re
 
     # Look for ```json ... ``` blocks
-    json_match = re.search(r"```(?:json)?\s*(\{[\s\S]*?\})\s*```", content)
+    json_match = re.search(r"```(?:json)?\s*(\{[\s\S]*\})\s*```", content)
     if json_match:
         try:
             return json.loads(json_match.group(1))
@@ -137,7 +137,7 @@ def extract_json_from_response(content: str) -> dict:
         except json.JSONDecodeError:
             pass
 
-    raise ClaudeParseError(f"Could not extract JSON from response: {content[:500]}...")
+    raise ClaudeParseError(f"Could not extract JSON from response: {content}")
 
 
 def parse_generation_result(data: dict) -> LLMGenerationResult:
