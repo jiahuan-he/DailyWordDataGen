@@ -117,8 +117,9 @@ def _fix_unescaped_quotes(json_str: str) -> str:
 
     # Fix quoted words after Chinese characters (mid-string)
     # Pattern: 中文"word"  -> 中文\"word\"
-    # Only match when preceded by CJK character to avoid false positives
-    json_str = re.sub(r'([\u4e00-\u9fff])"([^"]+)"', r'\1\\"\2\\"', json_str)
+    # Only match actual words (letters/numbers), not JSON structure
+    # The [A-Za-z0-9] ensures we're matching a quoted word, not field boundaries
+    json_str = re.sub(r'([\u4e00-\u9fff])"([A-Za-z0-9][^"]*)"', r'\1\\"\2\\"', json_str)
 
     return json_str
 
