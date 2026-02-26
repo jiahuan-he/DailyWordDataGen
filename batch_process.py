@@ -4,6 +4,7 @@
 Processes all words organized by row index (e.g., 0-100, 100-200, etc.).
 """
 
+import csv
 import glob
 import json
 import shutil
@@ -21,7 +22,7 @@ MAX_RETRIES = 3
 FINAL_DATA_DIR = Path("final_data")
 DATA_DIR = Path("data")
 CHECKPOINTS_DIR = Path("checkpoints")
-VOCABULARY_TXT = DATA_DIR / "vocabulary.txt"
+VOCABULARY_CSV = DATA_DIR / "word_frequencies_sorted.csv"
 
 
 def clear_checkpoints(logger):
@@ -32,11 +33,12 @@ def clear_checkpoints(logger):
 
 
 def load_vocabulary() -> list[str]:
-    """Load all words from vocabulary.txt."""
+    """Load all words from word_frequencies_sorted.csv."""
     words = []
-    with open(VOCABULARY_TXT, "r") as f:
-        for line in f:
-            word = line.strip()
+    with open(VOCABULARY_CSV, "r") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            word = row["word"].strip()
             if word:
                 words.append(word)
     return words

@@ -1,6 +1,7 @@
 """Step 2: Word Enrichment - Add phonetics and POS from dictionary API."""
 
 import asyncio
+import csv
 import json
 from pathlib import Path
 
@@ -15,13 +16,14 @@ from src.checkpoint import CheckpointManager
 from src.logger import get_logger
 
 
-def load_vocabulary_words(path: Path = config.VOCABULARY_TXT) -> list[SelectedWord]:
-    """Load words from vocabulary.txt file (one word per line)."""
+def load_vocabulary_words(path: Path = config.VOCABULARY_CSV) -> list[SelectedWord]:
+    """Load words from word_frequencies_sorted.csv (CSV with word,frequency columns)."""
     words = []
     with open(path, "r") as f:
-        for line in f:
-            word = line.strip()
-            if word:  # Skip empty lines
+        reader = csv.DictReader(f)
+        for row in reader:
+            word = row["word"].strip()
+            if word:
                 words.append(SelectedWord(word=word))
     return words
 

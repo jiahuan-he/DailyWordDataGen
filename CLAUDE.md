@@ -11,7 +11,7 @@ source venv/bin/activate
 1. **Step 2**: Enrich with phonetics/POS from Free Dictionary API → `data/enriched_words.json`
 2. **Step 3**: Generate examples via Claude CLI → `data/final_output.json`
 
-Word source: `data/vocabulary.txt` (12,159 words)
+Word source: `data/word_frequencies_sorted.csv` (12,059 words)
 
 ## Usage
 ```bash
