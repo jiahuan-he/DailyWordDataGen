@@ -121,6 +121,10 @@ def _fix_unescaped_quotes(json_str: str) -> str:
     # The [A-Za-z0-9] ensures we're matching a quoted word, not field boundaries
     json_str = re.sub(r'([\u4e00-\u9fff])"([A-Za-z0-9][^"]*)"', r'\1\\"\2\\"', json_str)
 
+    # Fix lone quotes between CJK characters (e.g., 步"意 -> 步\"意)
+    # These are clearly mid-string and not JSON delimiters
+    json_str = re.sub(r'([\u4e00-\u9fff])"([\u4e00-\u9fff])', r'\1\\"\2', json_str)
+
     return json_str
 
 
