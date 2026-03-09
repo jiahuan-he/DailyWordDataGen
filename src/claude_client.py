@@ -76,7 +76,8 @@ def generate_with_claude(prompt: str, timeout: int = config.CLAUDE_TIMEOUT) -> d
         raise ClaudeGenerationError("Claude CLI not found. Please install claude-code CLI.")
 
     if result.returncode != 0:
-        raise ClaudeGenerationError(f"Claude CLI error: {result.stderr}")
+        error_detail = result.stderr.strip() or result.stdout.strip() or "(no output)"
+        raise ClaudeGenerationError(f"Claude CLI error: {error_detail}")
 
     # Parse the JSON output
     try:

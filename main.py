@@ -39,6 +39,9 @@ Examples:
   # Parallel execution (in separate terminals)
   python main.py --word-range 200-300
   python main.py --word-range 300-400
+
+  # Test with a different model (output goes to test_output/)
+  python main.py --test --model claude-sonnet-4-5-20250514 --word-range 0-20
         """,
     )
 
@@ -57,8 +60,26 @@ Examples:
         action="store_true",
         help=f"Process only {config.DRY_RUN_LIMIT} words for testing",
     )
+    parser.add_argument(
+        "--model",
+        type=str,
+        help="Override Claude model (e.g., claude-sonnet-4-5-20250514)",
+    )
+    parser.add_argument(
+        "--test",
+        action="store_true",
+        help="Route output to test_output/<model>/<range>/ instead of final_data_v2/",
+    )
 
     args = parser.parse_args()
+
+    # Validate: --test requires --word-range
+    if args.test and not args.word_range:
+        parser.error("--test requires --word-range to prevent accidentally processing all words")
+
+    # Override model if specified
+    if args.model:
+        config.CLAUDE_MODEL = args.model
 
     # Set up logging
     logger = setup_logger()
@@ -74,11 +95,19 @@ Examples:
 
     # Generate output path with timestamp at pipeline start
     pipeline_start = datetime.now()
-    output_path = config.get_final_output_path(pipeline_start, word_range=word_range)
+
+    if args.test:
+        short_name = config.model_short_name(config.CLAUDE_MODEL)
+        output_path = config.get_test_output_path(short_name, pipeline_start, word_range=word_range)
+        config.CHECKPOINTS_DIR = config.get_test_checkpoint_dir(short_name)
+    else:
+        output_path = config.get_final_output_path(pipeline_start, word_range=word_range)
 
     logger.info("=" * 60)
     logger.info("DailyWord Data Generation Pipeline")
     logger.info("=" * 60)
+    if args.test:
+        logger.info(f"TEST MODE — model: {config.CLAUDE_MODEL} ({short_name})")
     if word_range:
         logger.info(f"Word range: {word_range[0]} to {word_range[1]}")
     if args.resume:

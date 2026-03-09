@@ -1,5 +1,6 @@
 """Configuration settings for DailyWord data generation pipeline."""
 
+import re
 from datetime import datetime
 from pathlib import Path
 
@@ -10,6 +11,7 @@ FINAL_DATA_DIR = PROJECT_ROOT / "final_data_v2"  # Step 3 output directory
 CHECKPOINTS_DIR = PROJECT_ROOT / "checkpoints"
 PROMPTS_DIR = PROJECT_ROOT / "prompts"
 LOGS_DIR = PROJECT_ROOT / "logs"
+TEST_OUTPUT_DIR = PROJECT_ROOT / "test_output"
 
 # Input/Output files
 VOCABULARY_CSV = DATA_DIR / "word_frequencies_sorted.csv"
@@ -90,3 +92,36 @@ EXAMPLE_STYLES = [
     "Poetic",
     "Inspirational",
 ]
+
+
+def model_short_name(model_id: str) -> str:
+    """Extract short name from a Claude model ID.
+
+    E.g., 'claude-sonnet-4-5-20250514' → 'sonnet-4-5'
+         'claude-opus-4-5-20251101' → 'opus-4-5'
+         'claude-haiku-4-5-20251001' → 'haiku-4-5'
+    """
+    # Strip 'claude-' prefix and date suffix (YYYYMMDD)
+    name = re.sub(r"^claude-", "", model_id)
+    name = re.sub(r"-\d{8}$", "", name)
+    return name
+
+
+def get_test_output_path(
+    model_short: str,
+    timestamp: datetime | None = None,
+    word_range: tuple[int, int] | None = None,
+) -> Path:
+    """Generate test output path under test_output/<model>/<range>/."""
+    if timestamp is None:
+        timestamp = datetime.now()
+    suffix = timestamp.strftime("%Y%m%d_%H%M%S")
+    base = TEST_OUTPUT_DIR / model_short
+    if word_range:
+        base = base / f"{word_range[0]}-{word_range[1]}"
+    return base / f"final_output_{suffix}.json"
+
+
+def get_test_checkpoint_dir(model_short: str) -> Path:
+    """Get test checkpoint directory under test_output/<model>/checkpoints/."""
+    return TEST_OUTPUT_DIR / model_short / "checkpoints"
