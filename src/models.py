@@ -8,6 +8,8 @@ class SelectedWord(BaseModel):
     """A word selected for inclusion in the vocabulary list."""
 
     word: str
+    frequency: int = 0
+    output_file: str = ""
 
 
 class EnrichedWord(BaseModel):
@@ -47,9 +49,3 @@ class LLMGenerationResult(BaseModel):
     examples: list[ExampleSentence]
 
 
-class CheckpointData(BaseModel):
-    """Checkpoint data for tracking progress."""
-
-    processed_words: list[str] = Field(default_factory=list)
-    failed_words: list[str] = Field(default_factory=list)
-    last_index: int = 0

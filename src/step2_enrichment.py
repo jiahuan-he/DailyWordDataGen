@@ -2,7 +2,6 @@
 
 import asyncio
 import csv
-import json
 from pathlib import Path
 
 import httpx
@@ -12,52 +11,37 @@ from tqdm import tqdm
 import config
 from src.models import EnrichedWord, SelectedWord
 from src.dictionary_client import lookup_word, WordNotFoundError, DictionaryLookupError
-from src.checkpoint import CheckpointManager
 from src.logger import get_logger
 
 
 def load_vocabulary_words(path: Path = config.VOCABULARY_CSV) -> list[SelectedWord]:
-    """Load words from word_frequencies_sorted.csv (CSV with word,frequency columns)."""
+    """Load words from CSV with word, frequency, output_file columns."""
     words = []
     with open(path, "r") as f:
         reader = csv.DictReader(f)
         for row in reader:
             word = row["word"].strip()
             if word:
-                words.append(SelectedWord(word=word))
+                words.append(SelectedWord(
+                    word=word,
+                    frequency=int(float(row.get("frequency", 0) or 0)),
+                    output_file=row.get("output_file", "").strip(),
+                ))
     return words
 
 
-def load_enriched_words(path: Path = config.ENRICHED_WORDS_JSON) -> list[EnrichedWord]:
-    """Load previously enriched words from JSON."""
-    if not path.exists():
-        return []
-    with open(path, "r") as f:
-        data = json.load(f)
-    return [EnrichedWord(**item) for item in data]
-
-
-def save_enriched_words(words: list[EnrichedWord], path: Path = config.ENRICHED_WORDS_JSON) -> None:
-    """Save enriched words to JSON."""
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with open(path, "w") as f:
-        json.dump([w.model_dump() for w in words], f, indent=2)
+def load_unprocessed_words(count: int, path: Path = config.VOCABULARY_CSV) -> list[SelectedWord]:
+    """Return the first `count` words from CSV where output_file is empty."""
+    all_words = load_vocabulary_words(path)
+    unprocessed = [w for w in all_words if not w.output_file]
+    return unprocessed[:count]
 
 
 async def enrich_word(
     word: str,
     client: httpx.AsyncClient,
 ) -> EnrichedWord:
-    """
-    Enrich a single word with phonetic and POS data.
-
-    Args:
-        word: The word to enrich
-        client: Async HTTP client
-
-    Returns:
-        EnrichedWord with phonetic and POS data
-    """
+    """Enrich a single word with phonetic and POS data."""
     try:
         result = await lookup_word(word, client)
         return EnrichedWord(
@@ -70,136 +54,60 @@ async def enrich_word(
     except DictionaryLookupError:
         return EnrichedWord(word=word, phonetic=None, pos=[])
     except RetryError:
-        # All retries exhausted (likely rate limited)
         return EnrichedWord(word=word, phonetic=None, pos=[])
 
 
 async def enrich_words_async(
     selected_words: list[SelectedWord],
-    checkpoint: CheckpointManager,
-    output_path: Path,
-    word_range: tuple[int, int] | None = None,
-    resume: bool = False,
 ) -> list[EnrichedWord]:
-    """
-    Enrich words with dictionary data.
-
-    Args:
-        selected_words: List of words to enrich
-        checkpoint: Checkpoint manager for progress tracking
-        output_path: Path to save/load enriched words
-        word_range: Optional (start, end) tuple for filtering by row index (0-based, end exclusive)
-        resume: Whether to resume from checkpoint
-
-    Returns:
-        List of enriched words
-    """
-    # Load existing results if resuming
-    enriched_words = load_enriched_words(output_path) if resume else []
-    enriched_dict = {w.word: w for w in enriched_words}
-
-    # Filter words by row index range (slice-based)
-    if word_range:
-        start, end = word_range
-        filtered_words = selected_words[start:end]
-    else:
-        filtered_words = selected_words
-
-    words_to_process = filtered_words
-
-    # Filter out already processed words if resuming
-    if resume:
-        words_to_process = [
-            w for w in words_to_process
-            if not checkpoint.is_processed(w.word)
-        ]
-
-    if not words_to_process:
+    """Enrich words with dictionary data (in-memory, no file I/O)."""
+    if not selected_words:
         logger = get_logger()
         logger.info("  No words to process (all already completed)")
-        return [enriched_dict[sw.word] for sw in filtered_words if sw.word in enriched_dict]
+        return []
 
     logger = get_logger()
-    logger.info(f"  Processing {len(words_to_process)} words...")
+    logger.info(f"  Processing {len(selected_words)} words...")
+
+    enriched_dict: dict[str, EnrichedWord] = {}
 
     async with httpx.AsyncClient() as client:
-        # Use semaphore for rate limiting (2 concurrent requests to avoid 429)
         semaphore = asyncio.Semaphore(2)
 
-        async def process_with_semaphore(sw: SelectedWord, idx: int):
+        async def process_with_semaphore(sw: SelectedWord):
             async with semaphore:
                 result = await enrich_word(sw.word, client)
                 enriched_dict[sw.word] = result
-                checkpoint.mark_processed(sw.word, idx)
-                await asyncio.sleep(0.5)  # Delay between requests to avoid rate limiting
+                await asyncio.sleep(0.5)
                 return result
 
-        # Process with progress bar
-        with tqdm(total=len(words_to_process), desc="  Enriching") as pbar:
-            async def process_and_update(sw: SelectedWord, idx: int):
-                result = await process_with_semaphore(sw, idx)
+        with tqdm(total=len(selected_words), desc="  Enriching") as pbar:
+            async def process_and_update(sw: SelectedWord):
+                result = await process_with_semaphore(sw)
                 pbar.update(1)
                 return result
 
-            tasks = [
-                process_and_update(sw, i)
-                for i, sw in enumerate(words_to_process)
-            ]
+            tasks = [process_and_update(sw) for sw in selected_words]
             await asyncio.gather(*tasks)
 
-    # Rebuild ordered list based on filtered words
-    result = []
-    for sw in filtered_words:
-        if sw.word in enriched_dict:
-            result.append(enriched_dict[sw.word])
-
-    return result
+    # Rebuild ordered list
+    return [enriched_dict[sw.word] for sw in selected_words if sw.word in enriched_dict]
 
 
-def run_step2(
-    word_range: tuple[int, int] | None = None,
-    resume: bool = False,
-    dry_run: bool = False,
-) -> list[EnrichedWord]:
-    """
-    Run Step 2 of the pipeline.
+def run_step2(selected_words: list[SelectedWord]) -> list[EnrichedWord]:
+    """Run Step 2: enrich the given words with dictionary data (in-memory).
 
     Args:
-        word_range: Optional (start, end) tuple for filtering by row index (0-based, end exclusive)
-        resume: Whether to resume from checkpoint
-        dry_run: If True, only process a small number of words
+        selected_words: Words to enrich
 
     Returns:
         List of enriched words
     """
     logger = get_logger()
     logger.info("Step 2: Enriching words with dictionary data...")
+    logger.info(f"  {len(selected_words)} words to enrich")
 
-    # Load selected words
-    selected_words = load_vocabulary_words()
-    logger.info(f"  Loaded {len(selected_words)} selected words")
-
-    # Apply dry run limit (process first N words by row order)
-    if dry_run and word_range is None:
-        # For dry run, just take first N words
-        selected_words = selected_words[:config.DRY_RUN_LIMIT]
-        logger.info(f"  Dry run: processing {len(selected_words)} words")
-
-    # Initialize checkpoint with range-specific path
-    checkpoint_path = config.get_step2_checkpoint_path(word_range)
-    checkpoint = CheckpointManager(checkpoint_path)
-
-    # Get range-specific output path
-    output_path = config.get_enriched_words_path(word_range)
-
-    # Run async enrichment
-    enriched = asyncio.run(
-        enrich_words_async(selected_words, checkpoint, output_path, word_range, resume)
-    )
-
-    # Save results
-    save_enriched_words(enriched, output_path)
-    logger.info(f"  Saved {len(enriched)} enriched words to: {output_path}")
+    enriched = asyncio.run(enrich_words_async(selected_words))
 
     # Report statistics
     with_phonetic = sum(1 for w in enriched if w.phonetic)
@@ -211,4 +119,5 @@ def run_step2(
 
 
 if __name__ == "__main__":
-    run_step2()
+    words = load_unprocessed_words(10)
+    run_step2(words)

@@ -7,18 +7,8 @@ from datetime import datetime
 
 import config
 from src.logger import setup_logger
-from src.step2_enrichment import run_step2
+from src.step2_enrichment import load_unprocessed_words, run_step2
 from src.step3_generation import run_step3
-
-
-def parse_range(range_str: str) -> tuple[int, int]:
-    """Parse range string like '1-100' into tuple."""
-    if "-" not in range_str:
-        raise ValueError(f"Invalid range format: {range_str}. Use format: start-end")
-    parts = range_str.split("-")
-    if len(parts) != 2:
-        raise ValueError(f"Invalid range format: {range_str}. Use format: start-end")
-    return int(parts[0]), int(parts[1])
 
 
 def main():
@@ -27,38 +17,30 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  # Full pipeline (dry run with 10 words)
+  # Dry run with 10 words (saves to test_output/, does not update CSV)
   python main.py --dry-run
 
-  # Process specific word range (row indices, for parallel batching)
-  python main.py --word-range 0-100
+  # Process 50 unprocessed words
+  python main.py --count 50
 
-  # Resume from checkpoint
-  python main.py --resume
-
-  # Parallel execution (in separate terminals)
-  python main.py --word-range 200-300
-  python main.py --word-range 300-400
+  # Process next 100 unprocessed words (default count)
+  python main.py
 
   # Test with a different model (output goes to test_output/)
-  python main.py --test --model claude-sonnet-4-5-20250514 --word-range 0-20
+  python main.py --test --model claude-sonnet-4-5-20250514 --count 20
         """,
     )
 
     parser.add_argument(
-        "--word-range",
-        type=str,
-        help="Word range, e.g., '0-100'. Filters words by row index (0-based). Uses separate checkpoint/output files for parallel execution.",
-    )
-    parser.add_argument(
-        "--resume",
-        action="store_true",
-        help="Resume from checkpoint",
+        "--count", "-n",
+        type=int,
+        default=config.DEFAULT_BATCH_SIZE,
+        help=f"Number of unprocessed words to process (default: {config.DEFAULT_BATCH_SIZE})",
     )
     parser.add_argument(
         "--dry-run",
         action="store_true",
-        help=f"Process only {config.DRY_RUN_LIMIT} words for testing",
+        help=f"Process only {config.DRY_RUN_LIMIT} words for testing (saves to test_output/, no CSV update)",
     )
     parser.add_argument(
         "--model",
@@ -68,14 +50,10 @@ Examples:
     parser.add_argument(
         "--test",
         action="store_true",
-        help="Route output to test_output/<model>/<range>/ instead of final_data_v2/",
+        help="Route output to test_output/<model>/ instead of final_data_v3/ (no CSV update)",
     )
 
     args = parser.parse_args()
-
-    # Validate: --test requires --word-range
-    if args.test and not args.word_range:
-        parser.error("--test requires --word-range to prevent accidentally processing all words")
 
     # Override model if specified
     if args.model:
@@ -84,49 +62,39 @@ Examples:
     # Set up logging
     logger = setup_logger()
 
-    # Parse word range if provided
-    word_range = None
-    if args.word_range:
-        try:
-            word_range = parse_range(args.word_range)
-        except ValueError as e:
-            logger.error(f"Invalid word range: {e}")
-            sys.exit(1)
+    # Determine mode
+    test_mode = args.test or args.dry_run
+    count = config.DRY_RUN_LIMIT if args.dry_run else args.count
+    model_short = config.model_short_name(config.CLAUDE_MODEL)
 
-    # Generate output path with timestamp at pipeline start
+    # Load unprocessed words
+    words = load_unprocessed_words(count)
+    if not words:
+        logger.info("No unprocessed words remaining. Nothing to do.")
+        sys.exit(0)
+
     pipeline_start = datetime.now()
-
-    if args.test:
-        short_name = config.model_short_name(config.CLAUDE_MODEL)
-        output_path = config.get_test_output_path(short_name, pipeline_start, word_range=word_range)
-        config.CHECKPOINTS_DIR = config.get_test_checkpoint_dir(short_name)
-    else:
-        output_path = config.get_final_output_path(pipeline_start, word_range=word_range)
 
     logger.info("=" * 60)
     logger.info("DailyWord Data Generation Pipeline")
     logger.info("=" * 60)
-    if args.test:
-        logger.info(f"TEST MODE — model: {config.CLAUDE_MODEL} ({short_name})")
-    if word_range:
-        logger.info(f"Word range: {word_range[0]} to {word_range[1]}")
-    if args.resume:
-        logger.info("Mode: Resume from checkpoint")
+    if test_mode:
+        logger.info(f"TEST MODE — model: {config.CLAUDE_MODEL} ({model_short})")
+    logger.info(f"Words to process: {len(words)}")
     if args.dry_run:
         logger.info(f"Mode: Dry run ({config.DRY_RUN_LIMIT} words)")
-    logger.info(f"Output: {output_path}")
     logger.info("=" * 60)
 
     try:
-        # Step 2: Word Enrichment
-        run_step2(word_range=word_range, resume=args.resume, dry_run=args.dry_run)
+        # Step 2: Word Enrichment (in-memory)
+        enriched = run_step2(words)
 
-        # Step 3: LLM Example Generation
+        # Step 3: LLM Example Generation (per-word save + CSV update)
         run_step3(
-            output_path=output_path,
-            word_range=word_range,
-            resume=args.resume,
-            dry_run=args.dry_run,
+            enriched_words=enriched,
+            timestamp=pipeline_start,
+            test_mode=test_mode,
+            model_short=model_short,
         )
 
         logger.info("=" * 60)
@@ -135,11 +103,11 @@ Examples:
 
     except KeyboardInterrupt:
         logger.warning("Pipeline interrupted by user.")
-        logger.info("Progress has been saved. Use --resume to continue.")
+        logger.info("Already-saved words are safe. Re-run to continue with remaining words.")
         sys.exit(1)
     except Exception as e:
         logger.error(f"Pipeline error: {e}", exc_info=True)
-        logger.info("Progress has been saved. Use --resume to continue.")
+        logger.info("Already-saved words are safe. Re-run to continue with remaining words.")
         sys.exit(1)
 
 
