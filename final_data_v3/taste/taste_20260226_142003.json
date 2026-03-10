@@ -1,0 +1,61 @@
+{
+  "word": "taste",
+  "phonetic": "/teɪst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "味道；品味；爱好",
+  "examples": [
+    {
+      "sentence": "The restaurant has earned acclaim for its innovative approach to taste and presentation.",
+      "style": "Formal",
+      "translation": "这家餐厅因其在口味和摆盘上的创新手法而备受赞誉。",
+      "translated_word": "口味",
+      "display_order": null
+    },
+    {
+      "sentence": "Taste refers to the sensation experienced when food or drink makes contact with the tongue.",
+      "style": "Definitional",
+      "translation": "味觉是指食物或饮料接触舌头时产生的感觉。",
+      "translated_word": "味觉",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike smell, which can detect distant scents, taste requires direct contact with the substance.",
+      "style": "Contrastive",
+      "translation": "与能感知远处气味的嗅觉不同，味觉需要与物质直接接触。",
+      "translated_word": "味觉",
+      "display_order": 4
+    },
+    {
+      "sentence": "The chef adjusted the seasoning to suit local taste.",
+      "style": "Collocational",
+      "translation": "厨师调整了调味以迎合当地人的口味。",
+      "translated_word": "口味",
+      "display_order": 1
+    },
+    {
+      "sentence": "Taste shapes not only what one eats but also how one sees the world.",
+      "style": "Philosophical",
+      "translation": "品味不仅影响一个人吃什么，也影响其看待世界的方式。",
+      "translated_word": "品味",
+      "display_order": 3
+    },
+    {
+      "sentence": "A single taste of honey carries the memory of a thousand summer flowers.",
+      "style": "Poetic",
+      "translation": "一口蜂蜜的滋味，承载着千朵夏花的记忆。",
+      "translated_word": "滋味",
+      "display_order": 2
+    },
+    {
+      "sentence": "Trust your own taste; it is the compass that guides you to what truly resonates with your soul.",
+      "style": "Inspirational",
+      "translation": "相信自己的品味，它是指引你找到内心共鸣的指南针。",
+      "translated_word": "品味",
+      "display_order": null
+    }
+  ]
+}

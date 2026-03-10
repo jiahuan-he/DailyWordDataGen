@@ -1,0 +1,61 @@
+{
+  "word": "hide",
+  "phonetic": "/haɪd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "隐藏；躲避；遮掩",
+  "examples": [
+    {
+      "sentence": "The suspect attempted to hide evidence from investigators.",
+      "style": "Formal",
+      "translation": "嫌疑人试图向调查人员隐瞒证据。",
+      "translated_word": "隐瞒",
+      "display_order": null
+    },
+    {
+      "sentence": "To hide means to put something out of sight or keep it secret.",
+      "style": "Definitional",
+      "translation": "Hide的意思是把某物藏起来或保密。",
+      "translated_word": "藏",
+      "display_order": null
+    },
+    {
+      "sentence": "Children hide under beds, while adults hide behind excuses.",
+      "style": "Contrastive",
+      "translation": "孩子躲在床底下，而大人躲在借口背后。",
+      "translated_word": "躲",
+      "display_order": 1
+    },
+    {
+      "sentence": "The clouds began to hide the sun from view.",
+      "style": "Collocational",
+      "translation": "云层开始遮住太阳。",
+      "translated_word": "遮住",
+      "display_order": 2
+    },
+    {
+      "sentence": "Those who hide from truth only delay their encounter with it.",
+      "style": "Philosophical",
+      "translation": "逃避真相的人只是推迟了与它的相遇。",
+      "translated_word": "逃避",
+      "display_order": null
+    },
+    {
+      "sentence": "The moon hides her face behind a veil of mist.",
+      "style": "Poetic",
+      "translation": "月亮将她的面容隐于薄雾之后。",
+      "translated_word": "隐",
+      "display_order": 4
+    },
+    {
+      "sentence": "Never hide your talents; the world needs what only you can offer.",
+      "style": "Inspirational",
+      "translation": "永远不要埋没自己的才华，世界需要你独特的贡献。",
+      "translated_word": "埋没",
+      "display_order": 3
+    }
+  ]
+}

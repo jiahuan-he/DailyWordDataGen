@@ -1,0 +1,61 @@
+{
+  "word": "recover",
+  "phonetic": "/ɹɪˈkʌvə/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "恢复；康复；找回",
+  "examples": [
+    {
+      "sentence": "The economy is expected to recover by the end of the year.",
+      "style": "Formal",
+      "translation": "预计经济将在年底前恢复。",
+      "translated_word": "恢复",
+      "display_order": 3
+    },
+    {
+      "sentence": "To recover means to return to a normal state after illness or difficulty.",
+      "style": "Definitional",
+      "translation": "recover指在疾病或困难之后恢复到正常状态。",
+      "translated_word": "恢复",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike heal, which implies complete restoration, recover suggests regaining what was lost.",
+      "style": "Contrastive",
+      "translation": "与暗示完全复原的heal不同，recover强调重新获得失去的东西。",
+      "translated_word": "重新获得",
+      "display_order": null
+    },
+    {
+      "sentence": "The patient made efforts to recover from surgery.",
+      "style": "Collocational",
+      "translation": "病人努力从手术中康复。",
+      "translated_word": "康复",
+      "display_order": 1
+    },
+    {
+      "sentence": "To recover is to trust that time can mend what seems irreparably broken.",
+      "style": "Philosophical",
+      "translation": "恢复，是相信时间能修复那些看似无法弥补的伤痕。",
+      "translated_word": "恢复",
+      "display_order": null
+    },
+    {
+      "sentence": "Like spring returning after a long winter, the heart learns to recover and bloom again.",
+      "style": "Poetic",
+      "translation": "如同漫长冬日后春天的归来，心灵学会复苏，再次绽放。",
+      "translated_word": "复苏",
+      "display_order": 2
+    },
+    {
+      "sentence": "No matter how hard the fall, you have the strength to recover and rise.",
+      "style": "Inspirational",
+      "translation": "无论跌得多重，你都有力量重新站起来。",
+      "translated_word": "重新站起来",
+      "display_order": 4
+    }
+  ]
+}

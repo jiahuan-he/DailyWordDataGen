@@ -1,0 +1,61 @@
+{
+  "word": "cache",
+  "phonetic": "/kæɪʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "隐藏处；贮藏物；缓存",
+  "examples": [
+    {
+      "sentence": "Authorities discovered a cache of weapons hidden in the abandoned warehouse.",
+      "style": "Formal",
+      "translation": "当局在废弃仓库中发现了一批藏匿的武器。",
+      "translated_word": "藏匿",
+      "display_order": 2
+    },
+    {
+      "sentence": "A cache is a temporary storage location that allows faster access to frequently used data.",
+      "style": "Definitional",
+      "translation": "缓存是一种临时存储位置，可以更快地访问常用数据。",
+      "translated_word": "缓存",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike permanent storage, a cache holds data only temporarily for quick retrieval.",
+      "style": "Contrastive",
+      "translation": "与永久存储不同，缓存只是临时保存数据以便快速读取。",
+      "translated_word": "缓存",
+      "display_order": null
+    },
+    {
+      "sentence": "Clearing the browser cache can resolve many common loading issues.",
+      "style": "Collocational",
+      "translation": "清除浏览器缓存可以解决许多常见的加载问题。",
+      "translated_word": "缓存",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every mind holds a cache of memories, some treasured, some best forgotten.",
+      "style": "Philosophical",
+      "translation": "每个人的心中都藏着一些记忆，有些值得珍藏，有些最好遗忘。",
+      "translated_word": "藏",
+      "display_order": 4
+    },
+    {
+      "sentence": "The squirrel guards its cache beneath the oak, a small fortune of acorns wrapped in autumn leaves.",
+      "style": "Poetic",
+      "translation": "松鼠守护着橡树下的藏宝处，那是一小堆裹在秋叶中的橡果。",
+      "translated_word": "藏宝处",
+      "display_order": 1
+    },
+    {
+      "sentence": "Build a cache of skills and knowledge; they will serve you when opportunity knocks.",
+      "style": "Inspirational",
+      "translation": "积累技能和知识，当机会来临时，它们将为你所用。",
+      "translated_word": "积累",
+      "display_order": null
+    }
+  ]
+}

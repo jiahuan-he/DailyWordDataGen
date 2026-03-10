@@ -1,0 +1,61 @@
+{
+  "word": "hack",
+  "phonetic": "/hæk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "砍；劈；入侵（计算机）；找到窍门",
+  "examples": [
+    {
+      "sentence": "Cybercriminals hacked into the company's database, exposing millions of customer records.",
+      "style": "Formal",
+      "translation": "网络犯罪分子入侵了该公司的数据库，导致数百万客户记录外泄。",
+      "translated_word": "入侵",
+      "display_order": 2
+    },
+    {
+      "sentence": "To hack means to gain unauthorized access to a computer system or to find clever shortcuts to solve problems.",
+      "style": "Definitional",
+      "translation": "Hack的意思是未经授权进入计算机系统，或者找到解决问题的巧妙方法。",
+      "translated_word": "进入",
+      "display_order": null
+    },
+    {
+      "sentence": "While engineers build systems by the book, hackers hack their way through by exploiting overlooked weaknesses.",
+      "style": "Contrastive",
+      "translation": "工程师按部就班地构建系统，而黑客则通过利用被忽视的漏洞来突破。",
+      "translated_word": "突破",
+      "display_order": null
+    },
+    {
+      "sentence": "She managed to hack together a solution using spare parts and open-source code.",
+      "style": "Collocational",
+      "translation": "她用零件和开源代码拼凑出了一个解决方案。",
+      "translated_word": "拼凑",
+      "display_order": 3
+    },
+    {
+      "sentence": "To hack is to question the boundaries others accept as fixed.",
+      "style": "Philosophical",
+      "translation": "破解，就是质疑他人视为固定不变的边界。",
+      "translated_word": "破解",
+      "display_order": null
+    },
+    {
+      "sentence": "The old woodsman hacked at the tangled vines, carving a path through the emerald darkness.",
+      "style": "Poetic",
+      "translation": "老樵夫劈砍着缠绕的藤蔓，在翠绿的幽暗中开辟出一条小路。",
+      "translated_word": "劈砍",
+      "display_order": 1
+    },
+    {
+      "sentence": "When the conventional path fails, hack a new one.",
+      "style": "Inspirational",
+      "translation": "当常规的路走不通时，就开辟一条新路。",
+      "translated_word": "开辟",
+      "display_order": 4
+    }
+  ]
+}

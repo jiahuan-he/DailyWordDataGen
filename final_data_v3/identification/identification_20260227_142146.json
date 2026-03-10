@@ -1,0 +1,60 @@
+{
+  "word": "identification",
+  "phonetic": "/aɪˌdɛntɪfɪˈkeɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "身份证明；辨认；认同",
+  "examples": [
+    {
+      "sentence": "Passengers must present valid identification before boarding international flights.",
+      "style": "Formal",
+      "translation": "乘客在登上国际航班前必须出示有效身份证明。",
+      "translated_word": "身份证明",
+      "display_order": 2
+    },
+    {
+      "sentence": "Identification refers to the process of recognizing or proving who someone is.",
+      "style": "Definitional",
+      "translation": "身份识别是指确认或证明某人身份的过程。",
+      "translated_word": "身份识别",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike verification, which confirms known information, identification establishes identity from scratch.",
+      "style": "Contrastive",
+      "translation": "与核实已知信息的验证不同，身份识别是从零开始确立身份。",
+      "translated_word": "身份识别",
+      "display_order": null
+    },
+    {
+      "sentence": "The police made a positive identification of the suspect through fingerprint analysis.",
+      "style": "Collocational",
+      "translation": "警方通过指纹分析对嫌疑人作出了确切的身份认定。",
+      "translated_word": "身份认定",
+      "display_order": 1
+    },
+    {
+      "sentence": "The search for identification with something greater than oneself drives much of human behavior.",
+      "style": "Philosophical",
+      "translation": "对超越自身之物的认同追寻驱动着人类的许多行为。",
+      "translated_word": "认同",
+      "display_order": 3
+    },
+    {
+      "sentence": "In the fading photograph, identification blurs like memory dissolving into mist.",
+      "style": "Poetic",
+      "translation": "在褪色的照片中，辨认变得模糊，如同记忆消融于雾中。",
+      "translated_word": "辨认",
+      "display_order": 4
+    },
+    {
+      "sentence": "Finding identification with your true values is the first step toward living authentically.",
+      "style": "Inspirational",
+      "translation": "认同自己真正的价值观，是活出真我的第一步。",
+      "translated_word": "认同",
+      "display_order": null
+    }
+  ]
+}

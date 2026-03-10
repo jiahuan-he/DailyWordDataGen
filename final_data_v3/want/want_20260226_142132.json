@@ -1,0 +1,61 @@
+{
+  "word": "want",
+  "phonetic": "/wɔnt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "想要；需要；缺乏",
+  "examples": [
+    {
+      "sentence": "The company wants to expand its operations into three new markets by next quarter.",
+      "style": "Formal",
+      "translation": "该公司希望在下季度前将业务扩展到三个新市场。",
+      "translated_word": "希望",
+      "display_order": 4
+    },
+    {
+      "sentence": "To want something means to feel a desire or wish to possess or do it.",
+      "style": "Definitional",
+      "translation": "想要某物意味着渴望拥有或去做某事。",
+      "translated_word": "想要",
+      "display_order": null
+    },
+    {
+      "sentence": "Children often want toys, while adults tend to want security and stability.",
+      "style": "Contrastive",
+      "translation": "孩子们往往想要玩具，而成年人更想要安全感和稳定。",
+      "translated_word": "想要",
+      "display_order": 1
+    },
+    {
+      "sentence": "She wants nothing more than a quiet evening at home.",
+      "style": "Collocational",
+      "translation": "她只想在家度过一个安静的夜晚。",
+      "translated_word": "想",
+      "display_order": 2
+    },
+    {
+      "sentence": "To want is to acknowledge that something is missing from one's life.",
+      "style": "Philosophical",
+      "translation": "想要即是承认生命中缺少了某些东西。",
+      "translated_word": "想要",
+      "display_order": 3
+    },
+    {
+      "sentence": "The heart wants what the rain wants: to fall, to merge, to become part of something greater.",
+      "style": "Poetic",
+      "translation": "心之所求如雨之所向：落下，交融，汇入更宏大的存在。",
+      "translated_word": "所求",
+      "display_order": null
+    },
+    {
+      "sentence": "Never apologize for wanting more; ambition is the first step toward achievement.",
+      "style": "Inspirational",
+      "translation": "永远不要为追求更多而道歉；雄心是通往成功的第一步。",
+      "translated_word": "追求",
+      "display_order": null
+    }
+  ]
+}

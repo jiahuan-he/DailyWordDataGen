@@ -1,0 +1,61 @@
+{
+  "word": "arrest",
+  "phonetic": "/əˈɹɛst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "逮捕；阻止；吸引",
+  "examples": [
+    {
+      "sentence": "Police arrested the suspect in connection with the robbery.",
+      "style": "Formal",
+      "translation": "警方逮捕了与抢劫案有关的嫌疑人。",
+      "translated_word": "逮捕",
+      "display_order": 1
+    },
+    {
+      "sentence": "To arrest means to seize someone by legal authority.",
+      "style": "Definitional",
+      "translation": "arrest 指依法拘押某人。",
+      "translated_word": "拘押",
+      "display_order": null
+    },
+    {
+      "sentence": "The medication can arrest the disease but not cure it.",
+      "style": "Contrastive",
+      "translation": "这种药物能阻止病情恶化，但无法根治。",
+      "translated_word": "阻止",
+      "display_order": 2
+    },
+    {
+      "sentence": "The striking image arrested her attention immediately.",
+      "style": "Collocational",
+      "translation": "那幅醒目的画面立刻吸引了她的注意。",
+      "translated_word": "吸引",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sometimes a single moment can arrest the flow of time in memory.",
+      "style": "Philosophical",
+      "translation": "有时，一个瞬间能在记忆中定格时光。",
+      "translated_word": "定格",
+      "display_order": 4
+    },
+    {
+      "sentence": "The sunset arrested the sky in shades of gold and crimson.",
+      "style": "Poetic",
+      "translation": "夕阳将天空染成一片金红。",
+      "translated_word": "染",
+      "display_order": null
+    },
+    {
+      "sentence": "One bold decision can arrest a downward spiral and change everything.",
+      "style": "Inspirational",
+      "translation": "一个果断的决定能扭转颓势，改变一切。",
+      "translated_word": "扭转",
+      "display_order": null
+    }
+  ]
+}

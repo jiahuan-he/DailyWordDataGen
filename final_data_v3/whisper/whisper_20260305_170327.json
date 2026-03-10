@@ -1,0 +1,61 @@
+{
+  "word": "whisper",
+  "phonetic": "/ˈ(h)wɪspə/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "低语；耳语；悄声说",
+  "examples": [
+    {
+      "sentence": "The diplomat whispered sensitive details to her aide during the summit.",
+      "style": "Formal",
+      "translation": "峰会期间，这位外交官悄声向助手透露了敏感信息。",
+      "translated_word": "悄声",
+      "display_order": null
+    },
+    {
+      "sentence": "To whisper is to speak softly so only those nearby can hear.",
+      "style": "Definitional",
+      "translation": "低语是指轻声说话，只让身边的人听到。",
+      "translated_word": "低语",
+      "display_order": null
+    },
+    {
+      "sentence": "Rather than shout across the library, he chose to whisper.",
+      "style": "Contrastive",
+      "translation": "他没有在图书馆里大声喊叫，而是选择低声说话。",
+      "translated_word": "低声说话",
+      "display_order": 2
+    },
+    {
+      "sentence": "She leaned closer and whispered a secret in his ear.",
+      "style": "Collocational",
+      "translation": "她凑近他，在他耳边悄悄说了一个秘密。",
+      "translated_word": "悄悄说",
+      "display_order": 1
+    },
+    {
+      "sentence": "The truths people whisper in private often reveal more than public declarations.",
+      "style": "Philosophical",
+      "translation": "人们私下低语的真相，往往比公开声明更能说明问题。",
+      "translated_word": "低语",
+      "display_order": null
+    },
+    {
+      "sentence": "The ocean whispers to the shore as the tide retreats at dusk.",
+      "style": "Poetic",
+      "translation": "黄昏时分潮水退去，大海向海岸轻声呢喃。",
+      "translated_word": "轻声呢喃",
+      "display_order": 3
+    },
+    {
+      "sentence": "When fear whispers that the goal is impossible, let courage answer back.",
+      "style": "Inspirational",
+      "translation": "当恐惧悄声说目标不可能实现时，让勇气来回应它。",
+      "translated_word": "悄声说",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "portion",
+  "phonetic": "/ˈpoəɹʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "部分；份额；一份（食物）",
+  "examples": [
+    {
+      "sentence": "A significant portion of the budget has been allocated to infrastructure development.",
+      "style": "Formal",
+      "translation": "预算中有相当大的一部分已拨给基础设施建设。",
+      "translated_word": "一部分",
+      "display_order": 4
+    },
+    {
+      "sentence": "A portion is a specific amount of food served to one person.",
+      "style": "Definitional",
+      "translation": "一份是指供一人食用的特定分量的食物。",
+      "translated_word": "一份",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a fraction, which is abstract, a portion often refers to something tangible and divisible.",
+      "style": "Contrastive",
+      "translation": "与抽象的分数不同，份额通常指的是有形的、可分割的东西。",
+      "translated_word": "份额",
+      "display_order": null
+    },
+    {
+      "sentence": "The restaurant is known for serving generous portions at reasonable prices.",
+      "style": "Collocational",
+      "translation": "这家餐厅以分量足、价格实惠而闻名。",
+      "translated_word": "分量",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every portion of life, however small, carries the weight of the whole.",
+      "style": "Philosophical",
+      "translation": "生命的每一部分，无论多么微小，都承载着整体的分量。",
+      "translated_word": "部分",
+      "display_order": 2
+    },
+    {
+      "sentence": "The evening sky offered its last portion of light, a golden sliver fading into dusk.",
+      "style": "Poetic",
+      "translation": "暮色的天空献出最后一缕光，金色的光芒渐渐隐入黄昏。",
+      "translated_word": "一缕",
+      "display_order": null
+    },
+    {
+      "sentence": "Set aside a portion of each day for growth, and watch the seeds of effort bloom.",
+      "style": "Inspirational",
+      "translation": "每天留出一部分时间用于成长，你将看到努力的种子开花结果。",
+      "translated_word": "一部分",
+      "display_order": 3
+    }
+  ]
+}

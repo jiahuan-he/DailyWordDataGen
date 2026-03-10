@@ -1,0 +1,62 @@
+{
+  "word": "stock",
+  "phonetic": "/stɒk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "股票；库存；储备",
+  "examples": [
+    {
+      "sentence": "The company's stock surged 15% following the announcement of record quarterly earnings.",
+      "style": "Formal",
+      "translation": "该公司股票在公布创纪录的季度收益后飙升了15%。",
+      "translated_word": "股票",
+      "display_order": 1
+    },
+    {
+      "sentence": "Stock refers to shares representing ownership in a corporation.",
+      "style": "Definitional",
+      "translation": "股票是指代表公司所有权的股份。",
+      "translated_word": "股票",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike bonds, stock gives shareholders voting rights but no guaranteed returns.",
+      "style": "Contrastive",
+      "translation": "与债券不同，股票赋予股东投票权，但不保证回报。",
+      "translated_word": "股票",
+      "display_order": 3
+    },
+    {
+      "sentence": "The store keeps a large stock of seasonal items in the warehouse.",
+      "style": "Collocational",
+      "translation": "这家店在仓库里储备了大量的季节性商品。",
+      "translated_word": "储备",
+      "display_order": 2
+    },
+    {
+      "sentence": "One's stock of knowledge, like capital, grows only when invested wisely.",
+      "style": "Philosophical",
+      "translation": "一个人的知识储备如同资本，唯有明智投资才能增长。",
+      "translated_word": "储备",
+      "display_order": 4
+    },
+    {
+      "sentence": "The autumn harvest fills the barns with golden stock against the coming cold.",
+      "style": "Poetic",
+      "translation": "秋收时节，金色的储备堆满谷仓，以抵御即将到来的严寒。",
+      "translated_word": "储备",
+      "display_order": null
+    },
+    {
+      "sentence": "Build your stock of skills today; they are the currency of tomorrow's opportunities.",
+      "style": "Inspirational",
+      "translation": "从今天开始积累技能储备，它们是明天机遇的通行证。",
+      "translated_word": "储备",
+      "display_order": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "queue",
+  "phonetic": "/kjuː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "队列；排队的人群；等候序列",
+  "examples": [
+    {
+      "sentence": "The queue outside the embassy stretched for several blocks as applicants waited for visa appointments.",
+      "style": "Formal",
+      "translation": "大使馆外的队伍绵延数个街区，申请人正在等待签证预约。",
+      "translated_word": "队伍",
+      "display_order": 3
+    },
+    {
+      "sentence": "A queue is a line of people or things waiting for their turn in order.",
+      "style": "Definitional",
+      "translation": "队列是指按顺序等待轮到自己的一排人或事物。",
+      "translated_word": "队列",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a crowd, a queue implies an organized order where each person knows their place.",
+      "style": "Contrastive",
+      "translation": "与人群不同，队列意味着一种有组织的秩序，每个人都知道自己的位置。",
+      "translated_word": "队列",
+      "display_order": 2
+    },
+    {
+      "sentence": "The queue for tickets began to form hours before the box office opened.",
+      "style": "Collocational",
+      "translation": "售票处开门前数小时，购票的队伍就开始排起来了。",
+      "translated_word": "队伍",
+      "display_order": null
+    },
+    {
+      "sentence": "Every queue teaches patience: the reward lies not in reaching the front, but in learning to wait.",
+      "style": "Philosophical",
+      "translation": "每一次排队都是耐心的修行：收获不在于排到前面，而在于学会等待。",
+      "translated_word": "排队",
+      "display_order": 4
+    },
+    {
+      "sentence": "The queue wound through the station like a silent river of strangers, each carrying their own destination.",
+      "style": "Poetic",
+      "translation": "队伍蜿蜒穿过车站，如同一条由陌生人汇成的静默河流，每个人都怀揣着各自的目的地。",
+      "translated_word": "队伍",
+      "display_order": 1
+    },
+    {
+      "sentence": "Standing in a queue reminds you that everyone shares the same journey toward their goals.",
+      "style": "Inspirational",
+      "translation": "排队让你意识到，每个人都走在通往目标的同一条路上。",
+      "translated_word": "排队",
+      "display_order": null
+    }
+  ]
+}

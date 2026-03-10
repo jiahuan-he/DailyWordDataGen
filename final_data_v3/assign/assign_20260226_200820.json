@@ -1,0 +1,61 @@
+{
+  "word": "assign",
+  "phonetic": "/əˈsaɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "分配；指派；指定",
+  "examples": [
+    {
+      "sentence": "The committee will assign new responsibilities to each department head next week.",
+      "style": "Formal",
+      "translation": "委员会将于下周为各部门主管分配新职责。",
+      "translated_word": "分配",
+      "display_order": null
+    },
+    {
+      "sentence": "To assign means to give someone a particular task or role.",
+      "style": "Definitional",
+      "translation": "Assign的意思是给某人分配特定的任务或角色。",
+      "translated_word": "分配",
+      "display_order": null
+    },
+    {
+      "sentence": "A good leader does not simply delegate; they assign tasks based on individual strengths.",
+      "style": "Contrastive",
+      "translation": "优秀的领导者不是简单地委派任务，而是根据个人优势来分配工作。",
+      "translated_word": "分配",
+      "display_order": 2
+    },
+    {
+      "sentence": "The professor will assign homework at the end of each lecture.",
+      "style": "Collocational",
+      "translation": "教授会在每节课结束时布置作业。",
+      "translated_word": "布置",
+      "display_order": 1
+    },
+    {
+      "sentence": "Society often assigns meaning to things that have none until observed.",
+      "style": "Philosophical",
+      "translation": "社会常常赋予事物意义，而这些事物在被观察之前本无意义。",
+      "translated_word": "赋予",
+      "display_order": 3
+    },
+    {
+      "sentence": "The stars assign no fate; they merely watch as destinies unfold below.",
+      "style": "Poetic",
+      "translation": "星辰不主宰命运，它们只是静静注视着人间的悲欢离合。",
+      "translated_word": "主宰",
+      "display_order": null
+    },
+    {
+      "sentence": "Assign yourself a challenge today, and tomorrow you will be stronger for it.",
+      "style": "Inspirational",
+      "translation": "今天给自己定一个挑战，明天你会因此变得更强大。",
+      "translated_word": "定",
+      "display_order": 4
+    }
+  ]
+}

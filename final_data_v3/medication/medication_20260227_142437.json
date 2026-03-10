@@ -1,0 +1,60 @@
+{
+  "word": "medication",
+  "phonetic": "/mɛdɪˈkeɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "药物；药品；药剂",
+  "examples": [
+    {
+      "sentence": "The new medication has been approved by health authorities for widespread distribution.",
+      "style": "Formal",
+      "translation": "这种新药已获卫生部门批准，可大规模投放市场。",
+      "translated_word": "新药",
+      "display_order": null
+    },
+    {
+      "sentence": "Medication refers to substances used to treat, cure, or prevent disease.",
+      "style": "Definitional",
+      "translation": "药物是指用于治疗、治愈或预防疾病的物质。",
+      "translated_word": "药物",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike supplements, medication undergoes rigorous clinical trials before reaching patients.",
+      "style": "Contrastive",
+      "translation": "与保健品不同，药物在到达患者手中之前需经过严格的临床试验。",
+      "translated_word": "药物",
+      "display_order": 2
+    },
+    {
+      "sentence": "The doctor prescribed medication for the chronic pain.",
+      "style": "Collocational",
+      "translation": "医生为慢性疼痛开了处方药。",
+      "translated_word": "处方药",
+      "display_order": 1
+    },
+    {
+      "sentence": "Medication can heal the body, but only time and reflection can heal the soul.",
+      "style": "Philosophical",
+      "translation": "药物可以治愈身体，但唯有时间与反思能治愈心灵。",
+      "translated_word": "药物",
+      "display_order": null
+    },
+    {
+      "sentence": "The medication dissolved like morning mist, carrying away the fever's burning grip.",
+      "style": "Poetic",
+      "translation": "药物如晨雾般消融，带走了高烧灼热的侵袭。",
+      "translated_word": "药物",
+      "display_order": 4
+    },
+    {
+      "sentence": "Taking medication as directed is the first step toward reclaiming your health.",
+      "style": "Inspirational",
+      "translation": "遵医嘱服药是重获健康的第一步。",
+      "translated_word": "服药",
+      "display_order": 3
+    }
+  ]
+}

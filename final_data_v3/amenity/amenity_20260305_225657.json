@@ -1,0 +1,60 @@
+{
+  "word": "amenity",
+  "phonetic": "/əˈmiːnəti/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "便利设施；舒适条件；生活福利",
+  "examples": [
+    {
+      "sentence": "The hotel boasts a range of amenities, including a fitness center and rooftop pool.",
+      "style": "Formal",
+      "translation": "该酒店拥有多种便利设施，包括健身中心和屋顶泳池。",
+      "translated_word": "便利设施",
+      "display_order": 2
+    },
+    {
+      "sentence": "An amenity is any feature that adds comfort or convenience to a place.",
+      "style": "Definitional",
+      "translation": "便利设施是指任何能为某个场所增添舒适或便捷的功能。",
+      "translated_word": "便利设施",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike basic necessities, an amenity enhances quality of life rather than sustaining it.",
+      "style": "Contrastive",
+      "translation": "与基本必需品不同，便利设施提升的是生活品质，而非维持生存。",
+      "translated_word": "便利设施",
+      "display_order": 1
+    },
+    {
+      "sentence": "The apartment complex offers modern amenities such as high-speed internet and in-unit laundry.",
+      "style": "Collocational",
+      "translation": "该公寓楼提供现代化设施，如高速网络和室内洗衣机。",
+      "translated_word": "设施",
+      "display_order": null
+    },
+    {
+      "sentence": "Perhaps the greatest amenity is time: the luxury of moments unhurried.",
+      "style": "Philosophical",
+      "translation": "或许最珍贵的舒适，是时间本身：那些从容不迫的时刻。",
+      "translated_word": "舒适",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sunlight through tall windows became the room's finest amenity, painting gold on every surface.",
+      "style": "Poetic",
+      "translation": "透过高窗洒落的阳光，成为房间最美的馈赠，为每一处镀上金色。",
+      "translated_word": "馈赠",
+      "display_order": null
+    },
+    {
+      "sentence": "Turn small comforts into daily amenities; happiness often hides in overlooked conveniences.",
+      "style": "Inspirational",
+      "translation": "将小小的舒适化为日常的享受，幸福往往藏在被忽视的便利之中。",
+      "translated_word": "享受",
+      "display_order": 4
+    }
+  ]
+}

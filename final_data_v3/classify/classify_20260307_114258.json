@@ -1,0 +1,60 @@
+{
+  "word": "classify",
+  "phonetic": "/ˈklæsɪfaɪ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "分类；归类；划分",
+  "examples": [
+    {
+      "sentence": "The agency will classify the documents according to their level of sensitivity.",
+      "style": "Formal",
+      "translation": "该机构将根据敏感程度对文件进行分类。",
+      "translated_word": "分类",
+      "display_order": null
+    },
+    {
+      "sentence": "To classify means to arrange items into groups based on shared characteristics.",
+      "style": "Definitional",
+      "translation": "分类是指根据共同特征将事物归入不同的类别。",
+      "translated_word": "分类",
+      "display_order": null
+    },
+    {
+      "sentence": "Scientists classify species by genetic traits, not merely by physical appearance.",
+      "style": "Contrastive",
+      "translation": "科学家依据基因特征而非仅凭外表来划分物种。",
+      "translated_word": "划分",
+      "display_order": 1
+    },
+    {
+      "sentence": "Librarians classify books by subject, author, and publication date.",
+      "style": "Collocational",
+      "translation": "图书馆员按主题、作者和出版日期对书籍进行分类。",
+      "translated_word": "分类",
+      "display_order": 4
+    },
+    {
+      "sentence": "The urge to classify the world reveals humanity's deep need for order.",
+      "style": "Philosophical",
+      "translation": "人类对万物分类的冲动，揭示了内心深处对秩序的渴望。",
+      "translated_word": "分类",
+      "display_order": 3
+    },
+    {
+      "sentence": "Stars refuse to be classified; they burn beyond the labels given to them.",
+      "style": "Poetic",
+      "translation": "星辰拒绝被归类，它们燃烧的光芒超越了一切命名。",
+      "translated_word": "归类",
+      "display_order": 2
+    },
+    {
+      "sentence": "Never let others classify your worth; your value defies every category.",
+      "style": "Inspirational",
+      "translation": "永远不要让别人定义你的价值；你的光芒无法被任何标签所框定。",
+      "translated_word": "定义",
+      "display_order": null
+    }
+  ]
+}

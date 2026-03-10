@@ -1,0 +1,63 @@
+{
+  "word": "dead",
+  "phonetic": "/diːd/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "死的；无生命的；完全的",
+  "examples": [
+    {
+      "sentence": "The victim was pronounced dead at the scene by emergency responders.",
+      "style": "Formal",
+      "translation": "急救人员在现场宣布受害者死亡。",
+      "translated_word": "死亡",
+      "display_order": 2
+    },
+    {
+      "sentence": "Dead means no longer alive or having ceased all biological functions.",
+      "style": "Definitional",
+      "translation": "Dead指不再活着或所有生物功能已停止。",
+      "translated_word": "不再活着",
+      "display_order": null
+    },
+    {
+      "sentence": "A dead battery cannot be recharged, while a drained one simply needs power.",
+      "style": "Contrastive",
+      "translation": "坏掉的电池无法充电，而耗尽的电池只需要重新充电。",
+      "translated_word": "坏掉的",
+      "display_order": null
+    },
+    {
+      "sentence": "The phone went dead in the middle of the conversation.",
+      "style": "Collocational",
+      "translation": "电话在通话中途突然没信号了。",
+      "translated_word": "没信号了",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every living thing carries within it the seed of being dead.",
+      "style": "Philosophical",
+      "translation": "每个生命体内都蕴含着死亡的种子。",
+      "translated_word": "死亡",
+      "display_order": null
+    },
+    {
+      "sentence": "The dead leaves danced across the empty street like forgotten whispers.",
+      "style": "Poetic",
+      "translation": "枯叶在空旷的街道上飞舞，如同被遗忘的低语。",
+      "translated_word": "枯",
+      "display_order": 1
+    },
+    {
+      "sentence": "Let dead dreams stay buried; new ones are waiting to be born.",
+      "style": "Inspirational",
+      "translation": "让逝去的梦留在过去吧，新的梦想正等待诞生。",
+      "translated_word": "逝去的",
+      "display_order": 4
+    }
+  ]
+}

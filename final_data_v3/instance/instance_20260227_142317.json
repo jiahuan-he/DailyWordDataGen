@@ -1,0 +1,61 @@
+{
+  "word": "instance",
+  "phonetic": "/ˈɪnstəns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "实例；情况；例子",
+  "examples": [
+    {
+      "sentence": "In this instance, the court ruled in favor of the defendant.",
+      "style": "Formal",
+      "translation": "在这一案例中，法院判定被告胜诉。",
+      "translated_word": "案例",
+      "display_order": 1
+    },
+    {
+      "sentence": "An instance is a specific example or occurrence of something.",
+      "style": "Definitional",
+      "translation": "实例是指某事物的具体例子或发生情况。",
+      "translated_word": "实例",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a general rule, an instance refers to a particular case.",
+      "style": "Contrastive",
+      "translation": "与一般规则不同，实例指的是具体个案。",
+      "translated_word": "实例",
+      "display_order": 3
+    },
+    {
+      "sentence": "For instance, many students choose to study abroad.",
+      "style": "Collocational",
+      "translation": "例如，许多学生选择出国留学。",
+      "translated_word": "例如",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every instance of kindness ripples through the fabric of society.",
+      "style": "Philosophical",
+      "translation": "每一次善举都会在社会中泛起涟漪。",
+      "translated_word": "善举",
+      "display_order": 4
+    },
+    {
+      "sentence": "Each instance of sunlight through the leaves is a fleeting gift.",
+      "style": "Poetic",
+      "translation": "每一缕穿过树叶的阳光都是转瞬即逝的馈赠。",
+      "translated_word": "阳光",
+      "display_order": null
+    },
+    {
+      "sentence": "Let every instance of failure become a stepping stone to success.",
+      "style": "Inspirational",
+      "translation": "让每一次失败都成为通往成功的垫脚石。",
+      "translated_word": "失败",
+      "display_order": null
+    }
+  ]
+}

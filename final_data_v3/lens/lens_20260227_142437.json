@@ -1,0 +1,61 @@
+{
+  "word": "lens",
+  "phonetic": "/lɛnz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "镜头；透镜；晶状体",
+  "examples": [
+    {
+      "sentence": "The photographer adjusted the lens to capture the distant mountain range.",
+      "style": "Formal",
+      "translation": "摄影师调整镜头，捕捉远处的山脉。",
+      "translated_word": "镜头",
+      "display_order": null
+    },
+    {
+      "sentence": "A lens is a curved piece of glass that bends light to form images.",
+      "style": "Definitional",
+      "translation": "透镜是一块弯曲的玻璃，通过折射光线来成像。",
+      "translated_word": "透镜",
+      "display_order": 1
+    },
+    {
+      "sentence": "Unlike a mirror, a lens transmits light rather than reflecting it.",
+      "style": "Contrastive",
+      "translation": "与镜子不同，透镜是透射光线而非反射光线。",
+      "translated_word": "透镜",
+      "display_order": 3
+    },
+    {
+      "sentence": "The camera lens needs regular cleaning to maintain image quality.",
+      "style": "Collocational",
+      "translation": "相机镜头需要定期清洁以保持成像质量。",
+      "translated_word": "镜头",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every person views the world through the lens of their own experience.",
+      "style": "Philosophical",
+      "translation": "每个人都透过自身经历的棱镜看待世界。",
+      "translated_word": "棱镜",
+      "display_order": null
+    },
+    {
+      "sentence": "Her eyes were a lens through which starlight seemed to gather and glow.",
+      "style": "Poetic",
+      "translation": "她的眼眸仿佛一枚透镜，将星光聚拢，熠熠生辉。",
+      "translated_word": "透镜",
+      "display_order": 4
+    },
+    {
+      "sentence": "Change the lens through which you see challenges, and obstacles become opportunities.",
+      "style": "Inspirational",
+      "translation": "换一个视角看待挑战，障碍就会变成机遇。",
+      "translated_word": "视角",
+      "display_order": null
+    }
+  ]
+}

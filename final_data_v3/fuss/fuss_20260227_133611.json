@@ -1,0 +1,61 @@
+{
+  "word": "fuss",
+  "phonetic": "/fʌs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "大惊小怪；小题大做；过度关注",
+  "examples": [
+    {
+      "sentence": "The minor policy change caused an unexpected fuss among stakeholders.",
+      "style": "Formal",
+      "translation": "这项微小的政策变动在利益相关者中引起了意想不到的轩然大波。",
+      "translated_word": "轩然大波",
+      "display_order": 3
+    },
+    {
+      "sentence": "A fuss is unnecessary worry or excitement over something trivial.",
+      "style": "Definitional",
+      "translation": "fuss指的是对琐事不必要的担忧或激动。",
+      "translated_word": "fuss",
+      "display_order": null
+    },
+    {
+      "sentence": "While concern leads to action, fuss only creates noise.",
+      "style": "Contrastive",
+      "translation": "担忧会促成行动，而大惊小怪只会制造噪音。",
+      "translated_word": "大惊小怪",
+      "display_order": 2
+    },
+    {
+      "sentence": "There's no need to make a fuss over such a small mistake.",
+      "style": "Collocational",
+      "translation": "没必要为这么小的错误小题大做。",
+      "translated_word": "小题大做",
+      "display_order": 1
+    },
+    {
+      "sentence": "Much of life's fuss fades when viewed from a distance of years.",
+      "style": "Philosophical",
+      "translation": "多年后回首，生活中的大部分纷扰都会烟消云散。",
+      "translated_word": "纷扰",
+      "display_order": null
+    },
+    {
+      "sentence": "The fuss of sparrows at dawn: a fleeting symphony of small urgencies.",
+      "style": "Poetic",
+      "translation": "黎明时分麻雀的喧闹：一曲转瞬即逝的细碎急切交响乐。",
+      "translated_word": "喧闹",
+      "display_order": null
+    },
+    {
+      "sentence": "Let go of the fuss and focus on what truly matters.",
+      "style": "Inspirational",
+      "translation": "放下那些纷扰，专注于真正重要的事。",
+      "translated_word": "纷扰",
+      "display_order": 4
+    }
+  ]
+}

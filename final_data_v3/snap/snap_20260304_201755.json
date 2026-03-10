@@ -1,0 +1,63 @@
+{
+  "word": "snap",
+  "phonetic": "/snæp/",
+  "pos": [
+    "adjective",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "折断；啪地关上；厉声说；快拍",
+  "examples": [
+    {
+      "sentence": "The negotiations snapped to a halt when both parties refused to compromise.",
+      "style": "Formal",
+      "translation": "双方拒绝妥协后，谈判戛然而止。",
+      "translated_word": "戛然",
+      "display_order": null
+    },
+    {
+      "sentence": "To snap is to break something suddenly with a sharp cracking sound.",
+      "style": "Definitional",
+      "translation": "snap指突然折断某物并发出清脆的断裂声。",
+      "translated_word": "折断",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike bending, snapping breaks the object completely in two.",
+      "style": "Contrastive",
+      "translation": "与弯曲不同，snap是将物体彻底折成两段。",
+      "translated_word": "折",
+      "display_order": null
+    },
+    {
+      "sentence": "She snapped a photo of the sunset before the colors faded.",
+      "style": "Collocational",
+      "translation": "她趁晚霞还没消散，快速拍下了一张照片。",
+      "translated_word": "拍下",
+      "display_order": 2
+    },
+    {
+      "sentence": "Patience can snap when pushed too far, revealing hidden limits.",
+      "style": "Philosophical",
+      "translation": "耐心被逼到极限时会崩断，暴露出隐藏的底线。",
+      "translated_word": "崩断",
+      "display_order": 3
+    },
+    {
+      "sentence": "The twig snapped beneath the deer's hoof, shattering the forest's silence.",
+      "style": "Poetic",
+      "translation": "细枝在鹿蹄下折断，打破了林间的寂静。",
+      "translated_word": "折断",
+      "display_order": 1
+    },
+    {
+      "sentence": "When pressure threatens to snap you, remember: bamboo bends but rarely breaks.",
+      "style": "Inspirational",
+      "translation": "当压力快把你压垮时，记住：竹子会弯却不易断。",
+      "translated_word": "压垮",
+      "display_order": 4
+    }
+  ]
+}

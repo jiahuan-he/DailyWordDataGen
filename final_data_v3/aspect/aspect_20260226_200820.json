@@ -1,0 +1,61 @@
+{
+  "word": "aspect",
+  "phonetic": "/ˈæspɛkt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "方面；层面；外观",
+  "examples": [
+    {
+      "sentence": "The committee examined every aspect of the proposed legislation before casting their votes.",
+      "style": "Formal",
+      "translation": "委员会在投票前审查了该提案的各个方面。",
+      "translated_word": "方面",
+      "display_order": 4
+    },
+    {
+      "sentence": "An aspect is a particular part or feature of something being considered.",
+      "style": "Definitional",
+      "translation": "aspect指的是所考虑事物的某个特定部分或特征。",
+      "translated_word": "aspect",
+      "display_order": null
+    },
+    {
+      "sentence": "While the financial aspect seems promising, the ethical aspect raises serious concerns.",
+      "style": "Contrastive",
+      "translation": "虽然财务方面看起来很有前景，但伦理方面却令人担忧。",
+      "translated_word": "方面",
+      "display_order": 2
+    },
+    {
+      "sentence": "This aspect of the problem deserves careful consideration.",
+      "style": "Collocational",
+      "translation": "这个问题的这一方面值得仔细考虑。",
+      "translated_word": "方面",
+      "display_order": null
+    },
+    {
+      "sentence": "Every aspect of existence reveals itself differently depending on the observer's perspective.",
+      "style": "Philosophical",
+      "translation": "存在的每个层面都会因观察者的视角不同而呈现出不同的面貌。",
+      "translated_word": "层面",
+      "display_order": 3
+    },
+    {
+      "sentence": "The mountain changed its aspect with the seasons: fierce in winter, gentle in spring.",
+      "style": "Poetic",
+      "translation": "山峦随季节变换面貌：冬日凛冽，春来温柔。",
+      "translated_word": "面貌",
+      "display_order": 1
+    },
+    {
+      "sentence": "Embrace every aspect of yourself, for both strengths and flaws shape who you become.",
+      "style": "Inspirational",
+      "translation": "接纳自己的每一面，因为优点和缺点共同塑造了你。",
+      "translated_word": "面",
+      "display_order": null
+    }
+  ]
+}

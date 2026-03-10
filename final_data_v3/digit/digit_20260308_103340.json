@@ -1,0 +1,61 @@
+{
+  "word": "digit",
+  "phonetic": "/ˈdɪdʒɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "数字；手指；脚趾",
+  "examples": [
+    {
+      "sentence": "The security code must contain at least six digits.",
+      "style": "Formal",
+      "translation": "安全密码必须包含至少六位数字。",
+      "translated_word": "数字",
+      "display_order": null
+    },
+    {
+      "sentence": "A digit is any single number from zero to nine.",
+      "style": "Definitional",
+      "translation": "数字是指从零到九的任意单个数。",
+      "translated_word": "数字",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike letters, digits represent specific quantities.",
+      "style": "Contrastive",
+      "translation": "与字母不同，数字代表具体的数量。",
+      "translated_word": "数字",
+      "display_order": 4
+    },
+    {
+      "sentence": "Enter the four-digit PIN to unlock the device.",
+      "style": "Collocational",
+      "translation": "输入四位数密码来解锁设备。",
+      "translated_word": "位",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every digit in a phone number connects one life to another.",
+      "style": "Philosophical",
+      "translation": "电话号码中的每一个数字都将一个人的生活与另一个人相连。",
+      "translated_word": "数字",
+      "display_order": 3
+    },
+    {
+      "sentence": "The clock's glowing digits blinked softly in the darkness.",
+      "style": "Poetic",
+      "translation": "时钟发光的数字在黑暗中轻轻闪烁。",
+      "translated_word": "数字",
+      "display_order": 2
+    },
+    {
+      "sentence": "One small digit can change an equation; one small step can change a life.",
+      "style": "Inspirational",
+      "translation": "一个小小的数字可以改变一个方程；一个小小的步伐可以改变一生。",
+      "translated_word": "数字",
+      "display_order": null
+    }
+  ]
+}

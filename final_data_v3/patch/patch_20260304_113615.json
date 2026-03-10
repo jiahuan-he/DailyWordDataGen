@@ -1,0 +1,61 @@
+{
+  "word": "patch",
+  "phonetic": "/pætʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "补丁；小块；斑块",
+  "examples": [
+    {
+      "sentence": "The company released a security patch to address the vulnerability.",
+      "style": "Formal",
+      "translation": "该公司发布了安全补丁以修复漏洞。",
+      "translated_word": "补丁",
+      "display_order": 3
+    },
+    {
+      "sentence": "A patch is a small piece of material used to cover or repair a damaged area.",
+      "style": "Definitional",
+      "translation": "补丁是用于覆盖或修复受损区域的一小块材料。",
+      "translated_word": "补丁",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a complete overhaul, a patch offers a quick, targeted fix.",
+      "style": "Contrastive",
+      "translation": "与全面改造不同，补丁提供的是快速、有针对性的修复。",
+      "translated_word": "补丁",
+      "display_order": null
+    },
+    {
+      "sentence": "The gardener discovered a patch of wildflowers growing behind the shed.",
+      "style": "Collocational",
+      "translation": "园丁发现棚屋后面长着一片野花。",
+      "translated_word": "一片",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every scar is a patch where life has stitched the soul back together.",
+      "style": "Philosophical",
+      "translation": "每道伤疤都是生命缝补灵魂的补丁。",
+      "translated_word": "补丁",
+      "display_order": 4
+    },
+    {
+      "sentence": "Sunlight fell in golden patches across the forest floor.",
+      "style": "Poetic",
+      "translation": "阳光洒落在林地上，形成一片片金色的光斑。",
+      "translated_word": "光斑",
+      "display_order": 1
+    },
+    {
+      "sentence": "Even the roughest patch of road leads somewhere worth going.",
+      "style": "Inspirational",
+      "translation": "即使是最崎岖的路段，也通向值得去的地方。",
+      "translated_word": "路段",
+      "display_order": null
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "word": "duplicate",
+  "phonetic": "/ˈdjuː.plɪ.kət/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "复制；重复；复印",
+  "examples": [
+    {
+      "sentence": "The company was fined for attempting to duplicate the patented technology without authorization.",
+      "style": "Formal",
+      "translation": "该公司因未经授权试图复制专利技术而被罚款。",
+      "translated_word": "复制",
+      "display_order": null
+    },
+    {
+      "sentence": "To duplicate something means to make an exact copy of it.",
+      "style": "Definitional",
+      "translation": "复制某物意味着制作一份完全相同的副本。",
+      "translated_word": "复制",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike simply imitating a style, duplicating requires reproducing every detail precisely.",
+      "style": "Contrastive",
+      "translation": "与单纯模仿风格不同，复制需要精确再现每一个细节。",
+      "translated_word": "复制",
+      "display_order": 3
+    },
+    {
+      "sentence": "The lab technician duplicated the experiment to verify the results.",
+      "style": "Collocational",
+      "translation": "实验室技术员重复了该实验以验证结果。",
+      "translated_word": "重复",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some experiences can never be duplicated; their uniqueness is what gives them meaning.",
+      "style": "Philosophical",
+      "translation": "有些经历永远无法复制，正是它们的独特性赋予了它们意义。",
+      "translated_word": "复制",
+      "display_order": 4
+    },
+    {
+      "sentence": "The artist tried to duplicate the sunset, but nature's brushstrokes refused to be copied.",
+      "style": "Poetic",
+      "translation": "艺术家试图复制那落日，但大自然的笔触拒绝被临摹。",
+      "translated_word": "复制",
+      "display_order": 2
+    },
+    {
+      "sentence": "Success cannot be duplicated by copying others; forge your own path.",
+      "style": "Inspirational",
+      "translation": "成功无法通过模仿他人来复制，走出属于自己的路。",
+      "translated_word": "复制",
+      "display_order": null
+    }
+  ]
+}

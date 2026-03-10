@@ -1,0 +1,61 @@
+{
+  "word": "cancel",
+  "phonetic": "/ˈkænsl̩/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "取消；撤销；作废",
+  "examples": [
+    {
+      "sentence": "The airline canceled all flights due to severe weather conditions.",
+      "style": "Formal",
+      "translation": "由于恶劣天气，航空公司取消了所有航班。",
+      "translated_word": "取消",
+      "display_order": 4
+    },
+    {
+      "sentence": "To cancel means to decide that a planned event will not happen.",
+      "style": "Definitional",
+      "translation": "取消意味着决定某项计划中的活动将不再进行。",
+      "translated_word": "取消",
+      "display_order": null
+    },
+    {
+      "sentence": "Rather than postpone the meeting, the manager chose to cancel it entirely.",
+      "style": "Contrastive",
+      "translation": "经理没有选择推迟会议，而是决定彻底取消。",
+      "translated_word": "取消",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company had to cancel the order at the last minute.",
+      "style": "Collocational",
+      "translation": "公司不得不在最后一刻取消订单。",
+      "translated_word": "取消",
+      "display_order": 2
+    },
+    {
+      "sentence": "Sometimes the courage to cancel a path is greater than the will to continue.",
+      "style": "Philosophical",
+      "translation": "有时候，取消一条路的勇气比继续走下去的意志更可贵。",
+      "translated_word": "取消",
+      "display_order": null
+    },
+    {
+      "sentence": "The storm came and canceled the sun, painting the world in shades of gray.",
+      "style": "Poetic",
+      "translation": "暴风雨来临，遮蔽了阳光，将世界染成灰色。",
+      "translated_word": "遮蔽",
+      "display_order": null
+    },
+    {
+      "sentence": "Never be afraid to cancel plans that no longer serve your growth.",
+      "style": "Inspirational",
+      "translation": "永远不要害怕取消那些不再有益于你成长的计划。",
+      "translated_word": "取消",
+      "display_order": 3
+    }
+  ]
+}

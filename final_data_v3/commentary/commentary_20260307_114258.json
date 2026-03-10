@@ -1,0 +1,60 @@
+{
+  "word": "commentary",
+  "phonetic": null,
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "评论；解说；评注",
+  "examples": [
+    {
+      "sentence": "The network's live commentary of the election drew millions of viewers.",
+      "style": "Formal",
+      "translation": "该电视网对选举的现场解说吸引了数百万观众。",
+      "translated_word": "解说",
+      "display_order": 2
+    },
+    {
+      "sentence": "Commentary refers to spoken or written remarks that explain or interpret events.",
+      "style": "Definitional",
+      "translation": "评论指的是对事件进行解释或阐述的口头或书面言论。",
+      "translated_word": "评论",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a simple description, commentary offers analysis and personal perspective.",
+      "style": "Contrastive",
+      "translation": "与简单描述不同，评论提供分析和个人观点。",
+      "translated_word": "评论",
+      "display_order": 3
+    },
+    {
+      "sentence": "The sports commentary provided play-by-play coverage of the match.",
+      "style": "Collocational",
+      "translation": "体育解说对这场比赛进行了实况报道。",
+      "translated_word": "解说",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every generation's art serves as commentary on the times that shaped it.",
+      "style": "Philosophical",
+      "translation": "每一代人的艺术都是对塑造它的时代的评注。",
+      "translated_word": "评注",
+      "display_order": 1
+    },
+    {
+      "sentence": "The ruins stood silent, a stone commentary on the passage of empires.",
+      "style": "Poetic",
+      "translation": "废墟静默伫立，仿佛一部石头写就的帝国兴衰录。",
+      "translated_word": "兴衰录",
+      "display_order": null
+    },
+    {
+      "sentence": "Let your actions be a commentary on the values you hold dear.",
+      "style": "Inspirational",
+      "translation": "让你的行动成为你珍视的价值观的最好诠释。",
+      "translated_word": "诠释",
+      "display_order": null
+    }
+  ]
+}

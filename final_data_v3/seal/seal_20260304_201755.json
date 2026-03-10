@@ -1,0 +1,61 @@
+{
+  "word": "seal",
+  "phonetic": "/siːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "密封；封住；确定",
+  "examples": [
+    {
+      "sentence": "The two companies sealed the merger agreement after months of negotiations.",
+      "style": "Formal",
+      "translation": "经过数月谈判，两家公司最终敲定了合并协议。",
+      "translated_word": "敲定",
+      "display_order": null
+    },
+    {
+      "sentence": "To seal something means to close it tightly so nothing can get in or out.",
+      "style": "Definitional",
+      "translation": "密封某物意味着将其紧紧封闭，使任何东西都无法进出。",
+      "translated_word": "密封",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike merely closing a container, sealing it creates an airtight barrier.",
+      "style": "Contrastive",
+      "translation": "与仅仅盖上容器不同，密封能形成一道气密屏障。",
+      "translated_word": "密封",
+      "display_order": 1
+    },
+    {
+      "sentence": "A firm handshake helped seal the deal between the business partners.",
+      "style": "Collocational",
+      "translation": "一次有力的握手帮助双方达成了交易。",
+      "translated_word": "达成",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every choice seals a door while opening another.",
+      "style": "Philosophical",
+      "translation": "每一个选择都会封住一扇门，同时打开另一扇。",
+      "translated_word": "封住",
+      "display_order": 4
+    },
+    {
+      "sentence": "Winter seals the lake beneath a sheet of glass, silencing its summer songs.",
+      "style": "Poetic",
+      "translation": "冬天用一层玻璃封住湖面，让夏日的歌声归于沉寂。",
+      "translated_word": "封住",
+      "display_order": 2
+    },
+    {
+      "sentence": "Seal your commitment with action, and success will follow.",
+      "style": "Inspirational",
+      "translation": "用行动封存你的承诺，成功自会随之而来。",
+      "translated_word": "封存",
+      "display_order": null
+    }
+  ]
+}

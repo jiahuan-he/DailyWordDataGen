@@ -1,0 +1,61 @@
+{
+  "word": "laser",
+  "phonetic": "/ˈleɪz.ə(ɹ)/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "激光；激光器",
+  "examples": [
+    {
+      "sentence": "The hospital acquired a new laser for precision eye surgery.",
+      "style": "Formal",
+      "translation": "该医院引进了一台新型激光器，用于精密眼科手术。",
+      "translated_word": "激光器",
+      "display_order": 2
+    },
+    {
+      "sentence": "A laser is a device that emits a concentrated beam of light.",
+      "style": "Definitional",
+      "translation": "激光器是一种发射集中光束的设备。",
+      "translated_word": "激光器",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike ordinary light, a laser produces a focused, coherent beam.",
+      "style": "Contrastive",
+      "translation": "与普通光不同，激光能产生聚焦且相干的光束。",
+      "translated_word": "激光",
+      "display_order": 1
+    },
+    {
+      "sentence": "The technician adjusted the laser pointer before the presentation.",
+      "style": "Collocational",
+      "translation": "技术人员在演示前调整了激光笔。",
+      "translated_word": "激光笔",
+      "display_order": null
+    },
+    {
+      "sentence": "A laser cuts through steel yet cannot touch a thought.",
+      "style": "Philosophical",
+      "translation": "激光能切穿钢铁，却无法触及思想。",
+      "translated_word": "激光",
+      "display_order": null
+    },
+    {
+      "sentence": "The laser traced red constellations across the midnight fog.",
+      "style": "Poetic",
+      "translation": "激光在午夜的雾中描绘出红色的星座。",
+      "translated_word": "激光",
+      "display_order": 3
+    },
+    {
+      "sentence": "Be like a laser: focused, precise, and unstoppable.",
+      "style": "Inspirational",
+      "translation": "像激光一样：专注、精准、势不可挡。",
+      "translated_word": "激光",
+      "display_order": 4
+    }
+  ]
+}

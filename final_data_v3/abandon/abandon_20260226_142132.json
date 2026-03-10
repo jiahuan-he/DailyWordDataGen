@@ -1,0 +1,61 @@
+{
+  "word": "abandon",
+  "phonetic": "/əˈbæn.dən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "抛弃；放弃；遗弃",
+  "examples": [
+    {
+      "sentence": "The company announced it would abandon the project due to rising costs.",
+      "style": "Formal",
+      "translation": "该公司宣布因成本上涨将放弃该项目。",
+      "translated_word": "放弃",
+      "display_order": 3
+    },
+    {
+      "sentence": "To abandon means to leave something behind completely, with no intention of returning.",
+      "style": "Definitional",
+      "translation": "Abandon的意思是彻底离开某物，不打算再回来。",
+      "translated_word": "离开",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike merely pausing a plan, to abandon it means giving up entirely.",
+      "style": "Contrastive",
+      "translation": "与暂停计划不同，放弃意味着彻底不做了。",
+      "translated_word": "放弃",
+      "display_order": null
+    },
+    {
+      "sentence": "The crew had no choice but to abandon ship when the hull began to flood.",
+      "style": "Collocational",
+      "translation": "当船体开始进水时，船员们别无选择，只能弃船。",
+      "translated_word": "弃船",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sometimes one must abandon old beliefs to make room for growth.",
+      "style": "Philosophical",
+      "translation": "有时人必须放弃旧有的信念，才能为成长腾出空间。",
+      "translated_word": "放弃",
+      "display_order": 2
+    },
+    {
+      "sentence": "The autumn wind seemed to abandon the leaves, letting them fall like whispered goodbyes.",
+      "style": "Poetic",
+      "translation": "秋风似乎抛弃了树叶，任由它们如低语的告别般飘落。",
+      "translated_word": "抛弃",
+      "display_order": 4
+    },
+    {
+      "sentence": "Abandon fear, and discover the courage that has always lived within.",
+      "style": "Inspirational",
+      "translation": "抛开恐惧，去发现一直藏在内心的勇气。",
+      "translated_word": "抛开",
+      "display_order": null
+    }
+  ]
+}

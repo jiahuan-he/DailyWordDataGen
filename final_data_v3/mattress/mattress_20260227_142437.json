@@ -1,0 +1,61 @@
+{
+  "word": "mattress",
+  "phonetic": "/ˈmætɹɪs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "床垫；褥子",
+  "examples": [
+    {
+      "sentence": "The hotel chain announced a partnership with a luxury mattress manufacturer to upgrade bedding across all properties.",
+      "style": "Formal",
+      "translation": "该连锁酒店宣布与一家高端床垫制造商合作，升级旗下所有酒店的寝具。",
+      "translated_word": "床垫",
+      "display_order": null
+    },
+    {
+      "sentence": "A mattress is a large padded surface designed for sleeping, typically placed on a bed frame.",
+      "style": "Definitional",
+      "translation": "床垫是一种用于睡眠的大型软垫，通常放置在床架上。",
+      "translated_word": "床垫",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a futon, a traditional mattress offers more consistent support and does not need to be folded away.",
+      "style": "Contrastive",
+      "translation": "与沙发床不同，传统床垫提供更稳定的支撑，且无需折叠收纳。",
+      "translated_word": "床垫",
+      "display_order": 2
+    },
+    {
+      "sentence": "They flipped the mattress, changed the sheets, and made the bed before the guests arrived.",
+      "style": "Collocational",
+      "translation": "他们翻转床垫、换好床单，在客人到达前铺好了床。",
+      "translated_word": "床垫",
+      "display_order": 1
+    },
+    {
+      "sentence": "The mattress holds the impressions of countless dreams, yet reveals nothing of the sleeper's secrets.",
+      "style": "Philosophical",
+      "translation": "床垫承载了无数梦境的痕迹，却从不泄露沉睡者的秘密。",
+      "translated_word": "床垫",
+      "display_order": null
+    },
+    {
+      "sentence": "The old mattress sighed beneath the weight of years, cradling memories in its worn springs.",
+      "style": "Poetic",
+      "translation": "老旧的床垫在岁月的重压下轻叹，用磨损的弹簧轻拥着回忆。",
+      "translated_word": "床垫",
+      "display_order": 3
+    },
+    {
+      "sentence": "A good mattress can transform restless nights into restorative sleep; never underestimate its power.",
+      "style": "Inspirational",
+      "translation": "一张好床垫能把辗转难眠的夜晚变成恢复元气的睡眠，千万别低估它的力量。",
+      "translated_word": "床垫",
+      "display_order": 4
+    }
+  ]
+}

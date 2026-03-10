@@ -1,0 +1,62 @@
+{
+  "word": "jack",
+  "phonetic": "/dʒæk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "用千斤顶抬起；举起；提高",
+  "examples": [
+    {
+      "sentence": "Emergency crews jacked the vehicle to rescue the trapped passenger.",
+      "style": "Formal",
+      "translation": "救援人员用千斤顶抬起车辆，营救被困乘客。",
+      "translated_word": "抬起",
+      "display_order": 1
+    },
+    {
+      "sentence": "To jack something means to raise it using a mechanical device.",
+      "style": "Definitional",
+      "translation": "Jack的意思是用机械装置将物体抬起。",
+      "translated_word": "抬起",
+      "display_order": null
+    },
+    {
+      "sentence": "Rather than push the car aside, the mechanic chose to jack it up for better access.",
+      "style": "Contrastive",
+      "translation": "机械师没有把车推到一边，而是选择把它顶起来以便更好地操作。",
+      "translated_word": "顶起来",
+      "display_order": 3
+    },
+    {
+      "sentence": "The company decided to jack up prices before the holiday season.",
+      "style": "Collocational",
+      "translation": "公司决定在假日季来临前提高价格。",
+      "translated_word": "提高",
+      "display_order": 2
+    },
+    {
+      "sentence": "Sometimes life requires you to jack yourself up before anyone else will.",
+      "style": "Philosophical",
+      "translation": "有时候，在别人帮你之前，你得先把自己撑起来。",
+      "translated_word": "撑起来",
+      "display_order": null
+    },
+    {
+      "sentence": "The old crane jacked the sun from the harbor, lifting dawn into the sky.",
+      "style": "Poetic",
+      "translation": "那台老起重机从港湾托起太阳，将黎明升入天空。",
+      "translated_word": "托起",
+      "display_order": null
+    },
+    {
+      "sentence": "Jack up your standards, and watch your results rise with them.",
+      "style": "Inspirational",
+      "translation": "提高你的标准，你会看到成果随之攀升。",
+      "translated_word": "提高",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "word": "compass",
+  "phonetic": "/ˈkʌm.pəs/",
+  "pos": [
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "指南针；罗盘；范围；方向感",
+  "examples": [
+    {
+      "sentence": "The expedition team relied on a compass to navigate through the dense forest.",
+      "style": "Formal",
+      "translation": "探险队依靠指南针穿越茂密的森林。",
+      "translated_word": "指南针",
+      "display_order": null
+    },
+    {
+      "sentence": "A compass is an instrument that shows direction by pointing toward magnetic north.",
+      "style": "Definitional",
+      "translation": "指南针是一种通过指向磁北来显示方向的仪器。",
+      "translated_word": "指南针",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike GPS devices, a compass requires no batteries and works without signal.",
+      "style": "Contrastive",
+      "translation": "与GPS设备不同，指南针无需电池，也不依赖信号。",
+      "translated_word": "指南针",
+      "display_order": 2
+    },
+    {
+      "sentence": "The hiker checked the compass and adjusted course to head due east.",
+      "style": "Collocational",
+      "translation": "徒步者查看指南针，调整方向朝正东前进。",
+      "translated_word": "指南针",
+      "display_order": 4
+    },
+    {
+      "sentence": "Integrity serves as a moral compass, guiding decisions when no one is watching.",
+      "style": "Philosophical",
+      "translation": "正直如同道德的指南针，在无人注视时指引抉择。",
+      "translated_word": "指南针",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her heart was a compass, its needle trembling toward distant shores.",
+      "style": "Poetic",
+      "translation": "她的心是一枚指南针，针尖颤动着指向远方的彼岸。",
+      "translated_word": "指南针",
+      "display_order": 3
+    },
+    {
+      "sentence": "Let your values be the compass that leads you through life's storms.",
+      "style": "Inspirational",
+      "translation": "让你的价值观成为指南针，引领你穿越人生的风暴。",
+      "translated_word": "指南针",
+      "display_order": null
+    }
+  ]
+}

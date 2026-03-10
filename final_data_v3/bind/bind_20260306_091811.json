@@ -1,0 +1,61 @@
+{
+  "word": "bind",
+  "phonetic": "/baɪnd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "绑；捆；约束；束缚",
+  "examples": [
+    {
+      "sentence": "The new treaty will bind all member nations to stricter environmental standards.",
+      "style": "Formal",
+      "translation": "新条约将约束所有成员国遵守更严格的环保标准。",
+      "translated_word": "约束",
+      "display_order": 4
+    },
+    {
+      "sentence": "To bind means to tie or fasten something securely together.",
+      "style": "Definitional",
+      "translation": "Bind的意思是将某物牢固地捆绑或系在一起。",
+      "translated_word": "捆绑",
+      "display_order": null
+    },
+    {
+      "sentence": "A contract can bind parties legally, whereas a promise only binds them morally.",
+      "style": "Contrastive",
+      "translation": "合同在法律上约束双方，而承诺只在道德上约束他们。",
+      "translated_word": "约束",
+      "display_order": 1
+    },
+    {
+      "sentence": "The publisher will bind the pages into a hardcover edition.",
+      "style": "Collocational",
+      "translation": "出版商将把书页装订成精装版。",
+      "translated_word": "装订",
+      "display_order": 3
+    },
+    {
+      "sentence": "What binds people together is not blood alone, but shared struggle and sacrifice.",
+      "style": "Philosophical",
+      "translation": "将人们联结在一起的不仅是血缘，还有共同的奋斗与牺牲。",
+      "translated_word": "联结",
+      "display_order": 2
+    },
+    {
+      "sentence": "Snow and silence bind the village in winter's soft embrace.",
+      "style": "Poetic",
+      "translation": "白雪与寂静将村庄拥入冬日温柔的怀抱。",
+      "translated_word": "拥入",
+      "display_order": null
+    },
+    {
+      "sentence": "Let purpose bind your efforts, and nothing will stand in your way.",
+      "style": "Inspirational",
+      "translation": "让目标凝聚你的力量，没有什么能阻挡你的脚步。",
+      "translated_word": "凝聚",
+      "display_order": null
+    }
+  ]
+}

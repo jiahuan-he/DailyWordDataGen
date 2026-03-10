@@ -1,0 +1,61 @@
+{
+  "word": "holding",
+  "phonetic": "[ˈhəʉɫdɪŋ]",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "持有物；股份；藏品",
+  "examples": [
+    {
+      "sentence": "The company announced plans to divest its holding in the struggling subsidiary.",
+      "style": "Formal",
+      "translation": "该公司宣布计划剥离其在这家陷入困境的子公司中的股份。",
+      "translated_word": "股份",
+      "display_order": 2
+    },
+    {
+      "sentence": "A holding is an asset or investment that someone owns, such as shares in a company.",
+      "style": "Definitional",
+      "translation": "持有物是指某人拥有的资产或投资，例如公司股份。",
+      "translated_word": "持有物",
+      "display_order": 3
+    },
+    {
+      "sentence": "Unlike a brief investment, a holding represents a long-term commitment to ownership.",
+      "style": "Contrastive",
+      "translation": "与短期投资不同，持有物代表着对所有权的长期承诺。",
+      "translated_word": "持有物",
+      "display_order": null
+    },
+    {
+      "sentence": "The museum's largest holding is a collection of Renaissance paintings.",
+      "style": "Collocational",
+      "translation": "这座博物馆最大的藏品是一批文艺复兴时期的画作。",
+      "translated_word": "藏品",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every holding reflects a belief in what the future might bring.",
+      "style": "Philosophical",
+      "translation": "每一份持有都体现了对未来的某种信念。",
+      "translated_word": "持有",
+      "display_order": null
+    },
+    {
+      "sentence": "The old estate stood silent, a holding of memories wrapped in ivy and stone.",
+      "style": "Poetic",
+      "translation": "古老的庄园静静伫立，是一座被常春藤与石墙包裹的记忆宝库。",
+      "translated_word": "宝库",
+      "display_order": null
+    },
+    {
+      "sentence": "Build a holding that grows with you, and let time work its quiet magic.",
+      "style": "Inspirational",
+      "translation": "建立一份与你共同成长的资产，让时间悄然施展它的魔力。",
+      "translated_word": "资产",
+      "display_order": 4
+    }
+  ]
+}

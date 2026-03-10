@@ -1,0 +1,60 @@
+{
+  "word": "deduction",
+  "phonetic": "/dɪˈdʊkʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "推理；扣除；演绎",
+  "examples": [
+    {
+      "sentence": "The tax deduction for charitable donations will be reduced starting next year.",
+      "style": "Formal",
+      "translation": "慈善捐款的税收扣除额将于明年起下调。",
+      "translated_word": "扣除额",
+      "display_order": 3
+    },
+    {
+      "sentence": "A deduction is a conclusion reached by reasoning from general principles to specific cases.",
+      "style": "Definitional",
+      "translation": "演绎是从一般原理推导出具体结论的过程。",
+      "translated_word": "演绎",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike induction, which builds theories from observations, deduction applies existing rules to reach conclusions.",
+      "style": "Contrastive",
+      "translation": "与从观察中建立理论的归纳法不同，演绎法是运用现有规则得出结论。",
+      "translated_word": "演绎法",
+      "display_order": 2
+    },
+    {
+      "sentence": "Through careful deduction, the detective solved the mystery in hours.",
+      "style": "Collocational",
+      "translation": "通过缜密的推理，侦探在几小时内便破解了谜团。",
+      "translated_word": "推理",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every deduction reveals not just truth, but the limits of what can be known.",
+      "style": "Philosophical",
+      "translation": "每一次推理揭示的不仅是真相，还有认知的边界。",
+      "translated_word": "推理",
+      "display_order": null
+    },
+    {
+      "sentence": "Like a thread pulled through fog, deduction weaves clarity from chaos.",
+      "style": "Poetic",
+      "translation": "如同穿透迷雾的丝线，推理从混沌中编织出清晰。",
+      "translated_word": "推理",
+      "display_order": null
+    },
+    {
+      "sentence": "Master the art of deduction, and no problem will remain unsolvable.",
+      "style": "Inspirational",
+      "translation": "掌握推理的艺术，没有什么问题是无解的。",
+      "translated_word": "推理",
+      "display_order": 4
+    }
+  ]
+}

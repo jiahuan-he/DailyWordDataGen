@@ -1,0 +1,62 @@
+{
+  "word": "fake",
+  "phonetic": "/feɪk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "假的；伪造的；冒充的",
+  "examples": [
+    {
+      "sentence": "The museum discovered that several paintings in its collection were fake.",
+      "style": "Formal",
+      "translation": "博物馆发现馆藏中有几幅画作是赝品。",
+      "translated_word": "赝品",
+      "display_order": 3
+    },
+    {
+      "sentence": "A fake document is one that has been altered or created to deceive others.",
+      "style": "Definitional",
+      "translation": "伪造文件是指经过篡改或制作以欺骗他人的文件。",
+      "translated_word": "伪造",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike genuine leather, fake leather tends to crack and peel over time.",
+      "style": "Contrastive",
+      "translation": "与真皮不同，人造皮革容易随时间开裂和剥落。",
+      "translated_word": "人造",
+      "display_order": 2
+    },
+    {
+      "sentence": "The detective uncovered a fake identity used by the suspect for years.",
+      "style": "Collocational",
+      "translation": "侦探揭露了嫌疑人使用多年的假身份。",
+      "translated_word": "假",
+      "display_order": 1
+    },
+    {
+      "sentence": "In a world of fake smiles, genuine emotion becomes a rare treasure.",
+      "style": "Philosophical",
+      "translation": "在虚假笑容充斥的世界里，真情实感成了稀有的珍宝。",
+      "translated_word": "虚假",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her fake confidence was a mask of glass, shimmering yet fragile in the light.",
+      "style": "Poetic",
+      "translation": "她假装的自信如玻璃面具，在光线下闪烁却易碎。",
+      "translated_word": "假装",
+      "display_order": null
+    },
+    {
+      "sentence": "Drop the fake persona and embrace your true self; authenticity attracts the right people.",
+      "style": "Inspirational",
+      "translation": "放下虚假的伪装，拥抱真实的自己；真诚会吸引对的人。",
+      "translated_word": "虚假",
+      "display_order": null
+    }
+  ]
+}

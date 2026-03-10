@@ -1,0 +1,61 @@
+{
+  "word": "quiz",
+  "phonetic": "/kwɪz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "小测验；问答测试；智力竞赛",
+  "examples": [
+    {
+      "sentence": "The teacher announced a surprise quiz on the chapter covered last week.",
+      "style": "Formal",
+      "translation": "老师宣布对上周所学章节进行一次突击小测验。",
+      "translated_word": "小测验",
+      "display_order": 3
+    },
+    {
+      "sentence": "A quiz is a short test used to assess knowledge on a specific topic.",
+      "style": "Definitional",
+      "translation": "小测验是一种用于评估特定主题知识的简短测试。",
+      "translated_word": "小测验",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a final exam, a quiz typically covers only recent material and takes less time.",
+      "style": "Contrastive",
+      "translation": "与期末考试不同，小测验通常只涉及近期内容，用时也更短。",
+      "translated_word": "小测验",
+      "display_order": 1
+    },
+    {
+      "sentence": "The professor gave a pop quiz to keep students on their toes.",
+      "style": "Collocational",
+      "translation": "教授进行了一次随堂测验，让学生们保持警觉。",
+      "translated_word": "测验",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every quiz in life reveals not just what you know, but how you handle uncertainty.",
+      "style": "Philosophical",
+      "translation": "人生中的每一次测验，揭示的不仅是你知道什么，还有你如何面对未知。",
+      "translated_word": "测验",
+      "display_order": null
+    },
+    {
+      "sentence": "The quiz was a riddle wrapped in silence, each question a door to hidden truths.",
+      "style": "Poetic",
+      "translation": "那场测验如同沉默中的谜语，每道题都是通往隐秘真相的门扉。",
+      "translated_word": "测验",
+      "display_order": null
+    },
+    {
+      "sentence": "Treat every quiz as a chance to prove your growth, not a threat to your confidence.",
+      "style": "Inspirational",
+      "translation": "把每次测验都当作证明自己成长的机会，而非对自信的威胁。",
+      "translated_word": "测验",
+      "display_order": 4
+    }
+  ]
+}

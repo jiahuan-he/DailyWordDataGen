@@ -1,0 +1,61 @@
+{
+  "word": "fraction",
+  "phonetic": "/ˈfɹæk.ʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "分数；小部分；些微",
+  "examples": [
+    {
+      "sentence": "The new policy affects only a fraction of the population, yet it has sparked nationwide debate.",
+      "style": "Formal",
+      "translation": "新政策仅影响一小部分人口，却引发了全国性的讨论。",
+      "translated_word": "一小部分",
+      "display_order": 3
+    },
+    {
+      "sentence": "A fraction is a number that represents part of a whole, written with a numerator and denominator.",
+      "style": "Definitional",
+      "translation": "分数是表示整体一部分的数，由分子和分母组成。",
+      "translated_word": "分数",
+      "display_order": 2
+    },
+    {
+      "sentence": "Unlike a percentage, a fraction expresses a ratio without converting to a base of one hundred.",
+      "style": "Contrastive",
+      "translation": "与百分比不同，分数表示比例时无需换算成以一百为基数。",
+      "translated_word": "分数",
+      "display_order": null
+    },
+    {
+      "sentence": "The project was completed in a fraction of the time originally estimated.",
+      "style": "Collocational",
+      "translation": "这个项目仅用了原定时间的一小部分就完成了。",
+      "translated_word": "一小部分",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every life is but a fraction of eternity, yet each moment within it holds infinite meaning.",
+      "style": "Philosophical",
+      "translation": "每个生命不过是永恒的一小部分，然而其中的每一刻都蕴含无限意义。",
+      "translated_word": "一小部分",
+      "display_order": 4
+    },
+    {
+      "sentence": "The moon hung low, a silver fraction of light slicing through the velvet dark.",
+      "style": "Poetic",
+      "translation": "月亮低悬，一抹银色的光芒划破天鹅绒般的夜幕。",
+      "translated_word": "一抹",
+      "display_order": null
+    },
+    {
+      "sentence": "Even a fraction of effort each day can lead to extraordinary results over time.",
+      "style": "Inspirational",
+      "translation": "每天哪怕只付出一点点努力，日积月累也能成就非凡。",
+      "translated_word": "一点点",
+      "display_order": null
+    }
+  ]
+}

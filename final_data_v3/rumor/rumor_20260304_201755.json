@@ -1,0 +1,61 @@
+{
+  "word": "rumor",
+  "phonetic": "/ˈɹuːmə(ɹ)/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "谣言；传闻；流言",
+  "examples": [
+    {
+      "sentence": "The company declined to comment on the rumor of an impending merger.",
+      "style": "Formal",
+      "translation": "该公司拒绝就即将合并的传闻发表评论。",
+      "translated_word": "传闻",
+      "display_order": null
+    },
+    {
+      "sentence": "A rumor is unverified information passed from person to person.",
+      "style": "Definitional",
+      "translation": "谣言是未经证实、口耳相传的信息。",
+      "translated_word": "谣言",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a fact, a rumor lacks confirmation and may be entirely false.",
+      "style": "Contrastive",
+      "translation": "与事实不同，谣言缺乏证据，可能完全是假的。",
+      "translated_word": "谣言",
+      "display_order": 2
+    },
+    {
+      "sentence": "The rumor spread like wildfire through the small town.",
+      "style": "Collocational",
+      "translation": "这个流言像野火一样在小镇上蔓延开来。",
+      "translated_word": "流言",
+      "display_order": 1
+    },
+    {
+      "sentence": "A rumor reveals more about those who spread it than those it concerns.",
+      "style": "Philosophical",
+      "translation": "谣言更多地暴露了传播者的本性，而非被议论之人。",
+      "translated_word": "谣言",
+      "display_order": 3
+    },
+    {
+      "sentence": "The rumor drifted through the village like autumn leaves on the wind.",
+      "style": "Poetic",
+      "translation": "流言如秋叶随风，飘散在村庄的每个角落。",
+      "translated_word": "流言",
+      "display_order": 4
+    },
+    {
+      "sentence": "Rise above the rumor; let your actions speak the truth.",
+      "style": "Inspirational",
+      "translation": "超越流言蜚语，让行动证明真相。",
+      "translated_word": "流言蜚语",
+      "display_order": null
+    }
+  ]
+}

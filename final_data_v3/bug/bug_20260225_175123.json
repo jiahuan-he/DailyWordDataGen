@@ -1,0 +1,61 @@
+{
+  "word": "bug",
+  "phonetic": "/bʌɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "虫子；漏洞；窃听器",
+  "examples": [
+    {
+      "sentence": "Software developers identified a critical bug in the system that had compromised user data for months.",
+      "style": "Formal",
+      "translation": "软件开发人员发现了系统中的一个严重漏洞，该漏洞已导致用户数据泄露数月之久。",
+      "translated_word": "漏洞",
+      "display_order": 2
+    },
+    {
+      "sentence": "A bug is a small insect, or in computing, an error that causes a program to malfunction.",
+      "style": "Definitional",
+      "translation": "Bug指的是小昆虫，或在计算机领域中指导致程序故障的错误。",
+      "translated_word": "Bug",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a feature request, a bug represents unintended behavior that needs immediate fixing.",
+      "style": "Contrastive",
+      "translation": "与功能需求不同，漏洞代表的是需要立即修复的意外行为。",
+      "translated_word": "漏洞",
+      "display_order": null
+    },
+    {
+      "sentence": "The team worked overnight to fix the bug and deploy the patch.",
+      "style": "Collocational",
+      "translation": "团队通宵工作修复漏洞并部署补丁。",
+      "translated_word": "漏洞",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every bug in the code reminds us that perfection is a process, not a destination.",
+      "style": "Philosophical",
+      "translation": "代码中的每个漏洞都提醒我们，完美是一个过程，而非终点。",
+      "translated_word": "漏洞",
+      "display_order": 4
+    },
+    {
+      "sentence": "The tiny bug crawled across the windowpane, a speck of life against the vast morning light.",
+      "style": "Poetic",
+      "translation": "小虫爬过窗玻璃，在晨光中宛如一粒微小的生命尘埃。",
+      "translated_word": "小虫",
+      "display_order": 1
+    },
+    {
+      "sentence": "Finding a bug is not failure; it is the first step toward building something stronger.",
+      "style": "Inspirational",
+      "translation": "发现漏洞不是失败，而是构建更强大系统的第一步。",
+      "translated_word": "漏洞",
+      "display_order": null
+    }
+  ]
+}

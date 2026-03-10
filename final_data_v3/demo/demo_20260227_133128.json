@@ -1,0 +1,61 @@
+{
+  "word": "demo",
+  "phonetic": "/ˈdɛm.əʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "演示；示范；样品",
+  "examples": [
+    {
+      "sentence": "The company unveiled a demo of its latest software at the annual tech conference.",
+      "style": "Formal",
+      "translation": "该公司在年度科技大会上展示了其最新软件的演示版本。",
+      "translated_word": "演示版本",
+      "display_order": null
+    },
+    {
+      "sentence": "A demo is a preliminary version of a product designed to showcase its features.",
+      "style": "Definitional",
+      "translation": "演示版是产品的初步版本，旨在展示其功能特性。",
+      "translated_word": "演示版",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike the full release, a demo offers only a glimpse of what the final product can do.",
+      "style": "Contrastive",
+      "translation": "与正式版不同，演示版只能让人一窥最终产品的功能。",
+      "translated_word": "演示版",
+      "display_order": 2
+    },
+    {
+      "sentence": "The sales team scheduled a live demo for potential clients.",
+      "style": "Collocational",
+      "translation": "销售团队为潜在客户安排了一次现场演示。",
+      "translated_word": "演示",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every finished masterpiece begins as a humble demo, a sketch of possibility.",
+      "style": "Philosophical",
+      "translation": "每一件完成的杰作都始于一个简陋的雏形，一幅可能性的草图。",
+      "translated_word": "雏形",
+      "display_order": null
+    },
+    {
+      "sentence": "The demo played like a whisper of the symphony yet to come.",
+      "style": "Poetic",
+      "translation": "那段演示如同即将奏响的交响乐的低语。",
+      "translated_word": "演示",
+      "display_order": 4
+    },
+    {
+      "sentence": "Start with a demo; perfection is built one iteration at a time.",
+      "style": "Inspirational",
+      "translation": "从演示版开始，完美是一次次迭代打磨出来的。",
+      "translated_word": "演示版",
+      "display_order": 3
+    }
+  ]
+}

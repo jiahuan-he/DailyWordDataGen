@@ -1,0 +1,61 @@
+{
+  "word": "gender",
+  "phonetic": "/ˈdʒɛndə/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "性别；社会性别",
+  "examples": [
+    {
+      "sentence": "The company's new policy ensures equal pay regardless of gender.",
+      "style": "Formal",
+      "translation": "公司的新政策确保无论性别如何都同工同酬。",
+      "translated_word": "性别",
+      "display_order": null
+    },
+    {
+      "sentence": "Gender refers to the social and cultural roles associated with being male or female.",
+      "style": "Definitional",
+      "translation": "性别指的是与男性或女性相关的社会和文化角色。",
+      "translated_word": "性别",
+      "display_order": 1
+    },
+    {
+      "sentence": "While sex is biological, gender is shaped by society and culture.",
+      "style": "Contrastive",
+      "translation": "性是生物属性，而性别则由社会和文化塑造。",
+      "translated_word": "性别",
+      "display_order": 2
+    },
+    {
+      "sentence": "Gender equality remains a major goal for human rights organizations worldwide.",
+      "style": "Collocational",
+      "translation": "性别平等仍是全球人权组织的主要目标。",
+      "translated_word": "性别",
+      "display_order": 3
+    },
+    {
+      "sentence": "Perhaps gender is less a fixed category than a spectrum of human expression.",
+      "style": "Philosophical",
+      "translation": "也许性别与其说是固定的类别，不如说是人类表达的光谱。",
+      "translated_word": "性别",
+      "display_order": null
+    },
+    {
+      "sentence": "Gender, like water, flows into whatever vessel the world offers it.",
+      "style": "Poetic",
+      "translation": "性别如水，流入世界为它准备的任何容器。",
+      "translated_word": "性别",
+      "display_order": 4
+    },
+    {
+      "sentence": "Understanding gender helps build a more inclusive world for everyone.",
+      "style": "Inspirational",
+      "translation": "理解性别有助于为每个人构建一个更包容的世界。",
+      "translated_word": "性别",
+      "display_order": null
+    }
+  ]
+}

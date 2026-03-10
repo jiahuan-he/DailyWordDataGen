@@ -1,0 +1,61 @@
+{
+  "word": "dressing",
+  "phonetic": "/ˈdɹɛsɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "调味酱；敷料；穿衣",
+  "examples": [
+    {
+      "sentence": "The restaurant chain announced a recall of its popular ranch dressing due to potential contamination.",
+      "style": "Formal",
+      "translation": "该连锁餐厅宣布召回其畅销的牧场沙拉酱，因可能存在污染问题。",
+      "translated_word": "沙拉酱",
+      "display_order": null
+    },
+    {
+      "sentence": "A dressing is a sauce added to salads or a bandage applied to wounds.",
+      "style": "Definitional",
+      "translation": "Dressing指的是添加在沙拉上的酱料，或是敷在伤口上的敷料。",
+      "translated_word": "酱料",
+      "display_order": 4
+    },
+    {
+      "sentence": "Unlike mayonnaise, vinaigrette dressing contains no eggs and has a lighter taste.",
+      "style": "Contrastive",
+      "translation": "与蛋黄酱不同，油醋汁不含鸡蛋，口感更清爽。",
+      "translated_word": "油醋汁",
+      "display_order": 3
+    },
+    {
+      "sentence": "The nurse changed the wound dressing every morning to prevent infection.",
+      "style": "Collocational",
+      "translation": "护士每天早上更换伤口敷料以防止感染。",
+      "translated_word": "敷料",
+      "display_order": 1
+    },
+    {
+      "sentence": "The simplest dressing often reveals the true flavor of what lies beneath.",
+      "style": "Philosophical",
+      "translation": "最简单的调味往往能显现食材本身的真味。",
+      "translated_word": "调味",
+      "display_order": null
+    },
+    {
+      "sentence": "Golden dressing drizzled like honey over crisp green leaves, a summer garden on a plate.",
+      "style": "Poetic",
+      "translation": "金色酱汁如蜜般淋在翠绿的菜叶上，盘中盛着一座夏日花园。",
+      "translated_word": "酱汁",
+      "display_order": 2
+    },
+    {
+      "sentence": "The right dressing can transform an ordinary salad into something extraordinary.",
+      "style": "Inspirational",
+      "translation": "一款合适的酱料能将普通的沙拉变得不同凡响。",
+      "translated_word": "酱料",
+      "display_order": null
+    }
+  ]
+}

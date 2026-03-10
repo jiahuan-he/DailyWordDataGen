@@ -1,0 +1,61 @@
+{
+  "word": "assert",
+  "phonetic": "/əˈsɜːt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "断言；声称；坚持；主张",
+  "examples": [
+    {
+      "sentence": "The company asserted that all safety protocols had been followed during the inspection.",
+      "style": "Formal",
+      "translation": "该公司声称在检查过程中已遵守所有安全规程。",
+      "translated_word": "声称",
+      "display_order": null
+    },
+    {
+      "sentence": "To assert is to state something confidently as a fact, even when others may doubt it.",
+      "style": "Definitional",
+      "translation": "断言是指自信地陈述某事为事实，即使他人可能对此有所怀疑。",
+      "translated_word": "断言",
+      "display_order": null
+    },
+    {
+      "sentence": "While some merely suggest their opinions, others assert them with unwavering conviction.",
+      "style": "Contrastive",
+      "translation": "有些人只是提出自己的看法，而另一些人则以坚定的信念主张自己的观点。",
+      "translated_word": "主张",
+      "display_order": 1
+    },
+    {
+      "sentence": "She learned to assert her rights and set clear boundaries in the workplace.",
+      "style": "Collocational",
+      "translation": "她学会了维护自己的权利，并在职场中设定清晰的界限。",
+      "translated_word": "维护",
+      "display_order": 3
+    },
+    {
+      "sentence": "To assert one's existence is to refuse to be invisible in a world that often overlooks the quiet.",
+      "style": "Philosophical",
+      "translation": "主张自己的存在，就是拒绝在一个常常忽视沉默者的世界里隐身。",
+      "translated_word": "主张",
+      "display_order": 4
+    },
+    {
+      "sentence": "The mountain asserts itself against the sky, silent yet undeniable.",
+      "style": "Poetic",
+      "translation": "群山在天际巍然矗立，无声却不可忽视。",
+      "translated_word": "矗立",
+      "display_order": null
+    },
+    {
+      "sentence": "Assert your worth; the world will make room for those who believe in themselves.",
+      "style": "Inspirational",
+      "translation": "坚持自己的价值；世界会为那些相信自己的人让出一席之地。",
+      "translated_word": "坚持",
+      "display_order": 2
+    }
+  ]
+}

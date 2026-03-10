@@ -1,0 +1,61 @@
+{
+  "word": "copy",
+  "phonetic": "/ˈkɒpi/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "复制；抄写；模仿",
+  "examples": [
+    {
+      "sentence": "The document was copied and distributed to all department heads before the meeting.",
+      "style": "Formal",
+      "translation": "会议前，文件已被复制并分发给各部门负责人。",
+      "translated_word": "复制",
+      "display_order": 4
+    },
+    {
+      "sentence": "To copy means to reproduce something exactly as it appears in the original.",
+      "style": "Definitional",
+      "translation": "复制是指按照原样精确再现某物。",
+      "translated_word": "复制",
+      "display_order": null
+    },
+    {
+      "sentence": "While downloading saves a file locally, copying simply duplicates its content.",
+      "style": "Contrastive",
+      "translation": "下载是将文件保存到本地，而复制只是复制其内容。",
+      "translated_word": "复制",
+      "display_order": null
+    },
+    {
+      "sentence": "She copied and pasted the text into a new document.",
+      "style": "Collocational",
+      "translation": "她把文字复制粘贴到一个新文档里。",
+      "translated_word": "复制",
+      "display_order": 1
+    },
+    {
+      "sentence": "Those who only copy never discover their own voice.",
+      "style": "Philosophical",
+      "translation": "只会模仿的人永远找不到自己的声音。",
+      "translated_word": "模仿",
+      "display_order": 2
+    },
+    {
+      "sentence": "The student copied the master's strokes until the brush became an extension of the soul.",
+      "style": "Poetic",
+      "translation": "学生临摹大师的笔触，直到毛笔成为灵魂的延伸。",
+      "translated_word": "临摹",
+      "display_order": 3
+    },
+    {
+      "sentence": "Copy the habits of successful people, then adapt them to fit your journey.",
+      "style": "Inspirational",
+      "translation": "模仿成功者的习惯，再将其调整以适应你自己的道路。",
+      "translated_word": "模仿",
+      "display_order": null
+    }
+  ]
+}

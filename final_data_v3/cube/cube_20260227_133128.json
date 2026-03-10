@@ -1,0 +1,61 @@
+{
+  "word": "cube",
+  "phonetic": "/kjuːb/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "立方体；方块；立方",
+  "examples": [
+    {
+      "sentence": "The museum unveiled a glass cube designed by a renowned architect.",
+      "style": "Formal",
+      "translation": "博物馆揭幕了一座由著名建筑师设计的玻璃立方体建筑。",
+      "translated_word": "立方体",
+      "display_order": null
+    },
+    {
+      "sentence": "A cube is a three-dimensional shape with six equal square faces.",
+      "style": "Definitional",
+      "translation": "立方体是一种有六个相等正方形面的三维形状。",
+      "translated_word": "立方体",
+      "display_order": 2
+    },
+    {
+      "sentence": "Unlike a sphere, a cube has distinct edges and corners.",
+      "style": "Contrastive",
+      "translation": "与球体不同，立方体有明显的棱角。",
+      "translated_word": "立方体",
+      "display_order": 3
+    },
+    {
+      "sentence": "She dropped an ice cube into her glass of water.",
+      "style": "Collocational",
+      "translation": "她往水杯里放了一块冰块。",
+      "translated_word": "冰块",
+      "display_order": 1
+    },
+    {
+      "sentence": "The cube represents order: perfect symmetry contained within finite boundaries.",
+      "style": "Philosophical",
+      "translation": "立方体象征着秩序：完美的对称被限定在有限的边界之中。",
+      "translated_word": "立方体",
+      "display_order": null
+    },
+    {
+      "sentence": "A single sugar cube dissolves like a tiny glacier melting into the sea of tea.",
+      "style": "Poetic",
+      "translation": "一颗方糖溶解，如同一座小小的冰川融入茶的海洋。",
+      "translated_word": "方糖",
+      "display_order": 4
+    },
+    {
+      "sentence": "Start with one small cube of effort; soon the structure of success will rise.",
+      "style": "Inspirational",
+      "translation": "从一小块努力的基石开始，成功的大厦终将拔地而起。",
+      "translated_word": "基石",
+      "display_order": null
+    }
+  ]
+}

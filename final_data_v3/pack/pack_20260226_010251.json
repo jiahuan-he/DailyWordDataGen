@@ -1,0 +1,61 @@
+{
+  "word": "pack",
+  "phonetic": "/pæk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "打包；装箱；塞满",
+  "examples": [
+    {
+      "sentence": "Thousands of fans packed the stadium for the championship game.",
+      "style": "Formal",
+      "translation": "数千名球迷涌入体育场观看冠军赛。",
+      "translated_word": "涌入",
+      "display_order": 3
+    },
+    {
+      "sentence": "To pack means to put things into a bag or container for travel or storage.",
+      "style": "Definitional",
+      "translation": "Pack指将物品放入袋子或容器中以便旅行或存放。",
+      "translated_word": "放入",
+      "display_order": null
+    },
+    {
+      "sentence": "Rather than stuffing items randomly, pack them neatly to save space.",
+      "style": "Contrastive",
+      "translation": "与其胡乱塞东西，不如整齐地打包以节省空间。",
+      "translated_word": "打包",
+      "display_order": 2
+    },
+    {
+      "sentence": "Pack your bags and get ready for the adventure ahead.",
+      "style": "Collocational",
+      "translation": "收拾行囊，准备迎接即将到来的冒险。",
+      "translated_word": "收拾",
+      "display_order": 1
+    },
+    {
+      "sentence": "The memories one chooses to pack shape the journey of life.",
+      "style": "Philosophical",
+      "translation": "一个人选择携带的记忆塑造了人生的旅程。",
+      "translated_word": "携带",
+      "display_order": null
+    },
+    {
+      "sentence": "The snow packed softly beneath her boots, whispering secrets of winter.",
+      "style": "Poetic",
+      "translation": "雪在她靴下轻轻压实，低语着冬日的秘密。",
+      "translated_word": "压实",
+      "display_order": 4
+    },
+    {
+      "sentence": "Pack your dreams with courage, and no destination will be too far.",
+      "style": "Inspirational",
+      "translation": "用勇气装满你的梦想，再远的目的地也触手可及。",
+      "translated_word": "装满",
+      "display_order": null
+    }
+  ]
+}

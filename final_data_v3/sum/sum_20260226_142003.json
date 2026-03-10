@@ -1,0 +1,62 @@
+{
+  "word": "sum",
+  "phonetic": "/sʌm/",
+  "pos": [
+    "noun",
+    "pronoun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "总数；金额；总和",
+  "examples": [
+    {
+      "sentence": "The sum of donations exceeded three million dollars by the end of the fundraising campaign.",
+      "style": "Formal",
+      "translation": "筹款活动结束时，捐款总额超过了三百万美元。",
+      "translated_word": "总额",
+      "display_order": 2
+    },
+    {
+      "sentence": "A sum is the total amount obtained by adding two or more numbers together.",
+      "style": "Definitional",
+      "translation": "总和是将两个或多个数字相加所得的结果。",
+      "translated_word": "总和",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike the average, the sum represents the complete total rather than a typical value.",
+      "style": "Contrastive",
+      "translation": "与平均值不同，总和代表的是完整的总数，而非典型值。",
+      "translated_word": "总和",
+      "display_order": 4
+    },
+    {
+      "sentence": "The insurance company paid out a large sum to cover the damages.",
+      "style": "Collocational",
+      "translation": "保险公司支付了一大笔款项来赔偿损失。",
+      "translated_word": "款项",
+      "display_order": 1
+    },
+    {
+      "sentence": "The sum of a person's choices reveals far more than any single decision.",
+      "style": "Philosophical",
+      "translation": "一个人所有选择的总和，远比任何单一决定更能说明问题。",
+      "translated_word": "总和",
+      "display_order": 3
+    },
+    {
+      "sentence": "Each life is a sum of fleeting moments, gathered like petals in the wind.",
+      "style": "Poetic",
+      "translation": "每一段人生都是无数转瞬即逝的时刻的总和，如风中聚散的花瓣。",
+      "translated_word": "总和",
+      "display_order": null
+    },
+    {
+      "sentence": "You are more than the sum of your failures; every setback adds strength to your story.",
+      "style": "Inspirational",
+      "translation": "你不仅仅是失败的总和；每一次挫折都为你的故事增添了力量。",
+      "translated_word": "总和",
+      "display_order": null
+    }
+  ]
+}

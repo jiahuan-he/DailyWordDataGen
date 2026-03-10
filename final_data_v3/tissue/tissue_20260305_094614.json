@@ -1,0 +1,61 @@
+{
+  "word": "tissue",
+  "phonetic": "/ˈtɪsjuː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "纸巾；（生物）组织；薄纱",
+  "examples": [
+    {
+      "sentence": "The biopsy revealed abnormal cell growth in the lung tissue.",
+      "style": "Formal",
+      "translation": "活检显示肺组织中存在异常细胞增生。",
+      "translated_word": "组织",
+      "display_order": null
+    },
+    {
+      "sentence": "A tissue is a thin, soft paper used for wiping or cleaning.",
+      "style": "Definitional",
+      "translation": "纸巾是一种柔软的薄纸，用于擦拭或清洁。",
+      "translated_word": "纸巾",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike muscle tissue, nerve tissue cannot regenerate once damaged.",
+      "style": "Contrastive",
+      "translation": "与肌肉组织不同，神经组织一旦受损便无法再生。",
+      "translated_word": "组织",
+      "display_order": 2
+    },
+    {
+      "sentence": "She pulled a tissue from the box and dabbed her eyes.",
+      "style": "Collocational",
+      "translation": "她从盒子里抽出一张纸巾，轻轻擦了擦眼睛。",
+      "translated_word": "纸巾",
+      "display_order": 1
+    },
+    {
+      "sentence": "The body is a tissue of connections: each cell depends on another.",
+      "style": "Philosophical",
+      "translation": "身体是一张由联系编织的网：每个细胞都依赖于另一个。",
+      "translated_word": "网",
+      "display_order": null
+    },
+    {
+      "sentence": "Morning mist hung like tissue over the silent valley.",
+      "style": "Poetic",
+      "translation": "晨雾如薄纱般笼罩着寂静的山谷。",
+      "translated_word": "薄纱",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every scar tells a story of tissue that chose to heal rather than surrender.",
+      "style": "Inspirational",
+      "translation": "每一道伤疤都诉说着组织选择愈合而非屈服的故事。",
+      "translated_word": "组织",
+      "display_order": 4
+    }
+  ]
+}

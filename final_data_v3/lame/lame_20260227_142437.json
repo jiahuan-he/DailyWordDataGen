@@ -1,0 +1,62 @@
+{
+  "word": "lame",
+  "phonetic": "/leɪm/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "跛的；站不住脚的；蹩脚的",
+  "examples": [
+    {
+      "sentence": "The company offered a lame explanation for the data breach, failing to address customer concerns.",
+      "style": "Formal",
+      "translation": "该公司对数据泄露事件给出了站不住脚的解释，未能回应客户的担忧。",
+      "translated_word": "站不住脚的",
+      "display_order": null
+    },
+    {
+      "sentence": "A lame excuse is one that sounds weak and unconvincing to listeners.",
+      "style": "Definitional",
+      "translation": "蹩脚的借口是指听起来软弱无力、难以令人信服的理由。",
+      "translated_word": "蹩脚的",
+      "display_order": null
+    },
+    {
+      "sentence": "A sincere apology earns respect, while a lame excuse only breeds contempt.",
+      "style": "Contrastive",
+      "translation": "真诚的道歉赢得尊重，而蹩脚的借口只会招致轻蔑。",
+      "translated_word": "蹩脚的",
+      "display_order": 2
+    },
+    {
+      "sentence": "The politician's lame attempt to deflect blame fooled no one.",
+      "style": "Collocational",
+      "translation": "那位政客推卸责任的拙劣企图骗不了任何人。",
+      "translated_word": "拙劣",
+      "display_order": 3
+    },
+    {
+      "sentence": "Even the most lame justification reveals something about what a person values.",
+      "style": "Philosophical",
+      "translation": "即便是最站不住脚的辩解，也能揭示一个人真正看重的东西。",
+      "translated_word": "站不住脚的",
+      "display_order": 4
+    },
+    {
+      "sentence": "The lame bird sat still, its broken wing a silent story of survival.",
+      "style": "Poetic",
+      "translation": "那只跛足的鸟静静地停在那里，折断的翅膀无声地诉说着生存的故事。",
+      "translated_word": "跛足的",
+      "display_order": 1
+    },
+    {
+      "sentence": "Do not let a lame fear hold you back from chasing your dreams.",
+      "style": "Inspirational",
+      "translation": "不要让毫无根据的恐惧阻挡你追逐梦想的脚步。",
+      "translated_word": "毫无根据的",
+      "display_order": null
+    }
+  ]
+}

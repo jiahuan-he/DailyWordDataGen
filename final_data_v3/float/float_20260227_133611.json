@@ -1,0 +1,61 @@
+{
+  "word": "float",
+  "phonetic": "/fləʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "漂浮；飘动；浮动",
+  "examples": [
+    {
+      "sentence": "The central bank announced plans to float the currency on international markets.",
+      "style": "Formal",
+      "translation": "央行宣布计划让本国货币在国际市场上自由浮动。",
+      "translated_word": "浮动",
+      "display_order": null
+    },
+    {
+      "sentence": "To float means to rest on the surface of a liquid without sinking.",
+      "style": "Definitional",
+      "translation": "漂浮是指停留在液体表面而不下沉。",
+      "translated_word": "漂浮",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike stones that sink, leaves float gently on the water.",
+      "style": "Contrastive",
+      "translation": "与会下沉的石头不同，树叶轻轻地漂浮在水面上。",
+      "translated_word": "漂浮",
+      "display_order": 1
+    },
+    {
+      "sentence": "Clouds float across the sky on a breezy afternoon.",
+      "style": "Collocational",
+      "translation": "微风轻拂的午后，云朵飘过天空。",
+      "translated_word": "飘",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some ideas float in the mind for years before finding expression.",
+      "style": "Philosophical",
+      "translation": "有些想法在脑海中飘荡多年，才终于得以表达。",
+      "translated_word": "飘荡",
+      "display_order": 3
+    },
+    {
+      "sentence": "Petals float downstream like whispered secrets carried by the current.",
+      "style": "Poetic",
+      "translation": "花瓣顺流而下，如同被水流带走的低语秘密。",
+      "translated_word": "顺流而下",
+      "display_order": null
+    },
+    {
+      "sentence": "Let your worries float away and make room for peace.",
+      "style": "Inspirational",
+      "translation": "让烦恼随风飘散，为内心的平静腾出空间。",
+      "translated_word": "飘散",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "word": "blank",
+  "phonetic": "/blæŋk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "空白的；茫然的；无表情的",
+  "examples": [
+    {
+      "sentence": "The suspect's face remained blank throughout the interrogation, revealing nothing to the detectives.",
+      "style": "Formal",
+      "translation": "嫌疑人在整个审讯过程中面无表情，没有向警探透露任何信息。",
+      "translated_word": "面无表情",
+      "display_order": 3
+    },
+    {
+      "sentence": "A blank page has no writing or marks on it; it is completely empty.",
+      "style": "Definitional",
+      "translation": "空白页上没有任何文字或标记，完全是空的。",
+      "translated_word": "空白",
+      "display_order": null
+    },
+    {
+      "sentence": "While a puzzled expression shows confusion, a blank stare reveals nothing at all.",
+      "style": "Contrastive",
+      "translation": "困惑的表情显示出迷茫，而茫然的凝视则什么都不透露。",
+      "translated_word": "茫然",
+      "display_order": 2
+    },
+    {
+      "sentence": "Please fill in the blank spaces on the application form before submitting.",
+      "style": "Collocational",
+      "translation": "请在提交前填写申请表上的空白处。",
+      "translated_word": "空白",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every blank canvas holds infinite possibilities, yet choosing one path means abandoning all others.",
+      "style": "Philosophical",
+      "translation": "每一块空白画布都蕴含着无限可能，但选择一条路就意味着放弃所有其他的路。",
+      "translated_word": "空白",
+      "display_order": null
+    },
+    {
+      "sentence": "The snow fell silent on blank fields, a white page waiting for the footprints of spring.",
+      "style": "Poetic",
+      "translation": "雪静静地落在空旷的田野上，像一张白纸，等待着春天的足迹。",
+      "translated_word": "空旷",
+      "display_order": null
+    },
+    {
+      "sentence": "A blank slate is not emptiness; it is the gift of starting fresh without the weight of past mistakes.",
+      "style": "Inspirational",
+      "translation": "一张白纸不是空虚，而是重新开始的礼物，不必背负过去错误的重担。",
+      "translated_word": "白纸",
+      "display_order": 4
+    }
+  ]
+}

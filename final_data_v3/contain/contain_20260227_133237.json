@@ -1,0 +1,60 @@
+{
+  "word": "contain",
+  "phonetic": "/kənˈteɪn/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "包含；容纳；控制；抑制",
+  "examples": [
+    {
+      "sentence": "The report contains detailed analysis of market trends and consumer behavior.",
+      "style": "Formal",
+      "translation": "该报告包含了对市场趋势和消费者行为的详细分析。",
+      "translated_word": "包含",
+      "display_order": 4
+    },
+    {
+      "sentence": "To contain something means to have it inside or to hold it within limits.",
+      "style": "Definitional",
+      "translation": "contain的意思是将某物包含在内，或将其控制在一定范围之内。",
+      "translated_word": "包含",
+      "display_order": null
+    },
+    {
+      "sentence": "This box contains books, while that one holds only papers.",
+      "style": "Contrastive",
+      "translation": "这个箱子装的是书，而那个箱子只装文件。",
+      "translated_word": "装",
+      "display_order": null
+    },
+    {
+      "sentence": "The dam was built to contain the floodwaters during heavy rains.",
+      "style": "Collocational",
+      "translation": "这座大坝是为了在暴雨期间控制洪水而建造的。",
+      "translated_word": "控制",
+      "display_order": 2
+    },
+    {
+      "sentence": "A single seed contains the possibility of an entire forest.",
+      "style": "Philosophical",
+      "translation": "一颗种子蕴含着整片森林的可能。",
+      "translated_word": "蕴含",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her eyes contained oceans: vast, deep, and full of unspoken stories.",
+      "style": "Poetic",
+      "translation": "她的眼眸如海洋般深邃辽阔，盛满了无言的故事。",
+      "translated_word": "盛满",
+      "display_order": null
+    },
+    {
+      "sentence": "Learn to contain your fears, and you will discover the strength within.",
+      "style": "Inspirational",
+      "translation": "学会控制恐惧，你会发现内心的力量。",
+      "translated_word": "控制",
+      "display_order": 3
+    }
+  ]
+}

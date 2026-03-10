@@ -1,0 +1,61 @@
+{
+  "word": "drove",
+  "phonetic": "/dɹəʊv/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "驾驶；驱赶；迫使",
+  "examples": [
+    {
+      "sentence": "The senator drove to the capitol building for an emergency session.",
+      "style": "Formal",
+      "translation": "参议员驱车前往国会大厦参加紧急会议。",
+      "translated_word": "驱车",
+      "display_order": null
+    },
+    {
+      "sentence": "She drove the car slowly, meaning she operated and steered the vehicle.",
+      "style": "Definitional",
+      "translation": "她慢慢地开着车，也就是说她在操控和驾驶这辆车。",
+      "translated_word": "开",
+      "display_order": null
+    },
+    {
+      "sentence": "He drove to work instead of taking the bus.",
+      "style": "Contrastive",
+      "translation": "他开车去上班，而不是坐公交车。",
+      "translated_word": "开车",
+      "display_order": 2
+    },
+    {
+      "sentence": "Desperation drove him to make a difficult choice.",
+      "style": "Collocational",
+      "translation": "绝望迫使他做出了艰难的抉择。",
+      "translated_word": "迫使",
+      "display_order": 1
+    },
+    {
+      "sentence": "What drove the great thinkers was not fame, but curiosity.",
+      "style": "Philosophical",
+      "translation": "驱动伟大思想家的不是名声，而是好奇心。",
+      "translated_word": "驱动",
+      "display_order": 3
+    },
+    {
+      "sentence": "The wind drove the autumn leaves across the silent lake.",
+      "style": "Poetic",
+      "translation": "秋风将落叶吹过寂静的湖面。",
+      "translated_word": "吹",
+      "display_order": 4
+    },
+    {
+      "sentence": "Passion drove her forward when talent alone was not enough.",
+      "style": "Inspirational",
+      "translation": "当才华不足以支撑时，是热情推动她继续前行。",
+      "translated_word": "推动",
+      "display_order": null
+    }
+  ]
+}

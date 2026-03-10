@@ -1,0 +1,61 @@
+{
+  "word": "chunk",
+  "phonetic": "/t͡ʃʌŋk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "大块；厚片；相当大的部分",
+  "examples": [
+    {
+      "sentence": "A significant chunk of the company's revenue comes from overseas markets.",
+      "style": "Formal",
+      "translation": "该公司相当大一部分收入来自海外市场。",
+      "translated_word": "一部分",
+      "display_order": 2
+    },
+    {
+      "sentence": "A chunk is a thick, solid piece that has been cut or broken off from something larger.",
+      "style": "Definitional",
+      "translation": "chunk指从较大物体上切下或断开的厚实块状物。",
+      "translated_word": "块状物",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a slice, which is thin and flat, a chunk is thick and irregular in shape.",
+      "style": "Contrastive",
+      "translation": "与薄而扁平的切片不同，chunk厚实且形状不规则。",
+      "translated_word": "厚实",
+      "display_order": null
+    },
+    {
+      "sentence": "She bit off a chunk of bread and passed the loaf to her brother.",
+      "style": "Collocational",
+      "translation": "她咬下一大块面包，然后把剩下的递给了弟弟。",
+      "translated_word": "一大块",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every chunk of time spent learning becomes a building block for wisdom.",
+      "style": "Philosophical",
+      "translation": "每一段用于学习的时光都会成为智慧的基石。",
+      "translated_word": "一段",
+      "display_order": null
+    },
+    {
+      "sentence": "The glacier calved a chunk of ice that tumbled into the sea like a fallen giant.",
+      "style": "Poetic",
+      "translation": "冰川崩落出一块巨冰，如倒下的巨人般坠入大海。",
+      "translated_word": "一块",
+      "display_order": 4
+    },
+    {
+      "sentence": "Break the big goal into smaller chunks, and suddenly the impossible feels achievable.",
+      "style": "Inspirational",
+      "translation": "把大目标分解成小块，原本不可能的事就会变得触手可及。",
+      "translated_word": "小块",
+      "display_order": 3
+    }
+  ]
+}

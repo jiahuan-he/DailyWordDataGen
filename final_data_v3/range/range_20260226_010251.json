@@ -1,0 +1,61 @@
+{
+  "word": "range",
+  "phonetic": "/ɹeɪndʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "范围；系列；山脉",
+  "examples": [
+    {
+      "sentence": "The company offers a wide range of products to meet diverse consumer needs.",
+      "style": "Formal",
+      "translation": "该公司提供多种产品以满足不同消费者的需求。",
+      "translated_word": "多种",
+      "display_order": 2
+    },
+    {
+      "sentence": "A range is a set of different things of the same general type.",
+      "style": "Definitional",
+      "translation": "范围是指同一类型中不同事物的集合。",
+      "translated_word": "范围",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a single option, a range provides flexibility and choice.",
+      "style": "Contrastive",
+      "translation": "与单一选项不同，多种选择提供了灵活性和自由度。",
+      "translated_word": "多种选择",
+      "display_order": null
+    },
+    {
+      "sentence": "The store carries a full range of sizes and colors.",
+      "style": "Collocational",
+      "translation": "这家店备有全系列的尺码和颜色。",
+      "translated_word": "全系列",
+      "display_order": 4
+    },
+    {
+      "sentence": "The range of human emotion stretches from despair to ecstasy, yet most live somewhere in between.",
+      "style": "Philosophical",
+      "translation": "人类情感的范围从绝望延伸到狂喜，但大多数人活在两者之间。",
+      "translated_word": "范围",
+      "display_order": 3
+    },
+    {
+      "sentence": "Beyond the valley, a range of mountains rose like sleeping giants beneath the dawn.",
+      "style": "Poetic",
+      "translation": "山谷之外，群山如沉睡的巨人在晨曦中苏醒。",
+      "translated_word": "群山",
+      "display_order": 1
+    },
+    {
+      "sentence": "Expand the range of possibilities by refusing to accept limits others have set.",
+      "style": "Inspirational",
+      "translation": "拒绝接受他人设定的限制，去拓展可能性的边界。",
+      "translated_word": "边界",
+      "display_order": null
+    }
+  ]
+}

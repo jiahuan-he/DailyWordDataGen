@@ -1,0 +1,61 @@
+{
+  "word": "electrical",
+  "phonetic": "/ɪˈlɛktɹɪkəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "电的；用电的；与电有关的",
+  "examples": [
+    {
+      "sentence": "The city council approved a major upgrade to the electrical grid to accommodate growing energy demands.",
+      "style": "Formal",
+      "translation": "市议会批准了一项电网重大升级计划，以满足日益增长的能源需求。",
+      "translated_word": "电网",
+      "display_order": null
+    },
+    {
+      "sentence": "An electrical device is one that operates by means of electricity rather than manual power.",
+      "style": "Definitional",
+      "translation": "电气设备是指依靠电力而非人力运行的装置。",
+      "translated_word": "电气",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike mechanical failures, electrical faults often occur without visible warning signs.",
+      "style": "Contrastive",
+      "translation": "与机械故障不同，电气故障通常没有明显的预警信号。",
+      "translated_word": "电气",
+      "display_order": 2
+    },
+    {
+      "sentence": "The technician checked all the electrical wiring before certifying the building as safe.",
+      "style": "Collocational",
+      "translation": "技术人员检查了所有电气线路后，才确认该建筑安全达标。",
+      "translated_word": "电气",
+      "display_order": 1
+    },
+    {
+      "sentence": "Perhaps the spark of thought is merely an electrical impulse, yet it gives rise to entire civilizations.",
+      "style": "Philosophical",
+      "translation": "也许思想的火花不过是一道电脉冲，却能孕育出整个文明。",
+      "translated_word": "电",
+      "display_order": 3
+    },
+    {
+      "sentence": "Lightning tore across the sky, an electrical vein pulsing through the heart of the storm.",
+      "style": "Poetic",
+      "translation": "闪电划破天际，如同一道电流脉管，在风暴的心脏中跳动。",
+      "translated_word": "电流",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every great innovation began as an electrical signal in someone's brain: never underestimate the power of a single idea.",
+      "style": "Inspirational",
+      "translation": "每一项伟大的创新都始于某人大脑中的一个电信号：永远不要低估一个想法的力量。",
+      "translated_word": "电",
+      "display_order": null
+    }
+  ]
+}

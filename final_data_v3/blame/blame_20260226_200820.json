@@ -1,0 +1,61 @@
+{
+  "word": "blame",
+  "phonetic": "/bleɪm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "责备；归咎于；怪罪",
+  "examples": [
+    {
+      "sentence": "The investigation found that inadequate safety protocols were to blame for the accident.",
+      "style": "Formal",
+      "translation": "调查发现，安全规程不完善是事故的原因。",
+      "translated_word": "原因",
+      "display_order": null
+    },
+    {
+      "sentence": "To blame someone is to hold them responsible for a fault or wrongdoing.",
+      "style": "Definitional",
+      "translation": "责备某人就是认为他们对过失或不当行为负有责任。",
+      "translated_word": "责备",
+      "display_order": null
+    },
+    {
+      "sentence": "Rather than blame others, successful leaders examine their own decisions first.",
+      "style": "Contrastive",
+      "translation": "成功的领导者不会责怪他人，而是先审视自己的决定。",
+      "translated_word": "责怪",
+      "display_order": 3
+    },
+    {
+      "sentence": "The coach refused to blame the loss on any single player.",
+      "style": "Collocational",
+      "translation": "教练拒绝将失败归咎于任何一名球员。",
+      "translated_word": "归咎于",
+      "display_order": 1
+    },
+    {
+      "sentence": "Those who blame fate often overlook the choices within their control.",
+      "style": "Philosophical",
+      "translation": "怨天尤人者往往忽视了自己可以掌控的选择。",
+      "translated_word": "怨天尤人",
+      "display_order": 4
+    },
+    {
+      "sentence": "The river does not blame the stone; it simply flows around it.",
+      "style": "Poetic",
+      "translation": "河水不怪石头挡路，只是绕道而行。",
+      "translated_word": "怪",
+      "display_order": 2
+    },
+    {
+      "sentence": "Stop blaming yesterday for what you can change today.",
+      "style": "Inspirational",
+      "translation": "别再为今天能改变的事责怪昨天。",
+      "translated_word": "责怪",
+      "display_order": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "wage",
+  "phonetic": "/weɪd͡ʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "工资；薪水；报酬",
+  "examples": [
+    {
+      "sentence": "The federal government announced plans to raise the minimum wage by fifteen percent next year.",
+      "style": "Formal",
+      "translation": "联邦政府宣布计划明年将最低工资提高百分之十五。",
+      "translated_word": "工资",
+      "display_order": null
+    },
+    {
+      "sentence": "A wage is regular payment received in exchange for labor or services.",
+      "style": "Definitional",
+      "translation": "工资是为劳动或服务所获得的固定报酬。",
+      "translated_word": "工资",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a salary, which remains fixed monthly, a wage is typically calculated by the hour.",
+      "style": "Contrastive",
+      "translation": "与每月固定的薪金不同，工资通常按小时计算。",
+      "translated_word": "工资",
+      "display_order": 1
+    },
+    {
+      "sentence": "The union negotiated a fair wage for all factory workers.",
+      "style": "Collocational",
+      "translation": "工会为所有工厂工人争取到了合理的工资。",
+      "translated_word": "工资",
+      "display_order": 3
+    },
+    {
+      "sentence": "The true wage of honest work is not money alone, but dignity.",
+      "style": "Philosophical",
+      "translation": "诚实劳动的真正回报不仅是金钱，更是尊严。",
+      "translated_word": "回报",
+      "display_order": null
+    },
+    {
+      "sentence": "Each coin of the wage carries the weight of callused hands and weary hours.",
+      "style": "Poetic",
+      "translation": "每一枚工资换来的硬币，都承载着磨出老茧的双手和疲惫的时光。",
+      "translated_word": "工资",
+      "display_order": 2
+    },
+    {
+      "sentence": "A fair wage opens doors; never undervalue the worth of your labor.",
+      "style": "Inspirational",
+      "translation": "合理的报酬能打开机遇之门；永远不要低估自己劳动的价值。",
+      "translated_word": "报酬",
+      "display_order": 4
+    }
+  ]
+}

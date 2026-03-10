@@ -1,0 +1,61 @@
+{
+  "word": "abuse",
+  "phonetic": "/əˈbjuːs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "滥用；虐待；辱骂",
+  "examples": [
+    {
+      "sentence": "The investigation uncovered years of financial abuse within the organization.",
+      "style": "Formal",
+      "translation": "调查揭露了该组织多年的财务滥用行为。",
+      "translated_word": "滥用",
+      "display_order": 2
+    },
+    {
+      "sentence": "Abuse refers to the harmful or improper treatment of someone or something.",
+      "style": "Definitional",
+      "translation": "滥用指的是对某人或某物的伤害性或不当对待。",
+      "translated_word": "滥用",
+      "display_order": null
+    },
+    {
+      "sentence": "While criticism can be constructive, abuse is purely destructive.",
+      "style": "Contrastive",
+      "translation": "批评可以是建设性的，而辱骂则纯粹是破坏性的。",
+      "translated_word": "辱骂",
+      "display_order": 1
+    },
+    {
+      "sentence": "Victims of abuse often suffer in silence for years.",
+      "style": "Collocational",
+      "translation": "受虐者往往默默承受多年的痛苦。",
+      "translated_word": "受虐",
+      "display_order": 4
+    },
+    {
+      "sentence": "The cycle of abuse reveals how pain, left unhealed, perpetuates itself.",
+      "style": "Philosophical",
+      "translation": "虐待的循环揭示了未愈合的伤痛如何自我延续。",
+      "translated_word": "虐待",
+      "display_order": 3
+    },
+    {
+      "sentence": "Abuse is a shadow that darkens the soul long after the wounds have healed.",
+      "style": "Poetic",
+      "translation": "虐待是一道阴影，在伤口愈合后仍长久笼罩着灵魂。",
+      "translated_word": "虐待",
+      "display_order": null
+    },
+    {
+      "sentence": "Breaking free from abuse is the first step toward reclaiming your life.",
+      "style": "Inspirational",
+      "translation": "摆脱虐待是重新掌控人生的第一步。",
+      "translated_word": "虐待",
+      "display_order": null
+    }
+  ]
+}

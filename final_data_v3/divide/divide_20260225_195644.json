@@ -1,0 +1,61 @@
+{
+  "word": "divide",
+  "phonetic": "/dɪˈvaɪd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "分开；划分；分配",
+  "examples": [
+    {
+      "sentence": "The committee voted to divide the budget equally among all departments.",
+      "style": "Formal",
+      "translation": "委员会投票决定将预算平均分配给各部门。",
+      "translated_word": "分配",
+      "display_order": 2
+    },
+    {
+      "sentence": "To divide means to separate something into smaller parts or groups.",
+      "style": "Definitional",
+      "translation": "Divide的意思是将某物分成更小的部分或组别。",
+      "translated_word": "分成",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike splitting, which implies breaking apart, dividing suggests orderly separation.",
+      "style": "Contrastive",
+      "translation": "与暗示破裂的splitting不同，divide意味着有序的分离。",
+      "translated_word": "分离",
+      "display_order": null
+    },
+    {
+      "sentence": "The teacher asked the students to divide into groups of four.",
+      "style": "Collocational",
+      "translation": "老师让学生们分成四人一组。",
+      "translated_word": "分成",
+      "display_order": 1
+    },
+    {
+      "sentence": "What divides people often reveals what they value most.",
+      "style": "Philosophical",
+      "translation": "使人们产生分歧的事物，往往揭示了他们最看重什么。",
+      "translated_word": "分歧",
+      "display_order": 3
+    },
+    {
+      "sentence": "The river divides the valley like a silver thread through green silk.",
+      "style": "Poetic",
+      "translation": "河流穿过山谷，如同银线划过绿绸。",
+      "translated_word": "穿过",
+      "display_order": 4
+    },
+    {
+      "sentence": "Learn to divide your energy wisely: rest fuels the work ahead.",
+      "style": "Inspirational",
+      "translation": "学会合理分配精力：休息是为了更好地前行。",
+      "translated_word": "分配",
+      "display_order": null
+    }
+  ]
+}

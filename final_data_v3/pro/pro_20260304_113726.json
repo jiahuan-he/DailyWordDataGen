@@ -1,0 +1,62 @@
+{
+  "word": "pro",
+  "phonetic": "/pɹəʊ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "preposition"
+  ],
+  "selected_pos": "noun",
+  "definition": "专家；行家；职业选手",
+  "examples": [
+    {
+      "sentence": "The tournament attracted both amateurs and pros from across the country.",
+      "style": "Formal",
+      "translation": "这场锦标赛吸引了来自全国各地的业余选手和职业选手。",
+      "translated_word": "职业选手",
+      "display_order": null
+    },
+    {
+      "sentence": "A pro is someone who has mastered a skill through years of dedicated practice.",
+      "style": "Definitional",
+      "translation": "行家是指通过多年刻苦练习掌握了某项技能的人。",
+      "translated_word": "行家",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike hobbyists who play for fun, a pro competes for a living.",
+      "style": "Contrastive",
+      "translation": "与以娱乐为目的的爱好者不同，职业选手靠比赛谋生。",
+      "translated_word": "职业选手",
+      "display_order": 3
+    },
+    {
+      "sentence": "She handled the crisis like a true pro.",
+      "style": "Collocational",
+      "translation": "她像真正的行家一样处理了这场危机。",
+      "translated_word": "行家",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every pro was once an amateur willing to fail.",
+      "style": "Philosophical",
+      "translation": "每一位专家都曾是愿意接受失败的新手。",
+      "translated_word": "专家",
+      "display_order": 2
+    },
+    {
+      "sentence": "The old pro moved with quiet grace, each gesture telling a story of ten thousand hours.",
+      "style": "Poetic",
+      "translation": "这位老将举手投足间从容优雅，每个动作都诉说着万小时的磨练。",
+      "translated_word": "老将",
+      "display_order": 4
+    },
+    {
+      "sentence": "Train like a pro, and one day the title will follow.",
+      "style": "Inspirational",
+      "translation": "像专业选手那样训练，终有一天头衔会随之而来。",
+      "translated_word": "专业选手",
+      "display_order": null
+    }
+  ]
+}

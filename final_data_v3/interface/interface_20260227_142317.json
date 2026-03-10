@@ -1,0 +1,61 @@
+{
+  "word": "interface",
+  "phonetic": "/ˈɪntəfeɪs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "界面；接口；交互方式",
+  "examples": [
+    {
+      "sentence": "The company unveiled a redesigned user interface that simplifies navigation across all platforms.",
+      "style": "Formal",
+      "translation": "该公司发布了重新设计的用户界面，简化了所有平台上的导航操作。",
+      "translated_word": "界面",
+      "display_order": null
+    },
+    {
+      "sentence": "An interface is a point where two systems meet and interact with each other.",
+      "style": "Definitional",
+      "translation": "接口是两个系统相遇并相互交互的连接点。",
+      "translated_word": "接口",
+      "display_order": 2
+    },
+    {
+      "sentence": "Unlike a command-line interface, a graphical interface allows users to interact through visual elements.",
+      "style": "Contrastive",
+      "translation": "与命令行界面不同，图形界面允许用户通过视觉元素进行交互。",
+      "translated_word": "界面",
+      "display_order": 3
+    },
+    {
+      "sentence": "The software features an intuitive interface that reduces the learning curve for new users.",
+      "style": "Collocational",
+      "translation": "该软件具有直观的界面，降低了新用户的学习门槛。",
+      "translated_word": "界面",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every interface represents a choice about what to reveal and what to hide.",
+      "style": "Philosophical",
+      "translation": "每一个界面都代表着一种选择：展示什么，隐藏什么。",
+      "translated_word": "界面",
+      "display_order": 4
+    },
+    {
+      "sentence": "The interface glowed softly, a threshold between the human world and the digital unknown.",
+      "style": "Poetic",
+      "translation": "界面泛着柔光，宛如人类世界与数字未知之间的门槛。",
+      "translated_word": "界面",
+      "display_order": null
+    },
+    {
+      "sentence": "A well-designed interface empowers people to accomplish tasks they never thought possible.",
+      "style": "Inspirational",
+      "translation": "精心设计的界面能让人们完成曾经认为不可能的事情。",
+      "translated_word": "界面",
+      "display_order": null
+    }
+  ]
+}

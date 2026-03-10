@@ -1,0 +1,61 @@
+{
+  "word": "undo",
+  "phonetic": "/ʌnˈduː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "撤销；取消；解开；毁掉",
+  "examples": [
+    {
+      "sentence": "The committee voted to undo the previous administration's policies on environmental protection.",
+      "style": "Formal",
+      "translation": "委员会投票撤销了上届政府的环保政策。",
+      "translated_word": "撤销",
+      "display_order": null
+    },
+    {
+      "sentence": "To undo means to reverse an action or return something to its original state.",
+      "style": "Definitional",
+      "translation": "undo的意思是撤销某个动作或将事物恢复到原来的状态。",
+      "translated_word": "撤销",
+      "display_order": null
+    },
+    {
+      "sentence": "While deleting removes content permanently, pressing undo simply restores what was there before.",
+      "style": "Contrastive",
+      "translation": "删除会永久移除内容，而按撤销键只是恢复之前的内容。",
+      "translated_word": "撤销",
+      "display_order": null
+    },
+    {
+      "sentence": "Press Ctrl+Z to undo the last change in most applications.",
+      "style": "Collocational",
+      "translation": "在大多数应用程序中，按Ctrl+Z可以撤销上一步更改。",
+      "translated_word": "撤销",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some mistakes cannot be undone; they can only be learned from.",
+      "style": "Philosophical",
+      "translation": "有些错误无法挽回，只能从中吸取教训。",
+      "translated_word": "挽回",
+      "display_order": 3
+    },
+    {
+      "sentence": "Time cannot undo the scars, but it softens their edges like water smoothing stone.",
+      "style": "Poetic",
+      "translation": "时间无法抹去伤痕，但它会像流水磨平石头一样，让棱角变得柔和。",
+      "translated_word": "抹去",
+      "display_order": 2
+    },
+    {
+      "sentence": "One bad day does not have to undo months of progress; keep moving forward.",
+      "style": "Inspirational",
+      "translation": "一天的挫折不必毁掉数月的努力，继续前行吧。",
+      "translated_word": "毁掉",
+      "display_order": 4
+    }
+  ]
+}

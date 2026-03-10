@@ -1,0 +1,62 @@
+{
+  "word": "underlying",
+  "phonetic": null,
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "潜在的；根本的；隐含的",
+  "examples": [
+    {
+      "sentence": "The report revealed the underlying causes of the economic downturn.",
+      "style": "Formal",
+      "translation": "该报告揭示了经济衰退的根本原因。",
+      "translated_word": "根本",
+      "display_order": null
+    },
+    {
+      "sentence": "An underlying assumption is a belief that supports a conclusion without being stated.",
+      "style": "Definitional",
+      "translation": "潜在假设是一种支撑结论但未被明确陈述的信念。",
+      "translated_word": "潜在",
+      "display_order": null
+    },
+    {
+      "sentence": "The symptoms were treated, but the underlying disease remained unaddressed.",
+      "style": "Contrastive",
+      "translation": "症状得到了治疗，但根本的疾病却未被解决。",
+      "translated_word": "根本的",
+      "display_order": 1
+    },
+    {
+      "sentence": "Researchers identified the underlying pattern in the data.",
+      "style": "Collocational",
+      "translation": "研究人员识别出了数据中的潜在规律。",
+      "translated_word": "潜在",
+      "display_order": null
+    },
+    {
+      "sentence": "Every conflict has an underlying truth waiting to be understood.",
+      "style": "Philosophical",
+      "translation": "每一场冲突背后都有一个等待被理解的深层真相。",
+      "translated_word": "深层",
+      "display_order": 3
+    },
+    {
+      "sentence": "Beneath the calm surface, an underlying current stirred the depths.",
+      "style": "Poetic",
+      "translation": "平静的水面之下，一股暗流涌动于深处。",
+      "translated_word": "暗",
+      "display_order": 2
+    },
+    {
+      "sentence": "Understanding the underlying principles gives you power over complexity.",
+      "style": "Inspirational",
+      "translation": "理解根本原理，就能驾驭复杂事物。",
+      "translated_word": "根本",
+      "display_order": 4
+    }
+  ]
+}

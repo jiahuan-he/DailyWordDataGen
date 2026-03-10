@@ -1,0 +1,62 @@
+{
+  "word": "den",
+  "phonetic": "/dɛn/",
+  "pos": [
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "兽穴；书房；私室",
+  "examples": [
+    {
+      "sentence": "The senator retreated to his den to prepare for the upcoming debate.",
+      "style": "Formal",
+      "translation": "参议员退回书房，准备即将到来的辩论。",
+      "translated_word": "书房",
+      "display_order": null
+    },
+    {
+      "sentence": "A den is a small, cozy room used for reading, relaxing, or working.",
+      "style": "Definitional",
+      "translation": "书房是一个用于阅读、休息或工作的舒适小房间。",
+      "translated_word": "书房",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike the formal living room, the den offers a casual space for the family to unwind.",
+      "style": "Contrastive",
+      "translation": "与正式的客厅不同，私室为家人提供了一个放松的休闲空间。",
+      "translated_word": "私室",
+      "display_order": 2
+    },
+    {
+      "sentence": "The fox returned to its den before nightfall.",
+      "style": "Collocational",
+      "translation": "狐狸在天黑前回到了它的洞穴。",
+      "translated_word": "洞穴",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every creature needs a den: a place where the world cannot follow.",
+      "style": "Philosophical",
+      "translation": "每个生灵都需要一个巢穴：一个世界无法侵入的地方。",
+      "translated_word": "巢穴",
+      "display_order": 3
+    },
+    {
+      "sentence": "The old den held shadows and whispers of stories long forgotten.",
+      "style": "Poetic",
+      "translation": "那间老书房里藏着阴影，回荡着早已被遗忘的故事的低语。",
+      "translated_word": "书房",
+      "display_order": null
+    },
+    {
+      "sentence": "Create a den of your own: a sanctuary where ideas can flourish.",
+      "style": "Inspirational",
+      "translation": "为自己打造一间书房吧：一个让思想蓬勃生长的庇护所。",
+      "translated_word": "书房",
+      "display_order": 4
+    }
+  ]
+}

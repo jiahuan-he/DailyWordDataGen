@@ -1,0 +1,61 @@
+{
+  "word": "amount",
+  "phonetic": "/əˈmaʊnt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "数量；总额；数目",
+  "examples": [
+    {
+      "sentence": "The amount of funding allocated to education has increased by twelve percent this fiscal year.",
+      "style": "Formal",
+      "translation": "本财年教育拨款总额增加了百分之十二。",
+      "translated_word": "总额",
+      "display_order": 3
+    },
+    {
+      "sentence": "An amount refers to a quantity of something that can be measured or counted.",
+      "style": "Definitional",
+      "translation": "amount指的是可以测量或计算的数量。",
+      "translated_word": "数量",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike the number of items, the amount of water cannot be counted individually.",
+      "style": "Contrastive",
+      "translation": "与物品的件数不同，水的量无法逐一计数。",
+      "translated_word": "量",
+      "display_order": 2
+    },
+    {
+      "sentence": "A considerable amount of effort went into completing the project on time.",
+      "style": "Collocational",
+      "translation": "为了按时完成项目，付出了相当大的努力。",
+      "translated_word": "努力",
+      "display_order": null
+    },
+    {
+      "sentence": "The amount of kindness given freely often returns in unexpected ways.",
+      "style": "Philosophical",
+      "translation": "无私付出的善意，往往以意想不到的方式回馈。",
+      "translated_word": "善意",
+      "display_order": null
+    },
+    {
+      "sentence": "A small amount of light crept through the curtains, painting golden stripes across the floor.",
+      "style": "Poetic",
+      "translation": "一缕微光从窗帘缝隙透入，在地板上画出金色的条纹。",
+      "translated_word": "微光",
+      "display_order": 4
+    },
+    {
+      "sentence": "Even a small amount of progress each day adds up to remarkable change over time.",
+      "style": "Inspirational",
+      "translation": "每天哪怕一点点进步，日积月累也能带来惊人的改变。",
+      "translated_word": "进步",
+      "display_order": 1
+    }
+  ]
+}

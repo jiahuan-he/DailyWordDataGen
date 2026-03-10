@@ -1,0 +1,61 @@
+{
+  "word": "quarantine",
+  "phonetic": "/ˈkwɒɹ.ən.taɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "隔离；检疫；隔离期",
+  "examples": [
+    {
+      "sentence": "Health officials announced a mandatory quarantine for all incoming travelers.",
+      "style": "Formal",
+      "translation": "卫生官员宣布对所有入境旅客实行强制隔离。",
+      "translated_word": "隔离",
+      "display_order": 4
+    },
+    {
+      "sentence": "A quarantine is a period of isolation to prevent the spread of disease.",
+      "style": "Definitional",
+      "translation": "隔离是为防止疾病传播而进行的一段隔离期。",
+      "translated_word": "隔离",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike simple isolation, quarantine applies to those who may have been exposed but are not yet sick.",
+      "style": "Contrastive",
+      "translation": "与单纯的隔离不同，检疫适用于可能已接触病原但尚未发病的人。",
+      "translated_word": "检疫",
+      "display_order": 1
+    },
+    {
+      "sentence": "The ship was placed under strict quarantine in the harbor.",
+      "style": "Collocational",
+      "translation": "那艘船在港口被严格隔离。",
+      "translated_word": "隔离",
+      "display_order": 2
+    },
+    {
+      "sentence": "Quarantine teaches that sometimes separation is the deepest form of care.",
+      "style": "Philosophical",
+      "translation": "隔离让人明白，有时分离是最深沉的关怀。",
+      "translated_word": "隔离",
+      "display_order": null
+    },
+    {
+      "sentence": "In the quiet quarantine of winter, seeds dream beneath the frozen earth.",
+      "style": "Poetic",
+      "translation": "在冬日静谧的隔绝中，种子在冻土下安然入梦。",
+      "translated_word": "隔绝",
+      "display_order": null
+    },
+    {
+      "sentence": "A quarantine may confine the body, but it can never imprison a curious mind.",
+      "style": "Inspirational",
+      "translation": "隔离或许能限制身体，却永远困不住求知的心灵。",
+      "translated_word": "隔离",
+      "display_order": 3
+    }
+  ]
+}

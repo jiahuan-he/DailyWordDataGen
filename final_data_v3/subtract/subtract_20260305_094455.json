@@ -1,0 +1,60 @@
+{
+  "word": "subtract",
+  "phonetic": "/səbˈtɹækt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "减去；扣除；减少",
+  "examples": [
+    {
+      "sentence": "The accountant will subtract all applicable deductions before calculating the final tax liability.",
+      "style": "Formal",
+      "translation": "会计师会先扣除所有适用的减免项，再计算最终应纳税额。",
+      "translated_word": "扣除",
+      "display_order": null
+    },
+    {
+      "sentence": "To subtract means to take one number away from another.",
+      "style": "Definitional",
+      "translation": "减法是指从一个数中去掉另一个数。",
+      "translated_word": "减法",
+      "display_order": null
+    },
+    {
+      "sentence": "Adding skills builds value, while failing to grow can subtract from it.",
+      "style": "Contrastive",
+      "translation": "增长技能能提升价值，而停止成长则会削弱它。",
+      "translated_word": "削弱",
+      "display_order": 4
+    },
+    {
+      "sentence": "Remember to subtract the discount from the original price.",
+      "style": "Collocational",
+      "translation": "记得从原价中减去折扣。",
+      "translated_word": "减去",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every regret we hold onto subtracts from the joy we could be feeling now.",
+      "style": "Philosophical",
+      "translation": "每一份执念中的遗憾，都会消减当下本可拥有的快乐。",
+      "translated_word": "消减",
+      "display_order": null
+    },
+    {
+      "sentence": "Time subtracts the colors from old photographs, leaving only whispers of what once was.",
+      "style": "Poetic",
+      "translation": "时光褪去老照片的色彩，只留下往昔的低语。",
+      "translated_word": "褪去",
+      "display_order": 2
+    },
+    {
+      "sentence": "Subtract the doubts, and what remains is the courage to begin.",
+      "style": "Inspirational",
+      "translation": "减去那些疑虑，剩下的便是开始的勇气。",
+      "translated_word": "减去",
+      "display_order": 3
+    }
+  ]
+}

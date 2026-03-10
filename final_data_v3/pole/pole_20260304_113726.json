@@ -1,0 +1,61 @@
+{
+  "word": "pole",
+  "phonetic": "/pɔːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "杆；柱；极点",
+  "examples": [
+    {
+      "sentence": "The utility company installed a new pole to restore power to the neighborhood.",
+      "style": "Formal",
+      "translation": "电力公司安装了一根新电线杆，以恢复该社区的供电。",
+      "translated_word": "电线杆",
+      "display_order": null
+    },
+    {
+      "sentence": "A pole is a long, slender piece of wood or metal used for support or propulsion.",
+      "style": "Definitional",
+      "translation": "杆是一根细长的木头或金属，用于支撑或推动。",
+      "translated_word": "杆",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a post, which stands fixed in the ground, a pole can be carried and used as a tool.",
+      "style": "Contrastive",
+      "translation": "与固定在地面的柱子不同，杆可以携带并用作工具。",
+      "translated_word": "杆",
+      "display_order": 4
+    },
+    {
+      "sentence": "The fisherman cast his line from the end of a bamboo pole.",
+      "style": "Collocational",
+      "translation": "渔夫从竹竿的一端抛出鱼线。",
+      "translated_word": "竿",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every argument has two poles; understanding both reveals the truth between them.",
+      "style": "Philosophical",
+      "translation": "每场争论都有两个极端；理解双方才能揭示其间的真理。",
+      "translated_word": "极端",
+      "display_order": 3
+    },
+    {
+      "sentence": "The lone pole stood against the twilight sky, a sentinel of the fading day.",
+      "style": "Poetic",
+      "translation": "那根孤独的杆子立于暮色天空之下，如同守望白昼消逝的哨兵。",
+      "translated_word": "杆子",
+      "display_order": null
+    },
+    {
+      "sentence": "Set your sights on the pole star and let nothing pull you off course.",
+      "style": "Inspirational",
+      "translation": "将目光锁定北极星，不让任何事物使你偏离方向。",
+      "translated_word": "极",
+      "display_order": 2
+    }
+  ]
+}

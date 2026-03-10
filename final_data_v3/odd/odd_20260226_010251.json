@@ -1,0 +1,61 @@
+{
+  "word": "odd",
+  "phonetic": "/ɒd/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "奇怪的；奇数的；零散的",
+  "examples": [
+    {
+      "sentence": "The committee noted several odd discrepancies in the financial report.",
+      "style": "Formal",
+      "translation": "委员会注意到财务报告中有几处奇怪的出入。",
+      "translated_word": "奇怪",
+      "display_order": 3
+    },
+    {
+      "sentence": "Something odd means it is strange or unexpected.",
+      "style": "Definitional",
+      "translation": "odd指的是奇怪或出乎意料的事物。",
+      "translated_word": "奇怪",
+      "display_order": null
+    },
+    {
+      "sentence": "While unusual events are simply uncommon, odd events feel inexplicably strange.",
+      "style": "Contrastive",
+      "translation": "不寻常的事件只是不常见，而古怪的事件则让人感到莫名其妙。",
+      "translated_word": "古怪",
+      "display_order": null
+    },
+    {
+      "sentence": "There was an odd silence in the room after the announcement.",
+      "style": "Collocational",
+      "translation": "宣布之后，房间里出现了一阵怪异的沉默。",
+      "translated_word": "怪异",
+      "display_order": 1
+    },
+    {
+      "sentence": "The odd moments in life often reveal truths that ordinary ones conceal.",
+      "style": "Philosophical",
+      "translation": "生活中那些奇特的时刻，往往能揭示平凡时刻所隐藏的真相。",
+      "translated_word": "奇特",
+      "display_order": null
+    },
+    {
+      "sentence": "An odd bird perched on the windowsill, its feathers shimmering like forgotten dreams.",
+      "style": "Poetic",
+      "translation": "一只奇异的鸟栖息在窗台上，羽毛闪烁如被遗忘的梦。",
+      "translated_word": "奇异",
+      "display_order": 4
+    },
+    {
+      "sentence": "Embrace the odd parts of yourself; they make you irreplaceable.",
+      "style": "Inspirational",
+      "translation": "接纳自己与众不同的地方，正是它们让你无可替代。",
+      "translated_word": "与众不同",
+      "display_order": 2
+    }
+  ]
+}

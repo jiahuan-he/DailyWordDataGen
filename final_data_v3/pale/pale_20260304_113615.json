@@ -1,0 +1,62 @@
+{
+  "word": "pale",
+  "phonetic": "/peɪl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "苍白的；淡的；暗淡的",
+  "examples": [
+    {
+      "sentence": "The patient appeared pale and was immediately admitted for observation.",
+      "style": "Formal",
+      "translation": "病人面色苍白，立即被收治观察。",
+      "translated_word": "苍白",
+      "display_order": null
+    },
+    {
+      "sentence": "Pale describes a color that is light or lacking intensity.",
+      "style": "Definitional",
+      "translation": "pale形容颜色浅淡或不鲜艳。",
+      "translated_word": "pale",
+      "display_order": null
+    },
+    {
+      "sentence": "Her dress was pale blue, not the vibrant shade she usually wore.",
+      "style": "Contrastive",
+      "translation": "她的裙子是淡蓝色的，不是她平时穿的那种鲜艳色调。",
+      "translated_word": "淡",
+      "display_order": 2
+    },
+    {
+      "sentence": "He turned pale at the sight of the accident.",
+      "style": "Collocational",
+      "translation": "他看到事故现场后脸色变得苍白。",
+      "translated_word": "苍白",
+      "display_order": 1
+    },
+    {
+      "sentence": "Even the brightest achievements grow pale against the passage of time.",
+      "style": "Philosophical",
+      "translation": "再辉煌的成就在时间面前也会黯然失色。",
+      "translated_word": "失色",
+      "display_order": 3
+    },
+    {
+      "sentence": "The pale moon hung low, casting silver whispers across the sleeping lake.",
+      "style": "Poetic",
+      "translation": "淡淡的月亮低悬，在沉睡的湖面上洒下银色的呢喃。",
+      "translated_word": "淡淡的",
+      "display_order": 4
+    },
+    {
+      "sentence": "Let your fears grow pale in the light of your courage.",
+      "style": "Inspirational",
+      "translation": "让恐惧在勇气的光芒中褪色。",
+      "translated_word": "褪色",
+      "display_order": null
+    }
+  ]
+}

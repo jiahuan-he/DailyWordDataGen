@@ -1,0 +1,62 @@
+{
+  "word": "journal",
+  "phonetic": "/ˈd͡ʒɜːnəl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "日记；期刊；日志",
+  "examples": [
+    {
+      "sentence": "The scientific journal published groundbreaking research on climate change.",
+      "style": "Formal",
+      "translation": "该科学期刊发表了关于气候变化的突破性研究。",
+      "translated_word": "期刊",
+      "display_order": 2
+    },
+    {
+      "sentence": "A journal is a written record of daily experiences, thoughts, or events.",
+      "style": "Definitional",
+      "translation": "日记是对日常经历、想法或事件的书面记录。",
+      "translated_word": "日记",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a diary, a journal often focuses on reflection rather than mere documentation.",
+      "style": "Contrastive",
+      "translation": "与日记不同，日志通常侧重于反思而非单纯的记录。",
+      "translated_word": "日志",
+      "display_order": 4
+    },
+    {
+      "sentence": "She keeps a travel journal to document her adventures abroad.",
+      "style": "Collocational",
+      "translation": "她写旅行日志来记录自己在国外的冒险经历。",
+      "translated_word": "日志",
+      "display_order": 1
+    },
+    {
+      "sentence": "A journal becomes a conversation with the self across time.",
+      "style": "Philosophical",
+      "translation": "日记成为跨越时间与自我的对话。",
+      "translated_word": "日记",
+      "display_order": 3
+    },
+    {
+      "sentence": "The worn journal held secrets like a locked garden holds its flowers.",
+      "style": "Poetic",
+      "translation": "那本破旧的日记本藏着秘密，如同一座锁着的花园守护着它的花朵。",
+      "translated_word": "日记本",
+      "display_order": null
+    },
+    {
+      "sentence": "Start a journal today; your future self will thank you for the memories preserved.",
+      "style": "Inspirational",
+      "translation": "今天就开始写日记吧，未来的你会感谢这些被保存下来的记忆。",
+      "translated_word": "日记",
+      "display_order": null
+    }
+  ]
+}

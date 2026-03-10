@@ -1,0 +1,63 @@
+{
+  "word": "low",
+  "phonetic": "/ləʊ/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "低的；矮的；少的；低落的",
+  "examples": [
+    {
+      "sentence": "The central bank announced it would keep interest rates low to stimulate economic growth.",
+      "style": "Formal",
+      "translation": "央行宣布将维持低利率以刺激经济增长。",
+      "translated_word": "低",
+      "display_order": null
+    },
+    {
+      "sentence": "Low describes something that is close to the ground or below the usual level.",
+      "style": "Definitional",
+      "translation": "Low用来形容接近地面或低于正常水平的事物。",
+      "translated_word": "低",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike the high shelf, the low one is accessible to children.",
+      "style": "Contrastive",
+      "translation": "与高架子不同，矮架子孩子们够得到。",
+      "translated_word": "矮",
+      "display_order": 2
+    },
+    {
+      "sentence": "The doctor recommended a low sodium diet for better heart health.",
+      "style": "Collocational",
+      "translation": "医生建议低钠饮食以保护心脏健康。",
+      "translated_word": "低",
+      "display_order": 3
+    },
+    {
+      "sentence": "Even the lowest valley eventually leads to higher ground.",
+      "style": "Philosophical",
+      "translation": "即使是最低的山谷，终将通往更高处。",
+      "translated_word": "最低",
+      "display_order": null
+    },
+    {
+      "sentence": "A low moon hung over the silent lake, painting silver ripples on the water.",
+      "style": "Poetic",
+      "translation": "一轮低悬的月亮挂在寂静的湖面上，在水中涂抹出银色的涟漪。",
+      "translated_word": "低悬",
+      "display_order": 1
+    },
+    {
+      "sentence": "Starting from a low point only means there is more room to rise.",
+      "style": "Inspirational",
+      "translation": "从低谷起步，意味着有更大的上升空间。",
+      "translated_word": "低谷",
+      "display_order": 4
+    }
+  ]
+}

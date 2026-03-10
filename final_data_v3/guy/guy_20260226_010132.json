@@ -1,0 +1,61 @@
+{
+  "word": "guy",
+  "phonetic": "/ɡaɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "家伙；人；男人",
+  "examples": [
+    {
+      "sentence": "The tech guy fixed the server issue within minutes of arriving.",
+      "style": "Formal",
+      "translation": "技术人员到达后几分钟内就修复了服务器问题。",
+      "translated_word": "人员",
+      "display_order": 2
+    },
+    {
+      "sentence": "A guy is an informal term for a man or person in general.",
+      "style": "Definitional",
+      "translation": "Guy是对男人或一般人的非正式称呼。",
+      "translated_word": "人",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike \"gentleman,\" the word guy carries a casual, everyday tone.",
+      "style": "Contrastive",
+      "translation": "与gentleman不同，guy这个词带有随意、日常的语气。",
+      "translated_word": "词",
+      "display_order": null
+    },
+    {
+      "sentence": "He seems like a nice guy to work with.",
+      "style": "Collocational",
+      "translation": "他看起来是个很好共事的人。",
+      "translated_word": "人",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every guy walking down the street carries a universe of untold stories.",
+      "style": "Philosophical",
+      "translation": "街上走过的每个人都承载着一个未曾诉说的故事宇宙。",
+      "translated_word": "人",
+      "display_order": 4
+    },
+    {
+      "sentence": "That guy stood beneath the lamplight, a shadow among shadows, waiting for dawn.",
+      "style": "Poetic",
+      "translation": "那人站在灯光下，影子中的一道影子，等待黎明。",
+      "translated_word": "人",
+      "display_order": null
+    },
+    {
+      "sentence": "Be the guy who lifts others up, not the one who tears them down.",
+      "style": "Inspirational",
+      "translation": "做那个鼓舞他人的人，而不是打击他人的人。",
+      "translated_word": "人",
+      "display_order": 3
+    }
+  ]
+}

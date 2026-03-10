@@ -1,0 +1,61 @@
+{
+  "word": "shift",
+  "phonetic": "/ʃɪft/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "转移；改变；换挡",
+  "examples": [
+    {
+      "sentence": "The company decided to shift its focus toward renewable energy.",
+      "style": "Formal",
+      "translation": "该公司决定将重心转向可再生能源。",
+      "translated_word": "转向",
+      "display_order": null
+    },
+    {
+      "sentence": "To shift means to move or change from one position or direction to another.",
+      "style": "Definitional",
+      "translation": "shift指从一个位置或方向移动或改变到另一个。",
+      "translated_word": "shift",
+      "display_order": null
+    },
+    {
+      "sentence": "Rather than shift the blame to others, she chose to take responsibility.",
+      "style": "Contrastive",
+      "translation": "她没有把责任推给别人，而是选择承担责任。",
+      "translated_word": "推",
+      "display_order": null
+    },
+    {
+      "sentence": "The driver had to shift gears quickly to navigate the steep hill.",
+      "style": "Collocational",
+      "translation": "司机必须迅速换挡才能爬上陡坡。",
+      "translated_word": "换",
+      "display_order": 1
+    },
+    {
+      "sentence": "Perspectives shift when one learns to see the world through another's eyes.",
+      "style": "Philosophical",
+      "translation": "当人学会用他人的眼光看世界时，视角就会改变。",
+      "translated_word": "改变",
+      "display_order": 2
+    },
+    {
+      "sentence": "The seasons shift like whispers, carrying winter into the arms of spring.",
+      "style": "Poetic",
+      "translation": "季节如低语般更迭，将冬日送入春天的怀抱。",
+      "translated_word": "更迭",
+      "display_order": 4
+    },
+    {
+      "sentence": "To grow, sometimes you must shift your mindset and embrace the unknown.",
+      "style": "Inspirational",
+      "translation": "想要成长，有时必须转变心态，拥抱未知。",
+      "translated_word": "转变",
+      "display_order": 3
+    }
+  ]
+}

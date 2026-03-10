@@ -1,0 +1,62 @@
+{
+  "word": "human",
+  "phonetic": "/ˈhjuː.mən/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "人；人类；凡人",
+  "examples": [
+    {
+      "sentence": "The organization works to protect human rights across the globe.",
+      "style": "Formal",
+      "translation": "该组织致力于保护全球人权。",
+      "translated_word": "人权",
+      "display_order": null
+    },
+    {
+      "sentence": "A human is a member of the species Homo sapiens, distinguished by advanced reasoning and language.",
+      "style": "Definitional",
+      "translation": "人类是智人物种的成员，以高级推理能力和语言能力著称。",
+      "translated_word": "人类",
+      "display_order": 2
+    },
+    {
+      "sentence": "Unlike machines, a human can feel empathy and make moral judgments.",
+      "style": "Contrastive",
+      "translation": "与机器不同，人能够感受同理心并做出道德判断。",
+      "translated_word": "人",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every human being deserves dignity and respect.",
+      "style": "Collocational",
+      "translation": "每个人都应享有尊严和尊重。",
+      "translated_word": "人",
+      "display_order": 4
+    },
+    {
+      "sentence": "To be human is to live with uncertainty and still find meaning.",
+      "style": "Philosophical",
+      "translation": "身为人，就是在不确定中生活，却依然能找到意义。",
+      "translated_word": "人",
+      "display_order": 3
+    },
+    {
+      "sentence": "Each human is a universe of stories, fragile as morning frost yet enduring as stone.",
+      "style": "Poetic",
+      "translation": "每个人都是一个故事的宇宙，脆弱如晨霜，却坚韧如磐石。",
+      "translated_word": "人",
+      "display_order": null
+    },
+    {
+      "sentence": "Remember: every human has the power to change the world, starting with a single act of kindness.",
+      "style": "Inspirational",
+      "translation": "请记住：每个人都有改变世界的力量，从一个善举开始。",
+      "translated_word": "人",
+      "display_order": null
+    }
+  ]
+}

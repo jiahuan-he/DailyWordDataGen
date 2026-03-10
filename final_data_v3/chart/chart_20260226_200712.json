@@ -1,0 +1,61 @@
+{
+  "word": "chart",
+  "phonetic": "/tʃɑːt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "图表；排行榜；海图",
+  "examples": [
+    {
+      "sentence": "The latest chart shows a significant increase in quarterly revenue.",
+      "style": "Formal",
+      "translation": "最新图表显示季度收入大幅增长。",
+      "translated_word": "图表",
+      "display_order": null
+    },
+    {
+      "sentence": "A chart is a visual representation of data, making complex information easier to understand.",
+      "style": "Definitional",
+      "translation": "图表是数据的可视化呈现，使复杂信息更易于理解。",
+      "translated_word": "图表",
+      "display_order": 4
+    },
+    {
+      "sentence": "Unlike a table that lists raw numbers, a chart reveals patterns at a glance.",
+      "style": "Contrastive",
+      "translation": "与罗列原始数字的表格不同，图表能让人一眼看出规律。",
+      "translated_word": "图表",
+      "display_order": 2
+    },
+    {
+      "sentence": "The song topped the chart for three consecutive weeks.",
+      "style": "Collocational",
+      "translation": "这首歌连续三周登顶排行榜。",
+      "translated_word": "排行榜",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every chart tells a story; the question is whether one reads it honestly.",
+      "style": "Philosophical",
+      "translation": "每张图表都在讲述一个故事，问题在于是否能诚实地解读它。",
+      "translated_word": "图表",
+      "display_order": null
+    },
+    {
+      "sentence": "The chart rises and falls like ocean waves, tracing the rhythm of a restless market.",
+      "style": "Poetic",
+      "translation": "图表如海浪般起伏，描绘着躁动市场的节奏。",
+      "translated_word": "图表",
+      "display_order": 3
+    },
+    {
+      "sentence": "Study the chart, find the trend, and let data guide your next bold move.",
+      "style": "Inspirational",
+      "translation": "研读图表，发现趋势，让数据指引你迈出下一个大胆的步伐。",
+      "translated_word": "图表",
+      "display_order": null
+    }
+  ]
+}

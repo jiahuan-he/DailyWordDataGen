@@ -1,0 +1,64 @@
+{
+  "word": "fast",
+  "phonetic": "/fɑːst/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "快的；迅速的；牢固的",
+  "examples": [
+    {
+      "sentence": "The company announced a fast expansion plan across three continents.",
+      "style": "Formal",
+      "translation": "该公司宣布了一项横跨三大洲的快速扩张计划。",
+      "translated_word": "快速",
+      "display_order": null
+    },
+    {
+      "sentence": "A fast runner is someone who can cover great distances in little time.",
+      "style": "Definitional",
+      "translation": "跑得快的人是指能在短时间内跑完很长距离的人。",
+      "translated_word": "快",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike the slow, methodical approach, a fast decision sometimes yields better results.",
+      "style": "Contrastive",
+      "translation": "与缓慢而有条理的方式不同，快速决策有时能带来更好的结果。",
+      "translated_word": "快速",
+      "display_order": 2
+    },
+    {
+      "sentence": "She made a fast buck selling vintage clothes online.",
+      "style": "Collocational",
+      "translation": "她在网上卖复古服装赚了一笔快钱。",
+      "translated_word": "快",
+      "display_order": 3
+    },
+    {
+      "sentence": "In a fast world, stillness becomes a radical act of defiance.",
+      "style": "Philosophical",
+      "translation": "在这个快节奏的世界里，静止成为一种激进的反抗。",
+      "translated_word": "快节奏",
+      "display_order": null
+    },
+    {
+      "sentence": "The fast river carved its story into ancient stone.",
+      "style": "Poetic",
+      "translation": "湍急的河流将它的故事刻入古老的岩石。",
+      "translated_word": "湍急",
+      "display_order": 1
+    },
+    {
+      "sentence": "A fast start matters less than a strong finish.",
+      "style": "Inspirational",
+      "translation": "起步快不如收尾强。",
+      "translated_word": "快",
+      "display_order": 4
+    }
+  ]
+}

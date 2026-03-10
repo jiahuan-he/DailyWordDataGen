@@ -1,0 +1,61 @@
+{
+  "word": "circumference",
+  "phonetic": "/sɜːˈkʌm.fɹəns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "周长；圆周；周边",
+  "examples": [
+    {
+      "sentence": "The circumference of the ancient tree measured over thirty feet, making it a protected natural landmark.",
+      "style": "Formal",
+      "translation": "这棵古树的周长超过三十英尺，因此被列为受保护的自然地标。",
+      "translated_word": "周长",
+      "display_order": 4
+    },
+    {
+      "sentence": "The circumference is the distance around the outer edge of a circle.",
+      "style": "Definitional",
+      "translation": "周长是指圆形外缘一圈的距离。",
+      "translated_word": "周长",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike the diameter, which cuts through the center, the circumference traces the entire outer boundary.",
+      "style": "Contrastive",
+      "translation": "直径穿过圆心，而周长则沿着整个外边界延伸。",
+      "translated_word": "周长",
+      "display_order": 1
+    },
+    {
+      "sentence": "To calculate the circumference of a circle, multiply the diameter by pi.",
+      "style": "Collocational",
+      "translation": "计算圆的周长，需要用直径乘以圆周率。",
+      "translated_word": "周长",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every journey along the circumference eventually returns to its starting point.",
+      "style": "Philosophical",
+      "translation": "沿着圆周行走，终将回到起点。",
+      "translated_word": "圆周",
+      "display_order": 2
+    },
+    {
+      "sentence": "The moon traced its silver circumference across the still lake, a perfect ring of light.",
+      "style": "Poetic",
+      "translation": "月亮在静谧的湖面上映出银色的圆弧，宛如一圈完美的光环。",
+      "translated_word": "圆弧",
+      "display_order": null
+    },
+    {
+      "sentence": "Expand the circumference of your comfort zone, and you expand the possibilities of your life.",
+      "style": "Inspirational",
+      "translation": "拓宽舒适圈的边界，就是拓宽人生的可能性。",
+      "translated_word": "边界",
+      "display_order": null
+    }
+  ]
+}

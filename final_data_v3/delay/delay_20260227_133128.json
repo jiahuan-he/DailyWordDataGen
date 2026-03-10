@@ -1,0 +1,61 @@
+{
+  "word": "delay",
+  "phonetic": "/dɪˈleɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "推迟；延误；耽搁",
+  "examples": [
+    {
+      "sentence": "The company announced it would delay the product launch until next quarter.",
+      "style": "Formal",
+      "translation": "公司宣布将产品发布推迟到下季度。",
+      "translated_word": "推迟",
+      "display_order": 2
+    },
+    {
+      "sentence": "To delay means to postpone something to a later time.",
+      "style": "Definitional",
+      "translation": "Delay的意思是将某事推迟到以后的时间。",
+      "translated_word": "推迟",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike canceling the meeting entirely, delaying it allows time to prepare better.",
+      "style": "Contrastive",
+      "translation": "与完全取消会议不同，推迟会议可以留出更多准备时间。",
+      "translated_word": "推迟",
+      "display_order": null
+    },
+    {
+      "sentence": "The storm delayed the flight by three hours.",
+      "style": "Collocational",
+      "translation": "暴风雨使航班延误了三个小时。",
+      "translated_word": "延误",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every time one delays a difficult decision, the weight of it grows heavier.",
+      "style": "Philosophical",
+      "translation": "每一次拖延艰难的决定，它的分量就会变得更重。",
+      "translated_word": "拖延",
+      "display_order": 3
+    },
+    {
+      "sentence": "The river delayed its journey to the sea, lingering in quiet pools along the way.",
+      "style": "Poetic",
+      "translation": "河流放慢了奔向大海的脚步，在沿途的静谧水潭中流连。",
+      "translated_word": "放慢",
+      "display_order": null
+    },
+    {
+      "sentence": "Do not delay your dreams; start taking small steps today.",
+      "style": "Inspirational",
+      "translation": "不要拖延你的梦想，从今天开始迈出小小的一步。",
+      "translated_word": "拖延",
+      "display_order": 4
+    }
+  ]
+}

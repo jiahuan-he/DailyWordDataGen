@@ -1,0 +1,61 @@
+{
+  "word": "march",
+  "phonetic": "/mɑːtʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "行军；游行；前进",
+  "examples": [
+    {
+      "sentence": "Thousands of protesters marched through the capital demanding political reform.",
+      "style": "Formal",
+      "translation": "数千名抗议者穿过首都游行，要求政治改革。",
+      "translated_word": "游行",
+      "display_order": 2
+    },
+    {
+      "sentence": "To march means to walk with regular, steady steps, often in a group.",
+      "style": "Definitional",
+      "translation": "march指的是有规律、稳定地行走，通常是成群结队。",
+      "translated_word": "行走",
+      "display_order": null
+    },
+    {
+      "sentence": "Soldiers march in formation, while civilians simply walk together.",
+      "style": "Contrastive",
+      "translation": "士兵列队行军，而平民只是一起走路。",
+      "translated_word": "行军",
+      "display_order": 1
+    },
+    {
+      "sentence": "The troops marched forward under the scorching sun.",
+      "style": "Collocational",
+      "translation": "部队在烈日下向前行进。",
+      "translated_word": "行进",
+      "display_order": null
+    },
+    {
+      "sentence": "Time marches on, indifferent to human desires or regrets.",
+      "style": "Philosophical",
+      "translation": "时间不断前行，对人类的渴望与遗憾无动于衷。",
+      "translated_word": "前行",
+      "display_order": 3
+    },
+    {
+      "sentence": "The seasons march like silent sentinels through the turning year.",
+      "style": "Poetic",
+      "translation": "四季如沉默的哨兵，穿行于流转的岁月。",
+      "translated_word": "穿行",
+      "display_order": null
+    },
+    {
+      "sentence": "March boldly toward your dreams; hesitation only delays the journey.",
+      "style": "Inspirational",
+      "translation": "勇敢地向梦想前进吧；犹豫只会延误旅程。",
+      "translated_word": "前进",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "shower",
+  "phonetic": "/ˈʃaʊ.ə(ɹ)/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "淋浴；阵雨；一阵",
+  "examples": [
+    {
+      "sentence": "The hotel renovations include replacing all showers with water-saving models.",
+      "style": "Formal",
+      "translation": "酒店翻新工程包括将所有淋浴设备更换为节水型号。",
+      "translated_word": "淋浴",
+      "display_order": null
+    },
+    {
+      "sentence": "A shower is a quick way to rinse off using a spray of water.",
+      "style": "Definitional",
+      "translation": "淋浴是一种利用喷洒水流快速冲洗身体的方式。",
+      "translated_word": "淋浴",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a bath, a shower uses less water and takes less time.",
+      "style": "Contrastive",
+      "translation": "与泡澡不同，淋浴用水更少，耗时也更短。",
+      "translated_word": "淋浴",
+      "display_order": 3
+    },
+    {
+      "sentence": "After the gym, a hot shower and a cold drink make the perfect recovery.",
+      "style": "Collocational",
+      "translation": "健身后，一场热水淋浴加一杯冷饮是最佳的恢复方式。",
+      "translated_word": "淋浴",
+      "display_order": 1
+    },
+    {
+      "sentence": "A shower washes away more than dirt; it cleanses the weight of a long day.",
+      "style": "Philosophical",
+      "translation": "淋浴洗去的不只是污垢，还有一整天的疲惫。",
+      "translated_word": "淋浴",
+      "display_order": 4
+    },
+    {
+      "sentence": "The morning shower fell like silver threads, painting the garden in soft light.",
+      "style": "Poetic",
+      "translation": "晨间细雨如银丝般落下，为花园披上柔和的光。",
+      "translated_word": "细雨",
+      "display_order": 2
+    },
+    {
+      "sentence": "A brief shower cannot stop the sun from shining again.",
+      "style": "Inspirational",
+      "translation": "一场短暂的阵雨无法阻挡阳光再次照耀。",
+      "translated_word": "阵雨",
+      "display_order": null
+    }
+  ]
+}

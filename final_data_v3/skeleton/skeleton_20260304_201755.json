@@ -1,0 +1,61 @@
+{
+  "word": "skeleton",
+  "phonetic": "/ˈskɛlətən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "骨骼；骨架；框架；梗概",
+  "examples": [
+    {
+      "sentence": "The archaeological team unearthed a nearly complete skeleton dating back three thousand years.",
+      "style": "Formal",
+      "translation": "考古团队出土了一具距今三千年、几乎完整的骨骼。",
+      "translated_word": "骨骼",
+      "display_order": 1
+    },
+    {
+      "sentence": "A skeleton is the rigid framework of bones that supports and protects the body.",
+      "style": "Definitional",
+      "translation": "骨骼是支撑和保护身体的坚硬骨架结构。",
+      "translated_word": "骨骼",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a full draft, a skeleton only outlines the main points without details.",
+      "style": "Contrastive",
+      "translation": "与完整草稿不同，框架只列出要点，不涉及细节。",
+      "translated_word": "框架",
+      "display_order": null
+    },
+    {
+      "sentence": "The office ran on a skeleton crew during the holidays.",
+      "style": "Collocational",
+      "translation": "假期期间，办公室只留了最少的人手值班。",
+      "translated_word": "最少的人手",
+      "display_order": 2
+    },
+    {
+      "sentence": "Strip away titles and possessions, and what remains is the skeleton of character.",
+      "style": "Philosophical",
+      "translation": "剥去头衔与财物，剩下的便是品格的本质。",
+      "translated_word": "本质",
+      "display_order": null
+    },
+    {
+      "sentence": "Bare trees stretched their skeleton fingers toward the winter moon.",
+      "style": "Poetic",
+      "translation": "光秃的树木伸出枯瘦的枝桠，探向冬夜的月亮。",
+      "translated_word": "枯瘦的枝桠",
+      "display_order": 4
+    },
+    {
+      "sentence": "Start with the skeleton of a plan; the details will come as momentum builds.",
+      "style": "Inspirational",
+      "translation": "先搭起计划的框架，细节会随着推进自然浮现。",
+      "translated_word": "框架",
+      "display_order": 3
+    }
+  ]
+}

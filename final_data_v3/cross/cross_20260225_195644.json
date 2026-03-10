@@ -1,0 +1,63 @@
+{
+  "word": "cross",
+  "phonetic": "/kɹɑs/",
+  "pos": [
+    "adjective",
+    "noun",
+    "preposition",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "穿过；交叉；横越",
+  "examples": [
+    {
+      "sentence": "The refugee family crossed the border under cover of darkness.",
+      "style": "Formal",
+      "translation": "那个难民家庭趁着夜色穿越了边境。",
+      "translated_word": "穿越",
+      "display_order": 2
+    },
+    {
+      "sentence": "To cross means to move from one side to the other.",
+      "style": "Definitional",
+      "translation": "Cross的意思是从一边移动到另一边。",
+      "translated_word": "Cross",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike passing by, crossing requires going through or over something.",
+      "style": "Contrastive",
+      "translation": "与经过不同，cross需要穿过或越过某物。",
+      "translated_word": "cross",
+      "display_order": null
+    },
+    {
+      "sentence": "Look both ways before crossing the street.",
+      "style": "Collocational",
+      "translation": "过马路前要左右看看。",
+      "translated_word": "过",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every bridge crossed burns behind those who refuse to look back.",
+      "style": "Philosophical",
+      "translation": "对于不回头的人，每座走过的桥都在身后燃尽。",
+      "translated_word": "走过",
+      "display_order": null
+    },
+    {
+      "sentence": "The swallow crossed the crimson sky, a brushstroke on the evening canvas.",
+      "style": "Poetic",
+      "translation": "燕子划过绯红的天空，在黄昏的画布上留下一笔。",
+      "translated_word": "划过",
+      "display_order": 4
+    },
+    {
+      "sentence": "Cross the threshold of fear, and confidence awaits on the other side.",
+      "style": "Inspirational",
+      "translation": "跨过恐惧的门槛，自信就在另一边等着你。",
+      "translated_word": "跨过",
+      "display_order": 3
+    }
+  ]
+}

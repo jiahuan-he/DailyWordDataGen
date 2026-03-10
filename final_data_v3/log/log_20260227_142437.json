@@ -1,0 +1,61 @@
+{
+  "word": "log",
+  "phonetic": "/lɑɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "记录；登录；伐木",
+  "examples": [
+    {
+      "sentence": "The security team logged every visitor entering the building.",
+      "style": "Formal",
+      "translation": "安保团队记录了每一位进入大楼的访客。",
+      "translated_word": "记录",
+      "display_order": 1
+    },
+    {
+      "sentence": "To log means to record information systematically for future reference.",
+      "style": "Definitional",
+      "translation": "Log的意思是系统地记录信息以供日后参考。",
+      "translated_word": "记录",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike scribbling notes, logging data ensures consistency and accuracy.",
+      "style": "Contrastive",
+      "translation": "与随手涂写不同，记录数据能确保一致性和准确性。",
+      "translated_word": "记录",
+      "display_order": null
+    },
+    {
+      "sentence": "The researcher logged the results into the database.",
+      "style": "Collocational",
+      "translation": "研究员将结果录入了数据库。",
+      "translated_word": "录入",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every moment logged becomes a fragment of history preserved against forgetting.",
+      "style": "Philosophical",
+      "translation": "每一个被记录的瞬间，都成为对抗遗忘的历史碎片。",
+      "translated_word": "记录",
+      "display_order": 4
+    },
+    {
+      "sentence": "The stars logged their ancient paths across the velvet sky.",
+      "style": "Poetic",
+      "translation": "群星在天鹅绒般的夜空中刻下亘古的轨迹。",
+      "translated_word": "刻下",
+      "display_order": null
+    },
+    {
+      "sentence": "Log your progress daily; small records reveal great growth.",
+      "style": "Inspirational",
+      "translation": "每天记录你的进步，细微的记载终将见证巨大的成长。",
+      "translated_word": "记录",
+      "display_order": 2
+    }
+  ]
+}

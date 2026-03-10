@@ -1,0 +1,61 @@
+{
+  "word": "preference",
+  "phonetic": "/ˈpɹɛf(ə)ɹ(ə)ns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "偏好；喜好；优先选择",
+  "examples": [
+    {
+      "sentence": "The survey revealed a strong consumer preference for sustainable products.",
+      "style": "Formal",
+      "translation": "调查显示消费者对可持续产品有强烈的偏好。",
+      "translated_word": "偏好",
+      "display_order": null
+    },
+    {
+      "sentence": "A preference is a greater liking for one option over another.",
+      "style": "Definitional",
+      "translation": "偏好是指相较于其他选项更喜欢某一选项。",
+      "translated_word": "偏好",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a requirement, a preference can be flexible depending on circumstances.",
+      "style": "Contrastive",
+      "translation": "与硬性要求不同，偏好可以根据情况灵活调整。",
+      "translated_word": "偏好",
+      "display_order": 2
+    },
+    {
+      "sentence": "The restaurant gives preference to guests with reservations.",
+      "style": "Collocational",
+      "translation": "这家餐厅优先接待有预约的客人。",
+      "translated_word": "优先",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every preference reveals something about what the heart truly values.",
+      "style": "Philosophical",
+      "translation": "每一种偏好都揭示了内心真正珍视的东西。",
+      "translated_word": "偏好",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her preference for silence was a garden where thoughts could bloom undisturbed.",
+      "style": "Poetic",
+      "translation": "她对宁静的偏爱，是一座让思绪自由绽放的花园。",
+      "translated_word": "偏爱",
+      "display_order": null
+    },
+    {
+      "sentence": "Honor your preferences; they are the compass pointing toward your authentic self.",
+      "style": "Inspirational",
+      "translation": "尊重你的偏好，它们是指向真实自我的罗盘。",
+      "translated_word": "偏好",
+      "display_order": 4
+    }
+  ]
+}

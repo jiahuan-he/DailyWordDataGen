@@ -1,0 +1,61 @@
+{
+  "word": "depressed",
+  "phonetic": "/dɪˈpɹɛst/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "沮丧的；消沉的；萧条的",
+  "examples": [
+    {
+      "sentence": "The economy remains depressed despite recent government interventions.",
+      "style": "Formal",
+      "translation": "尽管政府近期采取了干预措施，经济仍然低迷。",
+      "translated_word": "低迷",
+      "display_order": 3
+    },
+    {
+      "sentence": "Someone who is depressed feels persistently sad and loses interest in daily activities.",
+      "style": "Definitional",
+      "translation": "抑郁的人会持续感到悲伤，并对日常活动失去兴趣。",
+      "translated_word": "抑郁的",
+      "display_order": null
+    },
+    {
+      "sentence": "Feeling depressed is different from feeling sad: it lingers longer and cuts deeper.",
+      "style": "Contrastive",
+      "translation": "抑郁和悲伤不同：它持续更久，伤害更深。",
+      "translated_word": "抑郁",
+      "display_order": 2
+    },
+    {
+      "sentence": "After the loss, she became deeply depressed and withdrew from friends.",
+      "style": "Collocational",
+      "translation": "经历那次失去之后，她陷入深深的抑郁，不再与朋友来往。",
+      "translated_word": "抑郁",
+      "display_order": 1
+    },
+    {
+      "sentence": "A depressed mind often sees only the shadows, forgetting that light still exists.",
+      "style": "Philosophical",
+      "translation": "抑郁的心灵往往只看到阴影，忘记了光明依然存在。",
+      "translated_word": "抑郁的",
+      "display_order": null
+    },
+    {
+      "sentence": "The depressed garden lay silent, its flowers bowed under the weight of autumn rain.",
+      "style": "Poetic",
+      "translation": "那片萧瑟的花园静默无声，花朵在秋雨的重压下低垂着头。",
+      "translated_word": "萧瑟的",
+      "display_order": null
+    },
+    {
+      "sentence": "Even when feeling depressed, remember: storms pass, and the sun will rise again.",
+      "style": "Inspirational",
+      "translation": "即使感到沮丧，也请记住：风暴终会过去，太阳终将再次升起。",
+      "translated_word": "沮丧",
+      "display_order": 4
+    }
+  ]
+}

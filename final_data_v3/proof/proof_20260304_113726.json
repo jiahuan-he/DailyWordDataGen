@@ -1,0 +1,62 @@
+{
+  "word": "proof",
+  "phonetic": "/pɹʉːf/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "证据；证明；校样",
+  "examples": [
+    {
+      "sentence": "The investigation yielded conclusive proof of the company's financial misconduct.",
+      "style": "Formal",
+      "translation": "调查获得了该公司财务不当行为的确凿证据。",
+      "translated_word": "证据",
+      "display_order": null
+    },
+    {
+      "sentence": "Proof is evidence that establishes the truth or validity of something.",
+      "style": "Definitional",
+      "translation": "证据是用来确立某事真实性或有效性的依据。",
+      "translated_word": "证据",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike mere speculation, proof requires verifiable facts and solid evidence.",
+      "style": "Contrastive",
+      "translation": "与单纯的推测不同，证明需要可核实的事实和确凿的证据。",
+      "translated_word": "证明",
+      "display_order": 4
+    },
+    {
+      "sentence": "The scientist presented living proof that the theory was correct.",
+      "style": "Collocational",
+      "translation": "科学家提供了活生生的证据，证明该理论是正确的。",
+      "translated_word": "证据",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sometimes the heart knows truths for which the mind has no proof.",
+      "style": "Philosophical",
+      "translation": "有时候，心灵知晓的真理，是头脑无法证明的。",
+      "translated_word": "证明",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every scar on the old tree stood as silent proof of storms survived.",
+      "style": "Poetic",
+      "translation": "老树上的每道伤疤，都是它经历风暴的无声见证。",
+      "translated_word": "见证",
+      "display_order": null
+    },
+    {
+      "sentence": "Let your actions be the proof of your commitment, not your words.",
+      "style": "Inspirational",
+      "translation": "让行动成为你承诺的证明，而非言语。",
+      "translated_word": "证明",
+      "display_order": 2
+    }
+  ]
+}

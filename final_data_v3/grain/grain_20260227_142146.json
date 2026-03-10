@@ -1,0 +1,61 @@
+{
+  "word": "grain",
+  "phonetic": "/ɡɹeɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "谷物；颗粒；纹理",
+  "examples": [
+    {
+      "sentence": "Global grain prices have surged due to supply chain disruptions.",
+      "style": "Formal",
+      "translation": "由于供应链中断，全球谷物价格大幅上涨。",
+      "translated_word": "谷物",
+      "display_order": null
+    },
+    {
+      "sentence": "A grain is a small, hard seed harvested from cereal crops like wheat or rice.",
+      "style": "Definitional",
+      "translation": "谷粒是从小麦或水稻等谷类作物中收获的小而硬的种子。",
+      "translated_word": "谷粒",
+      "display_order": 1
+    },
+    {
+      "sentence": "Unlike refined flour, whole grain retains the bran and nutrients.",
+      "style": "Contrastive",
+      "translation": "与精制面粉不同，全谷物保留了麸皮和营养成分。",
+      "translated_word": "谷物",
+      "display_order": null
+    },
+    {
+      "sentence": "There was not a grain of truth in his statement.",
+      "style": "Collocational",
+      "translation": "他的陈述没有一丝真实性。",
+      "translated_word": "一丝",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every grain of sand was once a mountain; nothing is permanent.",
+      "style": "Philosophical",
+      "translation": "每一粒沙子曾经都是一座山；万物皆无常。",
+      "translated_word": "粒",
+      "display_order": 4
+    },
+    {
+      "sentence": "Golden grain swayed in the wind like waves across an endless sea.",
+      "style": "Poetic",
+      "translation": "金色的谷穗在风中摇曳，如同无垠大海上的波浪。",
+      "translated_word": "谷穗",
+      "display_order": 2
+    },
+    {
+      "sentence": "Great achievements begin with a single grain of effort planted today.",
+      "style": "Inspirational",
+      "translation": "伟大的成就始于今天播下的一粒努力的种子。",
+      "translated_word": "粒",
+      "display_order": null
+    }
+  ]
+}

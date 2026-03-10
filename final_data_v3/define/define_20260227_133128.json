@@ -1,0 +1,61 @@
+{
+  "word": "define",
+  "phonetic": "/dɪˈfaɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "定义；界定；阐明",
+  "examples": [
+    {
+      "sentence": "The committee will define the scope of the investigation next week.",
+      "style": "Formal",
+      "translation": "委员会将于下周界定调查范围。",
+      "translated_word": "界定",
+      "display_order": null
+    },
+    {
+      "sentence": "To define a word means to explain its meaning clearly.",
+      "style": "Definitional",
+      "translation": "给一个词下定义，就是清楚地解释它的含义。",
+      "translated_word": "下定义",
+      "display_order": 3
+    },
+    {
+      "sentence": "Success should be defined by fulfillment, not by wealth.",
+      "style": "Contrastive",
+      "translation": "成功应该由内心的满足来定义，而非财富。",
+      "translated_word": "定义",
+      "display_order": 2
+    },
+    {
+      "sentence": "It is important to clearly define goals before starting a project.",
+      "style": "Collocational",
+      "translation": "在开始一个项目之前，明确定义目标非常重要。",
+      "translated_word": "定义",
+      "display_order": 1
+    },
+    {
+      "sentence": "Those who define themselves too rigidly may struggle to grow.",
+      "style": "Philosophical",
+      "translation": "那些把自己定义得太死板的人，可能难以成长。",
+      "translated_word": "定义",
+      "display_order": null
+    },
+    {
+      "sentence": "Stars define the edges of the night, tracing paths for wandering souls.",
+      "style": "Poetic",
+      "translation": "星辰勾勒出夜的边界，为漂泊的灵魂指引方向。",
+      "translated_word": "勾勒",
+      "display_order": null
+    },
+    {
+      "sentence": "Never let fear define what you can achieve.",
+      "style": "Inspirational",
+      "translation": "永远不要让恐惧来定义你能取得的成就。",
+      "translated_word": "定义",
+      "display_order": 4
+    }
+  ]
+}

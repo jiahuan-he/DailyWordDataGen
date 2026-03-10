@@ -1,0 +1,62 @@
+{
+  "word": "safe",
+  "phonetic": "/seɪf/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "安全的；无危险的；稳妥的",
+  "examples": [
+    {
+      "sentence": "The investigation confirmed that the building is safe for occupancy following the structural repairs.",
+      "style": "Formal",
+      "translation": "调查确认，经过结构修缮后，该建筑可安全入住。",
+      "translated_word": "安全",
+      "display_order": null
+    },
+    {
+      "sentence": "A safe environment is one free from threats, hazards, or potential harm.",
+      "style": "Definitional",
+      "translation": "安全的环境是指没有威胁、危害或潜在伤害的环境。",
+      "translated_word": "安全",
+      "display_order": null
+    },
+    {
+      "sentence": "While the shortcut seems faster, the main road is far safer at night.",
+      "style": "Contrastive",
+      "translation": "虽然抄近路看起来更快，但夜间走大路要安全得多。",
+      "translated_word": "安全",
+      "display_order": 2
+    },
+    {
+      "sentence": "Keep the documents in a safe place where they won't get damaged.",
+      "style": "Collocational",
+      "translation": "把文件放在安全的地方，以免损坏。",
+      "translated_word": "安全",
+      "display_order": 1
+    },
+    {
+      "sentence": "Playing it safe protects from loss, but it also shields from growth.",
+      "style": "Philosophical",
+      "translation": "求稳固然能避免损失，却也阻挡了成长。",
+      "translated_word": "稳",
+      "display_order": 3
+    },
+    {
+      "sentence": "The harbor lay safe and still, cradled by the sleeping hills.",
+      "style": "Poetic",
+      "translation": "港湾静谧安宁，依偎在沉睡的山峦怀中。",
+      "translated_word": "安宁",
+      "display_order": 4
+    },
+    {
+      "sentence": "Step outside the safe zone; that is where transformation begins.",
+      "style": "Inspirational",
+      "translation": "走出舒适区，蜕变从那里开始。",
+      "translated_word": "舒适",
+      "display_order": null
+    }
+  ]
+}

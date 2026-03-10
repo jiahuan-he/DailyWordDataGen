@@ -1,0 +1,58 @@
+{
+  "word": "dose",
+  "phonetic": null,
+  "pos": [],
+  "selected_pos": "noun",
+  "definition": "剂量；一剂；一份",
+  "examples": [
+    {
+      "sentence": "The physician recommended a lower dose of the medication to minimize side effects.",
+      "style": "Formal",
+      "translation": "医生建议降低药物剂量以减少副作用。",
+      "translated_word": "剂量",
+      "display_order": 2
+    },
+    {
+      "sentence": "A dose is a measured quantity of medicine taken at one time.",
+      "style": "Definitional",
+      "translation": "剂量是指一次服用的定量药物。",
+      "translated_word": "剂量",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a single dose, a course of treatment requires multiple doses over several days.",
+      "style": "Contrastive",
+      "translation": "与单次剂量不同，一个疗程需要在数天内服用多次剂量。",
+      "translated_word": "剂量",
+      "display_order": null
+    },
+    {
+      "sentence": "The doctor prescribed a daily dose of vitamins to boost the patient's immune system.",
+      "style": "Collocational",
+      "translation": "医生开了每日一剂维生素来增强患者的免疫力。",
+      "translated_word": "一剂",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every experience carries a dose of wisdom for those willing to learn.",
+      "style": "Philosophical",
+      "translation": "每一段经历都蕴含着一份智慧，等待愿意学习的人去领悟。",
+      "translated_word": "一份",
+      "display_order": 4
+    },
+    {
+      "sentence": "The morning sun delivered its golden dose of warmth to the waking earth.",
+      "style": "Poetic",
+      "translation": "晨曦将它金色的暖意洒向苏醒的大地。",
+      "translated_word": "暖意",
+      "display_order": null
+    },
+    {
+      "sentence": "A small dose of courage each day can lead to extraordinary transformation.",
+      "style": "Inspirational",
+      "translation": "每天一点勇气，终将带来非凡的蜕变。",
+      "translated_word": "一点",
+      "display_order": 3
+    }
+  ]
+}

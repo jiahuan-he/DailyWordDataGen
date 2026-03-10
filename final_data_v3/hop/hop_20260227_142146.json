@@ -1,0 +1,61 @@
+{
+  "word": "hop",
+  "phonetic": "/hɒp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "跳跃；单脚跳；快速移动",
+  "examples": [
+    {
+      "sentence": "The airline announced plans to hop between regional cities, expanding service to underserved markets.",
+      "style": "Formal",
+      "translation": "该航空公司宣布计划在区域城市间穿梭飞行，扩展对服务不足市场的覆盖。",
+      "translated_word": "穿梭飞行",
+      "display_order": null
+    },
+    {
+      "sentence": "To hop means to jump lightly, often on one foot or with both feet together.",
+      "style": "Definitional",
+      "translation": "Hop指轻轻跳跃，通常是单脚跳或双脚并拢跳。",
+      "translated_word": "跳跃",
+      "display_order": null
+    },
+    {
+      "sentence": "Rabbits hop across the field, while frogs leap into the pond.",
+      "style": "Contrastive",
+      "translation": "兔子在田野间蹦跳，而青蛙则跃入池塘。",
+      "translated_word": "蹦跳",
+      "display_order": 2
+    },
+    {
+      "sentence": "The children love to hop on one foot and play hopscotch in the schoolyard.",
+      "style": "Collocational",
+      "translation": "孩子们喜欢单脚跳，在校园里玩跳房子游戏。",
+      "translated_word": "单脚跳",
+      "display_order": 1
+    },
+    {
+      "sentence": "Life asks us to hop from stone to stone; standing still means sinking.",
+      "style": "Philosophical",
+      "translation": "生活要求人们在石头间跳跃前行；原地不动便意味着沉沦。",
+      "translated_word": "跳跃",
+      "display_order": null
+    },
+    {
+      "sentence": "Sparrows hop along the fence like scattered notes on a staff of wood.",
+      "style": "Poetic",
+      "translation": "麻雀沿着篱笆跳跃，宛如木制五线谱上散落的音符。",
+      "translated_word": "跳跃",
+      "display_order": 3
+    },
+    {
+      "sentence": "When obstacles appear, hop over them and keep moving toward the goal.",
+      "style": "Inspirational",
+      "translation": "当障碍出现时，跳过它们，继续朝目标前进。",
+      "translated_word": "跳过",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "beam",
+  "phonetic": "/biːm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "光束；横梁；笑容",
+  "examples": [
+    {
+      "sentence": "A beam of sunlight broke through the clouds, illuminating the valley below.",
+      "style": "Formal",
+      "translation": "一束阳光穿透云层，照亮了下方的山谷。",
+      "translated_word": "束",
+      "display_order": 1
+    },
+    {
+      "sentence": "A beam is a long, sturdy piece of wood or metal used to support the weight of a building.",
+      "style": "Definitional",
+      "translation": "横梁是一根用于承托建筑重量的坚固长条木材或金属。",
+      "translated_word": "横梁",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a scattered glow, a beam of light travels in a focused, concentrated path.",
+      "style": "Contrastive",
+      "translation": "与散射的光芒不同，光束沿着集中的路径传播。",
+      "translated_word": "光束",
+      "display_order": null
+    },
+    {
+      "sentence": "The steel beam supported the entire roof structure.",
+      "style": "Collocational",
+      "translation": "这根钢梁支撑着整个屋顶结构。",
+      "translated_word": "钢梁",
+      "display_order": 2
+    },
+    {
+      "sentence": "A single beam of hope can pierce the darkest despair.",
+      "style": "Philosophical",
+      "translation": "一线希望足以穿透最深的绝望。",
+      "translated_word": "线",
+      "display_order": null
+    },
+    {
+      "sentence": "The lighthouse cast its faithful beam across the restless sea, guiding lost sailors home.",
+      "style": "Poetic",
+      "translation": "灯塔将忠诚的光束投向汹涌的大海，指引迷途的水手归航。",
+      "translated_word": "光束",
+      "display_order": 3
+    },
+    {
+      "sentence": "Let your smile be a beam that brightens someone's cloudy day.",
+      "style": "Inspirational",
+      "translation": "让你的微笑成为一束光，照亮他人阴霾的日子。",
+      "translated_word": "束",
+      "display_order": 4
+    }
+  ]
+}

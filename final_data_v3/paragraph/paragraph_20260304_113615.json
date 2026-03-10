@@ -1,0 +1,61 @@
+{
+  "word": "paragraph",
+  "phonetic": "/ˈpæɹəɡɹɑːf/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "段落；节；短文",
+  "examples": [
+    {
+      "sentence": "The opening paragraph of the report outlined the key findings of the investigation.",
+      "style": "Formal",
+      "translation": "报告的开头段落概述了调查的主要发现。",
+      "translated_word": "段落",
+      "display_order": 4
+    },
+    {
+      "sentence": "A paragraph is a group of sentences that develop one main idea.",
+      "style": "Definitional",
+      "translation": "段落是围绕一个中心思想展开的一组句子。",
+      "translated_word": "段落",
+      "display_order": 1
+    },
+    {
+      "sentence": "Unlike a sentence, a paragraph can contain multiple thoughts connected by a central theme.",
+      "style": "Contrastive",
+      "translation": "与句子不同，段落可以包含多个围绕中心主题相连的想法。",
+      "translated_word": "段落",
+      "display_order": null
+    },
+    {
+      "sentence": "The editor asked her to write a short paragraph summarizing the event.",
+      "style": "Collocational",
+      "translation": "编辑让她写一小段话来概括这次活动。",
+      "translated_word": "段",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every paragraph in life has meaning; some just take longer to understand.",
+      "style": "Philosophical",
+      "translation": "人生的每个段落都有意义，只是有些需要更长时间才能领悟。",
+      "translated_word": "段落",
+      "display_order": null
+    },
+    {
+      "sentence": "Each paragraph was a brushstroke on the canvas of her story.",
+      "style": "Poetic",
+      "translation": "每一个段落都是她故事画布上的一笔。",
+      "translated_word": "段落",
+      "display_order": null
+    },
+    {
+      "sentence": "Start with one paragraph today, and soon the whole book will be written.",
+      "style": "Inspirational",
+      "translation": "今天先写一段，很快整本书就会完成。",
+      "translated_word": "段",
+      "display_order": 3
+    }
+  ]
+}

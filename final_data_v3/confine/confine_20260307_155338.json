@@ -1,0 +1,61 @@
+{
+  "word": "confine",
+  "phonetic": "/ˈkɒnfaɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "限制；局限；禁闭",
+  "examples": [
+    {
+      "sentence": "The government decided to confine public gatherings to no more than fifty people.",
+      "style": "Formal",
+      "translation": "政府决定将公共集会人数限制在五十人以内。",
+      "translated_word": "限制",
+      "display_order": 3
+    },
+    {
+      "sentence": "To confine means to keep someone or something within certain limits or boundaries.",
+      "style": "Definitional",
+      "translation": "Confine指将某人或某物限制在一定范围或界限内。",
+      "translated_word": "限制",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike restrict, which suggests regulation, confine implies physical or spatial limitation.",
+      "style": "Contrastive",
+      "translation": "与表示管控的restrict不同，confine更强调物理或空间上的限制。",
+      "translated_word": "限制",
+      "display_order": null
+    },
+    {
+      "sentence": "The doctor advised her to confine herself to bed rest for a week.",
+      "style": "Collocational",
+      "translation": "医生建议她卧床休息一周。",
+      "translated_word": "卧床",
+      "display_order": null
+    },
+    {
+      "sentence": "Those who confine their minds to familiar ideas never discover new truths.",
+      "style": "Philosophical",
+      "translation": "将思维局限于熟悉观念的人永远无法发现新的真理。",
+      "translated_word": "局限",
+      "display_order": 2
+    },
+    {
+      "sentence": "The river, once wild and free, now lies confined between concrete walls.",
+      "style": "Poetic",
+      "translation": "曾经奔腾不羁的河流，如今被禁锢在水泥墙之间。",
+      "translated_word": "禁锢",
+      "display_order": 1
+    },
+    {
+      "sentence": "Never let fear confine your dreams; the world is vast and full of possibilities.",
+      "style": "Inspirational",
+      "translation": "永远不要让恐惧束缚你的梦想，世界辽阔，充满无限可能。",
+      "translated_word": "束缚",
+      "display_order": 4
+    }
+  ]
+}

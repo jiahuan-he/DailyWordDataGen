@@ -1,0 +1,61 @@
+{
+  "word": "chuck",
+  "phonetic": "/tʃʌk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "扔；丢弃；放弃",
+  "examples": [
+    {
+      "sentence": "The company decided to chuck the outdated policy after employee feedback.",
+      "style": "Formal",
+      "translation": "公司在听取员工反馈后决定放弃这项过时的政策。",
+      "translated_word": "放弃",
+      "display_order": null
+    },
+    {
+      "sentence": "To chuck something means to throw it away carelessly or without much thought.",
+      "style": "Definitional",
+      "translation": "chuck的意思是随意地或不经思考地把东西扔掉。",
+      "translated_word": "扔掉",
+      "display_order": null
+    },
+    {
+      "sentence": "Rather than carefully placing the keys on the table, he simply chucked them onto the couch.",
+      "style": "Contrastive",
+      "translation": "他没有把钥匙小心地放在桌上，而是随手扔到了沙发上。",
+      "translated_word": "扔",
+      "display_order": 1
+    },
+    {
+      "sentence": "She chucked her old clothes into the donation bin.",
+      "style": "Collocational",
+      "translation": "她把旧衣服扔进了捐赠箱。",
+      "translated_word": "扔",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sometimes the hardest things to chuck are not objects, but beliefs that no longer serve us.",
+      "style": "Philosophical",
+      "translation": "有时最难丢弃的不是物品，而是那些不再对我们有益的信念。",
+      "translated_word": "丢弃",
+      "display_order": 2
+    },
+    {
+      "sentence": "He chucked his worries to the wind like autumn leaves scattering across the sky.",
+      "style": "Poetic",
+      "translation": "他把烦恼抛向风中，如同秋叶飘散在天际。",
+      "translated_word": "抛",
+      "display_order": null
+    },
+    {
+      "sentence": "Chuck the doubts, keep the dreams; the path forward belongs to those who travel light.",
+      "style": "Inspirational",
+      "translation": "丢掉怀疑，留住梦想；前行之路属于轻装上阵的人。",
+      "translated_word": "丢掉",
+      "display_order": 4
+    }
+  ]
+}

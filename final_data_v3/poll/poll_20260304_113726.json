@@ -1,0 +1,62 @@
+{
+  "word": "poll",
+  "phonetic": "/pɔl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "民意调查；投票；选举",
+  "examples": [
+    {
+      "sentence": "A recent poll shows the incumbent leading by five points.",
+      "style": "Formal",
+      "translation": "最新民调显示现任领导人领先五个百分点。",
+      "translated_word": "民调",
+      "display_order": null
+    },
+    {
+      "sentence": "A poll is a survey used to gather public opinion on specific issues.",
+      "style": "Definitional",
+      "translation": "民调是一种用于收集公众对特定议题看法的调查。",
+      "translated_word": "民调",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a census, a poll samples only a portion of the population.",
+      "style": "Contrastive",
+      "translation": "与人口普查不同，民调只抽取部分人群作为样本。",
+      "translated_word": "民调",
+      "display_order": 2
+    },
+    {
+      "sentence": "The exit poll predicted the election outcome with surprising accuracy.",
+      "style": "Collocational",
+      "translation": "出口民调以惊人的准确度预测了选举结果。",
+      "translated_word": "民调",
+      "display_order": 1
+    },
+    {
+      "sentence": "A poll captures a moment in time, yet public sentiment is ever shifting.",
+      "style": "Philosophical",
+      "translation": "民调捕捉的是某一时刻，而民意却在不断变化。",
+      "translated_word": "民调",
+      "display_order": 3
+    },
+    {
+      "sentence": "The poll numbers rise and fall like tides beneath a restless moon.",
+      "style": "Poetic",
+      "translation": "民调数字如不安月光下的潮汐，起起落落。",
+      "translated_word": "民调",
+      "display_order": null
+    },
+    {
+      "sentence": "Every poll reminds voters that their opinions can shape the future.",
+      "style": "Inspirational",
+      "translation": "每一次民调都在提醒选民，他们的意见能够塑造未来。",
+      "translated_word": "民调",
+      "display_order": 4
+    }
+  ]
+}

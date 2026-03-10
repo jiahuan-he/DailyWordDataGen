@@ -1,0 +1,61 @@
+{
+  "word": "significant",
+  "phonetic": "/sɪɡˈnɪ.fɪ.kənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "重要的；显著的；有意义的",
+  "examples": [
+    {
+      "sentence": "The report revealed a significant increase in renewable energy adoption across the region.",
+      "style": "Formal",
+      "translation": "该报告揭示了该地区可再生能源使用率的显著增长。",
+      "translated_word": "显著",
+      "display_order": null
+    },
+    {
+      "sentence": "Something significant carries weight or importance in a particular context.",
+      "style": "Definitional",
+      "translation": "重要的事物在特定情境中具有分量或意义。",
+      "translated_word": "重要的",
+      "display_order": null
+    },
+    {
+      "sentence": "While the first study showed minor changes, the second revealed significant differences.",
+      "style": "Contrastive",
+      "translation": "第一项研究仅显示轻微变化，而第二项则揭示了显著差异。",
+      "translated_word": "显著",
+      "display_order": 1
+    },
+    {
+      "sentence": "The research found a significant correlation between sleep quality and productivity.",
+      "style": "Collocational",
+      "translation": "研究发现睡眠质量与工作效率之间存在显著关联。",
+      "translated_word": "显著",
+      "display_order": null
+    },
+    {
+      "sentence": "Every choice, however small, may prove significant in shaping one's destiny.",
+      "style": "Philosophical",
+      "translation": "每一个选择，无论多么微小，都可能对命运产生重大影响。",
+      "translated_word": "重大",
+      "display_order": 3
+    },
+    {
+      "sentence": "A single significant glance spoke volumes where words had failed.",
+      "style": "Poetic",
+      "translation": "一个意味深长的眼神，胜过千言万语。",
+      "translated_word": "意味深长的",
+      "display_order": 2
+    },
+    {
+      "sentence": "Even the smallest contribution can make a significant difference in someone's life.",
+      "style": "Inspirational",
+      "translation": "即使是最微小的贡献，也能给他人的生活带来重大改变。",
+      "translated_word": "重大",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "condition",
+  "phonetic": "/kənˈdɪʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "条件；状况；情况",
+  "examples": [
+    {
+      "sentence": "The patient was admitted to the hospital in critical condition.",
+      "style": "Formal",
+      "translation": "患者入院时情况危急。",
+      "translated_word": "情况",
+      "display_order": 2
+    },
+    {
+      "sentence": "A condition is a state of being or a requirement that must be met.",
+      "style": "Definitional",
+      "translation": "condition指一种存在状态或必须满足的要求。",
+      "translated_word": "condition",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a symptom, which is felt by the patient, a condition is diagnosed by a doctor.",
+      "style": "Contrastive",
+      "translation": "症状是患者自身感受到的，而病情则由医生诊断。",
+      "translated_word": "病情",
+      "display_order": null
+    },
+    {
+      "sentence": "The team worked hard to improve working conditions at the factory.",
+      "style": "Collocational",
+      "translation": "团队努力改善工厂的工作条件。",
+      "translated_word": "条件",
+      "display_order": 1
+    },
+    {
+      "sentence": "The human condition binds all people together: birth, struggle, and the search for meaning.",
+      "style": "Philosophical",
+      "translation": "人类的境况将所有人联系在一起：出生、挣扎，以及对意义的追寻。",
+      "translated_word": "境况",
+      "display_order": 3
+    },
+    {
+      "sentence": "The old house stood weathered, its condition a testament to years of rain and sun.",
+      "style": "Poetic",
+      "translation": "老房子饱经风霜，它的状况见证了多年的风雨与烈日。",
+      "translated_word": "状况",
+      "display_order": null
+    },
+    {
+      "sentence": "Your current condition does not define your future; growth is always possible.",
+      "style": "Inspirational",
+      "translation": "你现在的处境不能定义你的未来；成长永远是可能的。",
+      "translated_word": "处境",
+      "display_order": 4
+    }
+  ]
+}

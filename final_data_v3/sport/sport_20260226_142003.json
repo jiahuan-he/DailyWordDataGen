@@ -1,0 +1,61 @@
+{
+  "word": "sport",
+  "phonetic": "/spɔːt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "运动；体育活动；娱乐",
+  "examples": [
+    {
+      "sentence": "The Olympic committee announced that skateboarding would become an official sport in the upcoming games.",
+      "style": "Formal",
+      "translation": "奥委会宣布滑板将成为下届奥运会的正式比赛项目。",
+      "translated_word": "比赛项目",
+      "display_order": 2
+    },
+    {
+      "sentence": "A sport is a physical activity governed by rules and often played competitively.",
+      "style": "Definitional",
+      "translation": "运动是一种有规则约束、通常带有竞技性的体育活动。",
+      "translated_word": "运动",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike casual exercise, a sport typically involves competition and structured play.",
+      "style": "Contrastive",
+      "translation": "与休闲锻炼不同，运动通常涉及竞争和有组织的比赛。",
+      "translated_word": "运动",
+      "display_order": 4
+    },
+    {
+      "sentence": "Tennis remains a popular sport among people of all ages.",
+      "style": "Collocational",
+      "translation": "网球仍然是各年龄段人群喜爱的运动。",
+      "translated_word": "运动",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every sport teaches something about human nature: the will to win, the grace to lose.",
+      "style": "Philosophical",
+      "translation": "每一项运动都揭示着人性：求胜的意志，输得起的风度。",
+      "translated_word": "运动",
+      "display_order": 3
+    },
+    {
+      "sentence": "Under stadium lights, sport becomes a dance between effort and grace.",
+      "style": "Poetic",
+      "translation": "在球场灯光下，运动化作力量与优雅的共舞。",
+      "translated_word": "运动",
+      "display_order": null
+    },
+    {
+      "sentence": "Find a sport that makes you forget the clock; that is where passion lives.",
+      "style": "Inspirational",
+      "translation": "找一项让你忘记时间的运动，那里才是热爱所在。",
+      "translated_word": "运动",
+      "display_order": null
+    }
+  ]
+}

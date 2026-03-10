@@ -1,0 +1,61 @@
+{
+  "word": "review",
+  "phonetic": "/ɹɪˈvjuː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "审查；复习；评论",
+  "examples": [
+    {
+      "sentence": "The committee will review all applications before making a final decision.",
+      "style": "Formal",
+      "translation": "委员会将在做出最终决定前审查所有申请。",
+      "translated_word": "审查",
+      "display_order": 2
+    },
+    {
+      "sentence": "To review means to examine something carefully, often to assess its quality or accuracy.",
+      "style": "Definitional",
+      "translation": "Review指仔细检查某事物，通常是为了评估其质量或准确性。",
+      "translated_word": "检查",
+      "display_order": null
+    },
+    {
+      "sentence": "While skimming gives a quick overview, reviewing requires deeper engagement with the material.",
+      "style": "Contrastive",
+      "translation": "略读只能获得大致了解，而复习则需要更深入地钻研材料。",
+      "translated_word": "复习",
+      "display_order": 4
+    },
+    {
+      "sentence": "Students should review their notes regularly to retain information.",
+      "style": "Collocational",
+      "translation": "学生应定期复习笔记以巩固记忆。",
+      "translated_word": "复习",
+      "display_order": 1
+    },
+    {
+      "sentence": "To review the past is to hold a mirror to who one has become.",
+      "style": "Philosophical",
+      "translation": "回顾过去，就是照见自己已成为怎样的人。",
+      "translated_word": "回顾",
+      "display_order": null
+    },
+    {
+      "sentence": "The old man sat quietly, reviewing memories like faded photographs in the attic of his mind.",
+      "style": "Poetic",
+      "translation": "老人静静坐着，回顾往事，如同翻阅心灵阁楼里那些褪色的照片。",
+      "translated_word": "回顾",
+      "display_order": 3
+    },
+    {
+      "sentence": "Review your goals often; they are the compass that guides your journey.",
+      "style": "Inspirational",
+      "translation": "常常审视你的目标，它们是指引你前行的罗盘。",
+      "translated_word": "审视",
+      "display_order": null
+    }
+  ]
+}

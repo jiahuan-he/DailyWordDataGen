@@ -1,0 +1,61 @@
+{
+  "word": "grip",
+  "phonetic": "/ɡɹɪp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "紧握；控制力；把手",
+  "examples": [
+    {
+      "sentence": "The government is losing its grip on the economy as inflation continues to rise.",
+      "style": "Formal",
+      "translation": "随着通货膨胀持续上升，政府正逐渐失去对经济的控制力。",
+      "translated_word": "控制力",
+      "display_order": 2
+    },
+    {
+      "sentence": "A grip is a firm hold on something, whether physical or abstract.",
+      "style": "Definitional",
+      "translation": "grip指对某物的紧握，无论是具体的还是抽象的。",
+      "translated_word": "紧握",
+      "display_order": null
+    },
+    {
+      "sentence": "A good grip provides control, while a weak grip leads to slippage.",
+      "style": "Contrastive",
+      "translation": "牢固的握力带来控制，而无力的握力则导致滑脱。",
+      "translated_word": "握力",
+      "display_order": null
+    },
+    {
+      "sentence": "The tennis player adjusted her grip on the racket before serving.",
+      "style": "Collocational",
+      "translation": "网球运动员在发球前调整了握拍姿势。",
+      "translated_word": "握拍姿势",
+      "display_order": 3
+    },
+    {
+      "sentence": "The tighter the grip on certainty, the faster it slips away.",
+      "style": "Philosophical",
+      "translation": "对确定性抓得越紧，它溜走得越快。",
+      "translated_word": "抓",
+      "display_order": null
+    },
+    {
+      "sentence": "His grip on the rope was all that stood between him and the abyss below.",
+      "style": "Poetic",
+      "translation": "他紧握绳索，那是他与脚下深渊之间唯一的屏障。",
+      "translated_word": "紧握",
+      "display_order": 1
+    },
+    {
+      "sentence": "Get a grip on your fears, and they will no longer control your destiny.",
+      "style": "Inspirational",
+      "translation": "掌控你的恐惧，它们将不再主宰你的命运。",
+      "translated_word": "掌控",
+      "display_order": 4
+    }
+  ]
+}

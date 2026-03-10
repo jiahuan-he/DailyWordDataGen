@@ -1,0 +1,61 @@
+{
+  "word": "offer",
+  "phonetic": "/ˈɑfɚ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "提供；提出；出价",
+  "examples": [
+    {
+      "sentence": "The company offered a generous severance package to employees affected by the restructuring.",
+      "style": "Formal",
+      "translation": "公司向受重组影响的员工提供了丰厚的遣散方案。",
+      "translated_word": "提供",
+      "display_order": 2
+    },
+    {
+      "sentence": "To offer means to present something for someone to accept or reject.",
+      "style": "Definitional",
+      "translation": "Offer的意思是把某物呈给他人，由其决定接受或拒绝。",
+      "translated_word": "呈给",
+      "display_order": null
+    },
+    {
+      "sentence": "Rather than demand, she chose to offer; rather than take, she chose to give.",
+      "style": "Contrastive",
+      "translation": "她选择给予而非索取，选择奉献而非占有。",
+      "translated_word": "给予",
+      "display_order": null
+    },
+    {
+      "sentence": "The restaurant offers a wide variety of vegetarian options.",
+      "style": "Collocational",
+      "translation": "这家餐厅提供多种素食选择。",
+      "translated_word": "提供",
+      "display_order": 1
+    },
+    {
+      "sentence": "What one offers to the world often reflects what one seeks from it.",
+      "style": "Philosophical",
+      "translation": "一个人给予世界的，往往映射出他向世界索求的。",
+      "translated_word": "给予",
+      "display_order": 4
+    },
+    {
+      "sentence": "The autumn trees offer their golden leaves to the wind like whispered farewells.",
+      "style": "Poetic",
+      "translation": "秋树将金黄的落叶献给风，如同轻声的告别。",
+      "translated_word": "献给",
+      "display_order": 3
+    },
+    {
+      "sentence": "Offer your best effort today, and tomorrow will thank you for it.",
+      "style": "Inspirational",
+      "translation": "今天全力以赴，明天定会感激现在的自己。",
+      "translated_word": "全力以赴",
+      "display_order": null
+    }
+  ]
+}

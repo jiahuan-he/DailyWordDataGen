@@ -1,0 +1,60 @@
+{
+  "word": "sufficient",
+  "phonetic": "/səˈfɪʃənt/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "足够的；充分的；充足的",
+  "examples": [
+    {
+      "sentence": "The committee determined that sufficient evidence existed to proceed with the investigation.",
+      "style": "Formal",
+      "translation": "委员会认定现有证据足以继续推进调查。",
+      "translated_word": "足以",
+      "display_order": null
+    },
+    {
+      "sentence": "Something is sufficient when it meets the required amount or standard without excess.",
+      "style": "Definitional",
+      "translation": "当某物达到所需的数量或标准而无需多余时，便是足够的。",
+      "translated_word": "足够",
+      "display_order": null
+    },
+    {
+      "sentence": "While necessary conditions must be present, sufficient conditions guarantee the outcome.",
+      "style": "Contrastive",
+      "translation": "必要条件必须存在，而充分条件则能保证结果的实现。",
+      "translated_word": "充分",
+      "display_order": 3
+    },
+    {
+      "sentence": "The patient was given sufficient time to recover before being discharged.",
+      "style": "Collocational",
+      "translation": "患者在出院前获得了充足的康复时间。",
+      "translated_word": "充足",
+      "display_order": 2
+    },
+    {
+      "sentence": "Perhaps knowing that one has done enough is sufficient for peace of mind.",
+      "style": "Philosophical",
+      "translation": "或许，知道自己已尽力而为，便足以获得内心的安宁。",
+      "translated_word": "足以",
+      "display_order": null
+    },
+    {
+      "sentence": "A single candle proved sufficient to hold back the darkness of the vast hall.",
+      "style": "Poetic",
+      "translation": "一支蜡烛便足以驱散大厅中弥漫的黑暗。",
+      "translated_word": "足以",
+      "display_order": 1
+    },
+    {
+      "sentence": "Trust that your best effort is sufficient; perfection is not the goal.",
+      "style": "Inspirational",
+      "translation": "相信你的全力付出已经足够，完美并非目标。",
+      "translated_word": "足够",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "summary",
+  "phonetic": "/ˈsʌməɹi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "摘要；概述；总结",
+  "examples": [
+    {
+      "sentence": "The committee released a summary of its findings to the press.",
+      "style": "Formal",
+      "translation": "委员会向媒体发布了调查结果的摘要。",
+      "translated_word": "摘要",
+      "display_order": null
+    },
+    {
+      "sentence": "A summary is a brief statement of the main points.",
+      "style": "Definitional",
+      "translation": "摘要是对要点的简短陈述。",
+      "translated_word": "摘要",
+      "display_order": null
+    },
+    {
+      "sentence": "A summary highlights key points, while an analysis interprets their meaning.",
+      "style": "Contrastive",
+      "translation": "摘要突出要点，而分析则解读其含义。",
+      "translated_word": "摘要",
+      "display_order": 3
+    },
+    {
+      "sentence": "The report includes an executive summary at the beginning.",
+      "style": "Collocational",
+      "translation": "报告开头附有执行摘要。",
+      "translated_word": "摘要",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every summary is a choice: what to keep and what to let go.",
+      "style": "Philosophical",
+      "translation": "每一份摘要都是一种取舍：保留什么，舍弃什么。",
+      "translated_word": "摘要",
+      "display_order": 1
+    },
+    {
+      "sentence": "The sunset was a summary of the day, painted in gold and violet.",
+      "style": "Poetic",
+      "translation": "落日是一天的缩影，以金色与紫罗兰色绘就。",
+      "translated_word": "缩影",
+      "display_order": null
+    },
+    {
+      "sentence": "Write a summary of your goals; clarity brings action.",
+      "style": "Inspirational",
+      "translation": "写下目标的总结，清晰带来行动。",
+      "translated_word": "总结",
+      "display_order": 4
+    }
+  ]
+}

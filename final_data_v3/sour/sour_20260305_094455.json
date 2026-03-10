@@ -1,0 +1,62 @@
+{
+  "word": "sour",
+  "phonetic": "/ˈsaʊə/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "酸的；发酸的；不愉快的；阴沉的",
+  "examples": [
+    {
+      "sentence": "The deal turned sour after investors discovered discrepancies in the financial reports.",
+      "style": "Formal",
+      "translation": "在投资者发现财务报告中的差异后，这笔交易变得不顺利。",
+      "translated_word": "不顺利",
+      "display_order": 4
+    },
+    {
+      "sentence": "Sour describes a sharp, acidic taste, like that of lemons or vinegar.",
+      "style": "Definitional",
+      "translation": "sour形容一种尖锐的酸味，如柠檬或醋的味道。",
+      "translated_word": "sour",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike bitter flavors that linger on the tongue, sour tastes hit quickly and fade fast.",
+      "style": "Contrastive",
+      "translation": "与在舌头上久久不散的苦味不同，酸味来得快去得也快。",
+      "translated_word": "酸",
+      "display_order": 3
+    },
+    {
+      "sentence": "The milk has gone sour; it needs to be thrown out.",
+      "style": "Collocational",
+      "translation": "牛奶变酸了，得倒掉。",
+      "translated_word": "酸",
+      "display_order": 1
+    },
+    {
+      "sentence": "Success tastes sweeter to those who have known the sour sting of failure.",
+      "style": "Philosophical",
+      "translation": "对于尝过失败苦涩滋味的人来说，成功更加甘甜。",
+      "translated_word": "苦涩",
+      "display_order": null
+    },
+    {
+      "sentence": "Her smile faded into a sour mask, like fruit left too long in the sun.",
+      "style": "Poetic",
+      "translation": "她的笑容渐渐变成一副阴沉的面孔，如同在烈日下放置太久的水果。",
+      "translated_word": "阴沉",
+      "display_order": 2
+    },
+    {
+      "sentence": "When life gives you sour moments, let them sharpen your appreciation for the sweet ones.",
+      "style": "Inspirational",
+      "translation": "当生活给你酸涩的时刻，就让它们磨砺你对甜蜜时光的珍惜。",
+      "translated_word": "酸涩",
+      "display_order": null
+    }
+  ]
+}

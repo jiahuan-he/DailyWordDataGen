@@ -1,0 +1,62 @@
+{
+  "word": "meet",
+  "phonetic": "/miːt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "遇见；会面；满足",
+  "examples": [
+    {
+      "sentence": "The two leaders will meet in Geneva next week to discuss trade agreements.",
+      "style": "Formal",
+      "translation": "两位领导人将于下周在日内瓦会面，讨论贸易协定。",
+      "translated_word": "会面",
+      "display_order": 1
+    },
+    {
+      "sentence": "To meet someone means to come into contact with them, whether by chance or arrangement.",
+      "style": "Definitional",
+      "translation": "遇见某人是指与其接触，无论是偶然还是事先约定。",
+      "translated_word": "遇见",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike simply seeing someone, to meet them implies interaction and acknowledgment.",
+      "style": "Contrastive",
+      "translation": "与单纯看到某人不同，遇见意味着互动和相互认知。",
+      "translated_word": "遇见",
+      "display_order": null
+    },
+    {
+      "sentence": "The company struggled to meet the deadline despite working overtime.",
+      "style": "Collocational",
+      "translation": "尽管加班加点，公司仍难以赶上截止日期。",
+      "translated_word": "赶上",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every person you meet carries a story worth hearing.",
+      "style": "Philosophical",
+      "translation": "你遇见的每个人都有一个值得倾听的故事。",
+      "translated_word": "遇见",
+      "display_order": 2
+    },
+    {
+      "sentence": "Where the river meets the sea, two worlds embrace in silent surrender.",
+      "style": "Poetic",
+      "translation": "河流与大海相遇之处，两个世界在静默中相拥交融。",
+      "translated_word": "相遇",
+      "display_order": 4
+    },
+    {
+      "sentence": "Rise to meet each challenge, for growth lies just beyond comfort.",
+      "style": "Inspirational",
+      "translation": "迎接每一个挑战，因为成长就在舒适区之外。",
+      "translated_word": "迎接",
+      "display_order": null
+    }
+  ]
+}

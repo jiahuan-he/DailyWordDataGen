@@ -1,0 +1,62 @@
+{
+  "word": "taking",
+  "phonetic": "/ˈteɪkɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "拿取；携带；接受；花费",
+  "examples": [
+    {
+      "sentence": "The government is taking measures to address the housing crisis.",
+      "style": "Formal",
+      "translation": "政府正在采取措施应对住房危机。",
+      "translated_word": "采取",
+      "display_order": null
+    },
+    {
+      "sentence": "Taking means to grasp and carry something from one place to another.",
+      "style": "Definitional",
+      "translation": "Taking意为抓取并将某物从一处带到另一处。",
+      "translated_word": "Taking",
+      "display_order": null
+    },
+    {
+      "sentence": "Taking the bus saves money, while taking a taxi saves time.",
+      "style": "Contrastive",
+      "translation": "坐公交省钱，打车省时间。",
+      "translated_word": "坐",
+      "display_order": null
+    },
+    {
+      "sentence": "Taking a deep breath can help calm the nerves before a big presentation.",
+      "style": "Collocational",
+      "translation": "在重要演讲前深呼吸有助于平复紧张情绪。",
+      "translated_word": "深呼吸",
+      "display_order": 2
+    },
+    {
+      "sentence": "Taking risks reveals who someone truly is when comfort is no longer an option.",
+      "style": "Philosophical",
+      "translation": "当舒适不再是选项时，冒险才能显露一个人的真正本性。",
+      "translated_word": "冒险",
+      "display_order": 3
+    },
+    {
+      "sentence": "The river keeps taking, pulling leaves and petals into its silver current.",
+      "style": "Poetic",
+      "translation": "河流不断索取，将落叶与花瓣卷入银色的水流。",
+      "translated_word": "索取",
+      "display_order": 4
+    },
+    {
+      "sentence": "Taking the first step is the hardest part; everything else follows.",
+      "style": "Inspirational",
+      "translation": "迈出第一步最难，其余的一切都会随之而来。",
+      "translated_word": "迈出",
+      "display_order": 1
+    }
+  ]
+}

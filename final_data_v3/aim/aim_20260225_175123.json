@@ -1,0 +1,61 @@
+{
+  "word": "aim",
+  "phonetic": "/eɪm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "瞄准；以……为目标；旨在",
+  "examples": [
+    {
+      "sentence": "The new policy aims to reduce carbon emissions by 30 percent over the next decade.",
+      "style": "Formal",
+      "translation": "新政策旨在未来十年内将碳排放量减少30%。",
+      "translated_word": "旨在",
+      "display_order": 1
+    },
+    {
+      "sentence": "To aim means to point toward a target or direct effort toward a goal.",
+      "style": "Definitional",
+      "translation": "aim的意思是瞄准目标或朝着某个目的努力。",
+      "translated_word": "瞄准",
+      "display_order": null
+    },
+    {
+      "sentence": "While hoping is passive, aiming requires action and direction.",
+      "style": "Contrastive",
+      "translation": "希望是被动的，而瞄准目标则需要行动和方向。",
+      "translated_word": "瞄准",
+      "display_order": null
+    },
+    {
+      "sentence": "The organization aims high, setting ambitious goals for every quarter.",
+      "style": "Collocational",
+      "translation": "这个组织志存高远，每个季度都设定雄心勃勃的目标。",
+      "translated_word": "志存高远",
+      "display_order": 3
+    },
+    {
+      "sentence": "To aim is to declare that the future matters more than the present moment.",
+      "style": "Philosophical",
+      "translation": "瞄准目标，就是宣告未来比当下更重要。",
+      "translated_word": "瞄准",
+      "display_order": null
+    },
+    {
+      "sentence": "The archer aims at the moon, and the arrow sails through silver light.",
+      "style": "Poetic",
+      "translation": "弓箭手瞄准明月，箭矢穿越银色的光芒。",
+      "translated_word": "瞄准",
+      "display_order": 2
+    },
+    {
+      "sentence": "Aim for progress, not perfection; every step forward counts.",
+      "style": "Inspirational",
+      "translation": "追求进步，而非完美；每一步前进都有意义。",
+      "translated_word": "追求",
+      "display_order": 4
+    }
+  ]
+}

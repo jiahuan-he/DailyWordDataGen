@@ -1,0 +1,61 @@
+{
+  "word": "edge",
+  "phonetic": "/ɛdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "边缘；优势；锋利",
+  "examples": [
+    {
+      "sentence": "The company's new technology gives it a competitive edge in the global market.",
+      "style": "Formal",
+      "translation": "该公司的新技术使其在全球市场上具有竞争优势。",
+      "translated_word": "优势",
+      "display_order": 2
+    },
+    {
+      "sentence": "The edge of a knife is the sharp part used for cutting.",
+      "style": "Definitional",
+      "translation": "刀刃是刀上用于切割的锋利部分。",
+      "translated_word": "刀刃",
+      "display_order": 4
+    },
+    {
+      "sentence": "Unlike the center, the edge of the forest receives more sunlight.",
+      "style": "Contrastive",
+      "translation": "与森林中心不同，森林边缘能接收到更多阳光。",
+      "translated_word": "边缘",
+      "display_order": 1
+    },
+    {
+      "sentence": "She sat on the edge of her seat, waiting for the results.",
+      "style": "Collocational",
+      "translation": "她坐立不安地等待着结果。",
+      "translated_word": "坐立不安",
+      "display_order": null
+    },
+    {
+      "sentence": "Every boundary has an edge, and every edge invites crossing.",
+      "style": "Philosophical",
+      "translation": "每一道界限都有边缘，而每一道边缘都在召唤跨越。",
+      "translated_word": "边缘",
+      "display_order": null
+    },
+    {
+      "sentence": "The moon cast silver light along the water's edge, where shadows danced.",
+      "style": "Poetic",
+      "translation": "月光在水边洒下银辉，影子在那里翩翩起舞。",
+      "translated_word": "水边",
+      "display_order": 3
+    },
+    {
+      "sentence": "Your unique perspective is the edge that sets you apart from everyone else.",
+      "style": "Inspirational",
+      "translation": "你独特的视角就是让你与众不同的优势。",
+      "translated_word": "优势",
+      "display_order": null
+    }
+  ]
+}

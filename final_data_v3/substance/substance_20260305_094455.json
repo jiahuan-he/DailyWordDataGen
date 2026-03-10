@@ -1,0 +1,61 @@
+{
+  "word": "substance",
+  "phonetic": "/ˈsʌbstəns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "物质；实质；内容；要旨",
+  "examples": [
+    {
+      "sentence": "The report lacks substance and fails to address key policy concerns.",
+      "style": "Formal",
+      "translation": "这份报告缺乏实质内容，未能解决关键的政策问题。",
+      "translated_word": "实质",
+      "display_order": null
+    },
+    {
+      "sentence": "A substance is any material that has mass and occupies space.",
+      "style": "Definitional",
+      "translation": "物质是指任何具有质量并占据空间的材料。",
+      "translated_word": "物质",
+      "display_order": 4
+    },
+    {
+      "sentence": "Style may attract attention, but substance earns respect.",
+      "style": "Contrastive",
+      "translation": "风格或许能吸引眼球，但实质才能赢得尊重。",
+      "translated_word": "实质",
+      "display_order": 1
+    },
+    {
+      "sentence": "The unknown substance was sent to the lab for analysis.",
+      "style": "Collocational",
+      "translation": "这种不明物质被送往实验室进行分析。",
+      "translated_word": "物质",
+      "display_order": 2
+    },
+    {
+      "sentence": "Without substance, even the grandest ideas remain mere shadows.",
+      "style": "Philosophical",
+      "translation": "没有实质，再宏大的想法也不过是虚影。",
+      "translated_word": "实质",
+      "display_order": null
+    },
+    {
+      "sentence": "Hope is a substance that fills the emptiest of hearts.",
+      "style": "Poetic",
+      "translation": "希望是一种能填满空虚心灵的物质。",
+      "translated_word": "物质",
+      "display_order": null
+    },
+    {
+      "sentence": "Build a life of substance, and success will follow.",
+      "style": "Inspirational",
+      "translation": "构建有内涵的人生，成功自会随之而来。",
+      "translated_word": "内涵",
+      "display_order": 3
+    }
+  ]
+}

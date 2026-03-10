@@ -1,0 +1,63 @@
+{
+  "word": "general",
+  "phonetic": "/ˈd͡ʒɛnɹəl/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "普遍的；总体的；大致的",
+  "examples": [
+    {
+      "sentence": "The general consensus among economists is that inflation will continue to rise.",
+      "style": "Formal",
+      "translation": "经济学家普遍认为通货膨胀将继续上升。",
+      "translated_word": "普遍",
+      "display_order": 1
+    },
+    {
+      "sentence": "General means affecting or concerning most people, places, or things.",
+      "style": "Definitional",
+      "translation": "General指的是影响或涉及大多数人、地方或事物。",
+      "translated_word": "General",
+      "display_order": null
+    },
+    {
+      "sentence": "A general overview provides the big picture, while a detailed analysis examines specific elements.",
+      "style": "Contrastive",
+      "translation": "概述提供整体图景，而详细分析则审视具体要素。",
+      "translated_word": "概述",
+      "display_order": null
+    },
+    {
+      "sentence": "The general public has the right to access this information.",
+      "style": "Collocational",
+      "translation": "公众有权获取这些信息。",
+      "translated_word": "公众",
+      "display_order": 4
+    },
+    {
+      "sentence": "General truths often hide the complexity of individual experience.",
+      "style": "Philosophical",
+      "translation": "普遍的真理往往掩盖了个体经验的复杂性。",
+      "translated_word": "普遍的",
+      "display_order": 3
+    },
+    {
+      "sentence": "A general warmth spread across the valley as dawn broke over the hills.",
+      "style": "Poetic",
+      "translation": "黎明翻过山丘，一片温暖弥漫在山谷之间。",
+      "translated_word": "一片",
+      "display_order": null
+    },
+    {
+      "sentence": "Start with a general direction, and the path will reveal itself as you walk.",
+      "style": "Inspirational",
+      "translation": "先确定大致方向，路会在行走中逐渐清晰。",
+      "translated_word": "大致",
+      "display_order": 2
+    }
+  ]
+}

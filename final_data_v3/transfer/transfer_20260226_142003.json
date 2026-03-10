@@ -1,0 +1,61 @@
+{
+  "word": "transfer",
+  "phonetic": "/ˈtɹænzfɜː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "转移；调动；转让；转账",
+  "examples": [
+    {
+      "sentence": "The company will transfer its headquarters to Singapore by the end of the year.",
+      "style": "Formal",
+      "translation": "该公司将于年底前将总部迁至新加坡。",
+      "translated_word": "迁",
+      "display_order": 3
+    },
+    {
+      "sentence": "To transfer means to move something or someone from one place to another.",
+      "style": "Definitional",
+      "translation": "转移指的是将某物或某人从一个地方移动到另一个地方。",
+      "translated_word": "转移",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike copying, transferring removes the original file from its source location.",
+      "style": "Contrastive",
+      "translation": "与复制不同，转移会将原文件从源位置删除。",
+      "translated_word": "转移",
+      "display_order": 2
+    },
+    {
+      "sentence": "Passengers must transfer to a different train at the next station.",
+      "style": "Collocational",
+      "translation": "乘客必须在下一站换乘另一列火车。",
+      "translated_word": "换乘",
+      "display_order": 1
+    },
+    {
+      "sentence": "Knowledge cannot truly transfer until the student is ready to receive it.",
+      "style": "Philosophical",
+      "translation": "只有当学生准备好接受时，知识才能真正传递。",
+      "translated_word": "传递",
+      "display_order": null
+    },
+    {
+      "sentence": "The sunset seemed to transfer its gold onto the still water below.",
+      "style": "Poetic",
+      "translation": "夕阳仿佛将它的金色倾泻在下方静谧的水面上。",
+      "translated_word": "倾泻",
+      "display_order": null
+    },
+    {
+      "sentence": "Transfer your energy from worry to action, and watch your life transform.",
+      "style": "Inspirational",
+      "translation": "把忧虑的精力转化为行动，你会看到生活焕然一新。",
+      "translated_word": "转化",
+      "display_order": 4
+    }
+  ]
+}

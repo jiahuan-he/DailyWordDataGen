@@ -1,0 +1,61 @@
+{
+  "word": "package",
+  "phonetic": "/ˈpækɪdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "包裹；套餐；软件包",
+  "examples": [
+    {
+      "sentence": "The company announced a comprehensive benefits package for all employees.",
+      "style": "Formal",
+      "translation": "该公司宣布为所有员工提供全面的福利套餐。",
+      "translated_word": "套餐",
+      "display_order": 3
+    },
+    {
+      "sentence": "A package is a wrapped bundle of items prepared for shipping or delivery.",
+      "style": "Definitional",
+      "translation": "包裹是指为运输或递送而包装好的物品。",
+      "translated_word": "包裹",
+      "display_order": 4
+    },
+    {
+      "sentence": "Unlike a single product, a package combines multiple offerings into one convenient bundle.",
+      "style": "Contrastive",
+      "translation": "与单一产品不同，套餐将多种产品组合成一个便捷的整体。",
+      "translated_word": "套餐",
+      "display_order": null
+    },
+    {
+      "sentence": "The travel agent put together an all-inclusive package for the honeymoon trip.",
+      "style": "Collocational",
+      "translation": "旅行社为蜜月之旅准备了一个全包套餐。",
+      "translated_word": "套餐",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every person carries an invisible package of experiences that shapes who they become.",
+      "style": "Philosophical",
+      "translation": "每个人都背负着一个无形的经历包裹，塑造着他们的人生。",
+      "translated_word": "包裹",
+      "display_order": null
+    },
+    {
+      "sentence": "The mailbox held a small package wrapped in brown paper, promising secrets from a distant land.",
+      "style": "Poetic",
+      "translation": "信箱里躺着一个牛皮纸包裹的小包裹，仿佛承载着远方的秘密。",
+      "translated_word": "包裹",
+      "display_order": 2
+    },
+    {
+      "sentence": "Your unique talents are a package meant to be opened and shared with the world.",
+      "style": "Inspirational",
+      "translation": "你独特的才华是一份礼物，值得被打开并与世界分享。",
+      "translated_word": "礼物",
+      "display_order": null
+    }
+  ]
+}

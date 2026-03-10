@@ -1,0 +1,63 @@
+{
+  "word": "plain",
+  "phonetic": "/pleɪn/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "朴素的；简单的；清楚的；相貌平平的",
+  "examples": [
+    {
+      "sentence": "The report presented the findings in plain language, accessible to all stakeholders.",
+      "style": "Formal",
+      "translation": "报告用浅显的语言呈现调查结果，便于所有相关方理解。",
+      "translated_word": "浅显",
+      "display_order": null
+    },
+    {
+      "sentence": "Something plain is simple and without decoration or unnecessary detail.",
+      "style": "Definitional",
+      "translation": "plain指的是简单朴素、没有装饰或多余细节的东西。",
+      "translated_word": "简单朴素",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike the ornate cathedral downtown, this chapel is plain but equally moving.",
+      "style": "Contrastive",
+      "translation": "与市中心那座华丽的大教堂不同，这座小教堂朴素无华，却同样令人动容。",
+      "translated_word": "朴素无华",
+      "display_order": 1
+    },
+    {
+      "sentence": "She wore a plain white shirt and black trousers to the interview.",
+      "style": "Collocational",
+      "translation": "她穿着一件素白衬衫和黑色长裤去面试。",
+      "translated_word": "素白",
+      "display_order": 2
+    },
+    {
+      "sentence": "The plain truth often hurts more than elaborate lies.",
+      "style": "Philosophical",
+      "translation": "朴素的真相往往比精心编织的谎言更伤人。",
+      "translated_word": "朴素",
+      "display_order": 3
+    },
+    {
+      "sentence": "Across the plain canvas of dawn, the sun painted its first golden strokes.",
+      "style": "Poetic",
+      "translation": "在黎明那素净的画布上，太阳挥下了第一抹金色的笔触。",
+      "translated_word": "素净",
+      "display_order": null
+    },
+    {
+      "sentence": "A plain and honest heart will carry you further than any disguise.",
+      "style": "Inspirational",
+      "translation": "一颗朴实真诚的心，比任何伪装都能带你走得更远。",
+      "translated_word": "朴实",
+      "display_order": 4
+    }
+  ]
+}

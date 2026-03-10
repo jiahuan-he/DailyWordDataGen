@@ -1,0 +1,61 @@
+{
+  "word": "bill",
+  "phonetic": "/bɪl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "账单；法案；钞票",
+  "examples": [
+    {
+      "sentence": "The Senate passed the healthcare bill after months of heated debate.",
+      "style": "Formal",
+      "translation": "经过数月激烈辩论，参议院通过了这项医疗法案。",
+      "translated_word": "法案",
+      "display_order": 2
+    },
+    {
+      "sentence": "A bill is a written statement of charges for goods or services rendered.",
+      "style": "Definitional",
+      "translation": "账单是一份记录商品或服务费用的书面清单。",
+      "translated_word": "账单",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike an invoice sent before payment, a bill typically arrives after the service is complete.",
+      "style": "Contrastive",
+      "translation": "与付款前发送的发票不同，账单通常在服务完成后送达。",
+      "translated_word": "账单",
+      "display_order": 4
+    },
+    {
+      "sentence": "The waiter brought the bill to the table as soon as they finished dessert.",
+      "style": "Collocational",
+      "translation": "他们一吃完甜点，服务员就把账单送到了桌上。",
+      "translated_word": "账单",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every bill represents a choice made; spending reveals what one truly values.",
+      "style": "Philosophical",
+      "translation": "每一张账单都代表着一个选择；消费揭示了一个人真正看重什么。",
+      "translated_word": "账单",
+      "display_order": null
+    },
+    {
+      "sentence": "The crumpled bill in his pocket held the weight of a thousand promises.",
+      "style": "Poetic",
+      "translation": "他口袋里那张皱巴巴的钞票，承载着千百个承诺的重量。",
+      "translated_word": "钞票",
+      "display_order": 3
+    },
+    {
+      "sentence": "Pay the bill today so that tomorrow's freedom is not mortgaged to yesterday's debts.",
+      "style": "Inspirational",
+      "translation": "今天结清账单，明天的自由才不会被昨日的债务所束缚。",
+      "translated_word": "账单",
+      "display_order": null
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "word": "rough",
+  "phonetic": "/ɹʌf/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "粗糙的；艰难的；粗略的",
+  "examples": [
+    {
+      "sentence": "The company released a rough estimate of the damages caused by the cyberattack.",
+      "style": "Formal",
+      "translation": "该公司发布了网络攻击造成损失的粗略估计。",
+      "translated_word": "粗略",
+      "display_order": 2
+    },
+    {
+      "sentence": "A rough surface feels uneven and coarse to the touch.",
+      "style": "Definitional",
+      "translation": "粗糙的表面摸起来凹凸不平且质感粗涩。",
+      "translated_word": "粗糙",
+      "display_order": 4
+    },
+    {
+      "sentence": "Unlike polished marble, rough stone retains its natural, unrefined texture.",
+      "style": "Contrastive",
+      "translation": "与抛光大理石不同，粗糙的石头保留了天然的原始质感。",
+      "translated_word": "粗糙",
+      "display_order": 1
+    },
+    {
+      "sentence": "The project is still in rough draft form and needs significant revision.",
+      "style": "Collocational",
+      "translation": "这个项目仍处于草稿阶段，需要大幅修改。",
+      "translated_word": "草",
+      "display_order": null
+    },
+    {
+      "sentence": "Rough beginnings often forge the strongest foundations.",
+      "style": "Philosophical",
+      "translation": "艰难的开端往往能铸就最坚实的根基。",
+      "translated_word": "艰难",
+      "display_order": 3
+    },
+    {
+      "sentence": "The rough sea churned beneath a sky of darkening clouds.",
+      "style": "Poetic",
+      "translation": "汹涌的大海在渐暗的云层下翻腾不息。",
+      "translated_word": "汹涌",
+      "display_order": null
+    },
+    {
+      "sentence": "Every rough patch is a stepping stone to something greater.",
+      "style": "Inspirational",
+      "translation": "每一段艰难时光都是通往更高处的垫脚石。",
+      "translated_word": "艰难",
+      "display_order": null
+    }
+  ]
+}

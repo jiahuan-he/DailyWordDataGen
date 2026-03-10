@@ -1,0 +1,61 @@
+{
+  "word": "claim",
+  "phonetic": "/kleɪm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "声称；索取；认领",
+  "examples": [
+    {
+      "sentence": "The company claims the new policy will boost productivity by 20 percent.",
+      "style": "Formal",
+      "translation": "该公司声称新政策将使生产力提高百分之二十。",
+      "translated_word": "声称",
+      "display_order": 2
+    },
+    {
+      "sentence": "To claim something means to assert ownership or demand it as one's right.",
+      "style": "Definitional",
+      "translation": "claim指的是主张所有权或要求获得某物作为自己的权利。",
+      "translated_word": "主张",
+      "display_order": null
+    },
+    {
+      "sentence": "Anyone can say they deserve success, but only those who work hard can truly claim it.",
+      "style": "Contrastive",
+      "translation": "任何人都可以说自己值得成功，但只有努力的人才能真正拥有它。",
+      "translated_word": "拥有",
+      "display_order": null
+    },
+    {
+      "sentence": "Passengers must claim their baggage within thirty minutes of arrival.",
+      "style": "Collocational",
+      "translation": "乘客须在抵达后三十分钟内领取行李。",
+      "translated_word": "领取",
+      "display_order": 1
+    },
+    {
+      "sentence": "To claim knowledge is easy; to earn wisdom takes a lifetime.",
+      "style": "Philosophical",
+      "translation": "声称拥有知识很容易，获得智慧却需要一生。",
+      "translated_word": "声称",
+      "display_order": 4
+    },
+    {
+      "sentence": "The sea claims the shore with every wave, then retreats as if it never touched the sand.",
+      "style": "Poetic",
+      "translation": "海浪一次次占据海岸，又悄然退去，仿佛从未触碰过沙滩。",
+      "translated_word": "占据",
+      "display_order": 3
+    },
+    {
+      "sentence": "Claim your dreams boldly; the universe rewards those who dare to ask.",
+      "style": "Inspirational",
+      "translation": "大胆追求你的梦想吧，宇宙会眷顾那些敢于争取的人。",
+      "translated_word": "追求",
+      "display_order": null
+    }
+  ]
+}

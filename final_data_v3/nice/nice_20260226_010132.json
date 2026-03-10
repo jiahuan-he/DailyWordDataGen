@@ -1,0 +1,64 @@
+{
+  "word": "nice",
+  "phonetic": "/naɪs/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "美好的；令人愉快的；友善的",
+  "examples": [
+    {
+      "sentence": "The delegation received a nice welcome from the host country's officials.",
+      "style": "Formal",
+      "translation": "代表团受到了东道国官员的热情欢迎。",
+      "translated_word": "热情",
+      "display_order": null
+    },
+    {
+      "sentence": "Something nice is pleasant, enjoyable, or agreeable to the senses.",
+      "style": "Definitional",
+      "translation": "nice指的是令人愉快、享受或感官上舒适的事物。",
+      "translated_word": "令人愉快",
+      "display_order": null
+    },
+    {
+      "sentence": "A nice person is kind and considerate, unlike someone who is merely polite.",
+      "style": "Contrastive",
+      "translation": "一个nice的人是真诚善良的，而不仅仅是表面上的礼貌。",
+      "translated_word": "nice",
+      "display_order": null
+    },
+    {
+      "sentence": "After a long week, a nice cup of tea can make all the difference.",
+      "style": "Collocational",
+      "translation": "忙碌了一整周后，一杯好茶能让人心情大不同。",
+      "translated_word": "好",
+      "display_order": 1
+    },
+    {
+      "sentence": "Perhaps being nice is not weakness; perhaps it takes more strength to remain kind.",
+      "style": "Philosophical",
+      "translation": "或许善良并非软弱；或许保持和善需要更大的力量。",
+      "translated_word": "善良",
+      "display_order": 2
+    },
+    {
+      "sentence": "The garden held a nice stillness, where petals whispered secrets to the breeze.",
+      "style": "Poetic",
+      "translation": "花园里弥漫着美好的静谧，花瓣向微风低语着秘密。",
+      "translated_word": "美好",
+      "display_order": 3
+    },
+    {
+      "sentence": "Do something nice for someone today; small kindnesses ripple outward in ways you may never see.",
+      "style": "Inspirational",
+      "translation": "今天为他人做一件善事吧；小小的善意会以你看不见的方式向外传递。",
+      "translated_word": "善事",
+      "display_order": 4
+    }
+  ]
+}

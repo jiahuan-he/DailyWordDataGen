@@ -1,0 +1,61 @@
+{
+  "word": "lot",
+  "phonetic": "/lɒt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "许多；一块地；命运；一批",
+  "examples": [
+    {
+      "sentence": "The city council approved the sale of a vacant lot for commercial development.",
+      "style": "Formal",
+      "translation": "市议会批准出售一块空地用于商业开发。",
+      "translated_word": "空地",
+      "display_order": null
+    },
+    {
+      "sentence": "A lot refers to a large amount or a piece of land designated for a specific purpose.",
+      "style": "Definitional",
+      "translation": "lot指大量的事物，或指定用于特定目的的一块土地。",
+      "translated_word": "lot",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a single item, a lot includes multiple pieces sold together as one unit.",
+      "style": "Contrastive",
+      "translation": "与单件物品不同，一批货物是将多件物品作为一个整体出售。",
+      "translated_word": "一批",
+      "display_order": 3
+    },
+    {
+      "sentence": "The parking lot was full, so visitors had to find street parking.",
+      "style": "Collocational",
+      "translation": "停车场满了，访客只好在路边找车位。",
+      "translated_word": "停车场",
+      "display_order": 2
+    },
+    {
+      "sentence": "Each person must accept their lot in life while striving to improve it.",
+      "style": "Philosophical",
+      "translation": "每个人都要接受自己的命运，同时努力改变它。",
+      "translated_word": "命运",
+      "display_order": 1
+    },
+    {
+      "sentence": "The abandoned lot bloomed with wildflowers, nature reclaiming what was once forgotten.",
+      "style": "Poetic",
+      "translation": "那片荒废的空地开满了野花，大自然正在收回曾被遗忘的土地。",
+      "translated_word": "空地",
+      "display_order": null
+    },
+    {
+      "sentence": "A lot can change when the courage to begin meets the will to persist.",
+      "style": "Inspirational",
+      "translation": "当开始的勇气遇上坚持的意志，很多事情都会改变。",
+      "translated_word": "很多",
+      "display_order": 4
+    }
+  ]
+}

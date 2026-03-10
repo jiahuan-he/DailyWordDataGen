@@ -1,0 +1,62 @@
+{
+  "word": "minor",
+  "phonetic": "/ˈmaɪnɚ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "较小的；次要的；轻微的",
+  "examples": [
+    {
+      "sentence": "The report noted only minor discrepancies in the quarterly financial statements.",
+      "style": "Formal",
+      "translation": "报告指出季度财务报表中仅存在轻微的差异。",
+      "translated_word": "轻微的",
+      "display_order": null
+    },
+    {
+      "sentence": "A minor issue is one that causes little harm or inconvenience.",
+      "style": "Definitional",
+      "translation": "轻微的问题是指造成很少伤害或不便的问题。",
+      "translated_word": "轻微的",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike major surgery, minor procedures often require no overnight hospital stay.",
+      "style": "Contrastive",
+      "translation": "与大手术不同，小手术通常不需要住院过夜。",
+      "translated_word": "小",
+      "display_order": 1
+    },
+    {
+      "sentence": "The doctor assured her it was just a minor injury that would heal quickly.",
+      "style": "Collocational",
+      "translation": "医生向她保证这只是轻伤，很快就会痊愈。",
+      "translated_word": "轻",
+      "display_order": 4
+    },
+    {
+      "sentence": "What seems minor today may prove significant in the fullness of time.",
+      "style": "Philosophical",
+      "translation": "今天看似微不足道的事，假以时日可能会变得意义重大。",
+      "translated_word": "微不足道",
+      "display_order": 2
+    },
+    {
+      "sentence": "Even minor stars contribute their faint glow to the vast tapestry of night.",
+      "style": "Poetic",
+      "translation": "即使是微弱的星星，也为夜空的浩瀚织锦贡献着微光。",
+      "translated_word": "微弱的",
+      "display_order": null
+    },
+    {
+      "sentence": "Never let minor setbacks distract you from pursuing your greatest ambitions.",
+      "style": "Inspirational",
+      "translation": "永远不要让小挫折分散你追求远大抱负的注意力。",
+      "translated_word": "小",
+      "display_order": 3
+    }
+  ]
+}

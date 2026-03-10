@@ -1,0 +1,61 @@
+{
+  "word": "cascade",
+  "phonetic": "/kæsˈkeɪd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "瀑布；层叠；连串",
+  "examples": [
+    {
+      "sentence": "The policy shift triggered a cascade of economic reforms across the region.",
+      "style": "Formal",
+      "translation": "政策转变引发了该地区一系列经济改革。",
+      "translated_word": "一系列",
+      "display_order": null
+    },
+    {
+      "sentence": "A cascade refers to a sequence of events, each one triggering the next.",
+      "style": "Definitional",
+      "translation": "cascade指的是一连串事件，每一件都引发下一件。",
+      "translated_word": "一连串",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike an isolated incident, a cascade of failures compounds over time.",
+      "style": "Contrastive",
+      "translation": "与单一事件不同，连锁故障会随时间不断累积。",
+      "translated_word": "连锁",
+      "display_order": 3
+    },
+    {
+      "sentence": "The announcement set off a cascade of reactions on social media.",
+      "style": "Collocational",
+      "translation": "这则公告在社交媒体上引发了一连串反应。",
+      "translated_word": "一连串",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every decision creates a cascade; the smallest choice can reshape an entire life.",
+      "style": "Philosophical",
+      "translation": "每个决定都会产生连锁反应；最微小的选择也能重塑整个人生。",
+      "translated_word": "连锁反应",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her laughter tumbled down like a cascade of bells in the quiet garden.",
+      "style": "Poetic",
+      "translation": "她的笑声如瀑布般倾泻而下，似铃铛在静谧花园中回响。",
+      "translated_word": "瀑布",
+      "display_order": 1
+    },
+    {
+      "sentence": "One brave step can unleash a cascade of opportunities.",
+      "style": "Inspirational",
+      "translation": "勇敢迈出一步，便能开启无限机遇。",
+      "translated_word": "无限",
+      "display_order": null
+    }
+  ]
+}

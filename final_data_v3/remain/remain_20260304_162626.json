@@ -1,0 +1,61 @@
+{
+  "word": "remain",
+  "phonetic": "/ɹɪˈmeɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "保持；留下；剩余；依然",
+  "examples": [
+    {
+      "sentence": "The outcome of the investigation remains uncertain.",
+      "style": "Formal",
+      "translation": "调查结果仍不明朗。",
+      "translated_word": "仍",
+      "display_order": null
+    },
+    {
+      "sentence": "To remain means to stay in place or continue unchanged.",
+      "style": "Definitional",
+      "translation": "\"remain\"意为停留在原处或保持不变。",
+      "translated_word": "停留",
+      "display_order": null
+    },
+    {
+      "sentence": "While others moved on, she chose to remain where she was.",
+      "style": "Contrastive",
+      "translation": "当其他人继续前行时，她选择留在原地。",
+      "translated_word": "留在",
+      "display_order": 1
+    },
+    {
+      "sentence": "The question remains unanswered to this day.",
+      "style": "Collocational",
+      "translation": "这个问题至今仍未得到解答。",
+      "translated_word": "仍",
+      "display_order": null
+    },
+    {
+      "sentence": "What remains after loss reveals what truly mattered.",
+      "style": "Philosophical",
+      "translation": "失去之后留下的，才显示出什么是真正重要的。",
+      "translated_word": "留下",
+      "display_order": 3
+    },
+    {
+      "sentence": "The ancient ruins remain; silent sentinels of a forgotten age.",
+      "style": "Poetic",
+      "translation": "古老的废墟依然矗立，静默地守望着被遗忘的时代。",
+      "translated_word": "依然",
+      "display_order": 2
+    },
+    {
+      "sentence": "Remain committed to your vision, even when the path grows difficult.",
+      "style": "Inspirational",
+      "translation": "即使道路艰难，也要坚守你的信念。",
+      "translated_word": "坚守",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "maximum",
+  "phonetic": "/ˈmæksɪməm/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "最大值；最大限度；极限",
+  "examples": [
+    {
+      "sentence": "The stadium has reached its maximum capacity of 80,000 spectators.",
+      "style": "Formal",
+      "translation": "体育场已达到八万人的最大容量。",
+      "translated_word": "最大容量",
+      "display_order": 3
+    },
+    {
+      "sentence": "A maximum is the highest possible amount or degree that something can reach.",
+      "style": "Definitional",
+      "translation": "最大值是指某事物能够达到的最高数量或程度。",
+      "translated_word": "最大值",
+      "display_order": null
+    },
+    {
+      "sentence": "While the minimum ensures survival, the maximum reveals true potential.",
+      "style": "Contrastive",
+      "translation": "最低限度确保生存，而最大限度则展现真正的潜力。",
+      "translated_word": "最大限度",
+      "display_order": 2
+    },
+    {
+      "sentence": "The dosage should not exceed the daily maximum.",
+      "style": "Collocational",
+      "translation": "剂量不应超过每日最大限量。",
+      "translated_word": "最大限量",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every boundary humans set as a maximum eventually becomes a stepping stone.",
+      "style": "Philosophical",
+      "translation": "人类设定的每一个极限，最终都会成为前进的垫脚石。",
+      "translated_word": "极限",
+      "display_order": 4
+    },
+    {
+      "sentence": "The sun blazed at its maximum, painting the desert gold.",
+      "style": "Poetic",
+      "translation": "烈日当空，将沙漠染成一片金黄。",
+      "translated_word": "烈日当空",
+      "display_order": null
+    },
+    {
+      "sentence": "Push beyond what you think is the maximum; greatness lies just past that edge.",
+      "style": "Inspirational",
+      "translation": "突破你认为的极限吧，伟大就在那道边界之外。",
+      "translated_word": "极限",
+      "display_order": null
+    }
+  ]
+}

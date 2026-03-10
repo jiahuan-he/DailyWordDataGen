@@ -1,0 +1,61 @@
+{
+  "word": "alarm",
+  "phonetic": "/əˈlɑːm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "警报；闹钟；惊恐",
+  "examples": [
+    {
+      "sentence": "The fire alarm sounded throughout the building, prompting an immediate evacuation.",
+      "style": "Formal",
+      "translation": "火警警报响彻整栋大楼，人们立即疏散。",
+      "translated_word": "警报",
+      "display_order": 2
+    },
+    {
+      "sentence": "An alarm is a signal or device that warns of danger or wakes someone from sleep.",
+      "style": "Definitional",
+      "translation": "警报是一种警示危险或将人从睡眠中唤醒的信号或装置。",
+      "translated_word": "警报",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a simple notification, an alarm demands urgent attention.",
+      "style": "Contrastive",
+      "translation": "与普通通知不同，警报要求立即关注。",
+      "translated_word": "警报",
+      "display_order": 3
+    },
+    {
+      "sentence": "She set the alarm for six in the morning and placed the phone across the room.",
+      "style": "Collocational",
+      "translation": "她把闹钟定在早上六点，并把手机放在房间另一头。",
+      "translated_word": "闹钟",
+      "display_order": 1
+    },
+    {
+      "sentence": "The alarm that stirs the soul often comes not from outside, but from within.",
+      "style": "Philosophical",
+      "translation": "真正触动灵魂的警醒，往往不是来自外界，而是源于内心。",
+      "translated_word": "警醒",
+      "display_order": null
+    },
+    {
+      "sentence": "Dawn breaks like an alarm of gold, calling the world to rise.",
+      "style": "Poetic",
+      "translation": "黎明如金色的号角破晓，唤醒沉睡的世界。",
+      "translated_word": "号角",
+      "display_order": null
+    },
+    {
+      "sentence": "Let every setback serve as an alarm: it is time to grow stronger.",
+      "style": "Inspirational",
+      "translation": "让每一次挫折都成为警醒：是时候变得更强大了。",
+      "translated_word": "警醒",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "clone",
+  "phonetic": "/kləʊn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "克隆；复制品；翻版",
+  "examples": [
+    {
+      "sentence": "Scientists announced the successful birth of a clone created from an endangered species.",
+      "style": "Formal",
+      "translation": "科学家宣布成功诞生了一只由濒危物种克隆而来的动物。",
+      "translated_word": "克隆",
+      "display_order": null
+    },
+    {
+      "sentence": "A clone is an organism that shares the exact same genetic code as its donor.",
+      "style": "Definitional",
+      "translation": "克隆体是一种与供体拥有完全相同基因编码的生物。",
+      "translated_word": "克隆体",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a twin, a clone can be created years or even decades after its original.",
+      "style": "Contrastive",
+      "translation": "与双胞胎不同，克隆体可以在原体出生数年甚至数十年后才被创造出来。",
+      "translated_word": "克隆体",
+      "display_order": 1
+    },
+    {
+      "sentence": "The tech company released what critics called a cheap clone of the popular device.",
+      "style": "Collocational",
+      "translation": "这家科技公司发布的产品被评论家称为那款热门设备的廉价翻版。",
+      "translated_word": "翻版",
+      "display_order": 3
+    },
+    {
+      "sentence": "If a clone possesses the same memories, does it inherit the soul as well?",
+      "style": "Philosophical",
+      "translation": "如果克隆体拥有相同的记忆，它是否也继承了灵魂？",
+      "translated_word": "克隆体",
+      "display_order": null
+    },
+    {
+      "sentence": "She moved through the city like a clone of her former self, hollow and mechanical.",
+      "style": "Poetic",
+      "translation": "她穿行于城市之中，仿佛是过去自己的复制品，空洞而机械。",
+      "translated_word": "复制品",
+      "display_order": 2
+    },
+    {
+      "sentence": "Be an original, not a clone; the world needs what only you can offer.",
+      "style": "Inspirational",
+      "translation": "做独一无二的自己，而非他人的翻版；世界需要的是只有你能给予的东西。",
+      "translated_word": "翻版",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "word": "peak",
+  "phonetic": "/piːk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "顶峰；巅峰；高峰期",
+  "examples": [
+    {
+      "sentence": "The company's stock reached its peak in the third quarter before declining sharply.",
+      "style": "Formal",
+      "translation": "该公司股票在第三季度达到峰值后大幅下跌。",
+      "translated_word": "峰值",
+      "display_order": 4
+    },
+    {
+      "sentence": "A peak is the highest point of a mountain or the maximum level of something.",
+      "style": "Definitional",
+      "translation": "peak指山的最高点或某事物的最高水平。",
+      "translated_word": "peak",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a plateau, which remains level, a peak marks the single highest point before descent.",
+      "style": "Contrastive",
+      "translation": "与保持平坦的高原不同，顶峰标志着下降前的最高点。",
+      "translated_word": "顶峰",
+      "display_order": null
+    },
+    {
+      "sentence": "Traffic reaches its peak during rush hour, causing major delays on highways.",
+      "style": "Collocational",
+      "translation": "交通流量在高峰期达到顶点，导致高速公路严重拥堵。",
+      "translated_word": "顶点",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every peak carries within it the inevitability of descent; such is the nature of all things.",
+      "style": "Philosophical",
+      "translation": "每一座巅峰都蕴含着下行的必然性；万物皆如此。",
+      "translated_word": "巅峰",
+      "display_order": null
+    },
+    {
+      "sentence": "The mountain peak stood silent in the mist, crowned with snow like an ancient king.",
+      "style": "Poetic",
+      "translation": "山峰在薄雾中静默伫立，白雪加冕，宛如远古的君王。",
+      "translated_word": "峰",
+      "display_order": 1
+    },
+    {
+      "sentence": "The peak is not the end of the journey; it is simply where the view becomes clearest.",
+      "style": "Inspirational",
+      "translation": "顶峰并非旅程的终点；它只是视野最开阔的地方。",
+      "translated_word": "顶峰",
+      "display_order": 3
+    }
+  ]
+}

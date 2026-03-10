@@ -1,0 +1,62 @@
+{
+  "word": "natural",
+  "phonetic": "/ˈnætʃəɹəl/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "自然的；天然的；本能的；正常的",
+  "examples": [
+    {
+      "sentence": "The company has pledged to use only natural ingredients in its products.",
+      "style": "Formal",
+      "translation": "该公司承诺其产品只使用天然成分。",
+      "translated_word": "天然",
+      "display_order": null
+    },
+    {
+      "sentence": "Something natural occurs without human intervention or artificial processes.",
+      "style": "Definitional",
+      "translation": "天然的事物是指未经人为干预或人工加工而产生的。",
+      "translated_word": "天然",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike synthetic fabrics, natural fibers allow the skin to breathe.",
+      "style": "Contrastive",
+      "translation": "与合成面料不同，天然纤维能让皮肤透气。",
+      "translated_word": "天然",
+      "display_order": 2
+    },
+    {
+      "sentence": "It is perfectly natural to feel nervous before a job interview.",
+      "style": "Collocational",
+      "translation": "面试前感到紧张是完全正常的。",
+      "translated_word": "正常",
+      "display_order": 1
+    },
+    {
+      "sentence": "Perhaps the natural state of the mind is not calm but restless, always seeking.",
+      "style": "Philosophical",
+      "translation": "也许心灵的自然状态并非平静，而是躁动不安，永远在寻觅。",
+      "translated_word": "自然",
+      "display_order": null
+    },
+    {
+      "sentence": "The river followed its natural course through the valley, unhurried and ancient.",
+      "style": "Poetic",
+      "translation": "河流沿着它天然的河道穿越山谷，从容不迫，亘古悠长。",
+      "translated_word": "天然",
+      "display_order": 4
+    },
+    {
+      "sentence": "Trust your natural instincts; they have guided humanity through millennia.",
+      "style": "Inspirational",
+      "translation": "相信你的本能，它们已引领人类走过千年岁月。",
+      "translated_word": "本能",
+      "display_order": 3
+    }
+  ]
+}

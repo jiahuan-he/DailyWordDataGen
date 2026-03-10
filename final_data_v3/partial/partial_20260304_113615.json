@@ -1,0 +1,62 @@
+{
+  "word": "partial",
+  "phonetic": "/ˈpɑːʃəl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "部分的；不完全的；偏袒的",
+  "examples": [
+    {
+      "sentence": "The company released a partial list of affected customers pending further investigation.",
+      "style": "Formal",
+      "translation": "公司在进一步调查期间发布了部分受影响客户的名单。",
+      "translated_word": "部分",
+      "display_order": null
+    },
+    {
+      "sentence": "A partial solution addresses only some aspects of a problem, leaving others unresolved.",
+      "style": "Definitional",
+      "translation": "部分解决方案只解决问题的某些方面，其余则悬而未决。",
+      "translated_word": "部分",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a complete overhaul, a partial renovation focuses on specific areas that need improvement.",
+      "style": "Contrastive",
+      "translation": "与全面翻新不同，部分改造只针对需要改进的特定区域。",
+      "translated_word": "部分",
+      "display_order": 1
+    },
+    {
+      "sentence": "The judge recused herself to avoid any appearance of being partial to the defendant.",
+      "style": "Collocational",
+      "translation": "法官主动回避，以免显得对被告有所偏袒。",
+      "translated_word": "偏袒",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every truth one holds is partial, shaped by the limits of experience and perspective.",
+      "style": "Philosophical",
+      "translation": "人所持有的每一个真理都是不完整的，受限于经验与视角。",
+      "translated_word": "不完整的",
+      "display_order": 3
+    },
+    {
+      "sentence": "The moon hung partial in the sky, a silver crescent cradling shadows.",
+      "style": "Poetic",
+      "translation": "残月悬于夜空，银色的弯钩怀抱着暗影。",
+      "translated_word": "残",
+      "display_order": null
+    },
+    {
+      "sentence": "Even partial progress is still progress; every small step moves you closer to your goal.",
+      "style": "Inspirational",
+      "translation": "即使是部分进展也是进展；每一小步都在拉近你与目标的距离。",
+      "translated_word": "部分",
+      "display_order": 4
+    }
+  ]
+}

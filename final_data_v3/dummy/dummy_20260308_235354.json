@@ -1,0 +1,61 @@
+{
+  "word": "dummy",
+  "phonetic": "/ˈdʌmi/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "人体模型；假人；仿制品；笨蛋",
+  "examples": [
+    {
+      "sentence": "The crash test dummy recorded critical data during the vehicle safety trial.",
+      "style": "Formal",
+      "translation": "碰撞测试假人在车辆安全试验中记录了关键数据。",
+      "translated_word": "假人",
+      "display_order": 2
+    },
+    {
+      "sentence": "A dummy is a life-sized model used for testing, display, or practice.",
+      "style": "Definitional",
+      "translation": "假人是一种用于测试、展示或练习的真人尺寸模型。",
+      "translated_word": "假人",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a mannequin for fashion, a ventriloquist's dummy is designed to move and speak.",
+      "style": "Contrastive",
+      "translation": "与时装模特不同，腹语表演者的木偶是用来活动和说话的。",
+      "translated_word": "木偶",
+      "display_order": null
+    },
+    {
+      "sentence": "The tailor pinned the fabric onto the dressmaker's dummy.",
+      "style": "Collocational",
+      "translation": "裁缝把布料别在了人台上。",
+      "translated_word": "人台",
+      "display_order": 4
+    },
+    {
+      "sentence": "Sometimes the dummy tells more truth than the ventriloquist dares to speak.",
+      "style": "Philosophical",
+      "translation": "有时木偶说出的真相比腹语师敢说的还要多。",
+      "translated_word": "木偶",
+      "display_order": 3
+    },
+    {
+      "sentence": "The dummy stood silent in the window, wearing yesterday's dreams.",
+      "style": "Poetic",
+      "translation": "橱窗里的人偶静静伫立，披着昨日的旧梦。",
+      "translated_word": "人偶",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every expert was once a dummy learning from mistakes.",
+      "style": "Inspirational",
+      "translation": "每个专家都曾是从错误中学习的新手。",
+      "translated_word": "新手",
+      "display_order": null
+    }
+  ]
+}

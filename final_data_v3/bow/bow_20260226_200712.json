@@ -1,0 +1,61 @@
+{
+  "word": "bow",
+  "phonetic": "/bəʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "鞠躬；弯腰；屈服",
+  "examples": [
+    {
+      "sentence": "The conductor turned to bow before the applauding audience.",
+      "style": "Formal",
+      "translation": "指挥转身向鼓掌的观众鞠躬致意。",
+      "translated_word": "鞠躬",
+      "display_order": 2
+    },
+    {
+      "sentence": "To bow is to bend the upper body forward as a gesture of respect.",
+      "style": "Definitional",
+      "translation": "鞠躬是将上身前倾，以示尊敬的一种姿态。",
+      "translated_word": "鞠躬",
+      "display_order": null
+    },
+    {
+      "sentence": "In Japan, people bow to greet each other; in the West, they shake hands.",
+      "style": "Contrastive",
+      "translation": "在日本，人们以鞠躬互相问候；而在西方，人们则握手致意。",
+      "translated_word": "鞠躬",
+      "display_order": 1
+    },
+    {
+      "sentence": "The knight knelt and bowed his head before the queen.",
+      "style": "Collocational",
+      "translation": "骑士跪下，向女王低头行礼。",
+      "translated_word": "低头",
+      "display_order": null
+    },
+    {
+      "sentence": "To bow before truth is not weakness; it is wisdom.",
+      "style": "Philosophical",
+      "translation": "向真理低头不是软弱，而是智慧。",
+      "translated_word": "低头",
+      "display_order": 4
+    },
+    {
+      "sentence": "The ancient trees bow in the wind, whispering secrets to the earth.",
+      "style": "Poetic",
+      "translation": "古树在风中弯腰，向大地低语着秘密。",
+      "translated_word": "弯腰",
+      "display_order": 3
+    },
+    {
+      "sentence": "Bow to the lessons of failure, and let them shape a stronger future.",
+      "style": "Inspirational",
+      "translation": "向失败的教训低头，让它们塑造更强大的未来。",
+      "translated_word": "低头",
+      "display_order": null
+    }
+  ]
+}

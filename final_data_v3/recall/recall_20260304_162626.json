@@ -1,0 +1,61 @@
+{
+  "word": "recall",
+  "phonetic": null,
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "回忆；召回；记起",
+  "examples": [
+    {
+      "sentence": "The automaker has recalled over two million vehicles due to a faulty braking system.",
+      "style": "Formal",
+      "translation": "该汽车制造商因刹车系统故障召回了超过两百万辆汽车。",
+      "translated_word": "召回",
+      "display_order": 3
+    },
+    {
+      "sentence": "To recall something means to bring a past experience or piece of information back to mind.",
+      "style": "Definitional",
+      "translation": "回忆某事意味着将过去的经历或信息重新带回脑海中。",
+      "translated_word": "回忆",
+      "display_order": null
+    },
+    {
+      "sentence": "While remembering happens naturally, recalling requires deliberate mental effort.",
+      "style": "Contrastive",
+      "translation": "记住是自然发生的，而回忆则需要刻意的心理努力。",
+      "translated_word": "回忆",
+      "display_order": 4
+    },
+    {
+      "sentence": "The witness struggled to recall the exact sequence of events.",
+      "style": "Collocational",
+      "translation": "证人难以回忆起事件发生的确切顺序。",
+      "translated_word": "回忆起",
+      "display_order": 1
+    },
+    {
+      "sentence": "What the mind cannot recall, the heart never truly forgets.",
+      "style": "Philosophical",
+      "translation": "头脑无法回忆起的，心灵从未真正忘却。",
+      "translated_word": "回忆起",
+      "display_order": null
+    },
+    {
+      "sentence": "She closed her eyes to recall the scent of summer rain on warm pavement.",
+      "style": "Poetic",
+      "translation": "她闭上双眼，回忆夏雨落在温暖路面上的气息。",
+      "translated_word": "回忆",
+      "display_order": 2
+    },
+    {
+      "sentence": "The ability to recall lessons from failure transforms setbacks into stepping stones.",
+      "style": "Inspirational",
+      "translation": "从失败中汲取教训的能力能将挫折化为前进的阶梯。",
+      "translated_word": "汲取",
+      "display_order": null
+    }
+  ]
+}

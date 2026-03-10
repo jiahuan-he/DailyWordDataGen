@@ -1,0 +1,61 @@
+{
+  "word": "abort",
+  "phonetic": "/əˈbɔːt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "中止；终止；放弃；流产",
+  "examples": [
+    {
+      "sentence": "The space agency decided to abort the rocket launch due to a technical malfunction.",
+      "style": "Formal",
+      "translation": "由于技术故障，航天局决定中止火箭发射。",
+      "translated_word": "中止",
+      "display_order": 1
+    },
+    {
+      "sentence": "To abort means to stop a process or plan before it is completed.",
+      "style": "Definitional",
+      "translation": "Abort的意思是在完成之前停止某个过程或计划。",
+      "translated_word": "Abort",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike pausing, which allows resumption, to abort means ending the task permanently.",
+      "style": "Contrastive",
+      "translation": "与暂停不同，暂停可以恢复，而中止则意味着永久结束任务。",
+      "translated_word": "中止",
+      "display_order": null
+    },
+    {
+      "sentence": "The pilot had no choice but to abort the landing at the last moment.",
+      "style": "Collocational",
+      "translation": "飞行员别无选择，只能在最后一刻放弃着陆。",
+      "translated_word": "放弃",
+      "display_order": 3
+    },
+    {
+      "sentence": "To abort a failing venture takes more wisdom than to cling to false hope.",
+      "style": "Philosophical",
+      "translation": "放弃一项失败的事业比抱着虚假的希望更需要智慧。",
+      "translated_word": "放弃",
+      "display_order": 2
+    },
+    {
+      "sentence": "The seed may abort in barren soil, yet life finds new ground to bloom.",
+      "style": "Poetic",
+      "translation": "种子或许在贫瘠的土壤中夭折，但生命总能找到新的土地绽放。",
+      "translated_word": "夭折",
+      "display_order": 4
+    },
+    {
+      "sentence": "Having the strength to abort a wrong direction opens the door to the right one.",
+      "style": "Inspirational",
+      "translation": "有勇气放弃错误的方向，才能打开通往正确道路的大门。",
+      "translated_word": "放弃",
+      "display_order": null
+    }
+  ]
+}

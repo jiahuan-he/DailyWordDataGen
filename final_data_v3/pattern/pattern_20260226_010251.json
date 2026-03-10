@@ -1,0 +1,61 @@
+{
+  "word": "pattern",
+  "phonetic": "/ˈpat(ə)n/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "图案；模式；样式；规律",
+  "examples": [
+    {
+      "sentence": "Researchers have identified a troubling pattern of declining biodiversity in coastal ecosystems.",
+      "style": "Formal",
+      "translation": "研究人员发现沿海生态系统的生物多样性呈现出令人担忧的下降趋势。",
+      "translated_word": "趋势",
+      "display_order": null
+    },
+    {
+      "sentence": "A pattern is a repeated design or a predictable sequence of events.",
+      "style": "Definitional",
+      "translation": "图案是重复出现的设计，或是可预测的事件序列。",
+      "translated_word": "图案",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a random occurrence, a pattern suggests an underlying order or structure.",
+      "style": "Contrastive",
+      "translation": "与随机事件不同，规律暗示着某种潜在的秩序或结构。",
+      "translated_word": "规律",
+      "display_order": 2
+    },
+    {
+      "sentence": "The fabric features a floral pattern that never goes out of style.",
+      "style": "Collocational",
+      "translation": "这块布料的花卉图案永不过时。",
+      "translated_word": "图案",
+      "display_order": 1
+    },
+    {
+      "sentence": "To see the pattern is to glimpse the hidden logic of the universe.",
+      "style": "Philosophical",
+      "translation": "看见规律，便是窥见宇宙隐藏的逻辑。",
+      "translated_word": "规律",
+      "display_order": null
+    },
+    {
+      "sentence": "Stars scattered across the night sky weave a pattern only dreamers can read.",
+      "style": "Poetic",
+      "translation": "繁星散落夜空，织成唯有梦想家才能读懂的图案。",
+      "translated_word": "图案",
+      "display_order": 4
+    },
+    {
+      "sentence": "Break the old pattern, and a new path will reveal itself.",
+      "style": "Inspirational",
+      "translation": "打破旧有的模式，新的道路自会显现。",
+      "translated_word": "模式",
+      "display_order": 3
+    }
+  ]
+}

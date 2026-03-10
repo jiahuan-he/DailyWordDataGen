@@ -1,0 +1,61 @@
+{
+  "word": "windy",
+  "phonetic": "/ˈwɪndi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "多风的；刮风的；风大的",
+  "examples": [
+    {
+      "sentence": "The city issued a weather advisory as windy conditions are expected to persist throughout the weekend.",
+      "style": "Formal",
+      "translation": "该市发布了天气预警，预计大风天气将持续整个周末。",
+      "translated_word": "大风",
+      "display_order": null
+    },
+    {
+      "sentence": "A windy day is marked by strong, continuous gusts of air.",
+      "style": "Definitional",
+      "translation": "大风天的特点是持续不断的强风。",
+      "translated_word": "大风",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike the calm morning, the afternoon turned windy and cold.",
+      "style": "Contrastive",
+      "translation": "与平静的早晨不同，下午变得风大且寒冷。",
+      "translated_word": "风大",
+      "display_order": 2
+    },
+    {
+      "sentence": "The windy weather made it nearly impossible to keep an umbrella open.",
+      "style": "Collocational",
+      "translation": "大风天气让雨伞几乎无法撑开。",
+      "translated_word": "大风",
+      "display_order": 1
+    },
+    {
+      "sentence": "A windy storm reveals which trees have deep roots; adversity reveals true character.",
+      "style": "Philosophical",
+      "translation": "狂风暴雨揭示哪些树根扎得深；逆境则揭示人的真正品格。",
+      "translated_word": "狂风",
+      "display_order": 4
+    },
+    {
+      "sentence": "The windy hilltop hummed with ancient songs as golden leaves spiraled toward the clouds.",
+      "style": "Poetic",
+      "translation": "风吹过的山顶哼唱着古老的歌谣，金黄的落叶盘旋着飞向云端。",
+      "translated_word": "风吹过的",
+      "display_order": 3
+    },
+    {
+      "sentence": "Even on the windiest days, a kite soars higher by facing the gusts head-on.",
+      "style": "Inspirational",
+      "translation": "即使在最大风的日子里，风筝也能迎风而上，飞得更高。",
+      "translated_word": "最大风的",
+      "display_order": null
+    }
+  ]
+}

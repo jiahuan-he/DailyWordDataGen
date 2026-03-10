@@ -1,0 +1,61 @@
+{
+  "word": "essential",
+  "phonetic": "/ɪˈsɛn.ʃəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "必要的；必不可少的；本质的",
+  "examples": [
+    {
+      "sentence": "Clean water and adequate sanitation remain essential for public health in developing regions.",
+      "style": "Formal",
+      "translation": "清洁的水源和完善的卫生设施对发展中地区的公共健康仍然至关重要。",
+      "translated_word": "至关重要",
+      "display_order": null
+    },
+    {
+      "sentence": "Something essential is so important that you cannot do without it.",
+      "style": "Definitional",
+      "translation": "必不可少的事物重要到无法缺少的程度。",
+      "translated_word": "必不可少",
+      "display_order": null
+    },
+    {
+      "sentence": "Exercise is helpful for weight loss, but diet is essential.",
+      "style": "Contrastive",
+      "translation": "运动有助于减肥，但饮食才是关键。",
+      "translated_word": "关键",
+      "display_order": 2
+    },
+    {
+      "sentence": "Sleep plays an essential role in memory consolidation.",
+      "style": "Collocational",
+      "translation": "睡眠在记忆巩固中起着至关重要的作用。",
+      "translated_word": "至关重要",
+      "display_order": 1
+    },
+    {
+      "sentence": "What seems essential today may prove trivial in the span of a lifetime.",
+      "style": "Philosophical",
+      "translation": "今日看似必不可少之物，在漫漫人生中或许微不足道。",
+      "translated_word": "必不可少",
+      "display_order": null
+    },
+    {
+      "sentence": "Light is essential to the flower as truth is to the soul.",
+      "style": "Poetic",
+      "translation": "光之于花，犹如真理之于灵魂，皆不可或缺。",
+      "translated_word": "不可或缺",
+      "display_order": 3
+    },
+    {
+      "sentence": "Focus on what is essential, and let go of the rest.",
+      "style": "Inspirational",
+      "translation": "专注于真正重要的事，放下其余一切。",
+      "translated_word": "重要",
+      "display_order": 4
+    }
+  ]
+}

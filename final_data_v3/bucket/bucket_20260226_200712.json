@@ -1,0 +1,61 @@
+{
+  "word": "bucket",
+  "phonetic": "/ˈbʌkɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "桶；大量；一桶的量",
+  "examples": [
+    {
+      "sentence": "The company invested buckets of capital into renewable energy projects this quarter.",
+      "style": "Formal",
+      "translation": "该公司本季度向可再生能源项目投入了大量资金。",
+      "translated_word": "大量",
+      "display_order": 3
+    },
+    {
+      "sentence": "A bucket is a cylindrical container with a handle, used for carrying liquids or materials.",
+      "style": "Definitional",
+      "translation": "桶是一种带把手的圆柱形容器，用于盛装液体或物料。",
+      "translated_word": "桶",
+      "display_order": 4
+    },
+    {
+      "sentence": "Unlike a pail, a bucket typically has a wider opening and sturdier construction.",
+      "style": "Contrastive",
+      "translation": "与小桶不同，桶通常开口更宽、结构更坚固。",
+      "translated_word": "桶",
+      "display_order": null
+    },
+    {
+      "sentence": "She grabbed a bucket of ice from the kitchen before the guests arrived.",
+      "style": "Collocational",
+      "translation": "客人到来之前，她从厨房拿了一桶冰块。",
+      "translated_word": "桶",
+      "display_order": 1
+    },
+    {
+      "sentence": "Life hands everyone the same empty bucket; what matters is how it gets filled.",
+      "style": "Philosophical",
+      "translation": "生活给每个人同样的空桶，重要的是如何将它填满。",
+      "translated_word": "桶",
+      "display_order": null
+    },
+    {
+      "sentence": "The old bucket by the well held secrets of a thousand summer rains.",
+      "style": "Poetic",
+      "translation": "井边的旧桶承载着千场夏雨的秘密。",
+      "translated_word": "桶",
+      "display_order": 2
+    },
+    {
+      "sentence": "Add one goal at a time to the bucket list, and watch dreams become reality.",
+      "style": "Inspirational",
+      "translation": "一次往愿望清单上添加一个目标，看着梦想变成现实。",
+      "translated_word": "清单",
+      "display_order": null
+    }
+  ]
+}

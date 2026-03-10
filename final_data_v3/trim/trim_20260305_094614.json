@@ -1,0 +1,63 @@
+{
+  "word": "trim",
+  "phonetic": "/tɹɪm/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "修剪；削减；装饰",
+  "examples": [
+    {
+      "sentence": "The company plans to trim its workforce by 15% to reduce costs.",
+      "style": "Formal",
+      "translation": "该公司计划裁员15%以削减成本。",
+      "translated_word": "裁",
+      "display_order": null
+    },
+    {
+      "sentence": "To trim means to cut away the unwanted or excess parts of something.",
+      "style": "Definitional",
+      "translation": "trim是指切除某物多余或不需要的部分。",
+      "translated_word": "切除",
+      "display_order": null
+    },
+    {
+      "sentence": "Rather than eliminating the program entirely, the board chose to trim its budget.",
+      "style": "Contrastive",
+      "translation": "董事会没有完全取消该项目，而是选择削减预算。",
+      "translated_word": "削减",
+      "display_order": 2
+    },
+    {
+      "sentence": "The gardener trims the hedges every spring to keep them neat.",
+      "style": "Collocational",
+      "translation": "园丁每年春天都会修剪树篱，保持整洁。",
+      "translated_word": "修剪",
+      "display_order": 1
+    },
+    {
+      "sentence": "To trim the unnecessary from life is to make room for what truly matters.",
+      "style": "Philosophical",
+      "translation": "删繁就简，方能为真正重要之事腾出空间。",
+      "translated_word": "删",
+      "display_order": 3
+    },
+    {
+      "sentence": "Autumn winds trim the branches bare, leaving only the skeleton of what once flourished.",
+      "style": "Poetic",
+      "translation": "秋风扫尽繁枝，只留下曾经繁盛的枯骨。",
+      "translated_word": "扫",
+      "display_order": null
+    },
+    {
+      "sentence": "Trim the distractions from your day, and watch your focus sharpen.",
+      "style": "Inspirational",
+      "translation": "剔除日常中的干扰，专注力自然会提升。",
+      "translated_word": "剔除",
+      "display_order": 4
+    }
+  ]
+}

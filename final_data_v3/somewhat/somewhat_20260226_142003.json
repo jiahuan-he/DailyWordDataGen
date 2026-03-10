@@ -1,0 +1,62 @@
+{
+  "word": "somewhat",
+  "phonetic": "/ˈsʌmwɒt/",
+  "pos": [
+    "adverb",
+    "noun",
+    "pronoun"
+  ],
+  "selected_pos": "adverb",
+  "definition": "有点；稍微；一定程度上",
+  "examples": [
+    {
+      "sentence": "The committee found the proposal somewhat lacking in detail.",
+      "style": "Formal",
+      "translation": "委员会认为该提案在细节上略有不足。",
+      "translated_word": "略有",
+      "display_order": null
+    },
+    {
+      "sentence": "To be somewhat means to be partially true or moderately so.",
+      "style": "Definitional",
+      "translation": "somewhat表示部分属实或程度适中。",
+      "translated_word": "部分",
+      "display_order": null
+    },
+    {
+      "sentence": "The task was not impossible, but somewhat more difficult than expected.",
+      "style": "Contrastive",
+      "translation": "这项任务并非不可能，只是比预期的稍难一些。",
+      "translated_word": "稍",
+      "display_order": 2
+    },
+    {
+      "sentence": "The news came as somewhat of a surprise to everyone.",
+      "style": "Collocational",
+      "translation": "这个消息让所有人都有些意外。",
+      "translated_word": "有些",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every truth is somewhat incomplete, shaped by the limits of perception.",
+      "style": "Philosophical",
+      "translation": "每个真理都有些不完整，受限于认知的边界。",
+      "translated_word": "有些",
+      "display_order": null
+    },
+    {
+      "sentence": "The garden stood somewhat withered, waiting for spring's gentle return.",
+      "style": "Poetic",
+      "translation": "花园略显枯萎，静候春天温柔归来。",
+      "translated_word": "略显",
+      "display_order": 3
+    },
+    {
+      "sentence": "Feeling somewhat uncertain is natural; growth begins at the edge of comfort.",
+      "style": "Inspirational",
+      "translation": "感到有些不确定是正常的，成长始于舒适区的边缘。",
+      "translated_word": "有些",
+      "display_order": 4
+    }
+  ]
+}

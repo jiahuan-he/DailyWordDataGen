@@ -1,0 +1,61 @@
+{
+  "word": "default",
+  "phonetic": "/dɪˈfɔːlt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "默认值；默认设置；违约",
+  "examples": [
+    {
+      "sentence": "The system will revert to factory default if the update fails.",
+      "style": "Formal",
+      "translation": "如果更新失败，系统将恢复出厂默认设置。",
+      "translated_word": "默认设置",
+      "display_order": null
+    },
+    {
+      "sentence": "A default is the preset option used when no other choice is made.",
+      "style": "Definitional",
+      "translation": "默认值是在没有做出其他选择时使用的预设选项。",
+      "translated_word": "默认值",
+      "display_order": 1
+    },
+    {
+      "sentence": "Unlike a custom setting, a default applies universally to all users.",
+      "style": "Contrastive",
+      "translation": "与自定义设置不同，默认设置适用于所有用户。",
+      "translated_word": "默认设置",
+      "display_order": 3
+    },
+    {
+      "sentence": "The browser's default homepage can be changed in the settings menu.",
+      "style": "Collocational",
+      "translation": "浏览器的默认主页可以在设置菜单中更改。",
+      "translated_word": "默认",
+      "display_order": 2
+    },
+    {
+      "sentence": "Living on default means accepting the world as given rather than as chosen.",
+      "style": "Philosophical",
+      "translation": "按默认方式生活，意味着接受既定的世界，而非主动选择。",
+      "translated_word": "默认",
+      "display_order": null
+    },
+    {
+      "sentence": "The default of silence speaks louder than any chosen word.",
+      "style": "Poetic",
+      "translation": "沉默这一默认状态，比任何刻意的言语都更有力。",
+      "translated_word": "默认状态",
+      "display_order": null
+    },
+    {
+      "sentence": "Change the default; design your own path instead of walking someone else's.",
+      "style": "Inspirational",
+      "translation": "改变默认设置，设计自己的道路，而不是走别人铺好的路。",
+      "translated_word": "默认设置",
+      "display_order": 4
+    }
+  ]
+}

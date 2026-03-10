@@ -1,0 +1,62 @@
+{
+  "word": "weather",
+  "phonetic": "/ˈwɛðə/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "天气；气象；气候状况",
+  "examples": [
+    {
+      "sentence": "The weather forecast predicts heavy rainfall across the northern regions this weekend.",
+      "style": "Formal",
+      "translation": "天气预报显示，本周末北部地区将有大范围降雨。",
+      "translated_word": "天气",
+      "display_order": 4
+    },
+    {
+      "sentence": "Weather refers to the atmospheric conditions at a specific time and place, including temperature, humidity, and precipitation.",
+      "style": "Definitional",
+      "translation": "天气是指特定时间和地点的大气状况，包括温度、湿度和降水。",
+      "translated_word": "天气",
+      "display_order": null
+    },
+    {
+      "sentence": "While climate describes long-term patterns, weather changes from day to day.",
+      "style": "Contrastive",
+      "translation": "气候描述的是长期规律，而天气则每天都在变化。",
+      "translated_word": "天气",
+      "display_order": 1
+    },
+    {
+      "sentence": "The severe weather forced all flights to be delayed by several hours.",
+      "style": "Collocational",
+      "translation": "恶劣天气导致所有航班延误了数小时。",
+      "translated_word": "天气",
+      "display_order": 2
+    },
+    {
+      "sentence": "Like the weather, human emotions shift without warning; both remind us that nothing stays the same.",
+      "style": "Philosophical",
+      "translation": "人的情绪如同天气，变幻无常；两者都在提醒我们：万物皆流转。",
+      "translated_word": "天气",
+      "display_order": 3
+    },
+    {
+      "sentence": "The weather wore a cloak of silver mist, draping the hills in quiet mystery.",
+      "style": "Poetic",
+      "translation": "天气披上银色薄雾的外衣，为群山笼上一层静谧的神秘。",
+      "translated_word": "天气",
+      "display_order": null
+    },
+    {
+      "sentence": "No matter the weather outside, the right mindset can turn any storm into an opportunity.",
+      "style": "Inspirational",
+      "translation": "无论外面天气如何，正确的心态能将任何风暴化为机遇。",
+      "translated_word": "天气",
+      "display_order": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "trigger",
+  "phonetic": "/ˈtɹɪɡə/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "触发；引发；激起",
+  "examples": [
+    {
+      "sentence": "The announcement triggered widespread protests across the nation.",
+      "style": "Formal",
+      "translation": "这一公告在全国范围内引发了大规模抗议。",
+      "translated_word": "引发",
+      "display_order": null
+    },
+    {
+      "sentence": "To trigger means to cause something to start or happen suddenly.",
+      "style": "Definitional",
+      "translation": "trigger指的是使某事突然开始或发生。",
+      "translated_word": "trigger",
+      "display_order": null
+    },
+    {
+      "sentence": "While stress can trigger illness, relaxation can prevent it.",
+      "style": "Contrastive",
+      "translation": "压力会引发疾病，而放松则能预防疾病。",
+      "translated_word": "引发",
+      "display_order": 3
+    },
+    {
+      "sentence": "Certain foods can trigger allergic reactions in sensitive individuals.",
+      "style": "Collocational",
+      "translation": "某些食物会在敏感人群中引发过敏反应。",
+      "translated_word": "引发",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every action triggers a chain of consequences beyond what the eye can see.",
+      "style": "Philosophical",
+      "translation": "每一个行动都会触发一连串肉眼看不见的后果。",
+      "translated_word": "触发",
+      "display_order": 4
+    },
+    {
+      "sentence": "A single raindrop triggered the flood, as one spark ignites the flame.",
+      "style": "Poetic",
+      "translation": "一滴雨触发了洪水，正如一点火星点燃了火焰。",
+      "translated_word": "触发",
+      "display_order": null
+    },
+    {
+      "sentence": "Let curiosity trigger the pursuit of knowledge, not fear of failure.",
+      "style": "Inspirational",
+      "translation": "让好奇心而非对失败的恐惧来激发求知的热情。",
+      "translated_word": "激发",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "word": "calculate",
+  "phonetic": "/ˈkælkjəleɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "计算；估算；推算",
+  "examples": [
+    {
+      "sentence": "The research team calculated the economic impact of the new policy at approximately $2.3 billion.",
+      "style": "Formal",
+      "translation": "研究团队估算这项新政策的经济影响约为23亿美元。",
+      "translated_word": "估算",
+      "display_order": 2
+    },
+    {
+      "sentence": "To calculate means to determine a number or amount through mathematical operations.",
+      "style": "Definitional",
+      "translation": "Calculate指的是通过数学运算来确定某个数字或数量。",
+      "translated_word": "Calculate",
+      "display_order": null
+    },
+    {
+      "sentence": "While guessing relies on intuition, calculating depends on logic and precision.",
+      "style": "Contrastive",
+      "translation": "猜测依赖直觉，而计算则依靠逻辑与精确。",
+      "translated_word": "计算",
+      "display_order": 1
+    },
+    {
+      "sentence": "Engineers must carefully calculate the risk before approving any structural design.",
+      "style": "Collocational",
+      "translation": "工程师必须在批准任何结构设计之前仔细评估风险。",
+      "translated_word": "评估",
+      "display_order": 4
+    },
+    {
+      "sentence": "Some things in life cannot be calculated: love, loss, and the weight of time.",
+      "style": "Philosophical",
+      "translation": "生命中有些事无法计算：爱、失去，以及时间的分量。",
+      "translated_word": "计算",
+      "display_order": 3
+    },
+    {
+      "sentence": "The stars calculate their ancient paths across the velvet dark of night.",
+      "style": "Poetic",
+      "translation": "星辰在夜的天鹅绒般的黑暗中计算着它们古老的轨迹。",
+      "translated_word": "计算",
+      "display_order": null
+    },
+    {
+      "sentence": "Calculate your next step wisely, for every small decision shapes the person you become.",
+      "style": "Inspirational",
+      "translation": "明智地计划你的下一步，因为每个小决定都在塑造未来的你。",
+      "translated_word": "计划",
+      "display_order": null
+    }
+  ]
+}

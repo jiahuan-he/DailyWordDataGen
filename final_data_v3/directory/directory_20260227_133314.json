@@ -1,0 +1,61 @@
+{
+  "word": "directory",
+  "phonetic": "/daɪˈɹɛktəɹi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "目录；名录；文件夹",
+  "examples": [
+    {
+      "sentence": "The company published an updated employee directory on the intranet.",
+      "style": "Formal",
+      "translation": "公司在内部网上发布了更新后的员工名录。",
+      "translated_word": "名录",
+      "display_order": 2
+    },
+    {
+      "sentence": "A directory is a listing of names, addresses, or other information organized for easy reference.",
+      "style": "Definitional",
+      "translation": "目录是为便于查阅而整理的姓名、地址或其他信息的列表。",
+      "translated_word": "目录",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a random list, a directory organizes entries alphabetically or by category.",
+      "style": "Contrastive",
+      "translation": "与随机列表不同，目录按字母顺序或类别整理条目。",
+      "translated_word": "目录",
+      "display_order": 4
+    },
+    {
+      "sentence": "The phone directory contains thousands of local business listings.",
+      "style": "Collocational",
+      "translation": "电话簿包含数千条本地商家信息。",
+      "translated_word": "电话簿",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every directory reflects someone's decision about what deserves to be found.",
+      "style": "Philosophical",
+      "translation": "每一份目录都反映了某人对什么值得被找到的判断。",
+      "translated_word": "目录",
+      "display_order": 3
+    },
+    {
+      "sentence": "The old directory sat on the shelf like a forgotten map to voices long silent.",
+      "style": "Poetic",
+      "translation": "那本旧目录静静躺在书架上，像一张被遗忘的地图，通往早已沉寂的声音。",
+      "translated_word": "目录",
+      "display_order": null
+    },
+    {
+      "sentence": "Build your own directory of mentors and allies; connections open doors.",
+      "style": "Inspirational",
+      "translation": "建立自己的导师和盟友名录；人脉能打开机遇之门。",
+      "translated_word": "名录",
+      "display_order": null
+    }
+  ]
+}

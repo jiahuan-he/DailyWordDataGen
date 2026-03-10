@@ -1,0 +1,61 @@
+{
+  "word": "evidence",
+  "phonetic": "[ˈɛvəɾəns]",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "证据；证明；迹象",
+  "examples": [
+    {
+      "sentence": "The prosecution presented compelling evidence linking the suspect to the crime scene.",
+      "style": "Formal",
+      "translation": "检方出示了将嫌疑人与犯罪现场联系起来的有力证据。",
+      "translated_word": "证据",
+      "display_order": null
+    },
+    {
+      "sentence": "Evidence is information or objects that help prove whether something is true or false.",
+      "style": "Definitional",
+      "translation": "证据是帮助证明某事真假的信息或物品。",
+      "translated_word": "证据",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike speculation, evidence provides concrete support for a claim.",
+      "style": "Contrastive",
+      "translation": "与推测不同，证据为论点提供了具体的支撑。",
+      "translated_word": "证据",
+      "display_order": 2
+    },
+    {
+      "sentence": "The detective gathered evidence at the scene before the rain washed it away.",
+      "style": "Collocational",
+      "translation": "侦探在雨水冲刷之前收集了现场的证据。",
+      "translated_word": "证据",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sometimes the absence of evidence speaks louder than its presence.",
+      "style": "Philosophical",
+      "translation": "有时候，证据的缺失比它的存在更能说明问题。",
+      "translated_word": "证据",
+      "display_order": null
+    },
+    {
+      "sentence": "The falling leaves are evidence of time's quiet passage through the world.",
+      "style": "Poetic",
+      "translation": "飘落的树叶是时光悄然流逝的印证。",
+      "translated_word": "印证",
+      "display_order": 1
+    },
+    {
+      "sentence": "Let your actions be the evidence of your commitment, not just your words.",
+      "style": "Inspirational",
+      "translation": "让行动成为你承诺的证明，而不仅仅是言语。",
+      "translated_word": "证明",
+      "display_order": 4
+    }
+  ]
+}

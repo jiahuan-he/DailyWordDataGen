@@ -1,0 +1,61 @@
+{
+  "word": "attack",
+  "phonetic": "/əˈtæk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "攻击；袭击；抨击",
+  "examples": [
+    {
+      "sentence": "Hackers attacked the company's servers, compromising millions of user accounts.",
+      "style": "Formal",
+      "translation": "黑客攻击了该公司的服务器，导致数百万用户账户泄露。",
+      "translated_word": "攻击",
+      "display_order": 3
+    },
+    {
+      "sentence": "To attack means to act aggressively against someone or something with intent to harm.",
+      "style": "Definitional",
+      "translation": "攻击是指带着伤害意图对某人或某物采取侵犯性行动。",
+      "translated_word": "攻击",
+      "display_order": null
+    },
+    {
+      "sentence": "While critics attack the policy openly, supporters defend it in silence.",
+      "style": "Contrastive",
+      "translation": "批评者公开抨击这项政策，而支持者却默默为其辩护。",
+      "translated_word": "抨击",
+      "display_order": 2
+    },
+    {
+      "sentence": "The immune system attacks foreign bacteria that enter the body.",
+      "style": "Collocational",
+      "translation": "免疫系统会攻击进入体内的外来细菌。",
+      "translated_word": "攻击",
+      "display_order": 1
+    },
+    {
+      "sentence": "Those who attack what they do not understand often fear what they cannot control.",
+      "style": "Philosophical",
+      "translation": "攻击自己不理解之事的人，往往惧怕自己无法掌控之物。",
+      "translated_word": "攻击",
+      "display_order": null
+    },
+    {
+      "sentence": "Dawn attacked the darkness, spilling gold across the sleeping hills.",
+      "style": "Poetic",
+      "translation": "黎明冲破黑暗，将金色洒满沉睡的山峦。",
+      "translated_word": "冲破",
+      "display_order": null
+    },
+    {
+      "sentence": "Attack each challenge with courage, and even failure becomes a stepping stone.",
+      "style": "Inspirational",
+      "translation": "勇敢地迎击每一个挑战，即便失败也会成为垫脚石。",
+      "translated_word": "迎击",
+      "display_order": 4
+    }
+  ]
+}

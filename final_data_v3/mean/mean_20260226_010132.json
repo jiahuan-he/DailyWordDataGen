@@ -1,0 +1,62 @@
+{
+  "word": "mean",
+  "phonetic": "/miːn/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "意味着；意思是；打算",
+  "examples": [
+    {
+      "sentence": "The new regulations mean stricter penalties for violations.",
+      "style": "Formal",
+      "translation": "新规定意味着违规将受到更严厉的处罚。",
+      "translated_word": "意味着",
+      "display_order": 3
+    },
+    {
+      "sentence": "To mean something is to intend or signify a particular idea.",
+      "style": "Definitional",
+      "translation": "mean的意思是意图表达或代表某种特定含义。",
+      "translated_word": "意思",
+      "display_order": null
+    },
+    {
+      "sentence": "Saying sorry doesn't always mean feeling regret; sometimes it just means being polite.",
+      "style": "Contrastive",
+      "translation": "道歉并不总是意味着感到后悔；有时只是出于礼貌。",
+      "translated_word": "意味着",
+      "display_order": 2
+    },
+    {
+      "sentence": "What do you mean by that remark?",
+      "style": "Collocational",
+      "translation": "你那句话是什么意思？",
+      "translated_word": "意思",
+      "display_order": 1
+    },
+    {
+      "sentence": "To mean well yet cause harm reveals the gap between intention and impact.",
+      "style": "Philosophical",
+      "translation": "出于好意却造成伤害，揭示了意图与结果之间的鸿沟。",
+      "translated_word": "出于好意",
+      "display_order": 4
+    },
+    {
+      "sentence": "The silence meant more than words ever could, speaking volumes in the stillness.",
+      "style": "Poetic",
+      "translation": "那沉默比言语更有分量，在静谧中诉说着千言万语。",
+      "translated_word": "有分量",
+      "display_order": null
+    },
+    {
+      "sentence": "Let your actions mean something; live with purpose and intention.",
+      "style": "Inspirational",
+      "translation": "让你的行动有意义；带着目标和决心去生活。",
+      "translated_word": "有意义",
+      "display_order": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "school",
+  "phonetic": "/skuːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "学校；学派；鱼群",
+  "examples": [
+    {
+      "sentence": "The school announced new policies to improve student mental health services.",
+      "style": "Formal",
+      "translation": "该校宣布了改善学生心理健康服务的新政策。",
+      "translated_word": "校",
+      "display_order": null
+    },
+    {
+      "sentence": "A school is an institution where children receive education and develop social skills.",
+      "style": "Definitional",
+      "translation": "学校是儿童接受教育、培养社交能力的机构。",
+      "translated_word": "学校",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike online courses, a traditional school offers face-to-face interaction with teachers and peers.",
+      "style": "Contrastive",
+      "translation": "与网络课程不同，传统学校提供与师生面对面交流的机会。",
+      "translated_word": "学校",
+      "display_order": 3
+    },
+    {
+      "sentence": "The school of thought emphasizes practical learning over theoretical knowledge.",
+      "style": "Collocational",
+      "translation": "这一学派强调实践学习而非理论知识。",
+      "translated_word": "学派",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every school, in its truest form, is a place where minds learn to question the world.",
+      "style": "Philosophical",
+      "translation": "学校的本质，是让心灵学会质疑世界的地方。",
+      "translated_word": "学校",
+      "display_order": 4
+    },
+    {
+      "sentence": "A school of silver fish danced through the sunlit waters like scattered dreams.",
+      "style": "Poetic",
+      "translation": "一群银色的鱼在阳光穿透的水中游弋，如同飘散的梦。",
+      "translated_word": "群",
+      "display_order": 1
+    },
+    {
+      "sentence": "The right school can open doors that change the trajectory of a lifetime.",
+      "style": "Inspirational",
+      "translation": "选对学校，能打开改变一生轨迹的大门。",
+      "translated_word": "学校",
+      "display_order": null
+    }
+  ]
+}

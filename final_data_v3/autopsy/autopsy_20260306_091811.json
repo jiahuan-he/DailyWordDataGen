@@ -1,0 +1,61 @@
+{
+  "word": "autopsy",
+  "phonetic": "/ˈɔːtɒpsiː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "尸检；验尸；死后剖检",
+  "examples": [
+    {
+      "sentence": "The autopsy revealed that the victim had been poisoned before the fire started.",
+      "style": "Formal",
+      "translation": "尸检结果显示，受害者在火灾发生前就已中毒。",
+      "translated_word": "尸检",
+      "display_order": null
+    },
+    {
+      "sentence": "An autopsy is a medical examination of a dead body to determine the cause of death.",
+      "style": "Definitional",
+      "translation": "尸检是对死者遗体进行的医学检查，用以确定死因。",
+      "translated_word": "尸检",
+      "display_order": 4
+    },
+    {
+      "sentence": "Unlike a biopsy, which examines living tissue, an autopsy is performed only after death.",
+      "style": "Contrastive",
+      "translation": "活检是检查活体组织，而尸检只能在死后进行。",
+      "translated_word": "尸检",
+      "display_order": 1
+    },
+    {
+      "sentence": "The coroner ordered a full autopsy to rule out foul play.",
+      "style": "Collocational",
+      "translation": "验尸官下令进行全面尸检，以排除谋杀嫌疑。",
+      "translated_word": "尸检",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every autopsy asks the same question: what silent story does the body tell when words no longer can?",
+      "style": "Philosophical",
+      "translation": "每一次尸检都在追问同一个问题：当言语已无力诉说，身体还能讲述怎样的无声故事？",
+      "translated_word": "尸检",
+      "display_order": null
+    },
+    {
+      "sentence": "The autopsy table holds secrets written in bone and blood, a final verse the living cannot speak.",
+      "style": "Poetic",
+      "translation": "尸检台上藏着骨与血书写的秘密，那是生者无法言说的最后诗篇。",
+      "translated_word": "尸检",
+      "display_order": null
+    },
+    {
+      "sentence": "An autopsy honors the dead by giving answers to those left behind.",
+      "style": "Inspirational",
+      "translation": "尸检是对逝者的尊重，为生者留下答案。",
+      "translated_word": "尸检",
+      "display_order": 3
+    }
+  ]
+}

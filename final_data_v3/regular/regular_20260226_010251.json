@@ -1,0 +1,62 @@
+{
+  "word": "regular",
+  "phonetic": "/ˈɹɛɡjʊlə/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "规律的；定期的；正常的",
+  "examples": [
+    {
+      "sentence": "The committee holds regular meetings on the first Monday of each month.",
+      "style": "Formal",
+      "translation": "委员会每月第一个周一定期召开会议。",
+      "translated_word": "定期",
+      "display_order": 4
+    },
+    {
+      "sentence": "A regular schedule means something happens at consistent, predictable intervals.",
+      "style": "Definitional",
+      "translation": "规律的日程意味着事情在固定、可预期的时间间隔发生。",
+      "translated_word": "规律的",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike sporadic visits, regular checkups help detect health issues early.",
+      "style": "Contrastive",
+      "translation": "与偶尔就医不同，定期检查有助于早期发现健康问题。",
+      "translated_word": "定期",
+      "display_order": 2
+    },
+    {
+      "sentence": "Maintaining a regular sleep pattern improves overall well-being.",
+      "style": "Collocational",
+      "translation": "保持规律的睡眠模式能改善整体健康状况。",
+      "translated_word": "规律的",
+      "display_order": 1
+    },
+    {
+      "sentence": "The regular rhythm of the tides reminds us that nature thrives on order.",
+      "style": "Philosophical",
+      "translation": "潮汐的规律节奏提醒着人们：自然因秩序而生生不息。",
+      "translated_word": "规律",
+      "display_order": 3
+    },
+    {
+      "sentence": "The regular beat of rain on the roof became a lullaby for the sleeping child.",
+      "style": "Poetic",
+      "translation": "雨点有节奏地敲打着屋顶，化作熟睡孩子的摇篮曲。",
+      "translated_word": "有节奏地",
+      "display_order": null
+    },
+    {
+      "sentence": "Small, regular steps forward will carry you farther than occasional giant leaps.",
+      "style": "Inspirational",
+      "translation": "持之以恒的小步前进，比偶尔的大跨步走得更远。",
+      "translated_word": "持之以恒的",
+      "display_order": null
+    }
+  ]
+}

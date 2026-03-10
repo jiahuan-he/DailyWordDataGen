@@ -1,0 +1,61 @@
+{
+  "word": "circuit",
+  "phonetic": "[ˈsəɾ.kɪʈ]",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "电路；巡回；环形路线",
+  "examples": [
+    {
+      "sentence": "The court will begin its annual circuit through rural districts next month.",
+      "style": "Formal",
+      "translation": "法院将于下月开始其一年一度的乡村地区巡回审判。",
+      "translated_word": "巡回审判",
+      "display_order": 3
+    },
+    {
+      "sentence": "A circuit is a complete path through which electricity can flow.",
+      "style": "Definitional",
+      "translation": "电路是电流能够流通的完整路径。",
+      "translated_word": "电路",
+      "display_order": 1
+    },
+    {
+      "sentence": "Unlike a single wire, a circuit requires both an outgoing and return path for current.",
+      "style": "Contrastive",
+      "translation": "与单根导线不同，电路需要电流的去路和回路。",
+      "translated_word": "电路",
+      "display_order": null
+    },
+    {
+      "sentence": "The athlete completed the circuit in record time.",
+      "style": "Collocational",
+      "translation": "那位运动员以破纪录的时间完成了环形赛道。",
+      "translated_word": "环形赛道",
+      "display_order": 2
+    },
+    {
+      "sentence": "Life often brings people full circuit, back to where they began.",
+      "style": "Philosophical",
+      "translation": "生命常常让人兜兜转转，回到起点。",
+      "translated_word": "兜兜转转",
+      "display_order": null
+    },
+    {
+      "sentence": "The swallows trace their ancient circuit beneath a rose-gold sky.",
+      "style": "Poetic",
+      "translation": "燕子在玫瑰金色的天空下循着亘古的轨迹飞翔。",
+      "translated_word": "轨迹",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every setback is part of the circuit that leads to eventual success.",
+      "style": "Inspirational",
+      "translation": "每一次挫折都是通往最终成功的必经之路。",
+      "translated_word": "必经之路",
+      "display_order": null
+    }
+  ]
+}

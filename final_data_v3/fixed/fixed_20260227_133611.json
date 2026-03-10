@@ -1,0 +1,61 @@
+{
+  "word": "fixed",
+  "phonetic": "/fɪkst/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "固定的；不变的；确定的",
+  "examples": [
+    {
+      "sentence": "The company announced a fixed salary structure for all entry-level positions.",
+      "style": "Formal",
+      "translation": "公司宣布了所有初级职位的固定薪资结构。",
+      "translated_word": "固定",
+      "display_order": null
+    },
+    {
+      "sentence": "A fixed rate means the interest stays the same throughout the loan period.",
+      "style": "Definitional",
+      "translation": "固定利率意味着整个贷款期间利息保持不变。",
+      "translated_word": "固定",
+      "display_order": 2
+    },
+    {
+      "sentence": "Unlike flexible schedules, fixed hours require employees to arrive and leave at set times.",
+      "style": "Contrastive",
+      "translation": "与弹性工作制不同，固定工时要求员工在规定时间上下班。",
+      "translated_word": "固定",
+      "display_order": 1
+    },
+    {
+      "sentence": "The restaurant offers a fixed menu for weekend brunch.",
+      "style": "Collocational",
+      "translation": "这家餐厅在周末早午餐时段提供固定菜单。",
+      "translated_word": "固定",
+      "display_order": null
+    },
+    {
+      "sentence": "In a world of constant change, the search for something fixed reveals the human need for certainty.",
+      "style": "Philosophical",
+      "translation": "在不断变化的世界里，对固定事物的追寻揭示了人类对确定性的渴望。",
+      "translated_word": "固定",
+      "display_order": 3
+    },
+    {
+      "sentence": "The lighthouse stands fixed against the raging storm, a silent sentinel of the shore.",
+      "style": "Poetic",
+      "translation": "灯塔在狂风暴雨中岿然不动，是海岸无声的守望者。",
+      "translated_word": "岿然不动",
+      "display_order": null
+    },
+    {
+      "sentence": "Keep your eyes fixed on the goal, and the obstacles will seem smaller.",
+      "style": "Inspirational",
+      "translation": "目光紧盯目标，障碍便会显得渺小。",
+      "translated_word": "紧盯",
+      "display_order": 4
+    }
+  ]
+}

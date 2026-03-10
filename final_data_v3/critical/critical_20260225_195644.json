@@ -1,0 +1,61 @@
+{
+  "word": "critical",
+  "phonetic": "/ˈkɹɪtɪkəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "批评的；关键的；危急的",
+  "examples": [
+    {
+      "sentence": "The report offered a critical analysis of the government's economic policies.",
+      "style": "Formal",
+      "translation": "该报告对政府的经济政策进行了批判性分析。",
+      "translated_word": "批判性",
+      "display_order": 2
+    },
+    {
+      "sentence": "Something critical is extremely important or essential to a situation's outcome.",
+      "style": "Definitional",
+      "translation": "关键的事物对结果至关重要，不可或缺。",
+      "translated_word": "关键的",
+      "display_order": null
+    },
+    {
+      "sentence": "Being critical differs from being negative; the former seeks improvement, while the latter only finds fault.",
+      "style": "Contrastive",
+      "translation": "批判与消极不同：前者寻求改进，后者只会挑刺。",
+      "translated_word": "批判",
+      "display_order": null
+    },
+    {
+      "sentence": "The patient remains in critical condition after the surgery.",
+      "style": "Collocational",
+      "translation": "手术后，病人仍处于危急状态。",
+      "translated_word": "危急",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every critical moment shapes who a person becomes.",
+      "style": "Philosophical",
+      "translation": "每一个关键时刻都塑造着一个人的未来。",
+      "translated_word": "关键",
+      "display_order": 3
+    },
+    {
+      "sentence": "At the critical hour, silence speaks louder than words.",
+      "style": "Poetic",
+      "translation": "在紧要关头，沉默胜过千言万语。",
+      "translated_word": "紧要",
+      "display_order": null
+    },
+    {
+      "sentence": "Your critical eye is a gift; use it to build, not to break.",
+      "style": "Inspirational",
+      "translation": "你的批判眼光是一种天赋，用它来建设，而非破坏。",
+      "translated_word": "批判",
+      "display_order": 4
+    }
+  ]
+}

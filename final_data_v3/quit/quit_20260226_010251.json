@@ -1,0 +1,62 @@
+{
+  "word": "quit",
+  "phonetic": "/kwɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "辞职；放弃；停止",
+  "examples": [
+    {
+      "sentence": "The CEO announced plans to quit after a decade of leadership.",
+      "style": "Formal",
+      "translation": "这位首席执行官宣布将在执掌公司十年后辞职。",
+      "translated_word": "辞职",
+      "display_order": 2
+    },
+    {
+      "sentence": "To quit means to stop doing something or to leave a position.",
+      "style": "Definitional",
+      "translation": "Quit的意思是停止做某事或离开某个职位。",
+      "translated_word": "停止",
+      "display_order": null
+    },
+    {
+      "sentence": "Some people quit when things get hard, while others push through.",
+      "style": "Contrastive",
+      "translation": "有些人遇到困难就放弃，而有些人则会坚持到底。",
+      "translated_word": "放弃",
+      "display_order": 4
+    },
+    {
+      "sentence": "He finally decided to quit smoking for good.",
+      "style": "Collocational",
+      "translation": "他终于决定彻底戒烟。",
+      "translated_word": "戒",
+      "display_order": 1
+    },
+    {
+      "sentence": "Knowing when to quit requires as much wisdom as knowing when to persist.",
+      "style": "Philosophical",
+      "translation": "知道何时放弃和知道何时坚持一样需要智慧。",
+      "translated_word": "放弃",
+      "display_order": 3
+    },
+    {
+      "sentence": "The bird quit its cage and soared into the endless sky.",
+      "style": "Poetic",
+      "translation": "那只鸟挣脱了牢笼，飞向无垠的天空。",
+      "translated_word": "挣脱",
+      "display_order": null
+    },
+    {
+      "sentence": "Never quit on your dreams; the world needs what only you can offer.",
+      "style": "Inspirational",
+      "translation": "永远不要放弃梦想，这个世界需要你独一无二的贡献。",
+      "translated_word": "放弃",
+      "display_order": null
+    }
+  ]
+}

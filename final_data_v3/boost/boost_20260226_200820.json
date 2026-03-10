@@ -1,0 +1,61 @@
+{
+  "word": "boost",
+  "phonetic": "/buːst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "提升；增强；促进",
+  "examples": [
+    {
+      "sentence": "The government announced new measures to boost economic growth in rural areas.",
+      "style": "Formal",
+      "translation": "政府宣布了新措施以促进农村地区的经济增长。",
+      "translated_word": "促进",
+      "display_order": 3
+    },
+    {
+      "sentence": "To boost something means to increase or improve it significantly.",
+      "style": "Definitional",
+      "translation": "Boost的意思是大幅提高或改善某事物。",
+      "translated_word": "提高",
+      "display_order": null
+    },
+    {
+      "sentence": "While caffeine can boost energy temporarily, adequate sleep provides lasting vitality.",
+      "style": "Contrastive",
+      "translation": "咖啡因只能暂时提神，而充足的睡眠才能带来持久的活力。",
+      "translated_word": "提神",
+      "display_order": 2
+    },
+    {
+      "sentence": "Regular exercise can boost immunity and improve overall health.",
+      "style": "Collocational",
+      "translation": "规律运动可以增强免疫力，改善整体健康。",
+      "translated_word": "增强",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sometimes the smallest acts of kindness boost the human spirit more than grand gestures.",
+      "style": "Philosophical",
+      "translation": "有时候，最微小的善举比宏大的姿态更能振奋人心。",
+      "translated_word": "振奋",
+      "display_order": 4
+    },
+    {
+      "sentence": "The morning sun rose to boost the flowers awake, painting the garden gold.",
+      "style": "Poetic",
+      "translation": "晨曦升起，唤醒沉睡的花朵，将花园染成一片金黄。",
+      "translated_word": "唤醒",
+      "display_order": null
+    },
+    {
+      "sentence": "Every challenge overcome will boost confidence for the next one ahead.",
+      "style": "Inspirational",
+      "translation": "每一次克服挑战，都会为迎接下一个挑战增添信心。",
+      "translated_word": "增添",
+      "display_order": null
+    }
+  ]
+}

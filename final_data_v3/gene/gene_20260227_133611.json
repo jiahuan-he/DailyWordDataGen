@@ -1,0 +1,60 @@
+{
+  "word": "gene",
+  "phonetic": "/dʒiːn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "基因；遗传因子",
+  "examples": [
+    {
+      "sentence": "Scientists have identified a gene linked to increased risk of heart disease.",
+      "style": "Formal",
+      "translation": "科学家发现了一种与心脏病风险增加相关的基因。",
+      "translated_word": "基因",
+      "display_order": null
+    },
+    {
+      "sentence": "A gene is a unit of heredity that passes traits from parents to offspring.",
+      "style": "Definitional",
+      "translation": "基因是将特征从父母传递给后代的遗传单位。",
+      "translated_word": "基因",
+      "display_order": 1
+    },
+    {
+      "sentence": "Unlike a chromosome, which contains many genes, a single gene codes for just one protein.",
+      "style": "Contrastive",
+      "translation": "染色体包含许多基因，而单个基因只编码一种蛋白质。",
+      "translated_word": "基因",
+      "display_order": 4
+    },
+    {
+      "sentence": "The research team discovered a dominant gene responsible for eye color.",
+      "style": "Collocational",
+      "translation": "研究团队发现了一个决定眼睛颜色的显性基因。",
+      "translated_word": "基因",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every gene carries the weight of ancestors and the promise of generations yet to come.",
+      "style": "Philosophical",
+      "translation": "每个基因都承载着祖先的分量和未来世代的希望。",
+      "translated_word": "基因",
+      "display_order": 3
+    },
+    {
+      "sentence": "Hidden in the spiral of life, each gene whispers secrets written in ancient code.",
+      "style": "Poetic",
+      "translation": "隐藏在生命的螺旋中，每个基因都在低语着古老密码书写的秘密。",
+      "translated_word": "基因",
+      "display_order": null
+    },
+    {
+      "sentence": "Your potential is not limited by any single gene; determination shapes destiny.",
+      "style": "Inspirational",
+      "translation": "你的潜力不受任何单一基因的限制；决心塑造命运。",
+      "translated_word": "基因",
+      "display_order": null
+    }
+  ]
+}

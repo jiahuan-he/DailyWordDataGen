@@ -1,0 +1,61 @@
+{
+  "word": "minimum",
+  "phonetic": "/ˈmɪn.ɪ.məm/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "最小值；最低限度；最少量",
+  "examples": [
+    {
+      "sentence": "The company has reduced staffing to the bare minimum.",
+      "style": "Formal",
+      "translation": "该公司已将员工人数削减至最低限度。",
+      "translated_word": "最低限度",
+      "display_order": 2
+    },
+    {
+      "sentence": "A minimum is the smallest amount or degree that is possible or required.",
+      "style": "Definitional",
+      "translation": "最小值是指可能或要求的最小数量或程度。",
+      "translated_word": "最小值",
+      "display_order": null
+    },
+    {
+      "sentence": "While others aim for the maximum, she was content with the minimum.",
+      "style": "Contrastive",
+      "translation": "当其他人追求最大化时，她满足于最小化。",
+      "translated_word": "最小化",
+      "display_order": 3
+    },
+    {
+      "sentence": "The project requires a minimum of three months to complete.",
+      "style": "Collocational",
+      "translation": "该项目至少需要三个月才能完成。",
+      "translated_word": "至少",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sometimes the minimum reveals what truly matters.",
+      "style": "Philosophical",
+      "translation": "有时候，最少的东西反而揭示了真正重要的事物。",
+      "translated_word": "最少",
+      "display_order": null
+    },
+    {
+      "sentence": "Life stripped to its minimum becomes a quiet song.",
+      "style": "Poetic",
+      "translation": "生活简化到极致，便成了一首宁静的歌。",
+      "translated_word": "极致",
+      "display_order": null
+    },
+    {
+      "sentence": "Start with the minimum; greatness grows from small beginnings.",
+      "style": "Inspirational",
+      "translation": "从最少处起步，伟大源于微小的开端。",
+      "translated_word": "最少",
+      "display_order": 4
+    }
+  ]
+}

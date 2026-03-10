@@ -1,0 +1,61 @@
+{
+  "word": "hike",
+  "phonetic": "/haɪk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "徒步旅行；远足；大幅提高",
+  "examples": [
+    {
+      "sentence": "The government announced plans to hike interest rates by 0.5% next quarter.",
+      "style": "Formal",
+      "translation": "政府宣布计划在下季度将利率上调0.5%。",
+      "translated_word": "上调",
+      "display_order": 2
+    },
+    {
+      "sentence": "To hike means to walk a long distance, usually through natural terrain for recreation.",
+      "style": "Definitional",
+      "translation": "Hike指的是长距离步行，通常是为了休闲而穿越自然地形。",
+      "translated_word": "步行",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a casual stroll, to hike requires proper footwear and preparation.",
+      "style": "Contrastive",
+      "translation": "与随意散步不同，徒步旅行需要合适的鞋子和充分的准备。",
+      "translated_word": "徒步旅行",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every autumn, tourists hike up the mountain to admire the foliage.",
+      "style": "Collocational",
+      "translation": "每年秋天，游客们徒步登山欣赏红叶。",
+      "translated_word": "徒步",
+      "display_order": 1
+    },
+    {
+      "sentence": "To hike alone is to engage in a dialogue with nature and oneself.",
+      "style": "Philosophical",
+      "translation": "独自徒步是与自然和自我的一场对话。",
+      "translated_word": "徒步",
+      "display_order": null
+    },
+    {
+      "sentence": "They hiked through morning mist, where sunlight wove gold through the pines.",
+      "style": "Poetic",
+      "translation": "他们在晨雾中跋涉，阳光穿过松林织成金色光纱。",
+      "translated_word": "跋涉",
+      "display_order": 3
+    },
+    {
+      "sentence": "Hike your own trail; the summit belongs to those who keep climbing.",
+      "style": "Inspirational",
+      "translation": "走自己的路，山顶属于不断攀登的人。",
+      "translated_word": "走",
+      "display_order": null
+    }
+  ]
+}

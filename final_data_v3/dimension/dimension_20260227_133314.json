@@ -1,0 +1,61 @@
+{
+  "word": "dimension",
+  "phonetic": "/daɪˈmɛnʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "维度；方面；规模",
+  "examples": [
+    {
+      "sentence": "The project has taken on a new dimension following the merger announcement.",
+      "style": "Formal",
+      "translation": "合并消息公布后，该项目呈现出了新的层面。",
+      "translated_word": "层面",
+      "display_order": 3
+    },
+    {
+      "sentence": "A dimension is a measurable extent, such as length, width, or height.",
+      "style": "Definitional",
+      "translation": "维度是一种可测量的范围，如长度、宽度或高度。",
+      "translated_word": "维度",
+      "display_order": 4
+    },
+    {
+      "sentence": "Unlike a flat drawing, a sculpture exists in three dimensions.",
+      "style": "Contrastive",
+      "translation": "与平面画作不同，雕塑是以三维形式存在的。",
+      "translated_word": "维",
+      "display_order": 1
+    },
+    {
+      "sentence": "The human dimension of the crisis cannot be ignored.",
+      "style": "Collocational",
+      "translation": "这场危机中人的层面不容忽视。",
+      "translated_word": "层面",
+      "display_order": null
+    },
+    {
+      "sentence": "Time may be just another dimension that the mind perceives as linear.",
+      "style": "Philosophical",
+      "translation": "时间或许只是另一个维度，只不过人的心智将其感知为线性的。",
+      "translated_word": "维度",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her voice added a haunting dimension to the silent room, filling every shadow with sound.",
+      "style": "Poetic",
+      "translation": "她的声音为寂静的房间增添了一种幽远的意境，让每一处阴影都充盈着回响。",
+      "translated_word": "意境",
+      "display_order": null
+    },
+    {
+      "sentence": "Growth happens when you push beyond the familiar dimension of your comfort zone.",
+      "style": "Inspirational",
+      "translation": "当你突破舒适区的既有边界时，成长便会发生。",
+      "translated_word": "边界",
+      "display_order": null
+    }
+  ]
+}

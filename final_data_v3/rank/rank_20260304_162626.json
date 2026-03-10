@@ -1,0 +1,63 @@
+{
+  "word": "rank",
+  "phonetic": "/ɹæŋk/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "等级；军衔；排名；地位",
+  "examples": [
+    {
+      "sentence": "The officer was promoted to the rank of colonel after twenty years of distinguished service.",
+      "style": "Formal",
+      "translation": "这位军官在二十年的杰出服役后晋升为上校军衔。",
+      "translated_word": "军衔",
+      "display_order": 2
+    },
+    {
+      "sentence": "A rank is a position within a hierarchy that indicates one's level of authority.",
+      "style": "Definitional",
+      "translation": "等级是层级结构中表示权力高低的位置。",
+      "translated_word": "等级",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a job title, a military rank carries specific legal authority and chain of command.",
+      "style": "Contrastive",
+      "translation": "与职位头衔不同，军衔具有明确的法定权力和指挥链。",
+      "translated_word": "军衔",
+      "display_order": null
+    },
+    {
+      "sentence": "She rose through the ranks to become the youngest partner at the firm.",
+      "style": "Collocational",
+      "translation": "她一路晋升，成为公司最年轻的合伙人。",
+      "translated_word": "晋升",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rank reveals how society organizes power, yet says nothing of a person's true character.",
+      "style": "Philosophical",
+      "translation": "等级揭示了社会如何分配权力，却无法说明一个人真正的品格。",
+      "translated_word": "等级",
+      "display_order": 4
+    },
+    {
+      "sentence": "The rank upon his chest gleamed like a small sun, earned through storms and silence.",
+      "style": "Poetic",
+      "translation": "他胸前的军衔如小太阳般闪耀，那是历经风雨与沉默换来的荣光。",
+      "translated_word": "军衔",
+      "display_order": 3
+    },
+    {
+      "sentence": "Your current rank is just a starting point; every summit was once someone's distant dream.",
+      "style": "Inspirational",
+      "translation": "你现在的位置只是起点；每一座山巅都曾是某人遥远的梦想。",
+      "translated_word": "位置",
+      "display_order": null
+    }
+  ]
+}

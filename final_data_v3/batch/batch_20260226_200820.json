@@ -1,0 +1,62 @@
+{
+  "word": "batch",
+  "phonetic": "/bæt͡ʃ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "一批；一组；一炉",
+  "examples": [
+    {
+      "sentence": "The factory recalled the entire batch of products due to safety concerns.",
+      "style": "Formal",
+      "translation": "由于安全问题，工厂召回了整批产品。",
+      "translated_word": "批",
+      "display_order": 2
+    },
+    {
+      "sentence": "A batch refers to a group of items produced or processed together.",
+      "style": "Definitional",
+      "translation": "batch指的是一起生产或处理的一组物品。",
+      "translated_word": "batch",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike individual orders, a batch allows multiple items to be handled simultaneously.",
+      "style": "Contrastive",
+      "translation": "与单独订单不同，批量处理可以同时处理多个物品。",
+      "translated_word": "批量",
+      "display_order": 3
+    },
+    {
+      "sentence": "She baked a fresh batch of cookies for the school fundraiser.",
+      "style": "Collocational",
+      "translation": "她为学校募捐活动烤了一批新鲜的饼干。",
+      "translated_word": "批",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every batch carries the fingerprints of its maker, no two ever truly identical.",
+      "style": "Philosophical",
+      "translation": "每一批都带着制作者的印记，没有两批是完全相同的。",
+      "translated_word": "批",
+      "display_order": 4
+    },
+    {
+      "sentence": "Like stars born from the same cosmic dust, each batch emerges unique yet kindred.",
+      "style": "Poetic",
+      "translation": "如同诞生于同一片宇宙尘埃的星辰，每一批既独特又相似。",
+      "translated_word": "批",
+      "display_order": null
+    },
+    {
+      "sentence": "Start with one small batch; mastery begins with a single attempt.",
+      "style": "Inspirational",
+      "translation": "从一小批开始，精通始于一次尝试。",
+      "translated_word": "批",
+      "display_order": null
+    }
+  ]
+}

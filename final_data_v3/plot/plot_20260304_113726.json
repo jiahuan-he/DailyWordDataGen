@@ -1,0 +1,61 @@
+{
+  "word": "plot",
+  "phonetic": "/plɒt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "情节；阴谋；地块",
+  "examples": [
+    {
+      "sentence": "The film's plot unfolds against the backdrop of postwar Europe.",
+      "style": "Formal",
+      "translation": "这部电影的情节在战后欧洲的背景下展开。",
+      "translated_word": "情节",
+      "display_order": null
+    },
+    {
+      "sentence": "A plot is the sequence of events that form a story's narrative.",
+      "style": "Definitional",
+      "translation": "情节是构成故事叙事的一系列事件。",
+      "translated_word": "情节",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike theme, which conveys meaning, plot focuses on what happens.",
+      "style": "Contrastive",
+      "translation": "主题传达意义，而情节则侧重于发生了什么。",
+      "translated_word": "情节",
+      "display_order": 4
+    },
+    {
+      "sentence": "The detective uncovered a plot to overthrow the government.",
+      "style": "Collocational",
+      "translation": "侦探揭露了一个推翻政府的阴谋。",
+      "translated_word": "阴谋",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every life follows a plot that only makes sense in hindsight.",
+      "style": "Philosophical",
+      "translation": "每个人的人生都遵循一条只有回首时才能理解的轨迹。",
+      "translated_word": "轨迹",
+      "display_order": null
+    },
+    {
+      "sentence": "The plot thickens like fog rolling over silent hills.",
+      "style": "Poetic",
+      "translation": "情节渐趋复杂，如浓雾缓缓笼罩寂静的山丘。",
+      "translated_word": "情节",
+      "display_order": 2
+    },
+    {
+      "sentence": "Your story's plot may twist, but you hold the pen.",
+      "style": "Inspirational",
+      "translation": "你的人生剧情或许曲折，但执笔的人是你自己。",
+      "translated_word": "剧情",
+      "display_order": 3
+    }
+  ]
+}

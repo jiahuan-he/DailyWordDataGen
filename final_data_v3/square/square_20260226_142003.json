@@ -1,0 +1,62 @@
+{
+  "word": "square",
+  "phonetic": "/skwɛə(ɹ)/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "广场；正方形；平方",
+  "examples": [
+    {
+      "sentence": "Thousands gathered in the city square to protest the new policy.",
+      "style": "Formal",
+      "translation": "数千人聚集在城市广场抗议新政策。",
+      "translated_word": "广场",
+      "display_order": null
+    },
+    {
+      "sentence": "A square is a shape with four equal sides and four right angles.",
+      "style": "Definitional",
+      "translation": "正方形是一种有四条等边和四个直角的形状。",
+      "translated_word": "正方形",
+      "display_order": 1
+    },
+    {
+      "sentence": "Unlike a rectangle, a square has all sides of equal length.",
+      "style": "Contrastive",
+      "translation": "与长方形不同，正方形的四条边等长。",
+      "translated_word": "正方形",
+      "display_order": 4
+    },
+    {
+      "sentence": "The old town square was lined with cafés and flower vendors.",
+      "style": "Collocational",
+      "translation": "老城广场两旁排列着咖啡馆和花贩。",
+      "translated_word": "广场",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every revolution begins in a square, where strangers become allies.",
+      "style": "Philosophical",
+      "translation": "每一场革命都始于广场，陌生人在那里成为盟友。",
+      "translated_word": "广场",
+      "display_order": null
+    },
+    {
+      "sentence": "The cobblestone square glowed amber under the fading sun.",
+      "style": "Poetic",
+      "translation": "鹅卵石广场在夕阳下泛着琥珀色的光芒。",
+      "translated_word": "广场",
+      "display_order": 3
+    },
+    {
+      "sentence": "Step into the square of possibility; every corner holds a new beginning.",
+      "style": "Inspirational",
+      "translation": "踏入可能性的广场，每个角落都蕴藏着新的开始。",
+      "translated_word": "广场",
+      "display_order": null
+    }
+  ]
+}

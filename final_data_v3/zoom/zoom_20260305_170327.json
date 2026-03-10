@@ -1,0 +1,62 @@
+{
+  "word": "zoom",
+  "phonetic": "/zuːm/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "快速移动；迅速上升；放大",
+  "examples": [
+    {
+      "sentence": "Stock prices zoomed after the company announced record earnings.",
+      "style": "Formal",
+      "translation": "公司宣布创纪录业绩后，股价迅速飙升。",
+      "translated_word": "飙升",
+      "display_order": 4
+    },
+    {
+      "sentence": "To zoom means to move or rise very quickly.",
+      "style": "Definitional",
+      "translation": "zoom指快速移动或迅速上升。",
+      "translated_word": "zoom",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike pan, which shifts the view sideways, zoom brings the subject closer.",
+      "style": "Contrastive",
+      "translation": "平移是横向移动视角，而变焦则是将主体拉近。",
+      "translated_word": "变焦",
+      "display_order": null
+    },
+    {
+      "sentence": "The camera zoomed in on the actor's face during the emotional scene.",
+      "style": "Collocational",
+      "translation": "在那场感人的戏中，摄像机拉近了演员的脸部特写。",
+      "translated_word": "拉近",
+      "display_order": 2
+    },
+    {
+      "sentence": "Life tends to zoom past those who forget to pause and reflect.",
+      "style": "Philosophical",
+      "translation": "对于那些忘记停下来反思的人，生活往往一闪而过。",
+      "translated_word": "一闪而过",
+      "display_order": 3
+    },
+    {
+      "sentence": "A hummingbird zoomed through the garden like a jewel with wings.",
+      "style": "Poetic",
+      "translation": "一只蜂鸟如同带翅膀的宝石，嗖地穿过花园。",
+      "translated_word": "嗖地",
+      "display_order": 1
+    },
+    {
+      "sentence": "Set clear goals and watch your progress zoom forward.",
+      "style": "Inspirational",
+      "translation": "设定明确的目标，你会看到自己飞速进步。",
+      "translated_word": "飞速",
+      "display_order": null
+    }
+  ]
+}

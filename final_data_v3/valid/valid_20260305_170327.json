@@ -1,0 +1,60 @@
+{
+  "word": "valid",
+  "phonetic": "/ˈvælɪd/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有效的；合法的；正当的；有根据的",
+  "examples": [
+    {
+      "sentence": "The contract remains valid until the end of the fiscal year.",
+      "style": "Formal",
+      "translation": "该合同在本财年结束前仍然有效。",
+      "translated_word": "有效",
+      "display_order": 3
+    },
+    {
+      "sentence": "A valid argument is one supported by sound logic and evidence.",
+      "style": "Definitional",
+      "translation": "有效的论证是由严密的逻辑和证据支撑的论证。",
+      "translated_word": "有效的",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike mere opinions, valid conclusions are grounded in facts.",
+      "style": "Contrastive",
+      "translation": "与单纯的意见不同，有效的结论建立在事实基础之上。",
+      "translated_word": "有效的",
+      "display_order": null
+    },
+    {
+      "sentence": "Passengers must present a valid ticket before boarding.",
+      "style": "Collocational",
+      "translation": "乘客登机前必须出示有效票证。",
+      "translated_word": "有效",
+      "display_order": 2
+    },
+    {
+      "sentence": "If truth shifts with perspective, can any claim ever be truly valid?",
+      "style": "Philosophical",
+      "translation": "如果真理随视角而变，任何主张能真正成立吗？",
+      "translated_word": "成立",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her words landed like a valid seal upon uncertain hearts.",
+      "style": "Poetic",
+      "translation": "她的话语如一枚印章，落在迷茫的心上，赋予确信。",
+      "translated_word": "确信",
+      "display_order": null
+    },
+    {
+      "sentence": "Your concerns are valid; let them guide you toward better choices.",
+      "style": "Inspirational",
+      "translation": "你的担忧是正当的，让它们引领你做出更好的选择。",
+      "translated_word": "正当的",
+      "display_order": 1
+    }
+  ]
+}

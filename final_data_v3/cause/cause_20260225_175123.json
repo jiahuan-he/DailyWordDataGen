@@ -1,0 +1,61 @@
+{
+  "word": "cause",
+  "phonetic": "/kɔːz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "原因；事业；理由",
+  "examples": [
+    {
+      "sentence": "The investigation revealed that a faulty electrical system was the primary cause of the warehouse fire.",
+      "style": "Formal",
+      "translation": "调查显示，电气系统故障是仓库火灾的主要原因。",
+      "translated_word": "原因",
+      "display_order": 3
+    },
+    {
+      "sentence": "A cause is something that produces an effect or result.",
+      "style": "Definitional",
+      "translation": "原因是指能够产生某种效果或结果的事物。",
+      "translated_word": "原因",
+      "display_order": null
+    },
+    {
+      "sentence": "While a symptom shows that something is wrong, a cause explains why it happened.",
+      "style": "Contrastive",
+      "translation": "症状表明出了问题，而原因则解释问题为何发生。",
+      "translated_word": "原因",
+      "display_order": 4
+    },
+    {
+      "sentence": "Scientists are still searching for the root cause of the disease.",
+      "style": "Collocational",
+      "translation": "科学家们仍在寻找这种疾病的根本原因。",
+      "translated_word": "原因",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every effect has a cause, yet some causes remain forever hidden from understanding.",
+      "style": "Philosophical",
+      "translation": "每个结果都有其原因，但有些原因却永远隐藏在认知之外。",
+      "translated_word": "原因",
+      "display_order": null
+    },
+    {
+      "sentence": "Love is a cause that needs no reason, a fire that burns without fuel.",
+      "style": "Poetic",
+      "translation": "爱是无需理由的缘由，是无需燃料也能燃烧的火焰。",
+      "translated_word": "缘由",
+      "display_order": null
+    },
+    {
+      "sentence": "Find a cause worth fighting for, and life will never lack meaning.",
+      "style": "Inspirational",
+      "translation": "找到一项值得为之奋斗的事业，人生便永不缺乏意义。",
+      "translated_word": "事业",
+      "display_order": 2
+    }
+  ]
+}

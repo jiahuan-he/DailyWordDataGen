@@ -1,0 +1,61 @@
+{
+  "word": "track",
+  "phonetic": "/tɹæk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "追踪；跟踪；记录",
+  "examples": [
+    {
+      "sentence": "The agency will track the shipment until it reaches its destination.",
+      "style": "Formal",
+      "translation": "该机构将全程追踪货物直至其抵达目的地。",
+      "translated_word": "追踪",
+      "display_order": 3
+    },
+    {
+      "sentence": "To track means to follow the movement or progress of something over time.",
+      "style": "Definitional",
+      "translation": "追踪是指随时间跟进某事物的动向或进展。",
+      "translated_word": "追踪",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike simply observing, to track requires consistent monitoring and recording.",
+      "style": "Contrastive",
+      "translation": "与单纯观察不同，追踪需要持续监测和记录。",
+      "translated_word": "追踪",
+      "display_order": null
+    },
+    {
+      "sentence": "Athletes often track their performance to identify areas for improvement.",
+      "style": "Collocational",
+      "translation": "运动员常常记录自己的表现以找出可改进之处。",
+      "translated_word": "记录",
+      "display_order": 2
+    },
+    {
+      "sentence": "To track one's habits is to become both the observer and the observed.",
+      "style": "Philosophical",
+      "translation": "记录自己的习惯，就是同时成为观察者与被观察者。",
+      "translated_word": "记录",
+      "display_order": null
+    },
+    {
+      "sentence": "The wolf tracks the deer through snow, reading stories written in footprints.",
+      "style": "Poetic",
+      "translation": "狼在雪中追踪鹿，阅读着足迹书写的故事。",
+      "translated_word": "追踪",
+      "display_order": 1
+    },
+    {
+      "sentence": "Track your progress, no matter how small; every step forward counts.",
+      "style": "Inspirational",
+      "translation": "记录你的每一点进步，无论多么微小；每一步都算数。",
+      "translated_word": "记录",
+      "display_order": 4
+    }
+  ]
+}

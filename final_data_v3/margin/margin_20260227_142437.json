@@ -1,0 +1,61 @@
+{
+  "word": "margin",
+  "phonetic": "/ˈmɑːdʒɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "边缘；余地；利润；差额",
+  "examples": [
+    {
+      "sentence": "The candidate won the election by a narrow margin of just 2,000 votes.",
+      "style": "Formal",
+      "translation": "该候选人仅以两千票的微弱差距赢得选举。",
+      "translated_word": "差距",
+      "display_order": 3
+    },
+    {
+      "sentence": "A margin is the blank space surrounding the text on a page.",
+      "style": "Definitional",
+      "translation": "页边距是指页面上文字周围的空白区域。",
+      "translated_word": "页边距",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike the center, the margin often holds overlooked details and forgotten notes.",
+      "style": "Contrastive",
+      "translation": "与中心不同，边缘处往往藏着被忽视的细节和遗忘的笔记。",
+      "translated_word": "边缘",
+      "display_order": null
+    },
+    {
+      "sentence": "The company operates on a thin profit margin.",
+      "style": "Collocational",
+      "translation": "这家公司的利润空间很小。",
+      "translated_word": "利润空间",
+      "display_order": 1
+    },
+    {
+      "sentence": "Those who live on the margin of society often see truths invisible to the comfortable.",
+      "style": "Philosophical",
+      "translation": "生活在社会边缘的人往往能看到安逸者无法察觉的真相。",
+      "translated_word": "边缘",
+      "display_order": null
+    },
+    {
+      "sentence": "In the margin of the old book, faded ink whispered secrets of a reader long gone.",
+      "style": "Poetic",
+      "translation": "在旧书的页边，褪色的墨迹低语着一位故人的秘密。",
+      "translated_word": "页边",
+      "display_order": 4
+    },
+    {
+      "sentence": "Leave a margin for error; perfection is not the goal, progress is.",
+      "style": "Inspirational",
+      "translation": "给失误留些余地；完美不是目标，进步才是。",
+      "translated_word": "余地",
+      "display_order": 2
+    }
+  ]
+}

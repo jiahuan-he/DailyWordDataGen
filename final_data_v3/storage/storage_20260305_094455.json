@@ -1,0 +1,61 @@
+{
+  "word": "storage",
+  "phonetic": "/ˈstɔ.ɹɪd͡ʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "储存；存储空间；仓储",
+  "examples": [
+    {
+      "sentence": "The company announced plans to expand its cloud storage capacity by 50% next quarter.",
+      "style": "Formal",
+      "translation": "该公司宣布计划在下季度将其云存储容量扩大50%。",
+      "translated_word": "存储",
+      "display_order": 4
+    },
+    {
+      "sentence": "Storage refers to the space or method used to keep items for future use.",
+      "style": "Definitional",
+      "translation": "存储是指用于保存物品以供将来使用的空间或方式。",
+      "translated_word": "存储",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike temporary memory, storage retains data even after the device is powered off.",
+      "style": "Contrastive",
+      "translation": "与临时内存不同，存储设备在断电后仍能保留数据。",
+      "translated_word": "存储",
+      "display_order": 2
+    },
+    {
+      "sentence": "The apartment comes with ample storage space in the basement.",
+      "style": "Collocational",
+      "translation": "这间公寓在地下室配有充足的储物空间。",
+      "translated_word": "储物",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every memory kept in storage becomes a fragment of who a person once was.",
+      "style": "Philosophical",
+      "translation": "每一段被珍藏的记忆，都成为一个人曾经存在的碎片。",
+      "translated_word": "珍藏",
+      "display_order": null
+    },
+    {
+      "sentence": "The attic sat in silence, a dusty storage of forgotten dreams and faded letters.",
+      "style": "Poetic",
+      "translation": "阁楼静默伫立，尘封着被遗忘的梦想与褪色的信笺。",
+      "translated_word": "尘封",
+      "display_order": null
+    },
+    {
+      "sentence": "Clear out the mental storage of doubt; make room for possibilities.",
+      "style": "Inspirational",
+      "translation": "清空内心储存的疑虑，为无限可能腾出空间。",
+      "translated_word": "储存",
+      "display_order": 3
+    }
+  ]
+}

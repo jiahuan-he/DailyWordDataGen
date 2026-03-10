@@ -1,0 +1,61 @@
+{
+  "word": "match",
+  "phonetic": "/mæt͡ʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "比赛；对手；火柴；相配的人或物",
+  "examples": [
+    {
+      "sentence": "The championship match drew record-breaking viewership across the nation.",
+      "style": "Formal",
+      "translation": "这场冠军赛在全国创下了收视纪录。",
+      "translated_word": "赛",
+      "display_order": 3
+    },
+    {
+      "sentence": "A match is a small stick with a tip that ignites when struck against a rough surface.",
+      "style": "Definitional",
+      "translation": "火柴是一种小木棍，头部在粗糙表面上摩擦即可点燃。",
+      "translated_word": "火柴",
+      "display_order": 1
+    },
+    {
+      "sentence": "Unlike a casual game, a match carries stakes and demands full commitment.",
+      "style": "Contrastive",
+      "translation": "与随意的比赛不同，正式比赛关乎输赢，需要全力以赴。",
+      "translated_word": "比赛",
+      "display_order": null
+    },
+    {
+      "sentence": "The tennis player won the match point with a powerful serve.",
+      "style": "Collocational",
+      "translation": "那位网球选手以一记强力发球赢得了赛点。",
+      "translated_word": "赛",
+      "display_order": null
+    },
+    {
+      "sentence": "Every person seeks a match: someone whose soul echoes their own.",
+      "style": "Philosophical",
+      "translation": "每个人都在寻找一个与自己灵魂共鸣的人。",
+      "translated_word": "人",
+      "display_order": null
+    },
+    {
+      "sentence": "A single match flickered in the darkness, a tiny sun against the void.",
+      "style": "Poetic",
+      "translation": "一根火柴在黑暗中闪烁，如同虚空中的一轮小小太阳。",
+      "translated_word": "火柴",
+      "display_order": 4
+    },
+    {
+      "sentence": "Find a worthy match in life, someone who challenges you to grow.",
+      "style": "Inspirational",
+      "translation": "找一个势均力敌的人生对手，一个能激励你成长的人。",
+      "translated_word": "对手",
+      "display_order": 2
+    }
+  ]
+}

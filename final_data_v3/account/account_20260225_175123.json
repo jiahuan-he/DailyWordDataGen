@@ -1,0 +1,61 @@
+{
+  "word": "account",
+  "phonetic": "/ə.ˈkaʊnt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "账户；账目；描述；理由",
+  "examples": [
+    {
+      "sentence": "The company's quarterly account revealed a significant increase in revenue.",
+      "style": "Formal",
+      "translation": "公司季度账目显示收入大幅增长。",
+      "translated_word": "账目",
+      "display_order": 4
+    },
+    {
+      "sentence": "An account is a record of financial transactions or a narrative describing events.",
+      "style": "Definitional",
+      "translation": "账户是财务交易的记录，或是描述事件的叙述。",
+      "translated_word": "账户",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a simple report, an account provides context and explanation for what occurred.",
+      "style": "Contrastive",
+      "translation": "与简单的报告不同，叙述会提供事件发生的背景和解释。",
+      "translated_word": "叙述",
+      "display_order": null
+    },
+    {
+      "sentence": "She opened a savings account and set up automatic deposits.",
+      "style": "Collocational",
+      "translation": "她开了一个储蓄账户，并设置了自动存款。",
+      "translated_word": "账户",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every person's account of the truth is shaped by their own perspective.",
+      "style": "Philosophical",
+      "translation": "每个人对真相的描述都受其自身视角的影响。",
+      "translated_word": "描述",
+      "display_order": 2
+    },
+    {
+      "sentence": "The old diary held an account of summers long forgotten, pages yellowed like autumn leaves.",
+      "style": "Poetic",
+      "translation": "那本旧日记记载着早已被遗忘的夏日，书页泛黄如秋叶。",
+      "translated_word": "记载",
+      "display_order": 3
+    },
+    {
+      "sentence": "Take account of your strengths, and build your future upon them.",
+      "style": "Inspirational",
+      "translation": "认清自己的优势，并以此为基础开创未来。",
+      "translated_word": "认清",
+      "display_order": null
+    }
+  ]
+}

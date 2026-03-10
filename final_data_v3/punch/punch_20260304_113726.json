@@ -1,0 +1,61 @@
+{
+  "word": "punch",
+  "phonetic": "/pʌntʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "用拳猛击；打孔；按（键）",
+  "examples": [
+    {
+      "sentence": "The suspect was arrested after allegedly punching a security guard at the shopping center.",
+      "style": "Formal",
+      "translation": "嫌疑人据称在购物中心殴打保安后被捕。",
+      "translated_word": "殴打",
+      "display_order": 2
+    },
+    {
+      "sentence": "To punch means to strike forcefully with a closed fist.",
+      "style": "Definitional",
+      "translation": "punch指用握紧的拳头用力击打。",
+      "translated_word": "击打",
+      "display_order": null
+    },
+    {
+      "sentence": "Punching delivers impact with the knuckles, while slapping uses the open palm.",
+      "style": "Contrastive",
+      "translation": "拳击用指关节发力，而掌掴则用张开的手掌。",
+      "translated_word": "拳击",
+      "display_order": null
+    },
+    {
+      "sentence": "Employees must punch the clock when arriving and leaving work.",
+      "style": "Collocational",
+      "translation": "员工上下班时必须打卡。",
+      "translated_word": "打卡",
+      "display_order": 1
+    },
+    {
+      "sentence": "Life does not ask permission before it punches you; it only asks how you respond.",
+      "style": "Philosophical",
+      "translation": "生活在给你重击之前不会征求同意，它只关心你如何回应。",
+      "translated_word": "重击",
+      "display_order": 3
+    },
+    {
+      "sentence": "The winter wind punched through the valley, howling like a restless spirit.",
+      "style": "Poetic",
+      "translation": "寒风猛烈地穿过山谷，呼啸声如不安的幽灵。",
+      "translated_word": "猛烈地穿过",
+      "display_order": 4
+    },
+    {
+      "sentence": "When setbacks punch you down, stand up and punch through every barrier ahead.",
+      "style": "Inspirational",
+      "translation": "当挫折把你击倒时，站起来冲破前方的一切障碍。",
+      "translated_word": "击倒",
+      "display_order": null
+    }
+  ]
+}

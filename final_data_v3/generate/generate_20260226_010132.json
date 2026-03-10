@@ -1,0 +1,60 @@
+{
+  "word": "generate",
+  "phonetic": "/ˈdʒɛn.əɹ.eɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "产生；生成；引起",
+  "examples": [
+    {
+      "sentence": "The new policy is expected to generate thousands of jobs in the renewable energy sector.",
+      "style": "Formal",
+      "translation": "新政策预计将在可再生能源领域创造数千个就业机会。",
+      "translated_word": "创造",
+      "display_order": null
+    },
+    {
+      "sentence": "To generate means to produce or bring something into existence.",
+      "style": "Definitional",
+      "translation": "Generate的意思是产生或使某物存在。",
+      "translated_word": "产生",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike simply copying content, creative work requires the ability to generate original ideas.",
+      "style": "Contrastive",
+      "translation": "与单纯复制内容不同，创造性工作需要产生原创想法的能力。",
+      "translated_word": "产生",
+      "display_order": 4
+    },
+    {
+      "sentence": "Solar panels generate electricity by converting sunlight into energy.",
+      "style": "Collocational",
+      "translation": "太阳能电池板通过将阳光转化为能量来发电。",
+      "translated_word": "发电",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every question answered seems to generate two more waiting to be asked.",
+      "style": "Philosophical",
+      "translation": "每回答一个问题，似乎就会产生两个新的问题等待被问出。",
+      "translated_word": "产生",
+      "display_order": 2
+    },
+    {
+      "sentence": "The storm clouds gathered and churned, generating thunder that rolled across the mountains like ancient drums.",
+      "style": "Poetic",
+      "translation": "乌云聚集翻涌，发出的雷声如远古战鼓般在群山间回荡。",
+      "translated_word": "发出",
+      "display_order": null
+    },
+    {
+      "sentence": "Small acts of kindness generate ripples that can change the world.",
+      "style": "Inspirational",
+      "translation": "小小的善举能产生涟漪，足以改变世界。",
+      "translated_word": "产生",
+      "display_order": 3
+    }
+  ]
+}

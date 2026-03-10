@@ -1,0 +1,61 @@
+{
+  "word": "rent",
+  "phonetic": "/ɹɛnt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "租用；出租",
+  "examples": [
+    {
+      "sentence": "The city council plans to rent the vacant building to a nonprofit organization.",
+      "style": "Formal",
+      "translation": "市议会计划将这栋空置建筑出租给一家非营利组织。",
+      "translated_word": "出租",
+      "display_order": 4
+    },
+    {
+      "sentence": "To rent means to pay money regularly to use something that belongs to someone else.",
+      "style": "Definitional",
+      "translation": "租用是指定期付费使用他人所有的物品。",
+      "translated_word": "租用",
+      "display_order": null
+    },
+    {
+      "sentence": "Some prefer to rent an apartment for flexibility, while others choose to buy for long-term investment.",
+      "style": "Contrastive",
+      "translation": "有些人喜欢租房以保持灵活性，而另一些人则选择买房作为长期投资。",
+      "translated_word": "租房",
+      "display_order": 2
+    },
+    {
+      "sentence": "They decided to rent a car for the weekend trip.",
+      "style": "Collocational",
+      "translation": "他们决定租一辆车去周末旅行。",
+      "translated_word": "租",
+      "display_order": 1
+    },
+    {
+      "sentence": "To rent is to acknowledge that ownership is not the only path to enjoyment.",
+      "style": "Philosophical",
+      "translation": "租用意味着承认，拥有并非享受事物的唯一途径。",
+      "translated_word": "租用",
+      "display_order": null
+    },
+    {
+      "sentence": "She rents a small room where sunlight spills through lace curtains each morning.",
+      "style": "Poetic",
+      "translation": "她租住的小房间里，每天清晨阳光都会透过蕾丝窗帘洒落进来。",
+      "translated_word": "租住",
+      "display_order": 3
+    },
+    {
+      "sentence": "Rent what you need today; tomorrow will bring its own opportunities.",
+      "style": "Inspirational",
+      "translation": "租下今天所需的一切，明天自会带来新的机遇。",
+      "translated_word": "租下",
+      "display_order": null
+    }
+  ]
+}

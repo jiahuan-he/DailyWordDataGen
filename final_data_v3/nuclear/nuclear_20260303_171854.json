@@ -1,0 +1,61 @@
+{
+  "word": "nuclear",
+  "phonetic": "/ˈn(j)ukliɚ/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "核能的；原子核的；核心家庭的",
+  "examples": [
+    {
+      "sentence": "The government announced plans to phase out nuclear power plants by 2050.",
+      "style": "Formal",
+      "translation": "政府宣布计划在2050年前逐步淘汰核电站。",
+      "translated_word": "核",
+      "display_order": null
+    },
+    {
+      "sentence": "Nuclear energy is produced by splitting atoms in a controlled reaction.",
+      "style": "Definitional",
+      "translation": "核能是通过受控反应分裂原子而产生的。",
+      "translated_word": "核",
+      "display_order": 1
+    },
+    {
+      "sentence": "Unlike fossil fuels, nuclear power generates electricity without carbon emissions.",
+      "style": "Contrastive",
+      "translation": "与化石燃料不同，核电发电不会产生碳排放。",
+      "translated_word": "核",
+      "display_order": null
+    },
+    {
+      "sentence": "The treaty aims to prevent nuclear proliferation across the region.",
+      "style": "Collocational",
+      "translation": "该条约旨在防止核扩散蔓延至整个地区。",
+      "translated_word": "核",
+      "display_order": 3
+    },
+    {
+      "sentence": "The nuclear family, once the social norm, now takes many different forms.",
+      "style": "Philosophical",
+      "translation": "核心家庭曾是社会常态，如今已演变出多种形式。",
+      "translated_word": "核心",
+      "display_order": 2
+    },
+    {
+      "sentence": "The reactor hummed softly, its nuclear heart glowing like a captured star.",
+      "style": "Poetic",
+      "translation": "反应堆轻轻嗡鸣，它的核心如同一颗被捕获的星辰般闪耀。",
+      "translated_word": "核心",
+      "display_order": null
+    },
+    {
+      "sentence": "Harnessing nuclear technology responsibly could help secure a cleaner future for generations to come.",
+      "style": "Inspirational",
+      "translation": "负责任地利用核技术，可以为子孙后代创造更清洁的未来。",
+      "translated_word": "核",
+      "display_order": 4
+    }
+  ]
+}

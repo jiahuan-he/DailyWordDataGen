@@ -1,0 +1,61 @@
+{
+  "word": "stain",
+  "phonetic": "/steɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "污渍；污点；瑕疵",
+  "examples": [
+    {
+      "sentence": "The scandal left a permanent stain on the politician's career.",
+      "style": "Formal",
+      "translation": "这桩丑闻在那位政客的职业生涯上留下了永久的污点。",
+      "translated_word": "污点",
+      "display_order": 3
+    },
+    {
+      "sentence": "A stain is a mark or discoloration that is difficult to remove from a surface.",
+      "style": "Definitional",
+      "translation": "污渍是一种难以从表面去除的痕迹或变色。",
+      "translated_word": "污渍",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike dust, which wipes away easily, a stain requires proper cleaning agents.",
+      "style": "Contrastive",
+      "translation": "灰尘轻轻一擦就能去掉，而污渍则需要专门的清洁剂。",
+      "translated_word": "污渍",
+      "display_order": 2
+    },
+    {
+      "sentence": "The coffee stain on the carpet proved impossible to remove.",
+      "style": "Collocational",
+      "translation": "地毯上的咖啡渍怎么也去不掉。",
+      "translated_word": "渍",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every stain carries the memory of a moment that refused to be forgotten.",
+      "style": "Philosophical",
+      "translation": "每一道污渍都承载着某个不愿被遗忘的瞬间。",
+      "translated_word": "污渍",
+      "display_order": null
+    },
+    {
+      "sentence": "Twilight spread like a violet stain across the quiet waters.",
+      "style": "Poetic",
+      "translation": "暮色如紫色的晕染，漫过静谧的水面。",
+      "translated_word": "晕染",
+      "display_order": 4
+    },
+    {
+      "sentence": "One stain on your past need not darken your entire future.",
+      "style": "Inspirational",
+      "translation": "过去的一个污点不必遮蔽你的整个未来。",
+      "translated_word": "污点",
+      "display_order": null
+    }
+  ]
+}

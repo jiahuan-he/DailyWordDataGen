@@ -1,0 +1,61 @@
+{
+  "word": "disable",
+  "phonetic": "[dɪsˈeɪbəɫ]",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使失效；禁用；使丧失能力",
+  "examples": [
+    {
+      "sentence": "The security team decided to disable all unauthorized accounts immediately.",
+      "style": "Formal",
+      "translation": "安全团队决定立即禁用所有未经授权的账户。",
+      "translated_word": "禁用",
+      "display_order": 1
+    },
+    {
+      "sentence": "To disable something means to make it unable to function or operate.",
+      "style": "Definitional",
+      "translation": "禁用某物意味着使其无法运行或运作。",
+      "translated_word": "禁用",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike pausing a feature, choosing to disable it removes the function entirely.",
+      "style": "Contrastive",
+      "translation": "与暂停功能不同，选择禁用会完全移除该功能。",
+      "translated_word": "禁用",
+      "display_order": 2
+    },
+    {
+      "sentence": "The technician had to disable the alarm system before entering the building.",
+      "style": "Collocational",
+      "translation": "技术人员必须先关闭警报系统才能进入大楼。",
+      "translated_word": "关闭",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sometimes one must disable old habits to make room for new growth.",
+      "style": "Philosophical",
+      "translation": "有时人们必须摒弃旧习惯，才能为新的成长腾出空间。",
+      "translated_word": "摒弃",
+      "display_order": null
+    },
+    {
+      "sentence": "Winter's frost will disable the garden's bloom, yet spring always returns.",
+      "style": "Poetic",
+      "translation": "冬霜会使花园的繁花凋零，但春天总会归来。",
+      "translated_word": "使花园的繁花凋零",
+      "display_order": null
+    },
+    {
+      "sentence": "Disable the fear that holds you back, and discover your true potential.",
+      "style": "Inspirational",
+      "translation": "克服阻碍你的恐惧，发现你真正的潜力。",
+      "translated_word": "克服",
+      "display_order": 4
+    }
+  ]
+}

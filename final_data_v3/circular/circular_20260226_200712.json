@@ -1,0 +1,62 @@
+{
+  "word": "circular",
+  "phonetic": "/ˈsɜːk.jə.lə(ɹ)/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "圆形的；循环的；迂回的",
+  "examples": [
+    {
+      "sentence": "The committee issued a circular memo to all departments regarding the new policy.",
+      "style": "Formal",
+      "translation": "委员会向各部门发布了一份关于新政策的通知。",
+      "translated_word": "通知",
+      "display_order": null
+    },
+    {
+      "sentence": "A circular shape has no corners and every point on its edge is the same distance from the center.",
+      "style": "Definitional",
+      "translation": "圆形没有角，边缘上的每一点到圆心的距离都相等。",
+      "translated_word": "圆形",
+      "display_order": 1
+    },
+    {
+      "sentence": "Unlike linear reasoning, circular logic returns to its starting point without reaching a conclusion.",
+      "style": "Contrastive",
+      "translation": "与线性推理不同，循环论证会回到起点而得不出结论。",
+      "translated_word": "循环",
+      "display_order": 2
+    },
+    {
+      "sentence": "The architect designed a stunning circular staircase that spiraled up through the atrium.",
+      "style": "Collocational",
+      "translation": "建筑师设计了一座令人惊叹的旋转楼梯，盘旋穿过中庭。",
+      "translated_word": "旋转",
+      "display_order": 4
+    },
+    {
+      "sentence": "Time feels circular: the seasons return, generations repeat, and history echoes itself.",
+      "style": "Philosophical",
+      "translation": "时间仿佛是循环的：四季轮回，世代更替，历史不断重演。",
+      "translated_word": "循环",
+      "display_order": null
+    },
+    {
+      "sentence": "The hawk traced circular patterns against the pale sky, patient as the wind.",
+      "style": "Poetic",
+      "translation": "苍鹰在苍白的天空中划出一圈圈轨迹，像风一样从容。",
+      "translated_word": "一圈圈",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every setback is part of a circular journey that brings you back stronger than before.",
+      "style": "Inspirational",
+      "translation": "每一次挫折都是循环旅程的一部分，让你比从前更加强大。",
+      "translated_word": "循环",
+      "display_order": null
+    }
+  ]
+}

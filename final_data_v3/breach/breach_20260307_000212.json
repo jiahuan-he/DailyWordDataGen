@@ -1,0 +1,61 @@
+{
+  "word": "breach",
+  "phonetic": "[bɹiːtʃ]",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "违反；违约；缺口；裂口",
+  "examples": [
+    {
+      "sentence": "The data breach compromised the personal information of over ten million users.",
+      "style": "Formal",
+      "translation": "这次数据泄露事件导致超过一千万用户的个人信息遭到泄露。",
+      "translated_word": "泄露",
+      "display_order": 4
+    },
+    {
+      "sentence": "A breach is a failure to fulfill or uphold a promise, rule, or agreement.",
+      "style": "Definitional",
+      "translation": "违约是指未能履行或遵守承诺、规则或协议。",
+      "translated_word": "违约",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a minor oversight, a breach of contract can result in serious legal consequences.",
+      "style": "Contrastive",
+      "translation": "与小疏忽不同，违约可能导致严重的法律后果。",
+      "translated_word": "违约",
+      "display_order": 2
+    },
+    {
+      "sentence": "The security breach exposed a critical flaw in the company's firewall.",
+      "style": "Collocational",
+      "translation": "这次安全漏洞暴露了公司防火墙中的一个关键缺陷。",
+      "translated_word": "漏洞",
+      "display_order": null
+    },
+    {
+      "sentence": "Every breach of trust reveals not just a broken promise, but the fragility of human bonds.",
+      "style": "Philosophical",
+      "translation": "每一次信任的破裂，揭示的不仅是一个被打破的承诺，更是人际关系的脆弱。",
+      "translated_word": "破裂",
+      "display_order": 3
+    },
+    {
+      "sentence": "Through the breach in the old stone wall, wildflowers spilled into the forgotten garden.",
+      "style": "Poetic",
+      "translation": "透过古老石墙的缺口，野花倾泻进那座被遗忘的花园。",
+      "translated_word": "缺口",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sometimes a breach in the old ways opens the path to something far greater.",
+      "style": "Inspirational",
+      "translation": "有时，打破旧有方式的缺口，会开辟一条通往更伟大事物的道路。",
+      "translated_word": "缺口",
+      "display_order": null
+    }
+  ]
+}

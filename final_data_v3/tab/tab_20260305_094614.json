@@ -1,0 +1,61 @@
+{
+  "word": "tab",
+  "phonetic": "/tæb/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "标签；账单；选项卡",
+  "examples": [
+    {
+      "sentence": "The company picked up the tab for the entire conference dinner.",
+      "style": "Formal",
+      "translation": "公司承担了整个会议晚宴的费用。",
+      "translated_word": "费用",
+      "display_order": 3
+    },
+    {
+      "sentence": "A tab is a small flap used to open, close, or identify something.",
+      "style": "Definitional",
+      "translation": "标签是一种小型突舌，用于打开、关闭或标识物品。",
+      "translated_word": "标签",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a bookmark that saves a page for later, a tab keeps it open and active.",
+      "style": "Contrastive",
+      "translation": "与保存页面以供日后访问的书签不同，选项卡让页面保持打开和活跃状态。",
+      "translated_word": "选项卡",
+      "display_order": 1
+    },
+    {
+      "sentence": "She opened a new tab and ran up quite a tab at the neighborhood bar.",
+      "style": "Collocational",
+      "translation": "她打开了一个新标签页，同时在附近的酒吧赊了不少账。",
+      "translated_word": "标签页",
+      "display_order": null
+    },
+    {
+      "sentence": "Every open tab represents a thought left unfinished, a question still seeking its answer.",
+      "style": "Philosophical",
+      "translation": "每一个打开的标签页都代表着一个未完成的念头，一个仍在寻找答案的问题。",
+      "translated_word": "标签页",
+      "display_order": 4
+    },
+    {
+      "sentence": "Tabs flutter like tiny flags on folders, each one guarding its own secret world.",
+      "style": "Poetic",
+      "translation": "标签如同文件夹上飘动的小旗，每一个都守护着自己的秘密世界。",
+      "translated_word": "标签",
+      "display_order": 2
+    },
+    {
+      "sentence": "Keep a tab on your goals; small markers of progress lead to great achievements.",
+      "style": "Inspirational",
+      "translation": "时刻关注你的目标；小小的进步标记终将汇聚成伟大的成就。",
+      "translated_word": "关注",
+      "display_order": null
+    }
+  ]
+}

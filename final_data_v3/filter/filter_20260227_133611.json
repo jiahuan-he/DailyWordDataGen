@@ -1,0 +1,61 @@
+{
+  "word": "filter",
+  "phonetic": "/ˈfɪltə/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "过滤；筛选；渗透",
+  "examples": [
+    {
+      "sentence": "The company will filter all job applications based on relevant experience and qualifications.",
+      "style": "Formal",
+      "translation": "公司将根据相关经验和资质筛选所有求职申请。",
+      "translated_word": "筛选",
+      "display_order": 4
+    },
+    {
+      "sentence": "To filter means to pass something through a device that removes unwanted particles or substances.",
+      "style": "Definitional",
+      "translation": "过滤是指让某物通过一个装置，以去除不需要的颗粒或物质。",
+      "translated_word": "过滤",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike sorting, which rearranges items, filtering removes them entirely from view.",
+      "style": "Contrastive",
+      "translation": "与排序不同，排序只是重新排列项目，而过滤则将其完全从视图中移除。",
+      "translated_word": "过滤",
+      "display_order": null
+    },
+    {
+      "sentence": "The software can filter out spam emails before they reach the inbox.",
+      "style": "Collocational",
+      "translation": "该软件可以在垃圾邮件到达收件箱之前将其过滤掉。",
+      "translated_word": "过滤",
+      "display_order": 2
+    },
+    {
+      "sentence": "The mind tends to filter reality, showing only what it expects to see.",
+      "style": "Philosophical",
+      "translation": "人的心智往往会过滤现实，只呈现它预期看到的东西。",
+      "translated_word": "过滤",
+      "display_order": 3
+    },
+    {
+      "sentence": "Morning light filtered through the curtains, painting golden stripes across the floor.",
+      "style": "Poetic",
+      "translation": "晨光透过窗帘渗入，在地板上描绘出一道道金色的条纹。",
+      "translated_word": "渗入",
+      "display_order": 1
+    },
+    {
+      "sentence": "Learn to filter negativity and let only encouragement shape your path forward.",
+      "style": "Inspirational",
+      "translation": "学会过滤消极情绪，只让鼓励来塑造你前行的道路。",
+      "translated_word": "过滤",
+      "display_order": null
+    }
+  ]
+}

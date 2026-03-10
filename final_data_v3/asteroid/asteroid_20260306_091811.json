@@ -1,0 +1,60 @@
+{
+  "word": "asteroid",
+  "phonetic": "/ˈæstəɹoɪd/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "小行星；星状天体",
+  "examples": [
+    {
+      "sentence": "Scientists detected a large asteroid passing within 500,000 kilometers of Earth yesterday.",
+      "style": "Formal",
+      "translation": "科学家昨日探测到一颗大型小行星从距地球50万公里处掠过。",
+      "translated_word": "小行星",
+      "display_order": null
+    },
+    {
+      "sentence": "An asteroid is a rocky object that orbits the sun, smaller than a planet but larger than a meteoroid.",
+      "style": "Definitional",
+      "translation": "小行星是一种绕太阳运行的岩石天体，比行星小，但比流星体大。",
+      "translated_word": "小行星",
+      "display_order": 4
+    },
+    {
+      "sentence": "Unlike comets, which have tails of gas and dust, an asteroid is composed mainly of rock and metal.",
+      "style": "Contrastive",
+      "translation": "与拖着气体和尘埃尾巴的彗星不同，小行星主要由岩石和金属构成。",
+      "translated_word": "小行星",
+      "display_order": 1
+    },
+    {
+      "sentence": "The asteroid belt between Mars and Jupiter contains millions of these celestial bodies.",
+      "style": "Collocational",
+      "translation": "火星和木星之间的小行星带包含数百万颗这样的天体。",
+      "translated_word": "小行星",
+      "display_order": 2
+    },
+    {
+      "sentence": "A single asteroid reminds us how fragile existence can be in the vast emptiness of space.",
+      "style": "Philosophical",
+      "translation": "一颗小行星足以提醒人们，在浩瀚的宇宙虚空中，生命是多么脆弱。",
+      "translated_word": "小行星",
+      "display_order": null
+    },
+    {
+      "sentence": "The asteroid drifted silently through the darkness, a lonely wanderer carrying ancient secrets of the cosmos.",
+      "style": "Poetic",
+      "translation": "那颗小行星静静地穿越黑暗，如孤独的流浪者，承载着宇宙的远古秘密。",
+      "translated_word": "小行星",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every asteroid that misses Earth is a reminder that the universe still has plans for this pale blue dot.",
+      "style": "Inspirational",
+      "translation": "每一颗与地球擦肩而过的小行星都在提醒人们：宇宙对这颗蓝色星球仍有安排。",
+      "translated_word": "小行星",
+      "display_order": null
+    }
+  ]
+}

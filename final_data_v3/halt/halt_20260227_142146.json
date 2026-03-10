@@ -1,0 +1,62 @@
+{
+  "word": "halt",
+  "phonetic": "/hɔːlt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "停止；中止；使停下",
+  "examples": [
+    {
+      "sentence": "The government has halted all construction projects pending further environmental review.",
+      "style": "Formal",
+      "translation": "政府已暂停所有建设项目，等待进一步的环境评估。",
+      "translated_word": "暂停",
+      "display_order": 2
+    },
+    {
+      "sentence": "To halt means to stop suddenly or bring something to a standstill.",
+      "style": "Definitional",
+      "translation": "halt的意思是突然停止或使某事陷入停滞。",
+      "translated_word": "停止",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike pausing, which implies resumption, halting often suggests a complete stop.",
+      "style": "Contrastive",
+      "translation": "与暂停不同，暂停意味着会继续，而halt通常表示彻底停止。",
+      "translated_word": "停止",
+      "display_order": 3
+    },
+    {
+      "sentence": "The officer raised his hand to halt traffic at the intersection.",
+      "style": "Collocational",
+      "translation": "警察举起手，在十字路口拦停了车辆。",
+      "translated_word": "拦停",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sometimes one must halt the pursuit of progress to ask whether the destination is worth reaching.",
+      "style": "Philosophical",
+      "translation": "有时人们必须停下追逐进步的脚步，问问目的地是否值得抵达。",
+      "translated_word": "停下",
+      "display_order": 4
+    },
+    {
+      "sentence": "The river halted where stone met sky, suspended between motion and stillness.",
+      "style": "Poetic",
+      "translation": "河流在石与天交汇处停驻，悬于流动与静止之间。",
+      "translated_word": "停驻",
+      "display_order": null
+    },
+    {
+      "sentence": "Halt the doubts in your mind; they are the only barriers between you and your dreams.",
+      "style": "Inspirational",
+      "translation": "停止心中的疑虑吧，它们是你与梦想之间唯一的障碍。",
+      "translated_word": "停止",
+      "display_order": null
+    }
+  ]
+}

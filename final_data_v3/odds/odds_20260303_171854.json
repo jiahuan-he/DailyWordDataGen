@@ -1,0 +1,60 @@
+{
+  "word": "odds",
+  "phonetic": "/ɒdz/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "几率；可能性；胜算",
+  "examples": [
+    {
+      "sentence": "The odds of a recession have increased significantly, according to leading economists.",
+      "style": "Formal",
+      "translation": "据主要经济学家分析，经济衰退的可能性已大幅上升。",
+      "translated_word": "可能性",
+      "display_order": 4
+    },
+    {
+      "sentence": "Odds represent the probability of something happening versus not happening.",
+      "style": "Definitional",
+      "translation": "几率表示某事发生与不发生的可能性对比。",
+      "translated_word": "几率",
+      "display_order": null
+    },
+    {
+      "sentence": "The odds were against him, yet the underdog triumphed where the favorite failed.",
+      "style": "Contrastive",
+      "translation": "尽管胜算渺茫，这位弱者却战胜了众人看好的对手。",
+      "translated_word": "胜算",
+      "display_order": null
+    },
+    {
+      "sentence": "Against all odds, she survived the accident and made a full recovery.",
+      "style": "Collocational",
+      "translation": "尽管希望渺茫，她还是奇迹般地从事故中活了下来，完全康复了。",
+      "translated_word": "希望",
+      "display_order": 1
+    },
+    {
+      "sentence": "The odds only measure what is likely, not what is possible.",
+      "style": "Philosophical",
+      "translation": "几率只能衡量可能发生的事，却无法定义能够实现的事。",
+      "translated_word": "几率",
+      "display_order": 2
+    },
+    {
+      "sentence": "Like dice tossed into the wind, the odds dance between fate and chance.",
+      "style": "Poetic",
+      "translation": "如同掷入风中的骰子，几率在命运与偶然之间起舞。",
+      "translated_word": "几率",
+      "display_order": null
+    },
+    {
+      "sentence": "The odds may be stacked against you, but courage rewrites the numbers.",
+      "style": "Inspirational",
+      "translation": "纵使胜算微乎其微，勇气也能改写结局。",
+      "translated_word": "胜算",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "beneficial",
+  "phonetic": "/ˌbɛnəˈfɪʃəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有益的；有利的；有好处的",
+  "examples": [
+    {
+      "sentence": "The new policy is expected to be beneficial to small businesses and local economies.",
+      "style": "Formal",
+      "translation": "新政策预计将对小型企业和地方经济产生积极影响。",
+      "translated_word": "积极影响",
+      "display_order": null
+    },
+    {
+      "sentence": "Something beneficial produces good results or improves a situation.",
+      "style": "Definitional",
+      "translation": "有益的事物能够带来好的结果或改善现状。",
+      "translated_word": "有益",
+      "display_order": null
+    },
+    {
+      "sentence": "Regular exercise is beneficial, whereas a sedentary lifestyle leads to health problems.",
+      "style": "Contrastive",
+      "translation": "规律运动有益健康，而久坐不动的生活方式则会导致健康问题。",
+      "translated_word": "有益",
+      "display_order": 1
+    },
+    {
+      "sentence": "A mutually beneficial partnership helps both companies grow.",
+      "style": "Collocational",
+      "translation": "互利共赢的合作关系有助于双方公司共同成长。",
+      "translated_word": "互利共赢",
+      "display_order": 2
+    },
+    {
+      "sentence": "What seems harmful today may prove beneficial in the long run.",
+      "style": "Philosophical",
+      "translation": "今日看似有害之事，长远来看或许反而有益。",
+      "translated_word": "有益",
+      "display_order": 3
+    },
+    {
+      "sentence": "Like rain upon parched earth, kind words are beneficial to a weary soul.",
+      "style": "Poetic",
+      "translation": "善言之于疲惫的心灵，如同甘霖之于干涸的土地。",
+      "translated_word": "甘霖",
+      "display_order": null
+    },
+    {
+      "sentence": "Every challenge carries something beneficial; seek the lesson within the struggle.",
+      "style": "Inspirational",
+      "translation": "每个挑战都蕴含着益处，在困难中寻找成长的契机。",
+      "translated_word": "益处",
+      "display_order": 4
+    }
+  ]
+}

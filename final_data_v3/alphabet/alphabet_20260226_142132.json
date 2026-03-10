@@ -1,0 +1,61 @@
+{
+  "word": "alphabet",
+  "phonetic": "/ˈæl.fə.bɛt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "字母表；基础知识；入门",
+  "examples": [
+    {
+      "sentence": "The committee proposed reforms to standardize the alphabet used in official documents.",
+      "style": "Formal",
+      "translation": "委员会提议对官方文件中使用的字母表进行标准化改革。",
+      "translated_word": "字母表",
+      "display_order": null
+    },
+    {
+      "sentence": "An alphabet is a set of letters arranged in a fixed order to represent the sounds of a language.",
+      "style": "Definitional",
+      "translation": "字母表是一组按固定顺序排列的字母，用于表示语言的发音。",
+      "translated_word": "字母表",
+      "display_order": 4
+    },
+    {
+      "sentence": "Unlike Chinese characters, which number in the thousands, the English alphabet contains only 26 letters.",
+      "style": "Contrastive",
+      "translation": "与数以千计的汉字不同，英语字母表仅包含26个字母。",
+      "translated_word": "字母表",
+      "display_order": 2
+    },
+    {
+      "sentence": "Children learn to recite the alphabet before they begin reading.",
+      "style": "Collocational",
+      "translation": "孩子们在开始阅读之前先学会背诵字母表。",
+      "translated_word": "字母表",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every great story ever told began with the simple gift of an alphabet.",
+      "style": "Philosophical",
+      "translation": "每一个伟大的故事，都始于字母表这份简单的馈赠。",
+      "translated_word": "字母表",
+      "display_order": null
+    },
+    {
+      "sentence": "The alphabet dances across the page, each letter a stepping stone to new worlds.",
+      "style": "Poetic",
+      "translation": "字母在纸上翩翩起舞，每一个都是通往新世界的垫脚石。",
+      "translated_word": "字母",
+      "display_order": null
+    },
+    {
+      "sentence": "Master the alphabet of your craft, and the language of success will follow.",
+      "style": "Inspirational",
+      "translation": "掌握你所从事领域的基础知识，成功的语言自会随之而来。",
+      "translated_word": "基础知识",
+      "display_order": 3
+    }
+  ]
+}

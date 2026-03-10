@@ -1,0 +1,60 @@
+{
+  "word": "minimal",
+  "phonetic": "/mɪnəməl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "最小的；极少的；简约的",
+  "examples": [
+    {
+      "sentence": "The company reported minimal losses despite the economic downturn.",
+      "style": "Formal",
+      "translation": "尽管经济下行，该公司报告的损失微乎其微。",
+      "translated_word": "微乎其微",
+      "display_order": null
+    },
+    {
+      "sentence": "A minimal design uses only essential elements, removing all unnecessary decoration.",
+      "style": "Definitional",
+      "translation": "简约设计只使用必要元素，去除所有多余装饰。",
+      "translated_word": "简约",
+      "display_order": 1
+    },
+    {
+      "sentence": "Unlike elaborate ornamentation, minimal aesthetics focus on clean lines and open space.",
+      "style": "Contrastive",
+      "translation": "与繁复的装饰不同，简约美学注重简洁的线条和开阔的空间。",
+      "translated_word": "简约",
+      "display_order": null
+    },
+    {
+      "sentence": "The procedure requires minimal effort and poses minimal risk.",
+      "style": "Collocational",
+      "translation": "这个程序只需极少的精力，风险也很小。",
+      "translated_word": "极少",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sometimes the minimal path reveals what truly matters.",
+      "style": "Philosophical",
+      "translation": "有时，极简之路能揭示真正重要的东西。",
+      "translated_word": "极简",
+      "display_order": null
+    },
+    {
+      "sentence": "A single brushstroke on white canvas: minimal, yet whole.",
+      "style": "Poetic",
+      "translation": "白色画布上的一笔：极简，却完整。",
+      "translated_word": "极简",
+      "display_order": 2
+    },
+    {
+      "sentence": "Start with minimal steps; small beginnings lead to great transformations.",
+      "style": "Inspirational",
+      "translation": "从最小的步骤开始，小小的起点能带来巨大的改变。",
+      "translated_word": "最小",
+      "display_order": 4
+    }
+  ]
+}

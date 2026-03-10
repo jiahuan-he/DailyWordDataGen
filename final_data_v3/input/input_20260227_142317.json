@@ -1,0 +1,61 @@
+{
+  "word": "input",
+  "phonetic": "/ˈɪnpʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "输入；投入；意见",
+  "examples": [
+    {
+      "sentence": "The committee welcomed input from stakeholders before finalizing the policy.",
+      "style": "Formal",
+      "translation": "委员会在敲定政策前欢迎各利益相关方提供意见。",
+      "translated_word": "意见",
+      "display_order": null
+    },
+    {
+      "sentence": "Input refers to the data or information entered into a system for processing.",
+      "style": "Definitional",
+      "translation": "输入是指输入系统以供处理的数据或信息。",
+      "translated_word": "输入",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike output, which is what a system produces, input is what it receives.",
+      "style": "Contrastive",
+      "translation": "与系统产生的输出不同，输入是系统接收的内容。",
+      "translated_word": "输入",
+      "display_order": 2
+    },
+    {
+      "sentence": "The manager values employee input on important decisions.",
+      "style": "Collocational",
+      "translation": "经理重视员工对重要决策的意见。",
+      "translated_word": "意见",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every great creation begins with a single input: an idea seeking form.",
+      "style": "Philosophical",
+      "translation": "每一项伟大的创造都始于一个输入：一个寻求形式的想法。",
+      "translated_word": "输入",
+      "display_order": null
+    },
+    {
+      "sentence": "The artist's input flows like water into clay, shaping silence into song.",
+      "style": "Poetic",
+      "translation": "艺术家的投入如水流入陶土，将寂静塑造成歌。",
+      "translated_word": "投入",
+      "display_order": 4
+    },
+    {
+      "sentence": "Your input matters; every voice can shape the future.",
+      "style": "Inspirational",
+      "translation": "你的意见很重要；每一个声音都能塑造未来。",
+      "translated_word": "意见",
+      "display_order": 3
+    }
+  ]
+}

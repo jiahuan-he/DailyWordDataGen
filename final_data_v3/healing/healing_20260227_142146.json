@@ -1,0 +1,61 @@
+{
+  "word": "healing",
+  "phonetic": "/ˈhiːlɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "痊愈；康复；愈合",
+  "examples": [
+    {
+      "sentence": "The healing of diplomatic relations between the two nations has been a slow but steady process.",
+      "style": "Formal",
+      "translation": "两国外交关系的修复是一个缓慢但稳定的过程。",
+      "translated_word": "修复",
+      "display_order": null
+    },
+    {
+      "sentence": "Healing refers to the natural process by which the body repairs damaged tissue.",
+      "style": "Definitional",
+      "translation": "愈合是指身体修复受损组织的自然过程。",
+      "translated_word": "愈合",
+      "display_order": null
+    },
+    {
+      "sentence": "Physical healing mends the body, but emotional healing restores the spirit.",
+      "style": "Contrastive",
+      "translation": "身体的愈合修复肉体，而心灵的疗愈则修复精神。",
+      "translated_word": "愈合",
+      "display_order": 2
+    },
+    {
+      "sentence": "The healing of wounds requires time, rest, and proper nutrition.",
+      "style": "Collocational",
+      "translation": "伤口的愈合需要时间、休息和适当的营养。",
+      "translated_word": "愈合",
+      "display_order": 1
+    },
+    {
+      "sentence": "True healing begins when one stops hiding from the pain.",
+      "style": "Philosophical",
+      "translation": "真正的疗愈始于不再逃避痛苦。",
+      "translated_word": "疗愈",
+      "display_order": null
+    },
+    {
+      "sentence": "The healing came like spring rain: quiet, persistent, and full of life.",
+      "style": "Poetic",
+      "translation": "疗愈如春雨般降临：静谧、绵延，充满生机。",
+      "translated_word": "疗愈",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every step toward healing is a victory worth celebrating.",
+      "style": "Inspirational",
+      "translation": "通往康复的每一步都是值得庆祝的胜利。",
+      "translated_word": "康复",
+      "display_order": 4
+    }
+  ]
+}

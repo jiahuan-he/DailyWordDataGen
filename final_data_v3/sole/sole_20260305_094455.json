@@ -1,0 +1,62 @@
+{
+  "word": "sole",
+  "phonetic": "/səʊl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "唯一的；单独的；独有的",
+  "examples": [
+    {
+      "sentence": "The company's sole spokesperson declined to comment on the merger.",
+      "style": "Formal",
+      "translation": "该公司唯一的发言人拒绝就此次合并发表评论。",
+      "translated_word": "唯一的",
+      "display_order": null
+    },
+    {
+      "sentence": "Sole means being the only one of its kind, with no others involved.",
+      "style": "Definitional",
+      "translation": "sole意为独一无二，没有其他人或事物参与。",
+      "translated_word": "独一无二",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike shared custody, sole custody grants one parent all decision-making rights.",
+      "style": "Contrastive",
+      "translation": "与共同监护权不同，单独监护权将所有决定权授予一方父母。",
+      "translated_word": "单独",
+      "display_order": 2
+    },
+    {
+      "sentence": "She bears sole responsibility for the project's success.",
+      "style": "Collocational",
+      "translation": "她独自承担项目成功与否的全部责任。",
+      "translated_word": "独自",
+      "display_order": 1
+    },
+    {
+      "sentence": "Being the sole witness to a moment makes one both its keeper and its prisoner.",
+      "style": "Philosophical",
+      "translation": "作为某一时刻的唯一见证者，人既是它的守护者，也是它的囚徒。",
+      "translated_word": "唯一",
+      "display_order": 3
+    },
+    {
+      "sentence": "A sole candle flickered in the window, a lonely star in the darkness.",
+      "style": "Poetic",
+      "translation": "窗边一支孤烛摇曳，如黑暗中一颗寂寞的星。",
+      "translated_word": "孤",
+      "display_order": 4
+    },
+    {
+      "sentence": "Sometimes being the sole voice of reason is exactly what the world needs.",
+      "style": "Inspirational",
+      "translation": "有时候，成为唯一理性的声音正是这个世界所需要的。",
+      "translated_word": "唯一",
+      "display_order": null
+    }
+  ]
+}

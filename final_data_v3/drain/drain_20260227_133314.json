@@ -1,0 +1,61 @@
+{
+  "word": "drain",
+  "phonetic": "/dɹeɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "排水；耗尽；流干",
+  "examples": [
+    {
+      "sentence": "The city council approved a plan to drain the contaminated reservoir by the end of the month.",
+      "style": "Formal",
+      "translation": "市议会批准了一项计划，将在月底前排干受污染的水库。",
+      "translated_word": "排干",
+      "display_order": 3
+    },
+    {
+      "sentence": "To drain means to remove liquid from something by letting it flow away.",
+      "style": "Definitional",
+      "translation": "Drain的意思是让液体流走，从而将其排出。",
+      "translated_word": "排出",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike simply emptying a container, draining allows the liquid to exit gradually through an opening.",
+      "style": "Contrastive",
+      "translation": "与直接倒空容器不同，排水是让液体通过开口逐渐流出。",
+      "translated_word": "排水",
+      "display_order": null
+    },
+    {
+      "sentence": "Remember to drain the pasta before adding the sauce.",
+      "style": "Collocational",
+      "translation": "记得在加酱汁之前把意大利面的水沥干。",
+      "translated_word": "沥干",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every argument seemed to drain the remaining warmth from their friendship.",
+      "style": "Philosophical",
+      "translation": "每一次争吵似乎都在消耗他们友谊中仅存的温情。",
+      "translated_word": "消耗",
+      "display_order": 4
+    },
+    {
+      "sentence": "The sunset drained its last gold into the sea, leaving the sky pale and still.",
+      "style": "Poetic",
+      "translation": "夕阳将最后一抹金色倾入大海，留下苍白而静谧的天空。",
+      "translated_word": "倾入",
+      "display_order": null
+    },
+    {
+      "sentence": "Do not let negativity drain your spirit; protect your energy for what truly matters.",
+      "style": "Inspirational",
+      "translation": "别让消极情绪耗尽你的精神，把能量留给真正重要的事。",
+      "translated_word": "耗尽",
+      "display_order": 2
+    }
+  ]
+}

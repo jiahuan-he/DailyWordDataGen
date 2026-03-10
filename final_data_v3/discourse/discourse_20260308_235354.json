@@ -1,0 +1,61 @@
+{
+  "word": "discourse",
+  "phonetic": "/dɪsˈkɔː(ɹ)s/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "论述；话语；演讲；讨论",
+  "examples": [
+    {
+      "sentence": "The academic discourse on climate policy has evolved rapidly in recent years.",
+      "style": "Formal",
+      "translation": "近年来，关于气候政策的学术讨论发展迅速。",
+      "translated_word": "讨论",
+      "display_order": 4
+    },
+    {
+      "sentence": "Discourse refers to formal, extended expression of thought on a subject.",
+      "style": "Definitional",
+      "translation": "话语是指对某一主题进行正式、深入的思想表达。",
+      "translated_word": "话语",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike casual chat, discourse demands structure and reasoned arguments.",
+      "style": "Contrastive",
+      "translation": "与闲聊不同，论述需要条理清晰和有理有据的论证。",
+      "translated_word": "论述",
+      "display_order": 1
+    },
+    {
+      "sentence": "Public discourse shapes how society understands complex issues.",
+      "style": "Collocational",
+      "translation": "公共话语塑造了社会对复杂问题的理解方式。",
+      "translated_word": "话语",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every discourse reveals as much about the speaker as the subject itself.",
+      "style": "Philosophical",
+      "translation": "每一场论述所揭示的，既关乎主题本身，也关乎言说者。",
+      "translated_word": "论述",
+      "display_order": 3
+    },
+    {
+      "sentence": "Their discourse flowed like a river: sometimes rushing, sometimes still.",
+      "style": "Poetic",
+      "translation": "他们的对话如河流般流淌：时而湍急，时而平静。",
+      "translated_word": "对话",
+      "display_order": null
+    },
+    {
+      "sentence": "Honest discourse builds bridges where silence only deepens divides.",
+      "style": "Inspirational",
+      "translation": "真诚的对话能架起桥梁，而沉默只会加深隔阂。",
+      "translated_word": "对话",
+      "display_order": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "database",
+  "phonetic": "/ˈdeɪtəˌbeɪs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "数据库；资料库",
+  "examples": [
+    {
+      "sentence": "The company announced a major security breach affecting its customer database.",
+      "style": "Formal",
+      "translation": "该公司宣布其客户数据库遭受重大安全漏洞。",
+      "translated_word": "数据库",
+      "display_order": null
+    },
+    {
+      "sentence": "A database is an organized collection of information stored electronically for easy retrieval.",
+      "style": "Definitional",
+      "translation": "数据库是一种有组织的电子信息集合，便于检索和访问。",
+      "translated_word": "数据库",
+      "display_order": 4
+    },
+    {
+      "sentence": "Unlike a simple spreadsheet, a database can handle complex relationships between millions of records.",
+      "style": "Contrastive",
+      "translation": "与简单的电子表格不同，数据库能够处理数百万条记录之间的复杂关系。",
+      "translated_word": "数据库",
+      "display_order": 1
+    },
+    {
+      "sentence": "The team needs to query the database and update the user records accordingly.",
+      "style": "Collocational",
+      "translation": "团队需要查询数据库并相应更新用户记录。",
+      "translated_word": "数据库",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every database is a form of memory: what a society chooses to remember shapes what it becomes.",
+      "style": "Philosophical",
+      "translation": "每一个数据库都是一种记忆形式：一个社会选择记住什么，决定了它会成为什么。",
+      "translated_word": "数据库",
+      "display_order": null
+    },
+    {
+      "sentence": "The database hums in the dark server room, a silent librarian tending infinite shelves.",
+      "style": "Poetic",
+      "translation": "数据库在昏暗的机房中低声运转，如同一位沉默的图书管理员，守护着无尽的书架。",
+      "translated_word": "数据库",
+      "display_order": 3
+    },
+    {
+      "sentence": "Build a database of skills and experiences; every entry becomes a stepping stone to success.",
+      "style": "Inspirational",
+      "translation": "建立一个技能和经验的数据库，每一条记录都将成为通往成功的垫脚石。",
+      "translated_word": "数据库",
+      "display_order": null
+    }
+  ]
+}

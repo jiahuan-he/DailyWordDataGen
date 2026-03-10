@@ -1,0 +1,61 @@
+{
+  "word": "rap",
+  "phonetic": "/ɹæp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "说唱乐；敲击声；指控",
+  "examples": [
+    {
+      "sentence": "The documentary explores the evolution of rap from underground clubs to mainstream success.",
+      "style": "Formal",
+      "translation": "这部纪录片探讨了说唱乐从地下俱乐部走向主流成功的演变历程。",
+      "translated_word": "说唱",
+      "display_order": null
+    },
+    {
+      "sentence": "Rap is a musical style featuring rhythmic speech over beats.",
+      "style": "Definitional",
+      "translation": "说唱是一种在节拍上进行有节奏念白的音乐风格。",
+      "translated_word": "说唱",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike rock, rap relies more on lyrical wordplay than instrumental melody.",
+      "style": "Contrastive",
+      "translation": "与摇滚不同，说唱更依赖歌词的文字游戏，而非器乐旋律。",
+      "translated_word": "说唱",
+      "display_order": 1
+    },
+    {
+      "sentence": "The artist took the rap for the controversial lyrics, even though others helped write them.",
+      "style": "Collocational",
+      "translation": "这位艺人独自承担了争议歌词的指责，尽管其他人也参与了创作。",
+      "translated_word": "指责",
+      "display_order": 3
+    },
+    {
+      "sentence": "Rap becomes the voice of those who feel unheard by the world.",
+      "style": "Philosophical",
+      "translation": "说唱成为那些感到不被世界倾听之人的声音。",
+      "translated_word": "说唱",
+      "display_order": 2
+    },
+    {
+      "sentence": "The rap rises like smoke from city corners, carrying tales of struggle and dreams.",
+      "style": "Poetic",
+      "translation": "说唱如烟雾般从城市街角升起，承载着奋斗与梦想的故事。",
+      "translated_word": "说唱",
+      "display_order": null
+    },
+    {
+      "sentence": "Through rap, anyone with words and courage can tell a story that moves millions.",
+      "style": "Inspirational",
+      "translation": "通过说唱，任何有文字和勇气的人都能讲述打动万千听众的故事。",
+      "translated_word": "说唱",
+      "display_order": 4
+    }
+  ]
+}

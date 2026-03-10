@@ -1,0 +1,61 @@
+{
+  "word": "pipe",
+  "phonetic": "/paɪp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "管子；烟斗；管道",
+  "examples": [
+    {
+      "sentence": "The city council approved a $2 million project to replace aging water pipes in the downtown district.",
+      "style": "Formal",
+      "translation": "市议会批准了一项两百万美元的项目，用于更换市中心老化的水管。",
+      "translated_word": "水管",
+      "display_order": 4
+    },
+    {
+      "sentence": "A pipe is a hollow tube used to transport liquids, gases, or other substances from one place to another.",
+      "style": "Definitional",
+      "translation": "管道是一种中空的管子，用于将液体、气体或其他物质从一处输送到另一处。",
+      "translated_word": "管道",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a hose, which is flexible, a pipe is typically rigid and made of metal or plastic.",
+      "style": "Contrastive",
+      "translation": "与柔软的软管不同，管子通常是坚硬的，由金属或塑料制成。",
+      "translated_word": "管子",
+      "display_order": 3
+    },
+    {
+      "sentence": "The plumber fixed the burst pipe before it could cause any further water damage.",
+      "style": "Collocational",
+      "translation": "水管工在爆裂的水管造成更多损害之前将其修好了。",
+      "translated_word": "水管",
+      "display_order": 2
+    },
+    {
+      "sentence": "Like a pipe that channels water to where it is needed, purpose directs energy toward meaningful ends.",
+      "style": "Philosophical",
+      "translation": "正如管道将水引向需要的地方，目标也将精力引向有意义的方向。",
+      "translated_word": "管道",
+      "display_order": null
+    },
+    {
+      "sentence": "The old man sat on the porch, smoke curling from his pipe like whispered secrets rising to the stars.",
+      "style": "Poetic",
+      "translation": "老人坐在门廊上，烟斗里的烟雾袅袅升起，如同轻声细语飘向星空。",
+      "translated_word": "烟斗",
+      "display_order": 1
+    },
+    {
+      "sentence": "Be the pipe that delivers value to others; the more you channel, the more flows through your life.",
+      "style": "Inspirational",
+      "translation": "做一根传递价值的管道；你输送得越多，流经你生命的也越多。",
+      "translated_word": "管道",
+      "display_order": null
+    }
+  ]
+}

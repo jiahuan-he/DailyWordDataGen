@@ -1,0 +1,60 @@
+{
+  "word": "investigate",
+  "phonetic": "[ɪn.ˈves.tɪ.ɡeɪ̯t]",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "调查；审查；研究",
+  "examples": [
+    {
+      "sentence": "Authorities are investigating the cause of the explosion that injured twelve workers.",
+      "style": "Formal",
+      "translation": "当局正在调查导致十二名工人受伤的爆炸原因。",
+      "translated_word": "调查",
+      "display_order": null
+    },
+    {
+      "sentence": "To investigate means to examine something carefully to discover the truth.",
+      "style": "Definitional",
+      "translation": "调查意味着仔细审视某事以发现真相。",
+      "translated_word": "调查",
+      "display_order": null
+    },
+    {
+      "sentence": "Scientists investigate through experiments, while historians investigate through documents.",
+      "style": "Contrastive",
+      "translation": "科学家通过实验进行研究，而历史学家则通过文献进行考证。",
+      "translated_word": "研究",
+      "display_order": 2
+    },
+    {
+      "sentence": "The committee will investigate allegations of misconduct thoroughly.",
+      "style": "Collocational",
+      "translation": "委员会将彻底调查不当行为的指控。",
+      "translated_word": "调查",
+      "display_order": 1
+    },
+    {
+      "sentence": "Those who investigate their own minds often find answers they never sought.",
+      "style": "Philosophical",
+      "translation": "审视自己内心的人，往往会发现意想不到的答案。",
+      "translated_word": "审视",
+      "display_order": 3
+    },
+    {
+      "sentence": "The moon investigates the sleeping earth, casting silver questions on the water.",
+      "style": "Poetic",
+      "translation": "月亮探寻着沉睡的大地，将银色的疑问洒落水面。",
+      "translated_word": "探寻",
+      "display_order": null
+    },
+    {
+      "sentence": "Investigate your dreams with the same rigor you bring to your doubts.",
+      "style": "Inspirational",
+      "translation": "用审视疑虑的认真态度，去探索你的梦想。",
+      "translated_word": "探索",
+      "display_order": 4
+    }
+  ]
+}

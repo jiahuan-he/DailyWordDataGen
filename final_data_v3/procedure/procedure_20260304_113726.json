@@ -1,0 +1,60 @@
+{
+  "word": "procedure",
+  "phonetic": "/pɹəˈsiːdʒə/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "程序；步骤；手续；流程",
+  "examples": [
+    {
+      "sentence": "The hospital has updated its admission procedure to streamline patient intake.",
+      "style": "Formal",
+      "translation": "医院更新了入院手续，以简化患者接诊流程。",
+      "translated_word": "手续",
+      "display_order": 4
+    },
+    {
+      "sentence": "A procedure is a set of steps followed in a specific order to complete a task.",
+      "style": "Definitional",
+      "translation": "程序是按照特定顺序完成任务的一系列步骤。",
+      "translated_word": "程序",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a guideline, a procedure must be followed exactly as written.",
+      "style": "Contrastive",
+      "translation": "与指导方针不同，程序必须严格按照书面规定执行。",
+      "translated_word": "程序",
+      "display_order": 2
+    },
+    {
+      "sentence": "The surgeon performed a routine procedure that took less than an hour.",
+      "style": "Collocational",
+      "translation": "外科医生完成了一项常规手术，用时不到一小时。",
+      "translated_word": "手术",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every procedure, no matter how small, reflects the values we uphold.",
+      "style": "Philosophical",
+      "translation": "每一道程序，无论多么微小，都折射出我们所坚守的价值观。",
+      "translated_word": "程序",
+      "display_order": null
+    },
+    {
+      "sentence": "The procedure of dawn unfolds silently: first light, then birdsong, then the world awakens.",
+      "style": "Poetic",
+      "translation": "黎明的程序悄然展开：先是曙光，然后是鸟鸣，最后整个世界苏醒。",
+      "translated_word": "程序",
+      "display_order": null
+    },
+    {
+      "sentence": "Mastering any procedure takes practice; trust the process and keep refining your approach.",
+      "style": "Inspirational",
+      "translation": "掌握任何流程都需要练习；相信过程，不断改进方法。",
+      "translated_word": "流程",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "word": "blue",
+  "phonetic": "/bluː/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "蓝色的；忧郁的；下流的",
+  "examples": [
+    {
+      "sentence": "The committee approved the new blue recycling bins for residential areas.",
+      "style": "Formal",
+      "translation": "委员会批准在居民区使用新的蓝色回收箱。",
+      "translated_word": "蓝色",
+      "display_order": null
+    },
+    {
+      "sentence": "Blue describes the color of a clear sky or the deep ocean.",
+      "style": "Definitional",
+      "translation": "蓝色形容晴朗天空或深海的颜色。",
+      "translated_word": "蓝色",
+      "display_order": null
+    },
+    {
+      "sentence": "The walls looked better in blue than in green.",
+      "style": "Contrastive",
+      "translation": "墙壁刷成蓝色比绿色更好看。",
+      "translated_word": "蓝色",
+      "display_order": 4
+    },
+    {
+      "sentence": "She wore a blue dress to the evening gala.",
+      "style": "Collocational",
+      "translation": "她穿着一条蓝色连衣裙出席晚宴。",
+      "translated_word": "蓝色",
+      "display_order": 2
+    },
+    {
+      "sentence": "Feeling blue reminds us that even the sky must darken before stars appear.",
+      "style": "Philosophical",
+      "translation": "感到忧郁提醒我们，即使是天空也要先变暗，星星才会出现。",
+      "translated_word": "忧郁",
+      "display_order": 1
+    },
+    {
+      "sentence": "The blue hour wrapped the city in velvet silence.",
+      "style": "Poetic",
+      "translation": "蓝色时分用天鹅绒般的寂静笼罩着城市。",
+      "translated_word": "蓝色",
+      "display_order": 3
+    },
+    {
+      "sentence": "When the world feels blue, remember that storms always pass.",
+      "style": "Inspirational",
+      "translation": "当世界显得忧郁时，请记住风暴终会过去。",
+      "translated_word": "忧郁",
+      "display_order": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "catalog",
+  "phonetic": null,
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "目录；商品册；产品清单",
+  "examples": [
+    {
+      "sentence": "The museum released a comprehensive catalog of its newly acquired artifacts.",
+      "style": "Formal",
+      "translation": "博物馆发布了一份新入藏文物的完整目录。",
+      "translated_word": "目录",
+      "display_order": 2
+    },
+    {
+      "sentence": "A catalog is a systematic list of items, often with descriptions and prices.",
+      "style": "Definitional",
+      "translation": "目录是一种系统化的物品清单，通常包含描述和价格。",
+      "translated_word": "目录",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a simple inventory, a catalog provides detailed descriptions and visual references.",
+      "style": "Contrastive",
+      "translation": "与简单的清单不同，目录提供详细的描述和视觉参考。",
+      "translated_word": "目录",
+      "display_order": 4
+    },
+    {
+      "sentence": "She browsed through the product catalog before placing her order.",
+      "style": "Collocational",
+      "translation": "她在下单前翻阅了产品目录。",
+      "translated_word": "目录",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every library is a catalog of human thought across the ages.",
+      "style": "Philosophical",
+      "translation": "每一座图书馆都是人类历代思想的目录。",
+      "translated_word": "目录",
+      "display_order": null
+    },
+    {
+      "sentence": "The night sky is a catalog of ancient light, each star a story waiting to be read.",
+      "style": "Poetic",
+      "translation": "夜空是一本古老光芒的目录，每颗星都是一个等待阅读的故事。",
+      "translated_word": "目录",
+      "display_order": 3
+    },
+    {
+      "sentence": "Build a catalog of your achievements; it will remind you how far you have come.",
+      "style": "Inspirational",
+      "translation": "为自己的成就建一本目录，它会提醒你已经走了多远。",
+      "translated_word": "目录",
+      "display_order": null
+    }
+  ]
+}

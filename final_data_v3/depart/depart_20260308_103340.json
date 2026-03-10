@@ -1,0 +1,61 @@
+{
+  "word": "depart",
+  "phonetic": "/dɪˈpɑːt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "离开；出发；启程",
+  "examples": [
+    {
+      "sentence": "The delegation will depart for Geneva tomorrow morning to resume negotiations.",
+      "style": "Formal",
+      "translation": "代表团将于明天上午启程前往日内瓦，继续进行谈判。",
+      "translated_word": "启程",
+      "display_order": 4
+    },
+    {
+      "sentence": "To depart means to leave a place or begin a journey.",
+      "style": "Definitional",
+      "translation": "depart的意思是离开某地或开始一段旅程。",
+      "translated_word": "depart",
+      "display_order": null
+    },
+    {
+      "sentence": "While guests may arrive at any time, they must depart before midnight.",
+      "style": "Contrastive",
+      "translation": "客人可以随时到达，但必须在午夜前离开。",
+      "translated_word": "离开",
+      "display_order": 1
+    },
+    {
+      "sentence": "The flight is scheduled to depart from terminal two at six o'clock.",
+      "style": "Collocational",
+      "translation": "航班定于六点从二号航站楼起飞。",
+      "translated_word": "起飞",
+      "display_order": 3
+    },
+    {
+      "sentence": "Those who depart from tradition often become the ones who define it for the next generation.",
+      "style": "Philosophical",
+      "translation": "那些背离传统的人，往往成为为下一代定义传统的人。",
+      "translated_word": "背离",
+      "display_order": null
+    },
+    {
+      "sentence": "As swallows depart with the fading summer, they carry the sun's warmth on their wings.",
+      "style": "Poetic",
+      "translation": "当燕子随着消逝的夏日离去，它们的翅膀上承载着阳光的温暖。",
+      "translated_word": "离去",
+      "display_order": 2
+    },
+    {
+      "sentence": "Depart from fear, and you will find courage waiting on the other side.",
+      "style": "Inspirational",
+      "translation": "离开恐惧，你会发现勇气就在彼岸等候。",
+      "translated_word": "离开",
+      "display_order": null
+    }
+  ]
+}

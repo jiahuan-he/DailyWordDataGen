@@ -1,0 +1,62 @@
+{
+  "word": "state",
+  "phonetic": "/steɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "状态；情况；国家；州",
+  "examples": [
+    {
+      "sentence": "The minister addressed the current state of the economy in a press conference.",
+      "style": "Formal",
+      "translation": "部长在新闻发布会上谈到了当前的经济状况。",
+      "translated_word": "状况",
+      "display_order": 2
+    },
+    {
+      "sentence": "A state is a condition or way of being at a particular time.",
+      "style": "Definitional",
+      "translation": "状态是指在特定时间内的情形或存在方式。",
+      "translated_word": "状态",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a mood, which passes quickly, a state tends to persist over time.",
+      "style": "Contrastive",
+      "translation": "与转瞬即逝的情绪不同，状态往往会持续一段时间。",
+      "translated_word": "状态",
+      "display_order": 3
+    },
+    {
+      "sentence": "The patient was in a state of shock after receiving the news.",
+      "style": "Collocational",
+      "translation": "病人听到消息后陷入了震惊的状态。",
+      "translated_word": "状态",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every state of being contains within it the seeds of its own transformation.",
+      "style": "Philosophical",
+      "translation": "每一种存在状态都蕴含着自我转变的种子。",
+      "translated_word": "状态",
+      "display_order": null
+    },
+    {
+      "sentence": "The garden lay in a state of golden stillness, waiting for the first breath of spring.",
+      "style": "Poetic",
+      "translation": "花园沉浸在金色的静谧中，等待着春天的第一缕气息。",
+      "translated_word": "静谧",
+      "display_order": null
+    },
+    {
+      "sentence": "No matter your current state, remember that change is always possible.",
+      "style": "Inspirational",
+      "translation": "无论你现在处于何种状态，请记住改变永远是可能的。",
+      "translated_word": "状态",
+      "display_order": 4
+    }
+  ]
+}

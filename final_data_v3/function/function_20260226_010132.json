@@ -1,0 +1,61 @@
+{
+  "word": "function",
+  "phonetic": "/ˈfʌŋ(k)ʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "功能；作用；职责；函数",
+  "examples": [
+    {
+      "sentence": "The committee's primary function is to oversee budget allocations and ensure fiscal accountability.",
+      "style": "Formal",
+      "translation": "该委员会的主要职能是监督预算分配并确保财政问责。",
+      "translated_word": "职能",
+      "display_order": 4
+    },
+    {
+      "sentence": "A function is a specific purpose or role that something is designed to fulfill.",
+      "style": "Definitional",
+      "translation": "功能是指某物被设计来实现的特定目的或作用。",
+      "translated_word": "功能",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a feature, which describes what something has, a function describes what something does.",
+      "style": "Contrastive",
+      "translation": "特征描述的是某物具有什么，而功能描述的是某物做什么。",
+      "translated_word": "功能",
+      "display_order": 2
+    },
+    {
+      "sentence": "The brain performs the vital function of regulating bodily processes.",
+      "style": "Collocational",
+      "translation": "大脑发挥着调节身体机能的重要功能。",
+      "translated_word": "功能",
+      "display_order": 1
+    },
+    {
+      "sentence": "Perhaps the deepest function of art is not to depict reality, but to help us endure it.",
+      "style": "Philosophical",
+      "translation": "也许艺术最深层的作用不是描绘现实，而是帮助人们承受现实。",
+      "translated_word": "作用",
+      "display_order": 3
+    },
+    {
+      "sentence": "The heart beats on, faithful to its ancient function: a drummer keeping time for the dance of life.",
+      "style": "Poetic",
+      "translation": "心脏持续跳动，忠于它古老的使命：一位鼓手，为生命之舞打着节拍。",
+      "translated_word": "使命",
+      "display_order": null
+    },
+    {
+      "sentence": "Find your function in this world, and fulfilling it will bring meaning to each day.",
+      "style": "Inspirational",
+      "translation": "找到你在这个世界上的作用，履行它将为每一天带来意义。",
+      "translated_word": "作用",
+      "display_order": null
+    }
+  ]
+}

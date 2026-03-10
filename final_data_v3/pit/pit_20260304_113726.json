@@ -1,0 +1,61 @@
+{
+  "word": "pit",
+  "phonetic": "/ˈpɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "坑；深洞；果核",
+  "examples": [
+    {
+      "sentence": "The archaeological team uncovered a sacrificial pit dating back three thousand years.",
+      "style": "Formal",
+      "translation": "考古队发现了一个距今三千年的祭祀坑。",
+      "translated_word": "坑",
+      "display_order": 3
+    },
+    {
+      "sentence": "A pit is a large hole dug in the ground, often used for storage or burial.",
+      "style": "Definitional",
+      "translation": "坑是在地上挖出的大洞，通常用于储存或埋葬。",
+      "translated_word": "坑",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a trench, which is long and narrow, a pit is typically round and deep.",
+      "style": "Contrastive",
+      "translation": "与狭长的沟渠不同，坑通常是又圆又深的。",
+      "translated_word": "坑",
+      "display_order": 1
+    },
+    {
+      "sentence": "The car swerved to avoid a deep pit in the road.",
+      "style": "Collocational",
+      "translation": "汽车急转弯以避开路上的深坑。",
+      "translated_word": "坑",
+      "display_order": 2
+    },
+    {
+      "sentence": "The darkest pit reveals the value of light.",
+      "style": "Philosophical",
+      "translation": "最深的黑暗让人懂得光明的可贵。",
+      "translated_word": "黑暗",
+      "display_order": null
+    },
+    {
+      "sentence": "Stars gathered at the pit of the sky, whispering secrets to the sleeping earth.",
+      "style": "Poetic",
+      "translation": "星星聚在天穹深处，向沉睡的大地低语秘密。",
+      "translated_word": "深处",
+      "display_order": null
+    },
+    {
+      "sentence": "Every pit you fall into becomes a foundation to build upon.",
+      "style": "Inspirational",
+      "translation": "每一个跌入的深坑，都会成为向上攀登的基石。",
+      "translated_word": "坑",
+      "display_order": 4
+    }
+  ]
+}

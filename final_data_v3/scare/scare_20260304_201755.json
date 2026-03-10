@@ -1,0 +1,62 @@
+{
+  "word": "scare",
+  "phonetic": "/skɛə/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "惊吓；使害怕；吓唬",
+  "examples": [
+    {
+      "sentence": "The sudden power outage scared residents across the city.",
+      "style": "Formal",
+      "translation": "突如其来的停电吓坏了全城居民。",
+      "translated_word": "吓坏了",
+      "display_order": null
+    },
+    {
+      "sentence": "To scare someone means to cause them to feel sudden fear or alarm.",
+      "style": "Definitional",
+      "translation": "吓唬某人是指让对方突然感到恐惧或惊慌。",
+      "translated_word": "吓唬",
+      "display_order": null
+    },
+    {
+      "sentence": "Horror films scare audiences, while thrillers build suspense.",
+      "style": "Contrastive",
+      "translation": "恐怖片让观众感到害怕，而惊悚片则营造悬念。",
+      "translated_word": "害怕",
+      "display_order": null
+    },
+    {
+      "sentence": "The dog barked loudly enough to scare away the intruder.",
+      "style": "Collocational",
+      "translation": "那只狗叫得很响，把入侵者吓跑了。",
+      "translated_word": "吓跑",
+      "display_order": 1
+    },
+    {
+      "sentence": "What scares people most is often the unknown, not the threat itself.",
+      "style": "Philosophical",
+      "translation": "最让人害怕的往往不是威胁本身，而是未知。",
+      "translated_word": "害怕",
+      "display_order": 3
+    },
+    {
+      "sentence": "Thunder rolled across the sky, scaring the birds into silence.",
+      "style": "Poetic",
+      "translation": "雷声滚过天际，惊得群鸟噤声。",
+      "translated_word": "惊",
+      "display_order": 2
+    },
+    {
+      "sentence": "Do not let failure scare you away from trying again.",
+      "style": "Inspirational",
+      "translation": "不要让失败吓得你不敢再次尝试。",
+      "translated_word": "吓",
+      "display_order": 4
+    }
+  ]
+}

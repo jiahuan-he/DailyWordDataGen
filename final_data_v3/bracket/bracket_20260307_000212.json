@@ -1,0 +1,61 @@
+{
+  "word": "bracket",
+  "phonetic": "/ˈbɹækɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "括号；支架；等级；范围",
+  "examples": [
+    {
+      "sentence": "The new tax policy affects households in the highest income bracket.",
+      "style": "Formal",
+      "translation": "新税收政策影响最高收入等级的家庭。",
+      "translated_word": "等级",
+      "display_order": 1
+    },
+    {
+      "sentence": "A bracket is a punctuation mark used to enclose additional information.",
+      "style": "Definitional",
+      "translation": "括号是一种用于括起补充信息的标点符号。",
+      "translated_word": "括号",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike parentheses, square brackets are often used for editorial comments within quotations.",
+      "style": "Contrastive",
+      "translation": "与圆括号不同，方括号常用于引文中的编辑注释。",
+      "translated_word": "括号",
+      "display_order": 4
+    },
+    {
+      "sentence": "The shelf bracket was securely fastened to the wall.",
+      "style": "Collocational",
+      "translation": "搁板支架被牢牢固定在墙上。",
+      "translated_word": "支架",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every bracket society creates reveals something about what it chooses to measure.",
+      "style": "Philosophical",
+      "translation": "社会所创造的每个等级划分，都揭示了它选择衡量什么。",
+      "translated_word": "等级划分",
+      "display_order": null
+    },
+    {
+      "sentence": "Her name hung in the final bracket like a lone star waiting to be claimed.",
+      "style": "Poetic",
+      "translation": "她的名字悬在决赛对阵表中，如同一颗等待被摘取的孤星。",
+      "translated_word": "对阵表",
+      "display_order": 3
+    },
+    {
+      "sentence": "No matter the bracket life places you in, your worth is never defined by numbers.",
+      "style": "Inspirational",
+      "translation": "无论生活将你归入哪个等级，你的价值永远不由数字定义。",
+      "translated_word": "等级",
+      "display_order": null
+    }
+  ]
+}

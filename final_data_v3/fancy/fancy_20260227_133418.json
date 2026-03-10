@@ -1,0 +1,63 @@
+{
+  "word": "fancy",
+  "phonetic": "/ˈfæn.si/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "精致的；昂贵的；花哨的",
+  "examples": [
+    {
+      "sentence": "The hotel offers fancy accommodations designed to attract high-end tourists.",
+      "style": "Formal",
+      "translation": "这家酒店提供精致的住宿设施，旨在吸引高端游客。",
+      "translated_word": "精致的",
+      "display_order": null
+    },
+    {
+      "sentence": "Something fancy is elaborate, decorative, or of high quality beyond the ordinary.",
+      "style": "Definitional",
+      "translation": "Fancy形容精心制作的、装饰华丽的，或品质高于普通水平的事物。",
+      "translated_word": "Fancy",
+      "display_order": null
+    },
+    {
+      "sentence": "A fancy restaurant requires reservations, while a casual diner welcomes walk-ins.",
+      "style": "Contrastive",
+      "translation": "高档餐厅需要预约，而普通小餐馆则随时欢迎光临。",
+      "translated_word": "高档",
+      "display_order": 1
+    },
+    {
+      "sentence": "She wore a fancy dress to the gala and caught everyone's attention.",
+      "style": "Collocational",
+      "translation": "她穿着一件华丽的礼服出席晚会，吸引了所有人的目光。",
+      "translated_word": "华丽的",
+      "display_order": 2
+    },
+    {
+      "sentence": "The desire for fancy things often reveals a deeper longing for recognition.",
+      "style": "Philosophical",
+      "translation": "对精致事物的渴望，往往折射出内心深处对认可的追求。",
+      "translated_word": "精致",
+      "display_order": null
+    },
+    {
+      "sentence": "The garden bloomed with fancy roses, their petals like silk kissed by morning dew.",
+      "style": "Poetic",
+      "translation": "花园里盛开着名贵的玫瑰，花瓣如丝绸般沾着晨露。",
+      "translated_word": "名贵的",
+      "display_order": 4
+    },
+    {
+      "sentence": "Life does not need to be fancy to be beautiful; find joy in simplicity.",
+      "style": "Inspirational",
+      "translation": "生活不必奢华也能美好；在简单中发现快乐吧。",
+      "translated_word": "奢华",
+      "display_order": 3
+    }
+  ]
+}

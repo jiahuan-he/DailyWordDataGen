@@ -1,0 +1,61 @@
+{
+  "word": "doom",
+  "phonetic": "/duːm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "厄运；毁灭；劫数",
+  "examples": [
+    {
+      "sentence": "The company's financial doom was sealed when investors withdrew their support.",
+      "style": "Formal",
+      "translation": "当投资者撤回支持时，这家公司的财务厄运就已注定。",
+      "translated_word": "厄运",
+      "display_order": null
+    },
+    {
+      "sentence": "Doom refers to an unavoidable fate, often implying destruction or death.",
+      "style": "Definitional",
+      "translation": "Doom指的是无法避免的命运，通常暗示毁灭或死亡。",
+      "translated_word": "Doom",
+      "display_order": null
+    },
+    {
+      "sentence": "While setbacks can be overcome, doom suggests a final, irreversible end.",
+      "style": "Contrastive",
+      "translation": "挫折可以克服，但doom则意味着最终的、不可逆转的结局。",
+      "translated_word": "doom",
+      "display_order": null
+    },
+    {
+      "sentence": "A sense of doom hung over the village as the storm approached.",
+      "style": "Collocational",
+      "translation": "暴风雨来临之际，一种厄运的气息笼罩着整个村庄。",
+      "translated_word": "厄运",
+      "display_order": 1
+    },
+    {
+      "sentence": "Perhaps the awareness of doom is what gives human life its urgency and meaning.",
+      "style": "Philosophical",
+      "translation": "或许正是对劫数的意识，赋予了人生紧迫感与意义。",
+      "translated_word": "劫数",
+      "display_order": 2
+    },
+    {
+      "sentence": "The ancient tower stood silent, a monument to the doom of forgotten kings.",
+      "style": "Poetic",
+      "translation": "古塔静默伫立，如同被遗忘的君王们劫数的纪念碑。",
+      "translated_word": "劫数",
+      "display_order": 4
+    },
+    {
+      "sentence": "Facing doom with courage transforms fear into strength.",
+      "style": "Inspirational",
+      "translation": "勇敢面对厄运，恐惧便能化为力量。",
+      "translated_word": "厄运",
+      "display_order": 3
+    }
+  ]
+}

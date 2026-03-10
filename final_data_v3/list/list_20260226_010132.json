@@ -1,0 +1,61 @@
+{
+  "word": "list",
+  "phonetic": "/lɪst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "清单；名单；列表",
+  "examples": [
+    {
+      "sentence": "The committee released a list of candidates eligible for the upcoming election.",
+      "style": "Formal",
+      "translation": "委员会公布了即将举行的选举的候选人名单。",
+      "translated_word": "名单",
+      "display_order": 2
+    },
+    {
+      "sentence": "A list is a series of items written or printed together in a meaningful grouping.",
+      "style": "Definitional",
+      "translation": "清单是将若干项目以有意义的方式书写或印刷在一起的集合。",
+      "translated_word": "清单",
+      "display_order": null
+    },
+    {
+      "sentence": "A list organizes information sequentially, while a chart displays it visually.",
+      "style": "Contrastive",
+      "translation": "清单按顺序整理信息，而图表则以可视化方式呈现信息。",
+      "translated_word": "清单",
+      "display_order": 4
+    },
+    {
+      "sentence": "She put the groceries on her shopping list before heading to the store.",
+      "style": "Collocational",
+      "translation": "她去商店前把要买的东西写在购物清单上。",
+      "translated_word": "清单",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every list reveals not just what matters, but what has been left out.",
+      "style": "Philosophical",
+      "translation": "每一份清单不仅揭示了什么重要，也揭示了什么被遗漏。",
+      "translated_word": "清单",
+      "display_order": 3
+    },
+    {
+      "sentence": "Dreams drift like a list of stars, each one waiting to be named.",
+      "style": "Poetic",
+      "translation": "梦想如繁星般飘散，每一颗都等待被命名。",
+      "translated_word": "繁星",
+      "display_order": null
+    },
+    {
+      "sentence": "Start each day with a list of goals, and watch small steps become great journeys.",
+      "style": "Inspirational",
+      "translation": "每天从一份目标清单开始，看着小步伐汇成伟大的旅程。",
+      "translated_word": "清单",
+      "display_order": null
+    }
+  ]
+}

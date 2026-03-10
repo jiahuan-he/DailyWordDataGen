@@ -1,0 +1,62 @@
+{
+  "word": "mine",
+  "phonetic": "/maɪn/",
+  "pos": [
+    "noun",
+    "pronoun",
+    "verb"
+  ],
+  "selected_pos": "pronoun",
+  "definition": "我的；属于我的",
+  "examples": [
+    {
+      "sentence": "The company confirmed that the intellectual property in question is mine.",
+      "style": "Formal",
+      "translation": "该公司确认，相关知识产权归我所有。",
+      "translated_word": "我所有",
+      "display_order": 3
+    },
+    {
+      "sentence": "Mine is a word used to indicate that something belongs to the speaker.",
+      "style": "Definitional",
+      "translation": "\"Mine\"是一个表示某物属于说话者的词。",
+      "translated_word": "属于说话者",
+      "display_order": null
+    },
+    {
+      "sentence": "That umbrella is yours; this one is mine.",
+      "style": "Contrastive",
+      "translation": "那把伞是你的，这把是我的。",
+      "translated_word": "我的",
+      "display_order": 1
+    },
+    {
+      "sentence": "A friend of mine recommended this restaurant.",
+      "style": "Collocational",
+      "translation": "我的一个朋友推荐了这家餐厅。",
+      "translated_word": "我的",
+      "display_order": 2
+    },
+    {
+      "sentence": "What is truly mine cannot be taken, for it lives within.",
+      "style": "Philosophical",
+      "translation": "真正属于我的东西无法被夺走，因为它存于内心。",
+      "translated_word": "属于我的",
+      "display_order": null
+    },
+    {
+      "sentence": "The stars above whisper secrets, and the night sky feels like mine.",
+      "style": "Poetic",
+      "translation": "星辰低语着秘密，夜空仿佛只属于我。",
+      "translated_word": "属于我",
+      "display_order": null
+    },
+    {
+      "sentence": "The future is mine to shape, one choice at a time.",
+      "style": "Inspirational",
+      "translation": "未来由我塑造，一次一个选择。",
+      "translated_word": "我",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "debug",
+  "phonetic": "/diːˈbʌɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "调试；排错；除错",
+  "examples": [
+    {
+      "sentence": "Engineers spent the weekend working to debug the security vulnerability before the product launch.",
+      "style": "Formal",
+      "translation": "工程师们花了整个周末来排查安全漏洞，以确保产品按时发布。",
+      "translated_word": "排查",
+      "display_order": null
+    },
+    {
+      "sentence": "To debug means to identify and fix errors in a computer program or system.",
+      "style": "Definitional",
+      "translation": "调试是指识别并修复计算机程序或系统中的错误。",
+      "translated_word": "调试",
+      "display_order": null
+    },
+    {
+      "sentence": "While testing finds the problem, debugging actually solves it.",
+      "style": "Contrastive",
+      "translation": "测试能发现问题，而调试才能真正解决问题。",
+      "translated_word": "调试",
+      "display_order": 1
+    },
+    {
+      "sentence": "The team used logging tools to debug the application step by step.",
+      "style": "Collocational",
+      "translation": "团队使用日志工具逐步调试应用程序。",
+      "translated_word": "调试",
+      "display_order": 3
+    },
+    {
+      "sentence": "To debug code is to debug one's own thinking: errors reveal hidden assumptions.",
+      "style": "Philosophical",
+      "translation": "调试代码就是调试自己的思维：错误揭示了隐藏的假设。",
+      "translated_word": "调试",
+      "display_order": 2
+    },
+    {
+      "sentence": "She sat in the glow of the monitor, hunting bugs like fireflies in the dark, determined to debug every last flaw.",
+      "style": "Poetic",
+      "translation": "她坐在屏幕的微光中，像在黑暗中捕捉萤火虫一样追踪漏洞，决心排除每一个缺陷。",
+      "translated_word": "排除",
+      "display_order": null
+    },
+    {
+      "sentence": "Learning to debug teaches patience: every error solved makes the next one easier.",
+      "style": "Inspirational",
+      "translation": "学会调试能培养耐心：每解决一个错误，下一个就会更容易。",
+      "translated_word": "调试",
+      "display_order": 4
+    }
+  ]
+}

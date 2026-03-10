@@ -1,0 +1,62 @@
+{
+  "word": "garbage",
+  "phonetic": "/ˈɡɑːbɪd͡ʒ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "垃圾；废物；废话",
+  "examples": [
+    {
+      "sentence": "The city announced new regulations requiring residents to sort their garbage into recyclables and non-recyclables.",
+      "style": "Formal",
+      "translation": "该市宣布新规定，要求居民将垃圾分类为可回收物和不可回收物。",
+      "translated_word": "垃圾",
+      "display_order": null
+    },
+    {
+      "sentence": "Garbage refers to waste materials that are discarded because they are no longer useful or wanted.",
+      "style": "Definitional",
+      "translation": "垃圾指的是因不再有用或不再需要而被丢弃的废弃物。",
+      "translated_word": "垃圾",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike compost, which can enrich soil, garbage often ends up in landfills where it takes decades to decompose.",
+      "style": "Contrastive",
+      "translation": "与能够肥沃土壤的堆肥不同，垃圾往往最终进入填埋场，需要数十年才能分解。",
+      "translated_word": "垃圾",
+      "display_order": 2
+    },
+    {
+      "sentence": "The garbage truck comes every Tuesday morning to collect household waste.",
+      "style": "Collocational",
+      "translation": "垃圾车每周二早上来收集生活垃圾。",
+      "translated_word": "垃圾",
+      "display_order": 1
+    },
+    {
+      "sentence": "What one society discards as garbage, another might treasure as a resource.",
+      "style": "Philosophical",
+      "translation": "一个社会丢弃的垃圾，可能是另一个社会珍视的资源。",
+      "translated_word": "垃圾",
+      "display_order": 3
+    },
+    {
+      "sentence": "The garbage of the city spilled into the river like forgotten memories dissolving into time.",
+      "style": "Poetic",
+      "translation": "城市的垃圾涌入河流，如同被遗忘的记忆消融于时光之中。",
+      "translated_word": "垃圾",
+      "display_order": null
+    },
+    {
+      "sentence": "Turning garbage into art proves that creativity can transform even the most discarded things into something beautiful.",
+      "style": "Inspirational",
+      "translation": "将垃圾变成艺术，证明了创造力能把最不起眼的废弃物变成美丽之物。",
+      "translated_word": "垃圾",
+      "display_order": 4
+    }
+  ]
+}

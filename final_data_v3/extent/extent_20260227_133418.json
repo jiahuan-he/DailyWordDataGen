@@ -1,0 +1,61 @@
+{
+  "word": "extent",
+  "phonetic": "/ɪksˈtɛnt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "程度；范围；限度",
+  "examples": [
+    {
+      "sentence": "The full extent of the damage remains unknown, as investigators continue to assess the affected areas.",
+      "style": "Formal",
+      "translation": "损失的全部程度仍然未知，调查人员正在继续评估受灾地区。",
+      "translated_word": "程度",
+      "display_order": 2
+    },
+    {
+      "sentence": "Extent refers to the degree or scope to which something reaches or applies.",
+      "style": "Definitional",
+      "translation": "Extent指某事物所达到或适用的程度或范围。",
+      "translated_word": "程度或范围",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike depth, which measures intensity, extent measures how far something spreads.",
+      "style": "Contrastive",
+      "translation": "深度衡量的是强度，而extent衡量的是某事物扩展的范围。",
+      "translated_word": "范围",
+      "display_order": 4
+    },
+    {
+      "sentence": "To a certain extent, success depends on preparation and timing.",
+      "style": "Collocational",
+      "translation": "在某种程度上，成功取决于准备和时机。",
+      "translated_word": "程度",
+      "display_order": 1
+    },
+    {
+      "sentence": "The extent of human knowledge only reveals how much more there is to discover.",
+      "style": "Philosophical",
+      "translation": "人类知识的范围恰恰揭示了还有多少未知等待探索。",
+      "translated_word": "范围",
+      "display_order": 3
+    },
+    {
+      "sentence": "The desert stretched to an endless extent, where sand and sky melted into one.",
+      "style": "Poetic",
+      "translation": "沙漠延伸至无尽的远方，沙与天在那里融为一体。",
+      "translated_word": "远方",
+      "display_order": null
+    },
+    {
+      "sentence": "Push beyond the extent of your comfort zone; that is where growth begins.",
+      "style": "Inspirational",
+      "translation": "突破舒适区的边界，那里才是成长的起点。",
+      "translated_word": "边界",
+      "display_order": null
+    }
+  ]
+}

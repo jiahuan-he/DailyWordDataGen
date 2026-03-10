@@ -1,0 +1,61 @@
+{
+  "word": "transport",
+  "phonetic": null,
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "运输；运送；传送",
+  "examples": [
+    {
+      "sentence": "The government plans to transport emergency supplies to the disaster zone by helicopter.",
+      "style": "Formal",
+      "translation": "政府计划用直升机将应急物资运送到灾区。",
+      "translated_word": "运送",
+      "display_order": 3
+    },
+    {
+      "sentence": "To transport means to move people or goods from one place to another.",
+      "style": "Definitional",
+      "translation": "Transport的意思是将人或货物从一个地方运送到另一个地方。",
+      "translated_word": "运送",
+      "display_order": null
+    },
+    {
+      "sentence": "Trains transport passengers more efficiently than buses on long-distance routes.",
+      "style": "Contrastive",
+      "translation": "在长途路线上，火车比公共汽车更高效地运送乘客。",
+      "translated_word": "运送",
+      "display_order": null
+    },
+    {
+      "sentence": "Ships transport millions of tons of cargo across the ocean each year.",
+      "style": "Collocational",
+      "translation": "船舶每年在海上运输数百万吨货物。",
+      "translated_word": "运输",
+      "display_order": 1
+    },
+    {
+      "sentence": "Stories transport the mind beyond the limits of time and space.",
+      "style": "Philosophical",
+      "translation": "故事将思想带到超越时间与空间的界限之外。",
+      "translated_word": "带到",
+      "display_order": 4
+    },
+    {
+      "sentence": "The melody transports the soul to a garden of forgotten memories.",
+      "style": "Poetic",
+      "translation": "旋律将灵魂带往一座被遗忘的记忆花园。",
+      "translated_word": "带往",
+      "display_order": 2
+    },
+    {
+      "sentence": "Let imagination transport you to the life you dream of building.",
+      "style": "Inspirational",
+      "translation": "让想象力带你去往你梦想中要创造的生活。",
+      "translated_word": "带",
+      "display_order": null
+    }
+  ]
+}

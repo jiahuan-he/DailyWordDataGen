@@ -1,0 +1,61 @@
+{
+  "word": "trace",
+  "phonetic": "/tɹeɪs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "追踪；追溯；描摹",
+  "examples": [
+    {
+      "sentence": "Authorities are working to trace the origin of the contaminated shipment.",
+      "style": "Formal",
+      "translation": "当局正在努力追查受污染货物的来源。",
+      "translated_word": "追查",
+      "display_order": 3
+    },
+    {
+      "sentence": "To trace something means to follow its path or discover where it began.",
+      "style": "Definitional",
+      "translation": "追溯某事物意味着沿着它的轨迹追寻或发现它的起源。",
+      "translated_word": "追溯",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike simply searching, tracing requires following a connected chain of evidence.",
+      "style": "Contrastive",
+      "translation": "与单纯的搜索不同，追踪需要沿着一连串相关的证据进行。",
+      "translated_word": "追踪",
+      "display_order": 4
+    },
+    {
+      "sentence": "Historians often trace the roots of democracy back to ancient Greece.",
+      "style": "Collocational",
+      "translation": "历史学家常常将民主的根源追溯到古希腊。",
+      "translated_word": "追溯",
+      "display_order": 1
+    },
+    {
+      "sentence": "To trace the threads of the past is to understand how the present came to be.",
+      "style": "Philosophical",
+      "translation": "追溯过去的脉络，是为了理解现在何以形成。",
+      "translated_word": "追溯",
+      "display_order": null
+    },
+    {
+      "sentence": "Her fingers traced the fading ink like a whisper across forgotten letters.",
+      "style": "Poetic",
+      "translation": "她的指尖轻抚褪色的墨迹，如同在被遗忘的信笺上低语。",
+      "translated_word": "轻抚",
+      "display_order": 2
+    },
+    {
+      "sentence": "Trace your path backward, and every setback reveals its hidden lesson.",
+      "style": "Inspirational",
+      "translation": "回顾走过的路，每一次挫折都蕴藏着它的启示。",
+      "translated_word": "回顾",
+      "display_order": null
+    }
+  ]
+}

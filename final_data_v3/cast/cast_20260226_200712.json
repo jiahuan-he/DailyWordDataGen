@@ -1,0 +1,61 @@
+{
+  "word": "cast",
+  "phonetic": "/kæst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "投掷；投射；分配角色；铸造",
+  "examples": [
+    {
+      "sentence": "The director cast several unknown actors in leading roles for the independent film.",
+      "style": "Formal",
+      "translation": "导演为这部独立电影选用了几位不知名的演员担任主角。",
+      "translated_word": "选用",
+      "display_order": 2
+    },
+    {
+      "sentence": "To cast means to throw something or to select performers for a production.",
+      "style": "Definitional",
+      "translation": "Cast的意思是投掷某物，或为演出挑选演员。",
+      "translated_word": "投掷",
+      "display_order": null
+    },
+    {
+      "sentence": "While the sculptor carved the statue from marble, the metalworker cast his in bronze.",
+      "style": "Contrastive",
+      "translation": "雕塑家用大理石雕刻雕像，而金属工匠则用青铜浇铸他的作品。",
+      "translated_word": "浇铸",
+      "display_order": 4
+    },
+    {
+      "sentence": "The fisherman cast his net into the calm waters at dawn.",
+      "style": "Collocational",
+      "translation": "渔夫在黎明时分向平静的水面撒下渔网。",
+      "translated_word": "撒下",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every choice cast a shadow, shaping the path that lies ahead.",
+      "style": "Philosophical",
+      "translation": "每一个选择都投下一道影子，塑造着前方的道路。",
+      "translated_word": "投下",
+      "display_order": null
+    },
+    {
+      "sentence": "The setting sun cast golden light across the sleeping valley.",
+      "style": "Poetic",
+      "translation": "落日将金色的光芒洒向沉睡的山谷。",
+      "translated_word": "洒向",
+      "display_order": 3
+    },
+    {
+      "sentence": "Cast aside doubt and step boldly into the life you were meant to live.",
+      "style": "Inspirational",
+      "translation": "抛开疑虑，勇敢地迈向你注定要过的生活。",
+      "translated_word": "抛开",
+      "display_order": null
+    }
+  ]
+}

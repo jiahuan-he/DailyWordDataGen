@@ -1,0 +1,61 @@
+{
+  "word": "mention",
+  "phonetic": "/ˈmɛnʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "提到；提及；说起",
+  "examples": [
+    {
+      "sentence": "The report mentions several key factors contributing to the economic downturn.",
+      "style": "Formal",
+      "translation": "报告提到了导致经济下滑的几个关键因素。",
+      "translated_word": "提到",
+      "display_order": 4
+    },
+    {
+      "sentence": "To mention something is to briefly refer to it without going into detail.",
+      "style": "Definitional",
+      "translation": "提及某事是指简短地谈到它，而不深入细节。",
+      "translated_word": "提及",
+      "display_order": null
+    },
+    {
+      "sentence": "She mentioned the problem but did not explain it; he analyzed it thoroughly.",
+      "style": "Contrastive",
+      "translation": "她只是提了一下这个问题，没有解释；而他则进行了详细分析。",
+      "translated_word": "提",
+      "display_order": 2
+    },
+    {
+      "sentence": "It is worth mentioning that the deadline has been extended.",
+      "style": "Collocational",
+      "translation": "值得一提的是，截止日期已经延长了。",
+      "translated_word": "提",
+      "display_order": 1
+    },
+    {
+      "sentence": "What people choose not to mention often reveals more than what they say.",
+      "style": "Philosophical",
+      "translation": "人们选择不提的事，往往比说出口的更能说明问题。",
+      "translated_word": "提",
+      "display_order": 3
+    },
+    {
+      "sentence": "The wind mentions your name in whispers through the trees.",
+      "style": "Poetic",
+      "translation": "风穿过树林，轻声呢喃着你的名字。",
+      "translated_word": "呢喃",
+      "display_order": null
+    },
+    {
+      "sentence": "Mention your dreams out loud; speaking them into existence is the first step.",
+      "style": "Inspirational",
+      "translation": "大声说出你的梦想吧；把它说出来，就是实现它的第一步。",
+      "translated_word": "说出",
+      "display_order": null
+    }
+  ]
+}

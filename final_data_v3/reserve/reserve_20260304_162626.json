@@ -1,0 +1,61 @@
+{
+  "word": "reserve",
+  "phonetic": "/ɹɪˈzɜːv/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "预订；保留；储备",
+  "examples": [
+    {
+      "sentence": "The committee has decided to reserve judgment until all evidence is presented.",
+      "style": "Formal",
+      "translation": "委员会决定在所有证据呈堂之前保留判断。",
+      "translated_word": "保留",
+      "display_order": 3
+    },
+    {
+      "sentence": "To reserve means to set something aside for future use or a specific purpose.",
+      "style": "Definitional",
+      "translation": "Reserve的意思是将某物留作将来使用或特定用途。",
+      "translated_word": "留作",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike ordering immediately, reserving a table simply holds it for a set time.",
+      "style": "Contrastive",
+      "translation": "与立即点餐不同，预订餐位只是在指定时间内保留位置。",
+      "translated_word": "预订",
+      "display_order": null
+    },
+    {
+      "sentence": "It is wise to reserve tickets well in advance during peak travel seasons.",
+      "style": "Collocational",
+      "translation": "在旅游旺季提前预订机票是明智之举。",
+      "translated_word": "预订",
+      "display_order": 2
+    },
+    {
+      "sentence": "Those who reserve compassion only for the fortunate may never truly understand suffering.",
+      "style": "Philosophical",
+      "translation": "只把同情心留给幸运者的人，或许永远无法真正理解苦难。",
+      "translated_word": "留给",
+      "display_order": null
+    },
+    {
+      "sentence": "The autumn trees reserve their brightest gold for the final days before winter.",
+      "style": "Poetic",
+      "translation": "秋日的树木把最灿烂的金黄留给入冬前的最后几天。",
+      "translated_word": "留给",
+      "display_order": 1
+    },
+    {
+      "sentence": "Reserve your strength for the challenges that align with your purpose.",
+      "style": "Inspirational",
+      "translation": "把力量留给那些与你目标一致的挑战。",
+      "translated_word": "留给",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "grant",
+  "phonetic": "/ɡɹɑːnt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "授予；准许；承认",
+  "examples": [
+    {
+      "sentence": "The foundation granted $2 million to support cancer research initiatives.",
+      "style": "Formal",
+      "translation": "该基金会拨款两百万美元用于支持癌症研究项目。",
+      "translated_word": "拨款",
+      "display_order": 4
+    },
+    {
+      "sentence": "To grant means to give or allow something that has been requested.",
+      "style": "Definitional",
+      "translation": "Grant的意思是给予或允许某人所请求的事物。",
+      "translated_word": "给予",
+      "display_order": null
+    },
+    {
+      "sentence": "A wish can be granted instantly, but trust must be earned over time.",
+      "style": "Contrastive",
+      "translation": "愿望可以瞬间实现，但信任必须靠时间积累。",
+      "translated_word": "实现",
+      "display_order": 3
+    },
+    {
+      "sentence": "The university granted her a full scholarship for academic excellence.",
+      "style": "Collocational",
+      "translation": "大学因她学业优异而授予她全额奖学金。",
+      "translated_word": "授予",
+      "display_order": 1
+    },
+    {
+      "sentence": "To grant forgiveness is to free oneself from the burden of resentment.",
+      "style": "Philosophical",
+      "translation": "宽恕他人，就是将自己从怨恨的重负中解脱。",
+      "translated_word": "宽恕",
+      "display_order": null
+    },
+    {
+      "sentence": "The old oak stands where the forest once granted refuge to wandering souls.",
+      "style": "Poetic",
+      "translation": "古老的橡树伫立之处，曾是森林庇护流浪灵魂的港湾。",
+      "translated_word": "庇护",
+      "display_order": null
+    },
+    {
+      "sentence": "Grant yourself permission to rest; even the strongest need moments of stillness.",
+      "style": "Inspirational",
+      "translation": "允许自己休息吧；再强大的人也需要片刻安宁。",
+      "translated_word": "允许",
+      "display_order": 2
+    }
+  ]
+}

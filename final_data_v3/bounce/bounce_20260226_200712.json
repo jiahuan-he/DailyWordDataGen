@@ -1,0 +1,61 @@
+{
+  "word": "bounce",
+  "phonetic": "/baʊns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "弹跳；反弹；跳动",
+  "examples": [
+    {
+      "sentence": "The economy is expected to bounce back in the second quarter following months of stagnation.",
+      "style": "Formal",
+      "translation": "经济在数月停滞后预计将在第二季度反弹。",
+      "translated_word": "反弹",
+      "display_order": 3
+    },
+    {
+      "sentence": "To bounce means to spring back after hitting a surface.",
+      "style": "Definitional",
+      "translation": "bounce的意思是撞击表面后弹回。",
+      "translated_word": "弹回",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike a bowling ball, a basketball will bounce when dropped.",
+      "style": "Contrastive",
+      "translation": "与保龄球不同，篮球落地后会弹起。",
+      "translated_word": "弹起",
+      "display_order": 1
+    },
+    {
+      "sentence": "The children love to bounce on the trampoline in the backyard.",
+      "style": "Collocational",
+      "translation": "孩子们喜欢在后院的蹦床上跳跃。",
+      "translated_word": "跳跃",
+      "display_order": 4
+    },
+    {
+      "sentence": "Ideas bounce between minds, gaining new shape with each exchange.",
+      "style": "Philosophical",
+      "translation": "想法在思想间弹跳，每次交流都获得新的形态。",
+      "translated_word": "弹跳",
+      "display_order": null
+    },
+    {
+      "sentence": "Raindrops bounce on the tin roof like tiny dancers in a storm.",
+      "style": "Poetic",
+      "translation": "雨滴在铁皮屋顶上跳跃，如同风暴中的小小舞者。",
+      "translated_word": "跳跃",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every setback is a chance to bounce higher than before.",
+      "style": "Inspirational",
+      "translation": "每一次挫折都是比从前跳得更高的机会。",
+      "translated_word": "跳",
+      "display_order": null
+    }
+  ]
+}

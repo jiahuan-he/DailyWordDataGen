@@ -1,0 +1,62 @@
+{
+  "word": "prize",
+  "phonetic": "/pɹaɪz/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "奖品；奖赏；珍贵之物",
+  "examples": [
+    {
+      "sentence": "The Nobel Prize committee announced this year's recipients in a formal ceremony in Stockholm.",
+      "style": "Formal",
+      "translation": "诺贝尔奖委员会在斯德哥尔摩的正式典礼上宣布了今年的获奖者。",
+      "translated_word": "奖",
+      "display_order": null
+    },
+    {
+      "sentence": "A prize is a reward given to someone for winning a competition or achieving excellence.",
+      "style": "Definitional",
+      "translation": "奖品是因赢得比赛或取得卓越成就而颁发给某人的奖赏。",
+      "translated_word": "奖品",
+      "display_order": 3
+    },
+    {
+      "sentence": "Unlike a trophy, which symbolizes victory, a prize often carries tangible value such as money or goods.",
+      "style": "Contrastive",
+      "translation": "与象征胜利的奖杯不同，奖品通常具有实际价值，如金钱或物品。",
+      "translated_word": "奖品",
+      "display_order": 2
+    },
+    {
+      "sentence": "She won the grand prize and took home a brand-new car.",
+      "style": "Collocational",
+      "translation": "她赢得了大奖，把一辆崭新的汽车带回了家。",
+      "translated_word": "奖",
+      "display_order": 1
+    },
+    {
+      "sentence": "The greatest prize in life is often not what others award, but what one earns through inner growth.",
+      "style": "Philosophical",
+      "translation": "人生最大的奖赏往往不是他人给予的，而是通过内心成长获得的。",
+      "translated_word": "奖赏",
+      "display_order": 4
+    },
+    {
+      "sentence": "The sunset painted the sky in gold: nature's daily prize for those who pause to look.",
+      "style": "Poetic",
+      "translation": "夕阳将天空染成金色：这是大自然每天赐予驻足仰望者的礼物。",
+      "translated_word": "礼物",
+      "display_order": null
+    },
+    {
+      "sentence": "Keep your eyes on the prize, and let every setback fuel your determination.",
+      "style": "Inspirational",
+      "translation": "紧盯目标，让每一次挫折都成为你前进的动力。",
+      "translated_word": "目标",
+      "display_order": null
+    }
+  ]
+}

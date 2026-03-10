@@ -1,0 +1,62 @@
+{
+  "word": "primary",
+  "phonetic": "/ˈpɹɒeməɹi/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "主要的；首要的；基本的",
+  "examples": [
+    {
+      "sentence": "The primary concern of the investigation remains public safety.",
+      "style": "Formal",
+      "translation": "调查的首要关切仍然是公共安全。",
+      "translated_word": "首要",
+      "display_order": null
+    },
+    {
+      "sentence": "Primary means first in importance or rank.",
+      "style": "Definitional",
+      "translation": "Primary的意思是在重要性或等级上排第一位的。",
+      "translated_word": "第一位",
+      "display_order": null
+    },
+    {
+      "sentence": "While secondary factors matter, the primary cause of the failure was poor planning.",
+      "style": "Contrastive",
+      "translation": "虽然次要因素也很重要，但失败的主要原因是规划不当。",
+      "translated_word": "主要",
+      "display_order": 1
+    },
+    {
+      "sentence": "The primary source of energy for this region is hydroelectric power.",
+      "style": "Collocational",
+      "translation": "该地区的主要能源是水力发电。",
+      "translated_word": "主要",
+      "display_order": 3
+    },
+    {
+      "sentence": "One's primary duty is not to succeed, but to try.",
+      "style": "Philosophical",
+      "translation": "人的首要责任不是成功，而是尝试。",
+      "translated_word": "首要",
+      "display_order": 4
+    },
+    {
+      "sentence": "Like the primary colors blending into a thousand hues, simple truths give rise to endless possibilities.",
+      "style": "Poetic",
+      "translation": "如同三原色调和出千种色彩，简单的真理孕育出无限可能。",
+      "translated_word": "原色",
+      "display_order": null
+    },
+    {
+      "sentence": "Make your health the primary focus, and everything else will follow.",
+      "style": "Inspirational",
+      "translation": "把健康放在首位，其他一切都会随之而来。",
+      "translated_word": "首位",
+      "display_order": 2
+    }
+  ]
+}

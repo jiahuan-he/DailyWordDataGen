@@ -1,0 +1,61 @@
+{
+  "word": "precise",
+  "phonetic": "/pɹɪˈsaɪs/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "精确的；准确的；严谨的",
+  "examples": [
+    {
+      "sentence": "The report provides precise data on quarterly revenue growth.",
+      "style": "Formal",
+      "translation": "该报告提供了季度收入增长的精确数据。",
+      "translated_word": "精确",
+      "display_order": null
+    },
+    {
+      "sentence": "Precise means exact and accurate, with no room for error.",
+      "style": "Definitional",
+      "translation": "Precise指的是精确无误，不允许有任何差错。",
+      "translated_word": "精确",
+      "display_order": null
+    },
+    {
+      "sentence": "A precise measurement leaves no doubt, while an estimate invites uncertainty.",
+      "style": "Contrastive",
+      "translation": "精确的测量不容置疑，而估算则带来不确定性。",
+      "translated_word": "精确",
+      "display_order": 2
+    },
+    {
+      "sentence": "The surgeon made a precise incision with steady hands.",
+      "style": "Collocational",
+      "translation": "外科医生用稳定的双手做出了精准的切口。",
+      "translated_word": "精准",
+      "display_order": 1
+    },
+    {
+      "sentence": "Language can never be fully precise; meaning always slips through the gaps.",
+      "style": "Philosophical",
+      "translation": "语言永远无法完全精确；意义总是从缝隙中溜走。",
+      "translated_word": "精确",
+      "display_order": 3
+    },
+    {
+      "sentence": "Each star holds its precise place in the velvet dark, a silent clockwork of light.",
+      "style": "Poetic",
+      "translation": "每颗星星在天鹅绒般的夜空中各安其位，宛如一座无声的光之钟表。",
+      "translated_word": "各安其位",
+      "display_order": null
+    },
+    {
+      "sentence": "Be precise in your goals, and the path forward becomes clear.",
+      "style": "Inspirational",
+      "translation": "明确你的目标，前进的道路自会清晰。",
+      "translated_word": "明确",
+      "display_order": 4
+    }
+  ]
+}

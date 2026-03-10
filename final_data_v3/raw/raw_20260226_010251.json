@@ -1,0 +1,62 @@
+{
+  "word": "raw",
+  "phonetic": "/ɹɔː/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "生的；未加工的；原始的",
+  "examples": [
+    {
+      "sentence": "The report presents raw data without any editorial interpretation.",
+      "style": "Formal",
+      "translation": "该报告呈现了未经编辑解读的原始数据。",
+      "translated_word": "原始",
+      "display_order": 3
+    },
+    {
+      "sentence": "Raw food has not been cooked or processed in any way.",
+      "style": "Definitional",
+      "translation": "生食是指未经任何烹饪或加工的食物。",
+      "translated_word": "生",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike cooked vegetables, raw ones retain more nutrients and enzymes.",
+      "style": "Contrastive",
+      "translation": "与熟蔬菜不同，生蔬菜保留了更多的营养和酶。",
+      "translated_word": "生",
+      "display_order": 1
+    },
+    {
+      "sentence": "The artist works with raw materials gathered from nature.",
+      "style": "Collocational",
+      "translation": "这位艺术家使用从大自然收集的原材料进行创作。",
+      "translated_word": "原",
+      "display_order": 2
+    },
+    {
+      "sentence": "There is truth in raw emotion that polished words cannot capture.",
+      "style": "Philosophical",
+      "translation": "原始的情感中蕴含着修饰过的言辞无法表达的真实。",
+      "translated_word": "原始",
+      "display_order": null
+    },
+    {
+      "sentence": "The raw wind cut through the valley like a blade of ice.",
+      "style": "Poetic",
+      "translation": "凛冽的寒风如冰刃般穿透山谷。",
+      "translated_word": "凛冽",
+      "display_order": null
+    },
+    {
+      "sentence": "Embrace your raw talent; refinement comes with practice.",
+      "style": "Inspirational",
+      "translation": "拥抱你未经雕琢的天赋，精进源于练习。",
+      "translated_word": "未经雕琢",
+      "display_order": 4
+    }
+  ]
+}

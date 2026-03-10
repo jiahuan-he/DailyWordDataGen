@@ -1,0 +1,61 @@
+{
+  "word": "purchase",
+  "phonetic": "/ˈpɜːtʃəs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "购买；采购；买下",
+  "examples": [
+    {
+      "sentence": "The company announced plans to purchase a controlling stake in the struggling retailer.",
+      "style": "Formal",
+      "translation": "该公司宣布计划收购这家陷入困境的零售商的控股权。",
+      "translated_word": "收购",
+      "display_order": 2
+    },
+    {
+      "sentence": "To purchase something means to buy it, typically through a formal transaction.",
+      "style": "Definitional",
+      "translation": "购买指的是通过正式交易买下某物。",
+      "translated_word": "购买",
+      "display_order": null
+    },
+    {
+      "sentence": "While one might casually buy a coffee, corporations purchase entire supply chains.",
+      "style": "Contrastive",
+      "translation": "普通人随手买杯咖啡，而大公司则收购整条供应链。",
+      "translated_word": "收购",
+      "display_order": null
+    },
+    {
+      "sentence": "Customers can purchase tickets online or at the venue.",
+      "style": "Collocational",
+      "translation": "顾客可以在网上或现场购票。",
+      "translated_word": "购票",
+      "display_order": 1
+    },
+    {
+      "sentence": "What people choose to purchase reveals what they truly value.",
+      "style": "Philosophical",
+      "translation": "人们选择购买什么，揭示了他们真正看重什么。",
+      "translated_word": "购买",
+      "display_order": 3
+    },
+    {
+      "sentence": "She saved every coin to purchase a glimpse of the horizon beyond the hills.",
+      "style": "Poetic",
+      "translation": "她攒下每一枚硬币，只为买一眼山那边的远方。",
+      "translated_word": "买",
+      "display_order": 4
+    },
+    {
+      "sentence": "Purchase experiences, not things; memories outlast possessions.",
+      "style": "Inspirational",
+      "translation": "去购买体验，而非物品；回忆比财产更长久。",
+      "translated_word": "购买",
+      "display_order": null
+    }
+  ]
+}

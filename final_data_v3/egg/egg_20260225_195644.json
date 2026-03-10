@@ -1,0 +1,61 @@
+{
+  "word": "egg",
+  "phonetic": "/eɪɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "蛋；卵；卵形物",
+  "examples": [
+    {
+      "sentence": "Global egg prices surged by 30% this quarter due to avian flu outbreaks across major producing regions.",
+      "style": "Formal",
+      "translation": "由于禽流感在主要产区爆发，本季度全球鸡蛋价格飙升了30%。",
+      "translated_word": "鸡蛋",
+      "display_order": null
+    },
+    {
+      "sentence": "An egg is a reproductive body produced by birds, containing nutrients that support embryonic development.",
+      "style": "Definitional",
+      "translation": "蛋是鸟类产生的生殖体，含有支持胚胎发育的营养物质。",
+      "translated_word": "蛋",
+      "display_order": null
+    },
+    {
+      "sentence": "Unlike milk, which spoils quickly, an egg can last for weeks when refrigerated properly.",
+      "style": "Contrastive",
+      "translation": "与容易变质的牛奶不同，鸡蛋在适当冷藏下可以保存数周。",
+      "translated_word": "鸡蛋",
+      "display_order": 2
+    },
+    {
+      "sentence": "She cracked an egg into the sizzling pan and watched the edges turn golden.",
+      "style": "Collocational",
+      "translation": "她把一个鸡蛋打入滋滋作响的平底锅，看着边缘变成金黄色。",
+      "translated_word": "鸡蛋",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every egg holds the quiet promise of becoming something greater than itself.",
+      "style": "Philosophical",
+      "translation": "每一颗蛋都蕴含着成为更伟大事物的静默承诺。",
+      "translated_word": "蛋",
+      "display_order": null
+    },
+    {
+      "sentence": "The egg rested in the nest like a pale moon cradled by woven branches.",
+      "style": "Poetic",
+      "translation": "那颗蛋静卧在巢中，如同一轮淡月被交织的枝条轻轻托起。",
+      "translated_word": "蛋",
+      "display_order": 3
+    },
+    {
+      "sentence": "Like an egg waiting to hatch, your potential needs only time and warmth to emerge.",
+      "style": "Inspirational",
+      "translation": "就像等待孵化的蛋一样，你的潜能只需要时间和温暖就能破壳而出。",
+      "translated_word": "蛋",
+      "display_order": 4
+    }
+  ]
+}
