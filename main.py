@@ -28,6 +28,9 @@ Examples:
 
   # Test with a different model (output goes to test_output/)
   python main.py --test --model claude-sonnet-4-5-20250514 --count 20
+
+  # Process 10 words each from frequency tiers 2, 3, and 5
+  python main.py --count 10 --frequencies 2,3,5
         """,
     )
 
@@ -52,8 +55,20 @@ Examples:
         action="store_true",
         help="Route output to test_output/<model>/ instead of final_data_v3/ (no CSV update)",
     )
+    parser.add_argument(
+        "--frequencies", "-f",
+        type=str,
+        default=None,
+        help="Comma-separated frequency tiers to filter by (e.g., 2,3,5). "
+             "Loads --count words per frequency tier.",
+    )
 
     args = parser.parse_args()
+
+    # Parse frequencies
+    frequencies = None
+    if args.frequencies:
+        frequencies = [int(f.strip()) for f in args.frequencies.split(",")]
 
     # Override model if specified
     if args.model:
@@ -68,7 +83,7 @@ Examples:
     model_short = config.model_short_name(config.CLAUDE_MODEL)
 
     # Load unprocessed words
-    words = load_unprocessed_words(count)
+    words = load_unprocessed_words(count, frequencies=frequencies)
     if not words:
         logger.info("No unprocessed words remaining. Nothing to do.")
         sys.exit(0)
@@ -80,6 +95,8 @@ Examples:
     logger.info("=" * 60)
     if test_mode:
         logger.info(f"TEST MODE — model: {config.CLAUDE_MODEL} ({model_short})")
+    if frequencies:
+        logger.info(f"Frequency filter: {frequencies} ({count} per tier)")
     logger.info(f"Words to process: {len(words)}")
     if args.dry_run:
         logger.info(f"Mode: Dry run ({config.DRY_RUN_LIMIT} words)")

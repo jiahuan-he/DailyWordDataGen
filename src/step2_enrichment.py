@@ -30,11 +30,35 @@ def load_vocabulary_words(path: Path = config.VOCABULARY_CSV) -> list[SelectedWo
     return words
 
 
-def load_unprocessed_words(count: int, path: Path = config.VOCABULARY_CSV) -> list[SelectedWord]:
-    """Return the first `count` words from CSV where output_file is empty."""
+def load_unprocessed_words(
+    count: int,
+    path: Path = config.VOCABULARY_CSV,
+    frequencies: list[int] | None = None,
+) -> list[SelectedWord]:
+    """Return the first `count` words from CSV where output_file is empty.
+
+    Args:
+        count: Max number of words to return (per frequency if frequencies is set).
+        path: Path to the vocabulary CSV.
+        frequencies: If provided, collect first `count` unprocessed words for each
+            frequency tier, then combine preserving CSV order.
+    """
     all_words = load_vocabulary_words(path)
     unprocessed = [w for w in all_words if not w.output_file]
-    return unprocessed[:count]
+
+    if frequencies is None:
+        return unprocessed[:count]
+
+    # Collect up to `count` words per frequency
+    freq_counts: dict[int, int] = {f: 0 for f in frequencies}
+    selected_set: set[int] = set()
+    for i, w in enumerate(unprocessed):
+        if w.frequency in freq_counts and freq_counts[w.frequency] < count:
+            selected_set.add(i)
+            freq_counts[w.frequency] += 1
+
+    # Preserve CSV order
+    return [unprocessed[i] for i in sorted(selected_set)]
 
 
 async def enrich_word(
