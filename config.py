@@ -14,7 +14,7 @@ LOGS_DIR = PROJECT_ROOT / "logs"
 TEST_OUTPUT_DIR = PROJECT_ROOT / "test_output"
 
 # Input/Output files
-VOCABULARY_CSV = DATA_DIR / "word_frequencies_sorted.csv"
+VOCABULARY_CSV = PROJECT_ROOT / "source" / "word_frequencies_sorted_v2.csv"
 ENRICHED_WORDS_JSON = DATA_DIR / "enriched_words.json"
 
 

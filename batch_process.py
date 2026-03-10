@@ -22,7 +22,7 @@ MAX_RETRIES = 3
 FINAL_DATA_DIR = Path("final_data")
 DATA_DIR = Path("data")
 CHECKPOINTS_DIR = Path("checkpoints")
-VOCABULARY_CSV = DATA_DIR / "word_frequencies_sorted.csv"
+VOCABULARY_CSV = Path("source") / "word_frequencies_sorted_v2.csv"
 
 
 def clear_checkpoints(logger):
