@@ -13,7 +13,7 @@ LOGS_DIR = PROJECT_ROOT / "logs"
 TEST_OUTPUT_DIR = PROJECT_ROOT / "test_output"
 
 # Input/Output files
-VOCABULARY_CSV = PROJECT_ROOT / "source" / "word_frequencies_sorted_v2.csv"
+VOCABULARY_CSV = PROJECT_ROOT / "source" / "word_frequencies_sorted.csv"
 
 
 def _safe_word(word: str) -> str:

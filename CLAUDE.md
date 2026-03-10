@@ -1,6 +1,6 @@
 # DailyWord Data Generation Pipeline
 
-Generates vocabulary data for DailyWord iOS app: phonetics, POS, Chinese definitions, and 11 styled example sentences with translations.
+Generates vocabulary data for DailyWord iOS app: phonetics, POS, Chinese definitions, and 7 styled example sentences with translations.
 
 ## Setup
 ```bash
@@ -8,24 +8,23 @@ source venv/bin/activate
 ```
 
 ## Pipeline Steps
-1. **Step 2**: Enrich with phonetics/POS from Free Dictionary API → `data/enriched_words.json`
-2. **Step 3**: Generate examples via Claude CLI → `data/final_output.json`
+1. **Step 2**: Enrich with phonetics/POS from Free Dictionary API (in-memory)
+2. **Step 3**: Generate examples via Claude CLI → `final_data_v3/{word}/{word}_{timestamp}.json`
 
-Word source: `data/word_frequencies_sorted.csv` (12,059 words)
+Word source: `source/word_frequencies_sorted.csv` (12,052 words). The `output_file` column tracks completion.
 
 ## Usage
 ```bash
-python main.py --dry-run              # Test with 10 words
-python main.py --word-range 0-100     # Process subset (parallel-safe)
-python main.py --resume               # Resume from checkpoint
+python main.py --dry-run              # Test with 10 words (no CSV update)
+python main.py --count 50             # Process 50 unprocessed words
+python main.py                        # Process next 100 unprocessed words
 
-# Parallel execution (each uses separate checkpoint/output files)
-python main.py --word-range 200-300   # Terminal 1
-python main.py --word-range 300-400   # Terminal 2
+# Batch processing
+python batch_process.py --count 50 --batches 3
 ```
 
 ## Key Files
 - `config.py` - All configuration settings
 - `src/models.py` - Pydantic data models
 - `prompts/example_generation.txt` - LLM prompt template
-- `checkpoints/` - Progress tracking for resume capability
+- `source/word_frequencies_sorted.csv` - Word list with progress tracking
