@@ -26,7 +26,7 @@ def main() -> None:
     word_order = [w.word for w in words]
     word_order_path = config.VOCABULARY_CSV.parent / "word_order.json"
     with open(word_order_path, "w") as f:
-        json.dump(word_order, f, ensure_ascii=False, indent=2)
+        json.dump(word_order, f, ensure_ascii=False, separators=(",", ":"))
     print(f"Wrote {len(word_order)} words to {word_order_path}")
 
     # word_levels.json: map frequency tiers to level numbers with starting indices
@@ -48,7 +48,7 @@ def main() -> None:
 
     word_levels_path = config.VOCABULARY_CSV.parent / "word_levels.json"
     with open(word_levels_path, "w") as f:
-        json.dump(levels, f, ensure_ascii=False, indent=2)
+        json.dump(levels, f, ensure_ascii=False, separators=(",", ":"))
     print(f"Wrote {len(levels)} levels to {word_levels_path}")
 
 

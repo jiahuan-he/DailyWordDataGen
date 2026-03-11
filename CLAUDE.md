@@ -23,6 +23,14 @@ python main.py                        # Process next 100 unprocessed words
 python batch_process.py --count 50 --batches 3
 ```
 
+## S3 Upload
+```bash
+python upload_to_s3.py --wipe-and-upload    # Wipe bucket and re-upload all words + metadata
+python upload_to_s3.py                       # Upload all words (incremental)
+python upload_to_s3.py --words abandon,aim   # Upload specific words
+python upload_to_s3.py --dry-run             # Preview uploads
+```
+
 ## Key Files
 - `config.py` - All configuration settings
 - `src/models.py` - Pydantic data models
