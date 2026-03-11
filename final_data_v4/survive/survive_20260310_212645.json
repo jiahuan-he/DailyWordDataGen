@@ -1,0 +1,39 @@
+{
+  "word": "survive",
+  "phonetic": "/səˈvʌɪv/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "幸存；存活；挺过",
+  "examples": [
+    {
+      "sentence": "Only two passengers survived the crash.",
+      "style": "Contextual",
+      "translation": "仅有两名乘客在坠机中幸存。",
+      "translated_word": "幸存",
+      "display_order": 4
+    },
+    {
+      "sentence": "She survived what she thought would break her.",
+      "style": "Inspirational",
+      "translation": "她挺过了自以为会被击垮的一切。",
+      "translated_word": "挺过",
+      "display_order": 2
+    },
+    {
+      "sentence": "Surviving isn't living; it's merely waiting.",
+      "style": "Philosophical",
+      "translation": "幸存不是活着，只是在等待。",
+      "translated_word": "幸存",
+      "display_order": 1
+    },
+    {
+      "sentence": "I survived that winter on coffee and long-distance calls.",
+      "style": "Intimate",
+      "translation": "那个冬天，我靠咖啡和长途电话撑了过来。",
+      "translated_word": "撑了过来",
+      "display_order": 3
+    }
+  ]
+}

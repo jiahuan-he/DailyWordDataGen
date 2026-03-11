@@ -1,0 +1,40 @@
+{
+  "word": "reveal",
+  "phonetic": "/ɹəˈviːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "揭示；透露；显露；展现",
+  "examples": [
+    {
+      "sentence": "The melting snow revealed a garden we had forgotten.",
+      "style": "Contextual",
+      "translation": "融雪退去，露出一座被我们遗忘的花园。",
+      "translated_word": "露出",
+      "display_order": 2
+    },
+    {
+      "sentence": "Time reveals what words conceal.",
+      "style": "Philosophical",
+      "translation": "时间会揭示言语所隐藏的一切。",
+      "translated_word": "揭示",
+      "display_order": 1
+    },
+    {
+      "sentence": "Morning light revealed the city in soft gold.",
+      "style": "Poetic",
+      "translation": "晨光为城市披上一层柔和的金色。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "She revealed her dream to me on a quiet evening, and I knew she would chase it.",
+      "style": "Intimate",
+      "translation": "一个静谧的傍晚，她向我吐露了梦想，我知道她一定会去追寻。",
+      "translated_word": "吐露",
+      "display_order": 3
+    }
+  ]
+}

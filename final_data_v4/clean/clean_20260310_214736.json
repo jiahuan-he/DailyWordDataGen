@@ -1,0 +1,42 @@
+{
+  "word": "clean",
+  "phonetic": "/kleːn/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "干净的；整洁的；纯净的",
+  "examples": [
+    {
+      "sentence": "After the storm, the air felt impossibly clean.",
+      "style": "Contextual",
+      "translation": "暴风雨后，空气清新得不可思议。",
+      "translated_word": "清新",
+      "display_order": 3
+    },
+    {
+      "sentence": "He needed a clean slate to start over.",
+      "style": "Collocational",
+      "translation": "他需要一个全新的开始。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Snow fell through the night, leaving the world clean.",
+      "style": "Poetic",
+      "translation": "雪落了一夜，世界变得纯净。",
+      "translated_word": "纯净",
+      "display_order": 2
+    },
+    {
+      "sentence": "A clean conscience needs no explanation.",
+      "style": "Philosophical",
+      "translation": "问心无愧，无需解释。",
+      "translated_word": null,
+      "display_order": 1
+    }
+  ]
+}
