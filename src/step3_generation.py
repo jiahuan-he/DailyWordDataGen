@@ -178,7 +178,13 @@ def run_step3(
                         f"(phonetic={enriched.phonetic}, pos={enriched.pos})")
 
             logger.info(f"  [{i+1}/{total_words}] Generating: {selected.word}")
-            entry, errors = generate_for_word(enriched, generation_prompt, enrichment_prompt)
+            max_attempts = 3
+            for attempt in range(1, max_attempts + 1):
+                entry, errors = generate_for_word(enriched, generation_prompt, enrichment_prompt)
+                if entry:
+                    break
+                if attempt < max_attempts:
+                    logger.warning(f"  [{i+1}/{total_words}] Attempt {attempt}/{max_attempts} failed for {selected.word}, retrying...")
 
             if entry:
                 # Determine output path

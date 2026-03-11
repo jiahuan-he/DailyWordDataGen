@@ -1,0 +1,40 @@
+{
+  "word": "whisper",
+  "phonetic": "/ˈ(h)wɪspə/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "低语；耳语；窃窃私语",
+  "examples": [
+    {
+      "sentence": "She leaned close and whispered the secret in my ear.",
+      "style": "Contextual",
+      "translation": "她凑近我，在耳边悄悄说出那个秘密。",
+      "translated_word": "悄悄说",
+      "display_order": 4
+    },
+    {
+      "sentence": "The wind whispered through the autumn leaves.",
+      "style": "Poetic",
+      "translation": "风穿过秋叶，轻声絮语。",
+      "translated_word": "絮语",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some truths are too fragile to speak aloud; we can only whisper them.",
+      "style": "Philosophical",
+      "translation": "有些真相太过脆弱，不宜宣之于口，只能低声倾诉。",
+      "translated_word": "低声倾诉",
+      "display_order": 3
+    },
+    {
+      "sentence": "I still remember how you used to whisper goodnight before I fell asleep.",
+      "style": "Intimate",
+      "translation": "我仍记得，你曾在我入睡前轻声道晚安。",
+      "translated_word": "轻声",
+      "display_order": 1
+    }
+  ]
+}

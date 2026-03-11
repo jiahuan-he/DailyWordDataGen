@@ -1,0 +1,39 @@
+{
+  "word": "restful",
+  "phonetic": "/ˈɹɛs(t)f(ə)l/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "宁静的；安逸的；令人放松的",
+  "examples": [
+    {
+      "sentence": "After the chaos of the city, the countryside felt restful.",
+      "style": "Contextual",
+      "translation": "城市的喧嚣过后，乡间显得格外宁静。",
+      "translated_word": "宁静",
+      "display_order": 3
+    },
+    {
+      "sentence": "A restful night makes everything feel possible again.",
+      "style": "Collocational",
+      "translation": "一夜安眠，万事皆有可能。",
+      "translated_word": "安",
+      "display_order": 2
+    },
+    {
+      "sentence": "The garden kept a restful silence; only the wind spoke.",
+      "style": "Poetic",
+      "translation": "花园守着一份静谧，唯有风在低语。",
+      "translated_word": "静谧",
+      "display_order": 1
+    },
+    {
+      "sentence": "I found a restful corner in this busy world, and I keep returning.",
+      "style": "Intimate",
+      "translation": "在这忙碌的世界里，我找到了一处安宁，总是想要回去。",
+      "translated_word": "安宁",
+      "display_order": 4
+    }
+  ]
+}
