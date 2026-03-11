@@ -36,7 +36,7 @@ def get_word_output_path(word: str, timestamp: datetime | None = None) -> Path:
 
 # Prompt templates
 EXAMPLE_GENERATION_PROMPT = PROMPTS_DIR / "example_generation.txt"
-TRANSLATION_ENRICHMENT_PROMPT = PROMPTS_DIR / "translation_enrichment.txt"
+EXAMPLE_ENRICHMENT_PROMPT = PROMPTS_DIR / "example_enrichment.txt"
 
 # API settings
 FREE_DICTIONARY_API_URL = "https://api.dictionaryapi.dev/api/v2/entries/en"

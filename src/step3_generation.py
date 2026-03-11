@@ -13,7 +13,7 @@ import config
 from src.models import EnrichedWord, FinalWordEntry, LLMGenerationResult
 from src.claude_client import (
     generate_examples_for_word,
-    enrich_with_translated_word,
+    enrich_examples,
     ClaudeGenerationError,
     ClaudeConsecutiveFailureError,
 )
@@ -109,7 +109,7 @@ def generate_for_word(
     generation_prompt: str,
     enrichment_prompt: str,
 ) -> tuple[FinalWordEntry | None, list[str]]:
-    """Generate examples for a single word and assign display_order 1-4."""
+    """Generate examples for a single word, enrich with translated_word and display_order."""
     try:
         result = generate_examples_for_word(
             word=enriched.word,
@@ -117,17 +117,15 @@ def generate_for_word(
             prompt_template=generation_prompt,
         )
 
-        translated_words = enrich_with_translated_word(
+        enrichments = enrich_examples(
             word=enriched.word,
             selected_pos=result.selected_pos,
             examples=result.examples,
             prompt_template=enrichment_prompt,
         )
-        for i, tw in enumerate(translated_words):
-            result.examples[i].translated_word = tw
-
-        for i, ex in enumerate(result.examples):
-            ex.display_order = i + 1
+        for i, enrichment in enumerate(enrichments):
+            result.examples[i].translated_word = enrichment["translated_word"]
+            result.examples[i].display_order = enrichment["display_order"]
 
         entry = create_final_entry(enriched, result)
         errors = validate_entry(entry)
@@ -157,7 +155,7 @@ def run_step3(
     logger.info("Step 3: Generating examples with Claude...")
 
     generation_prompt = load_prompt_template(config.EXAMPLE_GENERATION_PROMPT)
-    enrichment_prompt = load_prompt_template(config.TRANSLATION_ENRICHMENT_PROMPT)
+    enrichment_prompt = load_prompt_template(config.EXAMPLE_ENRICHMENT_PROMPT)
 
     if not enriched_words:
         logger.info("  No words to process")

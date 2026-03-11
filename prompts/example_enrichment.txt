@@ -1,0 +1,40 @@
+For the word "{word}" ({selected_pos}), you are given 4 generated example sentences and their Chinese translations.
+
+Your task is to:
+1. Extract the exact Chinese translation substring.
+2. Evaluate all 4 sentences against a unified quality rubric and rank them (1 to 4).
+
+Examples to evaluate:
+{examples_json}
+
+*** RULES FOR EXTRACTION (translated_word) ***
+1. The `translated_word` MUST be an EXACT substring of the provided Chinese translation. Do not invent or modify words.
+2. Choose the most specific and concise translation (do not highlight the whole phrase if a single word or 2-4 character term suffices).
+3. Ensure the `translated_word` is a complete and natural Chinese semantic unit (完整词汇). For example, extract "一代人" or "代", but avoid awkward partial boundaries like "代人".
+4. If the English word's meaning was completely absorbed into the natural phrasing of the Chinese sentence and has no direct substring equivalent, output `null`.
+
+*** RULES FOR RANKING (display_order) ***
+Evaluate and rank all 4 sentences from 1 (Highest Quality) to 4 (Lowest Quality) strictly based on how well they score against this unified "小而美" (Small and Beautiful) aesthetic rubric:
+
+1. Brevity & Punchiness: The sentence is concise, high-impact, and easily scannable on a minimalist mobile screen. It wastes no words.
+2. Emotional Resonance: The sentence is thought-provoking, deeply relatable, poetic, or intimate. It makes the user pause and reflect.
+3. Elegance of Translation: The Chinese translation is beautifully phrased, possessing literary fluency and rhythm (节奏感), rather than reading like a rigid machine translation.
+4. Clarity of Usage: The sentence effortlessly and naturally demonstrates the core meaning of the English word.
+
+Assign `display_order: 1` to the sentence that best achieves the highest combined score across these four pillars, down to `display_order: 4` for the weakest.
+
+Output as JSON:
+{{
+  "results": [
+    {{
+      "original_index": 0,
+      "translated_word": "...",
+      "display_order": 2
+    }},
+    {{
+      "original_index": 1,
+      "translated_word": null,
+      "display_order": 1
+    }}
+  ]
+}}
