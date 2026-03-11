@@ -13,6 +13,7 @@ from tqdm import tqdm
 from config import FINAL_DATA_DIR
 
 BUCKET_NAME = "dailyword-words-v2"
+SOURCE_DIR = Path(__file__).parent / "source"
 REGION = "ap-southeast-1"
 S3_PREFIX = "words/"
 CLOUDFRONT_DISTRIBUTION_ID = "E34S0D0HGF4Q4B"
@@ -303,6 +304,108 @@ def update_cloudfront():
     print("Note: changes may take a few minutes to propagate.")
 
 
+# ── wipe-and-upload ──────────────────────────────────────────
+
+
+def wipe_bucket(s3):
+    """Delete all objects in the bucket."""
+    deleted_count = 0
+    paginator = s3.get_paginator("list_objects_v2")
+    for page in paginator.paginate(Bucket=BUCKET_NAME):
+        objects = page.get("Contents", [])
+        if not objects:
+            continue
+        delete_keys = [{"Key": obj["Key"]} for obj in objects]
+        s3.delete_objects(
+            Bucket=BUCKET_NAME,
+            Delete={"Objects": delete_keys, "Quiet": True},
+        )
+        deleted_count += len(delete_keys)
+    return deleted_count
+
+
+def wipe_and_upload():
+    """Wipe all objects in the bucket and re-upload everything."""
+    entries = discover_words()
+    metadata_files = ["word_order.json", "word_levels.json"]
+
+    # Summary
+    print(f"Will upload {len(entries)} word JSON files + {', '.join(metadata_files)}")
+    print(f"Target bucket: {BUCKET_NAME}")
+    answer = input(
+        "\nThis will DELETE all objects in '{}' and re-upload. Are you sure? [y/N] ".format(
+            BUCKET_NAME
+        )
+    ).strip().lower()
+    if answer != "y":
+        print("Aborted.")
+        return
+
+    s3 = get_s3_client()
+
+    # 1. Wipe
+    deleted = wipe_bucket(s3)
+    print(f"Deleted {deleted} existing objects.")
+
+    # 2. Upload word JSONs
+    uploaded = 0
+    failed = 0
+    for folder_name, json_path in tqdm(entries, desc="Uploading words"):
+        s3_key = f"{S3_PREFIX}{folder_name}.json"
+        try:
+            s3.upload_file(
+                str(json_path),
+                BUCKET_NAME,
+                s3_key,
+                ExtraArgs={
+                    "ContentType": "application/json",
+                    "CacheControl": "public, max-age=86400",
+                },
+            )
+            uploaded += 1
+        except ClientError as e:
+            print(f"\nFailed to upload {folder_name}: {e}")
+            failed += 1
+
+    # 3. Upload metadata files
+    for filename in metadata_files:
+        filepath = SOURCE_DIR / filename
+        if not filepath.exists():
+            print(f"Warning: {filepath} not found, skipping.")
+            continue
+        try:
+            s3.upload_file(
+                str(filepath),
+                BUCKET_NAME,
+                filename,
+                ExtraArgs={
+                    "ContentType": "application/json",
+                    "CacheControl": "public, max-age=86400",
+                },
+            )
+            print(f"Uploaded {filename}")
+        except ClientError as e:
+            print(f"Failed to upload {filename}: {e}")
+            failed += 1
+
+    print(f"\nDone. Words uploaded: {uploaded}, Failed: {failed}")
+
+    # 4. Invalidate CloudFront cache
+    try:
+        cf = get_cloudfront_client()
+        resp = cf.create_invalidation(
+            DistributionId=CLOUDFRONT_DISTRIBUTION_ID,
+            InvalidationBatch={
+                "Paths": {"Quantity": 1, "Items": ["/*"]},
+                "CallerReference": str(int(__import__("time").time())),
+            },
+        )
+        inv_id = resp["Invalidation"]["Id"]
+        print(f"CloudFront cache invalidation created: {inv_id}")
+    except ClientError as e:
+        print(f"Warning: CloudFront invalidation failed: {e}")
+
+
 # ── CLI ──────────────────────────────────────────────────────
 
 
@@ -317,6 +420,7 @@ Examples:
   python upload_to_s3.py --words abandon,ability     # Upload specific words
   python upload_to_s3.py --update-cloudfront          # Update CloudFront config
   python upload_to_s3.py --dry-run                   # Preview uploads
+  python upload_to_s3.py --wipe-and-upload            # Wipe bucket and re-upload everything
         """,
     )
     parser.add_argument(
@@ -340,6 +444,11 @@ Examples:
         action="store_true",
         help="Preview what would be uploaded without uploading",
     )
+    parser.add_argument(
+        "--wipe-and-upload",
+        action="store_true",
+        help="Delete all objects in bucket and re-upload everything",
+    )
 
     args = parser.parse_args()
 
@@ -347,6 +456,8 @@ Examples:
         init_bucket()
     elif args.update_cloudfront:
         update_cloudfront()
+    elif args.wipe_and_upload:
+        wipe_and_upload()
     else:
         word_list = [w.strip() for w in args.words.split(",")] if args.words else None
         upload_words(words=word_list, dry_run=args.dry_run)
