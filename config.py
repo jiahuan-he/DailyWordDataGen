@@ -6,14 +6,14 @@ from pathlib import Path
 
 # Base paths
 PROJECT_ROOT = Path(__file__).parent
-FINAL_DATA_DIR = PROJECT_ROOT / "final_data_v3"  # Step 3 output directory (per-word)
+FINAL_DATA_DIR = PROJECT_ROOT / "final_data_v4"  # Step 3 output directory (per-word)
 CHECKPOINTS_DIR = PROJECT_ROOT / "checkpoints"
 PROMPTS_DIR = PROJECT_ROOT / "prompts"
 LOGS_DIR = PROJECT_ROOT / "logs"
 TEST_OUTPUT_DIR = PROJECT_ROOT / "test_output"
 
 # Input/Output files
-VOCABULARY_CSV = PROJECT_ROOT / "source" / "word_frequencies_sorted.csv"
+VOCABULARY_CSV = PROJECT_ROOT / "source" / "word_frequencies_sorted_v4.csv"
 
 
 def _safe_word(word: str) -> str:
@@ -25,7 +25,7 @@ def get_word_output_path(word: str, timestamp: datetime | None = None) -> Path:
     """Generate per-word output path.
 
     Returns:
-        Path like final_data_v3/{safe_word}/{safe_word}_{timestamp}.json
+        Path like final_data_v4/{safe_word}/{safe_word}_{timestamp}.json
     """
     if timestamp is None:
         timestamp = datetime.now()

@@ -53,7 +53,7 @@ Examples:
     parser.add_argument(
         "--test",
         action="store_true",
-        help="Route output to test_output/<model>/ instead of final_data_v3/ (no CSV update)",
+        help="Route output to test_output/<model>/ instead of final_data_v4/ (no CSV update)",
     )
     parser.add_argument(
         "--frequencies", "-f",
