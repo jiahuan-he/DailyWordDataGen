@@ -52,7 +52,8 @@ CLAUDE_TIMEOUT = 180  # seconds
 DEFAULT_BATCH_SIZE = 100
 DRY_RUN_LIMIT = 10
 
-# Example styles (7 styles, one sentence each)
+# Example styles (8 styles; the prompt picks 4 per word)
+EXAMPLES_PER_WORD = 4
 EXAMPLE_STYLES = [
     "Formal",
     "Definitional",
@@ -61,6 +62,7 @@ EXAMPLE_STYLES = [
     "Philosophical",
     "Poetic",
     "Inspirational",
+    "Intimate",
 ]
 
 

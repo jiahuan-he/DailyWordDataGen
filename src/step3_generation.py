@@ -14,7 +14,6 @@ from src.models import EnrichedWord, FinalWordEntry, LLMGenerationResult
 from src.claude_client import (
     generate_examples_for_word,
     enrich_with_translated_word,
-    select_best_examples,
     ClaudeGenerationError,
     ClaudeConsecutiveFailureError,
 )
@@ -83,8 +82,8 @@ def validate_entry(entry: FinalWordEntry) -> list[str]:
     """Validate a final word entry. Returns list of error messages (empty if valid)."""
     errors = []
 
-    if len(entry.examples) != len(config.EXAMPLE_STYLES):
-        errors.append(f"Expected {len(config.EXAMPLE_STYLES)} examples, got {len(entry.examples)}")
+    if len(entry.examples) != config.EXAMPLES_PER_WORD:
+        errors.append(f"Expected {config.EXAMPLES_PER_WORD} examples, got {len(entry.examples)}")
 
     for i, ex in enumerate(entry.examples):
         if ex.translated_word and ex.translated_word not in ex.translation:
@@ -109,9 +108,8 @@ def generate_for_word(
     enriched: EnrichedWord,
     generation_prompt: str,
     enrichment_prompt: str,
-    selection_prompt: str,
 ) -> tuple[FinalWordEntry | None, list[str]]:
-    """Generate examples for a single word and select the best 4."""
+    """Generate examples for a single word and assign display_order 1-4."""
     try:
         result = generate_examples_for_word(
             word=enriched.word,
@@ -128,16 +126,8 @@ def generate_for_word(
         for i, tw in enumerate(translated_words):
             result.examples[i].translated_word = tw
 
-        selections = select_best_examples(
-            word=enriched.word,
-            selected_pos=result.selected_pos,
-            definition=result.definition,
-            examples=result.examples,
-            prompt_template=selection_prompt,
-        )
-
-        for selection in selections:
-            result.examples[selection["index"]].display_order = selection["display_order"]
+        for i, ex in enumerate(result.examples):
+            ex.display_order = i + 1
 
         entry = create_final_entry(enriched, result)
         errors = validate_entry(entry)
@@ -168,7 +158,6 @@ def run_step3(
 
     generation_prompt = load_prompt_template(config.EXAMPLE_GENERATION_PROMPT)
     enrichment_prompt = load_prompt_template(config.TRANSLATION_ENRICHMENT_PROMPT)
-    selection_prompt = load_prompt_template(config.EXAMPLE_SELECTION_PROMPT)
 
     if not enriched_words:
         logger.info("  No words to process")
@@ -185,7 +174,7 @@ def run_step3(
     try:
         for i, enriched in enumerate(tqdm(enriched_words, desc="  Generating")):
             logger.info(f"  [{i+1}/{total_words}] Processing: {enriched.word}")
-            entry, errors = generate_for_word(enriched, generation_prompt, enrichment_prompt, selection_prompt)
+            entry, errors = generate_for_word(enriched, generation_prompt, enrichment_prompt)
 
             if entry:
                 # Determine output path
