@@ -7,7 +7,7 @@ from datetime import datetime
 
 import config
 from src.logger import setup_logger
-from src.step2_enrichment import load_unprocessed_words, run_step2
+from src.step2_enrichment import load_unprocessed_words
 from src.step3_generation import run_step3
 
 
@@ -103,12 +103,9 @@ Examples:
     logger.info("=" * 60)
 
     try:
-        # Step 2: Word Enrichment (in-memory)
-        enriched = run_step2(words)
-
-        # Step 3: LLM Example Generation (per-word save + CSV update)
+        # Process words: enrich + generate examples (per-word save + CSV update)
         run_step3(
-            enriched_words=enriched,
+            words=words,
             timestamp=pipeline_start,
             test_mode=test_mode,
             model_short=model_short,

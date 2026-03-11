@@ -1,14 +1,11 @@
 """Free Dictionary API client for word lookups."""
 
-import asyncio
-
 import httpx
 from tenacity import (
     retry,
     stop_after_attempt,
     wait_exponential,
     retry_if_exception_type,
-    RetryError,
 )
 
 import config
@@ -37,42 +34,6 @@ def is_rate_limit_error(exception: BaseException) -> bool:
     if isinstance(exception, httpx.HTTPStatusError):
         return exception.response.status_code in (429, 503)
     return False
-
-
-@retry(
-    stop=stop_after_attempt(config.DICTIONARY_API_MAX_RETRIES),
-    wait=wait_exponential(multiplier=2, min=2, max=60),
-    retry=retry_if_exception_type((httpx.TimeoutException, httpx.HTTPStatusError)),
-)
-async def lookup_word(word: str, client: httpx.AsyncClient) -> dict:
-    """
-    Look up a word in the Free Dictionary API.
-
-    Args:
-        word: The word to look up
-        client: Async HTTP client
-
-    Returns:
-        Dictionary containing phonetic and parts of speech
-
-    Raises:
-        WordNotFoundError: If word is not in the dictionary
-        DictionaryLookupError: If lookup fails for other reasons
-    """
-    url = f"{config.FREE_DICTIONARY_API_URL}/{word}"
-
-    response = await client.get(url, timeout=config.DICTIONARY_API_TIMEOUT)
-
-    if response.status_code == 404:
-        raise WordNotFoundError(f"Word not found: {word}")
-
-    response.raise_for_status()
-    data = response.json()
-
-    if not data or not isinstance(data, list):
-        raise DictionaryLookupError(f"Unexpected response format for: {word}")
-
-    return parse_dictionary_response(data)
 
 
 def parse_dictionary_response(data: list) -> dict:
@@ -112,36 +73,37 @@ def parse_dictionary_response(data: list) -> dict:
     }
 
 
-async def lookup_words_batch(
-    words: list[str], batch_size: int = 10
-) -> dict[str, dict]:
+@retry(
+    stop=stop_after_attempt(config.DICTIONARY_API_MAX_RETRIES),
+    wait=wait_exponential(multiplier=2, min=2, max=60),
+    retry=retry_if_exception_type((httpx.TimeoutException, httpx.HTTPStatusError)),
+)
+def lookup_word_sync(word: str) -> dict:
     """
-    Look up multiple words with rate limiting.
+    Look up a word in the Free Dictionary API (synchronous).
 
     Args:
-        words: List of words to look up
-        batch_size: Number of concurrent requests
+        word: The word to look up
 
     Returns:
-        Dictionary mapping words to their lookup results
+        Dictionary containing phonetic and parts of speech
+
+    Raises:
+        WordNotFoundError: If word is not in the dictionary
+        DictionaryLookupError: If lookup fails for other reasons
     """
-    import asyncio
+    url = f"{config.FREE_DICTIONARY_API_URL}/{word}"
 
-    results = {}
-    semaphore = asyncio.Semaphore(batch_size)
+    with httpx.Client() as client:
+        response = client.get(url, timeout=config.DICTIONARY_API_TIMEOUT)
 
-    async def lookup_with_semaphore(word: str, client: httpx.AsyncClient):
-        async with semaphore:
-            try:
-                result = await lookup_word(word, client)
-                results[word] = result
-            except WordNotFoundError:
-                results[word] = {"phonetic": None, "pos": [], "error": "not_found"}
-            except DictionaryLookupError as e:
-                results[word] = {"phonetic": None, "pos": [], "error": str(e)}
+    if response.status_code == 404:
+        raise WordNotFoundError(f"Word not found: {word}")
 
-    async with httpx.AsyncClient() as client:
-        tasks = [lookup_with_semaphore(word, client) for word in words]
-        await asyncio.gather(*tasks)
+    response.raise_for_status()
+    data = response.json()
 
-    return results
+    if not data or not isinstance(data, list):
+        raise DictionaryLookupError(f"Unexpected response format for: {word}")
+
+    return parse_dictionary_response(data)

@@ -1,16 +1,13 @@
 """Step 2: Word Enrichment - Add phonetics and POS from dictionary API."""
 
-import asyncio
 import csv
 from pathlib import Path
 
-import httpx
 from tenacity import RetryError
-from tqdm import tqdm
 
 import config
 from src.models import EnrichedWord, SelectedWord
-from src.dictionary_client import lookup_word, WordNotFoundError, DictionaryLookupError
+from src.dictionary_client import lookup_word_sync, WordNotFoundError, DictionaryLookupError
 from src.logger import get_logger
 
 
@@ -61,13 +58,17 @@ def load_unprocessed_words(
     return [unprocessed[i] for i in sorted(selected_set)]
 
 
-async def enrich_word(
-    word: str,
-    client: httpx.AsyncClient,
-) -> EnrichedWord:
-    """Enrich a single word with phonetic and POS data."""
+def enrich_single_word(word: str) -> EnrichedWord:
+    """Enrich a single word with phonetic and POS data (synchronous).
+
+    Args:
+        word: The word to look up
+
+    Returns:
+        EnrichedWord with phonetic/pos data, or empty fields on error
+    """
     try:
-        result = await lookup_word(word, client)
+        result = lookup_word_sync(word)
         return EnrichedWord(
             word=word,
             phonetic=result.get("phonetic"),
@@ -79,69 +80,3 @@ async def enrich_word(
         return EnrichedWord(word=word, phonetic=None, pos=[])
     except RetryError:
         return EnrichedWord(word=word, phonetic=None, pos=[])
-
-
-async def enrich_words_async(
-    selected_words: list[SelectedWord],
-) -> list[EnrichedWord]:
-    """Enrich words with dictionary data (in-memory, no file I/O)."""
-    if not selected_words:
-        logger = get_logger()
-        logger.info("  No words to process (all already completed)")
-        return []
-
-    logger = get_logger()
-    logger.info(f"  Processing {len(selected_words)} words...")
-
-    enriched_dict: dict[str, EnrichedWord] = {}
-
-    async with httpx.AsyncClient() as client:
-        semaphore = asyncio.Semaphore(2)
-
-        async def process_with_semaphore(sw: SelectedWord):
-            async with semaphore:
-                result = await enrich_word(sw.word, client)
-                enriched_dict[sw.word] = result
-                await asyncio.sleep(0.5)
-                return result
-
-        with tqdm(total=len(selected_words), desc="  Enriching") as pbar:
-            async def process_and_update(sw: SelectedWord):
-                result = await process_with_semaphore(sw)
-                pbar.update(1)
-                return result
-
-            tasks = [process_and_update(sw) for sw in selected_words]
-            await asyncio.gather(*tasks)
-
-    # Rebuild ordered list
-    return [enriched_dict[sw.word] for sw in selected_words if sw.word in enriched_dict]
-
-
-def run_step2(selected_words: list[SelectedWord]) -> list[EnrichedWord]:
-    """Run Step 2: enrich the given words with dictionary data (in-memory).
-
-    Args:
-        selected_words: Words to enrich
-
-    Returns:
-        List of enriched words
-    """
-    logger = get_logger()
-    logger.info("Step 2: Enriching words with dictionary data...")
-    logger.info(f"  {len(selected_words)} words to enrich")
-
-    enriched = asyncio.run(enrich_words_async(selected_words))
-
-    # Report statistics
-    with_phonetic = sum(1 for w in enriched if w.phonetic)
-    with_pos = sum(1 for w in enriched if w.pos)
-    logger.info(f"  Words with phonetic: {with_phonetic}/{len(enriched)}")
-    logger.info(f"  Words with POS: {with_pos}/{len(enriched)}")
-
-    return enriched
-
-
-if __name__ == "__main__":
-    words = load_unprocessed_words(10)
-    run_step2(words)

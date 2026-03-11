@@ -10,13 +10,14 @@ from pathlib import Path
 from tqdm import tqdm
 
 import config
-from src.models import EnrichedWord, FinalWordEntry, LLMGenerationResult
+from src.models import EnrichedWord, FinalWordEntry, LLMGenerationResult, SelectedWord
 from src.claude_client import (
     generate_examples_for_word,
     enrich_examples,
     ClaudeGenerationError,
     ClaudeConsecutiveFailureError,
 )
+from src.step2_enrichment import enrich_single_word
 from src.logger import get_logger
 
 
@@ -135,15 +136,15 @@ def generate_for_word(
 
 
 def run_step3(
-    enriched_words: list[EnrichedWord],
+    words: list[SelectedWord],
     timestamp: datetime,
     test_mode: bool = False,
     model_short: str = "",
 ) -> list[FinalWordEntry]:
-    """Run Step 3: generate examples for each word, save per-word JSON, update CSV.
+    """Run Step 3: enrich and generate examples for each word, save per-word JSON, update CSV.
 
     Args:
-        enriched_words: Enriched words to process (in-memory)
+        words: Words to process (enrichment happens per-word inline)
         timestamp: Timestamp for output file naming
         test_mode: If True, save to test_output/ and do NOT update CSV
         model_short: Short model name (used for test output path)
@@ -152,34 +153,39 @@ def run_step3(
         List of final word entries
     """
     logger = get_logger()
-    logger.info("Step 3: Generating examples with Claude...")
+    logger.info("Processing words (enrich + generate)...")
 
     generation_prompt = load_prompt_template(config.EXAMPLE_GENERATION_PROMPT)
     enrichment_prompt = load_prompt_template(config.EXAMPLE_ENRICHMENT_PROMPT)
 
-    if not enriched_words:
+    if not words:
         logger.info("  No words to process")
         return []
 
-    logger.info(f"  Processing {len(enriched_words)} words...")
+    logger.info(f"  Processing {len(words)} words...")
 
     validation_warnings = []
-    total_words = len(enriched_words)
+    total_words = len(words)
     consecutive_failures = 0
     CONSECUTIVE_FAILURE_THRESHOLD = 2
     results: list[FinalWordEntry] = []
 
     try:
-        for i, enriched in enumerate(tqdm(enriched_words, desc="  Generating")):
-            logger.info(f"  [{i+1}/{total_words}] Processing: {enriched.word}")
+        for i, selected in enumerate(tqdm(words, desc="  Processing")):
+            logger.info(f"  [{i+1}/{total_words}] Enriching: {selected.word}")
+            enriched = enrich_single_word(selected.word)
+            logger.info(f"  [{i+1}/{total_words}] Enriched: {selected.word} "
+                        f"(phonetic={enriched.phonetic}, pos={enriched.pos})")
+
+            logger.info(f"  [{i+1}/{total_words}] Generating: {selected.word}")
             entry, errors = generate_for_word(enriched, generation_prompt, enrichment_prompt)
 
             if entry:
                 # Determine output path
                 if test_mode:
-                    output_path = config.get_test_output_path(model_short, enriched.word, timestamp)
+                    output_path = config.get_test_output_path(model_short, selected.word, timestamp)
                 else:
-                    output_path = config.get_word_output_path(enriched.word, timestamp)
+                    output_path = config.get_word_output_path(selected.word, timestamp)
 
                 # Save per-word JSON
                 save_word_entry(entry, output_path)
@@ -188,16 +194,16 @@ def run_step3(
                 # Update CSV (unless test mode)
                 if not test_mode:
                     relative_path = str(output_path.relative_to(config.PROJECT_ROOT))
-                    update_csv_output_file(enriched.word, relative_path)
+                    update_csv_output_file(selected.word, relative_path)
 
                 results.append(entry)
                 consecutive_failures = 0
 
                 if errors:
-                    validation_warnings.append((enriched.word, errors))
-                    logger.warning(f"  [{i+1}/{total_words}] Validation warning for {enriched.word}: {errors}")
+                    validation_warnings.append((selected.word, errors))
+                    logger.warning(f"  [{i+1}/{total_words}] Validation warning for {selected.word}: {errors}")
             else:
-                logger.error(f"  [{i+1}/{total_words}] Failed: {enriched.word} - {errors}")
+                logger.error(f"  [{i+1}/{total_words}] Failed: {selected.word} - {errors}")
 
                 is_cli_error = any("Claude CLI error" in str(e) for e in errors)
                 if is_cli_error:
@@ -227,7 +233,6 @@ def run_step3(
 
 
 if __name__ == "__main__":
-    from src.step2_enrichment import load_unprocessed_words, run_step2
+    from src.step2_enrichment import load_unprocessed_words
     words = load_unprocessed_words(config.DRY_RUN_LIMIT)
-    enriched = run_step2(words)
-    run_step3(enriched, datetime.now(), test_mode=True, model_short=config.model_short_name(config.CLAUDE_MODEL))
+    run_step3(words, datetime.now(), test_mode=True, model_short=config.model_short_name(config.CLAUDE_MODEL))
