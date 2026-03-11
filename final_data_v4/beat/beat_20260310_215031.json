@@ -1,0 +1,41 @@
+{
+  "word": "beat",
+  "phonetic": "/biːt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "打；击败；跳动",
+  "examples": [
+    {
+      "sentence": "Rain beat against the window all night.",
+      "style": "Contextual",
+      "translation": "雨整夜敲打着窗户。",
+      "translated_word": "敲打",
+      "display_order": 2
+    },
+    {
+      "sentence": "She beat the world champion in straight sets.",
+      "style": "Collocational",
+      "translation": "她直落两盘击败了世界冠军。",
+      "translated_word": "击败",
+      "display_order": 4
+    },
+    {
+      "sentence": "You can beat the odds if you refuse to quit.",
+      "style": "Inspirational",
+      "translation": "只要不放弃，你就能逆转命运。",
+      "translated_word": "逆转",
+      "display_order": 3
+    },
+    {
+      "sentence": "My heart still beats faster when I see your name.",
+      "style": "Intimate",
+      "translation": "看到你的名字，我的心跳依然加速。",
+      "translated_word": "跳",
+      "display_order": 1
+    }
+  ]
+}

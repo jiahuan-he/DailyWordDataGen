@@ -1,0 +1,39 @@
+{
+  "word": "orchard",
+  "phonetic": "/ˈɔː.tʃəd/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "果园；果树林",
+  "examples": [
+    {
+      "sentence": "The apple trees stretched in neat rows across the orchard.",
+      "style": "Contextual",
+      "translation": "苹果树在果园中整齐排列，延伸向远方。",
+      "translated_word": "果园",
+      "display_order": 4
+    },
+    {
+      "sentence": "Spring painted the orchard white with blossoms.",
+      "style": "Poetic",
+      "translation": "春天以花为墨，将果园染作一片素白。",
+      "translated_word": "果园",
+      "display_order": 1
+    },
+    {
+      "sentence": "I still remember running through my grandmother's orchard as a child.",
+      "style": "Intimate",
+      "translation": "我仍记得童年时在外婆果园里奔跑的日子。",
+      "translated_word": "果园",
+      "display_order": 3
+    },
+    {
+      "sentence": "The cherry orchard blooms every April without fail.",
+      "style": "Collocational",
+      "translation": "那片樱桃园年年四月如期盛放。",
+      "translated_word": "樱桃园",
+      "display_order": 2
+    }
+  ]
+}

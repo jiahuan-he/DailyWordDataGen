@@ -1,0 +1,39 @@
+{
+  "word": "roam",
+  "phonetic": "/ɹəʊm/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "漫游；闲逛；游荡",
+  "examples": [
+    {
+      "sentence": "Deer roam through morning mist, tracing paths only they remember.",
+      "style": "Poetic",
+      "translation": "鹿群穿行于晨雾之中，踏着唯有它们记得的小径。",
+      "translated_word": "穿行",
+      "display_order": 2
+    },
+    {
+      "sentence": "We roam not to find places, but to find ourselves.",
+      "style": "Philosophical",
+      "translation": "我们漫游，不是为了寻找远方，而是为了寻找自己。",
+      "translated_word": "漫游",
+      "display_order": 1
+    },
+    {
+      "sentence": "I spent my twenties roaming foreign cities, collecting pieces of who I wanted to be.",
+      "style": "Intimate",
+      "translation": "二十几岁的时光，我在异国街头漫游，拾起一片片想要成为的自己。",
+      "translated_word": "漫游",
+      "display_order": 3
+    },
+    {
+      "sentence": "The children roam the neighborhood until the streetlights come on.",
+      "style": "Contextual",
+      "translation": "孩子们在街区里闲逛，直到路灯亮起才肯回家。",
+      "translated_word": "闲逛",
+      "display_order": 4
+    }
+  ]
+}

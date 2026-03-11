@@ -1,0 +1,39 @@
+{
+  "word": "remind",
+  "phonetic": "/ɹəˈmaɪnd/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "提醒；使想起；使记起",
+  "examples": [
+    {
+      "sentence": "The smell of rain reminded her of home.",
+      "style": "Intimate",
+      "translation": "雨的气息让她想起了家。",
+      "translated_word": "想起",
+      "display_order": 2
+    },
+    {
+      "sentence": "Old songs remind us who we used to be.",
+      "style": "Philosophical",
+      "translation": "老歌总能唤醒曾经的自己。",
+      "translated_word": "唤醒",
+      "display_order": 1
+    },
+    {
+      "sentence": "Please remind me to call her tomorrow.",
+      "style": "Contextual",
+      "translation": "请提醒我明天给她打电话。",
+      "translated_word": "提醒",
+      "display_order": 4
+    },
+    {
+      "sentence": "The fading light reminded the travelers to seek shelter.",
+      "style": "Poetic",
+      "translation": "暮色渐沉，提醒旅人寻一处栖身之所。",
+      "translated_word": "提醒",
+      "display_order": 3
+    }
+  ]
+}

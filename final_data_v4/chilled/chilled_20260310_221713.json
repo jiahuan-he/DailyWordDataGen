@@ -1,0 +1,40 @@
+{
+  "word": "chilled",
+  "phonetic": "/tʃɪld/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "冰镇的；冷却的；放松的",
+  "examples": [
+    {
+      "sentence": "The chilled lemonade was perfect after the long hike.",
+      "style": "Contextual",
+      "translation": "远足归来，一杯冰镇柠檬水，恰到好处。",
+      "translated_word": "冰镇",
+      "display_order": 3
+    },
+    {
+      "sentence": "She poured two glasses of chilled white wine.",
+      "style": "Collocational",
+      "translation": "她倒了两杯冰镇的白葡萄酒。",
+      "translated_word": "冰镇",
+      "display_order": 4
+    },
+    {
+      "sentence": "Chilled morning air carried the first scent of autumn.",
+      "style": "Poetic",
+      "translation": "清冷的晨风里，初秋的气息悄然而至。",
+      "translated_word": "清冷",
+      "display_order": 2
+    },
+    {
+      "sentence": "I still drink chilled coffee; it reminds me of summers with you.",
+      "style": "Intimate",
+      "translation": "我依然爱喝冰咖啡，它让我想起与你共度的那些夏日。",
+      "translated_word": "冰",
+      "display_order": 1
+    }
+  ]
+}

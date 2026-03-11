@@ -1,0 +1,40 @@
+{
+  "word": "simmer",
+  "phonetic": "/ˈsɪmə/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "慢炖；文火煮；酝酿；暗涌",
+  "examples": [
+    {
+      "sentence": "Let the broth simmer on low; the flavors need time.",
+      "style": "Contextual",
+      "translation": "让高汤用小火慢炖，风味需要时间。",
+      "translated_word": "慢炖",
+      "display_order": 4
+    },
+    {
+      "sentence": "Tension simmered between them all evening.",
+      "style": "Collocational",
+      "translation": "整晚，两人之间的气氛都在暗涌。",
+      "translated_word": "暗涌",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some feelings simmer quietly before they boil over.",
+      "style": "Poetic",
+      "translation": "有些情绪在沸腾之前，总是静静酝酿。",
+      "translated_word": "酝酿",
+      "display_order": 1
+    },
+    {
+      "sentence": "I watched the soup simmer, thinking of my grandmother's kitchen.",
+      "style": "Intimate",
+      "translation": "我看着汤在炉上咕嘟作响，想起了外婆的厨房。",
+      "translated_word": "咕嘟作响",
+      "display_order": 3
+    }
+  ]
+}

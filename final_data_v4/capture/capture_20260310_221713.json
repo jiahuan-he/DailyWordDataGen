@@ -1,0 +1,40 @@
+{
+  "word": "capture",
+  "phonetic": "/ˈkæp.t͡ʃə/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "捕捉；俘获；记录；吸引",
+  "examples": [
+    {
+      "sentence": "The photographer waited for hours to capture the perfect light.",
+      "style": "Contextual",
+      "translation": "摄影师等待数小时，只为捕捉那束完美的光。",
+      "translated_word": "捕捉",
+      "display_order": 4
+    },
+    {
+      "sentence": "Film captures what memory cannot hold.",
+      "style": "Poetic",
+      "translation": "胶片留住了记忆无法承载的一切。",
+      "translated_word": "留住",
+      "display_order": 1
+    },
+    {
+      "sentence": "I wanted to capture every detail of that summer.",
+      "style": "Intimate",
+      "translation": "我想留住那个夏天的每一个细节。",
+      "translated_word": "留住",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some moments refuse to be captured; they exist only in the living.",
+      "style": "Philosophical",
+      "translation": "有些瞬间拒绝被捕捉，它们只存在于经历本身。",
+      "translated_word": "捕捉",
+      "display_order": 2
+    }
+  ]
+}

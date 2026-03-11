@@ -1,0 +1,42 @@
+{
+  "word": "nonsense",
+  "phonetic": "/ˈnɒnsəns/",
+  "pos": [
+    "adjective",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "胡说；废话；荒唐事",
+  "examples": [
+    {
+      "sentence": "The story fell apart under questioning; it was obvious nonsense.",
+      "style": "Contextual",
+      "translation": "那故事经不起追问，显然是一派胡言。",
+      "translated_word": "胡言",
+      "display_order": 4
+    },
+    {
+      "sentence": "The line between wisdom and nonsense often depends on who is listening.",
+      "style": "Philosophical",
+      "translation": "智慧与胡说的界限，往往取决于倾听者是谁。",
+      "translated_word": "胡说",
+      "display_order": 2
+    },
+    {
+      "sentence": "I once dismissed his wild ideas as nonsense; now I live by them.",
+      "style": "Intimate",
+      "translation": "我曾嗤笑他的奇思妙想，如今却奉为圭臬。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "Logic builds bridges; nonsense sometimes reveals where they are needed.",
+      "style": "Contrastive",
+      "translation": "逻辑架起桥梁，荒诞有时揭示桥该建在何处。",
+      "translated_word": "荒诞",
+      "display_order": 1
+    }
+  ]
+}

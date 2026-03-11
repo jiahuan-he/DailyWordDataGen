@@ -1,0 +1,40 @@
+{
+  "word": "brainwash",
+  "phonetic": "/ˈbɹeɪnwɒʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "洗脑；灌输；操控思想",
+  "examples": [
+    {
+      "sentence": "The cult leader brainwashed his followers into abandoning their families.",
+      "style": "Contextual",
+      "translation": "邪教头目对追随者洗脑，使他们抛弃了家人。",
+      "translated_word": "洗脑",
+      "display_order": 3
+    },
+    {
+      "sentence": "Critics argue that state media continues to brainwash the public.",
+      "style": "Formal",
+      "translation": "批评人士认为，官方媒体仍在对公众进行思想灌输。",
+      "translated_word": "思想灌输",
+      "display_order": 4
+    },
+    {
+      "sentence": "You cannot brainwash someone into loving you; only fear can be manufactured.",
+      "style": "Philosophical",
+      "translation": "你无法通过洗脑让人爱你，能被制造的只有恐惧。",
+      "translated_word": "洗脑",
+      "display_order": 2
+    },
+    {
+      "sentence": "Good teachers inspire; bad ones brainwash.",
+      "style": "Contrastive",
+      "translation": "好的老师启发思考，差的老师灌输思想。",
+      "translated_word": "灌输思想",
+      "display_order": 1
+    }
+  ]
+}

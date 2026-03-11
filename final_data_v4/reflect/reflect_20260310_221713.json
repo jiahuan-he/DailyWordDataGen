@@ -1,0 +1,39 @@
+{
+  "word": "reflect",
+  "phonetic": "/ɹɪˈflɛkt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "反映；反射；反思；深思",
+  "examples": [
+    {
+      "sentence": "The still water reflected every passing cloud.",
+      "style": "Contextual",
+      "translation": "静水映出每一朵流云。",
+      "translated_word": "映出",
+      "display_order": 3
+    },
+    {
+      "sentence": "We only reflect when the noise finally stops.",
+      "style": "Philosophical",
+      "translation": "唯有喧嚣止息，我们才开始反思。",
+      "translated_word": "反思",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her eyes reflected a sadness words could not carry.",
+      "style": "Poetic",
+      "translation": "她的眼眸映出言语无法承载的忧伤。",
+      "translated_word": "映出",
+      "display_order": 2
+    },
+    {
+      "sentence": "I reflect on those years more often now.",
+      "style": "Intimate",
+      "translation": "如今，我更常回想起那些年。",
+      "translated_word": "回想",
+      "display_order": 4
+    }
+  ]
+}

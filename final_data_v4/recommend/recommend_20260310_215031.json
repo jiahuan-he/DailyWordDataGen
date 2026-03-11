@@ -1,0 +1,39 @@
+{
+  "word": "recommend",
+  "phonetic": "/ɹɛkəˈmɛnd/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "推荐；建议；使值得",
+  "examples": [
+    {
+      "sentence": "She tried the dish once and recommended it to everyone.",
+      "style": "Contextual",
+      "translation": "她尝了一口，便向所有人推荐。",
+      "translated_word": "推荐",
+      "display_order": 3
+    },
+    {
+      "sentence": "The panel recommends immediate policy reform.",
+      "style": "Formal",
+      "translation": "专家组建议立即推行政策改革。",
+      "translated_word": "建议",
+      "display_order": 4
+    },
+    {
+      "sentence": "I highly recommend visiting in autumn.",
+      "style": "Collocational",
+      "translation": "我强烈推荐秋天前往。",
+      "translated_word": "推荐",
+      "display_order": 2
+    },
+    {
+      "sentence": "My father recommended this novel years ago; I finally understand why.",
+      "style": "Intimate",
+      "translation": "父亲多年前推荐过这本小说，如今我终于明白了缘由。",
+      "translated_word": "推荐",
+      "display_order": 1
+    }
+  ]
+}

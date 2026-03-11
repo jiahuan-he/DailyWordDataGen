@@ -1,0 +1,39 @@
+{
+  "word": "rarely",
+  "phonetic": "/ˈɹɛːli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "很少；难得；罕见",
+  "examples": [
+    {
+      "sentence": "He rarely checks his phone during dinner.",
+      "style": "Contextual",
+      "translation": "他吃饭时很少看手机。",
+      "translated_word": "很少",
+      "display_order": 4
+    },
+    {
+      "sentence": "We rarely value stillness until life forces us to stop.",
+      "style": "Philosophical",
+      "translation": "我们很少珍视静谧，直到生活迫使我们停下脚步。",
+      "translated_word": "很少",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother rarely complained, even when her hands ached.",
+      "style": "Intimate",
+      "translation": "奶奶很少抱怨，哪怕双手早已酸痛。",
+      "translated_word": "很少",
+      "display_order": 2
+    },
+    {
+      "sentence": "The mountain rarely reveals its peak; today, the clouds parted.",
+      "style": "Poetic",
+      "translation": "山顶难得一见；今日，云雾终于散开。",
+      "translated_word": "难得",
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "freehand",
+  "phonetic": null,
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "徒手的；随手画的；不借助工具的",
+  "examples": [
+    {
+      "sentence": "The architect sketched the floor plan freehand, no ruler needed.",
+      "style": "Contextual",
+      "translation": "建筑师徒手勾勒出平面图，无需借助尺规。",
+      "translated_word": "徒手",
+      "display_order": 4
+    },
+    {
+      "sentence": "His freehand drawings outsold his meticulous prints.",
+      "style": "Collocational",
+      "translation": "他的随手速写，比精雕细琢的版画更受追捧。",
+      "translated_word": "随手",
+      "display_order": 2
+    },
+    {
+      "sentence": "Freehand lines carry the quiet tremor of a living hand.",
+      "style": "Poetic",
+      "translation": "徒手的线条里，藏着生命的微微颤动。",
+      "translated_word": "徒手",
+      "display_order": 1
+    },
+    {
+      "sentence": "I learned to draw freehand before I could write my name.",
+      "style": "Intimate",
+      "translation": "我学会徒手作画，比学会写自己的名字还要早。",
+      "translated_word": "徒手",
+      "display_order": 3
+    }
+  ]
+}

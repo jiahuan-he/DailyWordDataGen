@@ -1,0 +1,40 @@
+{
+  "word": "glimpse",
+  "phonetic": "/ɡlɪmps/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "一瞥；瞥见；掠影",
+  "examples": [
+    {
+      "sentence": "Through the crowd, I caught a glimpse of her red coat.",
+      "style": "Contextual",
+      "translation": "人群中，我瞥见了她的红色大衣。",
+      "translated_word": "瞥见",
+      "display_order": 3
+    },
+    {
+      "sentence": "A glimpse of truth is often all we're given.",
+      "style": "Philosophical",
+      "translation": "真相，往往只留给我们惊鸿一瞥。",
+      "translated_word": "一瞥",
+      "display_order": 1
+    },
+    {
+      "sentence": "The sunset offered one last glimpse of gold before nightfall.",
+      "style": "Poetic",
+      "translation": "落日在夜幕前，洒下最后一缕金光。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "That glimpse of your smile carried me through the hardest days.",
+      "style": "Intimate",
+      "translation": "你那一抹微笑，支撑我度过了最艰难的日子。",
+      "translated_word": "一抹",
+      "display_order": 2
+    }
+  ]
+}

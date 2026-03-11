@@ -1,0 +1,40 @@
+{
+  "word": "brook",
+  "phonetic": "/bɹʊk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "小溪；溪流",
+  "examples": [
+    {
+      "sentence": "The children cooled their feet in the brook behind the barn.",
+      "style": "Contextual",
+      "translation": "孩子们在谷仓后的小溪里泡脚消暑。",
+      "translated_word": "小溪",
+      "display_order": 4
+    },
+    {
+      "sentence": "The brook remembers every stone it has polished smooth.",
+      "style": "Poetic",
+      "translation": "溪流记得它磨圆的每一块石头。",
+      "translated_word": "溪流",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some truths flow quietly, like a brook beneath winter ice.",
+      "style": "Philosophical",
+      "translation": "有些真理静静流淌，如冬冰下的溪水。",
+      "translated_word": "溪水",
+      "display_order": 2
+    },
+    {
+      "sentence": "I proposed beside the brook where we had our first picnic.",
+      "style": "Intimate",
+      "translation": "我在我们第一次野餐的那条小溪边向她求了婚。",
+      "translated_word": "小溪",
+      "display_order": 3
+    }
+  ]
+}

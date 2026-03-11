@@ -1,0 +1,39 @@
+{
+  "word": "rainfall",
+  "phonetic": null,
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "降雨量；降水；雨水",
+  "examples": [
+    {
+      "sentence": "The region's annual rainfall barely reaches three inches.",
+      "style": "Contextual",
+      "translation": "这片地区的年降雨量勉强达到三英寸。",
+      "translated_word": "降雨量",
+      "display_order": 4
+    },
+    {
+      "sentence": "Rainfall drums against the tin roof, composing a lullaby for the sleepless.",
+      "style": "Poetic",
+      "translation": "雨敲打着铁皮屋顶，为失眠者谱写一首摇篮曲。",
+      "translated_word": "雨",
+      "display_order": 2
+    },
+    {
+      "sentence": "Rainfall asks nothing of the earth, yet the earth blooms in return.",
+      "style": "Philosophical",
+      "translation": "雨水无所求于大地，大地却以繁花作答。",
+      "translated_word": "雨水",
+      "display_order": 1
+    },
+    {
+      "sentence": "I proposed to her in the sudden rainfall, both of us laughing and drenched.",
+      "style": "Intimate",
+      "translation": "我在那场突如其来的雨中向她求婚，两人笑着淋成落汤鸡。",
+      "translated_word": "雨",
+      "display_order": 3
+    }
+  ]
+}

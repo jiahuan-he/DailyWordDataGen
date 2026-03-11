@@ -1,0 +1,40 @@
+{
+  "word": "guilty",
+  "phonetic": "/ˈɡɪl.ti/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "内疚的；有罪的；心虚的",
+  "examples": [
+    {
+      "sentence": "Her guilty smile gave her away instantly.",
+      "style": "Contextual",
+      "translation": "她心虚的微笑瞬间暴露了一切。",
+      "translated_word": "心虚",
+      "display_order": 2
+    },
+    {
+      "sentence": "I still feel guilty about the goodbye I never said.",
+      "style": "Intimate",
+      "translation": "那句未曾说出的告别，至今让我心怀愧疚。",
+      "translated_word": "愧疚",
+      "display_order": 1
+    },
+    {
+      "sentence": "Guilt visits at 3 a.m., when the world is too quiet to hide.",
+      "style": "Poetic",
+      "translation": "愧疚总在凌晨三点造访，那时世界静得无处藏身。",
+      "translated_word": "愧疚",
+      "display_order": 4
+    },
+    {
+      "sentence": "We feel most guilty not for what we did, but for what we failed to do.",
+      "style": "Philosophical",
+      "translation": "令人内疚的往往不是做过的事，而是未曾做到的。",
+      "translated_word": "内疚",
+      "display_order": 3
+    }
+  ]
+}

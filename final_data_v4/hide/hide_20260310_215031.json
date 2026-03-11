@@ -1,0 +1,40 @@
+{
+  "word": "hide",
+  "phonetic": "/haɪd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "隐藏；躲藏；掩盖；隐瞒",
+  "examples": [
+    {
+      "sentence": "She heard footsteps and hid behind the curtain.",
+      "style": "Contextual",
+      "translation": "她听见脚步声，连忙躲到窗帘后面。",
+      "translated_word": "躲",
+      "display_order": 4
+    },
+    {
+      "sentence": "We hide our wounds until they become part of who we are.",
+      "style": "Philosophical",
+      "translation": "我们隐藏伤口，直到它们成为自己的一部分。",
+      "translated_word": "隐藏",
+      "display_order": 3
+    },
+    {
+      "sentence": "Stars hide at dawn, yet never cease to shine.",
+      "style": "Poetic",
+      "translation": "星辰在黎明中隐去，光芒却从未消逝。",
+      "translated_word": "隐去",
+      "display_order": 1
+    },
+    {
+      "sentence": "I used to hide my accent; now it reminds me of home.",
+      "style": "Intimate",
+      "translation": "我曾刻意掩饰口音，如今它让我想起故乡。",
+      "translated_word": "掩饰",
+      "display_order": 2
+    }
+  ]
+}

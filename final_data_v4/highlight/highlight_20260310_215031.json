@@ -1,0 +1,40 @@
+{
+  "word": "highlight",
+  "phonetic": "/ˈhaɪ.ˌlaɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "强调；突出；标记；使醒目",
+  "examples": [
+    {
+      "sentence": "She highlighted the key phrases before the exam.",
+      "style": "Contextual",
+      "translation": "考试前，她标出了重点短语。",
+      "translated_word": "标出",
+      "display_order": 4
+    },
+    {
+      "sentence": "The report highlights a widening gap in public trust.",
+      "style": "Formal",
+      "translation": "报告揭示了公众信任度的持续下滑。",
+      "translated_word": "揭示",
+      "display_order": 3
+    },
+    {
+      "sentence": "Great mentors highlight your potential, not your flaws.",
+      "style": "Inspirational",
+      "translation": "好的导师会让你看见自己的潜力，而非缺点。",
+      "translated_word": null,
+      "display_order": 1
+    },
+    {
+      "sentence": "Our late-night talks highlighted how well we understood each other.",
+      "style": "Intimate",
+      "translation": "那些深夜长谈让我明白，我们是多么懂彼此。",
+      "translated_word": null,
+      "display_order": 2
+    }
+  ]
+}

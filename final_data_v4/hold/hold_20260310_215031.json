@@ -1,0 +1,41 @@
+{
+  "word": "hold",
+  "phonetic": "/həʊld/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "握住；保持；容纳；举行",
+  "examples": [
+    {
+      "sentence": "She held the door open for the elderly couple.",
+      "style": "Contextual",
+      "translation": "她为那对老夫妇撑住了门。",
+      "translated_word": "撑住",
+      "display_order": 4
+    },
+    {
+      "sentence": "Hold your breath; the results are in.",
+      "style": "Collocational",
+      "translation": "屏住呼吸，结果出来了。",
+      "translated_word": "屏住",
+      "display_order": 3
+    },
+    {
+      "sentence": "I still hold the letters you wrote me that summer.",
+      "style": "Intimate",
+      "translation": "那年夏天你写给我的信，我至今珍藏。",
+      "translated_word": "珍藏",
+      "display_order": 1
+    },
+    {
+      "sentence": "Hold your ground; the storm will pass.",
+      "style": "Inspirational",
+      "translation": "稳住阵脚，风暴终会过去。",
+      "translated_word": "稳住",
+      "display_order": 2
+    }
+  ]
+}

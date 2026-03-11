@@ -1,0 +1,40 @@
+{
+  "word": "purchase",
+  "phonetic": "/ˈpɜːtʃəs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "购买；采购；换取",
+  "examples": [
+    {
+      "sentence": "She decided to purchase the painting before anyone else could.",
+      "style": "Contextual",
+      "translation": "她决定抢先买下那幅画。",
+      "translated_word": "买下",
+      "display_order": 2
+    },
+    {
+      "sentence": "The company will purchase new equipment to expand production capacity.",
+      "style": "Formal",
+      "translation": "公司将采购新设备以扩大产能。",
+      "translated_word": "采购",
+      "display_order": 4
+    },
+    {
+      "sentence": "You can purchase tickets online or at the venue.",
+      "style": "Collocational",
+      "translation": "你可以在线购票，也可以到现场购买。",
+      "translated_word": "购买",
+      "display_order": 3
+    },
+    {
+      "sentence": "We purchase things to fill a void that things cannot fill.",
+      "style": "Philosophical",
+      "translation": "我们买下许多东西，试图填补一个东西无法填补的空洞。",
+      "translated_word": "买下",
+      "display_order": 1
+    }
+  ]
+}
