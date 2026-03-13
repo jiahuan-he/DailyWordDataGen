@@ -44,6 +44,7 @@ class FinalWordEntry(BaseModel):
 class LLMGenerationResult(BaseModel):
     """Result from LLM generation for a single word."""
 
+    phonetic: Optional[str] = None  # IPA from LLM (POS-aware)
     selected_pos: str
     definition: str
     examples: list[ExampleSentence]

@@ -4,6 +4,8 @@ import csv
 import json
 import os
 import tempfile
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
 
@@ -71,7 +73,7 @@ def create_final_entry(
     """Combine enriched word data with LLM-generated content."""
     return FinalWordEntry(
         word=enriched.word,
-        phonetic=enriched.phonetic,
+        phonetic=generated.phonetic or enriched.phonetic,  # Prefer LLM's POS-aware phonetic
         pos=enriched.pos,
         selected_pos=generated.selected_pos,
         definition=generated.definition,
@@ -135,11 +137,119 @@ def generate_for_word(
         return None, [str(e)]
 
 
+class _SharedState:
+    """Thread-safe container for shared mutable state during parallel processing."""
+
+    CONSECUTIVE_FAILURE_THRESHOLD = 2
+
+    def __init__(self):
+        self._lock = threading.Lock()
+        self._csv_lock = threading.Lock()
+        self.results: list[FinalWordEntry] = []
+        self.validation_warnings: list[tuple[str, list[str]]] = []
+        self.consecutive_failures = 0
+        self.should_stop = False
+
+    def record_success(self, entry: FinalWordEntry, errors: list[str]) -> None:
+        with self._lock:
+            self.results.append(entry)
+            self.consecutive_failures = 0
+            if errors:
+                self.validation_warnings.append((entry.word, errors))
+
+    def record_failure(self, is_cli_error: bool) -> bool:
+        """Record a failure. Returns True if the consecutive failure threshold is hit."""
+        with self._lock:
+            if is_cli_error:
+                self.consecutive_failures += 1
+                if self.consecutive_failures >= self.CONSECUTIVE_FAILURE_THRESHOLD:
+                    self.should_stop = True
+                    return True
+            else:
+                self.consecutive_failures = 0
+            return False
+
+    def update_csv(self, word: str, relative_path: str) -> None:
+        with self._csv_lock:
+            update_csv_output_file(word, relative_path)
+
+
+def _process_single_word(
+    selected: SelectedWord,
+    index: int,
+    total_words: int,
+    generation_prompt: str,
+    enrichment_prompt: str,
+    timestamp: datetime,
+    test_mode: bool,
+    model_short: str,
+    state: _SharedState,
+    pbar: tqdm,
+) -> None:
+    """Process a single word: enrich, generate, save, update CSV."""
+    logger = get_logger()
+
+    if state.should_stop:
+        return
+
+    logger.info(f"  [{index}/{total_words}] Enriching: {selected.word}")
+    enriched = enrich_single_word(selected.word)
+    logger.info(f"  [{index}/{total_words}] Enriched: {selected.word} "
+                f"(phonetic={enriched.phonetic}, pos={enriched.pos})")
+
+    if state.should_stop:
+        return
+
+    logger.info(f"  [{index}/{total_words}] Generating: {selected.word}")
+    max_attempts = 3
+    entry = None
+    errors = []
+    for attempt in range(1, max_attempts + 1):
+        entry, errors = generate_for_word(enriched, generation_prompt, enrichment_prompt)
+        if entry:
+            break
+        if attempt < max_attempts:
+            logger.warning(f"  [{index}/{total_words}] Attempt {attempt}/{max_attempts} failed for {selected.word}, retrying...")
+
+    if entry:
+        # Determine output path
+        if test_mode:
+            output_path = config.get_test_output_path(model_short, selected.word, timestamp)
+        else:
+            output_path = config.get_word_output_path(selected.word, timestamp)
+
+        # Save per-word JSON
+        save_word_entry(entry, output_path)
+        logger.info(f"  [{index}/{total_words}] Saved: {output_path}")
+
+        # Update CSV (unless test mode)
+        if not test_mode:
+            relative_path = str(output_path.relative_to(config.PROJECT_ROOT))
+            state.update_csv(selected.word, relative_path)
+
+        state.record_success(entry, errors)
+
+        if errors:
+            logger.warning(f"  [{index}/{total_words}] Validation warning for {selected.word}: {errors}")
+    else:
+        logger.error(f"  [{index}/{total_words}] Failed: {selected.word} - {errors}")
+
+        is_cli_error = any("Claude CLI error" in str(e) for e in errors)
+        threshold_hit = state.record_failure(is_cli_error)
+        if is_cli_error:
+            logger.warning(f"  Consecutive Claude CLI failures: {state.consecutive_failures}/{_SharedState.CONSECUTIVE_FAILURE_THRESHOLD}")
+        if threshold_hit:
+            logger.error(f"  Stopping after {_SharedState.CONSECUTIVE_FAILURE_THRESHOLD} consecutive Claude CLI errors")
+
+    pbar.update(1)
+
+
 def run_step3(
     words: list[SelectedWord],
     timestamp: datetime,
     test_mode: bool = False,
     model_short: str = "",
+    parallel: int = 1,
 ) -> list[FinalWordEntry]:
     """Run Step 3: enrich and generate examples for each word, save per-word JSON, update CSV.
 
@@ -148,6 +258,7 @@ def run_step3(
         timestamp: Timestamp for output file naming
         test_mode: If True, save to test_output/ and do NOT update CSV
         model_short: Short model name (used for test output path)
+        parallel: Number of parallel workers (1 = serial)
 
     Returns:
         List of final word entries
@@ -162,80 +273,63 @@ def run_step3(
         logger.info("  No words to process")
         return []
 
-    logger.info(f"  Processing {len(words)} words...")
-
-    validation_warnings = []
     total_words = len(words)
-    consecutive_failures = 0
-    CONSECUTIVE_FAILURE_THRESHOLD = 2
-    results: list[FinalWordEntry] = []
+    logger.info(f"  Processing {total_words} words (parallel={parallel})...")
+
+    state = _SharedState()
+    pbar = tqdm(total=total_words, desc="  Processing")
 
     try:
-        for i, selected in enumerate(tqdm(words, desc="  Processing")):
-            logger.info(f"  [{i+1}/{total_words}] Enriching: {selected.word}")
-            enriched = enrich_single_word(selected.word)
-            logger.info(f"  [{i+1}/{total_words}] Enriched: {selected.word} "
-                        f"(phonetic={enriched.phonetic}, pos={enriched.pos})")
-
-            logger.info(f"  [{i+1}/{total_words}] Generating: {selected.word}")
-            max_attempts = 3
-            for attempt in range(1, max_attempts + 1):
-                entry, errors = generate_for_word(enriched, generation_prompt, enrichment_prompt)
-                if entry:
+        if parallel <= 1:
+            # Serial processing
+            for i, selected in enumerate(words):
+                if state.should_stop:
                     break
-                if attempt < max_attempts:
-                    logger.warning(f"  [{i+1}/{total_words}] Attempt {attempt}/{max_attempts} failed for {selected.word}, retrying...")
+                _process_single_word(
+                    selected, i + 1, total_words,
+                    generation_prompt, enrichment_prompt,
+                    timestamp, test_mode, model_short,
+                    state, pbar,
+                )
+        else:
+            # Parallel processing
+            with ThreadPoolExecutor(max_workers=parallel) as executor:
+                futures = {
+                    executor.submit(
+                        _process_single_word,
+                        selected, i + 1, total_words,
+                        generation_prompt, enrichment_prompt,
+                        timestamp, test_mode, model_short,
+                        state, pbar,
+                    ): selected
+                    for i, selected in enumerate(words)
+                }
+                try:
+                    for future in as_completed(futures):
+                        future.result()  # Propagate exceptions
+                        if state.should_stop:
+                            break
+                except KeyboardInterrupt:
+                    logger.warning("  Interrupt received, waiting for in-progress workers to finish...")
+                    state.should_stop = True
+                    # Let ThreadPoolExecutor.__exit__ wait for running futures
+                    raise
 
-            if entry:
-                # Determine output path
-                if test_mode:
-                    output_path = config.get_test_output_path(model_short, selected.word, timestamp)
-                else:
-                    output_path = config.get_word_output_path(selected.word, timestamp)
+    except KeyboardInterrupt:
+        raise
+    finally:
+        pbar.close()
 
-                # Save per-word JSON
-                save_word_entry(entry, output_path)
-                logger.info(f"  [{i+1}/{total_words}] Saved: {output_path}")
+    logger.info(f"  Successfully processed: {len(state.results)}/{total_words}")
 
-                # Update CSV (unless test mode)
-                if not test_mode:
-                    relative_path = str(output_path.relative_to(config.PROJECT_ROOT))
-                    update_csv_output_file(selected.word, relative_path)
-
-                results.append(entry)
-                consecutive_failures = 0
-
-                if errors:
-                    validation_warnings.append((selected.word, errors))
-                    logger.warning(f"  [{i+1}/{total_words}] Validation warning for {selected.word}: {errors}")
-            else:
-                logger.error(f"  [{i+1}/{total_words}] Failed: {selected.word} - {errors}")
-
-                is_cli_error = any("Claude CLI error" in str(e) for e in errors)
-                if is_cli_error:
-                    consecutive_failures += 1
-                    logger.warning(f"  Consecutive Claude CLI failures: {consecutive_failures}/{CONSECUTIVE_FAILURE_THRESHOLD}")
-                    if consecutive_failures >= CONSECUTIVE_FAILURE_THRESHOLD:
-                        raise ClaudeConsecutiveFailureError(
-                            f"Stopping after {CONSECUTIVE_FAILURE_THRESHOLD} consecutive Claude CLI errors"
-                        )
-                else:
-                    consecutive_failures = 0
-
-    except ClaudeConsecutiveFailureError as e:
-        logger.error(f"  {e}")
-        logger.error("  Stopping early due to consecutive failures. Already-saved words are safe.")
-
-    logger.info(f"  Successfully processed: {len(results)}/{total_words}")
-
-    if validation_warnings:
-        logger.warning(f"Validation warnings ({len(validation_warnings)} words):")
-        for word, errors in validation_warnings[:5]:
+    if state.validation_warnings:
+        logger.warning(f"Validation warnings ({len(state.validation_warnings)} words):")
+        for word, errors in state.validation_warnings[:5]:
             logger.warning(f"  {word}: {errors}")
-        if len(validation_warnings) > 5:
-            logger.warning(f"  ... and {len(validation_warnings) - 5} more")
+        if len(state.validation_warnings) > 5:
+            logger.warning(f"  ... and {len(state.validation_warnings) - 5} more")
 
-    return results
+    return state.results
 
 
 if __name__ == "__main__":

@@ -69,6 +69,7 @@ def generate_with_claude(prompt: str, timeout: int = config.CLAUDE_TIMEOUT) -> d
             capture_output=True,
             text=True,
             timeout=timeout,
+            start_new_session=True,
         )
     except subprocess.TimeoutExpired:
         raise ClaudeTimeoutError(f"Claude generation timed out after {timeout}s")
@@ -215,6 +216,7 @@ def parse_generation_result(data: dict) -> LLMGenerationResult:
         )
 
     return LLMGenerationResult(
+        phonetic=data.get("phonetic"),
         selected_pos=data["selected_pos"],
         definition=data["definition"],
         examples=examples,

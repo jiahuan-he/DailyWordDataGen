@@ -56,6 +56,12 @@ Examples:
         help="Route output to test_output/<model>/ instead of final_data_v4/ (no CSV update)",
     )
     parser.add_argument(
+        "--parallel", "-j",
+        type=int,
+        default=config.DEFAULT_PARALLEL_WORKERS,
+        help=f"Number of parallel workers (default: {config.DEFAULT_PARALLEL_WORKERS}, use 1 for serial)",
+    )
+    parser.add_argument(
         "--frequencies", "-f",
         type=str,
         default=None,
@@ -98,6 +104,7 @@ Examples:
     if frequencies:
         logger.info(f"Frequency filter: {frequencies} ({count} per tier)")
     logger.info(f"Words to process: {len(words)}")
+    logger.info(f"Parallel workers: {args.parallel}")
     if args.dry_run:
         logger.info(f"Mode: Dry run ({config.DRY_RUN_LIMIT} words)")
     logger.info("=" * 60)
@@ -109,6 +116,7 @@ Examples:
             timestamp=pipeline_start,
             test_mode=test_mode,
             model_short=model_short,
+            parallel=args.parallel,
         )
 
         logger.info("=" * 60)

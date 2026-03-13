@@ -50,6 +50,7 @@ CLAUDE_TIMEOUT = 180  # seconds
 # Processing settings
 DEFAULT_BATCH_SIZE = 100
 DRY_RUN_LIMIT = 10
+DEFAULT_PARALLEL_WORKERS = 5
 
 # Example styles (8 styles; the prompt picks 4 per word)
 EXAMPLES_PER_WORD = 4
