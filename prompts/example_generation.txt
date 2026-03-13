@@ -6,6 +6,9 @@ Step 1: Select Part of Speech
 - If the list above is not empty, pick the most common/natural usage from it.
 - If the list is empty, determine the most appropriate part of speech yourself.
 
+Step 1.5: Provide Phonetic
+Provide the IPA phonetic transcription for the word as pronounced in the selected part of speech. If the word has different pronunciations for different parts of speech (e.g., /kləʊz/ for verb vs /kləʊs/ for adjective), use only the pronunciation matching your selected POS.
+
 Step 2: Define the Word
 Provide a dictionary-style Chinese definition for the selected part of speech ONLY:
 - Use 2-4 short terms (1-4 characters each), separated by semicolons.
@@ -30,15 +33,19 @@ Create one sentence for each of your 4 selected styles.
 Rules for Brevity & Elegance:
 - Embrace minimalism. These sentences will be displayed on a clean mobile UI and must be scannable at a glance.
 - Make every word earn its place. Avoid nested clauses, compound sentences, and excessive adjectives.
-- Prioritize natural, modern English over forced complexity. 
+- Prioritize natural, modern English over forced complexity.
 - Do not use the em dash (—); use colons or semicolons instead.
 - All examples must use the word as the selected part of speech.
+- Vary sentence openings. Do NOT start with "I still remember", "I still carry", or similar nostalgic patterns. Use diverse narrative perspectives and structures.
+- Avoid cliché philosophical observations (e.g., "technology brings us closer yet pushes us apart"). Aim for fresh, specific insights.
+- For practical/mundane words (device, apartment, session, etc.), lean into vivid, specific scenarios rather than forcing abstract depth.
 
 Step 5: Translate
 Translate each sentence into beautiful, natural Chinese. Prioritize literary fluency and elegance over rigid, word-for-word translation.
 
 Output Format:
 {{
+  "phonetic": "...",
   "selected_pos": "...",
   "definition": "...",
   "examples": [

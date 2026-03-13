@@ -11,17 +11,18 @@ Examples to evaluate:
 1. The `translated_word` MUST be an EXACT substring of the provided Chinese translation. Do not invent or modify words.
 2. Choose the most specific and concise translation (do not highlight the whole phrase if a single word or 2-4 character term suffices).
 3. Ensure the `translated_word` is a complete and natural Chinese semantic unit (完整词汇). For example, extract "一代人" or "代", but avoid awkward partial boundaries like "代人".
-4. If the English word's meaning was completely absorbed into the natural phrasing of the Chinese sentence and has no direct substring equivalent, output `null`.
+4. Only output `null` as an absolute last resort — when the English word's meaning is completely dissolved into the Chinese phrasing with no identifiable substring. In most cases, a 1-4 character extraction is possible.
+5. If the translation uses a synonym or rephrasing, extract the most semantically equivalent substring.
 
 *** RULES FOR RANKING (display_order) ***
-Evaluate and rank all 4 sentences from 1 (Highest Quality) to 4 (Lowest Quality) strictly based on how well they score against this unified "小而美" (Small and Beautiful) aesthetic rubric:
+Rank the 4 sentences using a "clear → deep" progression. The order is NOT "best → worst quality" but a deliberate learning journey:
 
-1. Brevity & Punchiness: The sentence is concise, high-impact, and easily scannable on a minimalist mobile screen. It wastes no words.
-2. Emotional Resonance: The sentence is thought-provoking, deeply relatable, poetic, or intimate. It makes the user pause and reflect.
-3. Elegance of Translation: The Chinese translation is beautifully phrased, possessing literary fluency and rhythm (节奏感), rather than reading like a rigid machine translation.
-4. Clarity of Usage: The sentence effortlessly and naturally demonstrates the core meaning of the English word.
+- `display_order: 1` (Hero Card) — The sentence a first-time learner sees. Must clearly demonstrate the word's core meaning AND be beautiful. A learner who has never seen this word should understand it from this sentence alone. Prefer natural, grounded sentences over abstract/metaphorical ones. Avoid compound idioms where the target word is buried (e.g., "jam session" for "session").
+- `display_order: 2` — A sentence that adds emotional depth or a memorable perspective. Can be more literary.
+- `display_order: 3` — A sentence that explores a nuanced or metaphorical usage. Can be abstract/philosophical.
+- `display_order: 4` — The most creative or unconventional usage. Fine to be challenging.
 
-Assign `display_order: 1` to the sentence that best achieves the highest combined score across these four pillars, down to `display_order: 4` for the weakest.
+All 4 sentences should still meet basic quality standards: brevity, elegant Chinese translation, and natural usage of the word.
 
 Output as JSON:
 {{
