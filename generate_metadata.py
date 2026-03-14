@@ -2,6 +2,7 @@
 
 import argparse
 import json
+from pathlib import Path
 
 import config
 from src.step2_enrichment import load_vocabulary_words
@@ -20,9 +21,14 @@ def main() -> None:
 
     frequencies = [int(f.strip()) for f in args.frequencies.split(",")]
 
-    words = load_vocabulary_words(config.VOCABULARY_CSV)
+    all_words = load_vocabulary_words(config.VOCABULARY_CSV)
+    words = [
+        w for w in all_words
+        if w.output_file and (config.PROJECT_ROOT / w.output_file).exists()
+    ]
+    print(f"Loaded {len(all_words)} words, {len(words)} have existing output files")
 
-    # word_order.json: all words in CSV order
+    # word_order.json: processed words in CSV order
     word_order = [w.word for w in words]
     word_order_path = config.VOCABULARY_CSV.parent / "word_order.json"
     with open(word_order_path, "w") as f:
