@@ -1,0 +1,42 @@
+{
+  "word": "cross",
+  "phonetic": "/krɔːs/",
+  "pos": [
+    "adjective",
+    "noun",
+    "preposition",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "穿过；越过；交叉；违背",
+  "examples": [
+    {
+      "sentence": "She crossed the empty plaza without looking back.",
+      "style": "Contextual",
+      "translation": "她穿过空旷的广场，没有回头。",
+      "translated_word": "穿过",
+      "display_order": 1
+    },
+    {
+      "sentence": "Our paths crossed once, briefly, in a city neither of us stayed in.",
+      "style": "Collocational",
+      "translation": "我们曾在一座彼此都未久留的城市短暂相遇。",
+      "translated_word": "相遇",
+      "display_order": 2
+    },
+    {
+      "sentence": "To cross a threshold is to become someone who cannot return.",
+      "style": "Philosophical",
+      "translation": "跨过门槛，便成为无法回头的人。",
+      "translated_word": "跨过",
+      "display_order": 4
+    },
+    {
+      "sentence": "His name crossed my mind during the quietest hour of the evening.",
+      "style": "Intimate",
+      "translation": "在夜晚最静谧的时刻，他的名字掠过我的心头。",
+      "translated_word": "掠过",
+      "display_order": 3
+    }
+  ]
+}

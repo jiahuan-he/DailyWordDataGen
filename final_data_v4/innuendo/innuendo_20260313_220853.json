@@ -1,0 +1,40 @@
+{
+  "word": "innuendo",
+  "phonetic": "/ˌɪnjuˈendoʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "暗示；影射；旁敲侧击",
+  "examples": [
+    {
+      "sentence": "Her praise came wrapped in innuendo; everyone heard the criticism underneath.",
+      "style": "Contextual",
+      "translation": "她的赞美暗藏机锋，人人都听出了其中的批评。",
+      "translated_word": "机锋",
+      "display_order": 3
+    },
+    {
+      "sentence": "The senator's speech was free of direct accusations but rich in innuendo.",
+      "style": "Formal",
+      "translation": "参议员的演讲没有直接指控，却处处暗藏玄机。",
+      "translated_word": "玄机",
+      "display_order": 1
+    },
+    {
+      "sentence": "Innuendo reveals what we dare not say but desperately want heard.",
+      "style": "Philosophical",
+      "translation": "暗示往往泄露我们不敢明言、却渴望被听见的心声。",
+      "translated_word": "暗示",
+      "display_order": 4
+    },
+    {
+      "sentence": "We spoke in innuendo that summer, too afraid to name what we felt.",
+      "style": "Intimate",
+      "translation": "那年夏天，我们只敢用暗语交谈，不敢说出心中所想。",
+      "translated_word": "暗语",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "brook",
+  "phonetic": "/brʊk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "小溪；溪流",
+  "examples": [
+    {
+      "sentence": "We crossed the shallow brook by stepping on flat stones.",
+      "style": "Contextual",
+      "translation": "我们踩着平坦的石块，涉过了那条浅浅的小溪。",
+      "translated_word": "小溪",
+      "display_order": 3
+    },
+    {
+      "sentence": "The brook carries autumn leaves to places it will never see.",
+      "style": "Poetic",
+      "translation": "溪流载着落叶，流向它永远无法抵达的远方。",
+      "translated_word": "溪流",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's cottage sat beside a brook where I learned to skip stones.",
+      "style": "Intimate",
+      "translation": "外婆的小屋依傍着一条小溪，我曾在那儿学会了打水漂。",
+      "translated_word": "小溪",
+      "display_order": 2
+    },
+    {
+      "sentence": "A babbling brook ran behind the old farmhouse.",
+      "style": "Collocational",
+      "translation": "一条潺潺的小溪从老农舍后蜿蜒流过。",
+      "translated_word": "小溪",
+      "display_order": 1
+    }
+  ]
+}

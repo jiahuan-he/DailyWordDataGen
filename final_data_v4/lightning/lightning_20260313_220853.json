@@ -1,0 +1,41 @@
+{
+  "word": "lightning",
+  "phonetic": "/ˈlaɪtnɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "闪电；雷电",
+  "examples": [
+    {
+      "sentence": "The storm rolled in, and lightning split the sky.",
+      "style": "Contextual",
+      "translation": "风暴袭来，闪电将天空劈开。",
+      "translated_word": "闪电",
+      "display_order": 1
+    },
+    {
+      "sentence": "Lightning wrote its brief scripture across the night, then vanished.",
+      "style": "Poetic",
+      "translation": "闪电在夜空写下短暂的经文，随即消逝。",
+      "translated_word": "闪电",
+      "display_order": 3
+    },
+    {
+      "sentence": "Lightning teaches us: the brightest things rarely stay.",
+      "style": "Philosophical",
+      "translation": "闪电教会我们：最耀眼的事物往往不会久留。",
+      "translated_word": "闪电",
+      "display_order": 4
+    },
+    {
+      "sentence": "We counted seconds between lightning and thunder, pressed together on the porch.",
+      "style": "Intimate",
+      "translation": "我们数着闪电与雷声之间的秒数，在门廊上依偎取暖。",
+      "translated_word": "闪电",
+      "display_order": 2
+    }
+  ]
+}

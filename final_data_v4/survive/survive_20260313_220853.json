@@ -1,0 +1,39 @@
+{
+  "word": "survive",
+  "phonetic": "/sərˈvaɪv/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "幸存；存活；挺过；熬过",
+  "examples": [
+    {
+      "sentence": "Only three passengers survived the crash.",
+      "style": "Contextual",
+      "translation": "只有三名乘客在事故中幸存。",
+      "translated_word": "幸存",
+      "display_order": 1
+    },
+    {
+      "sentence": "To survive is not the same as to live.",
+      "style": "Philosophical",
+      "translation": "活着与真正地生活，从来不是一回事。",
+      "translated_word": "活着",
+      "display_order": 4
+    },
+    {
+      "sentence": "You have already survived your worst days.",
+      "style": "Inspirational",
+      "translation": "你已经熬过了最难的日子。",
+      "translated_word": "熬过",
+      "display_order": 2
+    },
+    {
+      "sentence": "That winter, I learned grief does not kill; we survive it, somehow.",
+      "style": "Intimate",
+      "translation": "那年冬天我才明白，悲伤不会致命；我们总能挺过去的。",
+      "translated_word": "挺过去",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "thaw",
+  "phonetic": "/θɔː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "融化；解冻；缓和",
+  "examples": [
+    {
+      "sentence": "Leave the chicken on the counter to thaw before cooking.",
+      "style": "Contextual",
+      "translation": "把鸡肉放在台面上解冻后再烹饪。",
+      "translated_word": "解冻",
+      "display_order": 1
+    },
+    {
+      "sentence": "The river began to thaw, whispering secrets held all winter.",
+      "style": "Poetic",
+      "translation": "河流开始解冻，低语着整个冬天的秘密。",
+      "translated_word": "解冻",
+      "display_order": 2
+    },
+    {
+      "sentence": "Trust takes years to freeze, but only one honest conversation to thaw.",
+      "style": "Philosophical",
+      "translation": "信任需要数年才能冰封，却只需一次坦诚的对话便能消融。",
+      "translated_word": "消融",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her silence thawed the moment she heard his voice again.",
+      "style": "Intimate",
+      "translation": "再次听到他的声音，她的沉默瞬间融化。",
+      "translated_word": "融化",
+      "display_order": 3
+    }
+  ]
+}

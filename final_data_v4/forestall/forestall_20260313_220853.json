@@ -1,0 +1,40 @@
+{
+  "word": "forestall",
+  "phonetic": "/fɔːrˈstɔːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "预先阻止；抢先防止；先发制人",
+  "examples": [
+    {
+      "sentence": "She raised her hand to forestall questions until the end.",
+      "style": "Contextual",
+      "translation": "她举起手，示意问题留到最后。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "The central bank cut rates to forestall a looming recession.",
+      "style": "Formal",
+      "translation": "央行降息，以阻止衰退的逼近。",
+      "translated_word": "阻止",
+      "display_order": 2
+    },
+    {
+      "sentence": "A quick apology can forestall unnecessary conflict.",
+      "style": "Collocational",
+      "translation": "及时道歉，能免去不必要的冲突。",
+      "translated_word": "免去",
+      "display_order": 1
+    },
+    {
+      "sentence": "We plan to forestall disaster, yet the unforeseen is what shapes us.",
+      "style": "Philosophical",
+      "translation": "我们谋划着未雨绸缪，可真正塑造我们的，却是意料之外。",
+      "translated_word": "未雨绸缪",
+      "display_order": 4
+    }
+  ]
+}

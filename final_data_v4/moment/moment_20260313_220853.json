@@ -1,0 +1,39 @@
+{
+  "word": "moment",
+  "phonetic": "/ˈmoʊmənt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "时刻；瞬间；片刻",
+  "examples": [
+    {
+      "sentence": "She asked for a moment alone before the ceremony.",
+      "style": "Contextual",
+      "translation": "仪式开始前，她请求独处片刻。",
+      "translated_word": "片刻",
+      "display_order": 1
+    },
+    {
+      "sentence": "In the moment before dawn, the world belongs only to the birds.",
+      "style": "Poetic",
+      "translation": "黎明将至未至时，世界只属于飞鸟。",
+      "translated_word": "时",
+      "display_order": 3
+    },
+    {
+      "sentence": "The moment you stop chasing happiness, it finds you.",
+      "style": "Philosophical",
+      "translation": "当你不再追逐幸福，它便悄然而至。",
+      "translated_word": "当",
+      "display_order": 4
+    },
+    {
+      "sentence": "That was the moment I knew home wasn't a place.",
+      "style": "Intimate",
+      "translation": "那一刻我明白，家不是某个地方。",
+      "translated_word": "一刻",
+      "display_order": 2
+    }
+  ]
+}

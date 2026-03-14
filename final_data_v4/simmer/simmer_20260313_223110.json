@@ -1,0 +1,40 @@
+{
+  "word": "simmer",
+  "phonetic": "/ˈsɪmər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "文火炖；慢煮；酝酿；压抑",
+  "examples": [
+    {
+      "sentence": "Let the broth simmer until the flavors deepen.",
+      "style": "Contextual",
+      "translation": "让高汤慢慢炖煮，直到风味渐浓。",
+      "translated_word": "炖煮",
+      "display_order": 1
+    },
+    {
+      "sentence": "Resentment had simmered beneath the surface for months.",
+      "style": "Collocational",
+      "translation": "怨恨在暗处酝酿了数月。",
+      "translated_word": "酝酿",
+      "display_order": 3
+    },
+    {
+      "sentence": "The city simmered in August heat, streets breathing slow.",
+      "style": "Poetic",
+      "translation": "城市在八月的热浪中慢煮，街道呼吸缓慢。",
+      "translated_word": "慢煮",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her kitchen always simmered with warmth and the promise of dinner.",
+      "style": "Intimate",
+      "translation": "她的厨房总是弥漫着温暖，和晚餐将至的气息。",
+      "translated_word": "弥漫",
+      "display_order": 2
+    }
+  ]
+}

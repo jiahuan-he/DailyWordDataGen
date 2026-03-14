@@ -1,0 +1,40 @@
+{
+  "word": "veil",
+  "phonetic": "/veɪl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "面纱；遮蔽物；幕",
+  "examples": [
+    {
+      "sentence": "The bride lifted her veil for the first kiss.",
+      "style": "Contextual",
+      "translation": "新娘掀起面纱，迎接初吻。",
+      "translated_word": "面纱",
+      "display_order": 1
+    },
+    {
+      "sentence": "A veil of fog softened the city at dawn.",
+      "style": "Poetic",
+      "translation": "薄雾如纱，在晨曦中柔化了城市的轮廓。",
+      "translated_word": "纱",
+      "display_order": 3
+    },
+    {
+      "sentence": "The veil we hide behind often becomes the cage we cannot escape.",
+      "style": "Philosophical",
+      "translation": "我们藏身其后的面纱，往往成了无法挣脱的囚笼。",
+      "translated_word": "面纱",
+      "display_order": 4
+    },
+    {
+      "sentence": "My mother's wedding veil still carries the scent of jasmine.",
+      "style": "Intimate",
+      "translation": "母亲的头纱至今仍留有茉莉的香气。",
+      "translated_word": "头纱",
+      "display_order": 2
+    }
+  ]
+}

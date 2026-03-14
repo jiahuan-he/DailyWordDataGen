@@ -1,0 +1,39 @@
+{
+  "word": "compression",
+  "phonetic": "/kəmˈpreʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "压缩；压紧；压迫",
+  "examples": [
+    {
+      "sentence": "The file size dropped by half after compression.",
+      "style": "Contextual",
+      "translation": "压缩后，文件大小减少了一半。",
+      "translated_word": "压缩",
+      "display_order": 1
+    },
+    {
+      "sentence": "Modern streaming relies on advanced video compression to deliver content globally.",
+      "style": "Formal",
+      "translation": "现代流媒体依赖先进的视频压缩技术向全球输送内容。",
+      "translated_word": "压缩",
+      "display_order": 2
+    },
+    {
+      "sentence": "Lossy compression sacrifices fidelity for efficiency.",
+      "style": "Collocational",
+      "translation": "有损压缩以牺牲保真度换取效率。",
+      "translated_word": "压缩",
+      "display_order": 3
+    },
+    {
+      "sentence": "Grief defies compression; it takes precisely as long as it needs.",
+      "style": "Philosophical",
+      "translation": "悲伤无法被压缩，它需要多久，便是多久。",
+      "translated_word": "压缩",
+      "display_order": 4
+    }
+  ]
+}

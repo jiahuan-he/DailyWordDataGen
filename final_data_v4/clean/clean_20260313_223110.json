@@ -1,0 +1,42 @@
+{
+  "word": "clean",
+  "phonetic": "/kliːn/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "干净；清洁；整洁；纯净",
+  "examples": [
+    {
+      "sentence": "The mountain air was so clean it almost hurt to breathe.",
+      "style": "Contextual",
+      "translation": "山间空气清冽得让人几乎不敢呼吸。",
+      "translated_word": "清冽",
+      "display_order": 1
+    },
+    {
+      "sentence": "She wanted a clean break, no loose ends.",
+      "style": "Collocational",
+      "translation": "她想要一次干净的告别，不留任何牵绊。",
+      "translated_word": "干净",
+      "display_order": 3
+    },
+    {
+      "sentence": "A clean conscience sleeps through any storm.",
+      "style": "Philosophical",
+      "translation": "问心无愧者，风雨中亦能安眠。",
+      "translated_word": "无愧",
+      "display_order": 4
+    },
+    {
+      "sentence": "Snow fell through the night, leaving the world clean and silent.",
+      "style": "Poetic",
+      "translation": "雪落了一整夜，世界在晨曦中洁白而静谧。",
+      "translated_word": "洁白",
+      "display_order": 2
+    }
+  ]
+}

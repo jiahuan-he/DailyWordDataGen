@@ -1,0 +1,39 @@
+{
+  "word": "starve",
+  "phonetic": "/stɑːrv/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "挨饿；饥饿；渴望",
+  "examples": [
+    {
+      "sentence": "The stray cat starved in the alley until a kind stranger noticed.",
+      "style": "Contextual",
+      "translation": "那只流浪猫在巷子里挨饿，直到有好心人注意到它。",
+      "translated_word": "挨饿",
+      "display_order": 1
+    },
+    {
+      "sentence": "He starves for connection in a city of millions.",
+      "style": "Collocational",
+      "translation": "他在千万人的城市里，渴望着一份联结。",
+      "translated_word": "渴望",
+      "display_order": 2
+    },
+    {
+      "sentence": "We starve not from empty plates, but from empty purpose.",
+      "style": "Philosophical",
+      "translation": "使我们饥饿的，不是空盘，而是空虚的目标。",
+      "translated_word": "饥饿",
+      "display_order": 4
+    },
+    {
+      "sentence": "The old vineyard starved for sunlight beneath the shadow of new towers.",
+      "style": "Poetic",
+      "translation": "古老的葡萄园在新建高楼的阴影下，渴望着阳光。",
+      "translated_word": "渴望",
+      "display_order": 3
+    }
+  ]
+}

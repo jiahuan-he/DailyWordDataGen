@@ -1,0 +1,40 @@
+{
+  "word": "snare",
+  "phonetic": "/sneər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "陷阱；圈套；诱惑",
+  "examples": [
+    {
+      "sentence": "The hunter checked his snare at dawn, finding it still empty.",
+      "style": "Contextual",
+      "translation": "猎人黎明时分查看陷阱，发现依然空空如也。",
+      "translated_word": "陷阱",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her smile was a silk snare; I walked in willingly.",
+      "style": "Poetic",
+      "translation": "她的微笑是丝绸织就的网，我心甘情愿地走了进去。",
+      "translated_word": "网",
+      "display_order": 3
+    },
+    {
+      "sentence": "We build snares for others and forget we're standing inside them.",
+      "style": "Philosophical",
+      "translation": "我们为他人设下圈套，却忘了自己正身处其中。",
+      "translated_word": "圈套",
+      "display_order": 4
+    },
+    {
+      "sentence": "That summer job became a snare; ten years later, I'm still here.",
+      "style": "Intimate",
+      "translation": "那份暑期工成了一个圈套，十年后，我仍在原地。",
+      "translated_word": "圈套",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "discriminate",
+  "phonetic": "/dɪˈskrɪmɪneɪt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "区分；辨别；歧视",
+  "examples": [
+    {
+      "sentence": "The sommelier could discriminate between wines from different regions by their subtle notes.",
+      "style": "Contextual",
+      "translation": "侍酒师能从细微的香气中辨别出不同产区的葡萄酒。",
+      "translated_word": "辨别",
+      "display_order": 1
+    },
+    {
+      "sentence": "The policy was revised after evidence showed it discriminated against applicants over fifty.",
+      "style": "Formal",
+      "translation": "在证据表明该政策歧视五十岁以上的申请者后，政策得以修订。",
+      "translated_word": "歧视",
+      "display_order": 2
+    },
+    {
+      "sentence": "A refined palate discriminates; an untrained one simply tastes.",
+      "style": "Contrastive",
+      "translation": "精致的味蕾懂得分辨，粗疏的只是品尝。",
+      "translated_word": "分辨",
+      "display_order": 3
+    },
+    {
+      "sentence": "We learn to discriminate, then spend a lifetime unlearning which distinctions matter.",
+      "style": "Philosophical",
+      "translation": "我们学会区分，却用一生去忘却哪些区分真正重要。",
+      "translated_word": "区分",
+      "display_order": 4
+    }
+  ]
+}

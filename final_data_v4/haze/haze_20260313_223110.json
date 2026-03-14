@@ -1,0 +1,40 @@
+{
+  "word": "haze",
+  "phonetic": "/heɪz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "薄雾；朦胧；迷糊；恍惚",
+  "examples": [
+    {
+      "sentence": "The city skyline faded into a summer haze.",
+      "style": "Contextual",
+      "translation": "城市的天际线渐渐消融在夏日的薄雾中。",
+      "translated_word": "薄雾",
+      "display_order": 1
+    },
+    {
+      "sentence": "Morning haze softened the valley, turning its edges to watercolor.",
+      "style": "Poetic",
+      "translation": "晨雾轻抚山谷，将它的轮廓晕染成一幅水彩。",
+      "translated_word": "雾",
+      "display_order": 2
+    },
+    {
+      "sentence": "In the haze of new love, even silence felt like a conversation.",
+      "style": "Intimate",
+      "translation": "在热恋的恍惚里，连沉默都像是一场对话。",
+      "translated_word": "恍惚",
+      "display_order": 3
+    },
+    {
+      "sentence": "Clarity is overrated; some things only make sense in a haze.",
+      "style": "Philosophical",
+      "translation": "清醒被高估了；有些事，唯有在朦胧中才说得通。",
+      "translated_word": "朦胧",
+      "display_order": 4
+    }
+  ]
+}

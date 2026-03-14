@@ -1,0 +1,40 @@
+{
+  "word": "char",
+  "phonetic": "/tʃɑːr/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "烧焦；炙烤；烤糊",
+  "examples": [
+    {
+      "sentence": "The marshmallow charred in seconds, turning black and bitter.",
+      "style": "Contextual",
+      "translation": "棉花糖几秒钟就烧焦了，变得焦黑发苦。",
+      "translated_word": "烧焦",
+      "display_order": 1
+    },
+    {
+      "sentence": "Char the peppers until the skin blisters and peels away.",
+      "style": "Collocational",
+      "translation": "将辣椒烤至表皮起泡脱落。",
+      "translated_word": "烤",
+      "display_order": 2
+    },
+    {
+      "sentence": "Fire chars but also transforms; some things need to burn before becoming new.",
+      "style": "Philosophical",
+      "translation": "火焰烧焦，亦是重塑；有些事物，必经灼烧方能新生。",
+      "translated_word": "烧焦",
+      "display_order": 4
+    },
+    {
+      "sentence": "She charred the toast on purpose, just as her mother always did.",
+      "style": "Intimate",
+      "translation": "她故意把吐司烤焦，就像她母亲从前那样。",
+      "translated_word": "烤焦",
+      "display_order": 3
+    }
+  ]
+}

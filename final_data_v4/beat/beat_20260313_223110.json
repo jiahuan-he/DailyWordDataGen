@@ -1,0 +1,41 @@
+{
+  "word": "beat",
+  "phonetic": "/biːt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "打；击败；跳动；搅拌",
+  "examples": [
+    {
+      "sentence": "The chef beat the eggs until they turned pale and fluffy.",
+      "style": "Contextual",
+      "translation": "厨师不停搅打鸡蛋，直到它们变得蓬松发白。",
+      "translated_word": "搅打",
+      "display_order": 1
+    },
+    {
+      "sentence": "She beat the deadline by three full hours.",
+      "style": "Collocational",
+      "translation": "她提前整整三小时完成了任务。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "My heart beat so loud I was certain she could hear it.",
+      "style": "Intimate",
+      "translation": "我的心跳声如此剧烈，几乎以为她也能听见。",
+      "translated_word": "心跳",
+      "display_order": 2
+    },
+    {
+      "sentence": "They said the disease was incurable; she beat it anyway.",
+      "style": "Inspirational",
+      "translation": "他们说这病无药可医；她偏偏战胜了它。",
+      "translated_word": "战胜",
+      "display_order": 3
+    }
+  ]
+}

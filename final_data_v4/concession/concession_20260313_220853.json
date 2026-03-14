@@ -1,0 +1,40 @@
+{
+  "word": "concession",
+  "phonetic": "/kənˈseʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "让步；妥协；特许权",
+  "examples": [
+    {
+      "sentence": "The contract failed over a single concession neither side would make.",
+      "style": "Contextual",
+      "translation": "合同因双方都不愿做出的一项让步而告吹。",
+      "translated_word": "让步",
+      "display_order": 4
+    },
+    {
+      "sentence": "The ceasefire included a significant territorial concession.",
+      "style": "Formal",
+      "translation": "停火协议包含了一项重大的领土让步。",
+      "translated_word": "让步",
+      "display_order": 1
+    },
+    {
+      "sentence": "A concession is not defeat; it is the price of moving forward.",
+      "style": "Philosophical",
+      "translation": "让步不是认输，而是前行的代价。",
+      "translated_word": "让步",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father never said sorry, but his silence at dinner was his concession.",
+      "style": "Intimate",
+      "translation": "父亲从不道歉，但他在饭桌上的沉默，便是他的让步。",
+      "translated_word": "让步",
+      "display_order": 2
+    }
+  ]
+}

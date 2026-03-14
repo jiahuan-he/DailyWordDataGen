@@ -1,0 +1,40 @@
+{
+  "word": "universe",
+  "phonetic": "/ˈjuːnɪvɜːrs/",
+  "pos": [
+    "noun",
+    "proper noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "宇宙；世界；领域",
+  "examples": [
+    {
+      "sentence": "Scientists estimate the observable universe contains over two trillion galaxies.",
+      "style": "Contextual",
+      "translation": "科学家估计，可观测宇宙中包含超过两万亿个星系。",
+      "translated_word": "宇宙",
+      "display_order": 1
+    },
+    {
+      "sentence": "The universe does not owe us meaning; we create it ourselves.",
+      "style": "Philosophical",
+      "translation": "宇宙不欠我们一个意义；意义由我们自己书写。",
+      "translated_word": "宇宙",
+      "display_order": 3
+    },
+    {
+      "sentence": "The universe exhales light through every dying star.",
+      "style": "Poetic",
+      "translation": "宇宙借每一颗垂死的恒星，轻轻吐出光芒。",
+      "translated_word": "宇宙",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her small bookshop became my entire universe that autumn.",
+      "style": "Intimate",
+      "translation": "那年秋天，她的小书店成了我的整个世界。",
+      "translated_word": "世界",
+      "display_order": 2
+    }
+  ]
+}

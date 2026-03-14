@@ -1,0 +1,40 @@
+{
+  "word": "hemorrhage",
+  "phonetic": "/ˈhemərɪdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "大出血；出血；流失",
+  "examples": [
+    {
+      "sentence": "The surgeon worked swiftly to control the internal hemorrhage.",
+      "style": "Contextual",
+      "translation": "外科医生迅速止住了内出血。",
+      "translated_word": "出血",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company's talent hemorrhage has accelerated since the merger announcement.",
+      "style": "Formal",
+      "translation": "自合并公告发布以来，公司的人才流失愈发严重。",
+      "translated_word": "流失",
+      "display_order": 3
+    },
+    {
+      "sentence": "A brain hemorrhage left him unable to speak for months.",
+      "style": "Collocational",
+      "translation": "一场脑溢血让他数月无法言语。",
+      "translated_word": "溢血",
+      "display_order": 2
+    },
+    {
+      "sentence": "Grief is a slow hemorrhage; you lose parts of yourself you didn't know you had.",
+      "style": "Philosophical",
+      "translation": "悲伤是一场缓慢的失血，你失去的是自己从未察觉的部分。",
+      "translated_word": "失血",
+      "display_order": 4
+    }
+  ]
+}

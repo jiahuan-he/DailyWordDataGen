@@ -1,0 +1,39 @@
+{
+  "word": "reflect",
+  "phonetic": "/rɪˈflekt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "反映；反射；深思；体现",
+  "examples": [
+    {
+      "sentence": "The still lake reflected the mountains with perfect clarity.",
+      "style": "Contextual",
+      "translation": "湖面静如镜，山影清晰如画。",
+      "translated_word": "影",
+      "display_order": 1
+    },
+    {
+      "sentence": "We rarely reflect until silence forces us to.",
+      "style": "Philosophical",
+      "translation": "人唯有在静默中，方才学会深思。",
+      "translated_word": "深思",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her eyes reflected not the room, but a quieter world within.",
+      "style": "Poetic",
+      "translation": "她的眼眸映出的不是屋内陈设，而是心中更幽静的世界。",
+      "translated_word": "映出",
+      "display_order": 4
+    },
+    {
+      "sentence": "On his birthday each year, I reflect on who I've become because of him.",
+      "style": "Intimate",
+      "translation": "每年他生日那天，我都会思索：因为他，我成了怎样的人。",
+      "translated_word": "思索",
+      "display_order": 2
+    }
+  ]
+}

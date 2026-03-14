@@ -1,0 +1,40 @@
+{
+  "word": "capture",
+  "phonetic": "/ˈkæptʃər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "捕获；俘获；吸引；记录",
+  "examples": [
+    {
+      "sentence": "The photographer crouched in silence, waiting to capture the fox at dawn.",
+      "style": "Contextual",
+      "translation": "摄影师蹲伏在静默中，等待在黎明时分捕捉到那只狐狸。",
+      "translated_word": "捕捉",
+      "display_order": 1
+    },
+    {
+      "sentence": "Old film captures light the way memory captures feeling: imperfect, warm, true.",
+      "style": "Poetic",
+      "translation": "老胶片捕捉光线，如同记忆捕捉情感：不完美，却温暖而真实。",
+      "translated_word": "捕捉",
+      "display_order": 4
+    },
+    {
+      "sentence": "She captured my attention the moment she laughed at her own joke.",
+      "style": "Intimate",
+      "translation": "她被自己的笑话逗笑的那一刻，便俘获了我全部的注意力。",
+      "translated_word": "俘获",
+      "display_order": 2
+    },
+    {
+      "sentence": "The painting captures the essence of solitude without a single human figure.",
+      "style": "Collocational",
+      "translation": "这幅画不着一人，却捕捉到了孤独的神髓。",
+      "translated_word": "捕捉",
+      "display_order": 3
+    }
+  ]
+}

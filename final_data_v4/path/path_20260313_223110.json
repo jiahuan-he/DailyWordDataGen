@@ -1,0 +1,40 @@
+{
+  "word": "path",
+  "phonetic": "/pæθ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "小路；道路；途径；轨迹",
+  "examples": [
+    {
+      "sentence": "The stone path through the garden was slick with morning dew.",
+      "style": "Contextual",
+      "translation": "花园里的石径被晨露打湿了。",
+      "translated_word": "石径",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every path you don't take still shapes who you become.",
+      "style": "Philosophical",
+      "translation": "每一条未曾踏足的路，依然塑造着你的模样。",
+      "translated_word": "路",
+      "display_order": 4
+    },
+    {
+      "sentence": "Moonlight pooled on the forest path like spilled silver.",
+      "style": "Poetic",
+      "translation": "月光如倾泻的银河，积在林间小径上。",
+      "translated_word": "小径",
+      "display_order": 2
+    },
+    {
+      "sentence": "There is no perfect path; there is only the one you commit to walking.",
+      "style": "Inspirational",
+      "translation": "没有完美的路，只有你决心走下去的那条。",
+      "translated_word": "路",
+      "display_order": 3
+    }
+  ]
+}

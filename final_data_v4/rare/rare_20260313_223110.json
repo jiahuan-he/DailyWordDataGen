@@ -1,0 +1,41 @@
+{
+  "word": "rare",
+  "phonetic": "/reər/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "稀有；罕见；珍贵",
+  "examples": [
+    {
+      "sentence": "This first edition is rare; only twelve copies survive.",
+      "style": "Contextual",
+      "translation": "这是初版，极为罕见；全世界仅存十二册。",
+      "translated_word": "罕见",
+      "display_order": 1
+    },
+    {
+      "sentence": "A rare silence settled over the harbor at dusk.",
+      "style": "Poetic",
+      "translation": "黄昏时分，一片难得的寂静笼罩着港湾。",
+      "translated_word": "难得",
+      "display_order": 3
+    },
+    {
+      "sentence": "Patience is rare in a world that rewards speed.",
+      "style": "Philosophical",
+      "translation": "在一个奖励速度的世界里，耐心变得稀有。",
+      "translated_word": "稀有",
+      "display_order": 4
+    },
+    {
+      "sentence": "Those quiet mornings with my father were rare, precious beyond measure.",
+      "style": "Intimate",
+      "translation": "与父亲共度的那些清晨时光如此稀少，却弥足珍贵。",
+      "translated_word": "稀少",
+      "display_order": 2
+    }
+  ]
+}

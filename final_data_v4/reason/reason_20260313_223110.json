@@ -1,0 +1,40 @@
+{
+  "word": "reason",
+  "phonetic": "/ˈriːzən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "原因；理由；理性；道理",
+  "examples": [
+    {
+      "sentence": "She quit without giving a reason, and no one dared to ask.",
+      "style": "Contextual",
+      "translation": "她辞职时未曾给出理由，也无人敢问。",
+      "translated_word": "理由",
+      "display_order": 1
+    },
+    {
+      "sentence": "Reason builds the map; intuition chooses the path.",
+      "style": "Philosophical",
+      "translation": "理性绘制地图；直觉选择方向。",
+      "translated_word": "理性",
+      "display_order": 4
+    },
+    {
+      "sentence": "Logic finds reasons; love simply arrives.",
+      "style": "Contrastive",
+      "translation": "逻辑寻找理由；爱只是到来。",
+      "translated_word": "理由",
+      "display_order": 3
+    },
+    {
+      "sentence": "The reason I stayed was quieter than anyone guessed.",
+      "style": "Intimate",
+      "translation": "我留下的原因，比任何人猜测的都更安静。",
+      "translated_word": "原因",
+      "display_order": 2
+    }
+  ]
+}

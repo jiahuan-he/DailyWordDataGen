@@ -1,0 +1,40 @@
+{
+  "word": "release",
+  "phonetic": "/rɪˈliːs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "释放；发布；放开",
+  "examples": [
+    {
+      "sentence": "The band will release their new album next Friday.",
+      "style": "Contextual",
+      "translation": "乐队将于下周五发布新专辑。",
+      "translated_word": "发布",
+      "display_order": 2
+    },
+    {
+      "sentence": "She took a deep breath and released the tension in her shoulders.",
+      "style": "Collocational",
+      "translation": "她深吸一口气，释放了肩膀上的紧绷。",
+      "translated_word": "释放",
+      "display_order": 3
+    },
+    {
+      "sentence": "The cage door swung open, but he needed a moment before he could release the bird.",
+      "style": "Poetic",
+      "translation": "笼门已然敞开，他却需要片刻，才能放飞那只鸟。",
+      "translated_word": "放飞",
+      "display_order": 1
+    },
+    {
+      "sentence": "Learning to release my grip on old dreams made room for new ones.",
+      "style": "Intimate",
+      "translation": "学会松开旧梦，才腾出空间迎接新的。",
+      "translated_word": "松开",
+      "display_order": 4
+    }
+  ]
+}

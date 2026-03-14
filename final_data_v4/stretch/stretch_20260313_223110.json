@@ -1,0 +1,40 @@
+{
+  "word": "stretch",
+  "phonetic": "/stretʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "伸展；拉伸；延伸；勉强够用",
+  "examples": [
+    {
+      "sentence": "After the long flight, we stopped to stretch our legs at a roadside café.",
+      "style": "Contextual",
+      "translation": "长途飞行后，我们在路边咖啡馆停下来活动筋骨。",
+      "translated_word": "活动筋骨",
+      "display_order": 2
+    },
+    {
+      "sentence": "She stretched her budget to afford the weekend trip.",
+      "style": "Collocational",
+      "translation": "她精打细算，勉强凑出了周末旅行的费用。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "Each morning, I stretch slowly, reclaiming my body before the world begins.",
+      "style": "Intimate",
+      "translation": "每个清晨，我缓缓伸展身体，在世界醒来之前先拥抱自己。",
+      "translated_word": "伸展",
+      "display_order": 1
+    },
+    {
+      "sentence": "Growth asks you to stretch beyond the shape you have always known.",
+      "style": "Inspirational",
+      "translation": "成长意味着突破固有的形态，向未知延伸。",
+      "translated_word": "延伸",
+      "display_order": 4
+    }
+  ]
+}

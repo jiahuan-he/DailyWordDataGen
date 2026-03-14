@@ -1,0 +1,40 @@
+{
+  "word": "glance",
+  "phonetic": "/ɡlæns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "瞥；扫视；匆匆一看",
+  "examples": [
+    {
+      "sentence": "She glanced at the clock and quickened her pace.",
+      "style": "Contextual",
+      "translation": "她瞥了一眼时钟，加快了脚步。",
+      "translated_word": "瞥",
+      "display_order": 1
+    },
+    {
+      "sentence": "He glanced through the report before the meeting.",
+      "style": "Collocational",
+      "translation": "会议前，他匆匆浏览了一遍报告。",
+      "translated_word": "浏览",
+      "display_order": 3
+    },
+    {
+      "sentence": "Their eyes met when she glanced back at the station.",
+      "style": "Poetic",
+      "translation": "她在站台回眸的刹那，四目相遇。",
+      "translated_word": "回眸",
+      "display_order": 2
+    },
+    {
+      "sentence": "You glanced up from your book, and the afternoon stood still.",
+      "style": "Intimate",
+      "translation": "你从书页间抬眼望来，整个午后都静止了。",
+      "translated_word": "抬眼",
+      "display_order": 4
+    }
+  ]
+}

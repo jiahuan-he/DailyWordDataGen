@@ -1,0 +1,40 @@
+{
+  "word": "stew",
+  "phonetic": "/stjuː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "炖菜；炖肉",
+  "examples": [
+    {
+      "sentence": "The kitchen smelled of slow-cooked stew and fresh bread.",
+      "style": "Contextual",
+      "translation": "厨房里弥漫着慢炖菜和新鲜面包的香气。",
+      "translated_word": "炖菜",
+      "display_order": 3
+    },
+    {
+      "sentence": "Nothing warms a winter evening like a bowl of beef stew.",
+      "style": "Collocational",
+      "translation": "没有什么比一碗炖牛肉更能温暖冬夜了。",
+      "translated_word": "炖牛肉",
+      "display_order": 1
+    },
+    {
+      "sentence": "Grandma's stew was never fancy: just potatoes, carrots, and love.",
+      "style": "Intimate",
+      "translation": "奶奶的炖菜从不花哨：只有土豆、胡萝卜，还有爱。",
+      "translated_word": "炖菜",
+      "display_order": 2
+    },
+    {
+      "sentence": "A good stew holds time itself; hours of simmering, years of memory.",
+      "style": "Poetic",
+      "translation": "一锅好的炖菜盛着时光本身；文火慢熬的数小时，岁月沉淀的数年。",
+      "translated_word": "炖菜",
+      "display_order": 4
+    }
+  ]
+}

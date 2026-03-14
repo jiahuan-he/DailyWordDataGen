@@ -1,0 +1,40 @@
+{
+  "word": "doubtless",
+  "phonetic": "/ˈdaʊtləs/",
+  "pos": [
+    "adjective",
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "无疑地；肯定；想必",
+  "examples": [
+    {
+      "sentence": "She will doubtless arrive before the rain.",
+      "style": "Contextual",
+      "translation": "她想必会在雨前赶到。",
+      "translated_word": "想必",
+      "display_order": 1
+    },
+    {
+      "sentence": "The policy shift will doubtless reshape the industry for decades.",
+      "style": "Formal",
+      "translation": "这一政策转向无疑将在未来数十年重塑整个行业。",
+      "translated_word": "无疑",
+      "display_order": 2
+    },
+    {
+      "sentence": "He was doubtless brilliant, yet brilliance without kindness leaves no legacy.",
+      "style": "Contrastive",
+      "translation": "他固然才华横溢，但缺乏善意的才华终究无法留下什么。",
+      "translated_word": "固然",
+      "display_order": 4
+    },
+    {
+      "sentence": "We are doubtless changed by what we choose to carry.",
+      "style": "Philosophical",
+      "translation": "我们无疑被自己选择背负的东西所改变。",
+      "translated_word": "无疑",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "chill",
+  "phonetic": "/tʃɪl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "放松的；随和的；淡定的",
+  "examples": [
+    {
+      "sentence": "He's the most chill person I know; nothing ever fazes him.",
+      "style": "Contextual",
+      "translation": "他是我认识的最淡定的人，什么事都动摇不了他。",
+      "translated_word": "淡定",
+      "display_order": 2
+    },
+    {
+      "sentence": "The café had a chill vibe: soft jazz, dim lights, no rush.",
+      "style": "Collocational",
+      "translation": "咖啡馆氛围很慵懒：轻柔的爵士，昏暗的灯光，不紧不慢。",
+      "translated_word": "慵懒",
+      "display_order": 1
+    },
+    {
+      "sentence": "She's intense at work but surprisingly chill after hours.",
+      "style": "Contrastive",
+      "translation": "她工作时雷厉风行，下班后却出奇地随和。",
+      "translated_word": "随和",
+      "display_order": 3
+    },
+    {
+      "sentence": "My favorite nights are the chill ones: a book, a blanket, nowhere to be.",
+      "style": "Intimate",
+      "translation": "我最爱那些悠闲的夜晚：一本书，一条毯子，无处可去。",
+      "translated_word": "悠闲",
+      "display_order": 4
+    }
+  ]
+}

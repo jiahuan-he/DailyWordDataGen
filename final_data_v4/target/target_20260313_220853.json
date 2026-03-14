@@ -1,0 +1,40 @@
+{
+  "word": "target",
+  "phonetic": "/ˈtɑːrɡɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "目标；靶子；对象",
+  "examples": [
+    {
+      "sentence": "The archer held her breath, eyes fixed on the distant target.",
+      "style": "Contextual",
+      "translation": "弓箭手屏住呼吸，目光锁定远处的靶心。",
+      "translated_word": "靶心",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company surpassed its quarterly sales target by fifteen percent.",
+      "style": "Formal",
+      "translation": "该公司本季度销售额超出目标百分之十五。",
+      "translated_word": "目标",
+      "display_order": 2
+    },
+    {
+      "sentence": "She hit the target on her first attempt.",
+      "style": "Collocational",
+      "translation": "她一击即中。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Set the target high; you can always adjust the path.",
+      "style": "Inspirational",
+      "translation": "目标不妨定高些，路径随时可以调整。",
+      "translated_word": "目标",
+      "display_order": 3
+    }
+  ]
+}

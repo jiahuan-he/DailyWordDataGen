@@ -1,0 +1,39 @@
+{
+  "word": "healthful",
+  "phonetic": "/ˈhelθfəl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有益健康的；养生的；保健的",
+  "examples": [
+    {
+      "sentence": "The coastal air here is remarkably healthful; locals often live past ninety.",
+      "style": "Contextual",
+      "translation": "这里的海风格外养人，当地人常年过九旬。",
+      "translated_word": "养人",
+      "display_order": 3
+    },
+    {
+      "sentence": "New research favors healthful food environments over individual willpower.",
+      "style": "Formal",
+      "translation": "新研究更看重健康的饮食环境，而非个人意志力。",
+      "translated_word": "健康的",
+      "display_order": 1
+    },
+    {
+      "sentence": "A healthful morning routine begins with small, sustainable habits.",
+      "style": "Collocational",
+      "translation": "养生的晨间习惯，始于细小而持久的坚持。",
+      "translated_word": "养生的",
+      "display_order": 2
+    },
+    {
+      "sentence": "What tastes indulgent can still be healthful when prepared with care.",
+      "style": "Contrastive",
+      "translation": "精心烹制之下，美味与养生并不矛盾。",
+      "translated_word": "养生",
+      "display_order": 4
+    }
+  ]
+}

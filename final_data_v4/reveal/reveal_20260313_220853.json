@@ -1,0 +1,40 @@
+{
+  "word": "reveal",
+  "phonetic": "/rɪˈviːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "揭示；透露；显露；展现",
+  "examples": [
+    {
+      "sentence": "The audit revealed discrepancies that had gone unnoticed for years.",
+      "style": "Contextual",
+      "translation": "审计揭示了多年来无人察觉的账目出入。",
+      "translated_word": "揭示",
+      "display_order": 3
+    },
+    {
+      "sentence": "Silence often reveals what words carefully hide.",
+      "style": "Philosophical",
+      "translation": "沉默常常揭示言语刻意隐藏的真相。",
+      "translated_word": "揭示",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her laughter revealed a lightness I had never seen in her before.",
+      "style": "Intimate",
+      "translation": "她的笑声透露出一种我从未见过的轻盈。",
+      "translated_word": "透露",
+      "display_order": 2
+    },
+    {
+      "sentence": "Morning mist lifts to reveal the lake, still as glass.",
+      "style": "Poetic",
+      "translation": "晨雾散去，湖面如镜，静静显露。",
+      "translated_word": "显露",
+      "display_order": 1
+    }
+  ]
+}

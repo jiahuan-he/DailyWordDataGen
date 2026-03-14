@@ -1,0 +1,42 @@
+{
+  "word": "still",
+  "phonetic": "/stɪl/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "仍然；依旧；还",
+  "examples": [
+    {
+      "sentence": "The café closed years ago, but her name is still carved in the corner booth.",
+      "style": "Contextual",
+      "translation": "那家咖啡馆早已关门，但她的名字仍刻在角落的卡座上。",
+      "translated_word": "仍",
+      "display_order": 1
+    },
+    {
+      "sentence": "Snow fell; the city still breathed beneath the white silence.",
+      "style": "Poetic",
+      "translation": "雪落了；城市仍在白色寂静中轻轻呼吸。",
+      "translated_word": "仍",
+      "display_order": 3
+    },
+    {
+      "sentence": "After all these years, his voice still finds me in crowded rooms.",
+      "style": "Intimate",
+      "translation": "这么多年过去，他的声音仍能在人群中找到我。",
+      "translated_word": "仍",
+      "display_order": 2
+    },
+    {
+      "sentence": "The world spins faster, yet the heart still keeps its own time.",
+      "style": "Philosophical",
+      "translation": "世界转得愈快，心却仍守着自己的节拍。",
+      "translated_word": "仍",
+      "display_order": 4
+    }
+  ]
+}

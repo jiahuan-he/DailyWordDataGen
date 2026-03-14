@@ -1,0 +1,40 @@
+{
+  "word": "voyage",
+  "phonetic": "/ˈvɔɪ.ɪdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "航行；远航；旅程",
+  "examples": [
+    {
+      "sentence": "The voyage from Southampton to New York took seven days.",
+      "style": "Contextual",
+      "translation": "从南安普顿到纽约的航程历时七天。",
+      "translated_word": "航程",
+      "display_order": 1
+    },
+    {
+      "sentence": "Each voyage begins where the harbor lights end.",
+      "style": "Poetic",
+      "translation": "每一次远航，都始于港口灯火的尽头。",
+      "translated_word": "远航",
+      "display_order": 3
+    },
+    {
+      "sentence": "A voyage changes the traveler more than the destination ever could.",
+      "style": "Philosophical",
+      "translation": "真正改变旅人的，是航程本身，而非终点。",
+      "translated_word": "航程",
+      "display_order": 4
+    },
+    {
+      "sentence": "That summer voyage was the last time I saw my grandfather smile at the open sea.",
+      "style": "Intimate",
+      "translation": "那年夏天的航行，是我最后一次见到祖父对着大海微笑。",
+      "translated_word": "航行",
+      "display_order": 2
+    }
+  ]
+}

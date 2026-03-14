@@ -1,0 +1,40 @@
+{
+  "word": "whisper",
+  "phonetic": "/ˈwɪspər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "低语；耳语；悄声说",
+  "examples": [
+    {
+      "sentence": "She leaned in and whispered the answer before the teacher turned around.",
+      "style": "Contextual",
+      "translation": "她凑过来悄声说出答案，赶在老师转身之前。",
+      "translated_word": "悄声",
+      "display_order": 1
+    },
+    {
+      "sentence": "The pines whispered of storms that had long since passed.",
+      "style": "Poetic",
+      "translation": "松林低语，诉说着早已远去的风暴。",
+      "translated_word": "低语",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather would whisper bedtime stories so only I could hear.",
+      "style": "Intimate",
+      "translation": "祖父讲睡前故事时总是轻声细语，只让我一人听见。",
+      "translated_word": "轻声细语",
+      "display_order": 2
+    },
+    {
+      "sentence": "Rumors whispered through the office before the announcement was made.",
+      "style": "Collocational",
+      "translation": "消息正式公布前，流言已在办公室悄然传开。",
+      "translated_word": "悄然",
+      "display_order": 3
+    }
+  ]
+}

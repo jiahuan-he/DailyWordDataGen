@@ -1,0 +1,40 @@
+{
+  "word": "hardwood",
+  "phonetic": "/ˈhɑːrdwʊd/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "硬木；实木；阔叶木材",
+  "examples": [
+    {
+      "sentence": "The original hardwood had been worn smooth by decades of footsteps.",
+      "style": "Contextual",
+      "translation": "原木地板被数十年的脚步磨得光滑。",
+      "translated_word": "原木地板",
+      "display_order": 3
+    },
+    {
+      "sentence": "She chose walnut hardwood for the library; it would age gracefully.",
+      "style": "Collocational",
+      "translation": "她为书房选了胡桃木；岁月只会让它更美。",
+      "translated_word": "木",
+      "display_order": 4
+    },
+    {
+      "sentence": "Grandma's kitchen had hardwood that creaked in all the familiar places.",
+      "style": "Intimate",
+      "translation": "外婆厨房的木地板，总在熟悉的地方吱呀作响。",
+      "translated_word": "木地板",
+      "display_order": 1
+    },
+    {
+      "sentence": "The renovation preserved the historic hardwood, now valued at twice the original estimate.",
+      "style": "Formal",
+      "translation": "翻新工程保留了这批历史悠久的硬木，其估值已翻番。",
+      "translated_word": "硬木",
+      "display_order": 2
+    }
+  ]
+}

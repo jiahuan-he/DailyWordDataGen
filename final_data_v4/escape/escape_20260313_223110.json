@@ -1,0 +1,40 @@
+{
+  "word": "escape",
+  "phonetic": "/ɪˈskeɪp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "逃跑；逃脱；躲避；避开",
+  "examples": [
+    {
+      "sentence": "The bird escaped through the open window before anyone noticed.",
+      "style": "Contextual",
+      "translation": "鸟儿趁人不备，从敞开的窗户飞走了。",
+      "translated_word": "飞走",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some songs let you escape without ever leaving the room.",
+      "style": "Poetic",
+      "translation": "有些歌能让你足不出户，却已远行。",
+      "translated_word": "远行",
+      "display_order": 3
+    },
+    {
+      "sentence": "We escape one cage only to build another.",
+      "style": "Philosophical",
+      "translation": "我们逃离一座牢笼，又亲手筑起另一座。",
+      "translated_word": "逃离",
+      "display_order": 4
+    },
+    {
+      "sentence": "On quiet mornings, I escape into old novels and black coffee.",
+      "style": "Intimate",
+      "translation": "在宁静的清晨，我躲进旧小说和黑咖啡里。",
+      "translated_word": "躲进",
+      "display_order": 2
+    }
+  ]
+}

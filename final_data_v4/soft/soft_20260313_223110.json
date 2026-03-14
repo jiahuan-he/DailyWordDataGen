@@ -1,0 +1,42 @@
+{
+  "word": "soft",
+  "phonetic": "/sɔːft/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "interjection",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "柔软；轻柔；温和；柔和",
+  "examples": [
+    {
+      "sentence": "The kitten's fur was impossibly soft beneath my palm.",
+      "style": "Contextual",
+      "translation": "小猫的绒毛在掌心柔软得不可思议。",
+      "translated_word": "柔软",
+      "display_order": 1
+    },
+    {
+      "sentence": "Soft rain traced its calligraphy across the glass.",
+      "style": "Poetic",
+      "translation": "细雨轻柔地在玻璃上书写着字迹。",
+      "translated_word": "轻柔",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her voice went soft whenever she mentioned home.",
+      "style": "Intimate",
+      "translation": "每当提起故乡，她的声音便柔和下来。",
+      "translated_word": "柔和",
+      "display_order": 2
+    },
+    {
+      "sentence": "Morning light filtered through the curtains, soft and golden.",
+      "style": "Collocational",
+      "translation": "晨光穿过窗帘，柔和而金黄。",
+      "translated_word": "柔和",
+      "display_order": 3
+    }
+  ]
+}

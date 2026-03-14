@@ -1,0 +1,39 @@
+{
+  "word": "unwarranted",
+  "phonetic": "/ʌnˈwɔːrəntɪd/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "无端；无理；不当",
+  "examples": [
+    {
+      "sentence": "Her apology was unwarranted; the mistake was entirely his.",
+      "style": "Contextual",
+      "translation": "她的道歉毫无必要；错的是他，不是她。",
+      "translated_word": "毫无必要",
+      "display_order": 1
+    },
+    {
+      "sentence": "The court ruled the surveillance unwarranted and unconstitutional.",
+      "style": "Formal",
+      "translation": "法院裁定该监控行为无法律依据且违宪。",
+      "translated_word": "无法律依据",
+      "display_order": 3
+    },
+    {
+      "sentence": "Caution is wise; paranoia is unwarranted.",
+      "style": "Contrastive",
+      "translation": "谨慎是智慧，偏执则是无端之忧。",
+      "translated_word": "无端",
+      "display_order": 4
+    },
+    {
+      "sentence": "That persistent fear of being 'too much' was always unwarranted.",
+      "style": "Intimate",
+      "translation": "那份总觉得自己\"太过\"的恐惧，从来都是杞人忧天。",
+      "translated_word": "杞人忧天",
+      "display_order": 2
+    }
+  ]
+}

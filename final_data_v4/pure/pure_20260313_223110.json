@@ -1,0 +1,42 @@
+{
+  "word": "pure",
+  "phonetic": "/pjʊr/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "纯粹；纯净；纯洁；纯正",
+  "examples": [
+    {
+      "sentence": "The spring water here is pure; locals drink it straight from the source.",
+      "style": "Contextual",
+      "translation": "这里的泉水纯净无比，当地人直接掬来饮用。",
+      "translated_word": "纯净",
+      "display_order": 1
+    },
+    {
+      "sentence": "The morning sky held a pure blue that made the heart ache.",
+      "style": "Poetic",
+      "translation": "晨空澄澈，那一抹纯净的蓝令人心疼。",
+      "translated_word": "纯净",
+      "display_order": 3
+    },
+    {
+      "sentence": "Pure intentions rarely survive their first collision with reality.",
+      "style": "Philosophical",
+      "translation": "纯粹的初心，往往难以抵挡现实的第一次碰撞。",
+      "translated_word": "纯粹",
+      "display_order": 4
+    },
+    {
+      "sentence": "That summer, our friendship was pure; we hadn't yet learned to hide.",
+      "style": "Intimate",
+      "translation": "那年夏天，我们的友谊纯粹透明；我们还未学会隐藏。",
+      "translated_word": "纯粹",
+      "display_order": 2
+    }
+  ]
+}

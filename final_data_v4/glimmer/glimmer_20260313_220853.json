@@ -1,0 +1,40 @@
+{
+  "word": "glimmer",
+  "phonetic": "/ˈɡlɪmər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "微光；闪烁；一丝",
+  "examples": [
+    {
+      "sentence": "A glimmer of understanding crossed his face when I explained.",
+      "style": "Contextual",
+      "translation": "我解释时，他脸上掠过一丝了然。",
+      "translated_word": "一丝",
+      "display_order": 3
+    },
+    {
+      "sentence": "The lake held the last glimmer of sunset in its stillness.",
+      "style": "Poetic",
+      "translation": "静谧的湖面托住了落日最后一缕微光。",
+      "translated_word": "微光",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sometimes a glimmer is enough; certainty comes later.",
+      "style": "Philosophical",
+      "translation": "有时一丝微光便足够，笃定会随之而来。",
+      "translated_word": "微光",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her eyes held a glimmer I had been searching for all year.",
+      "style": "Intimate",
+      "translation": "她眼中有我寻觅了一整年的光芒。",
+      "translated_word": "光芒",
+      "display_order": 2
+    }
+  ]
+}

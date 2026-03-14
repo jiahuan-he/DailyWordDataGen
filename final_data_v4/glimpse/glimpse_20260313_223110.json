@@ -1,0 +1,40 @@
+{
+  "word": "glimpse",
+  "phonetic": "/ɡlɪmps/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "一瞥；瞬间所见；短暂印象",
+  "examples": [
+    {
+      "sentence": "Through the crowd, she caught a glimpse of the departing train.",
+      "style": "Contextual",
+      "translation": "透过人群，她瞥见了正在离站的列车。",
+      "translated_word": "瞥见",
+      "display_order": 1
+    },
+    {
+      "sentence": "A glimpse of the northern lights stayed with him for decades.",
+      "style": "Poetic",
+      "translation": "极光的惊鸿一瞥，在他心中驻留了数十年。",
+      "translated_word": "一瞥",
+      "display_order": 2
+    },
+    {
+      "sentence": "That glimpse of her handwriting on the old envelope undid me completely.",
+      "style": "Intimate",
+      "translation": "旧信封上她笔迹的一瞥，让我瞬间溃不成军。",
+      "translated_word": "一瞥",
+      "display_order": 4
+    },
+    {
+      "sentence": "The interview offered a rare glimpse into the artist's private studio.",
+      "style": "Collocational",
+      "translation": "这次采访让人得以一窥艺术家私人画室的真容。",
+      "translated_word": "一窥",
+      "display_order": 3
+    }
+  ]
+}

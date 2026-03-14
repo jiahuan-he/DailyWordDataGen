@@ -1,0 +1,39 @@
+{
+  "word": "remind",
+  "phonetic": "/rɪˈmaɪnd/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "提醒；使想起；使记起",
+  "examples": [
+    {
+      "sentence": "She set an alarm to remind herself before the meeting.",
+      "style": "Contextual",
+      "translation": "她设了闹钟，提醒自己别忘了会议。",
+      "translated_word": "提醒",
+      "display_order": 1
+    },
+    {
+      "sentence": "That song reminds me of summer nights back home.",
+      "style": "Collocational",
+      "translation": "那首歌让我想起家乡的夏夜。",
+      "translated_word": "想起",
+      "display_order": 2
+    },
+    {
+      "sentence": "Your laugh reminds me of someone I loved years ago.",
+      "style": "Intimate",
+      "translation": "你的笑声，让我想起多年前爱过的人。",
+      "translated_word": "想起",
+      "display_order": 3
+    },
+    {
+      "sentence": "Old photographs remind us we were once strangers to ourselves.",
+      "style": "Philosophical",
+      "translation": "旧照片提醒我们，曾经的自己是如此陌生。",
+      "translated_word": "提醒",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "stonewall",
+  "phonetic": "/ˈstoʊnwɔːl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "阻挠；拖延；拒绝回应",
+  "examples": [
+    {
+      "sentence": "Every question about the budget was met with silence; the CEO chose to stonewall.",
+      "style": "Contextual",
+      "translation": "关于预算的每个问题都只换来沉默；CEO选择了拒绝回应。",
+      "translated_word": "拒绝回应",
+      "display_order": 2
+    },
+    {
+      "sentence": "The senator continued to stonewall the investigation despite mounting public pressure.",
+      "style": "Formal",
+      "translation": "尽管公众压力不断增加，这位参议员仍持续阻挠调查。",
+      "translated_word": "阻挠",
+      "display_order": 1
+    },
+    {
+      "sentence": "We stonewall those who deserve answers most, guarding truths that would set us both free.",
+      "style": "Philosophical",
+      "translation": "我们对最该得到答案的人闭口不言，守护着本可让彼此解脱的真相。",
+      "translated_word": "闭口不言",
+      "display_order": 4
+    },
+    {
+      "sentence": "He stonewalled for weeks after the fight, and the silence hurt more than the argument ever did.",
+      "style": "Intimate",
+      "translation": "争吵后他沉默了好几周，那份沉默比争吵本身更令人心碎。",
+      "translated_word": "沉默",
+      "display_order": 3
+    }
+  ]
+}

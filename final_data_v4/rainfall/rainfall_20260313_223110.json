@@ -1,0 +1,39 @@
+{
+  "word": "rainfall",
+  "phonetic": "/ˈreɪnfɔːl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "降雨；降雨量；雨水",
+  "examples": [
+    {
+      "sentence": "After weeks of drought, the village finally welcomed its first rainfall.",
+      "style": "Contextual",
+      "translation": "干旱数周后，村庄终于迎来了第一场降雨。",
+      "translated_word": "降雨",
+      "display_order": 1
+    },
+    {
+      "sentence": "The rainfall traced silver threads down the glass, dissolving the city into watercolor.",
+      "style": "Poetic",
+      "translation": "雨水在玻璃上划出银丝，将城市晕染成水彩。",
+      "translated_word": "雨水",
+      "display_order": 4
+    },
+    {
+      "sentence": "Record rainfall across the region has prompted authorities to issue flood advisories.",
+      "style": "Formal",
+      "translation": "该地区创纪录的降雨量促使当局发布洪水预警。",
+      "translated_word": "降雨量",
+      "display_order": 3
+    },
+    {
+      "sentence": "Heavy rainfall overnight left the streets glistening by morning.",
+      "style": "Collocational",
+      "translation": "一夜大雨过后，清晨的街道泛着粼粼水光。",
+      "translated_word": "大雨",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "gazette",
+  "phonetic": "/ɡəˈzet/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "公报；报刊；官方期刊",
+  "examples": [
+    {
+      "sentence": "The local gazette broke the story before any national outlet noticed.",
+      "style": "Contextual",
+      "translation": "地方报刊率先报道此事，全国媒体尚未察觉。",
+      "translated_word": "报刊",
+      "display_order": 2
+    },
+    {
+      "sentence": "The official gazette published the new trade regulations at midnight.",
+      "style": "Formal",
+      "translation": "官方公报于午夜发布了新的贸易法规。",
+      "translated_word": "公报",
+      "display_order": 1
+    },
+    {
+      "sentence": "He scanned the morning gazette over black coffee, a ritual unchanged for decades.",
+      "style": "Collocational",
+      "translation": "他边喝黑咖啡边浏览晨报；这习惯数十年未变。",
+      "translated_word": "晨报",
+      "display_order": 3
+    },
+    {
+      "sentence": "Tucked in her drawer lies a faded gazette from the summer we first spoke.",
+      "style": "Intimate",
+      "translation": "她的抽屉里藏着一份泛黄的报纸，来自我们初识的那个夏天。",
+      "translated_word": "报纸",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "jesting",
+  "phonetic": "/ˈdʒestɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "戏谑的；玩笑的；打趣的",
+  "examples": [
+    {
+      "sentence": "His jesting remark cut through the tension in the room.",
+      "style": "Contextual",
+      "translation": "他一句打趣的话，瞬间化解了满屋的紧张。",
+      "translated_word": "打趣的",
+      "display_order": 2
+    },
+    {
+      "sentence": "She spoke in a jesting tone, but her eyes stayed serious.",
+      "style": "Collocational",
+      "translation": "她语带玩笑，眼神却始终认真。",
+      "translated_word": "玩笑",
+      "display_order": 1
+    },
+    {
+      "sentence": "The most honest confessions often arrive in jesting disguise.",
+      "style": "Philosophical",
+      "translation": "最真挚的告白，往往披着玩笑的外衣。",
+      "translated_word": "玩笑的",
+      "display_order": 3
+    },
+    {
+      "sentence": "Grandpa's jesting warnings about love turned out to be wisdom.",
+      "style": "Intimate",
+      "translation": "外公那些戏谑的恋爱忠告，后来都成了箴言。",
+      "translated_word": "戏谑的",
+      "display_order": 4
+    }
+  ]
+}

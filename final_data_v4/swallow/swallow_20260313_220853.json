@@ -1,0 +1,40 @@
+{
+  "word": "swallow",
+  "phonetic": "/ˈswɑːloʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "吞咽；忍受；压抑",
+  "examples": [
+    {
+      "sentence": "The pill was too large to swallow without water.",
+      "style": "Contextual",
+      "translation": "这药片太大，没有水很难咽下。",
+      "translated_word": "咽下",
+      "display_order": 1
+    },
+    {
+      "sentence": "He swallowed his pride and apologized first.",
+      "style": "Collocational",
+      "translation": "他放下面子，率先道了歉。",
+      "translated_word": "放下",
+      "display_order": 3
+    },
+    {
+      "sentence": "She swallowed the words she wanted to say, and smiled instead.",
+      "style": "Intimate",
+      "translation": "她咽下了想说的话，转而报以微笑。",
+      "translated_word": "咽下",
+      "display_order": 2
+    },
+    {
+      "sentence": "Grief doesn't vanish; we simply learn to swallow it in smaller pieces.",
+      "style": "Philosophical",
+      "translation": "悲伤不会消失，我们只是学会了将它一点点咽下。",
+      "translated_word": "咽下",
+      "display_order": 4
+    }
+  ]
+}

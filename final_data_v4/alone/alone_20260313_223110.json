@@ -1,0 +1,40 @@
+{
+  "word": "alone",
+  "phonetic": "/əˈloʊn/",
+  "pos": [
+    "adjective",
+    "adverb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "独自的；单独的；孤独的",
+  "examples": [
+    {
+      "sentence": "The lighthouse stood alone against the winter sky.",
+      "style": "Contextual",
+      "translation": "灯塔孤独地伫立在冬日的天空下。",
+      "translated_word": "孤独",
+      "display_order": 1
+    },
+    {
+      "sentence": "To be alone is not absence; it is presence with yourself.",
+      "style": "Philosophical",
+      "translation": "独处不是缺席，而是与自己同在。",
+      "translated_word": "独处",
+      "display_order": 3
+    },
+    {
+      "sentence": "Stars are never truly alone; they burn in quiet conversation with the dark.",
+      "style": "Poetic",
+      "translation": "星星从不真正孤独；它们在黑暗中静静燃烧，彼此倾诉。",
+      "translated_word": "孤独",
+      "display_order": 4
+    },
+    {
+      "sentence": "That summer, I learned to eat dinner alone and call it peace.",
+      "style": "Intimate",
+      "translation": "那个夏天，我学会了独自用餐，并称之为宁静。",
+      "translated_word": "独自",
+      "display_order": 2
+    }
+  ]
+}

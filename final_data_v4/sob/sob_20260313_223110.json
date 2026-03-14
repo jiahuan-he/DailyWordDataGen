@@ -1,0 +1,40 @@
+{
+  "word": "sob",
+  "phonetic": "/sɑːb/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "抽泣；呜咽；哭诉",
+  "examples": [
+    {
+      "sentence": "She sobbed into the phone when she heard the news.",
+      "style": "Contextual",
+      "translation": "她听到消息后，对着电话抽泣起来。",
+      "translated_word": "抽泣",
+      "display_order": 1
+    },
+    {
+      "sentence": "The rain sobbed against the windowpane all night.",
+      "style": "Poetic",
+      "translation": "雨滴整夜呜咽在窗玻璃上。",
+      "translated_word": "呜咽",
+      "display_order": 3
+    },
+    {
+      "sentence": "In the quiet car ride home, I finally let myself sob.",
+      "style": "Intimate",
+      "translation": "回家的车上一片寂静，我终于放声哭了出来。",
+      "translated_word": "哭",
+      "display_order": 2
+    },
+    {
+      "sentence": "To sob is to speak a language the body knows before words.",
+      "style": "Philosophical",
+      "translation": "哭泣是一种身体比语言更先懂得的表达。",
+      "translated_word": "哭泣",
+      "display_order": 4
+    }
+  ]
+}

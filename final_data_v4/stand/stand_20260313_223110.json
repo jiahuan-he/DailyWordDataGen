@@ -1,0 +1,40 @@
+{
+  "word": "stand",
+  "phonetic": "/stænd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "站立；忍受；坚持；位于",
+  "examples": [
+    {
+      "sentence": "She stood at the window, watching the first snow fall.",
+      "style": "Contextual",
+      "translation": "她站在窗前，看今冬的初雪飘落。",
+      "translated_word": "站",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some friendships stand the test of decades.",
+      "style": "Collocational",
+      "translation": "有些友谊经得起数十年的考验。",
+      "translated_word": "经得起",
+      "display_order": 4
+    },
+    {
+      "sentence": "To stand alone is not loneliness; it is clarity.",
+      "style": "Philosophical",
+      "translation": "独自站立并非孤独，而是清醒。",
+      "translated_word": "站立",
+      "display_order": 3
+    },
+    {
+      "sentence": "Stand where fear tells you to retreat.",
+      "style": "Inspirational",
+      "translation": "站在恐惧让你退缩的地方。",
+      "translated_word": "站",
+      "display_order": 2
+    }
+  ]
+}
