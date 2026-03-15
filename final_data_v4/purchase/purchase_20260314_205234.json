@@ -1,0 +1,40 @@
+{
+  "word": "purchase",
+  "phonetic": "/ˈpɜːrtʃəs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "购买；购置；采购",
+  "examples": [
+    {
+      "sentence": "She decided to purchase the house after just one visit.",
+      "style": "Contextual",
+      "translation": "她只看了一次房就决定买下。",
+      "translated_word": "买下",
+      "display_order": 2
+    },
+    {
+      "sentence": "The company announced plans to purchase three rival firms by year-end.",
+      "style": "Formal",
+      "translation": "该公司宣布计划在年底前收购三家竞争对手。",
+      "translated_word": "收购",
+      "display_order": 4
+    },
+    {
+      "sentence": "You can purchase tickets online or at the venue.",
+      "style": "Collocational",
+      "translation": "您可以在线购票，也可以到现场购买。",
+      "translated_word": "购买",
+      "display_order": 1
+    },
+    {
+      "sentence": "The watch cost half my savings, but I purchased it anyway; some things matter more than money.",
+      "style": "Intimate",
+      "translation": "这块表花了我一半的积蓄，但我还是买了；有些东西比钱更重要。",
+      "translated_word": "买了",
+      "display_order": 3
+    }
+  ]
+}

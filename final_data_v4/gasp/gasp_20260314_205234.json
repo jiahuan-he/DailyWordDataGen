@@ -1,0 +1,41 @@
+{
+  "word": "gasp",
+  "phonetic": "/ɡæsp/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "倒吸气；喘息；惊呼",
+  "examples": [
+    {
+      "sentence": "She gasped when the lights came on and revealed the crowd.",
+      "style": "Contextual",
+      "translation": "灯亮的瞬间，人群出现在眼前，她不禁倒吸一口气。",
+      "translated_word": "倒吸一口气",
+      "display_order": 2
+    },
+    {
+      "sentence": "The swimmer surfaced and gasped for air.",
+      "style": "Collocational",
+      "translation": "游泳者浮出水面，大口喘着气。",
+      "translated_word": "喘着气",
+      "display_order": 1
+    },
+    {
+      "sentence": "Cold water against skin; lungs gasping awake.",
+      "style": "Poetic",
+      "translation": "冷水触肤，肺腑惊醒。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Crossing the finish line, I gasped and laughed at once.",
+      "style": "Intimate",
+      "translation": "冲过终点线的那一刻，我喘着气，却笑出了声。",
+      "translated_word": "喘着气",
+      "display_order": 3
+    }
+  ]
+}

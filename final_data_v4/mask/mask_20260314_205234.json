@@ -1,0 +1,40 @@
+{
+  "word": "mask",
+  "phonetic": "/mæsk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "面具；口罩；伪装",
+  "examples": [
+    {
+      "sentence": "The surgeon reached for a fresh mask before the next procedure.",
+      "style": "Contextual",
+      "translation": "外科医生在下一台手术前取了一只新口罩。",
+      "translated_word": "口罩",
+      "display_order": 1
+    },
+    {
+      "sentence": "She wore a mask of composure through the entire meeting.",
+      "style": "Collocational",
+      "translation": "她全程戴着从容的面具，滴水不漏。",
+      "translated_word": "面具",
+      "display_order": 2
+    },
+    {
+      "sentence": "The hardest mask to shed is the one you forget you're wearing.",
+      "style": "Philosophical",
+      "translation": "最难摘下的面具，是那张你已忘记自己戴着的。",
+      "translated_word": "面具",
+      "display_order": 3
+    },
+    {
+      "sentence": "His mask cracked first at the corners, near the forgotten laughter lines.",
+      "style": "Poetic",
+      "translation": "他的面具最先在眼角裂开，那里曾有笑纹栖息。",
+      "translated_word": "面具",
+      "display_order": 4
+    }
+  ]
+}

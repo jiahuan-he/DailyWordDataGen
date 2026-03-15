@@ -1,0 +1,40 @@
+{
+  "word": "interlock",
+  "phonetic": "/ˌɪntərˈlɒk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "联锁；紧扣；相互咬合",
+  "examples": [
+    {
+      "sentence": "The puzzle pieces interlock with a satisfying click.",
+      "style": "Contextual",
+      "translation": "拼图块咔哒一声紧紧扣合，令人心满意足。",
+      "translated_word": "扣合",
+      "display_order": 2
+    },
+    {
+      "sentence": "Their fingers interlocked beneath the table, speaking what words could not.",
+      "style": "Poetic",
+      "translation": "桌下十指相扣，诉说着言语无法触及的心意。",
+      "translated_word": "相扣",
+      "display_order": 3
+    },
+    {
+      "sentence": "The gears interlock precisely, each turn driving the next.",
+      "style": "Collocational",
+      "translation": "齿轮精密咬合，每一转都带动下一转。",
+      "translated_word": "咬合",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every decision interlocks with the next; there are no isolated choices.",
+      "style": "Philosophical",
+      "translation": "每个决定都与下一个环环相扣；从没有孤立的选择。",
+      "translated_word": "相扣",
+      "display_order": 4
+    }
+  ]
+}

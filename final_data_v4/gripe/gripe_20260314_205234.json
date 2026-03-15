@@ -1,0 +1,40 @@
+{
+  "word": "gripe",
+  "phonetic": "/ɡraɪp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "抱怨；发牢骚；诉苦",
+  "examples": [
+    {
+      "sentence": "He gripes about the coffee every morning, yet never makes his own.",
+      "style": "Contextual",
+      "translation": "他每天早上都抱怨咖啡，却从不自己动手煮。",
+      "translated_word": "抱怨",
+      "display_order": 1
+    },
+    {
+      "sentence": "Colleagues gripe over lunch; it's almost a bonding ritual.",
+      "style": "Collocational",
+      "translation": "同事们午餐时发牢骚，几乎成了一种联络感情的仪式。",
+      "translated_word": "发牢骚",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather gripes about the news, but I think he just wants company.",
+      "style": "Intimate",
+      "translation": "爷爷总爱抱怨新闻，但我想他只是想找人作伴。",
+      "translated_word": "抱怨",
+      "display_order": 2
+    },
+    {
+      "sentence": "You can gripe about the storm, or you can learn to dance in the rain.",
+      "style": "Contrastive",
+      "translation": "你可以抱怨暴风雨，也可以学着在雨中起舞。",
+      "translated_word": "抱怨",
+      "display_order": 4
+    }
+  ]
+}

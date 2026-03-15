@@ -1,0 +1,39 @@
+{
+  "word": "hallucinate",
+  "phonetic": "/həˈluːsɪneɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "产生幻觉；幻视；幻听",
+  "examples": [
+    {
+      "sentence": "By the third sleepless night, he began to hallucinate shadows in the corners.",
+      "style": "Contextual",
+      "translation": "到了第三个失眠之夜，他开始看见墙角有黑影浮动。",
+      "translated_word": "看见",
+      "display_order": 2
+    },
+    {
+      "sentence": "High fever may cause patients to hallucinate vivid, unsettling images.",
+      "style": "Formal",
+      "translation": "高烧可能导致患者出现鲜明而令人不安的幻觉。",
+      "translated_word": "幻觉",
+      "display_order": 1
+    },
+    {
+      "sentence": "Perhaps we all hallucinate; we just agree on the same vision.",
+      "style": "Philosophical",
+      "translation": "也许我们都活在幻觉之中；只是恰好幻想了相同的世界。",
+      "translated_word": "幻觉",
+      "display_order": 4
+    },
+    {
+      "sentence": "The lost wanderer hallucinated an ocean, thirst painting blue across the sand.",
+      "style": "Poetic",
+      "translation": "迷途的旅人在沙漠中幻视出海洋，干渴在黄沙上涂满了蓝。",
+      "translated_word": "幻视",
+      "display_order": 3
+    }
+  ]
+}

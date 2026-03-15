@@ -1,0 +1,40 @@
+{
+  "word": "alight",
+  "phonetic": "/əˈlaɪt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "燃烧的；发亮的；神采奕奕的",
+  "examples": [
+    {
+      "sentence": "The hillside was alight with autumn maples.",
+      "style": "Poetic",
+      "translation": "山坡上枫叶如焰，层林尽染。",
+      "translated_word": "如焰",
+      "display_order": 3
+    },
+    {
+      "sentence": "When she mentioned the discovery, her whole face was alight.",
+      "style": "Contextual",
+      "translation": "提到那个发现时，她整张脸都在发光。",
+      "translated_word": "发光",
+      "display_order": 1
+    },
+    {
+      "sentence": "Your eyes were alight that night; I knew before you said a word.",
+      "style": "Intimate",
+      "translation": "那晚你眼中有光；你还未开口，我便已知晓。",
+      "translated_word": "有光",
+      "display_order": 4
+    },
+    {
+      "sentence": "The city skyline stood alight against the falling dusk.",
+      "style": "Collocational",
+      "translation": "暮色降临，城市的天际线灯火通明。",
+      "translated_word": "灯火通明",
+      "display_order": 2
+    }
+  ]
+}

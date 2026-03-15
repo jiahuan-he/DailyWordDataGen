@@ -1,0 +1,39 @@
+{
+  "word": "distill",
+  "phonetic": "/dɪˈstɪl/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "蒸馏；提炼；萃取；浓缩",
+  "examples": [
+    {
+      "sentence": "The herbalist showed me how to distill rosemary into fragrant oil.",
+      "style": "Contextual",
+      "translation": "草药师教我如何将迷迭香蒸馏成芬芳的精油。",
+      "translated_word": "蒸馏",
+      "display_order": 1
+    },
+    {
+      "sentence": "Experience distills us; only what matters survives the heat.",
+      "style": "Philosophical",
+      "translation": "岁月提炼着我们；唯有要紧的，能经受住灼烧。",
+      "translated_word": "提炼",
+      "display_order": 4
+    },
+    {
+      "sentence": "Years distill memory into amber: clear, golden, still.",
+      "style": "Poetic",
+      "translation": "时光将记忆萃取成琥珀：澄澈、金黄、凝止。",
+      "translated_word": "萃取",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her gift was to distill complex ideas into a single image.",
+      "style": "Collocational",
+      "translation": "她的天赋，是将复杂的思想浓缩为一个意象。",
+      "translated_word": "浓缩",
+      "display_order": 2
+    }
+  ]
+}

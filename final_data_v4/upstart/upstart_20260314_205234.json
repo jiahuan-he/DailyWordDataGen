@@ -1,0 +1,41 @@
+{
+  "word": "upstart",
+  "phonetic": "/ˈʌpstɑːrt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "暴发户；新贵；自命不凡者",
+  "examples": [
+    {
+      "sentence": "The old guard dismissed him as an upstart with nothing but ambition.",
+      "style": "Contextual",
+      "translation": "业界元老将他视为一个只有野心的暴发户。",
+      "translated_word": "暴发户",
+      "display_order": 1
+    },
+    {
+      "sentence": "Several upstarts have disrupted traditional banking this quarter.",
+      "style": "Formal",
+      "translation": "数家新兴势力本季度颠覆了传统银行业格局。",
+      "translated_word": "新兴势力",
+      "display_order": 3
+    },
+    {
+      "sentence": "Unlike established firms, these upstarts embrace unconventional risks.",
+      "style": "Contrastive",
+      "translation": "与老牌企业不同，这些新贵敢于打破常规。",
+      "translated_word": "新贵",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every empire was once an upstart; power forgets its own origins.",
+      "style": "Philosophical",
+      "translation": "每个帝国都曾是新贵；权力总会忘却自己的起源。",
+      "translated_word": "新贵",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "backfire",
+  "phonetic": "/ˌbækˈfaɪər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "适得其反；事与愿违；弄巧成拙",
+  "examples": [
+    {
+      "sentence": "His attempt to appear humble backfired; it came across as false modesty.",
+      "style": "Contextual",
+      "translation": "他想表现谦逊，反倒显得矫揉造作。",
+      "translated_word": "反倒",
+      "display_order": 2
+    },
+    {
+      "sentence": "The policy designed to curb inflation has backfired, triggering a recession.",
+      "style": "Formal",
+      "translation": "旨在抑制通胀的政策适得其反，引发了经济衰退。",
+      "translated_word": "适得其反",
+      "display_order": 3
+    },
+    {
+      "sentence": "Control often backfires: the tighter we grip, the more slips away.",
+      "style": "Philosophical",
+      "translation": "掌控往往事与愿违：握得越紧，流失越多。",
+      "translated_word": "事与愿违",
+      "display_order": 4
+    },
+    {
+      "sentence": "My prank on her birthday backfired; she cried, thinking everyone had forgotten.",
+      "style": "Intimate",
+      "translation": "我在她生日那天的恶作剧弄巧成拙；她哭了，以为所有人都忘了。",
+      "translated_word": "弄巧成拙",
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "delicious",
+  "phonetic": "/dɪˈlɪʃəs/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "美味的；可口的；令人愉悦的",
+  "examples": [
+    {
+      "sentence": "The soup was so delicious I asked for seconds.",
+      "style": "Contextual",
+      "translation": "汤太好喝了，我又要了一碗。",
+      "translated_word": "好喝",
+      "display_order": 1
+    },
+    {
+      "sentence": "A delicious aroma drifted from the open window.",
+      "style": "Collocational",
+      "translation": "一阵诱人的香气从窗口飘来。",
+      "translated_word": "诱人",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother's dumplings remain the most delicious thing I know.",
+      "style": "Intimate",
+      "translation": "外婆包的饺子，至今仍是我心中最美味的滋味。",
+      "translated_word": "美味",
+      "display_order": 2
+    },
+    {
+      "sentence": "Each bite held the delicious warmth of summer afternoons.",
+      "style": "Poetic",
+      "translation": "每一口都带着夏日午后的醇美与温暖。",
+      "translated_word": "醇美",
+      "display_order": 4
+    }
+  ]
+}

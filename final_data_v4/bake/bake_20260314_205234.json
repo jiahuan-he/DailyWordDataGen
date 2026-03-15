@@ -1,0 +1,40 @@
+{
+  "word": "bake",
+  "phonetic": "/beɪk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "烘焙；烤；烘烤",
+  "examples": [
+    {
+      "sentence": "The kitchen filled with warmth as the bread began to bake.",
+      "style": "Contextual",
+      "translation": "面包开始烘烤，厨房里渐渐充满暖意。",
+      "translated_word": "烘烤",
+      "display_order": 2
+    },
+    {
+      "sentence": "She baked cookies from scratch for the first time.",
+      "style": "Collocational",
+      "translation": "她第一次亲手从零烤制曲奇。",
+      "translated_word": "烤制",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother's hands taught me to bake before words ever could.",
+      "style": "Intimate",
+      "translation": "在语言之前，祖母的双手便教会了我烘焙。",
+      "translated_word": "烘焙",
+      "display_order": 3
+    },
+    {
+      "sentence": "Flour, butter, time: to bake is to give shape to patience.",
+      "style": "Poetic",
+      "translation": "面粉、黄油与时光；烘焙，是将耐心塑形。",
+      "translated_word": "烘焙",
+      "display_order": 4
+    }
+  ]
+}

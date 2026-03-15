@@ -1,0 +1,40 @@
+{
+  "word": "remove",
+  "phonetic": "/rɪˈmuːv/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "移除；去掉；撤换；消除",
+  "examples": [
+    {
+      "sentence": "She removed her coat and hung it by the door.",
+      "style": "Contextual",
+      "translation": "她脱下外套，挂在门边。",
+      "translated_word": "脱下",
+      "display_order": 1
+    },
+    {
+      "sentence": "The committee voted to remove him from his position.",
+      "style": "Formal",
+      "translation": "委员会投票决定撤销他的职务。",
+      "translated_word": "撤销",
+      "display_order": 2
+    },
+    {
+      "sentence": "Nothing could remove the doubt from her mind.",
+      "style": "Collocational",
+      "translation": "没有什么能消除她心中的疑虑。",
+      "translated_word": "消除",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some people we remove from our lives; others remove themselves.",
+      "style": "Philosophical",
+      "translation": "有些人是我们主动远离的；有些人则是自己走散的。",
+      "translated_word": "远离",
+      "display_order": 4
+    }
+  ]
+}

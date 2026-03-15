@@ -1,0 +1,40 @@
+{
+  "word": "property",
+  "phonetic": "/ˈprɑːpərti/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "财产；房产；特性",
+  "examples": [
+    {
+      "sentence": "The cottage by the lake was her most treasured property.",
+      "style": "Contextual",
+      "translation": "湖畔的小屋是她最珍贵的财产。",
+      "translated_word": "财产",
+      "display_order": 1
+    },
+    {
+      "sentence": "Commercial property values continue to climb despite economic uncertainty.",
+      "style": "Formal",
+      "translation": "尽管经济前景不明，商业地产价值仍在持续攀升。",
+      "translated_word": "地产",
+      "display_order": 2
+    },
+    {
+      "sentence": "Intellectual property remains the cornerstone of the tech industry.",
+      "style": "Collocational",
+      "translation": "知识产权始终是科技行业的基石。",
+      "translated_word": "产权",
+      "display_order": 3
+    },
+    {
+      "sentence": "We guard our property fiercely, yet the things that matter most cannot be owned.",
+      "style": "Philosophical",
+      "translation": "我们严守自己的财产，却忘了最珍贵的事物无法被拥有。",
+      "translated_word": "财产",
+      "display_order": 4
+    }
+  ]
+}

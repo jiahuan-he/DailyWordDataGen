@@ -1,0 +1,41 @@
+{
+  "word": "complete",
+  "phonetic": "/kəmˈpliːt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "完整的；彻底的；全部的",
+  "examples": [
+    {
+      "sentence": "The puzzle is finally complete.",
+      "style": "Contextual",
+      "translation": "拼图终于完整了。",
+      "translated_word": "完整",
+      "display_order": 1
+    },
+    {
+      "sentence": "A complete silence fell over the room.",
+      "style": "Collocational",
+      "translation": "房间里陷入一片死寂。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "We spend years chasing what we think will make us complete.",
+      "style": "Philosophical",
+      "translation": "我们用数年时光追逐那些自以为能填补空缺的东西。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Her laughter made the evening feel complete.",
+      "style": "Intimate",
+      "translation": "她的笑声让那个夜晚变得圆满。",
+      "translated_word": "圆满",
+      "display_order": 2
+    }
+  ]
+}

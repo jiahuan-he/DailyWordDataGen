@@ -1,0 +1,40 @@
+{
+  "word": "blessing",
+  "phonetic": "/ˈblesɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "祝福；恩赐；赞许；幸事",
+  "examples": [
+    {
+      "sentence": "Her parents gave their blessing to the marriage.",
+      "style": "Contextual",
+      "translation": "她的父母为这桩婚事送上了祝福。",
+      "translated_word": "祝福",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sometimes the unanswered prayer becomes the greatest blessing.",
+      "style": "Philosophical",
+      "translation": "有时，未被应允的祈祷反而成了最大的恩赐。",
+      "translated_word": "恩赐",
+      "display_order": 4
+    },
+    {
+      "sentence": "Rain fell on the parched fields; the village called it a blessing.",
+      "style": "Poetic",
+      "translation": "雨水落在干涸的田野上；村民们称之为天赐。",
+      "translated_word": "天赐",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother's handwritten recipes are a blessing I never expected to inherit.",
+      "style": "Intimate",
+      "translation": "外婆手写的食谱是我意想不到的珍贵馈赠。",
+      "translated_word": "馈赠",
+      "display_order": 2
+    }
+  ]
+}

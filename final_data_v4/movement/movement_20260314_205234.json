@@ -1,0 +1,39 @@
+{
+  "word": "movement",
+  "phonetic": "/ˈmuːvmənt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "运动；动作；移动；乐章",
+  "examples": [
+    {
+      "sentence": "The cat tracked every movement of the bird outside the window.",
+      "style": "Contextual",
+      "translation": "猫紧盯着窗外小鸟的每一个动作。",
+      "translated_word": "动作",
+      "display_order": 1
+    },
+    {
+      "sentence": "The civil rights movement reshaped the nation's conscience.",
+      "style": "Formal",
+      "translation": "民权运动重塑了整个国家的良知。",
+      "translated_word": "运动",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every movement forward begins with the courage to leave something behind.",
+      "style": "Philosophical",
+      "translation": "每一次向前迈进，都始于放手的勇气。",
+      "translated_word": "迈进",
+      "display_order": 3
+    },
+    {
+      "sentence": "Snow falls in silent movement, softening the hard edges of the city.",
+      "style": "Poetic",
+      "translation": "雪无声飘落，柔化了城市的棱角。",
+      "translated_word": "飘落",
+      "display_order": 4
+    }
+  ]
+}

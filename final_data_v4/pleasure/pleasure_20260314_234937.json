@@ -1,0 +1,41 @@
+{
+  "word": "pleasure",
+  "phonetic": "/ˈpleʒər/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "愉悦；乐趣；享受；荣幸",
+  "examples": [
+    {
+      "sentence": "The first bite brought instant pleasure: warm bread, fresh butter.",
+      "style": "Contextual",
+      "translation": "第一口便是纯粹的愉悦：温热的面包，新鲜的黄油。",
+      "translated_word": "愉悦",
+      "display_order": 2
+    },
+    {
+      "sentence": "She takes quiet pleasure in arranging flowers each morning.",
+      "style": "Collocational",
+      "translation": "她每天清晨插花，从中获得静谧的乐趣。",
+      "translated_word": "乐趣",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rain on a tin roof; the pleasure of small sounds.",
+      "style": "Poetic",
+      "translation": "雨落铁皮屋顶，细碎声响中藏着愉悦。",
+      "translated_word": "愉悦",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather taught me the pleasure of reading slowly.",
+      "style": "Intimate",
+      "translation": "祖父教会我慢读的乐趣。",
+      "translated_word": "乐趣",
+      "display_order": 3
+    }
+  ]
+}

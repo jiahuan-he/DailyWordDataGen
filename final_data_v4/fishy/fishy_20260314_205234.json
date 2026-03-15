@@ -1,0 +1,40 @@
+{
+  "word": "fishy",
+  "phonetic": "/ˈfɪʃi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "可疑的；蹊跷的；有鱼腥味的",
+  "examples": [
+    {
+      "sentence": "His explanation was too smooth; something felt fishy.",
+      "style": "Contextual",
+      "translation": "他的解释过于圆滑；总觉得有些蹊跷。",
+      "translated_word": "蹊跷",
+      "display_order": 2
+    },
+    {
+      "sentence": "There's something fishy about this deal.",
+      "style": "Collocational",
+      "translation": "这笔交易有点可疑。",
+      "translated_word": "可疑",
+      "display_order": 1
+    },
+    {
+      "sentence": "The second he changed the subject, I knew something was fishy.",
+      "style": "Intimate",
+      "translation": "他一转移话题，我就知道事情不对劲。",
+      "translated_word": "不对劲",
+      "display_order": 3
+    },
+    {
+      "sentence": "The numbers matched perfectly, yet the whole thing still seemed fishy.",
+      "style": "Contrastive",
+      "translation": "数字完全吻合，可整件事依然透着古怪。",
+      "translated_word": "古怪",
+      "display_order": 4
+    }
+  ]
+}

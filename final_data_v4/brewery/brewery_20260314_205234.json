@@ -1,0 +1,39 @@
+{
+  "word": "brewery",
+  "phonetic": "/ˈbruːəri/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "啤酒厂；酿酒厂",
+  "examples": [
+    {
+      "sentence": "The old brick building on Mill Street has been converted into a craft brewery.",
+      "style": "Contextual",
+      "translation": "磨坊街那座老砖楼已改建成一家精酿啤酒厂。",
+      "translated_word": "啤酒厂",
+      "display_order": 1
+    },
+    {
+      "sentence": "The local brewery announced plans to expand into three neighboring states by next spring.",
+      "style": "Formal",
+      "translation": "这家本地啤酒厂宣布，计划于明年春季将业务拓展至三个邻州。",
+      "translated_word": "啤酒厂",
+      "display_order": 4
+    },
+    {
+      "sentence": "We found a small brewery tucked behind the train station, its copper tanks gleaming through the window.",
+      "style": "Collocational",
+      "translation": "我们在火车站后面发现了一家小酒厂，铜制发酵罐透过窗户闪闪发光。",
+      "translated_word": "酒厂",
+      "display_order": 3
+    },
+    {
+      "sentence": "That brewery is where my father taught me to taste the difference between hops and malt.",
+      "style": "Intimate",
+      "translation": "就是在那家酒厂，父亲教会了我分辨啤酒花与麦芽的滋味。",
+      "translated_word": "酒厂",
+      "display_order": 2
+    }
+  ]
+}

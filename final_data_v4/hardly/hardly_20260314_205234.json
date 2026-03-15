@@ -1,0 +1,40 @@
+{
+  "word": "hardly",
+  "phonetic": "/ˈhɑːrdli/",
+  "pos": [
+    "adverb",
+    "interjection"
+  ],
+  "selected_pos": "adverb",
+  "definition": "几乎不；勉强；刚刚",
+  "examples": [
+    {
+      "sentence": "He hardly slept last night; the dark circles under his eyes said enough.",
+      "style": "Contextual",
+      "translation": "他昨晚几乎没睡；眼底的黑眼圈说明了一切。",
+      "translated_word": "几乎",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother hardly complained, even when the pain kept her awake.",
+      "style": "Intimate",
+      "translation": "祖母从不抱怨，即使疼痛让她彻夜难眠。",
+      "translated_word": "从不",
+      "display_order": 3
+    },
+    {
+      "sentence": "I can hardly wait to see you again.",
+      "style": "Collocational",
+      "translation": "我迫不及待想再见到你。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Snow fell so softly it hardly made a sound.",
+      "style": "Poetic",
+      "translation": "雪落得轻柔，几乎没有声响。",
+      "translated_word": "几乎",
+      "display_order": 2
+    }
+  ]
+}

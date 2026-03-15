@@ -1,0 +1,39 @@
+{
+  "word": "inversion",
+  "phonetic": "/ɪnˈvɜːrʒən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "倒置；反转；颠倒",
+  "examples": [
+    {
+      "sentence": "The painting hung in deliberate inversion, its sky touching the floor.",
+      "style": "Contextual",
+      "translation": "那幅画被刻意倒挂，天空垂落于地。",
+      "translated_word": "倒挂",
+      "display_order": 1
+    },
+    {
+      "sentence": "A temperature inversion trapped smog over the city for three consecutive days.",
+      "style": "Formal",
+      "translation": "逆温层将雾霾困锁城上，一连三日不散。",
+      "translated_word": "逆温层",
+      "display_order": 4
+    },
+    {
+      "sentence": "Growth often demands an inversion of our oldest certainties.",
+      "style": "Philosophical",
+      "translation": "成长常需将最根深蒂固的信念颠倒重审。",
+      "translated_word": "颠倒",
+      "display_order": 2
+    },
+    {
+      "sentence": "The poet used subject-verb inversion to slow the reader's pace.",
+      "style": "Collocational",
+      "translation": "诗人以主谓倒装，放缓读者的目光。",
+      "translated_word": "倒装",
+      "display_order": 3
+    }
+  ]
+}

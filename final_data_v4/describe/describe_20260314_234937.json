@@ -1,0 +1,39 @@
+{
+  "word": "describe",
+  "phonetic": "/dɪˈskraɪb/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "描述；形容；描绘",
+  "examples": [
+    {
+      "sentence": "She described the scene so vividly I could picture every detail.",
+      "style": "Contextual",
+      "translation": "她描述得如此生动，每个细节都浮现在眼前。",
+      "translated_word": "描述",
+      "display_order": 1
+    },
+    {
+      "sentence": "Words fail to describe what I felt standing there.",
+      "style": "Collocational",
+      "translation": "言语无法形容我站在那里时的感受。",
+      "translated_word": "形容",
+      "display_order": 3
+    },
+    {
+      "sentence": "Music describes what language cannot reach.",
+      "style": "Poetic",
+      "translation": "音乐描绘了语言触及不到的境地。",
+      "translated_word": "描绘",
+      "display_order": 4
+    },
+    {
+      "sentence": "In my letters home, I tried to describe a city slowly becoming mine.",
+      "style": "Intimate",
+      "translation": "在家书中，我试图描述那座正慢慢成为我故乡的城市。",
+      "translated_word": "描述",
+      "display_order": 2
+    }
+  ]
+}

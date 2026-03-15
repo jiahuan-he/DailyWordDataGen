@@ -1,0 +1,40 @@
+{
+  "word": "positive",
+  "phonetic": "/ˈpɑːzətɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "积极的；乐观的；肯定的",
+  "examples": [
+    {
+      "sentence": "The doctor called with positive news: no further treatment needed.",
+      "style": "Contextual",
+      "translation": "医生来电带来好消息：无需继续治疗。",
+      "translated_word": "好",
+      "display_order": 2
+    },
+    {
+      "sentence": "Positive feedback from her mentor renewed her confidence.",
+      "style": "Collocational",
+      "translation": "导师的正面反馈让她重拾信心。",
+      "translated_word": "正面",
+      "display_order": 1
+    },
+    {
+      "sentence": "A positive mindset turns obstacles into stepping stones.",
+      "style": "Inspirational",
+      "translation": "积极的心态能将阻碍化作垫脚石。",
+      "translated_word": "积极",
+      "display_order": 4
+    },
+    {
+      "sentence": "In my darkest semester, one positive comment from a professor changed everything.",
+      "style": "Intimate",
+      "translation": "在我最灰暗的一学期，教授的一句肯定改变了一切。",
+      "translated_word": "肯定",
+      "display_order": 3
+    }
+  ]
+}

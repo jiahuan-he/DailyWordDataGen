@@ -1,0 +1,39 @@
+{
+  "word": "enclose",
+  "phonetic": "/ɪnˈkləʊz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "围住；附上；封入",
+  "examples": [
+    {
+      "sentence": "She enclosed a dried flower with her letter.",
+      "style": "Contextual",
+      "translation": "她在信中附上了一朵干花。",
+      "translated_word": "附上",
+      "display_order": 2
+    },
+    {
+      "sentence": "The documents enclosed herewith require your signature.",
+      "style": "Formal",
+      "translation": "随函附上的文件需要您的签署。",
+      "translated_word": "附上",
+      "display_order": 3
+    },
+    {
+      "sentence": "Stone walls enclose the garden on three sides.",
+      "style": "Collocational",
+      "translation": "石墙从三面围住花园。",
+      "translated_word": "围住",
+      "display_order": 1
+    },
+    {
+      "sentence": "Mist encloses the lake at dawn; the world shrinks to water and silence.",
+      "style": "Poetic",
+      "translation": "晨雾笼住湖面；天地只余水色与寂静。",
+      "translated_word": "笼住",
+      "display_order": 4
+    }
+  ]
+}

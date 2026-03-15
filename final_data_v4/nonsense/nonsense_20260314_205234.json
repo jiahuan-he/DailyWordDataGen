@@ -1,0 +1,42 @@
+{
+  "word": "nonsense",
+  "phonetic": "/ˈnɑːnsens/",
+  "pos": [
+    "adjective",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "胡说；废话；荒唐事",
+  "examples": [
+    {
+      "sentence": "The meeting dragged on for hours, most of it utter nonsense.",
+      "style": "Contextual",
+      "translation": "会议拖了好几个小时，大部分都是废话连篇。",
+      "translated_word": "废话",
+      "display_order": 1
+    },
+    {
+      "sentence": "Economists dismissed the policy as fiscal nonsense.",
+      "style": "Formal",
+      "translation": "经济学家斥之为财政上的荒唐之举。",
+      "translated_word": "荒唐",
+      "display_order": 3
+    },
+    {
+      "sentence": "Children speak nonsense with perfect confidence; somewhere along the way, we learn to doubt.",
+      "style": "Philosophical",
+      "translation": "孩子说胡话时无比笃定；不知何时起，我们学会了自我怀疑。",
+      "translated_word": "胡话",
+      "display_order": 4
+    },
+    {
+      "sentence": "She called my worries nonsense, then stayed up all night with me anyway.",
+      "style": "Intimate",
+      "translation": "她说我的担心纯属多余，却还是陪我坐了一整夜。",
+      "translated_word": "多余",
+      "display_order": 2
+    }
+  ]
+}

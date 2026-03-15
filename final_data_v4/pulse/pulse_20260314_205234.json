@@ -1,0 +1,40 @@
+{
+  "word": "pulse",
+  "phonetic": "/pʌls/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "脉搏；脉动；节奏；气息",
+  "examples": [
+    {
+      "sentence": "The nurse checked his pulse before giving the injection.",
+      "style": "Contextual",
+      "translation": "护士在注射前为他测量了脉搏。",
+      "translated_word": "脉搏",
+      "display_order": 1
+    },
+    {
+      "sentence": "At dusk, the city's pulse quickens as neon signs flicker to life.",
+      "style": "Poetic",
+      "translation": "黄昏时分，霓虹灯次第亮起，城市的脉搏渐渐加速。",
+      "translated_word": "脉搏",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every pulse is a small rebellion: the body refusing to surrender.",
+      "style": "Philosophical",
+      "translation": "每一次脉动都是微小的抗争：身体拒绝屈服。",
+      "translated_word": "脉动",
+      "display_order": 4
+    },
+    {
+      "sentence": "A good leader keeps a finger on the pulse of the team.",
+      "style": "Collocational",
+      "translation": "优秀的领导者始终紧握团队的脉搏。",
+      "translated_word": "脉搏",
+      "display_order": 3
+    }
+  ]
+}

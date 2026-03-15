@@ -1,0 +1,40 @@
+{
+  "word": "character",
+  "phonetic": "/ˈkærəktər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "性格；品质；角色；特色",
+  "examples": [
+    {
+      "sentence": "His true character showed when no one was watching.",
+      "style": "Contextual",
+      "translation": "无人注视时，他的真实品性才显露出来。",
+      "translated_word": "品性",
+      "display_order": 1
+    },
+    {
+      "sentence": "Character is what remains when reputation fades.",
+      "style": "Philosophical",
+      "translation": "品格，是名声褪去后留下的东西。",
+      "translated_word": "品格",
+      "display_order": 4
+    },
+    {
+      "sentence": "Adversity doesn't build character; it reveals it.",
+      "style": "Inspirational",
+      "translation": "逆境不塑造品格，而是将其显露。",
+      "translated_word": "品格",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather's quiet honesty taught me more about character than any book.",
+      "style": "Intimate",
+      "translation": "祖父无声的正直，教会我的品格远胜于任何书本。",
+      "translated_word": "品格",
+      "display_order": 2
+    }
+  ]
+}

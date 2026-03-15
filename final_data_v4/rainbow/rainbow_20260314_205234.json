@@ -1,0 +1,41 @@
+{
+  "word": "rainbow",
+  "phonetic": "/ˈreɪnboʊ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "彩虹；虹",
+  "examples": [
+    {
+      "sentence": "After the summer storm, a faint rainbow stretched across the valley.",
+      "style": "Contextual",
+      "translation": "夏日暴雨过后，一道淡淡的彩虹横跨山谷。",
+      "translated_word": "彩虹",
+      "display_order": 1
+    },
+    {
+      "sentence": "The rainbow dissolved into mist before anyone could name its colors.",
+      "style": "Poetic",
+      "translation": "彩虹消融于薄雾之中，无人来得及唤出它的七色。",
+      "translated_word": "彩虹",
+      "display_order": 3
+    },
+    {
+      "sentence": "My daughter saw her first rainbow today; she waved at it.",
+      "style": "Intimate",
+      "translation": "女儿今天第一次看见彩虹；她朝它挥了挥手。",
+      "translated_word": "彩虹",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every rainbow is proof: beauty returns after the darkest skies.",
+      "style": "Inspirational",
+      "translation": "每一道彩虹都是明证：最暗的天空过后，美终会归来。",
+      "translated_word": "彩虹",
+      "display_order": 4
+    }
+  ]
+}

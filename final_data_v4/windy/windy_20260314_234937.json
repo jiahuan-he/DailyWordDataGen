@@ -1,0 +1,40 @@
+{
+  "word": "windy",
+  "phonetic": "/ˈwɪndi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "多风的；刮风的；风大的",
+  "examples": [
+    {
+      "sentence": "Her hair flew everywhere; it was windier than the forecast promised.",
+      "style": "Contextual",
+      "translation": "她的头发四处飞扬；风比预报的大多了。",
+      "translated_word": "风",
+      "display_order": 3
+    },
+    {
+      "sentence": "A windy day is perfect for flying kites.",
+      "style": "Collocational",
+      "translation": "风大的日子最适合放风筝。",
+      "translated_word": "风大",
+      "display_order": 1
+    },
+    {
+      "sentence": "The windy cliff hums with salt and longing.",
+      "style": "Poetic",
+      "translation": "风吹过海崖，带着咸涩与眷恋的低吟。",
+      "translated_word": "风吹",
+      "display_order": 4
+    },
+    {
+      "sentence": "Windy afternoons remind me of chasing leaves with my brother.",
+      "style": "Intimate",
+      "translation": "每逢风起的午后，我便想起和弟弟追逐落叶的时光。",
+      "translated_word": "风起",
+      "display_order": 2
+    }
+  ]
+}

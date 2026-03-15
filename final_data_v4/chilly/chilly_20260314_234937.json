@@ -1,0 +1,40 @@
+{
+  "word": "chilly",
+  "phonetic": "/ˈtʃɪli/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "寒冷的；凉飕飕的；冷淡的",
+  "examples": [
+    {
+      "sentence": "The basement stayed chilly even on the hottest days.",
+      "style": "Contextual",
+      "translation": "地下室即使在最热的日子也依旧阴冷。",
+      "translated_word": "阴冷",
+      "display_order": 2
+    },
+    {
+      "sentence": "Chilly fog settled over the vineyard, muting every color to gray.",
+      "style": "Poetic",
+      "translation": "寒雾笼罩葡萄园，将一切色彩浸染成灰。",
+      "translated_word": "寒",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her chilly greeting made the room feel smaller.",
+      "style": "Collocational",
+      "translation": "她冷淡的招呼让房间显得更加逼仄。",
+      "translated_word": "冷淡",
+      "display_order": 4
+    },
+    {
+      "sentence": "On chilly mornings, my grandmother would slip a warm stone into my coat pocket.",
+      "style": "Intimate",
+      "translation": "寒冷的清晨，祖母总会悄悄往我口袋里塞一块暖石。",
+      "translated_word": "寒冷",
+      "display_order": 1
+    }
+  ]
+}

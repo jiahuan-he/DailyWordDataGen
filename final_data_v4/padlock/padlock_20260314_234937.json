@@ -1,0 +1,40 @@
+{
+  "word": "padlock",
+  "phonetic": "/ˈpædlɒk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "挂锁；扣锁",
+  "examples": [
+    {
+      "sentence": "The bike rack requires a padlock; cables alone won't deter thieves.",
+      "style": "Contextual",
+      "translation": "自行车架需要一把挂锁；仅靠钢缆无法阻止盗贼。",
+      "translated_word": "挂锁",
+      "display_order": 1
+    },
+    {
+      "sentence": "He clipped a brass padlock through the hasp and pocketed the key.",
+      "style": "Collocational",
+      "translation": "他把一把黄铜挂锁扣在搭扣上，将钥匙揣进口袋。",
+      "translated_word": "挂锁",
+      "display_order": 2
+    },
+    {
+      "sentence": "The padlock surrendered to rust long before anyone came looking for what lay inside.",
+      "style": "Poetic",
+      "translation": "在有人来探寻里面的东西之前，挂锁早已向锈迹投降。",
+      "translated_word": "挂锁",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother kept a small padlock on her recipe box; some treasures need guarding.",
+      "style": "Intimate",
+      "translation": "祖母的食谱盒上挂着一把小锁；有些珍宝需要守护。",
+      "translated_word": "小锁",
+      "display_order": 3
+    }
+  ]
+}

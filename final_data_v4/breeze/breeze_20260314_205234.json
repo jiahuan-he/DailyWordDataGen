@@ -1,0 +1,40 @@
+{
+  "word": "breeze",
+  "phonetic": "/briːz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "微风；轻风；凉风",
+  "examples": [
+    {
+      "sentence": "A cool breeze swept through the open window.",
+      "style": "Contextual",
+      "translation": "凉风穿过敞开的窗户。",
+      "translated_word": "凉风",
+      "display_order": 1
+    },
+    {
+      "sentence": "The ocean breeze carried salt and the scent of seaweed.",
+      "style": "Collocational",
+      "translation": "海风裹挟着盐粒与海藻的气息。",
+      "translated_word": "海风",
+      "display_order": 2
+    },
+    {
+      "sentence": "The breeze stirred through the bamboo, waking forgotten stillness.",
+      "style": "Poetic",
+      "translation": "微风穿过竹林，唤醒了沉睡的寂静。",
+      "translated_word": "微风",
+      "display_order": 3
+    },
+    {
+      "sentence": "We sat on the porch, letting the evening breeze dry our laughter.",
+      "style": "Intimate",
+      "translation": "我们坐在门廊上，任晚风吹干笑声。",
+      "translated_word": "晚风",
+      "display_order": 4
+    }
+  ]
+}

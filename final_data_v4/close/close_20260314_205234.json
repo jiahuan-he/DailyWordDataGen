@@ -1,0 +1,41 @@
+{
+  "word": "close",
+  "phonetic": "/kloʊs/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "亲密；接近；紧密；仔细",
+  "examples": [
+    {
+      "sentence": "We grew up on the same street; she was the closest thing I had to a sister.",
+      "style": "Intimate",
+      "translation": "我们从小在同一条街长大；她是我心中最亲近的姐妹。",
+      "translated_word": "亲近",
+      "display_order": 2
+    },
+    {
+      "sentence": "It was a close call; another second and I would have missed the train.",
+      "style": "Collocational",
+      "translation": "真是千钧一发；再晚一秒就错过那班火车了。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Silence, sometimes, is the closest form of understanding.",
+      "style": "Philosophical",
+      "translation": "沉默，有时是最深的理解。",
+      "translated_word": "深",
+      "display_order": 3
+    },
+    {
+      "sentence": "Your guess was close; the answer is 47, not 45.",
+      "style": "Contextual",
+      "translation": "你猜得很接近；答案是47，不是45。",
+      "translated_word": "接近",
+      "display_order": 1
+    }
+  ]
+}

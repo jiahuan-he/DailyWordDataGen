@@ -1,0 +1,40 @@
+{
+  "word": "household",
+  "phonetic": "/ˈhaʊshoʊld/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "家庭；住户；家人",
+  "examples": [
+    {
+      "sentence": "After my sister moved out, our household shrank to just three.",
+      "style": "Contextual",
+      "translation": "姐姐搬走后，家里只剩下三个人了。",
+      "translated_word": "家里",
+      "display_order": 2
+    },
+    {
+      "sentence": "Running a household requires both patience and planning.",
+      "style": "Collocational",
+      "translation": "持家需要耐心，也需要规划。",
+      "translated_word": "家",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sunday mornings brought our whole household together around the kitchen table.",
+      "style": "Intimate",
+      "translation": "每个周日清晨，全家人都会围坐在餐桌旁。",
+      "translated_word": "全家人",
+      "display_order": 1
+    },
+    {
+      "sentence": "A household is built not by walls, but by the rituals shared within them.",
+      "style": "Philosophical",
+      "translation": "家不是由墙壁砌成，而是由共同的习惯凝聚。",
+      "translated_word": "家",
+      "display_order": 4
+    }
+  ]
+}

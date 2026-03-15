@@ -1,0 +1,41 @@
+{
+  "word": "relegate",
+  "phonetic": "/ˈrelɪɡeɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "降级；贬谪；搁置；归入",
+  "examples": [
+    {
+      "sentence": "After three consecutive losses, the team was relegated to the second division.",
+      "style": "Contextual",
+      "translation": "三连败后，球队被降入了乙级联赛。",
+      "translated_word": "降入",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new policy relegated safety inspections to an optional step.",
+      "style": "Formal",
+      "translation": "新政策将安全检查降格为可选环节。",
+      "translated_word": "降格",
+      "display_order": 3
+    },
+    {
+      "sentence": "We relegate the things that matter most to 'someday.'",
+      "style": "Philosophical",
+      "translation": "我们总把最重要的事搁置到「改天再说」。",
+      "translated_word": "搁置",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her sketches were relegated to a drawer she never reopened.",
+      "style": "Intimate",
+      "translation": "她的画稿被塞进抽屉，再也没有打开过。",
+      "translated_word": "塞进",
+      "display_order": 2
+    }
+  ]
+}

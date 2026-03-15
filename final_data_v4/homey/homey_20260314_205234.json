@@ -1,0 +1,40 @@
+{
+  "word": "homey",
+  "phonetic": "/ˈhoʊmi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "温馨；舒适；有家的感觉",
+  "examples": [
+    {
+      "sentence": "The kitchen smelled of bread and cinnamon; it felt instantly homey.",
+      "style": "Contextual",
+      "translation": "厨房里飘着面包和肉桂的香气，瞬间便有了家的温馨。",
+      "translated_word": "温馨",
+      "display_order": 2
+    },
+    {
+      "sentence": "Worn rugs and soft lamplight made the cabin homey.",
+      "style": "Poetic",
+      "translation": "旧地毯与柔和灯光，让小木屋格外温馨。",
+      "translated_word": "温馨",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her studio was small but homey, crowded with plants and secondhand books.",
+      "style": "Intimate",
+      "translation": "她的工作室虽小却温馨，满是绿植和二手书。",
+      "translated_word": "温馨",
+      "display_order": 3
+    },
+    {
+      "sentence": "A few throw pillows gave the room a homey touch.",
+      "style": "Collocational",
+      "translation": "几只抱枕，便让房间多了几分家的感觉。",
+      "translated_word": "家的感觉",
+      "display_order": 4
+    }
+  ]
+}

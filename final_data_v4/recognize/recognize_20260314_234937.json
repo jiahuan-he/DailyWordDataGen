@@ -1,0 +1,39 @@
+{
+  "word": "recognize",
+  "phonetic": "/ˈrekəɡnaɪz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "认出；承认；认可；赏识",
+  "examples": [
+    {
+      "sentence": "She waved three times before I recognized her without glasses.",
+      "style": "Contextual",
+      "translation": "她挥了三次手，我才认出没戴眼镜的她。",
+      "translated_word": "认出",
+      "display_order": 1
+    },
+    {
+      "sentence": "My tongue recognized my mother's cooking before my mind caught up.",
+      "style": "Intimate",
+      "translation": "舌尖比记忆更快认出了妈妈的味道。",
+      "translated_word": "认出",
+      "display_order": 3
+    },
+    {
+      "sentence": "To be truly seen is rare; most only recognize the role you play.",
+      "style": "Philosophical",
+      "translation": "被真正看见是稀有的；多数人只认得你扮演的角色。",
+      "translated_word": "认得",
+      "display_order": 4
+    },
+    {
+      "sentence": "The academy voted to recognize her lifetime contributions to marine biology.",
+      "style": "Formal",
+      "translation": "学院投票表决，认可她对海洋生物学的终身贡献。",
+      "translated_word": "认可",
+      "display_order": 2
+    }
+  ]
+}

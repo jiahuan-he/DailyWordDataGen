@@ -1,0 +1,40 @@
+{
+  "word": "president",
+  "phonetic": "/ˈprezɪdənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "总统；主席；校长；总裁",
+  "examples": [
+    {
+      "sentence": "The president walked to the podium as cameras flashed.",
+      "style": "Contextual",
+      "translation": "总统走向讲台，闪光灯此起彼伏。",
+      "translated_word": "总统",
+      "display_order": 1
+    },
+    {
+      "sentence": "The president will address economic policy in tonight's speech.",
+      "style": "Formal",
+      "translation": "总统将在今晚的讲话中阐述经济政策。",
+      "translated_word": "总统",
+      "display_order": 2
+    },
+    {
+      "sentence": "She was elected president of the student council.",
+      "style": "Collocational",
+      "translation": "她当选为学生会主席。",
+      "translated_word": "主席",
+      "display_order": 3
+    },
+    {
+      "sentence": "A president speaks for millions, yet stands alone in the hardest moments.",
+      "style": "Philosophical",
+      "translation": "总统为千万人代言，却在最艰难的时刻独自承担。",
+      "translated_word": "总统",
+      "display_order": 4
+    }
+  ]
+}

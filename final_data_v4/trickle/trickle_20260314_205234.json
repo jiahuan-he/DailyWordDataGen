@@ -1,0 +1,40 @@
+{
+  "word": "trickle",
+  "phonetic": "/ˈtrɪkəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "滴落；缓缓流动；逐渐传开",
+  "examples": [
+    {
+      "sentence": "Rain trickled down the window, tracing maps of places we'd never go.",
+      "style": "Poetic",
+      "translation": "雨水沿窗滑落，勾勒出我们永远不会抵达的地图。",
+      "translated_word": "滑落",
+      "display_order": 2
+    },
+    {
+      "sentence": "Coffee trickled from the machine, filling the kitchen with warmth.",
+      "style": "Contextual",
+      "translation": "咖啡从机器中缓缓滴落，温暖弥漫了整个厨房。",
+      "translated_word": "滴落",
+      "display_order": 1
+    },
+    {
+      "sentence": "News of the merger began to trickle out despite the embargo.",
+      "style": "Collocational",
+      "translation": "尽管有禁令，合并的消息还是渐渐传了出去。",
+      "translated_word": "渐渐传",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her voice used to trickle into my mornings; now I wake to silence.",
+      "style": "Intimate",
+      "translation": "她的声音曾缓缓流入我的清晨；如今我在寂静中醒来。",
+      "translated_word": "缓缓流入",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "retouch",
+  "phonetic": "/riːˈtʌtʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "润饰；修图；补妆",
+  "examples": [
+    {
+      "sentence": "The art restorer carefully retouched the damaged corner of the painting.",
+      "style": "Contextual",
+      "translation": "修复师小心翼翼地润饰着画作受损的一角。",
+      "translated_word": "润饰",
+      "display_order": 1
+    },
+    {
+      "sentence": "She paused to retouch her lipstick before the interview.",
+      "style": "Collocational",
+      "translation": "面试前，她停下来补了补口红。",
+      "translated_word": "补了补",
+      "display_order": 2
+    },
+    {
+      "sentence": "We retouch our flaws away, forgetting they were once called character.",
+      "style": "Philosophical",
+      "translation": "我们修掉瑕疵，却忘了那曾是我们的特色。",
+      "translated_word": "修掉",
+      "display_order": 3
+    },
+    {
+      "sentence": "After the breakup, I sat retouching you out of every vacation photo.",
+      "style": "Intimate",
+      "translation": "分手后，我坐在那里，把你从每张旅行照片中一一抹去。",
+      "translated_word": "抹去",
+      "display_order": 4
+    }
+  ]
+}

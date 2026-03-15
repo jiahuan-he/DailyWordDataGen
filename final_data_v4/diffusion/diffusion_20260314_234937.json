@@ -1,0 +1,39 @@
+{
+  "word": "diffusion",
+  "phonetic": "/dɪˈfjuːʒən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "扩散；传播；弥漫；渗透",
+  "examples": [
+    {
+      "sentence": "The diffusion of lamplight softened every corner of the room.",
+      "style": "Contextual",
+      "translation": "灯光柔和地弥漫开来，让房间的每个角落都变得温暖。",
+      "translated_word": "弥漫",
+      "display_order": 2
+    },
+    {
+      "sentence": "Rapid diffusion of misinformation poses new challenges for journalists.",
+      "style": "Formal",
+      "translation": "虚假信息的快速传播给新闻工作者带来了新的挑战。",
+      "translated_word": "传播",
+      "display_order": 1
+    },
+    {
+      "sentence": "Morning fog clings to the valley: a soft diffusion of white into gray.",
+      "style": "Poetic",
+      "translation": "晨雾依偎着山谷，白与灰轻柔交融。",
+      "translated_word": "交融",
+      "display_order": 4
+    },
+    {
+      "sentence": "Real change relies on the quiet diffusion of ideas, not forceful imposition.",
+      "style": "Philosophical",
+      "translation": "真正的改变依靠思想的悄然渗透，而非强行灌输。",
+      "translated_word": "渗透",
+      "display_order": 3
+    }
+  ]
+}

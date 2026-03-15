@@ -1,0 +1,39 @@
+{
+  "word": "homely",
+  "phonetic": "/ˈhoʊmli/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "家常的；朴素温馨的；（美）相貌平平的",
+  "examples": [
+    {
+      "sentence": "The cottage had a homely charm: mismatched chairs, worn rugs, a kettle always warm.",
+      "style": "Contextual",
+      "translation": "小屋有种家常的温馨：椅子不成套，地毯有些旧，水壶却总是热着。",
+      "translated_word": "家常的",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her kitchen was small and homely, and somehow every conversation there felt honest.",
+      "style": "Intimate",
+      "translation": "她的厨房不大，朴素温馨，不知为何，在那里说的每句话都格外真诚。",
+      "translated_word": "朴素温馨",
+      "display_order": 2
+    },
+    {
+      "sentence": "Homely things hold the deepest warmth: bread rising, a window left ajar.",
+      "style": "Poetic",
+      "translation": "最寻常的事物藏着最深的暖意：发酵的面团，半掩的窗。",
+      "translated_word": "寻常",
+      "display_order": 4
+    },
+    {
+      "sentence": "The hotel was elegant but cold; what I craved was somewhere homely.",
+      "style": "Contrastive",
+      "translation": "酒店精致却冷清；我渴望的，是有烟火气的地方。",
+      "translated_word": "烟火气",
+      "display_order": 3
+    }
+  ]
+}

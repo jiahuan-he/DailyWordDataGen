@@ -1,0 +1,39 @@
+{
+  "word": "untruth",
+  "phonetic": "/ʌnˈtruːθ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "谎言；虚假；不实之词",
+  "examples": [
+    {
+      "sentence": "Her smile was warm, but I sensed an untruth hiding beneath.",
+      "style": "Contextual",
+      "translation": "她笑得温暖，但我察觉到话语下藏着虚假。",
+      "translated_word": "虚假",
+      "display_order": 2
+    },
+    {
+      "sentence": "The audit uncovered a series of untruths in the quarterly filings.",
+      "style": "Formal",
+      "translation": "审计揭露了季度报告中一连串不实陈述。",
+      "translated_word": "不实陈述",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some untruths are shields, not swords.",
+      "style": "Philosophical",
+      "translation": "有些谎言是盾，而非剑。",
+      "translated_word": "谎言",
+      "display_order": 4
+    },
+    {
+      "sentence": "An untruth, once spoken, echoes longer than the silence it replaced.",
+      "style": "Poetic",
+      "translation": "谎言一旦出口，回响比它取代的沉默更为悠长。",
+      "translated_word": "谎言",
+      "display_order": 3
+    }
+  ]
+}

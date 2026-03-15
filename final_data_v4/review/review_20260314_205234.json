@@ -1,0 +1,40 @@
+{
+  "word": "review",
+  "phonetic": "/rɪˈvjuː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "评论；审查；回顾",
+  "examples": [
+    {
+      "sentence": "One honest review convinced me to buy the book.",
+      "style": "Contextual",
+      "translation": "一条真诚的评论，让我决定买下那本书。",
+      "translated_word": "评论",
+      "display_order": 1
+    },
+    {
+      "sentence": "The annual review revealed three critical compliance gaps.",
+      "style": "Formal",
+      "translation": "年度审查揭示了三个重大合规漏洞。",
+      "translated_word": "审查",
+      "display_order": 3
+    },
+    {
+      "sentence": "A single negative review can undo months of careful branding.",
+      "style": "Collocational",
+      "translation": "一条差评足以毁掉数月的品牌经营。",
+      "translated_word": "差评",
+      "display_order": 2
+    },
+    {
+      "sentence": "At forty, I found myself in an unplanned review of my entire life.",
+      "style": "Intimate",
+      "translation": "四十岁那年，我不由自主地开始回顾自己的一生。",
+      "translated_word": "回顾",
+      "display_order": 4
+    }
+  ]
+}

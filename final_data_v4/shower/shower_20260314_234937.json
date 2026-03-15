@@ -1,0 +1,40 @@
+{
+  "word": "shower",
+  "phonetic": "/ˈʃaʊər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "淋浴；阵雨；送礼会",
+  "examples": [
+    {
+      "sentence": "The hot shower after the hike felt like heaven.",
+      "style": "Contextual",
+      "translation": "徒步后的热水淋浴，宛如天堂。",
+      "translated_word": "淋浴",
+      "display_order": 1
+    },
+    {
+      "sentence": "A quick shower and fresh clothes can turn your whole day around.",
+      "style": "Collocational",
+      "translation": "快速冲个澡，换身干净衣服，一整天都能焕然一新。",
+      "translated_word": "澡",
+      "display_order": 2
+    },
+    {
+      "sentence": "The spring shower left the city glazed in silver light.",
+      "style": "Poetic",
+      "translation": "春雨过后，整座城市笼罩在银色的光晕中。",
+      "translated_word": "雨",
+      "display_order": 3
+    },
+    {
+      "sentence": "My best ideas arrive in the shower, when the world finally goes quiet.",
+      "style": "Intimate",
+      "translation": "我最好的灵感总在淋浴时涌现；那是世界终于安静下来的时刻。",
+      "translated_word": "淋浴",
+      "display_order": 4
+    }
+  ]
+}

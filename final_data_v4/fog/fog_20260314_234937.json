@@ -1,0 +1,40 @@
+{
+  "word": "fog",
+  "phonetic": "/fɒɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "雾；迷雾；朦胧",
+  "examples": [
+    {
+      "sentence": "Ships dissolved into the fog like ink into water.",
+      "style": "Poetic",
+      "translation": "船只没入雾中，如墨化于水。",
+      "translated_word": "雾",
+      "display_order": 3
+    },
+    {
+      "sentence": "Certainty is just fog that hasn't lifted yet.",
+      "style": "Philosophical",
+      "translation": "所谓确定，不过是尚未散去的迷雾。",
+      "translated_word": "迷雾",
+      "display_order": 4
+    },
+    {
+      "sentence": "The harbor was invisible; a thick fog had rolled in overnight.",
+      "style": "Contextual",
+      "translation": "港口已看不见了；一夜之间，浓雾弥漫而至。",
+      "translated_word": "浓雾",
+      "display_order": 1
+    },
+    {
+      "sentence": "That winter, the fog swallowed our small town whole, and we loved it.",
+      "style": "Intimate",
+      "translation": "那年冬天，浓雾吞没了整个小镇，而我们甘之如饴。",
+      "translated_word": "浓雾",
+      "display_order": 2
+    }
+  ]
+}

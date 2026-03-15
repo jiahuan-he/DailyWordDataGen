@@ -1,0 +1,40 @@
+{
+  "word": "option",
+  "phonetic": "/ˈɑːpʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "选择；选项；备选方案",
+  "examples": [
+    {
+      "sentence": "The menu offered only two options: steak or fish.",
+      "style": "Contextual",
+      "translation": "菜单上只有两种选择：牛排或鱼。",
+      "translated_word": "选择",
+      "display_order": 1
+    },
+    {
+      "sentence": "All options remain on the table as negotiations proceed.",
+      "style": "Formal",
+      "translation": "谈判持续进行，所有选项仍在考虑之中。",
+      "translated_word": "选项",
+      "display_order": 3
+    },
+    {
+      "sentence": "The illusion of endless options often leads to paralysis.",
+      "style": "Philosophical",
+      "translation": "无尽选择的幻觉，往往通向停滞。",
+      "translated_word": "选择",
+      "display_order": 4
+    },
+    {
+      "sentence": "Keep your options open; certainty can wait.",
+      "style": "Collocational",
+      "translation": "保留选择的余地；笃定不必急于一时。",
+      "translated_word": "选择",
+      "display_order": 2
+    }
+  ]
+}

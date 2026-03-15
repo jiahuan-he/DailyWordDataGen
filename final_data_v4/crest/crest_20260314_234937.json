@@ -1,0 +1,40 @@
+{
+  "word": "crest",
+  "phonetic": "/krest/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "顶峰；波峰；冠羽；纹章",
+  "examples": [
+    {
+      "sentence": "We paused at the crest of the hill to catch our breath.",
+      "style": "Contextual",
+      "translation": "我们在山脊处停下，喘息片刻。",
+      "translated_word": "山脊",
+      "display_order": 1
+    },
+    {
+      "sentence": "The wave hung at its crest, sunlit and trembling, before it fell.",
+      "style": "Poetic",
+      "translation": "浪尖悬停，阳光颤动，随即倾泻而下。",
+      "translated_word": "浪尖",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every crest carries the weight of the climb and the certainty of descent.",
+      "style": "Philosophical",
+      "translation": "每一处顶峰，都承载攀登的重量，也预示下行的必然。",
+      "translated_word": "顶峰",
+      "display_order": 4
+    },
+    {
+      "sentence": "The surfer timed his leap perfectly to ride the crest.",
+      "style": "Collocational",
+      "translation": "冲浪者把握时机，纵身跃上浪峰。",
+      "translated_word": "浪峰",
+      "display_order": 3
+    }
+  ]
+}

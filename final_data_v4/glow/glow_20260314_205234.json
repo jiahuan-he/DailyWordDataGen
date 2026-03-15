@@ -1,0 +1,40 @@
+{
+  "word": "glow",
+  "phonetic": "/ɡloʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "发光；发热；容光焕发",
+  "examples": [
+    {
+      "sentence": "The embers still glow beneath the ashes.",
+      "style": "Contextual",
+      "translation": "余烬仍在灰烬下泛着微光。",
+      "translated_word": "微光",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her face glowed with pride as her name was called.",
+      "style": "Collocational",
+      "translation": "名字被念到时，她的脸上洋溢着骄傲的光彩。",
+      "translated_word": "光彩",
+      "display_order": 3
+    },
+    {
+      "sentence": "At dusk, the city glows, breathing light into the fading sky.",
+      "style": "Poetic",
+      "translation": "黄昏时分，城市轻轻发亮，向渐暗的天空吐出光芒。",
+      "translated_word": "发亮",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's kitchen would glow before sunrise.",
+      "style": "Intimate",
+      "translation": "日出之前，祖母的厨房总是透着暖光。",
+      "translated_word": "暖光",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "drift",
+  "phonetic": "/drɪft/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "漂流；漂移；渐行渐远；游荡",
+  "examples": [
+    {
+      "sentence": "The canoe drifted downstream while we watched the clouds.",
+      "style": "Contextual",
+      "translation": "独木舟顺流漂去，我们静静望着云。",
+      "translated_word": "漂去",
+      "display_order": 1
+    },
+    {
+      "sentence": "Smoke drifts from the chimney, dissolving into winter sky.",
+      "style": "Poetic",
+      "translation": "炊烟袅袅升起，消融于冬日苍穹。",
+      "translated_word": "袅袅",
+      "display_order": 3
+    },
+    {
+      "sentence": "To drift is not always to be lost; sometimes, it is to trust the current.",
+      "style": "Philosophical",
+      "translation": "漂流并非总是迷失；有时，是将方向交付给水流。",
+      "translated_word": "漂流",
+      "display_order": 4
+    },
+    {
+      "sentence": "We drifted apart so gently that I only noticed when your birthday slipped my mind.",
+      "style": "Intimate",
+      "translation": "我们渐行渐远，悄无声息；直到忘了你的生日，我才惊觉。",
+      "translated_word": "渐行渐远",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "tide",
+  "phonetic": "/taɪd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "潮汐；潮流；趋势",
+  "examples": [
+    {
+      "sentence": "The tide comes in twice a day here.",
+      "style": "Contextual",
+      "translation": "这里每天涨潮两次。",
+      "translated_word": "潮",
+      "display_order": 1
+    },
+    {
+      "sentence": "One bold decision turned the tide in our favor.",
+      "style": "Collocational",
+      "translation": "一个大胆的决定扭转了局势。",
+      "translated_word": "局势",
+      "display_order": 4
+    },
+    {
+      "sentence": "You cannot fight the tide; you can only learn when to swim.",
+      "style": "Philosophical",
+      "translation": "你无法对抗潮水，只能学会何时顺流而行。",
+      "translated_word": "潮水",
+      "display_order": 3
+    },
+    {
+      "sentence": "The tide retreats, leaving secrets in the sand.",
+      "style": "Poetic",
+      "translation": "潮水退去，沙滩上留下无声的秘密。",
+      "translated_word": "潮水",
+      "display_order": 2
+    }
+  ]
+}

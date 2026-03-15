@@ -1,0 +1,40 @@
+{
+  "word": "heal",
+  "phonetic": "/hiːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "治愈；愈合；康复",
+  "examples": [
+    {
+      "sentence": "The doctor said the fracture would heal within six weeks.",
+      "style": "Contextual",
+      "translation": "医生说骨折会在六周内愈合。",
+      "translated_word": "愈合",
+      "display_order": 1
+    },
+    {
+      "sentence": "To heal is to remember without bleeding.",
+      "style": "Philosophical",
+      "translation": "愈合，是能够回忆却不再流血。",
+      "translated_word": "愈合",
+      "display_order": 3
+    },
+    {
+      "sentence": "Rain washes stone; time heals bone.",
+      "style": "Poetic",
+      "translation": "雨洗顽石；时愈旧伤。",
+      "translated_word": "愈",
+      "display_order": 4
+    },
+    {
+      "sentence": "That trip to the sea didn't fix me, but it started to heal me.",
+      "style": "Intimate",
+      "translation": "那趟海边之旅没能修好我，却开始治愈我。",
+      "translated_word": "治愈",
+      "display_order": 2
+    }
+  ]
+}

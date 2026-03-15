@@ -1,0 +1,40 @@
+{
+  "word": "comment",
+  "phonetic": "/ˈkɑːment/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "评论；留言；意见；评价",
+  "examples": [
+    {
+      "sentence": "His comment about the painting sparked an hour-long debate.",
+      "style": "Contextual",
+      "translation": "他对那幅画的评论，引发了一场长达一小时的争论。",
+      "translated_word": "评论",
+      "display_order": 2
+    },
+    {
+      "sentence": "The official released a brief comment acknowledging the error.",
+      "style": "Formal",
+      "translation": "官方发布了一份简短声明，承认了这一失误。",
+      "translated_word": "声明",
+      "display_order": 4
+    },
+    {
+      "sentence": "She scrolled past without leaving a single comment.",
+      "style": "Collocational",
+      "translation": "她滑过屏幕，一条评论也没留下。",
+      "translated_word": "评论",
+      "display_order": 1
+    },
+    {
+      "sentence": "A stranger's kind comment on my work gave me courage to keep going.",
+      "style": "Intimate",
+      "translation": "一位陌生人对我作品的温暖留言，给了我继续走下去的勇气。",
+      "translated_word": "留言",
+      "display_order": 3
+    }
+  ]
+}

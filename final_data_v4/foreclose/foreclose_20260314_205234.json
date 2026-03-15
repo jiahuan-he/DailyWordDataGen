@@ -1,0 +1,39 @@
+{
+  "word": "foreclose",
+  "phonetic": "/fɔːrˈkloʊz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "取消赎回权；没收抵押品；排除；阻止",
+  "examples": [
+    {
+      "sentence": "The bank will foreclose on the house if three payments are missed.",
+      "style": "Contextual",
+      "translation": "若连续三次逾期，银行将收回这栋房子。",
+      "translated_word": "收回",
+      "display_order": 1
+    },
+    {
+      "sentence": "Lenders foreclosed on a record number of properties during the 2008 crisis.",
+      "style": "Formal",
+      "translation": "2008年金融危机期间，贷款机构没收的房产数量创下历史新高。",
+      "translated_word": "没收",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every choice we make forecloses a thousand others.",
+      "style": "Philosophical",
+      "translation": "我们做出的每一个选择，都悄然关上了另外千扇门。",
+      "translated_word": "关上",
+      "display_order": 4
+    },
+    {
+      "sentence": "My parents almost lost their home when the bank threatened to foreclose.",
+      "style": "Intimate",
+      "translation": "银行曾扬言收回房子，父母险些失去那个家。",
+      "translated_word": "收回",
+      "display_order": 2
+    }
+  ]
+}

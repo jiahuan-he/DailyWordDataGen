@@ -1,0 +1,41 @@
+{
+  "word": "standard",
+  "phonetic": "/ˈstændərd/",
+  "pos": [
+    "adjective",
+    "interjection",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "标准；规范；水准",
+  "examples": [
+    {
+      "sentence": "The restaurant lost a Michelin star for failing to maintain its standard.",
+      "style": "Contextual",
+      "translation": "这家餐厅因未能保持其水准，失去了一颗米其林星。",
+      "translated_word": "水准",
+      "display_order": 1
+    },
+    {
+      "sentence": "She holds herself to a higher standard than anyone could demand.",
+      "style": "Collocational",
+      "translation": "她对自己的要求，比任何人的期待都更严苛。",
+      "translated_word": "要求",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every standard we set reveals what we fear falling below.",
+      "style": "Philosophical",
+      "translation": "我们设定的每一条标准，都暴露了我们害怕跌落的底线。",
+      "translated_word": "标准",
+      "display_order": 3
+    },
+    {
+      "sentence": "Your standard becomes your floor, not your ceiling.",
+      "style": "Inspirational",
+      "translation": "你的标准会成为你的起点，而非终点。",
+      "translated_word": "标准",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "emergency",
+  "phonetic": "/ɪˈmɜːrdʒənsi/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "紧急情况；突发事件；危急时刻",
+  "examples": [
+    {
+      "sentence": "The hospital declared an emergency when the backup generators failed.",
+      "style": "Contextual",
+      "translation": "备用发电机故障后，医院宣布进入紧急状态。",
+      "translated_word": "紧急状态",
+      "display_order": 1
+    },
+    {
+      "sentence": "The governor declared a state of emergency ahead of the approaching storm.",
+      "style": "Formal",
+      "translation": "风暴来临前，州长宣布进入紧急状态。",
+      "translated_word": "紧急状态",
+      "display_order": 3
+    },
+    {
+      "sentence": "She noted every emergency exit on her first day at work.",
+      "style": "Collocational",
+      "translation": "入职第一天，她便记下了每一个紧急出口的位置。",
+      "translated_word": "紧急",
+      "display_order": 4
+    },
+    {
+      "sentence": "In that emergency, strangers became family.",
+      "style": "Intimate",
+      "translation": "在那场危难中，陌生人成了家人。",
+      "translated_word": "危难",
+      "display_order": 2
+    }
+  ]
+}

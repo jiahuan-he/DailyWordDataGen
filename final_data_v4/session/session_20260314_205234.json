@@ -1,0 +1,40 @@
+{
+  "word": "session",
+  "phonetic": "/ˈseʃ.ən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "一场；会议；一节课；会期",
+  "examples": [
+    {
+      "sentence": "The session ran late, but no one checked the clock.",
+      "style": "Contextual",
+      "translation": "那场会议拖得很晚，却没人看表。",
+      "translated_word": "会议",
+      "display_order": 1
+    },
+    {
+      "sentence": "Their weekly brainstorming sessions sparked the company's best ideas.",
+      "style": "Collocational",
+      "translation": "每周的头脑风暴会催生了公司最好的创意。",
+      "translated_word": "会",
+      "display_order": 3
+    },
+    {
+      "sentence": "That final studio session felt more like a farewell than a recording.",
+      "style": "Intimate",
+      "translation": "最后那场录音，与其说是制作，不如说是告别。",
+      "translated_word": "录音",
+      "display_order": 4
+    },
+    {
+      "sentence": "The emergency session convened at midnight to address the crisis.",
+      "style": "Formal",
+      "translation": "紧急会议于午夜召开，以应对这场危机。",
+      "translated_word": "会议",
+      "display_order": 2
+    }
+  ]
+}

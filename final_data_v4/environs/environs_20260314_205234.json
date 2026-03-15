@@ -1,0 +1,40 @@
+{
+  "word": "environs",
+  "phonetic": "/ɪnˈvaɪrənz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "周边地区；附近；邻近环境",
+  "examples": [
+    {
+      "sentence": "We spent the afternoon exploring the town and its quiet environs.",
+      "style": "Contextual",
+      "translation": "我们花了一个下午，探索小镇及其静谧的周边。",
+      "translated_word": "周边",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rapid development has reshaped the environs of the capital.",
+      "style": "Formal",
+      "translation": "快速发展已重塑了首都周边的面貌。",
+      "translated_word": "周边",
+      "display_order": 2
+    },
+    {
+      "sentence": "The monastery's environs held a silence older than the hills.",
+      "style": "Poetic",
+      "translation": "修道院四周笼罩着比群山更古老的寂静。",
+      "translated_word": "四周",
+      "display_order": 4
+    },
+    {
+      "sentence": "She found a studio in the artistic environs of the old quarter.",
+      "style": "Collocational",
+      "translation": "她在老城区充满艺术气息的街区找到了一间工作室。",
+      "translated_word": "街区",
+      "display_order": 3
+    }
+  ]
+}

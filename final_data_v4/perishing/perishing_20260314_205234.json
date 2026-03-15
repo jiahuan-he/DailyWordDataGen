@@ -1,0 +1,41 @@
+{
+  "word": "perishing",
+  "phonetic": "/ˈperɪʃɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "极冷的；该死的；要命的",
+  "examples": [
+    {
+      "sentence": "It's perishing outside; grab your thickest coat.",
+      "style": "Contextual",
+      "translation": "外面冷得要命，把最厚的大衣穿上。",
+      "translated_word": "要命",
+      "display_order": 1
+    },
+    {
+      "sentence": "The perishing wind cut through every layer we wore.",
+      "style": "Collocational",
+      "translation": "刺骨的寒风穿透了我们身上的每一层衣物。",
+      "translated_word": "刺骨",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her hands were always perishing cold, yet somehow the warmest I've ever held.",
+      "style": "Intimate",
+      "translation": "她的手总是冰凉彻骨，却是我握过的最温暖的手。",
+      "translated_word": "彻骨",
+      "display_order": 3
+    },
+    {
+      "sentence": "Dawn broke perishing and still, frost etching lace onto every window.",
+      "style": "Poetic",
+      "translation": "黎明在凛冽的寂静中降临，霜花在每扇窗上绣出蕾丝。",
+      "translated_word": "凛冽",
+      "display_order": 4
+    }
+  ]
+}

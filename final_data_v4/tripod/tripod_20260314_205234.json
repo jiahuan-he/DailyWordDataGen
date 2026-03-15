@@ -1,0 +1,40 @@
+{
+  "word": "tripod",
+  "phonetic": "/ˈtraɪpɑːd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "三脚架；支架",
+  "examples": [
+    {
+      "sentence": "Without a tripod, the long exposure shot would have blurred.",
+      "style": "Contextual",
+      "translation": "没有三脚架，长曝光的照片早就糊了。",
+      "translated_word": "三脚架",
+      "display_order": 2
+    },
+    {
+      "sentence": "She unfolded the tripod and mounted the telescope beneath the stars.",
+      "style": "Collocational",
+      "translation": "她展开三脚架，在星空下架好了望远镜。",
+      "translated_word": "三脚架",
+      "display_order": 1
+    },
+    {
+      "sentence": "That dented tripod traveled with me through twelve countries.",
+      "style": "Intimate",
+      "translation": "那只磕碰过的三脚架，陪我走过了十二个国家。",
+      "translated_word": "三脚架",
+      "display_order": 3
+    },
+    {
+      "sentence": "The tripod stood sentinel, awaiting the first light of dawn.",
+      "style": "Poetic",
+      "translation": "三脚架静静伫立，等候黎明的第一缕光。",
+      "translated_word": "三脚架",
+      "display_order": 4
+    }
+  ]
+}

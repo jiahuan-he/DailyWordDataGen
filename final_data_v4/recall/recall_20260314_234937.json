@@ -1,0 +1,40 @@
+{
+  "word": "recall",
+  "phonetic": "/rɪˈkɔːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "回忆；召回；使想起",
+  "examples": [
+    {
+      "sentence": "The scent of rain recalled her grandmother's garden.",
+      "style": "Contextual",
+      "translation": "雨的气息让她想起了祖母的花园。",
+      "translated_word": "想起",
+      "display_order": 1
+    },
+    {
+      "sentence": "Certain songs recall summers I thought I had forgotten.",
+      "style": "Intimate",
+      "translation": "某些歌曲唤回了我以为早已遗忘的夏天。",
+      "translated_word": "唤回",
+      "display_order": 2
+    },
+    {
+      "sentence": "We recall not what happened, but what we chose to keep.",
+      "style": "Philosophical",
+      "translation": "我们记住的，从来不是发生了什么，而是选择留下什么。",
+      "translated_word": "记住",
+      "display_order": 3
+    },
+    {
+      "sentence": "Autumn leaves recall spring's green in their final glow.",
+      "style": "Poetic",
+      "translation": "秋叶在最后的光芒里，追忆春日的青翠。",
+      "translated_word": "追忆",
+      "display_order": 4
+    }
+  ]
+}

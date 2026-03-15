@@ -1,0 +1,39 @@
+{
+  "word": "allotment",
+  "phonetic": "/əˈlɒtmənt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "份额；分配；（英）菜园地块",
+  "examples": [
+    {
+      "sentence": "Each team received an equal allotment of funding for the quarter.",
+      "style": "Contextual",
+      "translation": "每个团队获得了本季度等额的资金份额。",
+      "translated_word": "份额",
+      "display_order": 1
+    },
+    {
+      "sentence": "The strict time allotment forced us to prioritize ruthlessly.",
+      "style": "Collocational",
+      "translation": "严格的时间分配迫使我们果断取舍。",
+      "translated_word": "分配",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandfather spent his mornings at the allotment, tending tomatoes he never rushed to harvest.",
+      "style": "Intimate",
+      "translation": "祖父把清晨都花在菜园里，悉心照料那些他从不急于采摘的番茄。",
+      "translated_word": "菜园",
+      "display_order": 4
+    },
+    {
+      "sentence": "We measure success by what we build, rarely by how wisely we spend our allotment of days.",
+      "style": "Philosophical",
+      "translation": "我们以所建之物衡量成功，却鲜少审视自己如何支配有限的光阴。",
+      "translated_word": "有限",
+      "display_order": 3
+    }
+  ]
+}

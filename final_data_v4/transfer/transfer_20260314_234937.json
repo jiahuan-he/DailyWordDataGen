@@ -1,0 +1,40 @@
+{
+  "word": "transfer",
+  "phonetic": "/trænsˈfɜːr/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "转移；调动；转让；转账",
+  "examples": [
+    {
+      "sentence": "She transferred all her photos to the cloud before wiping the old phone.",
+      "style": "Contextual",
+      "translation": "她把所有照片转移到云端，然后清空了旧手机。",
+      "translated_word": "转移",
+      "display_order": 1
+    },
+    {
+      "sentence": "The embassy will transfer consular services to the new building starting Monday.",
+      "style": "Formal",
+      "translation": "大使馆将于周一起将领事服务迁至新楼。",
+      "translated_word": "迁",
+      "display_order": 3
+    },
+    {
+      "sentence": "Transfer the funds before noon; the account closes at three.",
+      "style": "Collocational",
+      "translation": "中午前把款转过去；账户三点就关了。",
+      "translated_word": "转",
+      "display_order": 2
+    },
+    {
+      "sentence": "The day I transferred to the coastal branch, salt air greeted me like an old promise finally kept.",
+      "style": "Intimate",
+      "translation": "调去海滨分部那天，咸涩的海风扑面而来，像一个终于兑现的旧日承诺。",
+      "translated_word": "调",
+      "display_order": 4
+    }
+  ]
+}

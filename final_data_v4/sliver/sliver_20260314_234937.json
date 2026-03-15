@@ -1,0 +1,40 @@
+{
+  "word": "sliver",
+  "phonetic": "/ˈslɪvər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "薄片；碎片；一丝；一线",
+  "examples": [
+    {
+      "sentence": "A sliver of glass was embedded in his palm.",
+      "style": "Contextual",
+      "translation": "一片玻璃碎片嵌入了他的手掌。",
+      "translated_word": "一片",
+      "display_order": 1
+    },
+    {
+      "sentence": "Through the curtains, a sliver of moonlight crossed the floor.",
+      "style": "Poetic",
+      "translation": "一缕月光穿过窗帘，横过地板。",
+      "translated_word": "一缕",
+      "display_order": 3
+    },
+    {
+      "sentence": "She held onto a sliver of hope that the letter would arrive.",
+      "style": "Collocational",
+      "translation": "她心存一线希望，盼着那封信能寄到。",
+      "translated_word": "一线",
+      "display_order": 4
+    },
+    {
+      "sentence": "That summer, we shared a sliver of cake and an entire afternoon.",
+      "style": "Intimate",
+      "translation": "那年夏天，我们分食一小块蛋糕，共度一整个下午。",
+      "translated_word": "一小块",
+      "display_order": 2
+    }
+  ]
+}

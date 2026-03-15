@@ -1,0 +1,40 @@
+{
+  "word": "respond",
+  "phonetic": "/rɪˈspɑːnd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "回应；回复；作出反应",
+  "examples": [
+    {
+      "sentence": "She texted twice; he never responded.",
+      "style": "Contextual",
+      "translation": "她发了两条消息；他始终没有回复。",
+      "translated_word": "回复",
+      "display_order": 1
+    },
+    {
+      "sentence": "Officials have yet to respond to the investigation findings.",
+      "style": "Formal",
+      "translation": "官员尚未就调查结果作出回应。",
+      "translated_word": "回应",
+      "display_order": 2
+    },
+    {
+      "sentence": "We cannot control what happens, only how we respond.",
+      "style": "Philosophical",
+      "translation": "我们无法控制发生的事，唯能选择如何回应。",
+      "translated_word": "回应",
+      "display_order": 3
+    },
+    {
+      "sentence": "His eyes responded before his words could.",
+      "style": "Intimate",
+      "translation": "他的眼神比话语更先作出回应。",
+      "translated_word": "回应",
+      "display_order": 4
+    }
+  ]
+}

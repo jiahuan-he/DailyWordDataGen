@@ -1,0 +1,40 @@
+{
+  "word": "wallop",
+  "phonetic": "/ˈwɒləp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "猛击；痛打；狠狠打败",
+  "examples": [
+    {
+      "sentence": "He walloped the punching bag until his knuckles ached.",
+      "style": "Contextual",
+      "translation": "他猛击沙袋，直到指关节隐隐作痛。",
+      "translated_word": "猛击",
+      "display_order": 1
+    },
+    {
+      "sentence": "She walloped the ball clean over the outfield fence.",
+      "style": "Collocational",
+      "translation": "她一记重击，将球直接送出了外野围栏。",
+      "translated_word": "重击",
+      "display_order": 3
+    },
+    {
+      "sentence": "The underdog team walloped the reigning champions in a stunning upset.",
+      "style": "Formal",
+      "translation": "这支黑马球队爆冷击溃了卫冕冠军。",
+      "translated_word": "击溃",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother used to wallop rugs on the clothesline every spring; the dust clouds made us sneeze and laugh.",
+      "style": "Intimate",
+      "translation": "每年春天，奶奶都会把地毯挂在晾衣绳上使劲拍打；扬起的灰尘让我们又打喷嚏又笑个不停。",
+      "translated_word": "拍打",
+      "display_order": 2
+    }
+  ]
+}

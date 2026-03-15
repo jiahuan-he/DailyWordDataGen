@@ -1,0 +1,40 @@
+{
+  "word": "ethical",
+  "phonetic": "/ˈeθɪkəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "道德的；合乎伦理的；正当的",
+  "examples": [
+    {
+      "sentence": "She refused the offer; it wasn't ethical to accept gifts from vendors.",
+      "style": "Contextual",
+      "translation": "她拒绝了那份礼物；接受供应商的馈赠有违职业操守。",
+      "translated_word": "职业操守",
+      "display_order": 2
+    },
+    {
+      "sentence": "The company's ethical sourcing policy has become its strongest competitive advantage.",
+      "style": "Formal",
+      "translation": "公司的道德采购政策已成为其最大的竞争优势。",
+      "translated_word": "道德",
+      "display_order": 1
+    },
+    {
+      "sentence": "Profitable and ethical are not opposites; they are partners.",
+      "style": "Contrastive",
+      "translation": "盈利与道德并非对立，而是同行。",
+      "translated_word": "道德",
+      "display_order": 3
+    },
+    {
+      "sentence": "Being ethical is easy when it costs you nothing.",
+      "style": "Philosophical",
+      "translation": "道德从不昂贵时，人人都是君子。",
+      "translated_word": "道德",
+      "display_order": 4
+    }
+  ]
+}

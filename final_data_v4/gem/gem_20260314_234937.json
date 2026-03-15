@@ -1,0 +1,40 @@
+{
+  "word": "gem",
+  "phonetic": "/dʒem/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "宝石；珍品；难得的人",
+  "examples": [
+    {
+      "sentence": "This café is a hidden gem; few locals even know it exists.",
+      "style": "Collocational",
+      "translation": "这家咖啡馆是个隐秘宝藏，连本地人都鲜有知晓。",
+      "translated_word": "宝藏",
+      "display_order": 3
+    },
+    {
+      "sentence": "Morning light caught the gem, scattering rainbows across her palm.",
+      "style": "Poetic",
+      "translation": "晨光拂过宝石，彩虹碎落她掌心。",
+      "translated_word": "宝石",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother was a gem; her kindness shaped everything I became.",
+      "style": "Intimate",
+      "translation": "祖母是我生命中的珍宝，她的善良塑造了我的一切。",
+      "translated_word": "珍宝",
+      "display_order": 2
+    },
+    {
+      "sentence": "We often overlook the gems closest to us, chasing distant glitter.",
+      "style": "Philosophical",
+      "translation": "我们常追逐远方的光芒，却忽略了身边的珍宝。",
+      "translated_word": "珍宝",
+      "display_order": 4
+    }
+  ]
+}

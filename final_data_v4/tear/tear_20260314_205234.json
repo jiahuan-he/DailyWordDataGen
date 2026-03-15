@@ -1,0 +1,40 @@
+{
+  "word": "tear",
+  "phonetic": "/tɪr/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "眼泪；泪珠；泪水",
+  "examples": [
+    {
+      "sentence": "A tear fell onto the photograph, blurring the smile it carried.",
+      "style": "Poetic",
+      "translation": "泪珠落在照片上，模糊了那抹微笑。",
+      "translated_word": "泪珠",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her tear landed on my hand; neither of us moved.",
+      "style": "Intimate",
+      "translation": "她的泪落在我手背上；我们都没有动。",
+      "translated_word": "泪",
+      "display_order": 1
+    },
+    {
+      "sentence": "He blinked hard, refusing to let a single tear fall.",
+      "style": "Contextual",
+      "translation": "他使劲眨了眨眼，不让一滴泪落下。",
+      "translated_word": "泪",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some truths arrive only as tears.",
+      "style": "Philosophical",
+      "translation": "有些真相，只以泪水的形式抵达。",
+      "translated_word": "泪水",
+      "display_order": 4
+    }
+  ]
+}

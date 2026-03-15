@@ -1,0 +1,42 @@
+{
+  "word": "rough",
+  "phonetic": "/rʌf/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "粗糙；艰难；粗略；粗暴",
+  "examples": [
+    {
+      "sentence": "The bark felt rough beneath her fingers.",
+      "style": "Contextual",
+      "translation": "树皮在她指尖下粗糙而真实。",
+      "translated_word": "粗糙",
+      "display_order": 1
+    },
+    {
+      "sentence": "It's only a rough estimate, but close enough.",
+      "style": "Collocational",
+      "translation": "只是个粗略的估计，但八九不离十。",
+      "translated_word": "粗略",
+      "display_order": 3
+    },
+    {
+      "sentence": "That year was rough, but it taught me who stayed.",
+      "style": "Intimate",
+      "translation": "那一年很难熬，却让我看清了谁会留下。",
+      "translated_word": "难熬",
+      "display_order": 4
+    },
+    {
+      "sentence": "His voice was rough, but his words were tender.",
+      "style": "Contrastive",
+      "translation": "他嗓音粗粝，话语却温柔。",
+      "translated_word": "粗粝",
+      "display_order": 2
+    }
+  ]
+}

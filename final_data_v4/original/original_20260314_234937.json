@@ -1,0 +1,40 @@
+{
+  "word": "original",
+  "phonetic": "/əˈrɪdʒɪnəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "原创的；最初的；独特的",
+  "examples": [
+    {
+      "sentence": "The museum only displays original manuscripts, never reproductions.",
+      "style": "Contextual",
+      "translation": "这家博物馆只展出原稿，从不陈列复制品。",
+      "translated_word": "原",
+      "display_order": 1
+    },
+    {
+      "sentence": "Copies multiply endlessly; original work remains singular.",
+      "style": "Contrastive",
+      "translation": "复制品可以无限增殖；原创之作始终独一无二。",
+      "translated_word": "原创",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every child is born original; sameness is slowly taught.",
+      "style": "Philosophical",
+      "translation": "每个孩子生来独特；雷同是后天慢慢习得的。",
+      "translated_word": "独特",
+      "display_order": 4
+    },
+    {
+      "sentence": "Your most original ideas arrive when you stop chasing trends.",
+      "style": "Inspirational",
+      "translation": "当你不再追逐潮流，最具原创性的想法便会到来。",
+      "translated_word": "原创",
+      "display_order": 2
+    }
+  ]
+}

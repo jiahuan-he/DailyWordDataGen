@@ -1,0 +1,40 @@
+{
+  "word": "cleanse",
+  "phonetic": "/klenz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "净化；清洁；洗涤",
+  "examples": [
+    {
+      "sentence": "She uses micellar water every night to cleanse her face.",
+      "style": "Contextual",
+      "translation": "她每晚用卸妆水清洁面部。",
+      "translated_word": "清洁",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rain arrived at dusk to cleanse the summer dust from every rooftop.",
+      "style": "Poetic",
+      "translation": "黄昏时分，一场雨洗净了屋顶上的夏日尘埃。",
+      "translated_word": "洗净",
+      "display_order": 2
+    },
+    {
+      "sentence": "After the breakup, I traveled alone to cleanse my heart of all bitterness.",
+      "style": "Intimate",
+      "translation": "分手后，我独自旅行，洗去心中的苦涩。",
+      "translated_word": "洗去",
+      "display_order": 3
+    },
+    {
+      "sentence": "We cleanse our homes far more often than we cleanse our thoughts.",
+      "style": "Philosophical",
+      "translation": "我们清扫房间的频率，远超过整理内心的次数。",
+      "translated_word": "清扫",
+      "display_order": 4
+    }
+  ]
+}

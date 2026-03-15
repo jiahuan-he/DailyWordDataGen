@@ -1,0 +1,40 @@
+{
+  "word": "excellent",
+  "phonetic": "/ˈeksələnt/",
+  "pos": [
+    "adjective",
+    "adverb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "优秀；卓越；极好",
+  "examples": [
+    {
+      "sentence": "The coffee here is excellent; I return every morning.",
+      "style": "Contextual",
+      "translation": "这里的咖啡很棒；我每天早上都会再来。",
+      "translated_word": "很棒",
+      "display_order": 1
+    },
+    {
+      "sentence": "The committee noted the candidate's excellent qualifications.",
+      "style": "Formal",
+      "translation": "委员会注意到该候选人的优秀资质。",
+      "translated_word": "优秀",
+      "display_order": 3
+    },
+    {
+      "sentence": "She has excellent taste in literature.",
+      "style": "Collocational",
+      "translation": "她在文学方面品味卓越。",
+      "translated_word": "卓越",
+      "display_order": 2
+    },
+    {
+      "sentence": "Excellent work comes from caring deeply about the details.",
+      "style": "Inspirational",
+      "translation": "优秀的作品源于对细节的深切关注。",
+      "translated_word": "优秀",
+      "display_order": 4
+    }
+  ]
+}

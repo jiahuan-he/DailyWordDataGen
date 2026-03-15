@@ -1,0 +1,40 @@
+{
+  "word": "float",
+  "phonetic": "/floʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "漂浮；飘动；浮现；悠然移动",
+  "examples": [
+    {
+      "sentence": "A single leaf floats downstream, unhurried by the current.",
+      "style": "Contextual",
+      "translation": "一片落叶顺流漂浮，不为水流所急。",
+      "translated_word": "漂浮",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her voice floats through the corridor, soft as dust in afternoon light.",
+      "style": "Poetic",
+      "translation": "她的声音飘过走廊，轻柔如午后光线中的微尘。",
+      "translated_word": "飘过",
+      "display_order": 3
+    },
+    {
+      "sentence": "Certainty sinks; doubt floats.",
+      "style": "Philosophical",
+      "translation": "确信沉底；疑虑上浮。",
+      "translated_word": "上浮",
+      "display_order": 4
+    },
+    {
+      "sentence": "On quiet evenings, we would float in the pool and watch planes cross the sky.",
+      "style": "Intimate",
+      "translation": "静谧的傍晚，我们漂浮在泳池里，看飞机划过天空。",
+      "translated_word": "漂浮",
+      "display_order": 1
+    }
+  ]
+}

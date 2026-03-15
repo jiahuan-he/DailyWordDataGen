@@ -1,0 +1,39 @@
+{
+  "word": "filament",
+  "phonetic": "/ˈfɪləmənt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "细丝；灯丝；纤维",
+  "examples": [
+    {
+      "sentence": "The old bulb flickered once, its filament finally giving out.",
+      "style": "Contextual",
+      "translation": "老旧的灯泡闪了一下，灯丝终于烧断了。",
+      "translated_word": "灯丝",
+      "display_order": 1
+    },
+    {
+      "sentence": "A single filament of spider silk caught the morning light.",
+      "style": "Poetic",
+      "translation": "一缕蛛丝捕获了晨光。",
+      "translated_word": "丝",
+      "display_order": 2
+    },
+    {
+      "sentence": "Researchers developed carbon filaments stronger than steel at a fraction of the weight.",
+      "style": "Formal",
+      "translation": "研究人员研发出强度超过钢铁、重量却只有其几分之一的碳纤维丝。",
+      "translated_word": "纤维丝",
+      "display_order": 4
+    },
+    {
+      "sentence": "Trust is a filament: invisible until it breaks.",
+      "style": "Philosophical",
+      "translation": "信任是一根细丝：断裂之前，无人察觉。",
+      "translated_word": "细丝",
+      "display_order": 3
+    }
+  ]
+}

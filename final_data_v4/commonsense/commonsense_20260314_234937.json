@@ -1,0 +1,39 @@
+{
+  "word": "commonsense",
+  "phonetic": "/ˌkɒmənˈsens/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "合理的；明智的；务实的",
+  "examples": [
+    {
+      "sentence": "A commonsense approach saved us hours of debate.",
+      "style": "Contextual",
+      "translation": "一个合理的方案，让我们省去了数小时的争论。",
+      "translated_word": "合理",
+      "display_order": 2
+    },
+    {
+      "sentence": "The committee proposed commonsense reforms to streamline approval.",
+      "style": "Formal",
+      "translation": "委员会提出了务实的改革方案，以简化审批流程。",
+      "translated_word": "务实",
+      "display_order": 3
+    },
+    {
+      "sentence": "Commonsense precautions prevent most kitchen accidents.",
+      "style": "Collocational",
+      "translation": "基本的防范措施可以避免大多数厨房事故。",
+      "translated_word": "基本",
+      "display_order": 1
+    },
+    {
+      "sentence": "Wisdom often hides in commonsense truths we dismiss as obvious.",
+      "style": "Philosophical",
+      "translation": "智慧常藏于那些被我们视为浅显的朴素道理之中。",
+      "translated_word": "朴素",
+      "display_order": 4
+    }
+  ]
+}

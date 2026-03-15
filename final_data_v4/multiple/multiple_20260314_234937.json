@@ -1,0 +1,40 @@
+{
+  "word": "multiple",
+  "phonetic": "/ˈmʌltɪpl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "多个的；多重的；多种的",
+  "examples": [
+    {
+      "sentence": "She checked multiple times before pressing send.",
+      "style": "Contextual",
+      "translation": "她反复检查了好几遍，才按下发送键。",
+      "translated_word": "好几",
+      "display_order": 1
+    },
+    {
+      "sentence": "The report cited multiple violations of safety protocol.",
+      "style": "Formal",
+      "translation": "报告指出了多项安全违规行为。",
+      "translated_word": "多项",
+      "display_order": 3
+    },
+    {
+      "sentence": "Multiple factors shaped the final outcome.",
+      "style": "Collocational",
+      "translation": "多重因素共同塑造了最终结果。",
+      "translated_word": "多重",
+      "display_order": 2
+    },
+    {
+      "sentence": "We contain multiple selves, each surfacing for different audiences.",
+      "style": "Philosophical",
+      "translation": "我们内心住着多个自我，在不同的人面前，浮现的面孔也各不相同。",
+      "translated_word": "多个",
+      "display_order": 4
+    }
+  ]
+}

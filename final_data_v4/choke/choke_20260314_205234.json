@@ -1,0 +1,40 @@
+{
+  "word": "choke",
+  "phonetic": "/tʃoʊk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "窒息；噎住；堵塞；怯场",
+  "examples": [
+    {
+      "sentence": "He swallowed too fast and began to choke.",
+      "style": "Contextual",
+      "translation": "他吞得太急，呛住了。",
+      "translated_word": "呛住",
+      "display_order": 1
+    },
+    {
+      "sentence": "The words I'd rehearsed choked in my throat the moment she walked in.",
+      "style": "Intimate",
+      "translation": "排练了无数遍的话，在她走进来的那一刻，全堵在了喉咙里。",
+      "translated_word": "堵在",
+      "display_order": 2
+    },
+    {
+      "sentence": "Weeds choke the garden where we once planted marigolds.",
+      "style": "Poetic",
+      "translation": "杂草吞没了花园，那里曾种满金盏花。",
+      "translated_word": "吞没",
+      "display_order": 4
+    },
+    {
+      "sentence": "Smoke from the wildfire choked the entire valley.",
+      "style": "Collocational",
+      "translation": "山火的浓烟笼罩了整个山谷。",
+      "translated_word": "笼罩",
+      "display_order": 3
+    }
+  ]
+}

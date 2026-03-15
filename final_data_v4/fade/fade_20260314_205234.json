@@ -1,0 +1,41 @@
+{
+  "word": "fade",
+  "phonetic": "/feɪd/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "褪色；消退；逐渐消失",
+  "examples": [
+    {
+      "sentence": "The photograph had faded, but her smile remained sharp.",
+      "style": "Poetic",
+      "translation": "照片已经褪色，但她的笑容依然清晰。",
+      "translated_word": "褪色",
+      "display_order": 1
+    },
+    {
+      "sentence": "His voice began to fade as the train pulled away.",
+      "style": "Contextual",
+      "translation": "火车渐行渐远，他的声音开始消散。",
+      "translated_word": "消散",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some friendships fade; the rare ones simply wait.",
+      "style": "Philosophical",
+      "translation": "有些友谊会消逝；珍贵的那些只是在等待。",
+      "translated_word": "消逝",
+      "display_order": 3
+    },
+    {
+      "sentence": "The summer we met feels closer than yesterday, yet it fades a little more each year.",
+      "style": "Intimate",
+      "translation": "我们相遇的那个夏天比昨日更近，却一年比一年模糊。",
+      "translated_word": "模糊",
+      "display_order": 4
+    }
+  ]
+}

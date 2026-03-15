@@ -1,0 +1,40 @@
+{
+  "word": "shard",
+  "phonetic": "/ʃɑːrd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "碎片；残片；破片",
+  "examples": [
+    {
+      "sentence": "She swept the shards into a dustpan, careful not to cut her hands.",
+      "style": "Contextual",
+      "translation": "她把碎片扫进簸箕，小心翼翼地避免划伤双手。",
+      "translated_word": "碎片",
+      "display_order": 1
+    },
+    {
+      "sentence": "The shards glittered like fallen stars on wet pavement.",
+      "style": "Poetic",
+      "translation": "碎片在湿漉漉的路面上闪烁，如坠落的星辰。",
+      "translated_word": "碎片",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some shards cut deeper than the whole ever could.",
+      "style": "Philosophical",
+      "translation": "有些碎片比完整时更锋利。",
+      "translated_word": "碎片",
+      "display_order": 4
+    },
+    {
+      "sentence": "Shards of memory surfaced without warning.",
+      "style": "Collocational",
+      "translation": "记忆的碎片毫无预兆地浮现。",
+      "translated_word": "碎片",
+      "display_order": 3
+    }
+  ]
+}

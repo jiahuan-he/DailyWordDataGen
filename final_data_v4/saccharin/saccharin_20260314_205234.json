@@ -1,0 +1,39 @@
+{
+  "word": "saccharin",
+  "phonetic": "/ˈsækərɪn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "糖精；人工甜味剂",
+  "examples": [
+    {
+      "sentence": "The pink packets on the table contain saccharin, not sugar.",
+      "style": "Contextual",
+      "translation": "桌上的粉色小包装里是糖精，不是糖。",
+      "translated_word": "糖精",
+      "display_order": 2
+    },
+    {
+      "sentence": "Saccharin was the first artificial sweetener approved for commercial use.",
+      "style": "Formal",
+      "translation": "糖精是首个获批商用的人工甜味剂。",
+      "translated_word": "糖精",
+      "display_order": 1
+    },
+    {
+      "sentence": "Unlike sugar, saccharin passes through the body without leaving calories behind.",
+      "style": "Contrastive",
+      "translation": "与糖不同，糖精在体内代谢后不留下任何热量。",
+      "translated_word": "糖精",
+      "display_order": 3
+    },
+    {
+      "sentence": "Most diet sodas list saccharin among their key ingredients.",
+      "style": "Collocational",
+      "translation": "大多数无糖汽水的配料表里都有糖精。",
+      "translated_word": "糖精",
+      "display_order": 4
+    }
+  ]
+}

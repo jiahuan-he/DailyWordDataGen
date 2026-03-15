@@ -1,0 +1,39 @@
+{
+  "word": "lukewarm",
+  "phonetic": "/ˌluːkˈwɔːm/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "微温的；不冷不热的；冷淡的",
+  "examples": [
+    {
+      "sentence": "The tea sat lukewarm, forgotten on the windowsill.",
+      "style": "Contextual",
+      "translation": "茶搁在窗台上，已然微凉，无人问津。",
+      "translated_word": "微凉",
+      "display_order": 1
+    },
+    {
+      "sentence": "The board gave the merger a lukewarm reception.",
+      "style": "Collocational",
+      "translation": "董事会对这次合并反应冷淡。",
+      "translated_word": "冷淡",
+      "display_order": 3
+    },
+    {
+      "sentence": "Lukewarm convictions rarely survive opposition.",
+      "style": "Philosophical",
+      "translation": "不冷不热的信念，难以经受考验。",
+      "translated_word": "不冷不热",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her goodbye was lukewarm; I knew then it was truly over.",
+      "style": "Intimate",
+      "translation": "她的道别淡淡的；那一刻我便明白，一切真的结束了。",
+      "translated_word": "淡淡的",
+      "display_order": 2
+    }
+  ]
+}

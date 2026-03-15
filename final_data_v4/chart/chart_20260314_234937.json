@@ -1,0 +1,40 @@
+{
+  "word": "chart",
+  "phonetic": "/tʃɑːrt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "图表；海图；排行榜",
+  "examples": [
+    {
+      "sentence": "The chart on the wall told the whole story: sales had doubled.",
+      "style": "Contextual",
+      "translation": "墙上的图表说明了一切：销售额翻了一番。",
+      "translated_word": "图表",
+      "display_order": 1
+    },
+    {
+      "sentence": "According to the latest chart, renewable energy now powers one-third of the grid.",
+      "style": "Formal",
+      "translation": "根据最新图表，可再生能源已占电网供电量的三分之一。",
+      "translated_word": "图表",
+      "display_order": 3
+    },
+    {
+      "sentence": "She traced her finger across the pie chart, pausing at the largest slice.",
+      "style": "Collocational",
+      "translation": "她的手指划过饼图，在最大的那一块上停了下来。",
+      "translated_word": "饼图",
+      "display_order": 2
+    },
+    {
+      "sentence": "A chart reveals what raw numbers hide: the shape of time itself.",
+      "style": "Philosophical",
+      "translation": "图表揭示了数字背后的秘密：时间本身的轮廓。",
+      "translated_word": "图表",
+      "display_order": 4
+    }
+  ]
+}

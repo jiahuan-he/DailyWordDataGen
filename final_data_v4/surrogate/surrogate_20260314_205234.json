@@ -1,0 +1,41 @@
+{
+  "word": "surrogate",
+  "phonetic": "/ˈsɝːəɡət/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "代理人；替代者；代孕者",
+  "examples": [
+    {
+      "sentence": "Her grandmother became a surrogate for the mother she never knew.",
+      "style": "Contextual",
+      "translation": "祖母成了她从未谋面的母亲的替代者。",
+      "translated_word": "替代者",
+      "display_order": 1
+    },
+    {
+      "sentence": "The court appointed a legal surrogate to make healthcare decisions on his behalf.",
+      "style": "Formal",
+      "translation": "法院指定了一名法定代理人，代为处理其医疗决策。",
+      "translated_word": "代理人",
+      "display_order": 2
+    },
+    {
+      "sentence": "We seek surrogates for what we've lost, only to find they become something entirely their own.",
+      "style": "Philosophical",
+      "translation": "我们为失去的寻找替代，却发现它们终将成为独立的存在。",
+      "translated_word": "替代",
+      "display_order": 4
+    },
+    {
+      "sentence": "Books were my surrogates for friendship during those quiet, solitary years.",
+      "style": "Intimate",
+      "translation": "在那些安静而孤独的年月里，书籍是我友谊的替代。",
+      "translated_word": "替代",
+      "display_order": 3
+    }
+  ]
+}

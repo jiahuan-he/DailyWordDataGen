@@ -1,0 +1,40 @@
+{
+  "word": "homestead",
+  "phonetic": "/ˈhoʊmˌsted/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "宅地；农庄；家园",
+  "examples": [
+    {
+      "sentence": "The old homestead sat at the end of a dirt road, surrounded by wheat fields.",
+      "style": "Contextual",
+      "translation": "那座老宅坐落在土路尽头，四周环绕着麦田。",
+      "translated_word": "宅",
+      "display_order": 1
+    },
+    {
+      "sentence": "Smoke curled from the homestead chimney as autumn painted the hills gold.",
+      "style": "Poetic",
+      "translation": "炊烟从农庄的烟囱袅袅升起，秋色将山丘染成金黄。",
+      "translated_word": "农庄",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandfather's homestead still smells of cedar and woodsmoke.",
+      "style": "Intimate",
+      "translation": "祖父的家园至今仍弥漫着雪松与炉火的气息。",
+      "translated_word": "家园",
+      "display_order": 3
+    },
+    {
+      "sentence": "A homestead is not just property; it is where generations take root.",
+      "style": "Philosophical",
+      "translation": "宅地不仅是产业，更是世代扎根之所。",
+      "translated_word": "宅地",
+      "display_order": 4
+    }
+  ]
+}

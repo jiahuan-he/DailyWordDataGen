@@ -1,0 +1,40 @@
+{
+  "word": "shade",
+  "phonetic": "/ʃeɪd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "阴凉；阴影；色调；细微差别",
+  "examples": [
+    {
+      "sentence": "The café's awning offered just enough shade to read outside.",
+      "style": "Contextual",
+      "translation": "咖啡馆的遮阳篷刚好能让人在户外读书。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "Afternoon light fell in slants; the shade pooled like cool water.",
+      "style": "Poetic",
+      "translation": "午后的光线斜斜落下，阴凉如水洼般汇聚。",
+      "translated_word": "阴凉",
+      "display_order": 3
+    },
+    {
+      "sentence": "This wall would look better in a warmer shade of gray.",
+      "style": "Collocational",
+      "translation": "这面墙用暖一点的灰色会更好看。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "My father always parked under trees; he believed shade was a gift not to waste.",
+      "style": "Intimate",
+      "translation": "父亲总把车停在树下，他觉得阴凉是不该浪费的馈赠。",
+      "translated_word": "阴凉",
+      "display_order": 1
+    }
+  ]
+}

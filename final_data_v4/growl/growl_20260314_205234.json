@@ -1,0 +1,40 @@
+{
+  "word": "growl",
+  "phonetic": "/ɡraʊl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "低吼；咆哮；怒吼",
+  "examples": [
+    {
+      "sentence": "Thunder growled in the distance, urging us to find shelter.",
+      "style": "Contextual",
+      "translation": "远处雷声低沉作响，催促我们寻处避雨。",
+      "translated_word": "低沉作响",
+      "display_order": 3
+    },
+    {
+      "sentence": "The sea growled against the cliffs, restless and untamed.",
+      "style": "Poetic",
+      "translation": "海浪撞击礁石，低吼不息，桀骜难驯。",
+      "translated_word": "低吼",
+      "display_order": 4
+    },
+    {
+      "sentence": "My stomach growled during the meeting; I pretended not to hear.",
+      "style": "Intimate",
+      "translation": "会议中肚子咕咕叫起来；我假装没听见。",
+      "translated_word": "咕咕叫",
+      "display_order": 1
+    },
+    {
+      "sentence": "The old engine growled to life after years of silence.",
+      "style": "Collocational",
+      "translation": "沉寂多年的老引擎轰然发动。",
+      "translated_word": "轰然",
+      "display_order": 2
+    }
+  ]
+}

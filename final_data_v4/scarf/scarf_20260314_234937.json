@@ -1,0 +1,40 @@
+{
+  "word": "scarf",
+  "phonetic": "/skɑːrf/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "围巾；头巾；披肩",
+  "examples": [
+    {
+      "sentence": "The cold bit hard, so she pulled the scarf tighter.",
+      "style": "Contextual",
+      "translation": "寒意袭来，她把围巾裹得更紧了些。",
+      "translated_word": "围巾",
+      "display_order": 1
+    },
+    {
+      "sentence": "She loosely tied a silk scarf over her hair before the convertible ride.",
+      "style": "Collocational",
+      "translation": "敞篷车启动前，她用丝巾轻轻挽住了发。",
+      "translated_word": "丝巾",
+      "display_order": 4
+    },
+    {
+      "sentence": "A red scarf against grey snow: the simplest kind of beauty.",
+      "style": "Poetic",
+      "translation": "灰白雪地上的一抹红围巾：最朴素的美。",
+      "translated_word": "围巾",
+      "display_order": 3
+    },
+    {
+      "sentence": "That scarf was his last gift; I wear it every December.",
+      "style": "Intimate",
+      "translation": "那条围巾是他最后的礼物；每年十二月，我都会戴上它。",
+      "translated_word": "围巾",
+      "display_order": 2
+    }
+  ]
+}

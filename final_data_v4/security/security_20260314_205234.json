@@ -1,0 +1,39 @@
+{
+  "word": "security",
+  "phonetic": "/sɪˈkjʊərɪti/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "安全；保障；安心；保卫",
+  "examples": [
+    {
+      "sentence": "With the new alarm installed, she finally felt a sense of security.",
+      "style": "Contextual",
+      "translation": "装上新的警报器后，她终于有了安全感。",
+      "translated_word": "安全感",
+      "display_order": 1
+    },
+    {
+      "sentence": "Security is not the absence of danger; it is the presence of trust.",
+      "style": "Philosophical",
+      "translation": "安全感并非源于危险的消失，而是信任的存在。",
+      "translated_word": "安全感",
+      "display_order": 4
+    },
+    {
+      "sentence": "In her voice, I found a security no locked door could offer.",
+      "style": "Intimate",
+      "translation": "在她的声音里，我找到了任何门锁都给不了的安心。",
+      "translated_word": "安心",
+      "display_order": 3
+    },
+    {
+      "sentence": "He traded a higher salary for job security.",
+      "style": "Collocational",
+      "translation": "他放弃了高薪，换取一份稳定的工作。",
+      "translated_word": "稳定",
+      "display_order": 2
+    }
+  ]
+}

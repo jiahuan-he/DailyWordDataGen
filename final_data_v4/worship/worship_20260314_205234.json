@@ -1,0 +1,40 @@
+{
+  "word": "worship",
+  "phonetic": "/ˈwɜːʃɪp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "崇拜；敬仰；膜拜",
+  "examples": [
+    {
+      "sentence": "She worships the ground her grandmother walks on.",
+      "style": "Contextual",
+      "translation": "她对祖母敬若神明。",
+      "translated_word": "敬若神明",
+      "display_order": 2
+    },
+    {
+      "sentence": "We worship certainty, yet growth lives in doubt.",
+      "style": "Philosophical",
+      "translation": "我们崇拜确定性，成长却寓于疑惑之中。",
+      "translated_word": "崇拜",
+      "display_order": 4
+    },
+    {
+      "sentence": "Morning light filtered through stained glass as the villagers worshipped in silence.",
+      "style": "Poetic",
+      "translation": "晨光穿透彩窗，村民们在静默中祈祷。",
+      "translated_word": "祈祷",
+      "display_order": 1
+    },
+    {
+      "sentence": "My father never said he loved us; he worshipped through small repairs and early mornings.",
+      "style": "Intimate",
+      "translation": "父亲从未说过爱我们；他的崇敬藏在修修补补和早起的清晨里。",
+      "translated_word": "崇敬",
+      "display_order": 3
+    }
+  ]
+}

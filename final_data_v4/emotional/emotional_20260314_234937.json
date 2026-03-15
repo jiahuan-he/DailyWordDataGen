@@ -1,0 +1,39 @@
+{
+  "word": "emotional",
+  "phonetic": "/ɪˈmoʊʃənl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "情感的；激动的；易动情的",
+  "examples": [
+    {
+      "sentence": "The documentary was too emotional for a casual Friday night.",
+      "style": "Contextual",
+      "translation": "这部纪录片太催泪了，不适合轻松的周五夜晚。",
+      "translated_word": "催泪",
+      "display_order": 2
+    },
+    {
+      "sentence": "She grew emotional at the sight of snow; it always reminded her of home.",
+      "style": "Poetic",
+      "translation": "她看见雪就会动情；那总让她想起故乡。",
+      "translated_word": "动情",
+      "display_order": 1
+    },
+    {
+      "sentence": "I become emotional every time I visit that old bookshop.",
+      "style": "Intimate",
+      "translation": "每次走进那家旧书店，我都会心生感慨。",
+      "translated_word": "感慨",
+      "display_order": 3
+    },
+    {
+      "sentence": "The emotional cost of silence often exceeds the risk of speaking.",
+      "style": "Philosophical",
+      "translation": "沉默的情感代价，往往超过开口的风险。",
+      "translated_word": "情感",
+      "display_order": 4
+    }
+  ]
+}

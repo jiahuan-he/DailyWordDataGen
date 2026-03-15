@@ -1,0 +1,40 @@
+{
+  "word": "hunger",
+  "phonetic": "/ˈhʌŋɡər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "饥饿；渴望；饥荒",
+  "examples": [
+    {
+      "sentence": "The smell of fresh bread sharpened his hunger.",
+      "style": "Contextual",
+      "translation": "新鲜面包的香气唤醒了他的饥饿。",
+      "translated_word": "饥饿",
+      "display_order": 1
+    },
+    {
+      "sentence": "True hunger reveals itself only when abundance fades.",
+      "style": "Philosophical",
+      "translation": "真正的饥饿，只在富足消逝后才显露。",
+      "translated_word": "饥饿",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her hunger was quiet: a hollow beneath the ribs where warmth once lived.",
+      "style": "Poetic",
+      "translation": "她的渴望是沉默的：肋骨之下，一处曾有温暖栖息的空洞。",
+      "translated_word": "渴望",
+      "display_order": 4
+    },
+    {
+      "sentence": "Let your hunger for growth be louder than your fear of failure.",
+      "style": "Inspirational",
+      "translation": "让你对成长的渴望，盖过对失败的恐惧。",
+      "translated_word": "渴望",
+      "display_order": 2
+    }
+  ]
+}

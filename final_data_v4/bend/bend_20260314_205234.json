@@ -1,0 +1,40 @@
+{
+  "word": "bend",
+  "phonetic": "/bend/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "弯曲；屈服；俯身",
+  "examples": [
+    {
+      "sentence": "The river bends sharply before reaching the village.",
+      "style": "Contextual",
+      "translation": "河流在抵达村庄前急转而过。",
+      "translated_word": "转",
+      "display_order": 1
+    },
+    {
+      "sentence": "Willows bend toward the water, as if listening to its secrets.",
+      "style": "Poetic",
+      "translation": "柳枝低垂向水面，似在倾听它的秘语。",
+      "translated_word": "低垂",
+      "display_order": 2
+    },
+    {
+      "sentence": "Those who bend with the storm often outlast those who stand rigid.",
+      "style": "Philosophical",
+      "translation": "随风而屈者，往往比僵立不动者更能持久。",
+      "translated_word": "屈",
+      "display_order": 3
+    },
+    {
+      "sentence": "She learned to bend the rules without breaking them.",
+      "style": "Collocational",
+      "translation": "她学会了变通规则而非触犯底线。",
+      "translated_word": "变通",
+      "display_order": 4
+    }
+  ]
+}

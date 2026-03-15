@@ -1,0 +1,40 @@
+{
+  "word": "fleece",
+  "phonetic": "/fliːs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "羊毛；抓绒衫；绒料",
+  "examples": [
+    {
+      "sentence": "She pulled on a fleece before heading out into the morning chill.",
+      "style": "Contextual",
+      "translation": "她披上一件抓绒衫，走进清晨的寒意中。",
+      "translated_word": "抓绒衫",
+      "display_order": 1
+    },
+    {
+      "sentence": "A lightweight fleece jacket is essential for unpredictable spring weather.",
+      "style": "Collocational",
+      "translation": "一件轻薄的抓绒外套，是应对多变春日的必备之物。",
+      "translated_word": "抓绒",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother's old fleece still carries the scent of her garden.",
+      "style": "Intimate",
+      "translation": "外婆那件旧抓绒衫，至今仍带着她花园的气息。",
+      "translated_word": "抓绒衫",
+      "display_order": 2
+    },
+    {
+      "sentence": "The lamb stood trembling, its fleece catching the first light of dawn.",
+      "style": "Poetic",
+      "translation": "小羊颤巍巍地站着，绒毛沐浴着破晓的第一缕光。",
+      "translated_word": "绒毛",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "swindle",
+  "phonetic": "/ˈswɪndl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "诈骗；欺诈；骗取",
+  "examples": [
+    {
+      "sentence": "The con artist swindled retirees out of their life savings.",
+      "style": "Contextual",
+      "translation": "那个骗子骗走了退休老人毕生的积蓄。",
+      "translated_word": "骗走",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities arrested three suspects who allegedly swindled investors of millions.",
+      "style": "Formal",
+      "translation": "当局逮捕了三名涉嫌诈骗投资者数百万的嫌疑人。",
+      "translated_word": "诈骗",
+      "display_order": 3
+    },
+    {
+      "sentence": "Those who swindle others often lose something money cannot restore.",
+      "style": "Philosophical",
+      "translation": "欺诈他人者，往往失去金钱无法弥补之物。",
+      "translated_word": "欺诈",
+      "display_order": 4
+    },
+    {
+      "sentence": "He swindled her out of the inheritance with forged documents.",
+      "style": "Collocational",
+      "translation": "他用伪造的文件骗走了她的遗产。",
+      "translated_word": "骗走",
+      "display_order": 2
+    }
+  ]
+}

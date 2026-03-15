@@ -1,0 +1,40 @@
+{
+  "word": "singe",
+  "phonetic": "/sɪndʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "烧焦；烫焦；轻微灼伤",
+  "examples": [
+    {
+      "sentence": "The candle singed the edge of the curtain before I noticed.",
+      "style": "Contextual",
+      "translation": "蜡烛烧焦了窗帘的边缘，我才察觉。",
+      "translated_word": "烧焦",
+      "display_order": 2
+    },
+    {
+      "sentence": "Leaning too close to the grill will singe your eyebrows.",
+      "style": "Collocational",
+      "translation": "靠烤架太近会烫焦眉毛。",
+      "translated_word": "烫焦",
+      "display_order": 1
+    },
+    {
+      "sentence": "Summer singed the meadow gold.",
+      "style": "Poetic",
+      "translation": "盛夏将草甸灼成金黄。",
+      "translated_word": "灼",
+      "display_order": 4
+    },
+    {
+      "sentence": "The smell of singed hair took me back to my first clumsy attempt at curling.",
+      "style": "Intimate",
+      "translation": "烧焦头发的气味，让我想起第一次笨手笨脚卷发的自己。",
+      "translated_word": "烧焦",
+      "display_order": 3
+    }
+  ]
+}

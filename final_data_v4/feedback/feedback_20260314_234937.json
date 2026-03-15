@@ -1,0 +1,40 @@
+{
+  "word": "feedback",
+  "phonetic": "/ˈfiːdbæk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "反馈；意见；回应",
+  "examples": [
+    {
+      "sentence": "The team gathered to discuss client feedback before the next sprint.",
+      "style": "Contextual",
+      "translation": "团队在下一轮冲刺前聚在一起讨论客户的反馈。",
+      "translated_word": "反馈",
+      "display_order": 1
+    },
+    {
+      "sentence": "The committee's report incorporates public feedback on the proposed policy.",
+      "style": "Formal",
+      "translation": "委员会的报告纳入了公众对该政策提案的意见。",
+      "translated_word": "意见",
+      "display_order": 4
+    },
+    {
+      "sentence": "Honest feedback is a gift most people are too polite to give.",
+      "style": "Philosophical",
+      "translation": "真诚的反馈是一份礼物，大多数人碍于礼貌而不愿给予。",
+      "translated_word": "反馈",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her gentle feedback after my first presentation shaped the speaker I am today.",
+      "style": "Intimate",
+      "translation": "她在我第一次演讲后给出的温和建议，塑造了今天的我。",
+      "translated_word": "建议",
+      "display_order": 2
+    }
+  ]
+}

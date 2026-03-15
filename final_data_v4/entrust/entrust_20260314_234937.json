@@ -1,0 +1,39 @@
+{
+  "word": "entrust",
+  "phonetic": "/ɪnˈtrʌst/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "委托；托付；交托",
+  "examples": [
+    {
+      "sentence": "Before leaving town, she entrusted her neighbor with feeding the cat.",
+      "style": "Contextual",
+      "translation": "离开小镇前，她将喂猫的事托付给了邻居。",
+      "translated_word": "托付",
+      "display_order": 1
+    },
+    {
+      "sentence": "The foundation entrusted the grant funds to researchers studying climate resilience.",
+      "style": "Formal",
+      "translation": "基金会将拨款委托给研究气候韧性的学者们。",
+      "translated_word": "委托",
+      "display_order": 3
+    },
+    {
+      "sentence": "To entrust is to acknowledge that some things grow better in another's hands.",
+      "style": "Philosophical",
+      "translation": "托付，是承认有些事物在他人手中能更好地生长。",
+      "translated_word": "托付",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father entrusted me with his watch on my eighteenth birthday; no words were needed.",
+      "style": "Intimate",
+      "translation": "十八岁生日那天，父亲把他的手表交给了我；一切尽在不言中。",
+      "translated_word": "交给",
+      "display_order": 2
+    }
+  ]
+}

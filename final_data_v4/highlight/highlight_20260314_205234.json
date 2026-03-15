@@ -1,0 +1,40 @@
+{
+  "word": "highlight",
+  "phonetic": "/ˈhaɪlaɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "强调；突出；标记",
+  "examples": [
+    {
+      "sentence": "The report highlights a growing gap between policy and practice.",
+      "style": "Formal",
+      "translation": "报告突出了政策与实践之间日益扩大的差距。",
+      "translated_word": "突出",
+      "display_order": 3
+    },
+    {
+      "sentence": "She highlighted the passage in yellow, then read it three more times.",
+      "style": "Contextual",
+      "translation": "她用黄色标记了那段话，又读了三遍。",
+      "translated_word": "标记",
+      "display_order": 1
+    },
+    {
+      "sentence": "Good design doesn't decorate; it highlights what already matters.",
+      "style": "Philosophical",
+      "translation": "好的设计不是装饰，而是让重要的事物自然显现。",
+      "translated_word": "显现",
+      "display_order": 4
+    },
+    {
+      "sentence": "That photo highlights everything I loved about that summer: the light, the laughter, the salt on our skin.",
+      "style": "Intimate",
+      "translation": "那张照片凝聚了那个夏天我所热爱的一切：光影、笑声，还有肌肤上的海盐。",
+      "translated_word": "凝聚",
+      "display_order": 2
+    }
+  ]
+}

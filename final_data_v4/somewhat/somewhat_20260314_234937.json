@@ -1,0 +1,41 @@
+{
+  "word": "somewhat",
+  "phonetic": "/ˈsʌmwʌt/",
+  "pos": [
+    "adverb",
+    "noun",
+    "pronoun"
+  ],
+  "selected_pos": "adverb",
+  "definition": "有点；稍微；一定程度上",
+  "examples": [
+    {
+      "sentence": "The news was somewhat expected, yet it still stung.",
+      "style": "Contextual",
+      "translation": "这消息在意料之中，却依然刺痛人心。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "Preliminary findings remain somewhat inconclusive, pending further review.",
+      "style": "Formal",
+      "translation": "初步结论尚不明朗，有待进一步审查。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "We are all somewhat strangers to ourselves.",
+      "style": "Philosophical",
+      "translation": "我们或多或少，都是自己的陌生人。",
+      "translated_word": "或多或少",
+      "display_order": 3
+    },
+    {
+      "sentence": "Your voice sounded somewhat distant that night; I should have asked why.",
+      "style": "Intimate",
+      "translation": "那晚你的声音有些疏远；我该问你为什么。",
+      "translated_word": "有些",
+      "display_order": 1
+    }
+  ]
+}

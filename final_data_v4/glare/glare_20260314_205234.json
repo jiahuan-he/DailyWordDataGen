@@ -1,0 +1,41 @@
+{
+  "word": "glare",
+  "phonetic": "/ɡleər/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "怒视；瞪；刺眼地照射",
+  "examples": [
+    {
+      "sentence": "She didn't speak; she glared until he looked away.",
+      "style": "Contextual",
+      "translation": "她一言不发，只是怒视着他，直到他移开目光。",
+      "translated_word": "怒视",
+      "display_order": 1
+    },
+    {
+      "sentence": "He didn't shout. He glared, and somehow that was worse.",
+      "style": "Contrastive",
+      "translation": "他没有大喊，只是狠狠瞪着；那比怒吼更令人畏惧。",
+      "translated_word": "瞪",
+      "display_order": 2
+    },
+    {
+      "sentence": "Sunlight glared off the frozen lake, sharp as broken glass.",
+      "style": "Poetic",
+      "translation": "阳光从冰湖上刺目地反射，锋利如碎玻璃。",
+      "translated_word": "刺目",
+      "display_order": 3
+    },
+    {
+      "sentence": "My mother never yelled. She glared, and that was punishment enough.",
+      "style": "Intimate",
+      "translation": "母亲从不高声责骂；她只消一个眼神，便已是最重的惩罚。",
+      "translated_word": "眼神",
+      "display_order": 4
+    }
+  ]
+}

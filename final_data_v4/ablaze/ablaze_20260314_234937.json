@@ -1,0 +1,40 @@
+{
+  "word": "ablaze",
+  "phonetic": "/əˈbleɪz/",
+  "pos": [
+    "adjective",
+    "adverb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "燃烧的；明亮的；激昂的",
+  "examples": [
+    {
+      "sentence": "The autumn hills stood ablaze in shades of amber and rust.",
+      "style": "Poetic",
+      "translation": "秋日的山峦燃烧着琥珀与铁锈般的色彩。",
+      "translated_word": "燃烧着",
+      "display_order": 3
+    },
+    {
+      "sentence": "By midnight, the entire warehouse was ablaze.",
+      "style": "Contextual",
+      "translation": "午夜时分，整座仓库已是一片火海。",
+      "translated_word": "火海",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her eyes were ablaze with curiosity the moment she opened the letter.",
+      "style": "Collocational",
+      "translation": "她拆开信的那一刻，眼中燃起了好奇的光芒。",
+      "translated_word": "燃起",
+      "display_order": 2
+    },
+    {
+      "sentence": "That summer night, the whole sky ablaze with fireworks, I finally understood what joy looked like.",
+      "style": "Intimate",
+      "translation": "那个夏夜，烟火燃亮整片天空，我终于明白了欢欣的模样。",
+      "translated_word": "燃亮",
+      "display_order": 4
+    }
+  ]
+}

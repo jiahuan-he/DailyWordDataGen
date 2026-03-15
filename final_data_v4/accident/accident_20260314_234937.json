@@ -1,0 +1,39 @@
+{
+  "word": "accident",
+  "phonetic": "/ˈæksɪdənt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "事故；意外；偶然",
+  "examples": [
+    {
+      "sentence": "Traffic slowed to a crawl; an accident up ahead.",
+      "style": "Contextual",
+      "translation": "车流缓慢如蜗行，前方发生了事故。",
+      "translated_word": "事故",
+      "display_order": 1
+    },
+    {
+      "sentence": "The aviation accident prompted new safety regulations across the industry.",
+      "style": "Formal",
+      "translation": "那起航空事故促使整个行业推行了新的安全法规。",
+      "translated_word": "事故",
+      "display_order": 3
+    },
+    {
+      "sentence": "Birth is an accident; what follows is choice.",
+      "style": "Philosophical",
+      "translation": "出生是偶然，此后皆为选择。",
+      "translated_word": "偶然",
+      "display_order": 4
+    },
+    {
+      "sentence": "We met by accident at a bookstore, both reaching for the same novel.",
+      "style": "Collocational",
+      "translation": "我们在书店偶遇，同时伸手去拿同一本书。",
+      "translated_word": "偶遇",
+      "display_order": 2
+    }
+  ]
+}

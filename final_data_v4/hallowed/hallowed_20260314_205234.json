@@ -1,0 +1,40 @@
+{
+  "word": "hallowed",
+  "phonetic": "/ˈhæloʊd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "神圣的；受尊崇的；庄严的",
+  "examples": [
+    {
+      "sentence": "The hallowed silence of the old library held a century of unspoken thoughts.",
+      "style": "Poetic",
+      "translation": "古老图书馆神圣的静谧中，沉淀着一个世纪未曾言说的思绪。",
+      "translated_word": "神圣的",
+      "display_order": 2
+    },
+    {
+      "sentence": "The ceremony was held on hallowed ground where the treaty was first signed.",
+      "style": "Formal",
+      "translation": "典礼在条约最初签署的神圣之地举行。",
+      "translated_word": "神圣",
+      "display_order": 1
+    },
+    {
+      "sentence": "We rarely question our hallowed routines until they no longer serve us.",
+      "style": "Philosophical",
+      "translation": "我们很少质疑那些奉若神明的习惯，直到它们不再适用。",
+      "translated_word": "奉若神明",
+      "display_order": 3
+    },
+    {
+      "sentence": "That corner booth at the diner became hallowed: it was where he proposed.",
+      "style": "Intimate",
+      "translation": "餐馆角落的那个卡座成了圣地：那是他求婚的地方。",
+      "translated_word": "圣地",
+      "display_order": 4
+    }
+  ]
+}

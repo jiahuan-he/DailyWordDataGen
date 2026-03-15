@@ -1,0 +1,40 @@
+{
+  "word": "beastly",
+  "phonetic": "/ˈbiːstli/",
+  "pos": [
+    "adjective",
+    "adverb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "野蛮的；残忍的；糟糕的",
+  "examples": [
+    {
+      "sentence": "The beastly weather kept everyone indoors for days.",
+      "style": "Contextual",
+      "translation": "糟糕透顶的天气让所有人连续几天都困在室内。",
+      "translated_word": "糟糕透顶",
+      "display_order": 1
+    },
+    {
+      "sentence": "His beastly temper drove away even his closest friends.",
+      "style": "Collocational",
+      "translation": "他那野蛮的脾气赶走了最亲近的朋友。",
+      "translated_word": "野蛮",
+      "display_order": 2
+    },
+    {
+      "sentence": "That beastly cold I caught in December lingered well into spring.",
+      "style": "Intimate",
+      "translation": "十二月染上的那场恼人的感冒，一直拖延到春天才好。",
+      "translated_word": "恼人",
+      "display_order": 3
+    },
+    {
+      "sentence": "Winter arrived with beastly indifference, stripping the last warmth from the land.",
+      "style": "Poetic",
+      "translation": "冬日带着野兽般的冷漠降临，剥去大地最后一丝温存。",
+      "translated_word": "野兽般",
+      "display_order": 4
+    }
+  ]
+}

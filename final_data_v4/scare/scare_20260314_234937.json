@@ -1,0 +1,41 @@
+{
+  "word": "scare",
+  "phonetic": "/sker/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "吓唬；使害怕；惊吓",
+  "examples": [
+    {
+      "sentence": "A sudden crash scared the birds from the trees.",
+      "style": "Contextual",
+      "translation": "一声巨响惊飞了树上的鸟群。",
+      "translated_word": "惊飞",
+      "display_order": 1
+    },
+    {
+      "sentence": "Don't let one rejection scare you away from love.",
+      "style": "Collocational",
+      "translation": "别让一次拒绝吓退了你追求爱的勇气。",
+      "translated_word": "吓退",
+      "display_order": 2
+    },
+    {
+      "sentence": "Silence scares me more than any storm.",
+      "style": "Poetic",
+      "translation": "比起任何风暴，沉默更让我恐惧。",
+      "translated_word": "恐惧",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father's cough used to scare me; now I'd give anything to hear it again.",
+      "style": "Intimate",
+      "translation": "父亲的咳嗽声曾让我害怕；如今我愿付出一切，只求再听一次。",
+      "translated_word": "害怕",
+      "display_order": 4
+    }
+  ]
+}

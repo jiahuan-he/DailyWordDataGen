@@ -1,0 +1,40 @@
+{
+  "word": "physical",
+  "phonetic": "/ˈfɪzɪkl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "身体的；物质的；物理的",
+  "examples": [
+    {
+      "sentence": "The exhaustion wasn't physical; I had simply stopped caring.",
+      "style": "Contextual",
+      "translation": "那疲惫并非身体上的；我只是不再在乎了。",
+      "translated_word": "身体上的",
+      "display_order": 3
+    },
+    {
+      "sentence": "Emotional distance hurts more than physical miles.",
+      "style": "Contrastive",
+      "translation": "情感的疏远比物理的距离更令人心痛。",
+      "translated_word": "物理的",
+      "display_order": 4
+    },
+    {
+      "sentence": "Thirty minutes of physical activity each morning rewired his entire day.",
+      "style": "Collocational",
+      "translation": "每天早晨三十分钟的体育锻炼，彻底改变了他一整天的状态。",
+      "translated_word": "体育",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her letters had weight and texture; something physical I could hold when missing her.",
+      "style": "Intimate",
+      "translation": "她的信有重量，有质感；是我思念时可以握在手中的实物。",
+      "translated_word": "实物",
+      "display_order": 2
+    }
+  ]
+}

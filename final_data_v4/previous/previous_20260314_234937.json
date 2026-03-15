@@ -1,0 +1,40 @@
+{
+  "word": "previous",
+  "phonetic": "/ˈpriːviəs/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "先前的；以前的；上一个",
+  "examples": [
+    {
+      "sentence": "The previous tenant left the garden in perfect condition.",
+      "style": "Contextual",
+      "translation": "前一位租客把花园打理得井井有条。",
+      "translated_word": "前一",
+      "display_order": 1
+    },
+    {
+      "sentence": "The report contradicts findings from the previous investigation.",
+      "style": "Formal",
+      "translation": "该报告与此前调查的结论相悖。",
+      "translated_word": "此前",
+      "display_order": 2
+    },
+    {
+      "sentence": "No previous experience required; just a willingness to learn.",
+      "style": "Collocational",
+      "translation": "无需相关经验；只需有学习的意愿。",
+      "translated_word": "相关",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her previous life in the city feels like someone else's story now.",
+      "style": "Intimate",
+      "translation": "曾经在城市的生活，如今像是别人的故事。",
+      "translated_word": "曾经",
+      "display_order": 3
+    }
+  ]
+}

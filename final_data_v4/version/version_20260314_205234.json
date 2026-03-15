@@ -1,0 +1,40 @@
+{
+  "word": "version",
+  "phonetic": "/ˈvɜːrʒən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "版本；说法；改编",
+  "examples": [
+    {
+      "sentence": "The app crashed repeatedly until I installed the latest version.",
+      "style": "Contextual",
+      "translation": "应用频繁崩溃，直到我装上了最新版本。",
+      "translated_word": "版本",
+      "display_order": 1
+    },
+    {
+      "sentence": "His version of events didn't match the footage.",
+      "style": "Collocational",
+      "translation": "他的说法与监控画面不符。",
+      "translated_word": "说法",
+      "display_order": 2
+    },
+    {
+      "sentence": "Each witness carries their own version of the same moment.",
+      "style": "Philosophical",
+      "translation": "同一个瞬间，每位证人心中都有不同的版本。",
+      "translated_word": "版本",
+      "display_order": 3
+    },
+    {
+      "sentence": "Looking at old photos, I barely recognize that earlier version of myself.",
+      "style": "Intimate",
+      "translation": "翻看旧照，我几乎认不出曾经那个版本的自己。",
+      "translated_word": "版本",
+      "display_order": 4
+    }
+  ]
+}

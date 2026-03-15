@@ -1,0 +1,40 @@
+{
+  "word": "grip",
+  "phonetic": "/ɡrɪp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "握；掌控；理解力；吸引力",
+  "examples": [
+    {
+      "sentence": "The child's grip on my finger was surprisingly strong.",
+      "style": "Contextual",
+      "translation": "孩子握着我手指的力道出奇地大。",
+      "translated_word": "握",
+      "display_order": 1
+    },
+    {
+      "sentence": "A firm grip on the basics will carry you further than advanced tricks.",
+      "style": "Philosophical",
+      "translation": "扎实掌握基础，胜过花哨的技巧。",
+      "translated_word": "掌握",
+      "display_order": 3
+    },
+    {
+      "sentence": "She felt her grip on the old life loosening with every mile.",
+      "style": "Intimate",
+      "translation": "每前行一英里，她对旧日生活的执念便松动一分。",
+      "translated_word": "执念",
+      "display_order": 4
+    },
+    {
+      "sentence": "His speech had a grip on the audience that silence could not break.",
+      "style": "Collocational",
+      "translation": "他的演讲牢牢抓住了听众，连沉默都无法打断。",
+      "translated_word": "抓住",
+      "display_order": 2
+    }
+  ]
+}

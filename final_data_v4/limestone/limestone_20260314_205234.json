@@ -1,0 +1,40 @@
+{
+  "word": "limestone",
+  "phonetic": "/ˈlaɪmstoʊn/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "石灰石；石灰岩",
+  "examples": [
+    {
+      "sentence": "The old church was built entirely from local limestone.",
+      "style": "Contextual",
+      "translation": "这座古老的教堂完全由当地的石灰石建成。",
+      "translated_word": "石灰石",
+      "display_order": 1
+    },
+    {
+      "sentence": "Erosion has carved dramatic formations into the limestone cliffs.",
+      "style": "Collocational",
+      "translation": "侵蚀在石灰岩悬崖上雕刻出壮观的地貌。",
+      "translated_word": "石灰岩",
+      "display_order": 2
+    },
+    {
+      "sentence": "Rain writes its slow calligraphy on limestone.",
+      "style": "Poetic",
+      "translation": "雨水在石灰岩上书写缓慢的书法。",
+      "translated_word": "石灰岩",
+      "display_order": 3
+    },
+    {
+      "sentence": "Limestone holds fossils of ancient seas; we build our homes on vanished worlds.",
+      "style": "Philosophical",
+      "translation": "石灰石封存着远古海洋的化石；我们在消逝的世界上建造家园。",
+      "translated_word": "石灰石",
+      "display_order": 4
+    }
+  ]
+}

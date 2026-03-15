@@ -1,0 +1,40 @@
+{
+  "word": "pearl",
+  "phonetic": "/pɜːrl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "珍珠；珍品；箴言",
+  "examples": [
+    {
+      "sentence": "Morning dew scattered across the grass: a thousand pearls in the first light.",
+      "style": "Poetic",
+      "translation": "晨露洒落草间：初光中，千颗珍珠闪烁。",
+      "translated_word": "珍珠",
+      "display_order": 2
+    },
+    {
+      "sentence": "She offered one pearl of wisdom: begin before you feel ready.",
+      "style": "Collocational",
+      "translation": "她赠我一句箴言：在准备好之前就开始。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's pearl earring rests in my jewelry box, still warm with her story.",
+      "style": "Intimate",
+      "translation": "外婆的珍珠耳环静卧在我的首饰盒中，依然温存着她的故事。",
+      "translated_word": "珍珠",
+      "display_order": 1
+    },
+    {
+      "sentence": "The oyster never knows it creates a pearl; suffering becomes beauty in silence.",
+      "style": "Philosophical",
+      "translation": "蚌不知自己正孕育珍珠；苦难在沉默中化为美丽。",
+      "translated_word": "珍珠",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "available",
+  "phonetic": "/əˈveɪləbl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "可用的；有空的；可获得的",
+  "examples": [
+    {
+      "sentence": "Only one room was available, so we took it without hesitation.",
+      "style": "Contextual",
+      "translation": "只剩一间房了，我们毫不犹豫地订下。",
+      "translated_word": "剩",
+      "display_order": 3
+    },
+    {
+      "sentence": "Fresh herbs are readily available at the corner market.",
+      "style": "Collocational",
+      "translation": "新鲜香草在街角的市场随处可得。",
+      "translated_word": "可得",
+      "display_order": 1
+    },
+    {
+      "sentence": "The full report will be available to shareholders next week.",
+      "style": "Formal",
+      "translation": "完整报告将于下周向股东公开。",
+      "translated_word": "公开",
+      "display_order": 4
+    },
+    {
+      "sentence": "She asked if I was available; I cancelled everything else.",
+      "style": "Intimate",
+      "translation": "她问我有没有空；我推掉了所有其他安排。",
+      "translated_word": "空",
+      "display_order": 2
+    }
+  ]
+}

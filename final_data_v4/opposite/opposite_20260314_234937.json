@@ -1,0 +1,42 @@
+{
+  "word": "opposite",
+  "phonetic": "/ˈɑːpəzɪt/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "preposition"
+  ],
+  "selected_pos": "adjective",
+  "definition": "相反的；对面的；对立的",
+  "examples": [
+    {
+      "sentence": "The pharmacy is on the opposite side of the street.",
+      "style": "Contextual",
+      "translation": "药店在街道的另一侧。",
+      "translated_word": "另一",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her methods were opposite to his, yet they reached the same conclusion.",
+      "style": "Contrastive",
+      "translation": "她的方法与他截然相反，却殊途同归。",
+      "translated_word": "相反",
+      "display_order": 3
+    },
+    {
+      "sentence": "In holding opposite views, two minds sharpen each other.",
+      "style": "Philosophical",
+      "translation": "持相反之见，方能彼此砥砺。",
+      "translated_word": "相反",
+      "display_order": 4
+    },
+    {
+      "sentence": "We chose opposite seats on the train, needing space to think.",
+      "style": "Intimate",
+      "translation": "我们在火车上选了相对的座位，各自需要独处的空间。",
+      "translated_word": "相对",
+      "display_order": 2
+    }
+  ]
+}

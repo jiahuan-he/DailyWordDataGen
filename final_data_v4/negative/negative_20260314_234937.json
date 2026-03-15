@@ -1,0 +1,42 @@
+{
+  "word": "negative",
+  "phonetic": "/ˈneɡətɪv/",
+  "pos": [
+    "adjective",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "消极的；负面的；否定的；阴性的",
+  "examples": [
+    {
+      "sentence": "The test came back negative. She could finally breathe again.",
+      "style": "Contextual",
+      "translation": "检测结果呈阴性。她终于可以松一口气了。",
+      "translated_word": "阴性",
+      "display_order": 2
+    },
+    {
+      "sentence": "Analysts issued a negative outlook for the housing market this quarter.",
+      "style": "Formal",
+      "translation": "分析师对本季度房地产市场发布了负面展望。",
+      "translated_word": "负面",
+      "display_order": 1
+    },
+    {
+      "sentence": "Not all silence is negative; some holds unspoken understanding.",
+      "style": "Contrastive",
+      "translation": "并非所有沉默都是消极的；有些承载着无言的默契。",
+      "translated_word": "消极",
+      "display_order": 4
+    },
+    {
+      "sentence": "I once read his quietness as negative. Now I see it was simply peace.",
+      "style": "Intimate",
+      "translation": "我曾以为他的沉默是消极的。如今才懂，那是内心的安宁。",
+      "translated_word": "消极",
+      "display_order": 3
+    }
+  ]
+}

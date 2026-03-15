@@ -1,0 +1,41 @@
+{
+  "word": "starch",
+  "phonetic": "/stɑːrtʃ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "淀粉；浆粉；拘谨",
+  "examples": [
+    {
+      "sentence": "Potatoes, rice, and bread are all rich in starch.",
+      "style": "Contextual",
+      "translation": "土豆、米饭和面包都富含淀粉。",
+      "translated_word": "淀粉",
+      "display_order": 1
+    },
+    {
+      "sentence": "She cut back on starch after her doctor's advice.",
+      "style": "Collocational",
+      "translation": "遵医嘱后，她开始减少淀粉摄入。",
+      "translated_word": "淀粉",
+      "display_order": 2
+    },
+    {
+      "sentence": "Unlike protein, starch gives quick energy but fades fast.",
+      "style": "Contrastive",
+      "translation": "不同于蛋白质，淀粉供能迅速，却也消退得快。",
+      "translated_word": "淀粉",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother's aprons always carried the scent of soap and starch.",
+      "style": "Intimate",
+      "translation": "祖母的围裙上，总留着皂香与浆水的气息。",
+      "translated_word": "浆水",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "stir",
+  "phonetic": "/stɜːr/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "搅拌；激起；唤起；微动",
+  "examples": [
+    {
+      "sentence": "She stirred the soup slowly, watching the spices dissolve.",
+      "style": "Contextual",
+      "translation": "她慢慢搅动汤，看着香料渐渐化开。",
+      "translated_word": "搅动",
+      "display_order": 1
+    },
+    {
+      "sentence": "The photograph stirred memories she thought were buried.",
+      "style": "Collocational",
+      "translation": "那张照片唤起了她以为早已尘封的记忆。",
+      "translated_word": "唤起",
+      "display_order": 3
+    },
+    {
+      "sentence": "Autumn winds stir the leaves into brief, golden flight.",
+      "style": "Poetic",
+      "translation": "秋风拂过，落叶腾起一瞬金色的飞旋。",
+      "translated_word": "拂过",
+      "display_order": 4
+    },
+    {
+      "sentence": "His voice on the phone stirred something I had tried to forget.",
+      "style": "Intimate",
+      "translation": "电话里他的声音，搅动了我努力遗忘的心绪。",
+      "translated_word": "搅动",
+      "display_order": 2
+    }
+  ]
+}

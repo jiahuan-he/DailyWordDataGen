@@ -1,0 +1,39 @@
+{
+  "word": "emotion",
+  "phonetic": "/ɪˈmoʊʃn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "情感；情绪；感情",
+  "examples": [
+    {
+      "sentence": "Her voice cracked with emotion as she read his final letter.",
+      "style": "Contextual",
+      "translation": "读到他最后那封信时，她的声音因情感而颤抖。",
+      "translated_word": "情感",
+      "display_order": 1
+    },
+    {
+      "sentence": "Emotion swelled in her throat before a single word could form.",
+      "style": "Poetic",
+      "translation": "情感涌上喉头，话语尚未成形。",
+      "translated_word": "情感",
+      "display_order": 3
+    },
+    {
+      "sentence": "Emotion is the only language that needs no translation.",
+      "style": "Philosophical",
+      "translation": "情感是唯一不需要翻译的语言。",
+      "translated_word": "情感",
+      "display_order": 4
+    },
+    {
+      "sentence": "The song ended, but the emotion lingered in my chest for hours.",
+      "style": "Intimate",
+      "translation": "歌声停了，情绪却在胸口萦绕了很久。",
+      "translated_word": "情绪",
+      "display_order": 2
+    }
+  ]
+}

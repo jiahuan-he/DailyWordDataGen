@@ -1,0 +1,41 @@
+{
+  "word": "action",
+  "phonetic": "/ˈækʃən/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "行动；动作；行为；作用",
+  "examples": [
+    {
+      "sentence": "Doubt kills more dreams than action ever will.",
+      "style": "Inspirational",
+      "translation": "击溃梦想的从来不是行动，而是犹豫。",
+      "translated_word": "行动",
+      "display_order": 4
+    },
+    {
+      "sentence": "The committee voted to take immediate action on climate reform.",
+      "style": "Formal",
+      "translation": "委员会投票决定就气候改革立即采取行动。",
+      "translated_word": "行动",
+      "display_order": 2
+    },
+    {
+      "sentence": "Words without action are just noise.",
+      "style": "Philosophical",
+      "translation": "言语若无行动支撑，不过是一场喧哗。",
+      "translated_word": "行动",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her swift action prevented the fire from spreading.",
+      "style": "Collocational",
+      "translation": "她迅速采取行动，阻止了火势蔓延。",
+      "translated_word": "行动",
+      "display_order": 1
+    }
+  ]
+}

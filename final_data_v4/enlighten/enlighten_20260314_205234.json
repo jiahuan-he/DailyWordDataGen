@@ -1,0 +1,39 @@
+{
+  "word": "enlighten",
+  "phonetic": "/ɪnˈlaɪt(ə)n/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "启发；开导；使领悟",
+  "examples": [
+    {
+      "sentence": "The question didn't enlighten her; the silence that followed did.",
+      "style": "Philosophical",
+      "translation": "问题本身没有启发她；随之而来的沉默才是。",
+      "translated_word": "启发",
+      "display_order": 4
+    },
+    {
+      "sentence": "One book can enlighten a generation.",
+      "style": "Inspirational",
+      "translation": "一本书足以启迪一代人。",
+      "translated_word": "启迪",
+      "display_order": 2
+    },
+    {
+      "sentence": "His patient explanation finally enlightened the confused students.",
+      "style": "Contextual",
+      "translation": "他耐心的讲解终于让困惑的学生们恍然大悟。",
+      "translated_word": "恍然大悟",
+      "display_order": 1
+    },
+    {
+      "sentence": "The documentary seeks to enlighten viewers on the realities of climate migration.",
+      "style": "Formal",
+      "translation": "这部纪录片旨在让观众了解气候移民的真实状况。",
+      "translated_word": "了解",
+      "display_order": 3
+    }
+  ]
+}

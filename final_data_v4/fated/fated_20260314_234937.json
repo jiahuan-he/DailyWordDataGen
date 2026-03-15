@@ -1,0 +1,40 @@
+{
+  "word": "fated",
+  "phonetic": "/ˈfeɪtɪd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "注定的；命定的；天意的",
+  "examples": [
+    {
+      "sentence": "Some connections feel fated: two paths crossing at the exact right moment.",
+      "style": "Poetic",
+      "translation": "有些相遇仿佛命中注定：两条轨迹，恰好在此刻交汇。",
+      "translated_word": "命中注定",
+      "display_order": 2
+    },
+    {
+      "sentence": "We call it fated in hindsight, but in the moment, it felt like choice.",
+      "style": "Philosophical",
+      "translation": "事后我们称之为命定，但当时，它分明像是选择。",
+      "translated_word": "命定",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every detour led me back to you; perhaps we were always fated.",
+      "style": "Intimate",
+      "translation": "每一次绕路都把我带回你身边；也许我们本就注定。",
+      "translated_word": "注定",
+      "display_order": 3
+    },
+    {
+      "sentence": "The treaty's collapse seemed fated from the start.",
+      "style": "Contextual",
+      "translation": "那份条约的崩溃，从一开始就似乎在所难免。",
+      "translated_word": "在所难免",
+      "display_order": 1
+    }
+  ]
+}

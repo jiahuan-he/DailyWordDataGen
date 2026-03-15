@@ -1,0 +1,39 @@
+{
+  "word": "breakdown",
+  "phonetic": "/ˈbreɪkdaʊn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "故障；崩溃；分解；细目",
+  "examples": [
+    {
+      "sentence": "The breakdown stranded us on a quiet stretch of highway, miles from the nearest town.",
+      "style": "Contextual",
+      "translation": "车辆抛锚，将我们困在空旷的公路上，离最近的小镇还有好几英里。",
+      "translated_word": "抛锚",
+      "display_order": 1
+    },
+    {
+      "sentence": "Analysts released a detailed breakdown of the company's quarterly losses.",
+      "style": "Formal",
+      "translation": "分析师发布了公司季度亏损的详细分项报告。",
+      "translated_word": "分项",
+      "display_order": 2
+    },
+    {
+      "sentence": "A nervous breakdown at thirty taught him that ambition without rest is just slow self-destruction.",
+      "style": "Intimate",
+      "translation": "三十岁那场崩溃让他明白：没有休息的野心，不过是缓慢的自我毁灭。",
+      "translated_word": "崩溃",
+      "display_order": 3
+    },
+    {
+      "sentence": "The breakdown of trust between them was gradual, then sudden.",
+      "style": "Collocational",
+      "translation": "他们之间信任的瓦解，先是渐进，而后骤然。",
+      "translated_word": "瓦解",
+      "display_order": 4
+    }
+  ]
+}

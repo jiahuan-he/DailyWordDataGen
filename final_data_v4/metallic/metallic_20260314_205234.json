@@ -1,0 +1,40 @@
+{
+  "word": "metallic",
+  "phonetic": "/məˈtælɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "金属的；金属般的；含金属的",
+  "examples": [
+    {
+      "sentence": "The elevator doors slid open with a soft metallic hum.",
+      "style": "Contextual",
+      "translation": "电梯门滑开，发出轻柔的金属嗡鸣。",
+      "translated_word": "金属",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rain struck the tin roof in a metallic chorus.",
+      "style": "Poetic",
+      "translation": "雨点敲打铁皮屋顶，奏响金属的合唱。",
+      "translated_word": "金属",
+      "display_order": 4
+    },
+    {
+      "sentence": "Fear left a metallic taste on her tongue.",
+      "style": "Collocational",
+      "translation": "恐惧在她舌尖留下一丝金属的味道。",
+      "translated_word": "金属",
+      "display_order": 3
+    },
+    {
+      "sentence": "That metallic blue was my father's favorite; he painted every car he owned in it.",
+      "style": "Intimate",
+      "translation": "那种金属蓝是父亲的最爱；他把每一辆车都漆成那个颜色。",
+      "translated_word": "金属",
+      "display_order": 2
+    }
+  ]
+}

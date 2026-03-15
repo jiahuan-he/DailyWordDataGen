@@ -1,0 +1,42 @@
+{
+  "word": "bare",
+  "phonetic": "/beər/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "赤裸的；空的；仅有的",
+  "examples": [
+    {
+      "sentence": "The apartment felt bare without her books on the shelves.",
+      "style": "Contextual",
+      "translation": "书架上没了她的书，公寓显得空空荡荡。",
+      "translated_word": "空空荡荡",
+      "display_order": 2
+    },
+    {
+      "sentence": "Winter had stripped the branches bare, leaving only sky.",
+      "style": "Poetic",
+      "translation": "冬天剥尽枝叶，只余天空。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "My bare feet found the cool grass; the morning was just beginning.",
+      "style": "Intimate",
+      "translation": "赤脚踏上清凉的草地；一天才刚刚开始。",
+      "translated_word": "赤脚",
+      "display_order": 1
+    },
+    {
+      "sentence": "He built it all with his bare hands.",
+      "style": "Collocational",
+      "translation": "这一切，他凭双手建起。",
+      "translated_word": null,
+      "display_order": 3
+    }
+  ]
+}

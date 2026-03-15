@@ -1,0 +1,40 @@
+{
+  "word": "spool",
+  "phonetic": "/spuːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "线轴；卷轴；卷筒",
+  "examples": [
+    {
+      "sentence": "The thread had come loose from its spool and tangled in her basket.",
+      "style": "Contextual",
+      "translation": "线从线轴上松脱，在篮中缠作一团。",
+      "translated_word": "线轴",
+      "display_order": 1
+    },
+    {
+      "sentence": "She reached for a fresh spool of red thread to finish the hem.",
+      "style": "Collocational",
+      "translation": "她取出一卷新的红线，为衣摆收最后一针。",
+      "translated_word": "卷",
+      "display_order": 3
+    },
+    {
+      "sentence": "Old film spools hold light that time forgot to erase.",
+      "style": "Poetic",
+      "translation": "旧胶片的卷轴里，藏着时光忘了抹去的光。",
+      "translated_word": "卷轴",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's wooden spool became my first toy car.",
+      "style": "Intimate",
+      "translation": "外婆的木线轴，曾是我的第一辆玩具车。",
+      "translated_word": "线轴",
+      "display_order": 2
+    }
+  ]
+}

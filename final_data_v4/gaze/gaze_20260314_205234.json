@@ -1,0 +1,40 @@
+{
+  "word": "gaze",
+  "phonetic": "/ɡeɪz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "凝视；注视；凝望",
+  "examples": [
+    {
+      "sentence": "The child gazed at the snow, seeing it for the very first time.",
+      "style": "Contextual",
+      "translation": "孩子凝视着雪花，那是她人生中第一次见到雪。",
+      "translated_word": "凝视",
+      "display_order": 1
+    },
+    {
+      "sentence": "She gazed at the sea until the horizon swallowed the sun.",
+      "style": "Poetic",
+      "translation": "她凝视着大海，直到地平线吞没了夕阳。",
+      "translated_word": "凝视",
+      "display_order": 2
+    },
+    {
+      "sentence": "We gaze at the stars, forgetting they may have already died.",
+      "style": "Philosophical",
+      "translation": "我们凝视星辰，却忘了它们或许早已消逝。",
+      "translated_word": "凝视",
+      "display_order": 3
+    },
+    {
+      "sentence": "He gazed at me as if memorizing my face before a long goodbye.",
+      "style": "Intimate",
+      "translation": "他凝视着我，仿佛要在漫长的告别前，将我的面容刻入记忆。",
+      "translated_word": "凝视",
+      "display_order": 4
+    }
+  ]
+}

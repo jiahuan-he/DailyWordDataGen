@@ -1,0 +1,41 @@
+{
+  "word": "hold",
+  "phonetic": "/hoʊld/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "握住；持有；保持；容纳",
+  "examples": [
+    {
+      "sentence": "Hold this bag while I find my keys.",
+      "style": "Contextual",
+      "translation": "帮我拿着这个包，我找一下钥匙。",
+      "translated_word": "拿着",
+      "display_order": 1
+    },
+    {
+      "sentence": "The concert hall can hold three thousand people.",
+      "style": "Collocational",
+      "translation": "这个音乐厅可以容纳三千人。",
+      "translated_word": "容纳",
+      "display_order": 2
+    },
+    {
+      "sentence": "She held my gaze across the room, and I forgot everything I wanted to say.",
+      "style": "Intimate",
+      "translation": "她隔着人群望向我，我忘了所有想说的话。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "Some silences hold more weight than words.",
+      "style": "Poetic",
+      "translation": "有些沉默，比言语更有分量。",
+      "translated_word": "有",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "dawn",
+  "phonetic": "/dɔːn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "黎明；拂晓；曙光；开端",
+  "examples": [
+    {
+      "sentence": "The city held its breath as dawn painted the harbor gold.",
+      "style": "Poetic",
+      "translation": "城市屏息凝神，黎明为港湾镀上一层金色。",
+      "translated_word": "黎明",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every dawn is proof that darkness, however long, must end.",
+      "style": "Philosophical",
+      "translation": "每一个黎明都在证明：黑夜再长，终将消逝。",
+      "translated_word": "黎明",
+      "display_order": 4
+    },
+    {
+      "sentence": "We drove through the night and reached the coast just before dawn.",
+      "style": "Intimate",
+      "translation": "我们连夜驱车，赶在破晓前抵达海岸。",
+      "translated_word": "破晓",
+      "display_order": 2
+    },
+    {
+      "sentence": "The fishing boats set out at dawn, when the sea was calmest.",
+      "style": "Contextual",
+      "translation": "渔船在黎明时分出海，那时海面最为平静。",
+      "translated_word": "黎明",
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "mention",
+  "phonetic": "/ˈmenʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "提到；提及；说起",
+  "examples": [
+    {
+      "sentence": "She mentioned your name three times during dinner.",
+      "style": "Contextual",
+      "translation": "她在晚餐时三次提到你的名字。",
+      "translated_word": "提到",
+      "display_order": 1
+    },
+    {
+      "sentence": "Not to mention the cost, the timing itself is impossible.",
+      "style": "Collocational",
+      "translation": "且不说费用，光是时间就不现实。",
+      "translated_word": "说",
+      "display_order": 4
+    },
+    {
+      "sentence": "He never mentions her, but I see him pause at old photographs.",
+      "style": "Intimate",
+      "translation": "他从不提起她，却总在旧照片前驻足。",
+      "translated_word": "提起",
+      "display_order": 2
+    },
+    {
+      "sentence": "The report mentions several risks that demand immediate action.",
+      "style": "Formal",
+      "translation": "报告提及了几项需要立即应对的风险。",
+      "translated_word": "提及",
+      "display_order": 3
+    }
+  ]
+}

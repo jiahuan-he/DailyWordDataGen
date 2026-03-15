@@ -1,0 +1,40 @@
+{
+  "word": "sleeper",
+  "phonetic": "/ˈsliːpər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "睡眠者；卧铺；黑马",
+  "examples": [
+    {
+      "sentence": "She's a light sleeper; even the rain wakes her.",
+      "style": "Contextual",
+      "translation": "她睡眠很浅，连雨声都能将她惊醒。",
+      "translated_word": "睡眠",
+      "display_order": 1
+    },
+    {
+      "sentence": "The film became a sleeper hit, quietly earning millions.",
+      "style": "Collocational",
+      "translation": "这部电影成了一匹黑马，悄然收获了数百万票房。",
+      "translated_word": "黑马",
+      "display_order": 3
+    },
+    {
+      "sentence": "The candidate emerged as the election's sleeper, defying every poll.",
+      "style": "Formal",
+      "translation": "这位候选人成为此次选举中的黑马，颠覆了所有民调预测。",
+      "translated_word": "黑马",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother was a restless sleeper; I inherited her midnight wakefulness.",
+      "style": "Intimate",
+      "translation": "祖母总是睡不安稳，我遗传了她深夜辗转的习惯。",
+      "translated_word": "睡",
+      "display_order": 2
+    }
+  ]
+}

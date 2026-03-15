@@ -1,0 +1,39 @@
+{
+  "word": "apartment",
+  "phonetic": "/əˈpɑːrtmənt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "公寓；套房；住所",
+  "examples": [
+    {
+      "sentence": "After graduation, she rented a small apartment downtown.",
+      "style": "Contextual",
+      "translation": "毕业后，她在市中心租了一间小公寓。",
+      "translated_word": "公寓",
+      "display_order": 1
+    },
+    {
+      "sentence": "The one-bedroom apartment comes with a balcony and parking.",
+      "style": "Collocational",
+      "translation": "这套一居室公寓附带阳台和车位。",
+      "translated_word": "公寓",
+      "display_order": 3
+    },
+    {
+      "sentence": "My first apartment had thin walls, but it felt like freedom.",
+      "style": "Intimate",
+      "translation": "我的第一间公寓隔音很差，却让我尝到了自由的滋味。",
+      "translated_word": "公寓",
+      "display_order": 2
+    },
+    {
+      "sentence": "The development features luxury apartments overlooking the harbor.",
+      "style": "Formal",
+      "translation": "该楼盘推出海景豪华公寓，尽揽港湾风光。",
+      "translated_word": "公寓",
+      "display_order": 4
+    }
+  ]
+}

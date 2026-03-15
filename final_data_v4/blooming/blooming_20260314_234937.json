@@ -1,0 +1,42 @@
+{
+  "word": "blooming",
+  "phonetic": "/ˈbluːmɪŋ/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "盛开的；绽放的；蓬勃的",
+  "examples": [
+    {
+      "sentence": "The blooming cherry trees lined the quiet street like a whispered secret.",
+      "style": "Poetic",
+      "translation": "盛开的樱花树沿着静谧的街道排列，仿佛一个轻声诉说的秘密。",
+      "translated_word": "盛开的",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her blooming confidence surprised everyone at the interview.",
+      "style": "Contextual",
+      "translation": "她在面试中绽放的自信让所有人感到惊讶。",
+      "translated_word": "绽放的",
+      "display_order": 3
+    },
+    {
+      "sentence": "A blooming mind never stops reaching for the light.",
+      "style": "Inspirational",
+      "translation": "蓬勃的心灵永远向着光明生长。",
+      "translated_word": "蓬勃的",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's blooming garden was where I first learned patience.",
+      "style": "Intimate",
+      "translation": "外婆那繁花盛开的小院，是我最初学会耐心的地方。",
+      "translated_word": "繁花盛开的",
+      "display_order": 2
+    }
+  ]
+}

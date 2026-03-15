@@ -1,0 +1,39 @@
+{
+  "word": "drainage",
+  "phonetic": "/ˈdreɪnɪdʒ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "排水；排水系统；引流",
+  "examples": [
+    {
+      "sentence": "The backyard flooded after every storm until we fixed the drainage.",
+      "style": "Contextual",
+      "translation": "后院每逢暴雨便积水成灾，直到我们修好了排水系统。",
+      "translated_word": "排水系统",
+      "display_order": 2
+    },
+    {
+      "sentence": "City officials approved a $2 million upgrade to the downtown drainage infrastructure.",
+      "style": "Formal",
+      "translation": "市政官员批准了一项两百万美元的市中心排水设施升级计划。",
+      "translated_word": "排水",
+      "display_order": 3
+    },
+    {
+      "sentence": "Poor drainage turned the garden path into a muddy stream.",
+      "style": "Collocational",
+      "translation": "排水不畅，花园小径变成了泥泞的溪流。",
+      "translated_word": "排水",
+      "display_order": 1
+    },
+    {
+      "sentence": "Unlike concrete, permeable pavement allows natural drainage into the soil.",
+      "style": "Contrastive",
+      "translation": "与混凝土不同，透水路面能让雨水自然渗入土壤。",
+      "translated_word": "渗入",
+      "display_order": 4
+    }
+  ]
+}

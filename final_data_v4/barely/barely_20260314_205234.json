@@ -1,0 +1,39 @@
+{
+  "word": "barely",
+  "phonetic": "/ˈberli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "仅仅；勉强；几乎不",
+  "examples": [
+    {
+      "sentence": "The whisper was so faint, I barely caught it.",
+      "style": "Contextual",
+      "translation": "那声低语太轻，我几乎没能听见。",
+      "translated_word": "几乎",
+      "display_order": 1
+    },
+    {
+      "sentence": "She barely glanced my way, but that look said everything.",
+      "style": "Intimate",
+      "translation": "她只匆匆瞥了我一眼，却道尽千言万语。",
+      "translated_word": "只",
+      "display_order": 2
+    },
+    {
+      "sentence": "Dawn barely touched the hills before mist reclaimed them.",
+      "style": "Poetic",
+      "translation": "晨曦方触山峦，薄雾已将其收回。",
+      "translated_word": "方",
+      "display_order": 3
+    },
+    {
+      "sentence": "We barely know ourselves, yet presume to know others.",
+      "style": "Philosophical",
+      "translation": "我们尚且不了解自己，却自以为能看透他人。",
+      "translated_word": "尚且",
+      "display_order": 4
+    }
+  ]
+}

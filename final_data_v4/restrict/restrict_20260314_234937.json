@@ -1,0 +1,40 @@
+{
+  "word": "restrict",
+  "phonetic": "/rɪˈstrɪkt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "限制；约束；管控",
+  "examples": [
+    {
+      "sentence": "The doctor restricted her sodium intake after the diagnosis.",
+      "style": "Contextual",
+      "translation": "确诊后，医生限制了她的盐分摄入。",
+      "translated_word": "限制",
+      "display_order": 2
+    },
+    {
+      "sentence": "The new policy restricts foreign investment in critical infrastructure.",
+      "style": "Formal",
+      "translation": "新政策限制外资进入关键基础设施领域。",
+      "translated_word": "限制",
+      "display_order": 3
+    },
+    {
+      "sentence": "This app restricts screen time for children under twelve.",
+      "style": "Collocational",
+      "translation": "这款应用限制十二岁以下儿童的屏幕使用时长。",
+      "translated_word": "限制",
+      "display_order": 1
+    },
+    {
+      "sentence": "Boundaries that restrict us often reveal what we truly long for.",
+      "style": "Philosophical",
+      "translation": "束缚我们的边界，往往映照出内心真正的渴望。",
+      "translated_word": "束缚",
+      "display_order": 4
+    }
+  ]
+}

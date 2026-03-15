@@ -1,0 +1,40 @@
+{
+  "word": "adrift",
+  "phonetic": "/əˈdrɪft/",
+  "pos": [
+    "adjective",
+    "adverb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "漂泊的；漫无目的的；迷茫的",
+  "examples": [
+    {
+      "sentence": "The canoe came loose from its rope and floated adrift downstream.",
+      "style": "Contextual",
+      "translation": "独木舟挣脱了绳索，顺流漂去。",
+      "translated_word": "漂",
+      "display_order": 1
+    },
+    {
+      "sentence": "After graduation, she felt adrift: no job, no plan, just possibility.",
+      "style": "Intimate",
+      "translation": "毕业后，她感到一阵茫然：没有工作，没有计划，只剩下无尽的可能。",
+      "translated_word": "茫然",
+      "display_order": 2
+    },
+    {
+      "sentence": "A person adrift often learns the direction home by leaving it.",
+      "style": "Philosophical",
+      "translation": "漂泊的人往往在离开之后，才认清归途的方向。",
+      "translated_word": "漂泊",
+      "display_order": 4
+    },
+    {
+      "sentence": "The lighthouse stood silent; the sailors remained adrift in fog.",
+      "style": "Poetic",
+      "translation": "灯塔默然伫立，水手们在浓雾中随波飘零。",
+      "translated_word": "飘零",
+      "display_order": 3
+    }
+  ]
+}

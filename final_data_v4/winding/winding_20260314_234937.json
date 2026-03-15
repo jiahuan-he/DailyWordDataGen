@@ -1,0 +1,41 @@
+{
+  "word": "winding",
+  "phonetic": "/ˈwaɪndɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "蜿蜒的；曲折的；盘旋的",
+  "examples": [
+    {
+      "sentence": "The winding mountain road made him grip the steering wheel tighter.",
+      "style": "Contextual",
+      "translation": "蜿蜒的山路让他不由得握紧了方向盘。",
+      "translated_word": "蜿蜒的",
+      "display_order": 1
+    },
+    {
+      "sentence": "The winding river held the moon's reflection in every curve.",
+      "style": "Poetic",
+      "translation": "蜿蜒的河流在每道弯曲中都盛着月影。",
+      "translated_word": "蜿蜒的",
+      "display_order": 3
+    },
+    {
+      "sentence": "A winding path often reveals more than a straight one.",
+      "style": "Philosophical",
+      "translation": "曲折的路往往比笔直的路更有风景。",
+      "translated_word": "曲折的",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every summer, we raced down that winding staircase, laughter echoing off the stone walls.",
+      "style": "Intimate",
+      "translation": "每个夏天，我们都冲下那道旋转的楼梯，笑声在石墙间回荡。",
+      "translated_word": "旋转的",
+      "display_order": 2
+    }
+  ]
+}

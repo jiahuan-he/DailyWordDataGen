@@ -1,0 +1,40 @@
+{
+  "word": "approach",
+  "phonetic": "/əˈproʊtʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "接近；靠近；着手处理；探讨",
+  "examples": [
+    {
+      "sentence": "As the train approached the station, passengers gathered their belongings.",
+      "style": "Contextual",
+      "translation": "火车驶近车站时，乘客们开始收拾行李。",
+      "translated_word": "驶近",
+      "display_order": 1
+    },
+    {
+      "sentence": "Approach difficult conversations with curiosity, not judgment.",
+      "style": "Collocational",
+      "translation": "以好奇而非评判的心态，去面对艰难的对话。",
+      "translated_word": "面对",
+      "display_order": 3
+    },
+    {
+      "sentence": "The way we approach uncertainty reveals what we truly value.",
+      "style": "Philosophical",
+      "translation": "我们面对不确定性的方式，揭示了内心真正珍视的事物。",
+      "translated_word": "面对",
+      "display_order": 4
+    },
+    {
+      "sentence": "That summer, I finally learned to approach my fears instead of running.",
+      "style": "Intimate",
+      "translation": "那个夏天，我终于学会直面恐惧，而非逃避。",
+      "translated_word": "直面",
+      "display_order": 2
+    }
+  ]
+}

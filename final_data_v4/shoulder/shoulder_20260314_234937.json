@@ -1,0 +1,40 @@
+{
+  "word": "shoulder",
+  "phonetic": "/ˈʃoʊldər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "肩膀；肩部；路肩",
+  "examples": [
+    {
+      "sentence": "She tapped my shoulder to get my attention.",
+      "style": "Contextual",
+      "translation": "她轻拍我的肩膀，引起我的注意。",
+      "translated_word": "肩膀",
+      "display_order": 1
+    },
+    {
+      "sentence": "We stood shoulder to shoulder, watching the last light fade.",
+      "style": "Collocational",
+      "translation": "我们并肩而立，看最后一缕光渐渐消散。",
+      "translated_word": "肩",
+      "display_order": 4
+    },
+    {
+      "sentence": "His shoulder was the only place I felt safe enough to cry.",
+      "style": "Intimate",
+      "translation": "他的肩膀是我唯一敢放声哭泣的地方。",
+      "translated_word": "肩膀",
+      "display_order": 2
+    },
+    {
+      "sentence": "Snow gathered on her shoulders like a quiet blessing.",
+      "style": "Poetic",
+      "translation": "雪落在她肩头，像一场静默的祝福。",
+      "translated_word": "肩头",
+      "display_order": 3
+    }
+  ]
+}

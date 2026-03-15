@@ -1,0 +1,40 @@
+{
+  "word": "sprain",
+  "phonetic": "/spreɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "扭伤；拉伤",
+  "examples": [
+    {
+      "sentence": "She stepped off the curb wrong and sprained her ankle.",
+      "style": "Contextual",
+      "translation": "她下路缘时踩歪了，扭伤了脚踝。",
+      "translated_word": "扭伤",
+      "display_order": 3
+    },
+    {
+      "sentence": "He sprained his wrist playing tennis last weekend.",
+      "style": "Collocational",
+      "translation": "上周末打网球时，他扭伤了手腕。",
+      "translated_word": "扭伤",
+      "display_order": 1
+    },
+    {
+      "sentence": "The marathon runner sprained her knee during training and withdrew from the race.",
+      "style": "Formal",
+      "translation": "这位马拉松选手在训练中扭伤了膝盖，退出了比赛。",
+      "translated_word": "扭伤",
+      "display_order": 2
+    },
+    {
+      "sentence": "The morning I sprained my foot, I finally understood how much I had taken walking for granted.",
+      "style": "Intimate",
+      "translation": "扭伤脚的那个早晨，我才懂得行走从来不是理所应当。",
+      "translated_word": "扭伤",
+      "display_order": 4
+    }
+  ]
+}

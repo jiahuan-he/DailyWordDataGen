@@ -1,0 +1,40 @@
+{
+  "word": "interest",
+  "phonetic": "/ˈɪntrəst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "兴趣；利益；利息",
+  "examples": [
+    {
+      "sentence": "Her interest in astronomy began with a single eclipse.",
+      "style": "Contextual",
+      "translation": "她对天文学的兴趣，始于一场日食。",
+      "translated_word": "兴趣",
+      "display_order": 1
+    },
+    {
+      "sentence": "We guard what serves our interest; the rest fades to noise.",
+      "style": "Philosophical",
+      "translation": "我们守护与己相关之事，其余皆化为背景。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "My father's quiet interest in my sketches gave me the courage to pursue art.",
+      "style": "Intimate",
+      "translation": "父亲对我画作的默默关注，给了我追求艺术的勇气。",
+      "translated_word": "关注",
+      "display_order": 3
+    },
+    {
+      "sentence": "She took a genuine interest in every stranger's story.",
+      "style": "Collocational",
+      "translation": "她对每个陌生人的故事都抱有真切的兴趣。",
+      "translated_word": "兴趣",
+      "display_order": 2
+    }
+  ]
+}

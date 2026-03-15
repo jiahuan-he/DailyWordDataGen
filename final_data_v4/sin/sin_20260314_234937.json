@@ -1,0 +1,40 @@
+{
+  "word": "sin",
+  "phonetic": "/sɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "罪；罪孽；过错；恶行",
+  "examples": [
+    {
+      "sentence": "In his culture, wasting food was considered a sin.",
+      "style": "Contextual",
+      "translation": "在他的文化里，浪费食物被视为一种罪过。",
+      "translated_word": "罪过",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some sins are committed not through action, but through silence.",
+      "style": "Philosophical",
+      "translation": "有些罪，不是因为做了什么，而是因为沉默。",
+      "translated_word": "罪",
+      "display_order": 4
+    },
+    {
+      "sentence": "She wore her past like a sin she refused to confess.",
+      "style": "Poetic",
+      "translation": "她将过往披在身上，如同一桩不肯忏悔的罪。",
+      "translated_word": "罪",
+      "display_order": 3
+    },
+    {
+      "sentence": "My only sin was loving someone who could never stay.",
+      "style": "Intimate",
+      "translation": "我唯一的罪，是爱上了一个注定要离开的人。",
+      "translated_word": "罪",
+      "display_order": 2
+    }
+  ]
+}

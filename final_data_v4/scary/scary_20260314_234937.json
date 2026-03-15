@@ -1,0 +1,40 @@
+{
+  "word": "scary",
+  "phonetic": "/ˈskeri/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "可怕的；吓人的；骇人的",
+  "examples": [
+    {
+      "sentence": "The abandoned hospital looked even scarier after sunset.",
+      "style": "Contextual",
+      "translation": "日落之后，废弃的医院看起来更加阴森可怖。",
+      "translated_word": "可怖",
+      "display_order": 3
+    },
+    {
+      "sentence": "It's a scary thought: what if she never forgives me?",
+      "style": "Collocational",
+      "translation": "这是个可怕的念头：万一她永远不原谅我呢？",
+      "translated_word": "可怕",
+      "display_order": 2
+    },
+    {
+      "sentence": "Telling my parents the truth was scary, but their understanding made it worth it.",
+      "style": "Intimate",
+      "translation": "向父母坦白真相很可怕，但他们的理解让一切都值得了。",
+      "translated_word": "可怕",
+      "display_order": 1
+    },
+    {
+      "sentence": "The scariest truths are the ones we already know.",
+      "style": "Philosophical",
+      "translation": "最可怕的真相，是我们早已心知肚明的那些。",
+      "translated_word": "可怕",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "startle",
+  "phonetic": "/ˈstɑːrtl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "惊吓；使吃惊；使惊跳",
+  "examples": [
+    {
+      "sentence": "A sudden knock startled her from deep concentration.",
+      "style": "Contextual",
+      "translation": "一阵突如其来的敲门声将她从专注中惊醒。",
+      "translated_word": "惊醒",
+      "display_order": 1
+    },
+    {
+      "sentence": "Your voice on the phone startled me; I thought you had forgotten.",
+      "style": "Intimate",
+      "translation": "电话那头传来你的声音，我吓了一跳；我以为你早已忘记。",
+      "translated_word": "吓了一跳",
+      "display_order": 2
+    },
+    {
+      "sentence": "Dawn startles the city awake, one window at a time.",
+      "style": "Poetic",
+      "translation": "黎明轻轻惊醒城市，一扇窗接着一扇窗。",
+      "translated_word": "惊醒",
+      "display_order": 4
+    },
+    {
+      "sentence": "The cat startled at the slightest sound from the kitchen.",
+      "style": "Collocational",
+      "translation": "厨房里一丁点动静都能让那只猫受惊。",
+      "translated_word": "受惊",
+      "display_order": 3
+    }
+  ]
+}

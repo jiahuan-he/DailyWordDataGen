@@ -1,0 +1,39 @@
+{
+  "word": "advice",
+  "phonetic": "/ədˈvaɪs/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "建议；忠告；劝告",
+  "examples": [
+    {
+      "sentence": "She needed advice before signing the contract.",
+      "style": "Contextual",
+      "translation": "签合同前，她需要一些建议。",
+      "translated_word": "建议",
+      "display_order": 1
+    },
+    {
+      "sentence": "Good advice ages well; bad advice reveals itself quickly.",
+      "style": "Philosophical",
+      "translation": "好的建议历久弥新；坏的建议很快便会原形毕露。",
+      "translated_word": "建议",
+      "display_order": 3
+    },
+    {
+      "sentence": "At thirty, I finally understood the advice she gave me at fifteen.",
+      "style": "Intimate",
+      "translation": "三十岁时，我终于读懂了她在我十五岁时给我的忠告。",
+      "translated_word": "忠告",
+      "display_order": 2
+    },
+    {
+      "sentence": "Take my advice: start before you feel ready.",
+      "style": "Collocational",
+      "translation": "听我一句劝：在准备好之前就开始行动。",
+      "translated_word": "劝",
+      "display_order": 4
+    }
+  ]
+}

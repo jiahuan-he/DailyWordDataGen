@@ -1,0 +1,40 @@
+{
+  "word": "fibreglass",
+  "phonetic": "/ˈfaɪbəɡlɑːs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "玻璃纤维；玻璃钢",
+  "examples": [
+    {
+      "sentence": "The boat's hull is made of lightweight fibreglass.",
+      "style": "Contextual",
+      "translation": "这艘船的船体由轻质玻璃纤维制成。",
+      "translated_word": "玻璃纤维",
+      "display_order": 1
+    },
+    {
+      "sentence": "Manufacturers increasingly favor fibreglass for its durability and corrosion resistance.",
+      "style": "Formal",
+      "translation": "制造商日益青睐玻璃钢，因其耐用且抗腐蚀。",
+      "translated_word": "玻璃钢",
+      "display_order": 3
+    },
+    {
+      "sentence": "Fibreglass insulation keeps the attic cool in summer and warm in winter.",
+      "style": "Collocational",
+      "translation": "玻璃纤维隔热层使阁楼冬暖夏凉。",
+      "translated_word": "玻璃纤维",
+      "display_order": 2
+    },
+    {
+      "sentence": "Unlike carbon fiber, fibreglass offers strength at a fraction of the cost.",
+      "style": "Contrastive",
+      "translation": "与碳纤维不同，玻璃钢以极低的成本提供同等强度。",
+      "translated_word": "玻璃钢",
+      "display_order": 4
+    }
+  ]
+}

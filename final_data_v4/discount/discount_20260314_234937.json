@@ -1,0 +1,41 @@
+{
+  "word": "discount",
+  "phonetic": "/ˈdɪskaʊnt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "折扣；减价；优惠",
+  "examples": [
+    {
+      "sentence": "The store offered a 30% discount on winter coats.",
+      "style": "Contextual",
+      "translation": "这家店的冬季大衣打七折。",
+      "translated_word": "折",
+      "display_order": 1
+    },
+    {
+      "sentence": "Student discounts make city life slightly more bearable.",
+      "style": "Collocational",
+      "translation": "学生优惠让城市生活稍微好过一些。",
+      "translated_word": "优惠",
+      "display_order": 2
+    },
+    {
+      "sentence": "Retailers report record discounts as holiday sales underperform.",
+      "style": "Formal",
+      "translation": "由于节日销售不及预期，零售商纷纷推出创纪录的折扣。",
+      "translated_word": "折扣",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother clips coupons not for the discount, but for the ritual.",
+      "style": "Intimate",
+      "translation": "外婆剪优惠券，不为省钱，只为那份仪式感。",
+      "translated_word": "省钱",
+      "display_order": 4
+    }
+  ]
+}

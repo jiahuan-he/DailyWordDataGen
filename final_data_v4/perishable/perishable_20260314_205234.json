@@ -1,0 +1,40 @@
+{
+  "word": "perishable",
+  "phonetic": "/ˈperɪʃəbl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "易腐的；易坏的；易逝的",
+  "examples": [
+    {
+      "sentence": "Always refrigerate perishable groceries within two hours.",
+      "style": "Contextual",
+      "translation": "易腐食品须在两小时内冷藏。",
+      "translated_word": "易腐",
+      "display_order": 1
+    },
+    {
+      "sentence": "The shipping label read: perishable goods, handle with care.",
+      "style": "Collocational",
+      "translation": "运输标签上写着：易腐物品，小心轻放。",
+      "translated_word": "易腐",
+      "display_order": 2
+    },
+    {
+      "sentence": "Trust is perishable; once spoiled, it cannot be restored.",
+      "style": "Philosophical",
+      "translation": "信任易逝；一旦变质，便无法挽回。",
+      "translated_word": "易逝",
+      "display_order": 3
+    },
+    {
+      "sentence": "Those golden afternoons felt perishable: too warm, too perfect to last.",
+      "style": "Poetic",
+      "translation": "那些金色午后如此易逝：太温暖，太美好，注定无法长留。",
+      "translated_word": "易逝",
+      "display_order": 4
+    }
+  ]
+}

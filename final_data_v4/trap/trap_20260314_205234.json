@@ -1,0 +1,40 @@
+{
+  "word": "trap",
+  "phonetic": "/træp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "陷阱；圈套；困境",
+  "examples": [
+    {
+      "sentence": "The hunter checked his trap at dawn; this time, it wasn't empty.",
+      "style": "Contextual",
+      "translation": "猎人在黎明时查看陷阱；这一次，里面不再空空如也。",
+      "translated_word": "陷阱",
+      "display_order": 1
+    },
+    {
+      "sentence": "She set a trap for him with a single question.",
+      "style": "Collocational",
+      "translation": "她用一个问题给他设下了圈套。",
+      "translated_word": "圈套",
+      "display_order": 2
+    },
+    {
+      "sentence": "Comfort is a quiet trap; it lulls you into forgetting your dreams.",
+      "style": "Philosophical",
+      "translation": "舒适是一种静默的陷阱，让你在安逸中遗忘梦想。",
+      "translated_word": "陷阱",
+      "display_order": 3
+    },
+    {
+      "sentence": "The city lights beckoned, a glittering trap for lonely wanderers.",
+      "style": "Poetic",
+      "translation": "城市灯火招摇，是孤独旅人的璀璨陷阱。",
+      "translated_word": "陷阱",
+      "display_order": 4
+    }
+  ]
+}

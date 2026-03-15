@@ -1,0 +1,42 @@
+{
+  "word": "upstream",
+  "phonetic": "/ˌʌpˈstriːm/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "向上游；逆流；朝源头",
+  "examples": [
+    {
+      "sentence": "Salmon travel upstream each autumn, returning to the streams where they hatched.",
+      "style": "Contextual",
+      "translation": "每年秋天，鲑鱼逆流而上，回到孵化它们的溪流。",
+      "translated_word": "逆流而上",
+      "display_order": 1
+    },
+    {
+      "sentence": "We paddled upstream until the city noise faded into birdsong.",
+      "style": "Collocational",
+      "translation": "我们向上游划去，直到城市的喧嚣渐隐为鸟鸣。",
+      "translated_word": "上游",
+      "display_order": 2
+    },
+    {
+      "sentence": "She walked upstream alone, the river narrowing into a whisper.",
+      "style": "Poetic",
+      "translation": "她独自溯流而行，河面渐窄，细若低语。",
+      "translated_word": "溯流",
+      "display_order": 3
+    },
+    {
+      "sentence": "The easiest path flows downstream; the meaningful one often lies upstream.",
+      "style": "Philosophical",
+      "translation": "最轻松的路顺流而下；有意义的路往往逆流而上。",
+      "translated_word": "逆流而上",
+      "display_order": 4
+    }
+  ]
+}

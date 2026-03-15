@@ -1,0 +1,39 @@
+{
+  "word": "rhythm",
+  "phonetic": "/ˈrɪðəm/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "节奏；韵律；规律",
+  "examples": [
+    {
+      "sentence": "The drummer set the rhythm, and the whole room started to move.",
+      "style": "Contextual",
+      "translation": "鼓手定下节奏，满屋的人随之舞动。",
+      "translated_word": "节奏",
+      "display_order": 1
+    },
+    {
+      "sentence": "It took a few weeks to find my rhythm in the new role.",
+      "style": "Collocational",
+      "translation": "适应新角色的节奏，花了我好几周。",
+      "translated_word": "节奏",
+      "display_order": 3
+    },
+    {
+      "sentence": "Rain on the roof kept its own rhythm, patient and unhurried.",
+      "style": "Poetic",
+      "translation": "雨落屋檐，自有其节奏，不疾不徐。",
+      "translated_word": "节奏",
+      "display_order": 2
+    },
+    {
+      "sentence": "Grief has no rhythm; it arrives whenever it pleases.",
+      "style": "Philosophical",
+      "translation": "悲伤没有规律，它随时造访。",
+      "translated_word": "规律",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "rhythmic",
+  "phonetic": "/ˈrɪðmɪk/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有节奏的；有韵律的；律动的",
+  "examples": [
+    {
+      "sentence": "Rain traced rhythmic patterns on the window, composing its evening song.",
+      "style": "Poetic",
+      "translation": "雨水在窗上勾勒出有节奏的纹路，谱写着夜的歌。",
+      "translated_word": "有节奏的",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her rhythmic breathing finally steadied into sleep.",
+      "style": "Collocational",
+      "translation": "她的呼吸渐趋平稳，终于沉入梦乡。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "The drums set a rhythmic pulse that moved through the crowd.",
+      "style": "Contextual",
+      "translation": "鼓点敲出律动的节拍，穿透人群。",
+      "translated_word": "律动的",
+      "display_order": 1
+    },
+    {
+      "sentence": "Those late studio nights, the rhythmic hum of machines kept me company.",
+      "style": "Intimate",
+      "translation": "那些深夜的工作室里，机器有节律的嗡鸣声陪伴着我。",
+      "translated_word": "有节律的",
+      "display_order": 2
+    }
+  ]
+}

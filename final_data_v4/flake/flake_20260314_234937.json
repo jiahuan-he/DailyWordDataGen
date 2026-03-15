@@ -1,0 +1,40 @@
+{
+  "word": "flake",
+  "phonetic": "/fleɪk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "薄片；碎屑；小片",
+  "examples": [
+    {
+      "sentence": "Each flake descends in its own quiet spiral, never to repeat.",
+      "style": "Poetic",
+      "translation": "每一片雪花都以独有的轨迹缓缓飘落，永不重复。",
+      "translated_word": "雪花",
+      "display_order": 4
+    },
+    {
+      "sentence": "A flake of old paint landed on my shoulder as I pushed open the door.",
+      "style": "Contextual",
+      "translation": "推开那扇门时，一片剥落的旧漆落在了我肩上。",
+      "translated_word": "片",
+      "display_order": 3
+    },
+    {
+      "sentence": "She brushed a flake of chocolate from her lip and smiled.",
+      "style": "Collocational",
+      "translation": "她拂去嘴角的一片巧克力碎屑，微微一笑。",
+      "translated_word": "碎屑",
+      "display_order": 1
+    },
+    {
+      "sentence": "That winter, a single flake melted on your cheek before I could catch it.",
+      "style": "Intimate",
+      "translation": "那年冬天，一片雪花在你脸颊上融化，我来不及接住。",
+      "translated_word": "雪花",
+      "display_order": 2
+    }
+  ]
+}

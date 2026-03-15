@@ -1,0 +1,39 @@
+{
+  "word": "jaywalk",
+  "phonetic": "/ˈdʒeɪwɔːk/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "乱穿马路；横穿街道；违规过街",
+  "examples": [
+    {
+      "sentence": "No cars in sight; he jaywalked without hesitation.",
+      "style": "Contextual",
+      "translation": "四下无车，他毫不犹豫地横穿了马路。",
+      "translated_word": "横穿",
+      "display_order": 2
+    },
+    {
+      "sentence": "You can get fined for jaywalking in Singapore.",
+      "style": "Collocational",
+      "translation": "在新加坡，乱穿马路是会被罚款的。",
+      "translated_word": "乱穿马路",
+      "display_order": 1
+    },
+    {
+      "sentence": "We jaywalked across the midnight street, giddy with small rebellion.",
+      "style": "Intimate",
+      "translation": "我们穿过午夜空旷的街道，为这点小叛逆而窃喜。",
+      "translated_word": "穿过",
+      "display_order": 4
+    },
+    {
+      "sentence": "Tourists obey the crosswalk; New Yorkers jaywalk by instinct.",
+      "style": "Contrastive",
+      "translation": "游客守在斑马线前；纽约人横穿马路全凭本能。",
+      "translated_word": "横穿马路",
+      "display_order": 3
+    }
+  ]
+}

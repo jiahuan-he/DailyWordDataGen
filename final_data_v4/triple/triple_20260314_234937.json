@@ -1,0 +1,41 @@
+{
+  "word": "triple",
+  "phonetic": "/ˈtrɪp.əl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "三倍的；三重的；三个的",
+  "examples": [
+    {
+      "sentence": "She ordered a triple espresso to survive the all-nighter.",
+      "style": "Contextual",
+      "translation": "她点了一杯三倍浓缩咖啡，准备熬过这个通宵。",
+      "translated_word": "三倍",
+      "display_order": 1
+    },
+    {
+      "sentence": "The startup achieved triple-digit growth within its first year.",
+      "style": "Formal",
+      "translation": "这家初创公司在成立首年便实现了三位数的增长。",
+      "translated_word": "三位数",
+      "display_order": 2
+    },
+    {
+      "sentence": "Triple-check your work before hitting send.",
+      "style": "Collocational",
+      "translation": "点击发送前，务必再三检查。",
+      "translated_word": "再三",
+      "display_order": 3
+    },
+    {
+      "sentence": "Consistency doesn't add to your efforts; it multiplies them threefold.",
+      "style": "Inspirational",
+      "translation": "坚持不是简单的累加，而是将努力成倍放大。",
+      "translated_word": "成倍",
+      "display_order": 4
+    }
+  ]
+}

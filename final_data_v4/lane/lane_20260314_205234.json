@@ -1,0 +1,39 @@
+{
+  "word": "lane",
+  "phonetic": "/leɪn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "小路；车道；巷弄",
+  "examples": [
+    {
+      "sentence": "The narrow lane between the houses led to a hidden garden.",
+      "style": "Contextual",
+      "translation": "两栋房屋之间的小路通向一座隐秘的花园。",
+      "translated_word": "小路",
+      "display_order": 1
+    },
+    {
+      "sentence": "She merged into the fast lane, leaving the city behind.",
+      "style": "Collocational",
+      "translation": "她并入快车道，把城市抛在身后。",
+      "translated_word": "车道",
+      "display_order": 3
+    },
+    {
+      "sentence": "Autumn leaves scattered across the cobblestone lane, unhurried.",
+      "style": "Poetic",
+      "translation": "秋叶散落在石板小巷，不疾不徐。",
+      "translated_word": "小巷",
+      "display_order": 4
+    },
+    {
+      "sentence": "The lane behind my grandmother's house still smells of jasmine in my dreams.",
+      "style": "Intimate",
+      "translation": "外婆家屋后的那条小路，至今在梦里飘着茉莉花香。",
+      "translated_word": "小路",
+      "display_order": 2
+    }
+  ]
+}

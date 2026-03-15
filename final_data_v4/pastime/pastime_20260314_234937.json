@@ -1,0 +1,40 @@
+{
+  "word": "pastime",
+  "phonetic": "/ˈpæstaɪm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "消遣；爱好；娱乐活动",
+  "examples": [
+    {
+      "sentence": "Gardening became her pastime after retirement.",
+      "style": "Contextual",
+      "translation": "退休后，园艺成了她的消遣。",
+      "translated_word": "消遣",
+      "display_order": 1
+    },
+    {
+      "sentence": "Reading remains a beloved pastime across generations.",
+      "style": "Collocational",
+      "translation": "阅读依然是代代相传的爱好。",
+      "translated_word": "爱好",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every Sunday, my father and I shared the same pastime: watching old films in silence.",
+      "style": "Intimate",
+      "translation": "每个周日，父亲和我都做同一件事：安静地看老电影。",
+      "translated_word": "事",
+      "display_order": 2
+    },
+    {
+      "sentence": "Your pastime speaks to who you are when no one is watching.",
+      "style": "Philosophical",
+      "translation": "消遣方式，透露的是无人注视时你的本真。",
+      "translated_word": "消遣",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "housebound",
+  "phonetic": "/ˈhaʊsbaʊnd/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "足不出户的；困居家中的；无法外出的",
+  "examples": [
+    {
+      "sentence": "After the surgery, she remained housebound for six weeks.",
+      "style": "Contextual",
+      "translation": "手术后，她足不出户地在家待了六周。",
+      "translated_word": "足不出户",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother, housebound and frail, still kept her garden visible from every window.",
+      "style": "Intimate",
+      "translation": "祖母年迈体弱，无法外出，却让每一扇窗都能望见她的花园。",
+      "translated_word": "无法外出",
+      "display_order": 2
+    },
+    {
+      "sentence": "The housebound writer filled notebooks with journeys she would never take.",
+      "style": "Poetic",
+      "translation": "那位困居家中的作家，用笔记本写满了她永远无法踏上的旅途。",
+      "translated_word": "困居家中",
+      "display_order": 3
+    },
+    {
+      "sentence": "Being housebound taught him that freedom begins in the mind.",
+      "style": "Philosophical",
+      "translation": "足不出户的日子让他明白：自由始于心灵。",
+      "translated_word": "足不出户",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "guilty",
+  "phonetic": "/ˈɡɪlti/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有罪的；内疚的；心虚的",
+  "examples": [
+    {
+      "sentence": "The jury found him guilty after three hours.",
+      "style": "Contextual",
+      "translation": "陪审团经过三小时审议，判定他有罪。",
+      "translated_word": "有罪",
+      "display_order": 1
+    },
+    {
+      "sentence": "We feel most guilty for the kindnesses we failed to offer.",
+      "style": "Philosophical",
+      "translation": "最深的愧疚，往往源于未曾给出的善意。",
+      "translated_word": "愧疚",
+      "display_order": 3
+    },
+    {
+      "sentence": "She smiled, and suddenly I felt guilty for every unanswered message.",
+      "style": "Intimate",
+      "translation": "她微笑的瞬间，我为每一条未回复的消息感到内疚。",
+      "translated_word": "内疚",
+      "display_order": 2
+    },
+    {
+      "sentence": "Late-night chocolate is my guilty pleasure.",
+      "style": "Collocational",
+      "translation": "深夜的巧克力，是我甜蜜的小罪恶。",
+      "translated_word": "罪恶",
+      "display_order": 4
+    }
+  ]
+}

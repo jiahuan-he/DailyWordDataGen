@@ -1,0 +1,40 @@
+{
+  "word": "block",
+  "phonetic": "/blɑːk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "块；街区；障碍",
+  "examples": [
+    {
+      "sentence": "The children stacked wooden blocks until the tower swayed and fell.",
+      "style": "Contextual",
+      "translation": "孩子们把木块一层层叠高，直到塔摇晃着倒下。",
+      "translated_word": "木块",
+      "display_order": 1
+    },
+    {
+      "sentence": "Small habits are building blocks: invisible alone, transformative together.",
+      "style": "Collocational",
+      "translation": "小习惯是人生的基石：单看无形，聚合成势。",
+      "translated_word": "基石",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every mental block is a question we are afraid to answer.",
+      "style": "Philosophical",
+      "translation": "每一道心理障碍，都是我们不敢回答的问题。",
+      "translated_word": "障碍",
+      "display_order": 4
+    },
+    {
+      "sentence": "She lived two blocks away, close enough that her kitchen light felt like home.",
+      "style": "Intimate",
+      "translation": "她住在两个街区外，近到她厨房的灯光都像家。",
+      "translated_word": "街区",
+      "display_order": 2
+    }
+  ]
+}

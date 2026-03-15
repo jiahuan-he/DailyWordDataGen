@@ -1,0 +1,40 @@
+{
+  "word": "chase",
+  "phonetic": "/tʃeɪs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "追逐；追赶；追求",
+  "examples": [
+    {
+      "sentence": "The children chased fireflies until the jar glowed.",
+      "style": "Contextual",
+      "translation": "孩子们追逐萤火虫，直到玻璃罐中盈满光芒。",
+      "translated_word": "追逐",
+      "display_order": 1
+    },
+    {
+      "sentence": "He chased deadlines all week and sleep all weekend.",
+      "style": "Collocational",
+      "translation": "他工作日追赶截止日期，周末追赶睡眠。",
+      "translated_word": "追赶",
+      "display_order": 4
+    },
+    {
+      "sentence": "We chase what runs from us and ignore what stays.",
+      "style": "Philosophical",
+      "translation": "我们追逐逃离的，却忽视留下的。",
+      "translated_word": "追逐",
+      "display_order": 3
+    },
+    {
+      "sentence": "At sixteen, I chased approval; now I chase stillness.",
+      "style": "Intimate",
+      "translation": "十六岁时追逐认可；如今追逐宁静。",
+      "translated_word": "追逐",
+      "display_order": 2
+    }
+  ]
+}

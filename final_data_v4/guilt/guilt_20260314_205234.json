@@ -1,0 +1,40 @@
+{
+  "word": "guilt",
+  "phonetic": "/ɡɪlt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "内疚；罪责；愧疚",
+  "examples": [
+    {
+      "sentence": "She couldn't finish the cake; the guilt of skipping her run was too strong.",
+      "style": "Contextual",
+      "translation": "她吃不下那块蛋糕；没去晨跑的愧疚感挥之不去。",
+      "translated_word": "愧疚感",
+      "display_order": 1
+    },
+    {
+      "sentence": "Guilt proves we have not yet forgiven ourselves.",
+      "style": "Philosophical",
+      "translation": "内疚，是尚未自我原谅的证明。",
+      "translated_word": "内疚",
+      "display_order": 4
+    },
+    {
+      "sentence": "Guilt lingers in the silence between apologies left unsaid.",
+      "style": "Poetic",
+      "translation": "愧疚栖息在未曾说出口的歉意之间。",
+      "translated_word": "愧疚",
+      "display_order": 3
+    },
+    {
+      "sentence": "Years later, the guilt of that unanswered call still finds me.",
+      "style": "Intimate",
+      "translation": "多年以后，那通未接的电话仍让我心怀歉意。",
+      "translated_word": "歉意",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "personal",
+  "phonetic": "/ˈpɜːrsənəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "个人的；私人的；亲自的",
+  "examples": [
+    {
+      "sentence": "She kept a personal journal that no one else was allowed to read.",
+      "style": "Contextual",
+      "translation": "她有一本私人日记，从不允许任何人翻阅。",
+      "translated_word": "私人",
+      "display_order": 1
+    },
+    {
+      "sentence": "Growth begins where personal comfort ends.",
+      "style": "Philosophical",
+      "translation": "成长始于个人舒适区的边界之外。",
+      "translated_word": "个人",
+      "display_order": 4
+    },
+    {
+      "sentence": "His personal touch made the gift unforgettable.",
+      "style": "Collocational",
+      "translation": "他的用心让这份礼物令人难忘。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "The letter carried his personal apology, handwritten and sincere.",
+      "style": "Intimate",
+      "translation": "那封信承载着他亲笔写下的歉意，字字真挚。",
+      "translated_word": "亲笔",
+      "display_order": 3
+    }
+  ]
+}

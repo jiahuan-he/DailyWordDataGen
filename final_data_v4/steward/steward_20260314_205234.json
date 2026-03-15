@@ -1,0 +1,40 @@
+{
+  "word": "steward",
+  "phonetic": "/ˈstuːərd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "管家；乘务员；管理者；守护者",
+  "examples": [
+    {
+      "sentence": "The steward guided passengers to their seats with practiced ease.",
+      "style": "Contextual",
+      "translation": "乘务员熟练地引导乘客入座。",
+      "translated_word": "乘务员",
+      "display_order": 1
+    },
+    {
+      "sentence": "As stewards of public funds, officials must prioritize transparency.",
+      "style": "Formal",
+      "translation": "作为公共资金的管理者，官员必须以透明为先。",
+      "translated_word": "管理者",
+      "display_order": 3
+    },
+    {
+      "sentence": "We do not own this land; we are only its stewards for a while.",
+      "style": "Philosophical",
+      "translation": "我们并不拥有这片土地；我们只是它暂时的守护者。",
+      "translated_word": "守护者",
+      "display_order": 4
+    },
+    {
+      "sentence": "A faithful steward cares more for what he guards than for himself.",
+      "style": "Collocational",
+      "translation": "忠诚的管家，爱所守护之物胜过爱自己。",
+      "translated_word": "管家",
+      "display_order": 2
+    }
+  ]
+}

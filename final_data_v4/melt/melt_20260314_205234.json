@@ -1,0 +1,40 @@
+{
+  "word": "melt",
+  "phonetic": "/melt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "融化；消融；软化",
+  "examples": [
+    {
+      "sentence": "The chocolate began to melt in my palm.",
+      "style": "Contextual",
+      "translation": "巧克力在我掌心慢慢融化。",
+      "translated_word": "融化",
+      "display_order": 1
+    },
+    {
+      "sentence": "Snow melts into the river, carrying winter away.",
+      "style": "Poetic",
+      "translation": "雪融入河流，带走了整个冬天。",
+      "translated_word": "融入",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her voice on the phone melted all the distance between us.",
+      "style": "Intimate",
+      "translation": "电话那头她的声音，融化了我们之间所有的距离。",
+      "translated_word": "融化",
+      "display_order": 3
+    },
+    {
+      "sentence": "Anger melts faster when you stop feeding it.",
+      "style": "Philosophical",
+      "translation": "当你不再喂养愤怒，它便消融得更快。",
+      "translated_word": "消融",
+      "display_order": 4
+    }
+  ]
+}

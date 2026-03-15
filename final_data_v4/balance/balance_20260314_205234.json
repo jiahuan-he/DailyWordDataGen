@@ -1,0 +1,40 @@
+{
+  "word": "balance",
+  "phonetic": "/ˈbæləns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "平衡；均衡；余额",
+  "examples": [
+    {
+      "sentence": "One wobble, and she lost her balance on the icy steps.",
+      "style": "Contextual",
+      "translation": "脚下一滑，她在结冰的台阶上失去了平衡。",
+      "translated_word": "平衡",
+      "display_order": 1
+    },
+    {
+      "sentence": "Striking a balance between ambition and rest takes practice.",
+      "style": "Collocational",
+      "translation": "在野心与休息之间寻求平衡，需要不断练习。",
+      "translated_word": "平衡",
+      "display_order": 3
+    },
+    {
+      "sentence": "Balance is not a destination; it is a daily negotiation.",
+      "style": "Philosophical",
+      "translation": "平衡不是终点，而是每日的斡旋。",
+      "translated_word": "平衡",
+      "display_order": 4
+    },
+    {
+      "sentence": "In her yoga classes, my mother found a balance she never had at home.",
+      "style": "Intimate",
+      "translation": "在瑜伽课上，母亲找到了她在家从未拥有的平衡。",
+      "translated_word": "平衡",
+      "display_order": 2
+    }
+  ]
+}

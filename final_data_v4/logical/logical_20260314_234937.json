@@ -1,0 +1,39 @@
+{
+  "word": "logical",
+  "phonetic": "/ˈlɒdʒɪkəl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "合逻辑的；理性的；合理的；必然的",
+  "examples": [
+    {
+      "sentence": "Given the evidence, only one answer felt logical.",
+      "style": "Contextual",
+      "translation": "根据现有证据，只有一个答案合乎逻辑。",
+      "translated_word": "合乎逻辑",
+      "display_order": 1
+    },
+    {
+      "sentence": "The audit revealed a logical flaw in the proposed system.",
+      "style": "Formal",
+      "translation": "审计揭示了拟议系统中的一处逻辑缺陷。",
+      "translated_word": "逻辑",
+      "display_order": 3
+    },
+    {
+      "sentence": "His choice was brave, but not entirely logical.",
+      "style": "Contrastive",
+      "translation": "他的选择很勇敢，却并非完全理性。",
+      "translated_word": "理性",
+      "display_order": 2
+    },
+    {
+      "sentence": "A logical mind questions itself most rigorously.",
+      "style": "Philosophical",
+      "translation": "理性的头脑对自己质疑得最为严苛。",
+      "translated_word": "理性",
+      "display_order": 4
+    }
+  ]
+}

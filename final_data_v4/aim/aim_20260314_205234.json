@@ -1,0 +1,40 @@
+{
+  "word": "aim",
+  "phonetic": "/eɪm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "瞄准；力求；旨在",
+  "examples": [
+    {
+      "sentence": "She closed one eye and aimed at the bullseye.",
+      "style": "Contextual",
+      "translation": "她闭上一只眼，瞄准靶心。",
+      "translated_word": "瞄准",
+      "display_order": 1
+    },
+    {
+      "sentence": "Aim higher than comfort; that's where growth begins.",
+      "style": "Inspirational",
+      "translation": "把目标定得比安逸更高，那里才有成长。",
+      "translated_word": "目标",
+      "display_order": 4
+    },
+    {
+      "sentence": "We aim to deliver the report by Friday.",
+      "style": "Collocational",
+      "translation": "我们力争在周五前提交报告。",
+      "translated_word": "力争",
+      "display_order": 3
+    },
+    {
+      "sentence": "At twenty, I aimed for success. Now I aim for peace.",
+      "style": "Intimate",
+      "translation": "二十岁时，我追求成功；如今，我追求平静。",
+      "translated_word": "追求",
+      "display_order": 2
+    }
+  ]
+}

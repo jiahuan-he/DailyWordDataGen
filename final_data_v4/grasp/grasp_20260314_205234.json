@@ -1,0 +1,40 @@
+{
+  "word": "grasp",
+  "phonetic": "/ɡræsp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "抓住；握紧；理解；领会",
+  "examples": [
+    {
+      "sentence": "She grasped the railing as the train lurched forward.",
+      "style": "Contextual",
+      "translation": "列车猛然启动，她紧紧抓住了扶手。",
+      "translated_word": "抓住",
+      "display_order": 1
+    },
+    {
+      "sentence": "He finally grasped the concept after reading it twice.",
+      "style": "Collocational",
+      "translation": "读了两遍之后，他终于理解了这个概念。",
+      "translated_word": "理解",
+      "display_order": 2
+    },
+    {
+      "sentence": "The more we grasp at happiness, the more it slips away.",
+      "style": "Philosophical",
+      "translation": "我们越是紧握幸福，它便越是溜走。",
+      "translated_word": "紧握",
+      "display_order": 4
+    },
+    {
+      "sentence": "In that moment, I grasped what my father had been trying to teach me all along.",
+      "style": "Intimate",
+      "translation": "那一刻，我终于领悟了父亲一直想教给我的道理。",
+      "translated_word": "领悟",
+      "display_order": 3
+    }
+  ]
+}

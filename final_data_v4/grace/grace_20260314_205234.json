@@ -1,0 +1,40 @@
+{
+  "word": "grace",
+  "phonetic": "/ɡreɪs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "优雅；风度；恩典；宽限",
+  "examples": [
+    {
+      "sentence": "Her hands moved over the keys; the music was all grace.",
+      "style": "Poetic",
+      "translation": "她的指尖掠过琴键，流淌而出的尽是优雅。",
+      "translated_word": "优雅",
+      "display_order": 3
+    },
+    {
+      "sentence": "Grace is how you hold yourself when no one is watching.",
+      "style": "Philosophical",
+      "translation": "优雅，是无人注视时你依然保持的姿态。",
+      "translated_word": "优雅",
+      "display_order": 4
+    },
+    {
+      "sentence": "He accepted the loss with quiet grace.",
+      "style": "Collocational",
+      "translation": "他以沉静的风度接受了这次失败。",
+      "translated_word": "风度",
+      "display_order": 1
+    },
+    {
+      "sentence": "My mother never raised her voice; that was her grace.",
+      "style": "Intimate",
+      "translation": "母亲从不高声说话；那便是她的优雅。",
+      "translated_word": "优雅",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "trestle",
+  "phonetic": "/ˈtresəl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "支架；栈架；搁架",
+  "examples": [
+    {
+      "sentence": "The old railway crossed the valley on a wooden trestle.",
+      "style": "Contextual",
+      "translation": "那条老铁路架在木质栈桥上，横跨整个山谷。",
+      "translated_word": "栈桥",
+      "display_order": 1
+    },
+    {
+      "sentence": "We gathered around the trestle table for the harvest feast.",
+      "style": "Collocational",
+      "translation": "我们围坐在长条搁架桌旁，共享丰收的盛宴。",
+      "translated_word": "搁架",
+      "display_order": 4
+    },
+    {
+      "sentence": "Fog curled beneath the trestle at dawn, softening steel into silver.",
+      "style": "Poetic",
+      "translation": "晨雾在栈桥下缭绕，将冷硬钢铁染作柔银。",
+      "translated_word": "栈桥",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather's model trains ran on trestles he carved by hand.",
+      "style": "Intimate",
+      "translation": "祖父的模型火车，行驶在他亲手雕刻的微型栈架上。",
+      "translated_word": "栈架",
+      "display_order": 2
+    }
+  ]
+}
