@@ -1,0 +1,40 @@
+{
+  "word": "manage",
+  "phonetic": "/ˈmænɪdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "管理；经营；设法做到；应付",
+  "examples": [
+    {
+      "sentence": "She manages a team of twelve across three time zones.",
+      "style": "Contextual",
+      "translation": "她管理着一支横跨三个时区的十二人团队。",
+      "translated_word": "管理",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new director will manage all international operations starting next quarter.",
+      "style": "Formal",
+      "translation": "新任总监将于下季度起接管全部国际业务。",
+      "translated_word": "接管",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some days I barely manage to get out of bed, but I do.",
+      "style": "Intimate",
+      "translation": "有些日子，我几乎无法起身，但我还是做到了。",
+      "translated_word": "做到",
+      "display_order": 4
+    },
+    {
+      "sentence": "You don't need to control everything; you just need to manage what matters.",
+      "style": "Inspirational",
+      "translation": "你无需掌控一切，只需管好真正重要的事。",
+      "translated_word": "管好",
+      "display_order": 3
+    }
+  ]
+}

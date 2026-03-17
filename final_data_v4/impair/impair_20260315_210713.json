@@ -1,0 +1,40 @@
+{
+  "word": "impair",
+  "phonetic": "/ɪmˈper/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "损害；削弱；减损",
+  "examples": [
+    {
+      "sentence": "The fog impaired visibility so badly that all flights were grounded.",
+      "style": "Contextual",
+      "translation": "大雾严重影响了能见度，所有航班被迫停飞。",
+      "translated_word": "影响",
+      "display_order": 2
+    },
+    {
+      "sentence": "Prolonged screen exposure can impair children's visual development.",
+      "style": "Formal",
+      "translation": "长时间接触屏幕可能损害儿童的视觉发育。",
+      "translated_word": "损害",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sleep deprivation impairs judgment more than most people realize.",
+      "style": "Collocational",
+      "translation": "睡眠不足对判断力的削弱远超人们的想象。",
+      "translated_word": "削弱",
+      "display_order": 3
+    },
+    {
+      "sentence": "We guard against sudden loss, yet ignore what quietly impairs what we already hold.",
+      "style": "Philosophical",
+      "translation": "我们提防突如其来的失去，却忽视了什么在悄然侵蚀我们已拥有的一切。",
+      "translated_word": "侵蚀",
+      "display_order": 4
+    }
+  ]
+}

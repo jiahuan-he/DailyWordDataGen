@@ -1,0 +1,40 @@
+{
+  "word": "parade",
+  "phonetic": "/pəˈreɪd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "游行；队列；炫耀",
+  "examples": [
+    {
+      "sentence": "The whole town gathered for the holiday parade.",
+      "style": "Contextual",
+      "translation": "全镇居民聚集在一起，观看节日游行。",
+      "translated_word": "游行",
+      "display_order": 1
+    },
+    {
+      "sentence": "Confetti drifted down like colored snow as the parade passed beneath our window.",
+      "style": "Poetic",
+      "translation": "彩纸如彩雪般飘落，游行队伍正从我们窗下走过。",
+      "translated_word": "游行",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father lifted me onto his shoulders so I could see the parade above the crowd.",
+      "style": "Intimate",
+      "translation": "父亲把我举上肩头，让我越过人群看清游行的队伍。",
+      "translated_word": "游行",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every parade is a city's way of reminding itself what it believes in.",
+      "style": "Philosophical",
+      "translation": "每一场游行，都是一座城市在提醒自己所珍视的信念。",
+      "translated_word": "游行",
+      "display_order": 4
+    }
+  ]
+}

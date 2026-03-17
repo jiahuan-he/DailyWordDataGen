@@ -1,0 +1,39 @@
+{
+  "word": "hamlet",
+  "phonetic": "/ˈhæmlɪt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "小村庄；村落",
+  "examples": [
+    {
+      "sentence": "The hamlet had no post office, no school; just twelve stone houses and a well.",
+      "style": "Contextual",
+      "translation": "这个小村庄没有邮局，没有学校；只有十二座石屋和一口井。",
+      "translated_word": "小村庄",
+      "display_order": 1
+    },
+    {
+      "sentence": "Fog settled over the hamlet at dawn, erasing it from the map.",
+      "style": "Poetic",
+      "translation": "黎明时分，雾霭笼罩了村庄，将它从地图上悄然抹去。",
+      "translated_word": "村庄",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's hamlet had one road in and the same road out.",
+      "style": "Intimate",
+      "translation": "外婆的村庄只有一条路，进去是它，出来也是它。",
+      "translated_word": "村庄",
+      "display_order": 2
+    },
+    {
+      "sentence": "A remote hamlet in the mountains preserved traditions the cities had long forgotten.",
+      "style": "Collocational",
+      "translation": "深山中的偏远村落，保留着城市早已遗忘的传统。",
+      "translated_word": "村落",
+      "display_order": 3
+    }
+  ]
+}

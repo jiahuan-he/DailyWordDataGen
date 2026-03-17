@@ -1,0 +1,41 @@
+{
+  "word": "weather",
+  "phonetic": "/ˈweðər/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "天气；气候；气象",
+  "examples": [
+    {
+      "sentence": "Check the weather before you pack.",
+      "style": "Contextual",
+      "translation": "收拾行李前，先看看天气。",
+      "translated_word": "天气",
+      "display_order": 1
+    },
+    {
+      "sentence": "The weather turned without warning.",
+      "style": "Collocational",
+      "translation": "天气毫无预兆地变了。",
+      "translated_word": "天气",
+      "display_order": 2
+    },
+    {
+      "sentence": "Gray weather pressed against the windows like a held breath.",
+      "style": "Poetic",
+      "translation": "灰蒙蒙的天气压在窗上，像一口屏住的呼吸。",
+      "translated_word": "天气",
+      "display_order": 3
+    },
+    {
+      "sentence": "We spoke of everything except the weather.",
+      "style": "Intimate",
+      "translation": "我们什么都聊，唯独不提天气。",
+      "translated_word": "天气",
+      "display_order": 4
+    }
+  ]
+}

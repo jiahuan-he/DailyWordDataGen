@@ -1,0 +1,40 @@
+{
+  "word": "asphalt",
+  "phonetic": "/ˈæsfɔːlt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "沥青；柏油",
+  "examples": [
+    {
+      "sentence": "The summer heat made the asphalt soft enough to leave footprints.",
+      "style": "Contextual",
+      "translation": "夏日的高温让沥青变软，足以留下脚印。",
+      "translated_word": "沥青",
+      "display_order": 1
+    },
+    {
+      "sentence": "Fresh asphalt gleamed under the streetlights after the road crew finished.",
+      "style": "Collocational",
+      "translation": "施工队收工后，新铺的柏油在街灯下泛着光。",
+      "translated_word": "柏油",
+      "display_order": 2
+    },
+    {
+      "sentence": "Rain on hot asphalt: the city's only perfume.",
+      "style": "Poetic",
+      "translation": "雨落在滚烫的柏油上：这是城市唯一的香气。",
+      "translated_word": "柏油",
+      "display_order": 4
+    },
+    {
+      "sentence": "We learned to ride bikes on that cracked asphalt, knees collecting scars like souvenirs.",
+      "style": "Intimate",
+      "translation": "我们在那片龟裂的柏油路上学会骑车，膝盖上的伤疤是成长的纪念。",
+      "translated_word": "柏油",
+      "display_order": 3
+    }
+  ]
+}
