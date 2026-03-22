@@ -1,0 +1,40 @@
+{
+  "word": "sideline",
+  "phonetic": "/ˈsaɪdlaɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "副业；边线；旁观",
+  "examples": [
+    {
+      "sentence": "Her pottery started as a sideline but now pays the rent.",
+      "style": "Contextual",
+      "translation": "陶艺起初只是她的副业，如今却足以支付房租。",
+      "translated_word": "副业",
+      "display_order": 2
+    },
+    {
+      "sentence": "He watched from the sidelines as his daughter scored her first goal.",
+      "style": "Collocational",
+      "translation": "他站在场边，看着女儿踢进人生中的第一粒球。",
+      "translated_word": "场边",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some people spend decades on the sidelines, waiting for the perfect moment that never comes.",
+      "style": "Philosophical",
+      "translation": "有些人在场外徘徊数十年，等待着永远不会到来的完美时机。",
+      "translated_word": "场外",
+      "display_order": 3
+    },
+    {
+      "sentence": "The sidelines are comfortable; the field is where you find out who you are.",
+      "style": "Inspirational",
+      "translation": "场边固然安逸，唯有踏入赛场，方能认清自己。",
+      "translated_word": "场边",
+      "display_order": 4
+    }
+  ]
+}

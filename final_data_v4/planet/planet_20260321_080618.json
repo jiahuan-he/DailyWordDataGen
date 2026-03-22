@@ -1,0 +1,39 @@
+{
+  "word": "planet",
+  "phonetic": "/ˈplænɪt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "行星；星球",
+  "examples": [
+    {
+      "sentence": "Mars remains the planet most likely to host human settlers.",
+      "style": "Contextual",
+      "translation": "火星仍是最有可能容纳人类定居者的行星。",
+      "translated_word": "行星",
+      "display_order": 1
+    },
+    {
+      "sentence": "We share one planet, yet live as strangers upon it.",
+      "style": "Philosophical",
+      "translation": "我们共享同一颗星球，却如陌路人般生活其上。",
+      "translated_word": "星球",
+      "display_order": 3
+    },
+    {
+      "sentence": "The planet spins quietly, cradling oceans and dreams alike.",
+      "style": "Poetic",
+      "translation": "星球静静旋转，怀抱着海洋与梦想。",
+      "translated_word": "星球",
+      "display_order": 4
+    },
+    {
+      "sentence": "This planet gave us life; we owe it our care.",
+      "style": "Inspirational",
+      "translation": "这颗星球赋予我们生命；守护它是我们的责任。",
+      "translated_word": "星球",
+      "display_order": 2
+    }
+  ]
+}

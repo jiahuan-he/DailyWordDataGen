@@ -1,0 +1,40 @@
+{
+  "word": "sanitary",
+  "phonetic": "/ˈsænɪteri/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "卫生的；清洁的；有益健康的",
+  "examples": [
+    {
+      "sentence": "The kitchen passed inspection; every surface was sanitary.",
+      "style": "Contextual",
+      "translation": "厨房通过了检查；每个台面都干净卫生。",
+      "translated_word": "卫生",
+      "display_order": 2
+    },
+    {
+      "sentence": "Health officials raised concerns over sanitary conditions in local markets.",
+      "style": "Formal",
+      "translation": "卫生官员对当地市场的卫生状况表示担忧。",
+      "translated_word": "卫生",
+      "display_order": 3
+    },
+    {
+      "sentence": "Hospitals enforce strict sanitary protocols to prevent infection.",
+      "style": "Collocational",
+      "translation": "医院严格执行卫生规程以防止感染。",
+      "translated_word": "卫生",
+      "display_order": 1
+    },
+    {
+      "sentence": "The old shelter was cramped and neglected; this one is spacious and sanitary.",
+      "style": "Contrastive",
+      "translation": "旧收容所狭小破败；这里宽敞整洁。",
+      "translated_word": "整洁",
+      "display_order": 4
+    }
+  ]
+}

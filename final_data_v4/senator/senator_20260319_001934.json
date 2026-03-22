@@ -1,0 +1,39 @@
+{
+  "word": "senator",
+  "phonetic": "/ˈsenətər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "参议员；上议院议员",
+  "examples": [
+    {
+      "sentence": "The senator addressed the chamber with measured urgency.",
+      "style": "Formal",
+      "translation": "参议员以沉稳而紧迫的语调向议院发表讲话。",
+      "translated_word": "参议员",
+      "display_order": 1
+    },
+    {
+      "sentence": "Three senators opposed the bill, citing constitutional concerns.",
+      "style": "Contextual",
+      "translation": "三位参议员以宪法问题为由反对该法案。",
+      "translated_word": "参议员",
+      "display_order": 2
+    },
+    {
+      "sentence": "The junior senator from Texas won her seat by a narrow margin.",
+      "style": "Collocational",
+      "translation": "这位来自得州的新任参议员以微弱优势赢得席位。",
+      "translated_word": "参议员",
+      "display_order": 3
+    },
+    {
+      "sentence": "A senator speaks for millions, yet answers to conscience alone.",
+      "style": "Philosophical",
+      "translation": "参议员为千万人发声，却只向良心负责。",
+      "translated_word": "参议员",
+      "display_order": 4
+    }
+  ]
+}

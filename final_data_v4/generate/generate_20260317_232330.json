@@ -1,0 +1,39 @@
+{
+  "word": "generate",
+  "phonetic": "/ˈdʒenəreɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "产生；生成；引发；创造",
+  "examples": [
+    {
+      "sentence": "The windmill spins day and night, generating power for the whole village.",
+      "style": "Contextual",
+      "translation": "风车日夜旋转，为整个村庄供电。",
+      "translated_word": "供电",
+      "display_order": 2
+    },
+    {
+      "sentence": "The initiative is projected to generate 10,000 new jobs within two years.",
+      "style": "Formal",
+      "translation": "该计划预计在两年内创造一万个就业岗位。",
+      "translated_word": "创造",
+      "display_order": 1
+    },
+    {
+      "sentence": "One bold question can generate more ideas than an hour of discussion.",
+      "style": "Collocational",
+      "translation": "一个大胆的问题，往往比一小时的讨论更能激发灵感。",
+      "translated_word": "激发",
+      "display_order": 3
+    },
+    {
+      "sentence": "Small actions, repeated daily, generate unstoppable momentum.",
+      "style": "Inspirational",
+      "translation": "日复一日的微小行动，终将汇聚成势不可挡的力量。",
+      "translated_word": "汇聚",
+      "display_order": 4
+    }
+  ]
+}

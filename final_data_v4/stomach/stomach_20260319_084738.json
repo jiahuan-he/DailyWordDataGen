@@ -1,0 +1,40 @@
+{
+  "word": "stomach",
+  "phonetic": "/ˈstʌmək/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "胃；肚子；腹部",
+  "examples": [
+    {
+      "sentence": "The medicine should be taken on a full stomach.",
+      "style": "Contextual",
+      "translation": "这药需要饭后服用。",
+      "translated_word": null,
+      "display_order": 1
+    },
+    {
+      "sentence": "An empty stomach makes a poor advisor.",
+      "style": "Collocational",
+      "translation": "空腹时做不出好决定。",
+      "translated_word": "腹",
+      "display_order": 2
+    },
+    {
+      "sentence": "Butterflies stirred in my stomach the moment our eyes met.",
+      "style": "Intimate",
+      "translation": "四目相对的刹那，心底泛起阵阵悸动。",
+      "translated_word": "心底",
+      "display_order": 4
+    },
+    {
+      "sentence": "Hunger gnaws at the stomach; longing gnaws at the soul.",
+      "style": "Poetic",
+      "translation": "饥饿啃噬胃腑，思念啃噬灵魂。",
+      "translated_word": "胃",
+      "display_order": 3
+    }
+  ]
+}

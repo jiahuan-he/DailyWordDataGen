@@ -1,0 +1,40 @@
+{
+  "word": "quality",
+  "phonetic": "/ˈkwɒləti/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "质量；品质；特性；素质",
+  "examples": [
+    {
+      "sentence": "The quality of her silence spoke louder than any apology.",
+      "style": "Philosophical",
+      "translation": "她沉默的质地，比任何道歉都更响亮。",
+      "translated_word": "质地",
+      "display_order": 4
+    },
+    {
+      "sentence": "He chose fewer clients to protect the quality of his work.",
+      "style": "Contextual",
+      "translation": "他宁可少接客户，也要守住作品的品质。",
+      "translated_word": "品质",
+      "display_order": 2
+    },
+    {
+      "sentence": "The report highlights a sharp decline in air quality across major cities.",
+      "style": "Formal",
+      "translation": "报告指出，各大城市的空气质量急剧下降。",
+      "translated_word": "质量",
+      "display_order": 1
+    },
+    {
+      "sentence": "Quality of life, not length of years, became her measure of success.",
+      "style": "Collocational",
+      "translation": "生活的质量，而非岁月的长度，成了她衡量成功的标尺。",
+      "translated_word": "质量",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "anemic",
+  "phonetic": "/əˈniːmɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "贫血的；苍白的；乏力的；无生气的",
+  "examples": [
+    {
+      "sentence": "Her anemic complexion worried the nurses before surgery.",
+      "style": "Contextual",
+      "translation": "手术前，她苍白的面色令护士们担忧。",
+      "translated_word": "苍白",
+      "display_order": 1
+    },
+    {
+      "sentence": "The anemic earnings report sent shares tumbling.",
+      "style": "Formal",
+      "translation": "疲软的财报一出，股价应声下跌。",
+      "translated_word": "疲软",
+      "display_order": 3
+    },
+    {
+      "sentence": "The team's anemic offense managed just one goal all season.",
+      "style": "Collocational",
+      "translation": "球队进攻乏力，整个赛季仅攻入一球。",
+      "translated_word": "乏力",
+      "display_order": 2
+    },
+    {
+      "sentence": "Morning sun, anemic through fog, touched the harbor.",
+      "style": "Poetic",
+      "translation": "晨光穿透薄雾，苍白地轻抚着港湾。",
+      "translated_word": "苍白",
+      "display_order": 4
+    }
+  ]
+}

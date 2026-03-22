@@ -1,0 +1,39 @@
+{
+  "word": "optical",
+  "phonetic": "/ˈɒptɪkl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "光学的；视觉的；眼睛的",
+  "examples": [
+    {
+      "sentence": "The microscope's optical precision revealed structures invisible to the naked eye.",
+      "style": "Contextual",
+      "translation": "显微镜的光学精度揭示了肉眼无法看见的结构。",
+      "translated_word": "光学",
+      "display_order": 1
+    },
+    {
+      "sentence": "Advances in optical computing may soon outpace traditional silicon processors.",
+      "style": "Formal",
+      "translation": "光学计算的进步或将很快超越传统硅基处理器。",
+      "translated_word": "光学",
+      "display_order": 3
+    },
+    {
+      "sentence": "The desert heat conjures optical illusions that trick even seasoned travelers.",
+      "style": "Collocational",
+      "translation": "沙漠的热浪制造出海市蜃楼，连经验丰富的旅人也难辨真假。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "We place such faith in our optical senses, forgetting how willingly light bends the truth.",
+      "style": "Philosophical",
+      "translation": "我们如此信赖视觉，却忘了光线多么乐于扭曲真相。",
+      "translated_word": "视觉",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "claim",
+  "phonetic": "/kleɪm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "声称；索取；认领；夺去",
+  "examples": [
+    {
+      "sentence": "No one has come to claim the lost umbrella at the front desk.",
+      "style": "Contextual",
+      "translation": "至今无人前来认领前台遗失的那把雨伞。",
+      "translated_word": "认领",
+      "display_order": 2
+    },
+    {
+      "sentence": "The company claims the breach affected fewer than a thousand users.",
+      "style": "Formal",
+      "translation": "该公司声称此次泄露事件影响的用户不足千人。",
+      "translated_word": "声称",
+      "display_order": 1
+    },
+    {
+      "sentence": "To claim your story, you must first stop apologizing for it.",
+      "style": "Philosophical",
+      "translation": "想要宣称自己的故事，先要停止为它道歉。",
+      "translated_word": "宣称",
+      "display_order": 3
+    },
+    {
+      "sentence": "After a decade of doubt, she claimed the word 'artist' as her own.",
+      "style": "Intimate",
+      "translation": "十年踌躇之后，她终于坦然以\"艺术家\"自居。",
+      "translated_word": "自居",
+      "display_order": 4
+    }
+  ]
+}

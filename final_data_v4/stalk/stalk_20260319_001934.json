@@ -1,0 +1,40 @@
+{
+  "word": "stalk",
+  "phonetic": "/stɔːk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "跟踪；潜行追踪；纠缠",
+  "examples": [
+    {
+      "sentence": "The cat crouched low, stalking a sparrow near the fence.",
+      "style": "Contextual",
+      "translation": "猫低伏着身子，悄悄逼近篱笆旁的麻雀。",
+      "translated_word": "逼近",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities charged him with stalking his former business partner.",
+      "style": "Formal",
+      "translation": "当局指控他跟踪骚扰其前商业伙伴。",
+      "translated_word": "跟踪",
+      "display_order": 2
+    },
+    {
+      "sentence": "Doubt stalks the sleepless, circling closer with each passing hour.",
+      "style": "Poetic",
+      "translation": "疑虑潜伏于失眠者身畔，随夜深而步步紧逼。",
+      "translated_word": "潜伏",
+      "display_order": 3
+    },
+    {
+      "sentence": "We stalk certainty as hunters do prey, forgetting that peace lies in letting go.",
+      "style": "Philosophical",
+      "translation": "我们如猎人般追逐确定，却忘了安宁在于放手。",
+      "translated_word": "追逐",
+      "display_order": 4
+    }
+  ]
+}

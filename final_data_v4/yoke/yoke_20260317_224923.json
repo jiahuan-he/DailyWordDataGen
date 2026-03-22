@@ -1,0 +1,40 @@
+{
+  "word": "yoke",
+  "phonetic": "/joʊk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "枷锁；束缚；轭",
+  "examples": [
+    {
+      "sentence": "The oxen lowered their heads as the farmer placed the yoke across their necks.",
+      "style": "Contextual",
+      "translation": "农夫将轭架上牛颈时，两头牛低下了头。",
+      "translated_word": "轭",
+      "display_order": 1
+    },
+    {
+      "sentence": "The nation finally threw off the yoke of colonial rule.",
+      "style": "Collocational",
+      "translation": "这个国家终于挣脱了殖民统治的枷锁。",
+      "translated_word": "枷锁",
+      "display_order": 3
+    },
+    {
+      "sentence": "Freedom begins when we recognize which yoke we placed upon ourselves.",
+      "style": "Philosophical",
+      "translation": "自由始于我们认清哪些枷锁是自己套上的。",
+      "translated_word": "枷锁",
+      "display_order": 4
+    },
+    {
+      "sentence": "She walked taller the day she shed the yoke of others' expectations.",
+      "style": "Poetic",
+      "translation": "卸下他人期望的重轭那天，她的步伐愈发挺拔。",
+      "translated_word": "重轭",
+      "display_order": 2
+    }
+  ]
+}

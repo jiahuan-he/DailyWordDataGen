@@ -1,0 +1,41 @@
+{
+  "word": "trial",
+  "phonetic": "/ˈtraɪəl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "审判；试验；考验；试用",
+  "examples": [
+    {
+      "sentence": "The free trial expires in three days.",
+      "style": "Contextual",
+      "translation": "免费试用还有三天到期。",
+      "translated_word": "试用",
+      "display_order": 2
+    },
+    {
+      "sentence": "The trial concluded after six weeks of testimony.",
+      "style": "Formal",
+      "translation": "历经六周的证词陈述，审判终于落幕。",
+      "translated_word": "审判",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every trial reveals what we're willing to fight for.",
+      "style": "Philosophical",
+      "translation": "每一次考验都揭示了我们愿意为何而战。",
+      "translated_word": "考验",
+      "display_order": 4
+    },
+    {
+      "sentence": "The trial didn't break her; it reshaped her into something stronger.",
+      "style": "Inspirational",
+      "translation": "那场考验没有击垮她，反而将她重塑得更加坚韧。",
+      "translated_word": "考验",
+      "display_order": 3
+    }
+  ]
+}

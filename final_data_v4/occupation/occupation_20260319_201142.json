@@ -1,0 +1,39 @@
+{
+  "word": "occupation",
+  "phonetic": "/ˌɑːkjuˈpeɪʃn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "职业；工作；占领；消遣",
+  "examples": [
+    {
+      "sentence": "The form asked for her name, age, and occupation.",
+      "style": "Contextual",
+      "translation": "表格上要求填写她的姓名、年龄和职业。",
+      "translated_word": "职业",
+      "display_order": 1
+    },
+    {
+      "sentence": "Teaching remains one of the most undervalued occupations in modern society.",
+      "style": "Formal",
+      "translation": "教师依然是当代社会最被低估的职业之一。",
+      "translated_word": "职业",
+      "display_order": 2
+    },
+    {
+      "sentence": "Gardening became her quiet occupation on Sunday mornings.",
+      "style": "Collocational",
+      "translation": "园艺成了她周日清晨的静谧消遣。",
+      "translated_word": "消遣",
+      "display_order": 4
+    },
+    {
+      "sentence": "We ask children what they want to be, as if occupation were the whole of a life.",
+      "style": "Philosophical",
+      "translation": "我们问孩子长大想做什么，仿佛职业便是人生的全部。",
+      "translated_word": "职业",
+      "display_order": 3
+    }
+  ]
+}

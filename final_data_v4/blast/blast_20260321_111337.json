@@ -1,0 +1,41 @@
+{
+  "word": "blast",
+  "phonetic": "/blæst/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "爆炸；冲击波；狂欢；巨响",
+  "examples": [
+    {
+      "sentence": "A blast of cold air rushed in when she opened the door.",
+      "style": "Contextual",
+      "translation": "她推开门，一股冷气迎面扑来。",
+      "translated_word": "一股",
+      "display_order": 1
+    },
+    {
+      "sentence": "The kids had a blast at the amusement park.",
+      "style": "Collocational",
+      "translation": "孩子们在游乐园玩得不亦乐乎。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "The trumpet's blast silenced the crowded hall.",
+      "style": "Poetic",
+      "translation": "号角一响，满堂喧嚣顿时沉寂。",
+      "translated_word": "响",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every reunion with old friends is a blast worth traveling for.",
+      "style": "Intimate",
+      "translation": "每一次老友重逢，都值得千里奔赴。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

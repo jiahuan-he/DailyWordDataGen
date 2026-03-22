@@ -1,0 +1,39 @@
+{
+  "word": "peek",
+  "phonetic": "/piːk/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "偷看；窥视；瞥一眼",
+  "examples": [
+    {
+      "sentence": "She peeked through the curtains to check if the taxi had arrived.",
+      "style": "Contextual",
+      "translation": "她撩开窗帘瞥了一眼，看出租车到了没有。",
+      "translated_word": "瞥",
+      "display_order": 2
+    },
+    {
+      "sentence": "The child peeked around the corner, making sure no one was watching.",
+      "style": "Collocational",
+      "translation": "孩子从墙角探出头，确认没人在看。",
+      "translated_word": "探出",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sunlight peeked through the blinds, tracing gold lines across the floor.",
+      "style": "Poetic",
+      "translation": "阳光从百叶窗缝隙探入，在地板上描出细细金线。",
+      "translated_word": "探入",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother would always peek into my lunchbox before I left for school.",
+      "style": "Intimate",
+      "translation": "外婆总会在我出门前悄悄翻看我的午餐盒。",
+      "translated_word": "翻看",
+      "display_order": 3
+    }
+  ]
+}

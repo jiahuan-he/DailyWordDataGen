@@ -1,0 +1,40 @@
+{
+  "word": "barren",
+  "phonetic": "/ˈbærən/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "贫瘠的；荒芜的；不毛的；徒劳的",
+  "examples": [
+    {
+      "sentence": "Nothing grows here; the soil is barren.",
+      "style": "Contextual",
+      "translation": "这里寸草不生，土壤太过贫瘠。",
+      "translated_word": "贫瘠",
+      "display_order": 1
+    },
+    {
+      "sentence": "A barren field holds its breath beneath the winter sky, waiting for spring.",
+      "style": "Poetic",
+      "translation": "荒芜的田野在冬日苍穹下屏息以待，静候春归。",
+      "translated_word": "荒芜",
+      "display_order": 3
+    },
+    {
+      "sentence": "A barren mind consumes endlessly but creates nothing.",
+      "style": "Philosophical",
+      "translation": "贫瘠的心灵永远只会索取，从不创造。",
+      "translated_word": "贫瘠",
+      "display_order": 4
+    },
+    {
+      "sentence": "Once lush with wildflowers, the hillside now lies barren after the fire.",
+      "style": "Contrastive",
+      "translation": "那片曾野花烂漫的山坡，在大火之后已是一片荒芜。",
+      "translated_word": "荒芜",
+      "display_order": 2
+    }
+  ]
+}

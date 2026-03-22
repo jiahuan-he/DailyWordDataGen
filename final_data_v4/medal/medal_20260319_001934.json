@@ -1,0 +1,40 @@
+{
+  "word": "medal",
+  "phonetic": "/ˈmed.əl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "奖章；勋章；奖牌",
+  "examples": [
+    {
+      "sentence": "She keeps her grandfather's medal in a velvet box, never worn but always treasured.",
+      "style": "Intimate",
+      "translation": "她将祖父的勋章珍藏在天鹅绒盒中，从未佩戴，却视若珍宝。",
+      "translated_word": "勋章",
+      "display_order": 2
+    },
+    {
+      "sentence": "The athlete held up her medal, proof of ten thousand quiet mornings.",
+      "style": "Inspirational",
+      "translation": "运动员高举奖牌；那是一万个寂静清晨的证明。",
+      "translated_word": "奖牌",
+      "display_order": 1
+    },
+    {
+      "sentence": "The museum unveiled a medal honoring frontline workers during the pandemic.",
+      "style": "Formal",
+      "translation": "博物馆揭幕了一枚表彰疫情期间一线工作者的纪念章。",
+      "translated_word": "纪念章",
+      "display_order": 3
+    },
+    {
+      "sentence": "He didn't care about the medal; he ran to see how far his legs could carry him.",
+      "style": "Philosophical",
+      "translation": "他不在乎奖牌；他奔跑，只为看看双腿能带他走多远。",
+      "translated_word": "奖牌",
+      "display_order": 4
+    }
+  ]
+}

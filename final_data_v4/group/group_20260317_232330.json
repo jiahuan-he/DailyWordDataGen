@@ -1,0 +1,40 @@
+{
+  "word": "group",
+  "phonetic": "/ɡruːp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "群；组；团体；小组",
+  "examples": [
+    {
+      "sentence": "A small group gathered by the gallery doors, speaking in hushed tones.",
+      "style": "Contextual",
+      "translation": "一小群人聚在画廊门前，低声交谈着。",
+      "translated_word": "群",
+      "display_order": 2
+    },
+    {
+      "sentence": "She joined a reading group that met every Thursday evening.",
+      "style": "Collocational",
+      "translation": "她加入了一个每周四晚聚会的读书小组。",
+      "translated_word": "小组",
+      "display_order": 1
+    },
+    {
+      "sentence": "We form groups not to think alike, but to feel less alone in our thinking.",
+      "style": "Philosophical",
+      "translation": "我们组成群体，不是为了想法一致，而是为了在思考时不再孤单。",
+      "translated_word": "群体",
+      "display_order": 4
+    },
+    {
+      "sentence": "That summer, our group of four shared everything: secrets, sunsets, silence.",
+      "style": "Intimate",
+      "translation": "那年夏天，我们四人小组分享一切：秘密、落日、沉默。",
+      "translated_word": "小组",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "unseemly",
+  "phonetic": "/ʌnˈsiːmli/",
+  "pos": [
+    "adjective",
+    "adverb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "不得体；不雅；有失体面",
+  "examples": [
+    {
+      "sentence": "His laughter at the funeral felt deeply unseemly.",
+      "style": "Contextual",
+      "translation": "他在葬礼上的笑声显得极不合时宜。",
+      "translated_word": "不合时宜",
+      "display_order": 1
+    },
+    {
+      "sentence": "The diplomat's unseemly remarks prompted an official apology.",
+      "style": "Formal",
+      "translation": "这位外交官不当的言论引发了官方道歉。",
+      "translated_word": "不当",
+      "display_order": 2
+    },
+    {
+      "sentence": "They divided the inheritance with unseemly haste.",
+      "style": "Collocational",
+      "translation": "他们以令人侧目的仓促瓜分了遗产。",
+      "translated_word": "令人侧目",
+      "display_order": 3
+    },
+    {
+      "sentence": "What seems unseemly today may be unremarkable tomorrow.",
+      "style": "Philosophical",
+      "translation": "今日看来不得体之事，明日或许稀松平常。",
+      "translated_word": "不得体",
+      "display_order": 4
+    }
+  ]
+}

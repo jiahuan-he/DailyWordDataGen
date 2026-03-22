@@ -1,0 +1,41 @@
+{
+  "word": "separate",
+  "phonetic": "/ˈsepəreɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "分开；分离；隔开；区分",
+  "examples": [
+    {
+      "sentence": "The river separates the old town from the new district.",
+      "style": "Contextual",
+      "translation": "河流将老城区与新区隔开。",
+      "translated_word": "隔开",
+      "display_order": 1
+    },
+    {
+      "sentence": "What separates courage from recklessness is often only the outcome.",
+      "style": "Philosophical",
+      "translation": "区分勇气与鲁莽的，往往只是结果。",
+      "translated_word": "区分",
+      "display_order": 3
+    },
+    {
+      "sentence": "That summer we separated, I learned some goodbyes carry no sound.",
+      "style": "Intimate",
+      "translation": "那年夏天分别后，我才懂得有些告别是无声的。",
+      "translated_word": "分别",
+      "display_order": 2
+    },
+    {
+      "sentence": "A good editor separates the wheat from the chaff.",
+      "style": "Collocational",
+      "translation": "好的编辑懂得去芜存菁。",
+      "translated_word": "去芜存菁",
+      "display_order": 4
+    }
+  ]
+}

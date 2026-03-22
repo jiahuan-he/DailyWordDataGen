@@ -1,0 +1,42 @@
+{
+  "word": "content",
+  "phonetic": "/kənˈtent/",
+  "pos": [
+    "adjective",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "满足；满意；心安",
+  "examples": [
+    {
+      "sentence": "With a warm meal and a good book, she was content.",
+      "style": "Contextual",
+      "translation": "一餐热饭，一本好书，她便心满意足。",
+      "translated_word": "心满意足",
+      "display_order": 1
+    },
+    {
+      "sentence": "To be content is to stop measuring your life against others.",
+      "style": "Philosophical",
+      "translation": "知足，是不再拿自己的生活与他人比较。",
+      "translated_word": "知足",
+      "display_order": 4
+    },
+    {
+      "sentence": "Content, he watched the rain trace lines down the window.",
+      "style": "Poetic",
+      "translation": "他神情恬然，看雨水沿窗户划下细痕。",
+      "translated_word": "恬然",
+      "display_order": 3
+    },
+    {
+      "sentence": "The day I stopped wanting more, I woke up content.",
+      "style": "Intimate",
+      "translation": "不再渴求更多的那天，我醒来便觉满足。",
+      "translated_word": "满足",
+      "display_order": 2
+    }
+  ]
+}

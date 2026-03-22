@@ -1,0 +1,41 @@
+{
+  "word": "further",
+  "phonetic": "/ˈfɜːrðər/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "verb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "更远；进一步；此外",
+  "examples": [
+    {
+      "sentence": "The path stretched further than the map suggested.",
+      "style": "Contextual",
+      "translation": "小路延伸的距离，比地图标注的更远。",
+      "translated_word": "更远",
+      "display_order": 1
+    },
+    {
+      "sentence": "The investigation will not proceed further without new evidence.",
+      "style": "Formal",
+      "translation": "若无新证据，调查将不再继续。",
+      "translated_word": "不再",
+      "display_order": 4
+    },
+    {
+      "sentence": "The deeper we explain, the further we drift from the truth.",
+      "style": "Philosophical",
+      "translation": "解释越深，离真相越远。",
+      "translated_word": "越远",
+      "display_order": 3
+    },
+    {
+      "sentence": "You've already outgrown who you were; now go further.",
+      "style": "Inspirational",
+      "translation": "你已超越曾经的自己；继续向前。",
+      "translated_word": "向前",
+      "display_order": 2
+    }
+  ]
+}

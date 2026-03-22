@@ -1,0 +1,40 @@
+{
+  "word": "billow",
+  "phonetic": "/ˈbɪloʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "翻涌；鼓起；涌动",
+  "examples": [
+    {
+      "sentence": "Her dress billowed in the wind as she stepped onto the balcony.",
+      "style": "Contextual",
+      "translation": "她走上阳台，裙摆在风中鼓起。",
+      "translated_word": "鼓起",
+      "display_order": 1
+    },
+    {
+      "sentence": "Smoke billowed from the chimney, signaling the first fire of winter.",
+      "style": "Collocational",
+      "translation": "烟雾从烟囱中翻涌而出，宣告着冬日的第一把火。",
+      "translated_word": "翻涌",
+      "display_order": 3
+    },
+    {
+      "sentence": "Clouds billowed across the valley, swallowing the peaks in silence.",
+      "style": "Poetic",
+      "translation": "云朵翻涌过山谷，将群峰悄然吞没。",
+      "translated_word": "翻涌",
+      "display_order": 4
+    },
+    {
+      "sentence": "The white sheets billowed on the clothesline; that summer at my grandmother's felt endless.",
+      "style": "Intimate",
+      "translation": "白色床单在晾衣绳上鼓动；那年在外婆家的夏天，仿佛没有尽头。",
+      "translated_word": "鼓动",
+      "display_order": 2
+    }
+  ]
+}

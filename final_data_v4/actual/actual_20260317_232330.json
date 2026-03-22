@@ -1,0 +1,40 @@
+{
+  "word": "actual",
+  "phonetic": "/ˈæktʃuəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "实际的；真实的；确切的",
+  "examples": [
+    {
+      "sentence": "The photo made it look spacious, but the actual room was barely ten square meters.",
+      "style": "Contextual",
+      "translation": "照片里看着很宽敞，实际房间还不到十平米。",
+      "translated_word": "实际",
+      "display_order": 1
+    },
+    {
+      "sentence": "His actual words were gentle; only the silence afterward felt cold.",
+      "style": "Contrastive",
+      "translation": "他实际说的话很温和，只是之后的沉默让人觉得冷。",
+      "translated_word": "实际",
+      "display_order": 2
+    },
+    {
+      "sentence": "The actual impact of the new policy remains under assessment.",
+      "style": "Formal",
+      "translation": "新政策的实际影响仍在评估中。",
+      "translated_word": "实际",
+      "display_order": 4
+    },
+    {
+      "sentence": "The listed price rarely reflects the actual cost.",
+      "style": "Collocational",
+      "translation": "标价往往不能反映实际费用。",
+      "translated_word": "实际",
+      "display_order": 3
+    }
+  ]
+}

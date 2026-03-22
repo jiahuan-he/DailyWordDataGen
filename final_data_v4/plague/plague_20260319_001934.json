@@ -1,0 +1,40 @@
+{
+  "word": "plague",
+  "phonetic": "/pleɪɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "瘟疫；灾祸；祸害",
+  "examples": [
+    {
+      "sentence": "Merchants fled the port when plague arrived; trade could wait.",
+      "style": "Contextual",
+      "translation": "瘟疫来袭，商人逃离港口；生意可以等。",
+      "translated_word": "瘟疫",
+      "display_order": 2
+    },
+    {
+      "sentence": "The 1918 plague claimed more lives than the war itself.",
+      "style": "Formal",
+      "translation": "1918年的瘟疫夺走的生命比战争本身还多。",
+      "translated_word": "瘟疫",
+      "display_order": 1
+    },
+    {
+      "sentence": "A plague teaches what peace could not: the fragility of everything.",
+      "style": "Philosophical",
+      "translation": "瘟疫教会了和平无法教会的事：万物的脆弱。",
+      "translated_word": "瘟疫",
+      "display_order": 3
+    },
+    {
+      "sentence": "The plague left no footprints, only absence.",
+      "style": "Poetic",
+      "translation": "瘟疫不留足迹，唯余空寂。",
+      "translated_word": "瘟疫",
+      "display_order": 4
+    }
+  ]
+}

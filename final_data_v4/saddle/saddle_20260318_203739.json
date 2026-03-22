@@ -1,0 +1,40 @@
+{
+  "word": "saddle",
+  "phonetic": "/ˈsædl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "马鞍；鞍座；车座",
+  "examples": [
+    {
+      "sentence": "She adjusted the saddle before the morning ride.",
+      "style": "Contextual",
+      "translation": "晨骑之前，她调整了马鞍。",
+      "translated_word": "马鞍",
+      "display_order": 1
+    },
+    {
+      "sentence": "An empty saddle tells a story no rider needs to speak.",
+      "style": "Poetic",
+      "translation": "空鞍无言，已诉尽骑者的故事。",
+      "translated_word": "鞍",
+      "display_order": 4
+    },
+    {
+      "sentence": "Twenty years in the saddle taught him patience.",
+      "style": "Collocational",
+      "translation": "二十年的马背生涯教会了他耐心。",
+      "translated_word": "马背",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father's saddle still smells of leather and long summer rides.",
+      "style": "Intimate",
+      "translation": "父亲的旧鞍依然带着皮革的气息，和那些悠长夏日的余味。",
+      "translated_word": "鞍",
+      "display_order": 2
+    }
+  ]
+}

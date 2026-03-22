@@ -1,0 +1,39 @@
+{
+  "word": "sketchy",
+  "phonetic": "/ˈsketʃi/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "粗略的；可疑的；不靠谱的",
+  "examples": [
+    {
+      "sentence": "The plan was sketchy: just a few bullet points and a rough timeline.",
+      "style": "Contextual",
+      "translation": "计划十分粗略：几个要点，一份大致的时间表。",
+      "translated_word": "粗略",
+      "display_order": 2
+    },
+    {
+      "sentence": "We avoided the sketchy alley and took the main road.",
+      "style": "Collocational",
+      "translation": "我们绕开了那条可疑的小巷，走了大路。",
+      "translated_word": "可疑",
+      "display_order": 1
+    },
+    {
+      "sentence": "Something about that offer felt sketchy, so I declined.",
+      "style": "Intimate",
+      "translation": "那份提议让我隐隐不安，于是我婉拒了。",
+      "translated_word": "隐隐不安",
+      "display_order": 4
+    },
+    {
+      "sentence": "His account was sketchy; hers was detailed and precise.",
+      "style": "Contrastive",
+      "translation": "他的陈述含糊不清；她的则详尽准确。",
+      "translated_word": "含糊不清",
+      "display_order": 3
+    }
+  ]
+}

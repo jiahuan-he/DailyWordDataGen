@@ -1,0 +1,39 @@
+{
+  "word": "correlation",
+  "phonetic": "/ˌkɔːrəˈleɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "相关性；关联；相互关系",
+  "examples": [
+    {
+      "sentence": "Reading habits showed a strong correlation with academic success.",
+      "style": "Contextual",
+      "translation": "阅读习惯与学业表现呈现出显著的相关性。",
+      "translated_word": "相关性",
+      "display_order": 1
+    },
+    {
+      "sentence": "The study reveals a troubling correlation between screen time and anxiety.",
+      "style": "Formal",
+      "translation": "研究显示，屏幕使用时长与焦虑情绪之间存在令人担忧的关联。",
+      "translated_word": "关联",
+      "display_order": 2
+    },
+    {
+      "sentence": "A positive correlation emerged between daily walks and sleep quality.",
+      "style": "Collocational",
+      "translation": "日常散步与睡眠质量的改善呈正相关。",
+      "translated_word": "相关",
+      "display_order": 3
+    },
+    {
+      "sentence": "We mistake correlation for meaning, finding patterns where none exist.",
+      "style": "Philosophical",
+      "translation": "我们常将关联误读为因果，在虚无中执意寻觅规律。",
+      "translated_word": "关联",
+      "display_order": 4
+    }
+  ]
+}

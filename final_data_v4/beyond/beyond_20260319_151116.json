@@ -1,0 +1,41 @@
+{
+  "word": "beyond",
+  "phonetic": "/bɪˈjɑːnd/",
+  "pos": [
+    "adverb",
+    "noun",
+    "preposition"
+  ],
+  "selected_pos": "preposition",
+  "definition": "超越；在...之外；超出...范围",
+  "examples": [
+    {
+      "sentence": "The path continued beyond the forest, into open fields.",
+      "style": "Contextual",
+      "translation": "小径穿过森林，延伸向开阔的原野。",
+      "translated_word": "穿过",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some truths live beyond the reach of words.",
+      "style": "Philosophical",
+      "translation": "有些真理，存在于语言无法抵达之处。",
+      "translated_word": "之处",
+      "display_order": 4
+    },
+    {
+      "sentence": "The sea stretched beyond sight, merging with the pale sky.",
+      "style": "Poetic",
+      "translation": "大海延伸至目力不及之处，与苍茫的天空融为一体。",
+      "translated_word": "之处",
+      "display_order": 2
+    },
+    {
+      "sentence": "Growth begins beyond the edge of comfort.",
+      "style": "Inspirational",
+      "translation": "成长始于舒适区的边界之外。",
+      "translated_word": "之外",
+      "display_order": 3
+    }
+  ]
+}

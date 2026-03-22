@@ -1,0 +1,40 @@
+{
+  "word": "ancient",
+  "phonetic": "/ˈeɪnʃənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "古老的；远古的；古代的",
+  "examples": [
+    {
+      "sentence": "The manuscript was written in an ancient script that no one alive could read.",
+      "style": "Contextual",
+      "translation": "那份手稿以一种古老的文字写成，今人已无从辨识。",
+      "translated_word": "古老",
+      "display_order": 2
+    },
+    {
+      "sentence": "Ancient ruins scattered across the valley tell of a lost kingdom.",
+      "style": "Collocational",
+      "translation": "古老的遗迹散落山谷，诉说着一个消逝的王国。",
+      "translated_word": "古老",
+      "display_order": 1
+    },
+    {
+      "sentence": "We read ancient texts not to flee the present, but to see it clearly.",
+      "style": "Philosophical",
+      "translation": "我们阅读古籍，不为逃避当下，而为看清此刻。",
+      "translated_word": "古",
+      "display_order": 3
+    },
+    {
+      "sentence": "The olive tree stood gnarled and ancient, its roots drinking from centuries.",
+      "style": "Poetic",
+      "translation": "那棵橄榄树虬曲而苍老，根系啜饮着百年的岁月。",
+      "translated_word": "苍老",
+      "display_order": 4
+    }
+  ]
+}

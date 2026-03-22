@@ -1,0 +1,42 @@
+{
+  "word": "snap",
+  "phonetic": "/snæp/",
+  "pos": [
+    "adjective",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "折断；咔嚓作响；厉声说；抓拍",
+  "examples": [
+    {
+      "sentence": "The dry twig snapped under my boot.",
+      "style": "Contextual",
+      "translation": "干枯的树枝在我靴下应声而断。",
+      "translated_word": "断",
+      "display_order": 1
+    },
+    {
+      "sentence": "She snapped a photo of the sunset before it faded.",
+      "style": "Collocational",
+      "translation": "她在落日消逝前抓拍了一张。",
+      "translated_word": "抓拍",
+      "display_order": 3
+    },
+    {
+      "sentence": "My patience finally snapped when he asked for the fifth time.",
+      "style": "Intimate",
+      "translation": "当他第五次开口时，我的耐心终于崩断了。",
+      "translated_word": "崩断",
+      "display_order": 2
+    },
+    {
+      "sentence": "Winter snapped the last warmth from the air.",
+      "style": "Poetic",
+      "translation": "冬日一声脆响，夺走了空气中最后的温存。",
+      "translated_word": "脆响",
+      "display_order": 4
+    }
+  ]
+}

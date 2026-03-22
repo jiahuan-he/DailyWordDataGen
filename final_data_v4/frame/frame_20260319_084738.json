@@ -1,0 +1,40 @@
+{
+  "word": "frame",
+  "phonetic": "/freɪm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "框架；边框；体格；画面",
+  "examples": [
+    {
+      "sentence": "She straightened the silver frame on the mantel, centering her mother's portrait.",
+      "style": "Contextual",
+      "translation": "她把壁炉架上的银框摆正，让母亲的肖像居于正中。",
+      "translated_word": "框",
+      "display_order": 1
+    },
+    {
+      "sentence": "His calm frame of mind steadied everyone in the room.",
+      "style": "Collocational",
+      "translation": "他平静的心态稳住了房间里的所有人。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "The frame decides what we see; everything beyond it quietly ceases to exist.",
+      "style": "Philosophical",
+      "translation": "框架决定了我们所见；框外的一切悄然隐去。",
+      "translated_word": "框架",
+      "display_order": 4
+    },
+    {
+      "sentence": "A chipped wooden frame holds the only photo of all four of us together.",
+      "style": "Intimate",
+      "translation": "一个缺了角的木框里，夹着我们四人唯一的合影。",
+      "translated_word": "框",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "blockade",
+  "phonetic": "/blɑːˈkeɪd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "封锁；包围；阻断",
+  "examples": [
+    {
+      "sentence": "The port fell silent under a naval blockade.",
+      "style": "Contextual",
+      "translation": "港口在海上封锁下陷入沉寂。",
+      "translated_word": "封锁",
+      "display_order": 1
+    },
+    {
+      "sentence": "The economic blockade has crippled the nation's supply chains.",
+      "style": "Formal",
+      "translation": "经济封锁重创了该国的供应链。",
+      "translated_word": "封锁",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every blockade reveals what we truly hunger for on the other side.",
+      "style": "Philosophical",
+      "translation": "每一道封锁都让人看清，自己真正渴望的究竟是什么。",
+      "translated_word": "封锁",
+      "display_order": 4
+    },
+    {
+      "sentence": "Snow formed a quiet blockade, sealing the village in white.",
+      "style": "Poetic",
+      "translation": "大雪筑起无声的屏障，将村庄封印于一片素白之中。",
+      "translated_word": "屏障",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "reverse",
+  "phonetic": "/rɪˈvɜːs/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "逆转；颠倒；撤销；倒车",
+  "examples": [
+    {
+      "sentence": "She reversed her car slowly into the narrow parking spot.",
+      "style": "Contextual",
+      "translation": "她缓缓将车倒入狭窄的车位。",
+      "translated_word": "倒",
+      "display_order": 1
+    },
+    {
+      "sentence": "The central bank's decision to reverse interest rate hikes restored investor confidence.",
+      "style": "Formal",
+      "translation": "央行撤销加息决定后，投资者信心得以恢复。",
+      "translated_word": "撤销",
+      "display_order": 3
+    },
+    {
+      "sentence": "We cannot reverse time, but we can reverse how we interpret the past.",
+      "style": "Philosophical",
+      "translation": "时光无法倒流，但我们可以重新诠释过去。",
+      "translated_word": "倒流",
+      "display_order": 4
+    },
+    {
+      "sentence": "One honest conversation can reverse years of silence between old friends.",
+      "style": "Inspirational",
+      "translation": "一次坦诚的对话，足以逆转多年的沉默。",
+      "translated_word": "逆转",
+      "display_order": 2
+    }
+  ]
+}

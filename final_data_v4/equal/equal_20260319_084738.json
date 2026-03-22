@@ -1,0 +1,41 @@
+{
+  "word": "equal",
+  "phonetic": "/ˈiːkwəl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "相等的；平等的；势均力敌的",
+  "examples": [
+    {
+      "sentence": "They split the bill into equal parts.",
+      "style": "Contextual",
+      "translation": "他们把账单平分了。",
+      "translated_word": "平",
+      "display_order": 1
+    },
+    {
+      "sentence": "An equal voice at the table changes everything.",
+      "style": "Inspirational",
+      "translation": "一席平等发言的机会，足以改变一切。",
+      "translated_word": "平等",
+      "display_order": 4
+    },
+    {
+      "sentence": "Both teams entered the final on equal footing.",
+      "style": "Collocational",
+      "translation": "两支队伍以势均力敌之姿会师决赛。",
+      "translated_word": "均",
+      "display_order": 3
+    },
+    {
+      "sentence": "True respect begins when we see the other as equal.",
+      "style": "Philosophical",
+      "translation": "真正的尊重，始于视他人为平等。",
+      "translated_word": "平等",
+      "display_order": 2
+    }
+  ]
+}

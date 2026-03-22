@@ -1,0 +1,40 @@
+{
+  "word": "abrasive",
+  "phonetic": "/əˈbreɪsɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "粗鲁的；刺耳的；伤人的",
+  "examples": [
+    {
+      "sentence": "His abrasive tone silenced the entire room.",
+      "style": "Contextual",
+      "translation": "他尖刻的语气让整个房间陷入沉默。",
+      "translated_word": "尖刻",
+      "display_order": 1
+    },
+    {
+      "sentence": "She was brilliant but abrasive; colleagues admired her work yet dreaded her feedback.",
+      "style": "Contrastive",
+      "translation": "她才华横溢却尖酸刻薄；同事们钦佩她的能力，却惧怕她的点评。",
+      "translated_word": "尖酸刻薄",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some truths need an abrasive voice to cut through comfortable lies.",
+      "style": "Philosophical",
+      "translation": "有些真相需要刺耳的声音，才能穿透舒适的谎言。",
+      "translated_word": "刺耳",
+      "display_order": 3
+    },
+    {
+      "sentence": "Years later, I understood: his abrasive honesty was a rough kind of love.",
+      "style": "Intimate",
+      "translation": "多年以后我才明白：他那刺人的坦诚，是一种粗粝的爱。",
+      "translated_word": "刺人",
+      "display_order": 4
+    }
+  ]
+}

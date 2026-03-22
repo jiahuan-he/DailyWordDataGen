@@ -1,0 +1,40 @@
+{
+  "word": "allergic",
+  "phonetic": "/əˈlɜːrdʒɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "过敏的；敏感的；极度反感的",
+  "examples": [
+    {
+      "sentence": "She checked every ingredient label: severely allergic to peanuts.",
+      "style": "Contextual",
+      "translation": "她仔细查看每一个配料表：对花生严重过敏。",
+      "translated_word": "过敏",
+      "display_order": 1
+    },
+    {
+      "sentence": "The hives confirmed an allergic reaction to the antibiotic.",
+      "style": "Collocational",
+      "translation": "荨麻疹证实了对抗生素的过敏反应。",
+      "translated_word": "过敏",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother learned to bake without eggs because I was allergic.",
+      "style": "Intimate",
+      "translation": "因为我过敏，外婆学会了不用鸡蛋来烘焙。",
+      "translated_word": "过敏",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some people seem allergic to silence, filling every pause with noise.",
+      "style": "Philosophical",
+      "translation": "有些人仿佛对沉默过敏，用噪音填满每一个停顿。",
+      "translated_word": "过敏",
+      "display_order": 4
+    }
+  ]
+}

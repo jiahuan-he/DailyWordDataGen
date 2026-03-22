@@ -1,0 +1,40 @@
+{
+  "word": "harbor",
+  "phonetic": "/ˈhɑːrbər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "港口；海港；避风港",
+  "examples": [
+    {
+      "sentence": "Fishing boats returned to the harbor before the storm.",
+      "style": "Contextual",
+      "translation": "风暴来临前，渔船纷纷驶回港口。",
+      "translated_word": "港口",
+      "display_order": 1
+    },
+    {
+      "sentence": "At dusk, the harbor holds its breath; lights blink awake one by one.",
+      "style": "Poetic",
+      "translation": "黄昏时分，港口屏息凝神；灯火次第亮起。",
+      "translated_word": "港口",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every wanderer seeks a harbor, though few admit it.",
+      "style": "Philosophical",
+      "translation": "每个流浪者都在寻觅港湾，尽管鲜有人承认。",
+      "translated_word": "港湾",
+      "display_order": 4
+    },
+    {
+      "sentence": "After years abroad, my hometown harbor brought tears I couldn't explain.",
+      "style": "Intimate",
+      "translation": "漂泊多年后，故乡的港口让我热泪盈眶，却说不清缘由。",
+      "translated_word": "港口",
+      "display_order": 2
+    }
+  ]
+}

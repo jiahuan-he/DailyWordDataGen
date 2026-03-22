@@ -1,0 +1,39 @@
+{
+  "word": "institution",
+  "phonetic": "/ˌɪnstɪˈtuːʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "机构；制度；惯例",
+  "examples": [
+    {
+      "sentence": "This library has been an institution in our town since 1902.",
+      "style": "Contextual",
+      "translation": "这座图书馆自1902年起便是小镇的标志。",
+      "translated_word": "标志",
+      "display_order": 2
+    },
+    {
+      "sentence": "Financial institutions are tightening lending standards amid rising defaults.",
+      "style": "Formal",
+      "translation": "面对违约率攀升，金融机构正在收紧贷款标准。",
+      "translated_word": "机构",
+      "display_order": 3
+    },
+    {
+      "sentence": "We are shaped by institutions long before we learn to question them.",
+      "style": "Philosophical",
+      "translation": "我们被制度塑造，远在学会质疑之前。",
+      "translated_word": "制度",
+      "display_order": 4
+    },
+    {
+      "sentence": "He spent thirty years at a leading research institution.",
+      "style": "Collocational",
+      "translation": "他在一所顶尖研究机构工作了三十年。",
+      "translated_word": "机构",
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "doctorate",
+  "phonetic": "/ˈdɒktərət/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "博士学位；博士头衔",
+  "examples": [
+    {
+      "sentence": "She defended her thesis last month and will receive her doctorate in June.",
+      "style": "Contextual",
+      "translation": "她上个月完成了论文答辩，将于六月获得博士学位。",
+      "translated_word": "博士学位",
+      "display_order": 1
+    },
+    {
+      "sentence": "The committee voted unanimously to confer an honorary doctorate upon the renowned physicist.",
+      "style": "Formal",
+      "translation": "委员会一致投票决定授予这位著名物理学家荣誉博士学位。",
+      "translated_word": "博士学位",
+      "display_order": 4
+    },
+    {
+      "sentence": "A doctorate demands not brilliance, but persistence.",
+      "style": "Inspirational",
+      "translation": "博士学位考验的不是天赋，而是坚持。",
+      "translated_word": "博士学位",
+      "display_order": 3
+    },
+    {
+      "sentence": "The day I received my doctorate, I called my father first; he had worked two jobs to fund my education.",
+      "style": "Intimate",
+      "translation": "拿到博士学位那天，我第一个电话打给了父亲；为了供我读书，他曾同时打两份工。",
+      "translated_word": "博士学位",
+      "display_order": 2
+    }
+  ]
+}

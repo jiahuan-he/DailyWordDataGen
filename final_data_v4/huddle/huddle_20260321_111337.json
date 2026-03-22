@@ -1,0 +1,41 @@
+{
+  "word": "huddle",
+  "phonetic": "/ˈhʌdl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "挤作一团；蜷缩；聚拢",
+  "examples": [
+    {
+      "sentence": "The children huddled under a blanket as thunder rolled outside.",
+      "style": "Contextual",
+      "translation": "雷声滚滚，孩子们蜷缩在毯子下。",
+      "translated_word": "蜷缩",
+      "display_order": 1
+    },
+    {
+      "sentence": "Strangers huddle around the street performer, drawn by the melody.",
+      "style": "Collocational",
+      "translation": "陌生人围聚在街头艺人身旁，被旋律吸引。",
+      "translated_word": "围聚",
+      "display_order": 3
+    },
+    {
+      "sentence": "Candles huddle on the windowsill, their flames whispering to the dark.",
+      "style": "Poetic",
+      "translation": "烛火簇拥在窗台，火焰对暗夜低语。",
+      "translated_word": "簇拥",
+      "display_order": 4
+    },
+    {
+      "sentence": "We huddled on the balcony, watching fireworks bloom above the harbor.",
+      "style": "Intimate",
+      "translation": "我们挤在阳台上，看烟花在港湾上空绽放。",
+      "translated_word": "挤",
+      "display_order": 2
+    }
+  ]
+}

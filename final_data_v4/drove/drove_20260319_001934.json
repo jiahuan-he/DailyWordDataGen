@@ -1,0 +1,40 @@
+{
+  "word": "drove",
+  "phonetic": "/droʊv/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "驾驶；驱使；迫使；驱赶",
+  "examples": [
+    {
+      "sentence": "He drove through the night, coffee his only companion.",
+      "style": "Contextual",
+      "translation": "他连夜驾车，咖啡是唯一的旅伴。",
+      "translated_word": "驾车",
+      "display_order": 1
+    },
+    {
+      "sentence": "Desperation drove her to make the call she had sworn never to make.",
+      "style": "Collocational",
+      "translation": "绝望驱使她拨出了那个曾发誓永不再打的电话。",
+      "translated_word": "驱使",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother drove until she was ninety; the road was her last freedom.",
+      "style": "Intimate",
+      "translation": "祖母开车开到九十岁；那条路，是她最后的自由。",
+      "translated_word": "开车",
+      "display_order": 2
+    },
+    {
+      "sentence": "What drove him was not ambition, but the quiet terror of mediocrity.",
+      "style": "Philosophical",
+      "translation": "驱使他的并非野心，而是对平庸的隐秘恐惧。",
+      "translated_word": "驱使",
+      "display_order": 4
+    }
+  ]
+}

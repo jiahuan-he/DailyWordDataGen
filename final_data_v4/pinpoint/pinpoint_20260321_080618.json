@@ -1,0 +1,41 @@
+{
+  "word": "pinpoint",
+  "phonetic": "/ˈpɪnˌpɔɪnt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "精确定位；准确指出；确定",
+  "examples": [
+    {
+      "sentence": "Scientists pinpointed the epicenter within minutes.",
+      "style": "Contextual",
+      "translation": "科学家在几分钟内精确定位了震中。",
+      "translated_word": "精确定位",
+      "display_order": 1
+    },
+    {
+      "sentence": "The investigation failed to pinpoint the source of the breach.",
+      "style": "Formal",
+      "translation": "调查未能确定泄露的源头。",
+      "translated_word": "确定",
+      "display_order": 3
+    },
+    {
+      "sentence": "Doctors struggled to pinpoint the cause of her migraines.",
+      "style": "Collocational",
+      "translation": "医生们难以找出她偏头痛的病因。",
+      "translated_word": "找出",
+      "display_order": 2
+    },
+    {
+      "sentence": "We sense something is wrong long before we can pinpoint it.",
+      "style": "Philosophical",
+      "translation": "我们往往早已察觉不对，却迟迟说不出问题所在。",
+      "translated_word": "说不出问题所在",
+      "display_order": 4
+    }
+  ]
+}

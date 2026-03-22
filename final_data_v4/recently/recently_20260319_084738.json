@@ -1,0 +1,39 @@
+{
+  "word": "recently",
+  "phonetic": "/ˈriːsəntli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "最近；近来；不久前",
+  "examples": [
+    {
+      "sentence": "The café on the corner recently changed owners; the coffee tastes different now.",
+      "style": "Contextual",
+      "translation": "街角的咖啡馆最近换了老板，咖啡的味道也不一样了。",
+      "translated_word": "最近",
+      "display_order": 2
+    },
+    {
+      "sentence": "The museum recently acquired a collection of letters dating back to the Renaissance.",
+      "style": "Formal",
+      "translation": "该博物馆近日入藏了一批可追溯至文艺复兴时期的书信。",
+      "translated_word": "近日",
+      "display_order": 4
+    },
+    {
+      "sentence": "She recently started journaling, and her thoughts feel less tangled.",
+      "style": "Collocational",
+      "translation": "她最近开始写日记，思绪也变得清晰了许多。",
+      "translated_word": "最近",
+      "display_order": 1
+    },
+    {
+      "sentence": "My father recently learned to video call; now he phones just to show me his garden.",
+      "style": "Intimate",
+      "translation": "父亲最近学会了视频通话，如今打来电话只为让我看看他的小花园。",
+      "translated_word": "最近",
+      "display_order": 3
+    }
+  ]
+}

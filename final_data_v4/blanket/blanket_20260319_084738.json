@@ -1,0 +1,41 @@
+{
+  "word": "blanket",
+  "phonetic": "/ˈblæŋkɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "毯子；覆盖物",
+  "examples": [
+    {
+      "sentence": "She pulled the blanket tighter as the room grew cold.",
+      "style": "Contextual",
+      "translation": "房间渐冷，她把毯子裹得更紧了。",
+      "translated_word": "毯子",
+      "display_order": 1
+    },
+    {
+      "sentence": "A blanket of fog softened the city at dawn.",
+      "style": "Poetic",
+      "translation": "薄雾如毯，轻柔地覆住了晨曦中的城市。",
+      "translated_word": "毯",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's wool blanket still carries the scent of lavender.",
+      "style": "Intimate",
+      "translation": "祖母的羊毛毯至今仍留有薰衣草的气息。",
+      "translated_word": "毯",
+      "display_order": 3
+    },
+    {
+      "sentence": "He wrapped the baby in a warm blanket and began to hum.",
+      "style": "Collocational",
+      "translation": "他把婴儿裹进温暖的毯子里，轻轻哼起歌来。",
+      "translated_word": "毯子",
+      "display_order": 2
+    }
+  ]
+}

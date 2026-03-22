@@ -1,0 +1,39 @@
+{
+  "word": "provide",
+  "phonetic": "/prəˈvaɪd/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "提供；供给；供养",
+  "examples": [
+    {
+      "sentence": "The scholarship provided tuition for all four years.",
+      "style": "Contextual",
+      "translation": "这份奖学金支付了四年的全部学费。",
+      "translated_word": "支付",
+      "display_order": 4
+    },
+    {
+      "sentence": "The new legislation will provide healthcare access to millions.",
+      "style": "Formal",
+      "translation": "这项新法案将为数百万人提供医疗保障。",
+      "translated_word": "提供",
+      "display_order": 1
+    },
+    {
+      "sentence": "She works two jobs to provide for her children.",
+      "style": "Collocational",
+      "translation": "她同时打两份工，只为养活孩子。",
+      "translated_word": "养活",
+      "display_order": 2
+    },
+    {
+      "sentence": "True leaders provide direction, not just answers.",
+      "style": "Inspirational",
+      "translation": "真正的领导者指引方向，而非仅仅给出答案。",
+      "translated_word": "指引",
+      "display_order": 3
+    }
+  ]
+}

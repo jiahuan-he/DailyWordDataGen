@@ -1,0 +1,40 @@
+{
+  "word": "correct",
+  "phonetic": "/kəˈrekt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "正确的；对的；恰当的；准确的",
+  "examples": [
+    {
+      "sentence": "After three attempts, she finally found the correct key.",
+      "style": "Contextual",
+      "translation": "试了三次，她终于找到了正确的钥匙。",
+      "translated_word": "正确",
+      "display_order": 1
+    },
+    {
+      "sentence": "The investigation confirmed the data was correct.",
+      "style": "Formal",
+      "translation": "调查证实数据准确无误。",
+      "translated_word": "准确",
+      "display_order": 2
+    },
+    {
+      "sentence": "Being correct and being kind are not always the same.",
+      "style": "Contrastive",
+      "translation": "正确与善良，未必总能兼得。",
+      "translated_word": "正确",
+      "display_order": 4
+    },
+    {
+      "sentence": "The correct answer isn't always the truest one.",
+      "style": "Philosophical",
+      "translation": "正确的答案，未必是最真实的答案。",
+      "translated_word": "正确",
+      "display_order": 3
+    }
+  ]
+}

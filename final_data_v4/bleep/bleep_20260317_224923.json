@@ -1,0 +1,40 @@
+{
+  "word": "bleep",
+  "phonetic": "/bliːp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "发出哔哔声；消音；屏蔽",
+  "examples": [
+    {
+      "sentence": "The microwave bleeped twice, and she reached for her coffee without looking up.",
+      "style": "Contextual",
+      "translation": "微波炉响了两声，她头也不抬地伸手去拿咖啡。",
+      "translated_word": "响了",
+      "display_order": 1
+    },
+    {
+      "sentence": "Networks must bleep profanity during daytime broadcasts.",
+      "style": "Formal",
+      "translation": "电视台须在日间节目中对脏话进行消音处理。",
+      "translated_word": "消音",
+      "display_order": 3
+    },
+    {
+      "sentence": "The director chose to bleep out the confession rather than cut it entirely.",
+      "style": "Collocational",
+      "translation": "导演选择将那段自白消音，而非整段删除。",
+      "translated_word": "消音",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her pager bleeped in the theater; she slipped out before the second act.",
+      "style": "Intimate",
+      "translation": "她的传呼机在剧院里响起，第二幕开始前她便悄然离席。",
+      "translated_word": "响起",
+      "display_order": 2
+    }
+  ]
+}

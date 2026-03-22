@@ -1,0 +1,39 @@
+{
+  "word": "obvious",
+  "phonetic": "/ˈɑːbviəs/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "明显的；显而易见的；清楚的",
+  "examples": [
+    {
+      "sentence": "The solution became obvious the moment she rephrased the question.",
+      "style": "Contextual",
+      "translation": "她换了一种问法，答案便显而易见了。",
+      "translated_word": "显而易见",
+      "display_order": 1
+    },
+    {
+      "sentence": "What's obvious to one person may be invisible to another.",
+      "style": "Contrastive",
+      "translation": "对一个人显而易见的事，对另一个人可能视而不见。",
+      "translated_word": "显而易见",
+      "display_order": 3
+    },
+    {
+      "sentence": "We often overlook what's most obvious, searching for complexity instead.",
+      "style": "Philosophical",
+      "translation": "我们常常忽略最显而易见的东西，却执意追寻复杂。",
+      "translated_word": "显而易见",
+      "display_order": 4
+    },
+    {
+      "sentence": "The signs were always obvious; I simply chose not to see.",
+      "style": "Intimate",
+      "translation": "那些迹象一直都很明显；只是我选择了视而不见。",
+      "translated_word": "明显",
+      "display_order": 2
+    }
+  ]
+}

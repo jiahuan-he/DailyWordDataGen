@@ -1,0 +1,40 @@
+{
+  "word": "varied",
+  "phonetic": "/ˈverid/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "多样的；各式各样的；多变的",
+  "examples": [
+    {
+      "sentence": "The bookshelf held a varied collection: novels, poetry, history, science.",
+      "style": "Contextual",
+      "translation": "书架上陈列着多样的藏书：小说、诗歌、历史、科学。",
+      "translated_word": "多样的",
+      "display_order": 2
+    },
+    {
+      "sentence": "A varied diet keeps both body and mind sharp.",
+      "style": "Collocational",
+      "translation": "多样的饮食让身心保持敏锐。",
+      "translated_word": "多样的",
+      "display_order": 1
+    },
+    {
+      "sentence": "Growth demands varied experiences, not repeated comfort.",
+      "style": "Philosophical",
+      "translation": "成长需要多样的体验，而非重复的安逸。",
+      "translated_word": "多样的",
+      "display_order": 3
+    },
+    {
+      "sentence": "Autumn leaves drifted down in varied hues, painting the path below.",
+      "style": "Poetic",
+      "translation": "秋叶以斑斓之姿飘落，在小径上铺陈成画。",
+      "translated_word": "斑斓",
+      "display_order": 4
+    }
+  ]
+}

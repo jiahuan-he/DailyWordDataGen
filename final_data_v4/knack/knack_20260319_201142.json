@@ -1,0 +1,40 @@
+{
+  "word": "knack",
+  "phonetic": "/næk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "诀窍；天赋；本领",
+  "examples": [
+    {
+      "sentence": "She has a knack for turning small talk into real conversation.",
+      "style": "Contextual",
+      "translation": "她有种天赋，能把闲聊变成真正的对话。",
+      "translated_word": "天赋",
+      "display_order": 1
+    },
+    {
+      "sentence": "He has a knack for finding parking spots in crowded cities.",
+      "style": "Collocational",
+      "translation": "他总有办法在拥挤的城市里找到停车位。",
+      "translated_word": "办法",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every knack begins as a clumsy obsession.",
+      "style": "Inspirational",
+      "translation": "每一种本领，最初都只是笨拙的痴迷。",
+      "translated_word": "本领",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father had a quiet knack for mending things: toys, shelves, broken hearts.",
+      "style": "Intimate",
+      "translation": "父亲有一种安静的本事，专修各种东西：玩具、书架，还有破碎的心。",
+      "translated_word": "本事",
+      "display_order": 2
+    }
+  ]
+}

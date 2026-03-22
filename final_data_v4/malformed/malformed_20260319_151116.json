@@ -1,0 +1,39 @@
+{
+  "word": "malformed",
+  "phonetic": "/ˌmælˈfɔːrmd/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "畸形的；变形的；发育异常的",
+  "examples": [
+    {
+      "sentence": "The server rejected the request due to a malformed URL.",
+      "style": "Contextual",
+      "translation": "服务器因网址格式错误而拒绝了请求。",
+      "translated_word": "格式错误",
+      "display_order": 2
+    },
+    {
+      "sentence": "Surgeons successfully corrected the infant's malformed heart valve.",
+      "style": "Formal",
+      "translation": "外科医生成功修复了婴儿畸形的心脏瓣膜。",
+      "translated_word": "畸形",
+      "display_order": 1
+    },
+    {
+      "sentence": "What appears malformed to one eye may seem beautifully unique to another.",
+      "style": "Contrastive",
+      "translation": "在一人眼中的畸形，或许在另一人眼中是独特的美。",
+      "translated_word": "畸形",
+      "display_order": 4
+    },
+    {
+      "sentence": "A malformed branch still reaches for the sun.",
+      "style": "Philosophical",
+      "translation": "畸形的枝干依然向阳而生。",
+      "translated_word": "畸形",
+      "display_order": 3
+    }
+  ]
+}

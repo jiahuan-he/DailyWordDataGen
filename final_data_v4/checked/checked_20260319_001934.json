@@ -1,0 +1,40 @@
+{
+  "word": "checked",
+  "phonetic": "/tʃekt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "检查；核实；查看；抑制",
+  "examples": [
+    {
+      "sentence": "She checked her reflection one last time before stepping out.",
+      "style": "Contextual",
+      "translation": "出门前，她最后照了一眼镜子。",
+      "translated_word": "照",
+      "display_order": 3
+    },
+    {
+      "sentence": "Officials checked every document before approving the application.",
+      "style": "Formal",
+      "translation": "官员审核了每份文件后才批准申请。",
+      "translated_word": "审核",
+      "display_order": 2
+    },
+    {
+      "sentence": "He checked his watch and quickened his pace.",
+      "style": "Collocational",
+      "translation": "他看了看表，加快了脚步。",
+      "translated_word": "看了看",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother always checked if I had eaten before saying goodbye.",
+      "style": "Intimate",
+      "translation": "每次道别前，奶奶总要问我吃了没有。",
+      "translated_word": "问",
+      "display_order": 4
+    }
+  ]
+}

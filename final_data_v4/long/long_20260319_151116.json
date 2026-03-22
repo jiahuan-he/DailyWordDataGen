@@ -1,0 +1,42 @@
+{
+  "word": "long",
+  "phonetic": "/lɔːŋ/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "长的；漫长的；久远的",
+  "examples": [
+    {
+      "sentence": "The queue outside the bakery was already long before dawn.",
+      "style": "Contextual",
+      "translation": "天还没亮，面包店外的队伍已经排得很长。",
+      "translated_word": "长",
+      "display_order": 1
+    },
+    {
+      "sentence": "After a long day, even silence feels like rest.",
+      "style": "Collocational",
+      "translation": "漫长的一天过后，连沉默都是一种休息。",
+      "translated_word": "漫长",
+      "display_order": 2
+    },
+    {
+      "sentence": "The road home always feels long in the rain.",
+      "style": "Poetic",
+      "translation": "雨中的归途，总显得格外漫长。",
+      "translated_word": "漫长",
+      "display_order": 3
+    },
+    {
+      "sentence": "Your letters made the long months apart bearable.",
+      "style": "Intimate",
+      "translation": "是你的来信，让那些漫长的分离变得可以承受。",
+      "translated_word": "漫长",
+      "display_order": 4
+    }
+  ]
+}

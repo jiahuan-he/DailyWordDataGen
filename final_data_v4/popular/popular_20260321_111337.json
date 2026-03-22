@@ -1,0 +1,40 @@
+{
+  "word": "popular",
+  "phonetic": "/ˈpɑːpjələr/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "流行的；受欢迎的；大众的；通俗的",
+  "examples": [
+    {
+      "sentence": "The café was so popular that we waited an hour for a table.",
+      "style": "Contextual",
+      "translation": "这家咖啡馆太受欢迎了，我们等了一个小时才有位子。",
+      "translated_word": "受欢迎",
+      "display_order": 1
+    },
+    {
+      "sentence": "What is popular is not always right; what is right is not always popular.",
+      "style": "Contrastive",
+      "translation": "流行的未必正确；正确的未必流行。",
+      "translated_word": "流行",
+      "display_order": 4
+    },
+    {
+      "sentence": "The most popular songs are often the ones we forget first.",
+      "style": "Philosophical",
+      "translation": "最流行的歌曲，往往也是我们最先遗忘的。",
+      "translated_word": "流行",
+      "display_order": 2
+    },
+    {
+      "sentence": "Popular opinion shifted overnight after the scandal broke.",
+      "style": "Collocational",
+      "translation": "丑闻曝光后，舆论风向一夜之间急转直下。",
+      "translated_word": "舆论",
+      "display_order": 3
+    }
+  ]
+}

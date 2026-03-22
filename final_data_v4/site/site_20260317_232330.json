@@ -1,0 +1,40 @@
+{
+  "word": "site",
+  "phonetic": "/saɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "地点；场所；网站；遗址",
+  "examples": [
+    {
+      "sentence": "Workers gathered at the site before dawn.",
+      "style": "Contextual",
+      "translation": "工人们在天亮前聚集在工地。",
+      "translated_word": "工地",
+      "display_order": 1
+    },
+    {
+      "sentence": "The site has been designated a UNESCO World Heritage landmark.",
+      "style": "Formal",
+      "translation": "该遗址已被列为联合国教科文组织世界遗产。",
+      "translated_word": "遗址",
+      "display_order": 3
+    },
+    {
+      "sentence": "Save this site to your bookmarks; you'll need it later.",
+      "style": "Collocational",
+      "translation": "把这个网站收藏起来，以后会用到的。",
+      "translated_word": "网站",
+      "display_order": 4
+    },
+    {
+      "sentence": "The old factory site is a park now, but I still see smokestacks.",
+      "style": "Intimate",
+      "translation": "老厂房的旧址如今是座公园，可我眼中依然是那些烟囱。",
+      "translated_word": "旧址",
+      "display_order": 2
+    }
+  ]
+}

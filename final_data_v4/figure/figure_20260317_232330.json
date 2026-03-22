@@ -1,0 +1,40 @@
+{
+  "word": "figure",
+  "phonetic": "/ˈfɪɡjər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "数字；身材；人物；图形",
+  "examples": [
+    {
+      "sentence": "The sales figures told a story no meeting could hide.",
+      "style": "Contextual",
+      "translation": "销售数字讲述了任何会议都无法掩盖的故事。",
+      "translated_word": "数字",
+      "display_order": 2
+    },
+    {
+      "sentence": "A controversial figure in modern architecture, she built monuments that divided critics.",
+      "style": "Formal",
+      "translation": "作为现代建筑界的争议人物，她建造的纪念碑令评论家们褒贬不一。",
+      "translated_word": "人物",
+      "display_order": 1
+    },
+    {
+      "sentence": "He cut a striking figure in his grandfather's tailored coat.",
+      "style": "Collocational",
+      "translation": "他穿着祖父的定制大衣，身影格外醒目。",
+      "translated_word": "身影",
+      "display_order": 3
+    },
+    {
+      "sentence": "History remembers the figures who acted; it forgets those who only watched.",
+      "style": "Philosophical",
+      "translation": "历史铭记行动者，遗忘旁观者。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "artistic",
+  "phonetic": "/ɑːrˈtɪstɪk/",
+  "pos": [
+    "adjective",
+    "adverb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "艺术的；有美感的；有艺术天赋的",
+  "examples": [
+    {
+      "sentence": "The way she arranged wildflowers in a jam jar was quietly artistic.",
+      "style": "Contextual",
+      "translation": "她将野花插入玻璃罐的方式，有种不动声色的美感。",
+      "translated_word": "美感",
+      "display_order": 3
+    },
+    {
+      "sentence": "Frost traced artistic patterns on the glass, a gallery of one cold night.",
+      "style": "Poetic",
+      "translation": "霜在玻璃上勾勒出艺术般的图案，那是寒夜独有的画廊。",
+      "translated_word": "艺术",
+      "display_order": 2
+    },
+    {
+      "sentence": "My father never called himself creative, but his carpentry was deeply artistic.",
+      "style": "Intimate",
+      "translation": "父亲从不自称有创造力，但他的木工活透着艺术的气息。",
+      "translated_word": "艺术",
+      "display_order": 1
+    },
+    {
+      "sentence": "An artistic eye sees not what is, but what could be.",
+      "style": "Philosophical",
+      "translation": "艺术之眼所见的，不是眼前之物，而是可能之境。",
+      "translated_word": "艺术",
+      "display_order": 4
+    }
+  ]
+}

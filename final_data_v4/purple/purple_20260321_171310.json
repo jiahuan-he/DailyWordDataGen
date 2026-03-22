@@ -1,0 +1,41 @@
+{
+  "word": "purple",
+  "phonetic": "/ˈpɜːrpl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "紫色的；紫红的",
+  "examples": [
+    {
+      "sentence": "The bruise on his arm had turned a deep purple overnight.",
+      "style": "Contextual",
+      "translation": "他手臂上的淤青一夜之间变成了深紫色。",
+      "translated_word": "紫色",
+      "display_order": 3
+    },
+    {
+      "sentence": "Dusk settled in, and the hills blushed purple.",
+      "style": "Poetic",
+      "translation": "暮色降临，群山染上了一层紫晕。",
+      "translated_word": "紫",
+      "display_order": 4
+    },
+    {
+      "sentence": "She paired a purple scarf with her black coat.",
+      "style": "Collocational",
+      "translation": "她用一条紫色围巾搭配黑色大衣。",
+      "translated_word": "紫色",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother's purple irises still bloom in that same corner every spring.",
+      "style": "Intimate",
+      "translation": "每年春天，祖母种的紫鸢尾依然在那个角落盛开。",
+      "translated_word": "紫",
+      "display_order": 2
+    }
+  ]
+}

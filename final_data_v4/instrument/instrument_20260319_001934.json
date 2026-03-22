@@ -1,0 +1,40 @@
+{
+  "word": "instrument",
+  "phonetic": "/ˈɪnstrəmənt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "乐器；工具；仪器；手段",
+  "examples": [
+    {
+      "sentence": "The surgeon checked each instrument before the operation began.",
+      "style": "Contextual",
+      "translation": "外科医生在手术开始前逐一检查器械。",
+      "translated_word": "器械",
+      "display_order": 4
+    },
+    {
+      "sentence": "She plays three instruments, but the cello remains her favorite.",
+      "style": "Collocational",
+      "translation": "她会演奏三种乐器，但大提琴始终是她的最爱。",
+      "translated_word": "乐器",
+      "display_order": 1
+    },
+    {
+      "sentence": "His violin is an old instrument; its wood still hums with centuries of song.",
+      "style": "Poetic",
+      "translation": "他的小提琴是一把古琴，琴身的木纹里仍回响着百年的歌。",
+      "translated_word": "古琴",
+      "display_order": 2
+    },
+    {
+      "sentence": "Language is the instrument through which we shape the world we perceive.",
+      "style": "Philosophical",
+      "translation": "语言是我们用以塑造所见世界的工具。",
+      "translated_word": "工具",
+      "display_order": 3
+    }
+  ]
+}

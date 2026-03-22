@@ -1,0 +1,40 @@
+{
+  "word": "request",
+  "phonetic": "/rɪˈkwest/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "请求；要求；申请",
+  "examples": [
+    {
+      "sentence": "She requested a window seat for the long flight.",
+      "style": "Contextual",
+      "translation": "她为这趟长途航班申请了靠窗的座位。",
+      "translated_word": "申请",
+      "display_order": 1
+    },
+    {
+      "sentence": "The embassy has requested all citizens to register immediately.",
+      "style": "Formal",
+      "translation": "大使馆已要求所有公民立即登记。",
+      "translated_word": "要求",
+      "display_order": 3
+    },
+    {
+      "sentence": "He requested permission to speak, then changed his mind.",
+      "style": "Collocational",
+      "translation": "他请求发言，随后又改变了主意。",
+      "translated_word": "请求",
+      "display_order": 2
+    },
+    {
+      "sentence": "My father never requested anything; he simply gave.",
+      "style": "Intimate",
+      "translation": "父亲从不索取什么；他只是一味地付出。",
+      "translated_word": "索取",
+      "display_order": 4
+    }
+  ]
+}

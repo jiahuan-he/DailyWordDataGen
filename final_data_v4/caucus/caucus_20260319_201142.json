@@ -1,0 +1,40 @@
+{
+  "word": "caucus",
+  "phonetic": "/ˈkɔːkəs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "党团会议；核心小组；政治集会",
+  "examples": [
+    {
+      "sentence": "The Iowa caucus kicks off the presidential race every four years.",
+      "style": "Contextual",
+      "translation": "爱荷华州党团会议每四年拉开总统竞选的序幕。",
+      "translated_word": "党团会议",
+      "display_order": 2
+    },
+    {
+      "sentence": "The party caucus convened behind closed doors to finalize their candidate.",
+      "style": "Formal",
+      "translation": "党团会议闭门召开，最终敲定了候选人人选。",
+      "translated_word": "党团会议",
+      "display_order": 1
+    },
+    {
+      "sentence": "She joined the progressive caucus to push for healthcare reform.",
+      "style": "Collocational",
+      "translation": "她加入进步派核心小组，推动医疗改革。",
+      "translated_word": "核心小组",
+      "display_order": 3
+    },
+    {
+      "sentence": "In a caucus, democracy is not a spectacle; it is neighbors choosing a future together.",
+      "style": "Philosophical",
+      "translation": "在党团会议中，民主并非一场奇观，而是邻里共同抉择未来。",
+      "translated_word": "党团会议",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "ordinance",
+  "phonetic": "/ˈɔːrdɪnəns/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "法令；条例；法规",
+  "examples": [
+    {
+      "sentence": "The city passed an ordinance banning single-use plastics.",
+      "style": "Contextual",
+      "translation": "该市通过了一项禁止一次性塑料制品的法令。",
+      "translated_word": "法令",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new zoning ordinance restricts construction in the historic quarter.",
+      "style": "Formal",
+      "translation": "新的分区条例限制了历史街区的建筑施工。",
+      "translated_word": "条例",
+      "display_order": 2
+    },
+    {
+      "sentence": "Local ordinances differ from federal laws: they govern only within city limits.",
+      "style": "Contrastive",
+      "translation": "地方法规不同于联邦法律：它们仅在市界范围内适用。",
+      "translated_word": "法规",
+      "display_order": 3
+    },
+    {
+      "sentence": "Noise ordinances, curfews, parking rules: small regulations shape daily life.",
+      "style": "Collocational",
+      "translation": "噪音条例、宵禁规定、停车规则：细微的法规塑造着日常生活。",
+      "translated_word": "条例",
+      "display_order": 4
+    }
+  ]
+}

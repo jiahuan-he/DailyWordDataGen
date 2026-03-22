@@ -1,0 +1,39 @@
+{
+  "word": "withhold",
+  "phonetic": "/wɪðˈhoʊld/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "扣留；隐瞒；克制",
+  "examples": [
+    {
+      "sentence": "She withheld her name until she felt safe.",
+      "style": "Contextual",
+      "translation": "她隐瞒了自己的名字，直到感觉安全为止。",
+      "translated_word": "隐瞒",
+      "display_order": 1
+    },
+    {
+      "sentence": "The agency will withhold funding until compliance is verified.",
+      "style": "Formal",
+      "translation": "该机构将扣留拨款，直至合规得到确认。",
+      "translated_word": "扣留",
+      "display_order": 2
+    },
+    {
+      "sentence": "We withhold love to stay safe, then wonder why we feel so alone.",
+      "style": "Philosophical",
+      "translation": "我们吝于付出爱以求自保，却又困惑于为何如此孤独。",
+      "translated_word": "吝于",
+      "display_order": 4
+    },
+    {
+      "sentence": "I withheld the apology for years; by then, there was no one left to hear it.",
+      "style": "Intimate",
+      "translation": "那句道歉我藏了多年；等到终于说出口时，已无人倾听。",
+      "translated_word": "藏",
+      "display_order": 3
+    }
+  ]
+}

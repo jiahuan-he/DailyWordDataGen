@@ -1,0 +1,39 @@
+{
+  "word": "appendix",
+  "phonetic": "/əˈpendɪks/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "附录；阑尾；附件",
+  "examples": [
+    {
+      "sentence": "All supporting documents are filed in the appendix.",
+      "style": "Contextual",
+      "translation": "所有佐证材料均收录于附录。",
+      "translated_word": "附录",
+      "display_order": 2
+    },
+    {
+      "sentence": "Emergency surgery was performed after the appendix ruptured.",
+      "style": "Formal",
+      "translation": "阑尾穿孔后，紧急手术随即展开。",
+      "translated_word": "阑尾",
+      "display_order": 3
+    },
+    {
+      "sentence": "For complete references, see Appendix C.",
+      "style": "Collocational",
+      "translation": "完整参考文献详见附录C。",
+      "translated_word": "附录",
+      "display_order": 1
+    },
+    {
+      "sentence": "The small scar on his side tells the story of a summer appendix surgery.",
+      "style": "Intimate",
+      "translation": "他侧腰的那道小疤，讲述着某个夏天的阑尾手术。",
+      "translated_word": "阑尾",
+      "display_order": 4
+    }
+  ]
+}

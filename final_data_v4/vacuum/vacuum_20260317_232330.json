@@ -1,0 +1,40 @@
+{
+  "word": "vacuum",
+  "phonetic": "/ˈvækjuːm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "真空；空白；空缺；吸尘器",
+  "examples": [
+    {
+      "sentence": "The vacuum picked up every crumb hidden in the carpet.",
+      "style": "Contextual",
+      "translation": "吸尘器将藏在地毯里的每一粒碎屑都吸了出来。",
+      "translated_word": "吸尘器",
+      "display_order": 1
+    },
+    {
+      "sentence": "A vacuum never stays empty; something always rushes in.",
+      "style": "Philosophical",
+      "translation": "真空从不会长久空着，总有东西会涌入其中。",
+      "translated_word": "真空",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her leaving created a vacuum no amount of busyness could fill.",
+      "style": "Intimate",
+      "translation": "她的离开留下一片空白，再多的忙碌也无法填补。",
+      "translated_word": "空白",
+      "display_order": 3
+    },
+    {
+      "sentence": "In the vacuum before dawn, even thought grows still.",
+      "style": "Poetic",
+      "translation": "在黎明前的寂空里，连思绪都静止了。",
+      "translated_word": "寂空",
+      "display_order": 4
+    }
+  ]
+}

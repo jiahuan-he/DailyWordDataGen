@@ -1,0 +1,40 @@
+{
+  "word": "upkeep",
+  "phonetic": "/ˈʌpkiːp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "维护；保养；养护费用",
+  "examples": [
+    {
+      "sentence": "The garden's upkeep fell to her after her father passed.",
+      "style": "Contextual",
+      "translation": "父亲去世后，花园的养护便落在了她肩上。",
+      "translated_word": "养护",
+      "display_order": 2
+    },
+    {
+      "sentence": "Annual upkeep of the historic bridge exceeds two million dollars.",
+      "style": "Formal",
+      "translation": "这座历史古桥的年度维护费用超过两百万美元。",
+      "translated_word": "维护",
+      "display_order": 3
+    },
+    {
+      "sentence": "Regular upkeep prevents costly repairs down the road.",
+      "style": "Collocational",
+      "translation": "定期保养能避免日后高昂的修缮费用。",
+      "translated_word": "保养",
+      "display_order": 1
+    },
+    {
+      "sentence": "We neglect the upkeep of friendships, then wonder why they crumble.",
+      "style": "Philosophical",
+      "translation": "我们疏于维系友情，却又在它崩塌时困惑不已。",
+      "translated_word": "维系",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "land",
+  "phonetic": "/lænd/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "土地；陆地；国土",
+  "examples": [
+    {
+      "sentence": "After the storm, she walked the land to check the crops.",
+      "style": "Contextual",
+      "translation": "暴风雨后，她走遍田地查看庄稼。",
+      "translated_word": "田地",
+      "display_order": 1
+    },
+    {
+      "sentence": "The land holds its breath before the first snow.",
+      "style": "Poetic",
+      "translation": "初雪将至，大地屏息以待。",
+      "translated_word": "大地",
+      "display_order": 4
+    },
+    {
+      "sentence": "We do not inherit the land; we borrow it from our children.",
+      "style": "Philosophical",
+      "translation": "我们并非继承土地，而是向子孙借用。",
+      "translated_word": "土地",
+      "display_order": 3
+    },
+    {
+      "sentence": "His grandfather's land smelled of pine and wet earth, even in memory.",
+      "style": "Intimate",
+      "translation": "祖父的那片土地，即便在记忆中，依然散发着松香与湿土的气息。",
+      "translated_word": "土地",
+      "display_order": 2
+    }
+  ]
+}

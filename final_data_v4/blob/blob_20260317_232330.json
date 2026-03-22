@@ -1,0 +1,40 @@
+{
+  "word": "blob",
+  "phonetic": "/blɒb/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "一团；一滴；斑点",
+  "examples": [
+    {
+      "sentence": "A blob of honey dripped slowly from the spoon.",
+      "style": "Contextual",
+      "translation": "一滴蜂蜜缓缓从勺子上滑落。",
+      "translated_word": "滴",
+      "display_order": 2
+    },
+    {
+      "sentence": "She squeezed a blob of sunscreen into her palm.",
+      "style": "Collocational",
+      "translation": "她挤了一团防晒霜在掌心。",
+      "translated_word": "团",
+      "display_order": 1
+    },
+    {
+      "sentence": "The jellyfish pulsed through the dark water, a translucent blob of quiet light.",
+      "style": "Poetic",
+      "translation": "水母在幽暗的海水中起伏，宛如一团透明的微光。",
+      "translated_word": "团",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her first finger painting was just blobs of color; it still hangs above my desk.",
+      "style": "Intimate",
+      "translation": "她的第一幅手指画不过是几团色块，却至今挂在我书桌上方。",
+      "translated_word": "团",
+      "display_order": 3
+    }
+  ]
+}

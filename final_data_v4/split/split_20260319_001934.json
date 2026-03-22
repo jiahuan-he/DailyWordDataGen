@@ -1,0 +1,41 @@
+{
+  "word": "split",
+  "phonetic": "/splɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "分开；劈开；分裂；分摊",
+  "examples": [
+    {
+      "sentence": "The old fence finally split after years in the sun.",
+      "style": "Contextual",
+      "translation": "那道旧栅栏在多年日晒后终于裂开了。",
+      "translated_word": "裂开",
+      "display_order": 1
+    },
+    {
+      "sentence": "We always split the bill; it keeps things simple.",
+      "style": "Collocational",
+      "translation": "我们总是各付各的；这样最简单。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "When the band split, a piece of my teenage years went with them.",
+      "style": "Intimate",
+      "translation": "乐队解散那天，我的少年时光也随之散场。",
+      "translated_word": "解散",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every choice splits one life into two: the path taken and the path imagined.",
+      "style": "Philosophical",
+      "translation": "每个选择都将人生一分为二：走过的路，与想象中的路。",
+      "translated_word": "分",
+      "display_order": 3
+    }
+  ]
+}

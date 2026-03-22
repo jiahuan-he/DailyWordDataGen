@@ -1,0 +1,39 @@
+{
+  "word": "emphasis",
+  "phonetic": "/ˈemfəsɪs/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "强调；重点；着重",
+  "examples": [
+    {
+      "sentence": "Her emphasis on that single word changed everything.",
+      "style": "Contextual",
+      "translation": "她对那个词的强调，改变了一切。",
+      "translated_word": "强调",
+      "display_order": 2
+    },
+    {
+      "sentence": "The new policy places clear emphasis on sustainability.",
+      "style": "Formal",
+      "translation": "新政策明确将可持续发展列为重点。",
+      "translated_word": "重点",
+      "display_order": 3
+    },
+    {
+      "sentence": "There's a growing emphasis on mental health in schools.",
+      "style": "Collocational",
+      "translation": "学校越来越重视心理健康。",
+      "translated_word": "重视",
+      "display_order": 1
+    },
+    {
+      "sentence": "Our emphasis reveals our values more than our words ever could.",
+      "style": "Philosophical",
+      "translation": "我们所着重的，比言语更能揭示内心。",
+      "translated_word": "着重",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "prophecy",
+  "phonetic": "/ˈprɑfəsi/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "预言；神谕；预示",
+  "examples": [
+    {
+      "sentence": "The old prophecy promised rain after seven years of drought.",
+      "style": "Contextual",
+      "translation": "古老的预言应许，七年旱灾之后必有甘霖。",
+      "translated_word": "预言",
+      "display_order": 1
+    },
+    {
+      "sentence": "We fulfill the prophecy by fleeing from it.",
+      "style": "Philosophical",
+      "translation": "逃离预言的过程，恰恰应验了它。",
+      "translated_word": "预言",
+      "display_order": 4
+    },
+    {
+      "sentence": "The prophecy was written in falling leaves and shifting winds.",
+      "style": "Poetic",
+      "translation": "那预言写在落叶与流风之中。",
+      "translated_word": "预言",
+      "display_order": 3
+    },
+    {
+      "sentence": "The market prophecy issued last quarter has begun to materialize.",
+      "style": "Formal",
+      "translation": "上季度发布的市场预言已开始应验。",
+      "translated_word": "预言",
+      "display_order": 2
+    }
+  ]
+}

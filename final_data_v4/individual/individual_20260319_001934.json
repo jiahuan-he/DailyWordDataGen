@@ -1,0 +1,40 @@
+{
+  "word": "individual",
+  "phonetic": "/ˌɪndɪˈvɪdʒuəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "个人；个体；独立的人",
+  "examples": [
+    {
+      "sentence": "Each individual in the study showed unique response patterns.",
+      "style": "Contextual",
+      "translation": "研究中的每位受试者都呈现出独特的反应模式。",
+      "translated_word": "受试者",
+      "display_order": 3
+    },
+    {
+      "sentence": "The policy aims to protect the privacy of every individual.",
+      "style": "Formal",
+      "translation": "该政策旨在保护每位公民的隐私。",
+      "translated_word": "公民",
+      "display_order": 1
+    },
+    {
+      "sentence": "To be an individual is to embrace both freedom and solitude.",
+      "style": "Philosophical",
+      "translation": "成为独立个体，便意味着拥抱自由与孤独。",
+      "translated_word": "个体",
+      "display_order": 4
+    },
+    {
+      "sentence": "One fearless individual can inspire an entire generation.",
+      "style": "Inspirational",
+      "translation": "一个无畏的人，足以点燃一整代人的希望。",
+      "translated_word": "人",
+      "display_order": 2
+    }
+  ]
+}

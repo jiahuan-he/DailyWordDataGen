@@ -1,0 +1,39 @@
+{
+  "word": "indicate",
+  "phonetic": "/ˈɪndɪkeɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "表明；指示；暗示；显示",
+  "examples": [
+    {
+      "sentence": "The flashing light indicates low battery.",
+      "style": "Contextual",
+      "translation": "闪烁的灯光表明电量不足。",
+      "translated_word": "表明",
+      "display_order": 1
+    },
+    {
+      "sentence": "Recent surveys indicate a growing demand for remote work.",
+      "style": "Formal",
+      "translation": "近期调查显示，远程办公的需求正在增长。",
+      "translated_word": "显示",
+      "display_order": 3
+    },
+    {
+      "sentence": "All signs indicate that the worst is behind us.",
+      "style": "Collocational",
+      "translation": "种种迹象表明，最艰难的时刻已经过去。",
+      "translated_word": "表明",
+      "display_order": 2
+    },
+    {
+      "sentence": "What we choose to notice indicates what we value.",
+      "style": "Philosophical",
+      "translation": "我们选择关注什么，便表明我们珍视什么。",
+      "translated_word": "表明",
+      "display_order": 4
+    }
+  ]
+}

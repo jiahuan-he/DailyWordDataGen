@@ -1,0 +1,39 @@
+{
+  "word": "insulate",
+  "phonetic": "/ˈɪnsəleɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "隔热；绝缘；使隔绝；使免受",
+  "examples": [
+    {
+      "sentence": "Thick walls insulate the cabin from the mountain wind.",
+      "style": "Contextual",
+      "translation": "厚实的墙壁将小屋与山风隔绝开来。",
+      "translated_word": "隔绝",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company failed to insulate its network from cyberattacks.",
+      "style": "Formal",
+      "translation": "该公司未能使其网络免受网络攻击。",
+      "translated_word": "免受",
+      "display_order": 3
+    },
+    {
+      "sentence": "She learned to insulate herself against criticism early in her career.",
+      "style": "Collocational",
+      "translation": "她在职业生涯初期就学会了让自己不受批评的影响。",
+      "translated_word": "不受",
+      "display_order": 2
+    },
+    {
+      "sentence": "No amount of comfort can fully insulate a heart from loss.",
+      "style": "Philosophical",
+      "translation": "再多的安逸，也无法让一颗心完全免于失去。",
+      "translated_word": "免于",
+      "display_order": 4
+    }
+  ]
+}

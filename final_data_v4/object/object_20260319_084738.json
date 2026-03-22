@@ -1,0 +1,40 @@
+{
+  "word": "object",
+  "phonetic": "/ˈɑːbdʒɪkt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "物体；物品；目标；对象",
+  "examples": [
+    {
+      "sentence": "A small metal object glinted beneath the floorboards.",
+      "style": "Contextual",
+      "translation": "地板缝隙下，一个金属小物件闪着微光。",
+      "translated_word": "物件",
+      "display_order": 1
+    },
+    {
+      "sentence": "An object becomes a keepsake the moment someone leaves.",
+      "style": "Philosophical",
+      "translation": "物品成为纪念，往往始于某人的离去。",
+      "translated_word": "物品",
+      "display_order": 3
+    },
+    {
+      "sentence": "Doctors removed a foreign object from the child's airway.",
+      "style": "Collocational",
+      "translation": "医生从孩子的气道中取出了一个异物。",
+      "translated_word": "异物",
+      "display_order": 4
+    },
+    {
+      "sentence": "That worn leather wallet is the only object I have of my father's.",
+      "style": "Intimate",
+      "translation": "那个磨损的皮夹，是父亲留给我的唯一遗物。",
+      "translated_word": "遗物",
+      "display_order": 2
+    }
+  ]
+}

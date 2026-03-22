@@ -1,0 +1,40 @@
+{
+  "word": "mutual",
+  "phonetic": "/ˈmjuːtʃuəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "相互的；共同的；彼此的",
+  "examples": [
+    {
+      "sentence": "We share a mutual friend, but had never met until tonight.",
+      "style": "Contextual",
+      "translation": "我们有一个共同的朋友，却直到今晚才第一次相见。",
+      "translated_word": "共同的",
+      "display_order": 1
+    },
+    {
+      "sentence": "Mutual respect held the team together through the crisis.",
+      "style": "Collocational",
+      "translation": "相互的尊重，让团队在危机中始终团结。",
+      "translated_word": "相互的",
+      "display_order": 2
+    },
+    {
+      "sentence": "There's a mutual understanding between us; some things need no words.",
+      "style": "Intimate",
+      "translation": "我们之间有一种默契；有些事，无需言语。",
+      "translated_word": "默契",
+      "display_order": 3
+    },
+    {
+      "sentence": "Trust is only trust when it's mutual.",
+      "style": "Philosophical",
+      "translation": "信任，唯有相互才成立。",
+      "translated_word": "相互",
+      "display_order": 4
+    }
+  ]
+}

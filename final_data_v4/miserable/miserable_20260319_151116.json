@@ -1,0 +1,40 @@
+{
+  "word": "miserable",
+  "phonetic": "/ˈmɪzərəbl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "痛苦的；悲惨的；糟糕的",
+  "examples": [
+    {
+      "sentence": "He sat alone at the party, looking utterly miserable.",
+      "style": "Contextual",
+      "translation": "他独自坐在派对角落，看起来无比落寞。",
+      "translated_word": "落寞",
+      "display_order": 1
+    },
+    {
+      "sentence": "A miserable sky hung low, the color of old bruises.",
+      "style": "Poetic",
+      "translation": "阴沉的天空低垂，像是陈旧的淤青。",
+      "translated_word": "阴沉",
+      "display_order": 3
+    },
+    {
+      "sentence": "That first winter abroad, I was miserable in ways I couldn't name.",
+      "style": "Intimate",
+      "translation": "留学的第一个冬天，我感到一种说不清的痛苦。",
+      "translated_word": "痛苦",
+      "display_order": 2
+    },
+    {
+      "sentence": "We feel most miserable not in suffering, but in comparison.",
+      "style": "Philosophical",
+      "translation": "令人最痛苦的往往不是苦难本身，而是比较。",
+      "translated_word": "痛苦",
+      "display_order": 4
+    }
+  ]
+}

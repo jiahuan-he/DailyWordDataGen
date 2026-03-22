@@ -1,0 +1,39 @@
+{
+  "word": "column",
+  "phonetic": "/ˈkɑːləm/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "柱；专栏；列",
+  "examples": [
+    {
+      "sentence": "The old library was held up by columns of pale stone.",
+      "style": "Contextual",
+      "translation": "古老的图书馆由浅色石柱支撑而立。",
+      "translated_word": "柱",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her weekly column has shaped public opinion for over a decade.",
+      "style": "Formal",
+      "translation": "她的每周专栏影响公众舆论已逾十年。",
+      "translated_word": "专栏",
+      "display_order": 2
+    },
+    {
+      "sentence": "Columns of smoke rose slowly from the village chimneys at dusk.",
+      "style": "Poetic",
+      "translation": "黄昏时分，炊烟成柱，自村落的烟囱缓缓升起。",
+      "translated_word": "柱",
+      "display_order": 4
+    },
+    {
+      "sentence": "Check the rightmost column for the final totals.",
+      "style": "Collocational",
+      "translation": "查看最右列以获取最终合计。",
+      "translated_word": "列",
+      "display_order": 3
+    }
+  ]
+}

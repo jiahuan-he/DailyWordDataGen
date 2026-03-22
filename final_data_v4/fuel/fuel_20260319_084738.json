@@ -1,0 +1,40 @@
+{
+  "word": "fuel",
+  "phonetic": "/ˈfjuːəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "燃料；能源；动力",
+  "examples": [
+    {
+      "sentence": "The expedition stalled twenty miles out; they had underestimated their fuel.",
+      "style": "Contextual",
+      "translation": "探险队在二十英里外停滞不前；他们低估了燃料的消耗。",
+      "translated_word": "燃料",
+      "display_order": 2
+    },
+    {
+      "sentence": "Fuel efficiency has become a deciding factor for most car buyers.",
+      "style": "Collocational",
+      "translation": "燃油效率已成为多数购车者的关键考量。",
+      "translated_word": "燃油",
+      "display_order": 1
+    },
+    {
+      "sentence": "Anger is cheap fuel: it burns hot but leaves only ash.",
+      "style": "Philosophical",
+      "translation": "愤怒是廉价的燃料：燃烧炽烈，却只留余烬。",
+      "translated_word": "燃料",
+      "display_order": 3
+    },
+    {
+      "sentence": "Find what gives you fuel, and protect it fiercely.",
+      "style": "Inspirational",
+      "translation": "找到赋予你能量的事物，全力守护它。",
+      "translated_word": "能量",
+      "display_order": 4
+    }
+  ]
+}

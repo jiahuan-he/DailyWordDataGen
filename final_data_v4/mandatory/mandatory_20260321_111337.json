@@ -1,0 +1,40 @@
+{
+  "word": "mandatory",
+  "phonetic": "/ˈmændətɔːri/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "强制的；必须的；法定的",
+  "examples": [
+    {
+      "sentence": "Seatbelts are mandatory for all passengers.",
+      "style": "Contextual",
+      "translation": "所有乘客必须系好安全带。",
+      "translated_word": "必须",
+      "display_order": 2
+    },
+    {
+      "sentence": "The new policy makes climate disclosure mandatory for public companies.",
+      "style": "Formal",
+      "translation": "新政策要求上市公司强制披露气候信息。",
+      "translated_word": "强制",
+      "display_order": 4
+    },
+    {
+      "sentence": "The course is mandatory, not optional.",
+      "style": "Contrastive",
+      "translation": "这门课是必修的，不是选修。",
+      "translated_word": "必修",
+      "display_order": 1
+    },
+    {
+      "sentence": "All staff must complete mandatory safety training by Friday.",
+      "style": "Collocational",
+      "translation": "全体员工须在周五前完成强制安全培训。",
+      "translated_word": "强制",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "typo",
+  "phonetic": "/ˈtaɪpoʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "打字错误；印刷错误；笔误",
+  "examples": [
+    {
+      "sentence": "She spotted the typo only after clicking send.",
+      "style": "Contextual",
+      "translation": "她点击发送后才发现了那个错字。",
+      "translated_word": "错字",
+      "display_order": 1
+    },
+    {
+      "sentence": "One typo slipped past three rounds of editing.",
+      "style": "Collocational",
+      "translation": "一个笔误躲过了三轮校对。",
+      "translated_word": "笔误",
+      "display_order": 2
+    },
+    {
+      "sentence": "That typo in my confession: 'I live you.' He understood.",
+      "style": "Intimate",
+      "translation": "告白时的那个笔误：'I live you'。他懂了。",
+      "translated_word": "笔误",
+      "display_order": 3
+    },
+    {
+      "sentence": "A typo is the fingerprint of haste.",
+      "style": "Philosophical",
+      "translation": "笔误是匆忙留下的指纹。",
+      "translated_word": "笔误",
+      "display_order": 4
+    }
+  ]
+}

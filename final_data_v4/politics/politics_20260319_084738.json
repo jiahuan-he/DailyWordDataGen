@@ -1,0 +1,40 @@
+{
+  "word": "politics",
+  "phonetic": "/ˈpɑːlətɪks/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "政治；权术；政局",
+  "examples": [
+    {
+      "sentence": "She studied politics at Oxford before joining the foreign ministry.",
+      "style": "Contextual",
+      "translation": "她在牛津攻读政治学，后来进入外交部工作。",
+      "translated_word": "政治学",
+      "display_order": 1
+    },
+    {
+      "sentence": "The scandal has shifted the politics of the entire region.",
+      "style": "Formal",
+      "translation": "这桩丑闻改变了整个地区的政治格局。",
+      "translated_word": "政治",
+      "display_order": 3
+    },
+    {
+      "sentence": "Office politics exhausts her, but she's learned not to ignore it.",
+      "style": "Collocational",
+      "translation": "职场政治令她疲惫，但她学会了不再视而不见。",
+      "translated_word": "政治",
+      "display_order": 2
+    },
+    {
+      "sentence": "Politics reveals what we're willing to sacrifice for what we claim to believe.",
+      "style": "Philosophical",
+      "translation": "政治揭示了我们愿意为信仰牺牲什么。",
+      "translated_word": "政治",
+      "display_order": 4
+    }
+  ]
+}

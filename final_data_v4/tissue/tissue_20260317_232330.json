@@ -1,0 +1,40 @@
+{
+  "word": "tissue",
+  "phonetic": "/ˈtɪʃuː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "纸巾；组织；薄纱",
+  "examples": [
+    {
+      "sentence": "She handed him a tissue without a word.",
+      "style": "Contextual",
+      "translation": "她一言不发地递给他一张纸巾。",
+      "translated_word": "纸巾",
+      "display_order": 1
+    },
+    {
+      "sentence": "The crumpled tissue in my pocket held the weight of an unfinished goodbye.",
+      "style": "Intimate",
+      "translation": "口袋里那张揉皱的纸巾，承载着一句未说完的告别。",
+      "translated_word": "纸巾",
+      "display_order": 2
+    },
+    {
+      "sentence": "Wrap the fragile ornament in tissue paper before packing.",
+      "style": "Collocational",
+      "translation": "装箱前，用薄纸把易碎的饰品包好。",
+      "translated_word": "薄纸",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every scar is tissue that chose to heal rather than surrender.",
+      "style": "Philosophical",
+      "translation": "每道疤痕都是选择愈合而非屈服的组织。",
+      "translated_word": "组织",
+      "display_order": 4
+    }
+  ]
+}

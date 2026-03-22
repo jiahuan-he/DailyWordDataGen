@@ -1,0 +1,41 @@
+{
+  "word": "sum",
+  "phonetic": "/sʌm/",
+  "pos": [
+    "noun",
+    "pronoun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "总数；金额；算术题",
+  "examples": [
+    {
+      "sentence": "The sum didn't add up, so she checked the receipts again.",
+      "style": "Contextual",
+      "translation": "总数对不上，她又核对了一遍收据。",
+      "translated_word": "总数",
+      "display_order": 2
+    },
+    {
+      "sentence": "A record sum was raised for disaster relief this quarter.",
+      "style": "Formal",
+      "translation": "本季度为赈灾筹集的善款创下新高。",
+      "translated_word": "善款",
+      "display_order": 3
+    },
+    {
+      "sentence": "He paid the full sum in cash.",
+      "style": "Collocational",
+      "translation": "他用现金支付了全部款项。",
+      "translated_word": "款项",
+      "display_order": 1
+    },
+    {
+      "sentence": "We are more than the sum of our failures.",
+      "style": "Philosophical",
+      "translation": "我们的价值，远非失败所能丈量。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

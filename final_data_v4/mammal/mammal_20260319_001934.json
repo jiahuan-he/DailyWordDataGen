@@ -1,0 +1,39 @@
+{
+  "word": "mammal",
+  "phonetic": "/ˈmæm.əl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "哺乳动物；哺乳类",
+  "examples": [
+    {
+      "sentence": "Dolphins are mammals, not fish; they breathe air and nurse their young.",
+      "style": "Contextual",
+      "translation": "海豚是哺乳动物，而非鱼类；它们用肺呼吸，以乳汁哺育幼崽。",
+      "translated_word": "哺乳动物",
+      "display_order": 1
+    },
+    {
+      "sentence": "The survey identified over forty mammal species within the protected forest.",
+      "style": "Formal",
+      "translation": "此次调查在保护林区内发现了四十余种哺乳动物。",
+      "translated_word": "哺乳动物",
+      "display_order": 3
+    },
+    {
+      "sentence": "Unlike reptiles, mammals maintain a constant body temperature.",
+      "style": "Contrastive",
+      "translation": "与爬行动物不同，哺乳动物能维持恒定的体温。",
+      "translated_word": "哺乳动物",
+      "display_order": 2
+    },
+    {
+      "sentence": "We build cities and write poems, yet remain mammals: creatures of instinct and warmth.",
+      "style": "Philosophical",
+      "translation": "我们建造城市，书写诗篇，却终究是哺乳动物：依赖本能与温热而生的生灵。",
+      "translated_word": "哺乳动物",
+      "display_order": 4
+    }
+  ]
+}

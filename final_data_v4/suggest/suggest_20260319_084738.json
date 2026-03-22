@@ -1,0 +1,39 @@
+{
+  "word": "suggest",
+  "phonetic": "/səˈdʒest/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "建议；暗示；表明",
+  "examples": [
+    {
+      "sentence": "She suggested trying the new café down the street.",
+      "style": "Contextual",
+      "translation": "她建议去街角那家新开的咖啡馆试试。",
+      "translated_word": "建议",
+      "display_order": 1
+    },
+    {
+      "sentence": "The findings suggest a significant link between diet and mental health.",
+      "style": "Formal",
+      "translation": "研究结果表明饮食与心理健康之间存在显著关联。",
+      "translated_word": "表明",
+      "display_order": 3
+    },
+    {
+      "sentence": "I'd strongly suggest making reservations for Saturday night.",
+      "style": "Collocational",
+      "translation": "我强烈建议周六晚上提前订位。",
+      "translated_word": "建议",
+      "display_order": 2
+    },
+    {
+      "sentence": "What we avoid saying often suggests more than our words.",
+      "style": "Philosophical",
+      "translation": "我们回避的话语，往往比说出口的更意味深长。",
+      "translated_word": "意味",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "fake",
+  "phonetic": "/feɪk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "假的；伪造的；虚假的",
+  "examples": [
+    {
+      "sentence": "The crooked stitching gave away the fake designer bag.",
+      "style": "Contextual",
+      "translation": "歪斜的针脚，暴露了那只假冒的名牌包。",
+      "translated_word": "假冒",
+      "display_order": 2
+    },
+    {
+      "sentence": "Real confidence is quiet; fake confidence never stops talking.",
+      "style": "Contrastive",
+      "translation": "真正的自信是安静的；虚假的自信喋喋不休。",
+      "translated_word": "虚假",
+      "display_order": 3
+    },
+    {
+      "sentence": "We rehearse our fake selves until the real one forgets its lines.",
+      "style": "Philosophical",
+      "translation": "我们太熟练地扮演虚假的自己，以至于真实的那个已忘了台词。",
+      "translated_word": "虚假",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her smile was fake, but I chose to believe it anyway.",
+      "style": "Intimate",
+      "translation": "她的笑容是假的，但我选择相信。",
+      "translated_word": "假",
+      "display_order": 1
+    }
+  ]
+}

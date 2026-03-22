@@ -1,0 +1,40 @@
+{
+  "word": "season",
+  "phonetic": "/ˈsiːzən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "季节；时节；赛季；旺季",
+  "examples": [
+    {
+      "sentence": "The farmers' market overflows with tomatoes this season.",
+      "style": "Contextual",
+      "translation": "这个季节，农贸市场里的番茄堆成了小山。",
+      "translated_word": "季节",
+      "display_order": 1
+    },
+    {
+      "sentence": "Each season writes its signature across the hills in a different ink.",
+      "style": "Poetic",
+      "translation": "每一个季节都用不同的墨色，在山峦间留下自己的笔迹。",
+      "translated_word": "季节",
+      "display_order": 3
+    },
+    {
+      "sentence": "We cannot rush a season; patience is nature's only currency.",
+      "style": "Philosophical",
+      "translation": "季节不可催促；耐心是自然唯一通行的货币。",
+      "translated_word": "季节",
+      "display_order": 4
+    },
+    {
+      "sentence": "Cherries are in season, and the children eat them by the handful.",
+      "style": "Collocational",
+      "translation": "樱桃正当季，孩子们一把一把地往嘴里塞。",
+      "translated_word": "当季",
+      "display_order": 2
+    }
+  ]
+}

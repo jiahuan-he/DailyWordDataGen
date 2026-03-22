@@ -1,0 +1,40 @@
+{
+  "word": "code",
+  "phonetic": "/koʊd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "代码；密码；准则；规范",
+  "examples": [
+    {
+      "sentence": "The developer found a bug buried deep in the code.",
+      "style": "Contextual",
+      "translation": "开发者在代码深处发现了一个隐藏的漏洞。",
+      "translated_word": "代码",
+      "display_order": 1
+    },
+    {
+      "sentence": "The firm's code of conduct prohibits accepting gifts from vendors.",
+      "style": "Formal",
+      "translation": "公司行为准则禁止收受供应商的礼物。",
+      "translated_word": "准则",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every family operates by an unspoken code only its members understand.",
+      "style": "Philosophical",
+      "translation": "每个家庭都遵循着一套只有成员才能读懂的无言规则。",
+      "translated_word": "规则",
+      "display_order": 4
+    },
+    {
+      "sentence": "She changed into a black dress to meet the venue's dress code.",
+      "style": "Collocational",
+      "translation": "她换上黑裙，以符合场地的着装要求。",
+      "translated_word": "要求",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "declare",
+  "phonetic": "/dɪˈkleər/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "宣布；声明；宣告；表明",
+  "examples": [
+    {
+      "sentence": "The court declared the evidence inadmissible.",
+      "style": "Formal",
+      "translation": "法庭宣布该证据不予采纳。",
+      "translated_word": "宣布",
+      "display_order": 1
+    },
+    {
+      "sentence": "She stood before the board and declared her resignation.",
+      "style": "Contextual",
+      "translation": "她站在董事会面前，宣布了辞职。",
+      "translated_word": "宣布",
+      "display_order": 2
+    },
+    {
+      "sentence": "You never declared your feelings; you simply stayed.",
+      "style": "Intimate",
+      "translation": "你从未表白过心意；你只是留了下来。",
+      "translated_word": "表白",
+      "display_order": 3
+    },
+    {
+      "sentence": "We become what we dare to declare.",
+      "style": "Philosophical",
+      "translation": "我们终将成为自己敢于宣告的那个人。",
+      "translated_word": "宣告",
+      "display_order": 4
+    }
+  ]
+}

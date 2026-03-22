@@ -1,0 +1,40 @@
+{
+  "word": "payroll",
+  "phonetic": "/ˈpeɪroʊl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "工资单；薪酬总额；在职人员名册",
+  "examples": [
+    {
+      "sentence": "The startup grew from five to fifty on its payroll in a single year.",
+      "style": "Contextual",
+      "translation": "这家初创公司的员工人数在一年内从五人增至五十人。",
+      "translated_word": "员工",
+      "display_order": 4
+    },
+    {
+      "sentence": "The firm announced immediate cuts to its payroll amid declining revenue.",
+      "style": "Formal",
+      "translation": "面对收入下滑，该公司宣布立即削减薪资开支。",
+      "translated_word": "薪资开支",
+      "display_order": 3
+    },
+    {
+      "sentence": "She handles payroll for the entire department every month.",
+      "style": "Collocational",
+      "translation": "她每月负责整个部门的工资发放。",
+      "translated_word": "工资发放",
+      "display_order": 1
+    },
+    {
+      "sentence": "Seeing my name on a real payroll for the first time made the job feel permanent.",
+      "style": "Intimate",
+      "translation": "第一次在正式的工资单上看到自己的名字，这份工作才有了真实感。",
+      "translated_word": "工资单",
+      "display_order": 2
+    }
+  ]
+}

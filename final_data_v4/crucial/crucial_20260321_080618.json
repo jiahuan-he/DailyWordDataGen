@@ -1,0 +1,39 @@
+{
+  "word": "crucial",
+  "phonetic": "/ˈkruːʃəl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "关键；至关重要；决定性",
+  "examples": [
+    {
+      "sentence": "The opening line is crucial; readers decide in seconds.",
+      "style": "Contextual",
+      "translation": "开篇至关重要；读者转瞬便下定论。",
+      "translated_word": "至关重要",
+      "display_order": 3
+    },
+    {
+      "sentence": "Analysts say the next 48 hours will be crucial for ceasefire talks.",
+      "style": "Formal",
+      "translation": "分析人士称，未来48小时对停火谈判至关重要。",
+      "translated_word": "至关重要",
+      "display_order": 1
+    },
+    {
+      "sentence": "She played a crucial role in turning the startup around.",
+      "style": "Collocational",
+      "translation": "她在扭转这家初创公司命运的过程中起了关键作用。",
+      "translated_word": "关键",
+      "display_order": 2
+    },
+    {
+      "sentence": "The crucial choices rarely announce themselves.",
+      "style": "Philosophical",
+      "translation": "真正关键的选择，往往悄然而至。",
+      "translated_word": "关键",
+      "display_order": 4
+    }
+  ]
+}

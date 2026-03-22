@@ -1,0 +1,40 @@
+{
+  "word": "space",
+  "phonetic": "/speɪs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "空间；太空；间隔；余地",
+  "examples": [
+    {
+      "sentence": "The apartment felt larger after we removed the old sofa; suddenly there was space to breathe.",
+      "style": "Contextual",
+      "translation": "搬走旧沙发后，公寓显得宽敞多了；忽然有了喘息的空间。",
+      "translated_word": "空间",
+      "display_order": 1
+    },
+    {
+      "sentence": "She asked for space, and he learned that love sometimes means stepping back.",
+      "style": "Collocational",
+      "translation": "她说需要空间，他才明白爱有时意味着退后一步。",
+      "translated_word": "空间",
+      "display_order": 2
+    },
+    {
+      "sentence": "Silence creates space for thoughts we have been avoiding.",
+      "style": "Philosophical",
+      "translation": "沉默为那些我们一直回避的念头腾出了空间。",
+      "translated_word": "空间",
+      "display_order": 3
+    },
+    {
+      "sentence": "In my childhood room, there was barely space for a desk, but my dreams never felt cramped.",
+      "style": "Intimate",
+      "translation": "儿时的房间里几乎放不下一张书桌，梦想却从不觉得拥挤。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

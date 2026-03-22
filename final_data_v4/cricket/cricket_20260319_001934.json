@@ -1,0 +1,40 @@
+{
+  "word": "cricket",
+  "phonetic": "/ˈkrɪkɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "蟋蟀；板球",
+  "examples": [
+    {
+      "sentence": "A single cricket broke the silence of the midnight garden.",
+      "style": "Contextual",
+      "translation": "一只蟋蟀打破了午夜花园的寂静。",
+      "translated_word": "蟋蟀",
+      "display_order": 1
+    },
+    {
+      "sentence": "One cricket, one lantern, one endless August night.",
+      "style": "Poetic",
+      "translation": "一只蟋蟀，一盏灯笼，一个漫长的八月夜。",
+      "translated_word": "蟋蟀",
+      "display_order": 3
+    },
+    {
+      "sentence": "The cricket match lasted until dusk painted the field gold.",
+      "style": "Collocational",
+      "translation": "板球赛一直持续到黄昏，将球场染成金色。",
+      "translated_word": "板球",
+      "display_order": 4
+    },
+    {
+      "sentence": "Grandpa's hands, cupped gently, held a cricket that sang just for me.",
+      "style": "Intimate",
+      "translation": "爷爷轻轻捧起双手，那只蟋蟀仿佛只为我而歌唱。",
+      "translated_word": "蟋蟀",
+      "display_order": 2
+    }
+  ]
+}

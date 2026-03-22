@@ -1,0 +1,39 @@
+{
+  "word": "luggage",
+  "phonetic": "/ˈlʌɡɪdʒ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "行李；箱包",
+  "examples": [
+    {
+      "sentence": "The carousel spun slowly, passengers scanning for their luggage.",
+      "style": "Contextual",
+      "translation": "转盘缓缓转动，乘客们寻找着各自的行李。",
+      "translated_word": "行李",
+      "display_order": 1
+    },
+    {
+      "sentence": "Please ensure your carry-on luggage fits in the overhead compartment.",
+      "style": "Collocational",
+      "translation": "请确保您的随身行李能放入头顶行李舱。",
+      "translated_word": "行李",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's old leather luggage still holds the scent of her perfume.",
+      "style": "Intimate",
+      "translation": "外婆那只旧皮箱，至今仍留有她香水的味道。",
+      "translated_word": "皮箱",
+      "display_order": 2
+    },
+    {
+      "sentence": "At dawn, the station fills with luggage and silent goodbyes.",
+      "style": "Poetic",
+      "translation": "晨曦中，车站盈满了行李与无声的告别。",
+      "translated_word": "行李",
+      "display_order": 3
+    }
+  ]
+}

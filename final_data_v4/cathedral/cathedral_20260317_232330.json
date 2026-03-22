@@ -1,0 +1,40 @@
+{
+  "word": "cathedral",
+  "phonetic": "/kəˈθiːdrəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "大教堂；主教座堂",
+  "examples": [
+    {
+      "sentence": "The cathedral's bells rang across the valley at noon.",
+      "style": "Contextual",
+      "translation": "正午时分，大教堂的钟声回荡在山谷间。",
+      "translated_word": "大教堂",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sunlight poured through stained glass, painting the cathedral floor in scattered color.",
+      "style": "Poetic",
+      "translation": "阳光穿透彩窗，在大教堂的地面洒下斑斓碎影。",
+      "translated_word": "大教堂",
+      "display_order": 3
+    },
+    {
+      "sentence": "A cathedral outlives its builders; stone remembers what we forget.",
+      "style": "Philosophical",
+      "translation": "大教堂比建造者更长寿；石头记得我们遗忘的一切。",
+      "translated_word": "大教堂",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother lit a candle in that cathedral every Sunday for forty years.",
+      "style": "Intimate",
+      "translation": "四十年来，祖母每个周日都会在那座大教堂里点燃一支蜡烛。",
+      "translated_word": "大教堂",
+      "display_order": 2
+    }
+  ]
+}

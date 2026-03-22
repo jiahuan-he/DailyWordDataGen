@@ -1,0 +1,40 @@
+{
+  "word": "file",
+  "phonetic": "/faɪl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "文件；档案；卷宗",
+  "examples": [
+    {
+      "sentence": "The file wouldn't open; it had been corrupted during transfer.",
+      "style": "Contextual",
+      "translation": "文件打不开；传输过程中已经损坏了。",
+      "translated_word": "文件",
+      "display_order": 2
+    },
+    {
+      "sentence": "Prosecutors released the classified file after years of public demand.",
+      "style": "Formal",
+      "translation": "在公众多年呼吁下，检察官终于公开了这份机密档案。",
+      "translated_word": "档案",
+      "display_order": 3
+    },
+    {
+      "sentence": "She keeps every client file organized alphabetically in the cabinet.",
+      "style": "Collocational",
+      "translation": "她把每份客户档案按字母顺序整理在文件柜里。",
+      "translated_word": "档案",
+      "display_order": 1
+    },
+    {
+      "sentence": "That dusty file on the top shelf holds our first business plan.",
+      "style": "Intimate",
+      "translation": "书架顶层那份落满灰尘的文件夹，是我们最初的创业计划书。",
+      "translated_word": "文件夹",
+      "display_order": 4
+    }
+  ]
+}

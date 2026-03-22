@@ -1,0 +1,39 @@
+{
+  "word": "publicize",
+  "phonetic": "/ˈpʌblɪsaɪz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "宣传；公开；推广",
+  "examples": [
+    {
+      "sentence": "The foundation publicized its findings through major news outlets.",
+      "style": "Formal",
+      "translation": "该基金会通过主流媒体公布了研究结果。",
+      "translated_word": "公布",
+      "display_order": 1
+    },
+    {
+      "sentence": "He publicized the missing dog's photo until neighbors recognized it.",
+      "style": "Contextual",
+      "translation": "他四处张贴走失狗的照片，直到邻居们认出了它。",
+      "translated_word": "张贴",
+      "display_order": 2
+    },
+    {
+      "sentence": "The museum publicized the exhibition with posters across the city.",
+      "style": "Collocational",
+      "translation": "博物馆在全城张贴海报，为展览造势。",
+      "translated_word": "造势",
+      "display_order": 4
+    },
+    {
+      "sentence": "She publicized her successes but kept her struggles private.",
+      "style": "Contrastive",
+      "translation": "她宣扬自己的成功，却将挣扎藏于心底。",
+      "translated_word": "宣扬",
+      "display_order": 3
+    }
+  ]
+}

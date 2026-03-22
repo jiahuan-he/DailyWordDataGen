@@ -1,0 +1,40 @@
+{
+  "word": "cart",
+  "phonetic": "/kɑːrt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "手推车；购物车；马车",
+  "examples": [
+    {
+      "sentence": "She grabbed a cart at the entrance and headed for the produce aisle.",
+      "style": "Contextual",
+      "translation": "她在入口处取了一辆手推车，径直走向生鲜区。",
+      "translated_word": "手推车",
+      "display_order": 1
+    },
+    {
+      "sentence": "His online shopping cart had been full for weeks, waiting for payday.",
+      "style": "Collocational",
+      "translation": "他的网购购物车已满载数周，只待发薪日的到来。",
+      "translated_word": "购物车",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather's wooden cart still sits in the barn, its wheels rusted into silence.",
+      "style": "Intimate",
+      "translation": "祖父的木推车仍停在谷仓里，车轮早已锈蚀成一片寂静。",
+      "translated_word": "推车",
+      "display_order": 3
+    },
+    {
+      "sentence": "The vendor's cart creaked through morning fog, laden with ripe persimmons.",
+      "style": "Poetic",
+      "translation": "小贩的推车吱呀穿过晨雾，满载着熟透的柿子。",
+      "translated_word": "推车",
+      "display_order": 2
+    }
+  ]
+}

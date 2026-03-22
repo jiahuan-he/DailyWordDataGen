@@ -1,0 +1,40 @@
+{
+  "word": "indicative",
+  "phonetic": "/ɪnˈdɪkətɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "表明的；暗示的；象征的",
+  "examples": [
+    {
+      "sentence": "Her silence was indicative of deeper concerns.",
+      "style": "Contextual",
+      "translation": "她的沉默表明了更深层的忧虑。",
+      "translated_word": "表明",
+      "display_order": 2
+    },
+    {
+      "sentence": "The survey results are indicative of shifting consumer preferences.",
+      "style": "Formal",
+      "translation": "调查结果显示出消费者偏好的转变。",
+      "translated_word": "显示出",
+      "display_order": 3
+    },
+    {
+      "sentence": "Small choices are often indicative of who we truly are.",
+      "style": "Philosophical",
+      "translation": "微小的选择往往暗示着我们真正的本质。",
+      "translated_word": "暗示着",
+      "display_order": 4
+    },
+    {
+      "sentence": "A firm handshake is indicative of confidence in many cultures.",
+      "style": "Collocational",
+      "translation": "在许多文化中，有力的握手象征着自信。",
+      "translated_word": "象征着",
+      "display_order": 1
+    }
+  ]
+}

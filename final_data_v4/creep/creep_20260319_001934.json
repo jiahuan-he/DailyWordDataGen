@@ -1,0 +1,40 @@
+{
+  "word": "creep",
+  "phonetic": "/kriːp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "悄悄移动；潜行；蔓延；渐生",
+  "examples": [
+    {
+      "sentence": "Doubt crept into her voice as she spoke.",
+      "style": "Contextual",
+      "translation": "她说话时，声音里渐渐透出一丝疑虑。",
+      "translated_word": "透出",
+      "display_order": 3
+    },
+    {
+      "sentence": "Morning mist creeps through the valley, hushing the world.",
+      "style": "Poetic",
+      "translation": "晨雾悄然漫过山谷，将世界轻轻掩入静默。",
+      "translated_word": "漫过",
+      "display_order": 1
+    },
+    {
+      "sentence": "Regret creeps in through the smallest choices.",
+      "style": "Philosophical",
+      "translation": "悔意总从最细微的抉择中悄然滋生。",
+      "translated_word": "滋生",
+      "display_order": 4
+    },
+    {
+      "sentence": "Winter crept into our old house through every crack and draft.",
+      "style": "Intimate",
+      "translation": "寒冬从每一道裂缝与穿堂风中，悄悄潜入我们的老屋。",
+      "translated_word": "潜入",
+      "display_order": 2
+    }
+  ]
+}

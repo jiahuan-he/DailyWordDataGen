@@ -1,0 +1,40 @@
+{
+  "word": "flimsy",
+  "phonetic": "/ˈflɪmzi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "单薄的；脆弱的；站不住脚的",
+  "examples": [
+    {
+      "sentence": "One gust of wind, and the flimsy umbrella inverted completely.",
+      "style": "Contextual",
+      "translation": "一阵风吹来，那把单薄的伞瞬间翻折。",
+      "translated_word": "单薄",
+      "display_order": 1
+    },
+    {
+      "sentence": "The prosecutor dismissed the flimsy alibi with a single question.",
+      "style": "Collocational",
+      "translation": "检察官一句话便戳穿了那站不住脚的不在场证明。",
+      "translated_word": "站不住脚",
+      "display_order": 2
+    },
+    {
+      "sentence": "Solid arguments win debates; flimsy ones lose credibility.",
+      "style": "Contrastive",
+      "translation": "有力的论点赢得辩论；牵强的说辞只会失去信誉。",
+      "translated_word": "牵强",
+      "display_order": 3
+    },
+    {
+      "sentence": "That old photograph is flimsy now, soft as a whisper between my fingers.",
+      "style": "Intimate",
+      "translation": "那张旧照片如今已薄如蝉翼，在指尖轻得像一声叹息。",
+      "translated_word": "薄如蝉翼",
+      "display_order": 4
+    }
+  ]
+}

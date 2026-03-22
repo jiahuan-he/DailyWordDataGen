@@ -1,0 +1,41 @@
+{
+  "word": "revealing",
+  "phonetic": "/rɪˈviːlɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "揭示的；暴露的；耐人寻味的",
+  "examples": [
+    {
+      "sentence": "Her silence was more revealing than any explanation.",
+      "style": "Contextual",
+      "translation": "她的沉默比任何解释都更能说明问题。",
+      "translated_word": "说明",
+      "display_order": 1
+    },
+    {
+      "sentence": "The investigation proved revealing, exposing systemic failures within the agency.",
+      "style": "Formal",
+      "translation": "调查结果发人深省，揭露了该机构内部的系统性缺陷。",
+      "translated_word": "发人深省",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we choose to omit is often as revealing as what we say.",
+      "style": "Philosophical",
+      "translation": "我们选择略去的，往往与说出口的一样耐人寻味。",
+      "translated_word": "耐人寻味",
+      "display_order": 4
+    },
+    {
+      "sentence": "Sorting through old photos, I noticed how revealing our faces were back then.",
+      "style": "Intimate",
+      "translation": "整理旧照片时，我发现当年的我们，表情是那样毫无掩饰。",
+      "translated_word": "毫无掩饰",
+      "display_order": 2
+    }
+  ]
+}

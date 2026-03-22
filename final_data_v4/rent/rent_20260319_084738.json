@@ -1,0 +1,40 @@
+{
+  "word": "rent",
+  "phonetic": "/rent/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "租；租用；出租",
+  "examples": [
+    {
+      "sentence": "We rent this apartment; we don't own it.",
+      "style": "Contextual",
+      "translation": "这套公寓是我们租的，不是自己的。",
+      "translated_word": "租",
+      "display_order": 1
+    },
+    {
+      "sentence": "She rented a car for the weekend trip to the coast.",
+      "style": "Collocational",
+      "translation": "她租了一辆车，周末去海边。",
+      "translated_word": "租",
+      "display_order": 2
+    },
+    {
+      "sentence": "More young professionals now prefer to rent rather than buy.",
+      "style": "Formal",
+      "translation": "如今，越来越多的年轻人选择租房而非购房。",
+      "translated_word": "租房",
+      "display_order": 4
+    },
+    {
+      "sentence": "My first place was a cramped studio, but renting it meant I was finally on my own.",
+      "style": "Intimate",
+      "translation": "我的第一个住处是间狭小的单间公寓，但租下它，意味着我终于独立了。",
+      "translated_word": "租下",
+      "display_order": 3
+    }
+  ]
+}

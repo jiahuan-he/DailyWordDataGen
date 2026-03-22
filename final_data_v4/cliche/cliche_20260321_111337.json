@@ -1,0 +1,40 @@
+{
+  "word": "cliche",
+  "phonetic": "/kliːˈʃeɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "陈词滥调；老套；俗套",
+  "examples": [
+    {
+      "sentence": "Calling the sunset beautiful felt like a cliche, so she said nothing.",
+      "style": "Contextual",
+      "translation": "说日落很美太过老套，于是她选择沉默。",
+      "translated_word": "老套",
+      "display_order": 1
+    },
+    {
+      "sentence": "What reads as a cliche in one culture may carry weight in another.",
+      "style": "Contrastive",
+      "translation": "在一种文化中被视为陈词滥调的话，在另一种文化中或许意义深远。",
+      "translated_word": "陈词滥调",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every cliche was once an original thought that people couldn't stop repeating.",
+      "style": "Philosophical",
+      "translation": "每句陈词滥调，都曾是一个让人忍不住反复引用的独创之见。",
+      "translated_word": "陈词滥调",
+      "display_order": 4
+    },
+    {
+      "sentence": "His proposal was full of tired cliches about following your heart.",
+      "style": "Collocational",
+      "translation": "他的提案满是关于\"追随内心\"的老生常谈。",
+      "translated_word": "老生常谈",
+      "display_order": 2
+    }
+  ]
+}

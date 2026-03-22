@@ -1,0 +1,39 @@
+{
+  "word": "turkey",
+  "phonetic": "/ˈtɜːrki/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "火鸡；土耳其；失败之作",
+  "examples": [
+    {
+      "sentence": "The golden-brown turkey sat at the center of the Thanksgiving table.",
+      "style": "Contextual",
+      "translation": "金黄的火鸡端坐在感恩节餐桌正中。",
+      "translated_word": "火鸡",
+      "display_order": 1
+    },
+    {
+      "sentence": "She quit smoking cold turkey and never looked back.",
+      "style": "Collocational",
+      "translation": "她说戒就戒，再也没有回头。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "My father carved the turkey with the same quiet precision every year.",
+      "style": "Intimate",
+      "translation": "父亲每年都以同样沉静而细致的手法切开火鸡。",
+      "translated_word": "火鸡",
+      "display_order": 2
+    },
+    {
+      "sentence": "Wild turkey populations have rebounded across North America due to decades of conservation efforts.",
+      "style": "Formal",
+      "translation": "经过数十年的保护努力，北美野生火鸡种群已全面恢复。",
+      "translated_word": "火鸡",
+      "display_order": 3
+    }
+  ]
+}

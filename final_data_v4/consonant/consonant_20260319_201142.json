@@ -1,0 +1,40 @@
+{
+  "word": "consonant",
+  "phonetic": "/ˈkɑːnsənənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "一致的；协调的；和谐的",
+  "examples": [
+    {
+      "sentence": "The decision was consonant with everything we believed in.",
+      "style": "Formal",
+      "translation": "这个决定与我们所信奉的一切完全一致。",
+      "translated_word": "一致",
+      "display_order": 1
+    },
+    {
+      "sentence": "A life consonant with one's values requires daily courage.",
+      "style": "Philosophical",
+      "translation": "让生活与信念相契，需要日复一日的勇气。",
+      "translated_word": "相契",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her stillness was consonant with the hush of falling snow.",
+      "style": "Poetic",
+      "translation": "她的静默与落雪的轻寂浑然相融。",
+      "translated_word": "相融",
+      "display_order": 4
+    },
+    {
+      "sentence": "We seek partners whose vision is consonant with our own.",
+      "style": "Collocational",
+      "translation": "我们寻找愿景相合的合作伙伴。",
+      "translated_word": "相合",
+      "display_order": 2
+    }
+  ]
+}

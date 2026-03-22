@@ -1,0 +1,39 @@
+{
+  "word": "recur",
+  "phonetic": "/rɪˈkɜːr/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "复发；重现；反复出现",
+  "examples": [
+    {
+      "sentence": "The same technical error recurred three times this week.",
+      "style": "Contextual",
+      "translation": "同样的技术故障这周已经出现了三次。",
+      "translated_word": "出现",
+      "display_order": 1
+    },
+    {
+      "sentence": "A recurring dream drew her back to that old bookshop.",
+      "style": "Collocational",
+      "translation": "一个反复出现的梦，把她引回了那家旧书店。",
+      "translated_word": "反复出现",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some questions recur not because we forgot, but because we've changed.",
+      "style": "Philosophical",
+      "translation": "有些问题一再浮现，不是因为我们忘了答案，而是因为我们变了。",
+      "translated_word": "浮现",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every autumn, the urge to leave everything recurs; I've stopped resisting.",
+      "style": "Intimate",
+      "translation": "每到秋天，想抛下一切的冲动总会复发；我已不再抗拒。",
+      "translated_word": "复发",
+      "display_order": 4
+    }
+  ]
+}

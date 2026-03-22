@@ -1,0 +1,40 @@
+{
+  "word": "chat",
+  "phonetic": "/tʃæt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "闲聊；聊天；攀谈",
+  "examples": [
+    {
+      "sentence": "We chatted about weekend plans while the coffee brewed.",
+      "style": "Contextual",
+      "translation": "咖啡机咕嘟作响时，我们闲聊着周末的安排。",
+      "translated_word": "闲聊",
+      "display_order": 4
+    },
+    {
+      "sentence": "She chats with her neighbor over the garden fence each morning.",
+      "style": "Collocational",
+      "translation": "每天早晨，她都会隔着花园篱笆和邻居聊上几句。",
+      "translated_word": "聊",
+      "display_order": 1
+    },
+    {
+      "sentence": "On slow Sunday mornings, my father and I chat about nothing important.",
+      "style": "Intimate",
+      "translation": "在慵懒的周日早晨，我和父亲随意聊着无关紧要的事。",
+      "translated_word": "聊",
+      "display_order": 2
+    },
+    {
+      "sentence": "Real connection often begins when two people simply chat without purpose.",
+      "style": "Philosophical",
+      "translation": "真正的联结，往往始于两个人漫无目的地闲谈。",
+      "translated_word": "闲谈",
+      "display_order": 3
+    }
+  ]
+}

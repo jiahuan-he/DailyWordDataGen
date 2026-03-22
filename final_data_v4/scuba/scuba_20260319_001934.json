@@ -1,0 +1,40 @@
+{
+  "word": "scuba",
+  "phonetic": "/ˈskuːbə/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "水肺；潜水装备",
+  "examples": [
+    {
+      "sentence": "The resort offers scuba certification for beginners.",
+      "style": "Contextual",
+      "translation": "这家度假村为初学者提供水肺认证课程。",
+      "translated_word": "水肺",
+      "display_order": 1
+    },
+    {
+      "sentence": "We rented scuba gear at the dive shop near the pier.",
+      "style": "Collocational",
+      "translation": "我们在码头附近的潜水店租了一套装备。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "My first scuba lesson at twenty-three unveiled a silent world beneath the waves.",
+      "style": "Intimate",
+      "translation": "二十三岁那年的第一堂水肺课，让我发现了波涛下那个寂静的世界。",
+      "translated_word": "水肺",
+      "display_order": 2
+    },
+    {
+      "sentence": "With scuba, the ocean floor becomes your frontier.",
+      "style": "Inspirational",
+      "translation": "有了水肺，海底便成为你的新疆域。",
+      "translated_word": "水肺",
+      "display_order": 3
+    }
+  ]
+}

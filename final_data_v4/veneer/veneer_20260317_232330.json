@@ -1,0 +1,40 @@
+{
+  "word": "veneer",
+  "phonetic": "/vəˈnɪr/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "薄板；表象；伪装",
+  "examples": [
+    {
+      "sentence": "His calm was a veneer; his hands trembled under the table.",
+      "style": "Contextual",
+      "translation": "他的镇定不过是伪装，桌下的双手微微发抖。",
+      "translated_word": "伪装",
+      "display_order": 1
+    },
+    {
+      "sentence": "Charm can be a veneer, but kindness leaves fingerprints.",
+      "style": "Philosophical",
+      "translation": "魅力可以是表象，而善意总会留下痕迹。",
+      "translated_word": "表象",
+      "display_order": 4
+    },
+    {
+      "sentence": "The veneer of civility cracked the moment the door closed.",
+      "style": "Poetic",
+      "translation": "门一关上，那层彬彬有礼便碎了一地。",
+      "translated_word": "那层",
+      "display_order": 2
+    },
+    {
+      "sentence": "Unlike a veneer, true confidence needs no polish.",
+      "style": "Contrastive",
+      "translation": "真正的自信不似表象，无需刻意打磨。",
+      "translated_word": "表象",
+      "display_order": 3
+    }
+  ]
+}

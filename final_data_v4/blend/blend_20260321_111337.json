@@ -1,0 +1,40 @@
+{
+  "word": "blend",
+  "phonetic": "/blɛnd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "混合；融合；调和",
+  "examples": [
+    {
+      "sentence": "Twilight blends the sky into shades of amber and violet.",
+      "style": "Poetic",
+      "translation": "暮色将天空染成琥珀与紫罗兰交织的色调。",
+      "translated_word": "交织",
+      "display_order": 3
+    },
+    {
+      "sentence": "His quiet confidence allows him to blend in anywhere.",
+      "style": "Collocational",
+      "translation": "他沉稳自信，走到哪里都能自然融入。",
+      "translated_word": "融入",
+      "display_order": 2
+    },
+    {
+      "sentence": "She blended the spices until the aroma filled the room.",
+      "style": "Contextual",
+      "translation": "她将香料细细调和，香气便弥漫了整个房间。",
+      "translated_word": "调和",
+      "display_order": 1
+    },
+    {
+      "sentence": "The best partnerships blend strengths without erasing differences.",
+      "style": "Philosophical",
+      "translation": "最好的合作，是彼此的长处交融，而非个性的消弭。",
+      "translated_word": "交融",
+      "display_order": 4
+    }
+  ]
+}

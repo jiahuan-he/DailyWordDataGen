@@ -1,0 +1,40 @@
+{
+  "word": "amount",
+  "phonetic": "/əˈmaʊnt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "数量；金额；总数",
+  "examples": [
+    {
+      "sentence": "The amount of rain this spring surprised everyone.",
+      "style": "Contextual",
+      "translation": "今春的降雨量出乎所有人意料。",
+      "translated_word": "量",
+      "display_order": 1
+    },
+    {
+      "sentence": "Officials declined to confirm the amount of the proposed fine.",
+      "style": "Formal",
+      "translation": "官员拒绝确认拟议罚款的金额。",
+      "translated_word": "金额",
+      "display_order": 2
+    },
+    {
+      "sentence": "A small amount of honesty goes a long way.",
+      "style": "Collocational",
+      "translation": "一点点真诚，便能走很远。",
+      "translated_word": "一点点",
+      "display_order": 3
+    },
+    {
+      "sentence": "The amount we own matters less than what we choose to share.",
+      "style": "Philosophical",
+      "translation": "拥有多少并不重要，重要的是我们选择分享什么。",
+      "translated_word": "多少",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "derivation",
+  "phonetic": "/ˌderɪˈveɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "起源；衍生；派生；推导",
+  "examples": [
+    {
+      "sentence": "The derivation of 'salary' traces back to Roman soldiers paid in salt.",
+      "style": "Contextual",
+      "translation": "\"salary\"一词的起源可追溯至以盐支付军饷的罗马士兵。",
+      "translated_word": "起源",
+      "display_order": 1
+    },
+    {
+      "sentence": "Scholars remain divided on the derivation of this ancient symbol.",
+      "style": "Formal",
+      "translation": "学者们对这一古老符号的由来仍存分歧。",
+      "translated_word": "由来",
+      "display_order": 2
+    },
+    {
+      "sentence": "The mathematical derivation filled three pages of careful proof.",
+      "style": "Collocational",
+      "translation": "这道数学推导写满了三页严谨的证明。",
+      "translated_word": "推导",
+      "display_order": 3
+    },
+    {
+      "sentence": "To understand who we are, we must first trace the derivation of our beliefs.",
+      "style": "Philosophical",
+      "translation": "要认识自己，须先追溯信念的根源。",
+      "translated_word": "根源",
+      "display_order": 4
+    }
+  ]
+}

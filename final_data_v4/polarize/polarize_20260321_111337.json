@@ -1,0 +1,39 @@
+{
+  "word": "polarize",
+  "phonetic": "/ˈpoʊləraɪz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使两极分化；使对立；使分裂",
+  "examples": [
+    {
+      "sentence": "The proposal polarized voters: half celebrated, half protested.",
+      "style": "Contextual",
+      "translation": "这项提案让选民分裂成两派：一方欢庆，一方抗议。",
+      "translated_word": "分裂",
+      "display_order": 1
+    },
+    {
+      "sentence": "Experts warn that algorithm-driven feeds polarize public discourse.",
+      "style": "Formal",
+      "translation": "专家警告，算法驱动的信息流正在加剧公共话语的两极分化。",
+      "translated_word": "两极分化",
+      "display_order": 3
+    },
+    {
+      "sentence": "We polarize most fiercely over what we barely understand.",
+      "style": "Philosophical",
+      "translation": "我们往往对知之甚少的事物，争得最为激烈。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "One dinner table argument polarized our family for years.",
+      "style": "Intimate",
+      "translation": "一场餐桌上的争论，让我们一家人疏远了多年。",
+      "translated_word": "疏远",
+      "display_order": 2
+    }
+  ]
+}

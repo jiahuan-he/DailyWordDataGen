@@ -1,0 +1,39 @@
+{
+  "word": "basis",
+  "phonetic": "/ˈbeɪsɪs/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "基础；依据；基准",
+  "examples": [
+    {
+      "sentence": "Trust forms the basis of every meaningful connection.",
+      "style": "Contextual",
+      "translation": "信任是一切深刻联结的根基。",
+      "translated_word": "根基",
+      "display_order": 1
+    },
+    {
+      "sentence": "The ruling was issued on the basis of newly discovered documents.",
+      "style": "Formal",
+      "translation": "该裁决依据新发现的文件作出。",
+      "translated_word": "依据",
+      "display_order": 2
+    },
+    {
+      "sentence": "He journals on a daily basis, without fail.",
+      "style": "Collocational",
+      "translation": "他每日记录，从不间断。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "What we call truth often rests on a basis we have never questioned.",
+      "style": "Philosophical",
+      "translation": "我们所谓的真理，往往建立在从未质疑过的根基之上。",
+      "translated_word": "根基",
+      "display_order": 3
+    }
+  ]
+}

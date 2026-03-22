@@ -1,0 +1,40 @@
+{
+  "word": "clamp",
+  "phonetic": "/klæmp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "夹紧；固定；钳制",
+  "examples": [
+    {
+      "sentence": "She clamped the fabric in place and began to sew.",
+      "style": "Contextual",
+      "translation": "她把布料夹紧，开始缝纫。",
+      "translated_word": "夹紧",
+      "display_order": 1
+    },
+    {
+      "sentence": "The school clamped down on phone use during class.",
+      "style": "Collocational",
+      "translation": "学校严厉禁止上课使用手机。",
+      "translated_word": "严厉禁止",
+      "display_order": 3
+    },
+    {
+      "sentence": "Regulators have clamped down on misleading financial claims.",
+      "style": "Formal",
+      "translation": "监管机构对虚假金融宣传进行了严厉打击。",
+      "translated_word": "严厉打击",
+      "display_order": 4
+    },
+    {
+      "sentence": "He clamped the photo to the wire; our first gallery wall was born.",
+      "style": "Intimate",
+      "translation": "他把照片夹在铁丝上，我们的第一面照片墙就这样诞生了。",
+      "translated_word": "夹",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "shatter",
+  "phonetic": "/ˈʃætər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "粉碎；打碎；破灭",
+  "examples": [
+    {
+      "sentence": "The vase slipped and shattered against the tile.",
+      "style": "Contextual",
+      "translation": "花瓶滑落，在瓷砖上摔得粉碎。",
+      "translated_word": "粉碎",
+      "display_order": 1
+    },
+    {
+      "sentence": "She shattered the world record by three full seconds.",
+      "style": "Collocational",
+      "translation": "她以整整三秒的优势打破了世界纪录。",
+      "translated_word": "打破",
+      "display_order": 4
+    },
+    {
+      "sentence": "Dawn shattered the silence; birds began their chorus.",
+      "style": "Poetic",
+      "translation": "黎明击碎寂静，鸟儿开始合唱。",
+      "translated_word": "击碎",
+      "display_order": 3
+    },
+    {
+      "sentence": "One phone call shattered the peace I had carefully built.",
+      "style": "Intimate",
+      "translation": "一通电话，击碎了我苦心经营的安宁。",
+      "translated_word": "击碎",
+      "display_order": 2
+    }
+  ]
+}

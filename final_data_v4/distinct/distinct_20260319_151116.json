@@ -1,0 +1,39 @@
+{
+  "word": "distinct",
+  "phonetic": "/dɪˈstɪŋkt/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "独特；明显；清晰",
+  "examples": [
+    {
+      "sentence": "Her voice carried a distinct warmth that softened the room.",
+      "style": "Contextual",
+      "translation": "她的声音带着独特的温暖，柔化了整个房间。",
+      "translated_word": "独特",
+      "display_order": 2
+    },
+    {
+      "sentence": "Twins, yet each with a distinct spark in their eyes.",
+      "style": "Contrastive",
+      "translation": "虽是双胞胎，眼中却各有独特的光芒。",
+      "translated_word": "独特",
+      "display_order": 3
+    },
+    {
+      "sentence": "The coffee here has a distinct flavor you won't find elsewhere.",
+      "style": "Collocational",
+      "translation": "这里的咖啡有种独特的风味，别处难寻。",
+      "translated_word": "独特",
+      "display_order": 1
+    },
+    {
+      "sentence": "Dawn paints the sky in distinct shades no artist can replicate.",
+      "style": "Poetic",
+      "translation": "黎明在天空涂抹出独特的色彩，无人能够复刻。",
+      "translated_word": "独特",
+      "display_order": 4
+    }
+  ]
+}

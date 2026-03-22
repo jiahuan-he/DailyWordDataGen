@@ -1,0 +1,40 @@
+{
+  "word": "caricature",
+  "phonetic": "/ˈkærɪkətʃər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "漫画；讽刺画；夸张的描绘",
+  "examples": [
+    {
+      "sentence": "Street artists lined the plaza, sketching caricatures of tourists for ten euros each.",
+      "style": "Contextual",
+      "translation": "街头艺人沿广场一字排开，为游客画漫画像，每幅十欧元。",
+      "translated_word": "漫画像",
+      "display_order": 1
+    },
+    {
+      "sentence": "The villain in that film is a caricature: all cruelty, no complexity.",
+      "style": "Contrastive",
+      "translation": "那部电影里的反派只是个脸谱化的符号：满是残忍，毫无层次。",
+      "translated_word": "脸谱化的符号",
+      "display_order": 3
+    },
+    {
+      "sentence": "We become caricatures of ourselves when we perform for an audience we imagine.",
+      "style": "Philosophical",
+      "translation": "当我们为想象中的观众表演时，便沦为了自己的漫画像。",
+      "translated_word": "漫画像",
+      "display_order": 4
+    },
+    {
+      "sentence": "His laugh, his stride, his oversized glasses: grief reduced him to a caricature of the father I knew.",
+      "style": "Intimate",
+      "translation": "他的笑声、步态、那副大得出奇的眼镜；悲伤把他简化成了我记忆中父亲的一幅草图。",
+      "translated_word": "草图",
+      "display_order": 2
+    }
+  ]
+}

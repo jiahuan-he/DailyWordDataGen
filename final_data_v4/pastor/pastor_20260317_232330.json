@@ -1,0 +1,40 @@
+{
+  "word": "pastor",
+  "phonetic": "/ˈpæstər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "牧师；教牧；牧者",
+  "examples": [
+    {
+      "sentence": "The pastor greeted each family by name after the Sunday service.",
+      "style": "Contextual",
+      "translation": "主日礼拜后，牧师逐一叫出每个家庭的名字问候。",
+      "translated_word": "牧师",
+      "display_order": 1
+    },
+    {
+      "sentence": "The pastor has served this small congregation for over forty years.",
+      "style": "Formal",
+      "translation": "这位牧师已在这个小会众中侍奉逾四十年。",
+      "translated_word": "牧师",
+      "display_order": 4
+    },
+    {
+      "sentence": "A true pastor carries the weight of unspoken confessions.",
+      "style": "Philosophical",
+      "translation": "真正的牧者，肩负着那些未曾言明的告白。",
+      "translated_word": "牧者",
+      "display_order": 3
+    },
+    {
+      "sentence": "When my mother passed, our pastor sat with me in silence; no sermon, just presence.",
+      "style": "Intimate",
+      "translation": "母亲离世时，我们的牧师静静坐在我身旁；没有讲道，只有陪伴。",
+      "translated_word": "牧师",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "anaerobic",
+  "phonetic": "/ˌænəˈroʊbɪk/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "厌氧的；无氧的",
+  "examples": [
+    {
+      "sentence": "Deep in the marshland, anaerobic bacteria thrive where oxygen cannot reach.",
+      "style": "Contextual",
+      "translation": "沼泽深处，厌氧细菌在氧气无法抵达之地繁衍生息。",
+      "translated_word": "厌氧",
+      "display_order": 4
+    },
+    {
+      "sentence": "The facility employs anaerobic digestion to convert organic waste into biogas.",
+      "style": "Formal",
+      "translation": "该设施采用厌氧消化技术，将有机废物转化为沼气。",
+      "translated_word": "厌氧",
+      "display_order": 3
+    },
+    {
+      "sentence": "High-intensity anaerobic training builds explosive power in short bursts.",
+      "style": "Collocational",
+      "translation": "高强度无氧训练能在短时间内锻造爆发力。",
+      "translated_word": "无氧",
+      "display_order": 2
+    },
+    {
+      "sentence": "While aerobic exercise burns fat slowly, anaerobic workouts sculpt muscle fast.",
+      "style": "Contrastive",
+      "translation": "有氧运动缓慢燃脂，无氧训练则快速塑肌。",
+      "translated_word": "无氧",
+      "display_order": 1
+    }
+  ]
+}

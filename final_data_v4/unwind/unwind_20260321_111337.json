@@ -1,0 +1,40 @@
+{
+  "word": "unwind",
+  "phonetic": "/ʌnˈwaɪnd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "放松；解开；舒缓",
+  "examples": [
+    {
+      "sentence": "After the meeting, she unwound with a slow walk through the park.",
+      "style": "Contextual",
+      "translation": "会议结束后，她在公园里慢慢走着，让自己放松下来。",
+      "translated_word": "放松",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sunday mornings are for unwinding: slow coffee, sunlit pages, nowhere to be.",
+      "style": "Intimate",
+      "translation": "周日的早晨用来放松：慢饮咖啡，阳光洒在书页上，无处需去。",
+      "translated_word": "放松",
+      "display_order": 3
+    },
+    {
+      "sentence": "He unwinds by playing guitar in the dim light of his room.",
+      "style": "Collocational",
+      "translation": "他在房间昏暗的灯光下弹吉他，以此放松身心。",
+      "translated_word": "放松",
+      "display_order": 2
+    },
+    {
+      "sentence": "The day's weight unwound like thread slipping from a spool.",
+      "style": "Poetic",
+      "translation": "一天的重负如丝线从线轴滑落，徐徐松开。",
+      "translated_word": "松开",
+      "display_order": 4
+    }
+  ]
+}

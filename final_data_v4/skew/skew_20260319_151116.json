@@ -1,0 +1,42 @@
+{
+  "word": "skew",
+  "phonetic": "/skjuː/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "扭曲；使偏斜；歪曲",
+  "examples": [
+    {
+      "sentence": "A single outlier can skew the entire dataset.",
+      "style": "Contextual",
+      "translation": "一个异常值便能使整组数据偏离真相。",
+      "translated_word": "偏离",
+      "display_order": 1
+    },
+    {
+      "sentence": "Critics argue the new algorithm may skew search results toward paying advertisers.",
+      "style": "Formal",
+      "translation": "批评人士认为，新算法可能使搜索结果偏向付费广告商。",
+      "translated_word": "偏向",
+      "display_order": 3
+    },
+    {
+      "sentence": "Fear skews what we see; love clarifies it.",
+      "style": "Philosophical",
+      "translation": "恐惧扭曲所见，而爱使之澄明。",
+      "translated_word": "扭曲",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her late arrival skewed the seating arrangement completely.",
+      "style": "Collocational",
+      "translation": "她的迟到彻底打乱了原定的座位安排。",
+      "translated_word": "打乱",
+      "display_order": 2
+    }
+  ]
+}

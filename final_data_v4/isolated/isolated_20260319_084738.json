@@ -1,0 +1,40 @@
+{
+  "word": "isolated",
+  "phonetic": "/ˈaɪsəleɪtɪd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "孤立的；偏远的；隔绝的",
+  "examples": [
+    {
+      "sentence": "The cabin was so isolated that supplies had to be flown in.",
+      "style": "Contextual",
+      "translation": "这座木屋偏远至极，物资只能空运进来。",
+      "translated_word": "偏远",
+      "display_order": 1
+    },
+    {
+      "sentence": "Officials described the outbreak as an isolated incident with no wider threat.",
+      "style": "Formal",
+      "translation": "官方将此次疫情定性为孤立事件，不存在更大范围的威胁。",
+      "translated_word": "孤立",
+      "display_order": 4
+    },
+    {
+      "sentence": "A single lighthouse stood isolated against the grey Atlantic.",
+      "style": "Poetic",
+      "translation": "一座孤独的灯塔，兀立于灰蒙蒙的大西洋畔。",
+      "translated_word": "孤独",
+      "display_order": 3
+    },
+    {
+      "sentence": "The winter I spent in that isolated village taught me to hear my own thoughts.",
+      "style": "Intimate",
+      "translation": "在那个偏僻村庄度过的冬天，我学会了倾听自己的心声。",
+      "translated_word": "偏僻",
+      "display_order": 2
+    }
+  ]
+}

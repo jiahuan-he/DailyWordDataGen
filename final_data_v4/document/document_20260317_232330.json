@@ -1,0 +1,40 @@
+{
+  "word": "document",
+  "phonetic": "/ˈdɑːkjəmənt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "文件；公文；证件；文献",
+  "examples": [
+    {
+      "sentence": "The notary stamped each document before filing it away.",
+      "style": "Contextual",
+      "translation": "公证员在每份文件上盖章，然后归档。",
+      "translated_word": "文件",
+      "display_order": 2
+    },
+    {
+      "sentence": "Confidential documents must never leave the premises.",
+      "style": "Formal",
+      "translation": "机密文件不得带离办公场所。",
+      "translated_word": "文件",
+      "display_order": 1
+    },
+    {
+      "sentence": "She gathered the travel documents for their visa application.",
+      "style": "Collocational",
+      "translation": "她整理好旅行证件，准备递交签证申请。",
+      "translated_word": "证件",
+      "display_order": 3
+    },
+    {
+      "sentence": "He keeps one document in his wallet: a letter his father wrote before passing.",
+      "style": "Intimate",
+      "translation": "他的钱包里珍藏着一份文件：父亲临终前写给他的信。",
+      "translated_word": "文件",
+      "display_order": 4
+    }
+  ]
+}

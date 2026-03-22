@@ -1,0 +1,39 @@
+{
+  "word": "suspend",
+  "phonetic": "/səˈspend/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "暂停；悬挂；中止；搁置",
+  "examples": [
+    {
+      "sentence": "The board voted to suspend operations pending further review.",
+      "style": "Formal",
+      "translation": "董事会投票决定暂停运营，等待进一步审查。",
+      "translated_word": "暂停",
+      "display_order": 1
+    },
+    {
+      "sentence": "Suspend your disbelief; let the story carry you.",
+      "style": "Collocational",
+      "translation": "搁置你的怀疑，让故事带你远行。",
+      "translated_word": "搁置",
+      "display_order": 3
+    },
+    {
+      "sentence": "Dust suspended in afternoon light: the room held its breath.",
+      "style": "Poetic",
+      "translation": "尘埃悬浮在午后的光线中；整个房间屏住了呼吸。",
+      "translated_word": "悬浮",
+      "display_order": 2
+    },
+    {
+      "sentence": "To suspend judgment is to make room for understanding.",
+      "style": "Philosophical",
+      "translation": "悬置判断，是为理解腾出空间。",
+      "translated_word": "悬置",
+      "display_order": 4
+    }
+  ]
+}

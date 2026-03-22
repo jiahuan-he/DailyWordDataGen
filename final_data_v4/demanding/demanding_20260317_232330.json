@@ -1,0 +1,40 @@
+{
+  "word": "demanding",
+  "phonetic": "/dɪˈmændɪŋ/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "苛刻的；费力的；要求高的",
+  "examples": [
+    {
+      "sentence": "Training for the marathon proved more demanding than she expected.",
+      "style": "Contextual",
+      "translation": "马拉松训练比她预想的更为艰辛。",
+      "translated_word": "艰辛",
+      "display_order": 1
+    },
+    {
+      "sentence": "The position requires candidates who excel under demanding conditions.",
+      "style": "Formal",
+      "translation": "该职位要求候选人能在高压环境中脱颖而出。",
+      "translated_word": "高压",
+      "display_order": 3
+    },
+    {
+      "sentence": "A demanding client can push a team to produce its best work.",
+      "style": "Collocational",
+      "translation": "一位苛刻的客户，能激发团队的最佳表现。",
+      "translated_word": "苛刻",
+      "display_order": 2
+    },
+    {
+      "sentence": "Growth lives on the other side of demanding choices.",
+      "style": "Philosophical",
+      "translation": "成长栖居于艰难抉择的彼岸。",
+      "translated_word": "艰难",
+      "display_order": 4
+    }
+  ]
+}

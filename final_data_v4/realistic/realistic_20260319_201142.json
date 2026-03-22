@@ -1,0 +1,39 @@
+{
+  "word": "realistic",
+  "phonetic": "/ˌriːəˈlɪstɪk/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "现实的；务实的；逼真的",
+  "examples": [
+    {
+      "sentence": "The timeline was tight but realistic; the team committed immediately.",
+      "style": "Contextual",
+      "translation": "时间紧迫但切实可行，团队当即拍板。",
+      "translated_word": "切实可行",
+      "display_order": 2
+    },
+    {
+      "sentence": "Optimism lifts spirits, but realistic thinking builds foundations.",
+      "style": "Contrastive",
+      "translation": "乐观鼓舞人心，务实铸就根基。",
+      "translated_word": "务实",
+      "display_order": 4
+    },
+    {
+      "sentence": "A realistic budget saved the project from collapse.",
+      "style": "Collocational",
+      "translation": "一份切实的预算挽救了整个项目。",
+      "translated_word": "切实",
+      "display_order": 1
+    },
+    {
+      "sentence": "Being realistic doesn't mean giving up; it means knowing where to begin.",
+      "style": "Philosophical",
+      "translation": "务实不是放弃，而是知道从何处起步。",
+      "translated_word": "务实",
+      "display_order": 3
+    }
+  ]
+}

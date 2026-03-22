@@ -1,0 +1,41 @@
+{
+  "word": "tense",
+  "phonetic": "/tens/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "紧张的；绷紧的；焦虑的",
+  "examples": [
+    {
+      "sentence": "The room fell silent, the air tense with unspoken words.",
+      "style": "Contextual",
+      "translation": "房间陷入沉默，空气中弥漫着未说出口的话语。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "His shoulders remained tense long after the meeting ended.",
+      "style": "Collocational",
+      "translation": "会议结束许久，他的双肩仍然紧绷。",
+      "translated_word": "紧绷",
+      "display_order": 1
+    },
+    {
+      "sentence": "A tense string hums; a slack one stays silent.",
+      "style": "Poetic",
+      "translation": "紧绷的弦会鸣响；松弛的弦只沉默。",
+      "translated_word": "紧绷",
+      "display_order": 3
+    },
+    {
+      "sentence": "Before every important call, my jaw goes tense without me noticing.",
+      "style": "Intimate",
+      "translation": "每通重要电话前，我的下颌都会不自觉地绷紧。",
+      "translated_word": "绷紧",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "sensitive",
+  "phonetic": "/ˈsensətɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "敏感；灵敏；体贴；脆弱",
+  "examples": [
+    {
+      "sentence": "The instrument is sensitive enough to detect a single heartbeat.",
+      "style": "Contextual",
+      "translation": "这台仪器灵敏到足以探测到一次心跳。",
+      "translated_word": "灵敏",
+      "display_order": 1
+    },
+    {
+      "sentence": "Healthcare costs remain a sensitive topic during election years.",
+      "style": "Collocational",
+      "translation": "医疗费用在大选年份始终是敏感话题。",
+      "translated_word": "敏感",
+      "display_order": 2
+    },
+    {
+      "sentence": "Sensitive souls feel the world in higher resolution.",
+      "style": "Philosophical",
+      "translation": "敏感的灵魂以更高的分辨率感知世界。",
+      "translated_word": "敏感",
+      "display_order": 3
+    },
+    {
+      "sentence": "My mother called me too sensitive. Years later, I call it paying attention.",
+      "style": "Intimate",
+      "translation": "母亲总说我太敏感。多年后，我称之为用心感受。",
+      "translated_word": "敏感",
+      "display_order": 4
+    }
+  ]
+}

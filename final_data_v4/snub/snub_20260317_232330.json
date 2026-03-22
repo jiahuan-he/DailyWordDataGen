@@ -1,0 +1,41 @@
+{
+  "word": "snub",
+  "phonetic": "/snʌb/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "冷落；怠慢；不理睬",
+  "examples": [
+    {
+      "sentence": "He waved, but she snubbed him and looked away.",
+      "style": "Contextual",
+      "translation": "他挥了挥手，她却冷冷地移开了视线。",
+      "translated_word": "冷冷地",
+      "display_order": 1
+    },
+    {
+      "sentence": "The delegation snubbed the official dinner, sparking diplomatic tension.",
+      "style": "Formal",
+      "translation": "代表团缺席官方晚宴，引发外交风波。",
+      "translated_word": "缺席",
+      "display_order": 3
+    },
+    {
+      "sentence": "She snubbed my smile across the room; I pretended not to notice.",
+      "style": "Intimate",
+      "translation": "她隔着人群无视了我的微笑；我假装毫不在意。",
+      "translated_word": "无视",
+      "display_order": 2
+    },
+    {
+      "sentence": "We often snub kindness from those we no longer need.",
+      "style": "Philosophical",
+      "translation": "我们常常怠慢那些已无所求之人的善意。",
+      "translated_word": "怠慢",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "dilution",
+  "phonetic": "/dɪˈluːʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "稀释；淡化；摊薄；削弱",
+  "examples": [
+    {
+      "sentence": "Add too much water and the dilution ruins the flavor.",
+      "style": "Contextual",
+      "translation": "水加得太多，稀释便毁了原本的风味。",
+      "translated_word": "稀释",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new funding round will cause significant shareholder dilution.",
+      "style": "Formal",
+      "translation": "新一轮融资将导致股东权益的大幅摊薄。",
+      "translated_word": "摊薄",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every compromise risks a quiet dilution of principle.",
+      "style": "Philosophical",
+      "translation": "每一次妥协，都暗藏着对原则的悄然削弱。",
+      "translated_word": "削弱",
+      "display_order": 4
+    },
+    {
+      "sentence": "Brand dilution is the silent cost of overexpansion.",
+      "style": "Collocational",
+      "translation": "品牌稀释，是过度扩张无声的代价。",
+      "translated_word": "稀释",
+      "display_order": 2
+    }
+  ]
+}

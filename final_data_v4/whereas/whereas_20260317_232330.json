@@ -1,0 +1,41 @@
+{
+  "word": "whereas",
+  "phonetic": "/weərˈæz/",
+  "pos": [
+    "adverb",
+    "conjunction",
+    "noun"
+  ],
+  "selected_pos": "conjunction",
+  "definition": "然而；鉴于；尽管",
+  "examples": [
+    {
+      "sentence": "She thrives in chaos, whereas he needs silence to think.",
+      "style": "Contrastive",
+      "translation": "她在混乱中如鱼得水，他却需要静谧才能思考。",
+      "translated_word": "却",
+      "display_order": 2
+    },
+    {
+      "sentence": "The previous policy encouraged expansion, whereas the current one prioritizes sustainability.",
+      "style": "Formal",
+      "translation": "旧政策鼓励扩张，现行政策则以可持续发展为先。",
+      "translated_word": "则",
+      "display_order": 3
+    },
+    {
+      "sentence": "Youth counts the years ahead, whereas age counts those behind.",
+      "style": "Philosophical",
+      "translation": "年轻时数着未来的年岁，年老后数着走过的光阴。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "He prefers tea, whereas his wife drinks only coffee.",
+      "style": "Contextual",
+      "translation": "他偏爱茶，而他妻子只喝咖啡。",
+      "translated_word": "而",
+      "display_order": 1
+    }
+  ]
+}

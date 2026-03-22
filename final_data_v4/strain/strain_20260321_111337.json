@@ -1,0 +1,40 @@
+{
+  "word": "strain",
+  "phonetic": "/streɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "压力；紧张；拉伤；品种",
+  "examples": [
+    {
+      "sentence": "The constant deadlines put an enormous strain on the team.",
+      "style": "Contextual",
+      "translation": "持续不断的截止日期给团队带来了巨大的压力。",
+      "translated_word": "压力",
+      "display_order": 1
+    },
+    {
+      "sentence": "Economic strain has forced many small businesses to close permanently.",
+      "style": "Formal",
+      "translation": "经济压力已迫使许多小企业永久关闭。",
+      "translated_word": "压力",
+      "display_order": 2
+    },
+    {
+      "sentence": "There is a quiet strain in silence: the weight of words left unspoken.",
+      "style": "Poetic",
+      "translation": "沉默中有一种静默的张力：那是未曾说出口的话语的重量。",
+      "translated_word": "张力",
+      "display_order": 4
+    },
+    {
+      "sentence": "Years of carrying that strain alone changed something in me.",
+      "style": "Intimate",
+      "translation": "多年独自承受那份压力，悄然改变了我内心的某些东西。",
+      "translated_word": "压力",
+      "display_order": 3
+    }
+  ]
+}

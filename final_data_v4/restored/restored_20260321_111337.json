@@ -1,0 +1,40 @@
+{
+  "word": "restored",
+  "phonetic": "/rɪˈstɔːrd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "恢复；修复；归还；重建",
+  "examples": [
+    {
+      "sentence": "A single night of deep sleep restored what weeks of coffee could not.",
+      "style": "Contextual",
+      "translation": "一夜酣眠，胜过数周咖啡续命。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Artisans restored the cathedral's frescoes to their original splendor.",
+      "style": "Formal",
+      "translation": "工匠们将大教堂的壁画修复至昔日辉煌。",
+      "translated_word": "修复",
+      "display_order": 1
+    },
+    {
+      "sentence": "The rain restored color to a world I had forgotten could be green.",
+      "style": "Poetic",
+      "translation": "那场雨为世界重新着色，我才忆起它原本可以这样绿。",
+      "translated_word": "重新",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her quiet faith in me restored something I thought I had lost for good.",
+      "style": "Intimate",
+      "translation": "她静默的信任，唤回了我以为早已失去的东西。",
+      "translated_word": "唤回",
+      "display_order": 3
+    }
+  ]
+}

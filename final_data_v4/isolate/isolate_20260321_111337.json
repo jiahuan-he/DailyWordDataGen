@@ -1,0 +1,40 @@
+{
+  "word": "isolate",
+  "phonetic": "/ˈaɪsəleɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "隔离；孤立；分离",
+  "examples": [
+    {
+      "sentence": "The scientist worked to isolate the compound from the mixture.",
+      "style": "Contextual",
+      "translation": "科学家致力于从混合物中分离出这种化合物。",
+      "translated_word": "分离",
+      "display_order": 3
+    },
+    {
+      "sentence": "Health officials moved quickly to isolate infected passengers.",
+      "style": "Formal",
+      "translation": "卫生官员迅速采取行动，隔离了受感染的乘客。",
+      "translated_word": "隔离",
+      "display_order": 1
+    },
+    {
+      "sentence": "We isolate problems to solve them, yet some wounds heal only in company.",
+      "style": "Philosophical",
+      "translation": "我们将问题隔离以求解决，但有些伤口唯有在陪伴中才能愈合。",
+      "translated_word": "隔离",
+      "display_order": 4
+    },
+    {
+      "sentence": "After the move, I began to isolate myself without realizing it.",
+      "style": "Intimate",
+      "translation": "搬家之后，我不知不觉开始把自己孤立起来。",
+      "translated_word": "孤立",
+      "display_order": 2
+    }
+  ]
+}

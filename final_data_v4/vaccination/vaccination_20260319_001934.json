@@ -1,0 +1,39 @@
+{
+  "word": "vaccination",
+  "phonetic": "/ˌvæksɪˈneɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "疫苗接种；预防接种",
+  "examples": [
+    {
+      "sentence": "The clinic offers free vaccination for children under five.",
+      "style": "Contextual",
+      "translation": "诊所为五岁以下儿童提供免费疫苗接种。",
+      "translated_word": "疫苗接种",
+      "display_order": 1
+    },
+    {
+      "sentence": "Widespread vaccination has nearly eradicated polio worldwide.",
+      "style": "Formal",
+      "translation": "大规模疫苗接种已使脊髓灰质炎在全球几近绝迹。",
+      "translated_word": "疫苗接种",
+      "display_order": 3
+    },
+    {
+      "sentence": "Each vaccination is a quiet pact between strangers: I protect you, you protect me.",
+      "style": "Philosophical",
+      "translation": "每一次接种都是陌生人之间无声的契约：我护你，你护我。",
+      "translated_word": "接种",
+      "display_order": 4
+    },
+    {
+      "sentence": "She held his tiny hand through his first vaccination, humming softly.",
+      "style": "Intimate",
+      "translation": "她握着他的小手，轻声哼唱，陪他完成第一针疫苗。",
+      "translated_word": "疫苗",
+      "display_order": 2
+    }
+  ]
+}

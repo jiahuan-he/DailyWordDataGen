@@ -1,0 +1,41 @@
+{
+  "word": "perfect",
+  "phonetic": "/ˈpɜːfɪkt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "完美的；理想的；精准的",
+  "examples": [
+    {
+      "sentence": "The timing was perfect; we arrived just as the sun set.",
+      "style": "Contextual",
+      "translation": "时机恰到好处；我们抵达时，夕阳正好西沉。",
+      "translated_word": "恰到好处",
+      "display_order": 3
+    },
+    {
+      "sentence": "A perfect cup of coffee can turn a difficult morning around.",
+      "style": "Collocational",
+      "translation": "一杯恰到好处的咖啡，能扭转一整个艰难的早晨。",
+      "translated_word": "恰到好处",
+      "display_order": 2
+    },
+    {
+      "sentence": "Seeking perfect is human; accepting imperfection is wisdom.",
+      "style": "Philosophical",
+      "translation": "追求完美是人性；接受不完美是智慧。",
+      "translated_word": "完美",
+      "display_order": 4
+    },
+    {
+      "sentence": "The afternoon was perfect: tea, rain on the window, and nowhere to be.",
+      "style": "Intimate",
+      "translation": "那个下午完美极了：热茶、窗外的雨，无处可去。",
+      "translated_word": "完美",
+      "display_order": 1
+    }
+  ]
+}

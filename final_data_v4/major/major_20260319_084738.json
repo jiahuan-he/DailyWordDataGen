@@ -1,0 +1,41 @@
+{
+  "word": "major",
+  "phonetic": "/ˈmeɪdʒər/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "主要的；重大的；重要的",
+  "examples": [
+    {
+      "sentence": "This is a major decision; take your time.",
+      "style": "Contextual",
+      "translation": "这是个重大决定，不必着急。",
+      "translated_word": "重大",
+      "display_order": 1
+    },
+    {
+      "sentence": "The summit marked a major shift in global trade policy.",
+      "style": "Formal",
+      "translation": "此次峰会标志着全球贸易政策的重大转变。",
+      "translated_word": "重大",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sleep plays a major role in memory consolidation.",
+      "style": "Collocational",
+      "translation": "睡眠在记忆巩固中起着关键作用。",
+      "translated_word": "关键",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every major breakthrough once seemed impossible.",
+      "style": "Inspirational",
+      "translation": "每一次重大突破，曾经都看似遥不可及。",
+      "translated_word": "重大",
+      "display_order": 2
+    }
+  ]
+}

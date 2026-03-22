@@ -1,0 +1,39 @@
+{
+  "word": "nevertheless",
+  "phonetic": "/ˌnevəðəˈles/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "然而；尽管如此；仍然",
+  "examples": [
+    {
+      "sentence": "The forecast promised rain. Nevertheless, she packed a picnic.",
+      "style": "Contextual",
+      "translation": "天气预报说会下雨。她仍然准备了野餐。",
+      "translated_word": "仍然",
+      "display_order": 1
+    },
+    {
+      "sentence": "The treaty was widely criticized; nevertheless, both nations signed.",
+      "style": "Formal",
+      "translation": "该条约饱受批评；尽管如此，两国仍签署了协议。",
+      "translated_word": "尽管如此",
+      "display_order": 3
+    },
+    {
+      "sentence": "We cannot undo what is done. Nevertheless, we choose how to carry it.",
+      "style": "Philosophical",
+      "translation": "既成之事无法挽回。然而，我们可以选择如何承载它。",
+      "translated_word": "然而",
+      "display_order": 4
+    },
+    {
+      "sentence": "The world told her to be realistic. Nevertheless, she built her dream.",
+      "style": "Inspirational",
+      "translation": "世界叫她现实一点。她却依然筑起了梦想。",
+      "translated_word": "依然",
+      "display_order": 2
+    }
+  ]
+}

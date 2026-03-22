@@ -1,0 +1,41 @@
+{
+  "word": "scotch",
+  "phonetic": "/skɒtʃ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "制止；粉碎；消除",
+  "examples": [
+    {
+      "sentence": "The CEO's statement scotched all merger rumors.",
+      "style": "Formal",
+      "translation": "首席执行官的声明粉碎了所有合并传闻。",
+      "translated_word": "粉碎",
+      "display_order": 1
+    },
+    {
+      "sentence": "She scotched the plan before it could gain momentum.",
+      "style": "Contextual",
+      "translation": "她在计划蔓延之前便将其扼杀。",
+      "translated_word": "扼杀",
+      "display_order": 2
+    },
+    {
+      "sentence": "One honest conversation can scotch weeks of speculation.",
+      "style": "Philosophical",
+      "translation": "一次坦诚的对话，能消弭数周的猜疑。",
+      "translated_word": "消弭",
+      "display_order": 3
+    },
+    {
+      "sentence": "Scotch the doubt early; let it linger and it grows.",
+      "style": "Inspirational",
+      "translation": "趁早打消疑虑；拖延只会让它滋长。",
+      "translated_word": "打消",
+      "display_order": 4
+    }
+  ]
+}

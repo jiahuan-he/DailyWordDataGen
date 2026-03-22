@@ -1,0 +1,39 @@
+{
+  "word": "stadium",
+  "phonetic": "/ˈsteɪdiəm/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "体育场；运动场；球场",
+  "examples": [
+    {
+      "sentence": "The stadium fell silent as the referee raised the red card.",
+      "style": "Contextual",
+      "translation": "裁判举起红牌的瞬间，整座体育场陷入寂静。",
+      "translated_word": "体育场",
+      "display_order": 2
+    },
+    {
+      "sentence": "A packed stadium erupted when the home team scored.",
+      "style": "Collocational",
+      "translation": "主队进球时，满座的球场瞬间沸腾。",
+      "translated_word": "球场",
+      "display_order": 1
+    },
+    {
+      "sentence": "My father brought me to this stadium at seven; the grass looked impossibly green.",
+      "style": "Intimate",
+      "translation": "七岁那年父亲带我来这座球场，草坪绿得像一场梦。",
+      "translated_word": "球场",
+      "display_order": 3
+    },
+    {
+      "sentence": "Fifty thousand strangers breathed as one inside that stadium.",
+      "style": "Poetic",
+      "translation": "五万个陌生人在那座体育场里，呼吸同一种心跳。",
+      "translated_word": "体育场",
+      "display_order": 4
+    }
+  ]
+}

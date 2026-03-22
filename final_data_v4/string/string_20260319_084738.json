@@ -1,0 +1,40 @@
+{
+  "word": "string",
+  "phonetic": "/strɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "线；绳；一串；琴弦",
+  "examples": [
+    {
+      "sentence": "She tied the gift box with a simple white string.",
+      "style": "Contextual",
+      "translation": "她用一根白色细绳系好了礼盒。",
+      "translated_word": "细绳",
+      "display_order": 1
+    },
+    {
+      "sentence": "A string of coincidences led them back to each other.",
+      "style": "Collocational",
+      "translation": "一连串巧合让他们重逢。",
+      "translated_word": "串",
+      "display_order": 4
+    },
+    {
+      "sentence": "The cello string trembled, releasing a grief too deep for words.",
+      "style": "Poetic",
+      "translation": "大提琴弦颤动，释出无法言说的悲伤。",
+      "translated_word": "弦",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father kept a ball of string in his workshop; I never asked why, but now I wish I had.",
+      "style": "Intimate",
+      "translation": "父亲的工作间里总放着一团线绳；我从未问过为什么，如今却多想问一句。",
+      "translated_word": "线绳",
+      "display_order": 2
+    }
+  ]
+}

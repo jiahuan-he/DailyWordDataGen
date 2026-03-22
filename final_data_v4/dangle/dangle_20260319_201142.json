@@ -1,0 +1,40 @@
+{
+  "word": "dangle",
+  "phonetic": "/ˈdæŋɡl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "悬垂；摇晃；吊着诱惑",
+  "examples": [
+    {
+      "sentence": "Her keys dangled from the hook by the door.",
+      "style": "Contextual",
+      "translation": "她的钥匙悬在门边的挂钩上。",
+      "translated_word": "悬",
+      "display_order": 1
+    },
+    {
+      "sentence": "Lanterns dangled above the garden, scattering light like fireflies.",
+      "style": "Poetic",
+      "translation": "灯笼悬于花园上空，光点散落如萤火。",
+      "translated_word": "悬",
+      "display_order": 3
+    },
+    {
+      "sentence": "They dangled a promotion in front of him, but the offer never came.",
+      "style": "Collocational",
+      "translation": "他们用晋升的诱惑吊着他，承诺却始终没有兑现。",
+      "translated_word": "吊着",
+      "display_order": 4
+    },
+    {
+      "sentence": "My feet dangled off the dock as we watched the sun sink into the lake.",
+      "style": "Intimate",
+      "translation": "我的双脚悬在码头边晃荡，看着落日沉入湖面。",
+      "translated_word": "悬",
+      "display_order": 2
+    }
+  ]
+}

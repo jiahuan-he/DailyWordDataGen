@@ -1,0 +1,40 @@
+{
+  "word": "suitor",
+  "phonetic": "/ˈsuːtər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "求婚者；追求者；求爱者",
+  "examples": [
+    {
+      "sentence": "She had three suitors, but only one remembered her favorite flowers.",
+      "style": "Contextual",
+      "translation": "她有三个追求者，但只有一个记得她最爱的花。",
+      "translated_word": "追求者",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company quietly rejected offers from several foreign suitors.",
+      "style": "Formal",
+      "translation": "公司悄然拒绝了数家外国收购方的要约。",
+      "translated_word": "收购方",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every suitor arrives with promises; few return with patience.",
+      "style": "Poetic",
+      "translation": "每个求爱者都携诺而来；鲜有人怀耐心归返。",
+      "translated_word": "求爱者",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother kept every letter her suitor wrote during the war.",
+      "style": "Intimate",
+      "translation": "祖母珍藏着战时那位追求者写给她的每一封信。",
+      "translated_word": "追求者",
+      "display_order": 2
+    }
+  ]
+}

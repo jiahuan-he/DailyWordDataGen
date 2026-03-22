@@ -1,0 +1,40 @@
+{
+  "word": "ozone",
+  "phonetic": "/ˈoʊzoʊn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "臭氧；清新空气",
+  "examples": [
+    {
+      "sentence": "After the thunderstorm, a sharp scent of ozone hung in the air.",
+      "style": "Contextual",
+      "translation": "雷雨过后，空气中弥漫着一股清冽的臭氧味。",
+      "translated_word": "臭氧",
+      "display_order": 2
+    },
+    {
+      "sentence": "Scientists report that the ozone hole over Antarctica has begun to slowly recover.",
+      "style": "Formal",
+      "translation": "科学家报告称，南极上空的臭氧层空洞已开始缓慢修复。",
+      "translated_word": "臭氧",
+      "display_order": 3
+    },
+    {
+      "sentence": "The ozone layer absorbs most of the sun's ultraviolet radiation.",
+      "style": "Collocational",
+      "translation": "臭氧层吸收了太阳大部分的紫外线辐射。",
+      "translated_word": "臭氧",
+      "display_order": 1
+    },
+    {
+      "sentence": "Lightning fades, but ozone lingers: the sky's quiet signature.",
+      "style": "Poetic",
+      "translation": "闪电消逝，臭氧犹存：那是天空无声的落款。",
+      "translated_word": "臭氧",
+      "display_order": 4
+    }
+  ]
+}

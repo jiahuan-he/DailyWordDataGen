@@ -1,0 +1,40 @@
+{
+  "word": "mineral",
+  "phonetic": "/ˈmɪnərəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "矿物；矿物质；无机盐",
+  "examples": [
+    {
+      "sentence": "The geologist held up a glittering mineral pulled from deep within the cave.",
+      "style": "Contextual",
+      "translation": "地质学家举起一块从洞穴深处取出的闪亮矿物。",
+      "translated_word": "矿物",
+      "display_order": 1
+    },
+    {
+      "sentence": "New mineral deposits discovered offshore may reshape the region's economy.",
+      "style": "Formal",
+      "translation": "近海新发现的矿藏或将重塑该地区的经济格局。",
+      "translated_word": "矿藏",
+      "display_order": 3
+    },
+    {
+      "sentence": "Leafy greens are rich in essential minerals like iron and calcium.",
+      "style": "Collocational",
+      "translation": "绿叶蔬菜富含铁和钙等人体必需的矿物质。",
+      "translated_word": "矿物质",
+      "display_order": 2
+    },
+    {
+      "sentence": "Beneath the soil, minerals hold the memory of ancient seas.",
+      "style": "Poetic",
+      "translation": "土壤之下，矿物封存着远古海洋的记忆。",
+      "translated_word": "矿物",
+      "display_order": 4
+    }
+  ]
+}

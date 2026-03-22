@@ -1,0 +1,40 @@
+{
+  "word": "threat",
+  "phonetic": "/θret/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "威胁；恐吓；凶兆",
+  "examples": [
+    {
+      "sentence": "The email contained a direct threat to expose the leaked documents.",
+      "style": "Contextual",
+      "translation": "这封邮件直接威胁要公开泄露的文件。",
+      "translated_word": "威胁",
+      "display_order": 2
+    },
+    {
+      "sentence": "Climate change poses an existential threat to coastal communities worldwide.",
+      "style": "Formal",
+      "translation": "气候变化对全球沿海社区构成生存威胁。",
+      "translated_word": "威胁",
+      "display_order": 1
+    },
+    {
+      "sentence": "The greatest threat is often the one we refuse to name.",
+      "style": "Philosophical",
+      "translation": "最大的威胁，往往是我们拒绝承认的那个。",
+      "translated_word": "威胁",
+      "display_order": 3
+    },
+    {
+      "sentence": "Storm clouds gathered on the horizon, a silent threat written in grey.",
+      "style": "Poetic",
+      "translation": "乌云在天际聚拢，灰色的天幕书写着无声的威胁。",
+      "translated_word": "威胁",
+      "display_order": 4
+    }
+  ]
+}

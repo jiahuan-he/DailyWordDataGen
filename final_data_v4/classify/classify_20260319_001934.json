@@ -1,0 +1,39 @@
+{
+  "word": "classify",
+  "phonetic": "/ˈklæsɪfaɪ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "分类；归类；划分",
+  "examples": [
+    {
+      "sentence": "The archivist classified each letter by sender and decade.",
+      "style": "Contextual",
+      "translation": "档案员按寄信人和年代将每封信件归类。",
+      "translated_word": "归类",
+      "display_order": 2
+    },
+    {
+      "sentence": "The committee classified the documents as strictly confidential.",
+      "style": "Formal",
+      "translation": "委员会将这些文件列为高度机密。",
+      "translated_word": "列为",
+      "display_order": 3
+    },
+    {
+      "sentence": "Botanists classify the plant as a rare species native to high altitudes.",
+      "style": "Collocational",
+      "translation": "植物学家将这种植物归类为高海拔地区的珍稀物种。",
+      "translated_word": "归类",
+      "display_order": 1
+    },
+    {
+      "sentence": "We classify to create order, yet the world resists our neat categories.",
+      "style": "Philosophical",
+      "translation": "我们分类以创造秩序，世界却不屑于我们的划分。",
+      "translated_word": "分类",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "questionnaire",
+  "phonetic": "/ˌkwes.tʃəˈner/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "问卷；调查表",
+  "examples": [
+    {
+      "sentence": "The clinic handed her a questionnaire about her medical history.",
+      "style": "Contextual",
+      "translation": "诊所递给她一份关于病史的问卷。",
+      "translated_word": "问卷",
+      "display_order": 1
+    },
+    {
+      "sentence": "All applicants must submit a completed questionnaire prior to the interview.",
+      "style": "Formal",
+      "translation": "所有申请者须在面试前提交填妥的问卷。",
+      "translated_word": "问卷",
+      "display_order": 3
+    },
+    {
+      "sentence": "She filled out the questionnaire in under five minutes.",
+      "style": "Collocational",
+      "translation": "她不到五分钟就填完了问卷。",
+      "translated_word": "问卷",
+      "display_order": 2
+    },
+    {
+      "sentence": "That personality questionnaire in college somehow knew me better than I knew myself.",
+      "style": "Intimate",
+      "translation": "大学时那份性格问卷，竟比我自己还了解我。",
+      "translated_word": "问卷",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "aerobics",
+  "phonetic": "/eəˈroʊbɪks/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "有氧运动；健身操",
+  "examples": [
+    {
+      "sentence": "The community center offers aerobics every Tuesday and Thursday evening.",
+      "style": "Contextual",
+      "translation": "社区中心每周二和周四晚上都有健身操课。",
+      "translated_word": "健身操",
+      "display_order": 1
+    },
+    {
+      "sentence": "Water aerobics has become popular among those seeking low-impact exercise.",
+      "style": "Collocational",
+      "translation": "水中有氧运动在追求低冲击锻炼的人群中日渐流行。",
+      "translated_word": "有氧运动",
+      "display_order": 4
+    },
+    {
+      "sentence": "Studies confirm that regular aerobics significantly reduces cardiovascular risk.",
+      "style": "Formal",
+      "translation": "研究证实，规律的有氧运动能显著降低心血管疾病风险。",
+      "translated_word": "有氧运动",
+      "display_order": 3
+    },
+    {
+      "sentence": "My mother's old aerobics tapes still sit on the shelf; her energy at forty puts mine to shame.",
+      "style": "Intimate",
+      "translation": "母亲当年的健身操录像带还摆在架上；她四十岁时的活力，让如今的我自愧不如。",
+      "translated_word": "健身操",
+      "display_order": 2
+    }
+  ]
+}

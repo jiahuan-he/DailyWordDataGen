@@ -1,0 +1,40 @@
+{
+  "word": "hunker",
+  "phonetic": "/ˈhʌŋkər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "蹲下；蜷缩；坚守；静待",
+  "examples": [
+    {
+      "sentence": "The children hunkered behind the couch, stifling giggles during hide-and-seek.",
+      "style": "Contextual",
+      "translation": "孩子们蹲在沙发后面，捂着嘴偷笑，玩着捉迷藏。",
+      "translated_word": "蹲",
+      "display_order": 1
+    },
+    {
+      "sentence": "Residents were advised to hunker down as the hurricane approached the coast.",
+      "style": "Collocational",
+      "translation": "飓风逼近海岸，居民们被劝告就地坚守。",
+      "translated_word": "坚守",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some winters, you simply hunker and wait for the thaw.",
+      "style": "Philosophical",
+      "translation": "有些冬天，你只能蛰伏着，静候冰雪消融。",
+      "translated_word": "蛰伏",
+      "display_order": 4
+    },
+    {
+      "sentence": "We hunkered around the campfire that night, no one wanting to leave its warmth.",
+      "style": "Intimate",
+      "translation": "那晚我们围着篝火蜷坐，谁也舍不得离开那团温暖。",
+      "translated_word": "蜷坐",
+      "display_order": 2
+    }
+  ]
+}

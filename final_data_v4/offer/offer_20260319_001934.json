@@ -1,0 +1,40 @@
+{
+  "word": "offer",
+  "phonetic": "/ˈɔːfər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "提供；给予；提议；奉献",
+  "examples": [
+    {
+      "sentence": "She offered her seat to the elderly woman without a word.",
+      "style": "Contextual",
+      "translation": "她一言不发，起身让座给那位老人。",
+      "translated_word": "让座",
+      "display_order": 1
+    },
+    {
+      "sentence": "He offered his condolences in a handwritten letter.",
+      "style": "Collocational",
+      "translation": "他手书一封信，致以哀悼。",
+      "translated_word": "致以",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother would offer tea before asking any questions; warmth first, words second.",
+      "style": "Intimate",
+      "translation": "外婆总是先沏茶再问话：先予温暖，再予言语。",
+      "translated_word": "予",
+      "display_order": 3
+    },
+    {
+      "sentence": "To offer is to believe the other person deserves more than they asked for.",
+      "style": "Philosophical",
+      "translation": "给予，是相信对方值得比所求更多。",
+      "translated_word": "给予",
+      "display_order": 4
+    }
+  ]
+}

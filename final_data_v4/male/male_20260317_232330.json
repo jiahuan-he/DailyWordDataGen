@@ -1,0 +1,40 @@
+{
+  "word": "male",
+  "phonetic": "/meɪl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "男性的；雄性的",
+  "examples": [
+    {
+      "sentence": "The choir needed more male voices for the bass section.",
+      "style": "Contextual",
+      "translation": "合唱团的低音声部需要更多男声。",
+      "translated_word": "男",
+      "display_order": 2
+    },
+    {
+      "sentence": "Male elephants leave the herd upon reaching maturity.",
+      "style": "Formal",
+      "translation": "雄象成年后便会离开象群。",
+      "translated_word": "雄",
+      "display_order": 1
+    },
+    {
+      "sentence": "His male ego wouldn't let him ask for directions.",
+      "style": "Collocational",
+      "translation": "他那点男人的自尊心，让他怎么也不肯开口问路。",
+      "translated_word": "男人",
+      "display_order": 4
+    },
+    {
+      "sentence": "In this species, the male plumage outshines the female.",
+      "style": "Contrastive",
+      "translation": "在这一物种中，雄鸟的羽色远比雌鸟亮丽。",
+      "translated_word": "雄",
+      "display_order": 3
+    }
+  ]
+}

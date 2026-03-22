@@ -1,0 +1,41 @@
+{
+  "word": "pants",
+  "phonetic": "/pænts/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "裤子；长裤；内裤",
+  "examples": [
+    {
+      "sentence": "He spilled coffee on his pants during the morning meeting.",
+      "style": "Contextual",
+      "translation": "他在晨会时把咖啡洒在了裤子上。",
+      "translated_word": "裤子",
+      "display_order": 1
+    },
+    {
+      "sentence": "She paired her dress pants with a crisp white blouse.",
+      "style": "Collocational",
+      "translation": "她用西装裤搭配了一件挺括的白衬衫。",
+      "translated_word": "裤",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father's old wool pants still hang in the closet, unworn for years.",
+      "style": "Intimate",
+      "translation": "父亲那条旧羊毛裤还挂在衣柜里，多年未曾穿过。",
+      "translated_word": "裤",
+      "display_order": 2
+    },
+    {
+      "sentence": "Jeans are casual; dress pants signal you mean business.",
+      "style": "Contrastive",
+      "translation": "牛仔裤随意自在；西裤则宣告你志在必得。",
+      "translated_word": "裤",
+      "display_order": 4
+    }
+  ]
+}

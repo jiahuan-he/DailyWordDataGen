@@ -1,0 +1,40 @@
+{
+  "word": "umpire",
+  "phonetic": "/ˈʌmpaɪər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "裁判；仲裁者",
+  "examples": [
+    {
+      "sentence": "The umpire signaled a strike, and the stadium fell silent.",
+      "style": "Contextual",
+      "translation": "裁判判定好球，全场顿时鸦雀无声。",
+      "translated_word": "裁判",
+      "display_order": 1
+    },
+    {
+      "sentence": "The league introduced stricter guidelines for umpires this season.",
+      "style": "Formal",
+      "translation": "联盟本赛季对裁判出台了更严格的执裁规范。",
+      "translated_word": "裁判",
+      "display_order": 3
+    },
+    {
+      "sentence": "A disputed call from the umpire can shift the entire match.",
+      "style": "Collocational",
+      "translation": "裁判一次争议判罚，足以扭转整场比赛的走向。",
+      "translated_word": "裁判",
+      "display_order": 2
+    },
+    {
+      "sentence": "The umpire watches every mistake but makes none of the plays.",
+      "style": "Philosophical",
+      "translation": "裁判目睹所有失误，却从不亲身下场。",
+      "translated_word": "裁判",
+      "display_order": 4
+    }
+  ]
+}

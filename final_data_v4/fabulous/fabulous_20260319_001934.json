@@ -1,0 +1,39 @@
+{
+  "word": "fabulous",
+  "phonetic": "/ˈfæbjələs/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "极好的；精彩的；非凡的",
+  "examples": [
+    {
+      "sentence": "The sunrise over the canyon was nothing short of fabulous.",
+      "style": "Contextual",
+      "translation": "峡谷日出的壮丽，令人叹为观止。",
+      "translated_word": "壮丽",
+      "display_order": 3
+    },
+    {
+      "sentence": "She has a fabulous sense of style.",
+      "style": "Collocational",
+      "translation": "她有着绝佳的时尚品味。",
+      "translated_word": "绝佳",
+      "display_order": 1
+    },
+    {
+      "sentence": "That summer, we stayed in a fabulous little inn by the sea.",
+      "style": "Intimate",
+      "translation": "那年夏天，我们住在海边一家绝妙的小旅馆里。",
+      "translated_word": "绝妙",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every setback is a chance to make a fabulous comeback.",
+      "style": "Inspirational",
+      "translation": "每一次挫折，都是华丽转身的契机。",
+      "translated_word": "华丽",
+      "display_order": 4
+    }
+  ]
+}

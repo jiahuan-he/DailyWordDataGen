@@ -1,0 +1,40 @@
+{
+  "word": "landing",
+  "phonetic": "/ˈlændɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "着陆；降落；楼梯平台",
+  "examples": [
+    {
+      "sentence": "The flight attendant asked everyone to prepare for landing.",
+      "style": "Contextual",
+      "translation": "空乘人员请大家为着陆做好准备。",
+      "translated_word": "着陆",
+      "display_order": 1
+    },
+    {
+      "sentence": "A soft landing is what every economy hopes for during a slowdown.",
+      "style": "Collocational",
+      "translation": "经济放缓时，软着陆是所有人的期盼。",
+      "translated_word": "着陆",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every landing marks the end of suspension: the sky releases, the earth receives.",
+      "style": "Poetic",
+      "translation": "每一次降落都是悬浮的终点：天空释放，大地接纳。",
+      "translated_word": "降落",
+      "display_order": 4
+    },
+    {
+      "sentence": "That midnight landing in a foreign city began my year of reinvention.",
+      "style": "Intimate",
+      "translation": "午夜降落在陌生的城市，开启了我重塑自我的一年。",
+      "translated_word": "降落",
+      "display_order": 2
+    }
+  ]
+}

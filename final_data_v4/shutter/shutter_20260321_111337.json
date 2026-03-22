@@ -1,0 +1,40 @@
+{
+  "word": "shutter",
+  "phonetic": "/ˈʃʌtər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "百叶窗；快门；遮板",
+  "examples": [
+    {
+      "sentence": "Morning light slipped through the half-open shutters.",
+      "style": "Contextual",
+      "translation": "晨光从半开的百叶窗间悄然滑入。",
+      "translated_word": "百叶窗",
+      "display_order": 1
+    },
+    {
+      "sentence": "A single shutter click preserved the fleeting smile.",
+      "style": "Collocational",
+      "translation": "一声快门，留住了那转瞬即逝的微笑。",
+      "translated_word": "快门",
+      "display_order": 4
+    },
+    {
+      "sentence": "Sunlight bled through the shutters, painting stripes across her face.",
+      "style": "Poetic",
+      "translation": "阳光透过百叶窗倾泻，在她脸上绘出道道金纹。",
+      "translated_word": "百叶窗",
+      "display_order": 3
+    },
+    {
+      "sentence": "She taught me to close the shutters gently, as if tucking the house to sleep.",
+      "style": "Intimate",
+      "translation": "她教我轻合百叶窗，像是为老屋盖上一床薄被。",
+      "translated_word": "百叶窗",
+      "display_order": 2
+    }
+  ]
+}

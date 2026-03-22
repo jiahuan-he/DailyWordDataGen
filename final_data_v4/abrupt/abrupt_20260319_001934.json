@@ -1,0 +1,41 @@
+{
+  "word": "abrupt",
+  "phonetic": "/əˈbrʌpt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "突然的；唐突的；生硬的",
+  "examples": [
+    {
+      "sentence": "The conversation took an abrupt turn when she mentioned the will.",
+      "style": "Contextual",
+      "translation": "话题在她提及遗嘱时骤然转向。",
+      "translated_word": "骤然",
+      "display_order": 2
+    },
+    {
+      "sentence": "The minister's abrupt departure raised questions about policy disagreements.",
+      "style": "Formal",
+      "translation": "部长的突然离任引发了对政策分歧的猜测。",
+      "translated_word": "突然",
+      "display_order": 3
+    },
+    {
+      "sentence": "His abrupt goodbye left so much unsaid between us.",
+      "style": "Intimate",
+      "translation": "他仓促的告别，留下太多未尽之言。",
+      "translated_word": "仓促",
+      "display_order": 1
+    },
+    {
+      "sentence": "An abrupt frost silenced the last crickets of autumn.",
+      "style": "Poetic",
+      "translation": "一场骤霜，让秋日最后的蟋蟀噤声。",
+      "translated_word": "骤",
+      "display_order": 4
+    }
+  ]
+}

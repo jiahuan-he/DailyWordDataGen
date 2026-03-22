@@ -1,0 +1,40 @@
+{
+  "word": "host",
+  "phonetic": "/həʊst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "主人；主持人；东道主",
+  "examples": [
+    {
+      "sentence": "She knew every guest by name: a natural host.",
+      "style": "Contextual",
+      "translation": "她记得每位宾客的名字：天生的主人。",
+      "translated_word": "主人",
+      "display_order": 3
+    },
+    {
+      "sentence": "The host nation welcomed athletes from over forty countries.",
+      "style": "Formal",
+      "translation": "东道主国家迎接了来自四十多个国家的运动员。",
+      "translated_word": "东道主",
+      "display_order": 4
+    },
+    {
+      "sentence": "A gracious host makes strangers feel at home.",
+      "style": "Collocational",
+      "translation": "殷勤的主人让陌生人也有宾至如归之感。",
+      "translated_word": "主人",
+      "display_order": 1
+    },
+    {
+      "sentence": "At her table, my mother was always the perfect host.",
+      "style": "Intimate",
+      "translation": "在她的餐桌旁，母亲永远是最完美的主人。",
+      "translated_word": "主人",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "destination",
+  "phonetic": "/ˌdestɪˈneɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "目的地；终点；归宿",
+  "examples": [
+    {
+      "sentence": "After three flights, we finally reached our destination.",
+      "style": "Contextual",
+      "translation": "三趟航班之后，我们终于抵达了目的地。",
+      "translated_word": "目的地",
+      "display_order": 1
+    },
+    {
+      "sentence": "Kyoto remains a beloved destination for those who seek stillness.",
+      "style": "Collocational",
+      "translation": "对于寻求宁静的人而言，京都依然是心之所向。",
+      "translated_word": "心之所向",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every map holds a destination that already knows your name.",
+      "style": "Poetic",
+      "translation": "每张地图上，都藏着一个早已知晓你名字的远方。",
+      "translated_word": "远方",
+      "display_order": 4
+    },
+    {
+      "sentence": "I picked a destination at random that summer; it changed everything.",
+      "style": "Intimate",
+      "translation": "那年夏天，我随手选了一个目的地；一切从此不同。",
+      "translated_word": "目的地",
+      "display_order": 2
+    }
+  ]
+}

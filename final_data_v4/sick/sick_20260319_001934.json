@@ -1,0 +1,41 @@
+{
+  "word": "sick",
+  "phonetic": "/sɪk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "生病的；恶心的；厌倦的",
+  "examples": [
+    {
+      "sentence": "He looked pale and hadn't touched his food; he was clearly sick.",
+      "style": "Contextual",
+      "translation": "他脸色苍白，饭菜一口未动；显然是病了。",
+      "translated_word": "病了",
+      "display_order": 1
+    },
+    {
+      "sentence": "She called in sick, then spent the day watching rain trace the window.",
+      "style": "Collocational",
+      "translation": "她打电话请了病假，然后看了一天雨水划过窗玻璃。",
+      "translated_word": "病",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother always knew I was sick before I did.",
+      "style": "Intimate",
+      "translation": "外婆总能在我自己察觉之前，就知道我病了。",
+      "translated_word": "病了",
+      "display_order": 2
+    },
+    {
+      "sentence": "We only notice health when we are sick.",
+      "style": "Philosophical",
+      "translation": "唯有生病时，我们才察觉健康的存在。",
+      "translated_word": "生病",
+      "display_order": 3
+    }
+  ]
+}

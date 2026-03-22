@@ -1,0 +1,41 @@
+{
+  "word": "debit",
+  "phonetic": "/ˈdebɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "借记；扣款；借方",
+  "examples": [
+    {
+      "sentence": "The debit appeared on my account before the package even shipped.",
+      "style": "Contextual",
+      "translation": "包裹还没发货，扣款就已经出现在账户上了。",
+      "translated_word": "扣款",
+      "display_order": 1
+    },
+    {
+      "sentence": "All debits exceeding $500 require manager approval.",
+      "style": "Formal",
+      "translation": "所有超过五百美元的扣款须经经理批准。",
+      "translated_word": "扣款",
+      "display_order": 3
+    },
+    {
+      "sentence": "She always paid with debit; credit felt like borrowed time.",
+      "style": "Contrastive",
+      "translation": "她总是用借记卡付款；信用卡让她觉得像在透支时间。",
+      "translated_word": "借记卡",
+      "display_order": 4
+    },
+    {
+      "sentence": "A small debit for coffee had become her morning ritual.",
+      "style": "Collocational",
+      "translation": "一笔小小的咖啡扣款，成了她每日清晨的仪式。",
+      "translated_word": "扣款",
+      "display_order": 2
+    }
+  ]
+}

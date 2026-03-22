@@ -1,0 +1,41 @@
+{
+  "word": "becoming",
+  "phonetic": "/bɪˈkʌmɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "得体的；相称的；合适的",
+  "examples": [
+    {
+      "sentence": "The soft blue was becoming on her in a way bold colors never were.",
+      "style": "Contextual",
+      "translation": "柔和的蓝色衬她，这是浓烈色彩从未给予的相称。",
+      "translated_word": "相称",
+      "display_order": 2
+    },
+    {
+      "sentence": "She chose a becoming shade of rose that warmed her complexion.",
+      "style": "Collocational",
+      "translation": "她选了一抹玫瑰色，衬得面色温润。",
+      "translated_word": "衬",
+      "display_order": 1
+    },
+    {
+      "sentence": "Restraint is the most becoming ornament.",
+      "style": "Philosophical",
+      "translation": "克制是最得体的装饰。",
+      "translated_word": "得体",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother wore her grey hair like a crown; age, she said, could be becoming.",
+      "style": "Intimate",
+      "translation": "祖母将灰发戴成王冠；她说，年岁也可以是一种风韵。",
+      "translated_word": "风韵",
+      "display_order": 4
+    }
+  ]
+}

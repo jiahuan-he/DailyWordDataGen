@@ -1,0 +1,40 @@
+{
+  "word": "giant",
+  "phonetic": "/ˈdʒaɪənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "巨人；巨头；庞然大物",
+  "examples": [
+    {
+      "sentence": "Standing beside the redwood, he felt like an ant next to a giant.",
+      "style": "Contextual",
+      "translation": "站在红杉树旁，他觉得自己像是巨人身边的蚂蚁。",
+      "translated_word": "巨人",
+      "display_order": 1
+    },
+    {
+      "sentence": "The pharmaceutical giant announced a breakthrough in cancer research.",
+      "style": "Formal",
+      "translation": "这家制药巨头宣布了癌症研究的重大突破。",
+      "translated_word": "巨头",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every giant was once a child who refused to stop growing.",
+      "style": "Philosophical",
+      "translation": "每个巨人，都曾是一个拒绝停止成长的孩子。",
+      "translated_word": "巨人",
+      "display_order": 4
+    },
+    {
+      "sentence": "She landed a job at a tech giant straight out of college.",
+      "style": "Collocational",
+      "translation": "她刚毕业就入职了一家科技巨头。",
+      "translated_word": "巨头",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "mall",
+  "phonetic": "/mɔːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "购物中心；商场",
+  "examples": [
+    {
+      "sentence": "The new mall downtown draws thousands of visitors each weekend.",
+      "style": "Contextual",
+      "translation": "市中心新开的商场每个周末都吸引成千上万的顾客。",
+      "translated_word": "商场",
+      "display_order": 2
+    },
+    {
+      "sentence": "Let's grab coffee at the mall before the movie starts.",
+      "style": "Collocational",
+      "translation": "电影开场前，我们去商场喝杯咖啡吧。",
+      "translated_word": "商场",
+      "display_order": 1
+    },
+    {
+      "sentence": "As a teenager, the mall was my whole world: friends, first dates, summer afternoons.",
+      "style": "Intimate",
+      "translation": "少年时代，商场就是我的整个世界：朋友、初次约会、夏日午后。",
+      "translated_word": "商场",
+      "display_order": 3
+    },
+    {
+      "sentence": "A dying mall tells the story of a town's changing dreams.",
+      "style": "Philosophical",
+      "translation": "一座衰落的商场，诉说着一座城镇梦想的变迁。",
+      "translated_word": "商场",
+      "display_order": 4
+    }
+  ]
+}

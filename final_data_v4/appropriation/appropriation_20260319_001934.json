@@ -1,0 +1,39 @@
+{
+  "word": "appropriation",
+  "phonetic": "/əˌproʊpriˈeɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "挪用；拨款；盗用；占有",
+  "examples": [
+    {
+      "sentence": "Congress approved an appropriation of $2 billion for infrastructure.",
+      "style": "Formal",
+      "translation": "国会批准了二十亿美元的基础设施拨款。",
+      "translated_word": "拨款",
+      "display_order": 1
+    },
+    {
+      "sentence": "The designer faced backlash for the appropriation of tribal symbols.",
+      "style": "Contextual",
+      "translation": "这位设计师因挪用部落符号而遭到强烈抵制。",
+      "translated_word": "挪用",
+      "display_order": 2
+    },
+    {
+      "sentence": "Influence asks permission; appropriation simply takes.",
+      "style": "Contrastive",
+      "translation": "影响是借鉴，挪用是掠夺。",
+      "translated_word": "挪用",
+      "display_order": 4
+    },
+    {
+      "sentence": "Art thrives on exchange, yet the line between homage and appropriation remains razor-thin.",
+      "style": "Philosophical",
+      "translation": "艺术因交流而繁荣，然而致敬与挪用之间的界限始终微妙至极。",
+      "translated_word": "挪用",
+      "display_order": 3
+    }
+  ]
+}

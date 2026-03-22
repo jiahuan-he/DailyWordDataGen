@@ -1,0 +1,40 @@
+{
+  "word": "snuff",
+  "phonetic": "/snʌf/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "掐灭；扼杀；消灭",
+  "examples": [
+    {
+      "sentence": "She snuffed the candle and the room fell dark.",
+      "style": "Contextual",
+      "translation": "她掐灭蜡烛，房间陷入黑暗。",
+      "translated_word": "掐灭",
+      "display_order": 1
+    },
+    {
+      "sentence": "A single gust snuffed the flame; the night rushed in.",
+      "style": "Poetic",
+      "translation": "一阵风掐灭了火焰；夜色涌入。",
+      "translated_word": "掐灭",
+      "display_order": 2
+    },
+    {
+      "sentence": "Oppression cannot snuff what lives in the mind.",
+      "style": "Philosophical",
+      "translation": "压迫无法扼杀心中所念。",
+      "translated_word": "扼杀",
+      "display_order": 4
+    },
+    {
+      "sentence": "They tried to snuff out the rebellion before it spread.",
+      "style": "Collocational",
+      "translation": "他们试图在叛乱蔓延之前将其扼杀。",
+      "translated_word": "扼杀",
+      "display_order": 3
+    }
+  ]
+}

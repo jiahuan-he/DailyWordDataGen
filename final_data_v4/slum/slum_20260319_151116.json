@@ -1,0 +1,40 @@
+{
+  "word": "slum",
+  "phonetic": "/slʌm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "贫民窟；棚户区",
+  "examples": [
+    {
+      "sentence": "The charity opened its first clinic in the city's oldest slum.",
+      "style": "Contextual",
+      "translation": "这家慈善机构在城中最古老的贫民窟开设了第一间诊所。",
+      "translated_word": "贫民窟",
+      "display_order": 1
+    },
+    {
+      "sentence": "Officials announced a five-year plan to redevelop the waterfront slum.",
+      "style": "Formal",
+      "translation": "官员宣布了一项为期五年的滨水贫民窟改造计划。",
+      "translated_word": "贫民窟",
+      "display_order": 2
+    },
+    {
+      "sentence": "A slum does not show where people want to live; it shows where they were left.",
+      "style": "Philosophical",
+      "translation": "贫民窟展示的不是人们想住的地方，而是他们被遗弃之处。",
+      "translated_word": "贫民窟",
+      "display_order": 3
+    },
+    {
+      "sentence": "Laundry hung between rooftops, bright flags over the slum's grey walls.",
+      "style": "Poetic",
+      "translation": "晾晒的衣物悬挂在屋顶之间，如鲜艳的旗帜飘扬在灰墙之上。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

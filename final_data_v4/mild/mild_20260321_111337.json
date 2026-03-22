@@ -1,0 +1,40 @@
+{
+  "word": "mild",
+  "phonetic": "/maɪld/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "温和；轻微；清淡",
+  "examples": [
+    {
+      "sentence": "The winter here is mild; we rarely need heavy coats.",
+      "style": "Contextual",
+      "translation": "这里的冬天很温和，我们几乎不需要厚外套。",
+      "translated_word": "温和",
+      "display_order": 1
+    },
+    {
+      "sentence": "She spoke in a mild tone that calmed the room.",
+      "style": "Collocational",
+      "translation": "她语气温和，整个房间顿时安静下来。",
+      "translated_word": "温和",
+      "display_order": 3
+    },
+    {
+      "sentence": "His criticism was mild compared to what I had expected.",
+      "style": "Contrastive",
+      "translation": "他的批评比我预想的温和许多。",
+      "translated_word": "温和",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather had a mild temper; I never heard him raise his voice.",
+      "style": "Intimate",
+      "translation": "祖父性情温和，我从未听他大声说过话。",
+      "translated_word": "温和",
+      "display_order": 2
+    }
+  ]
+}

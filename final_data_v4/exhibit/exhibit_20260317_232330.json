@@ -1,0 +1,40 @@
+{
+  "word": "exhibit",
+  "phonetic": "/ɪɡˈzɪbɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "展示；展览；表现；显露",
+  "examples": [
+    {
+      "sentence": "The gallery will exhibit her photographs through December.",
+      "style": "Contextual",
+      "translation": "画廊将展出她的摄影作品，直至十二月。",
+      "translated_word": "展出",
+      "display_order": 1
+    },
+    {
+      "sentence": "Patients who exhibit these symptoms should seek immediate care.",
+      "style": "Formal",
+      "translation": "出现上述症状的患者应立即就医。",
+      "translated_word": "出现",
+      "display_order": 3
+    },
+    {
+      "sentence": "We exhibit our wounds only to those who've earned the right to see them.",
+      "style": "Philosophical",
+      "translation": "我们只向值得见证的人展露伤痕。",
+      "translated_word": "展露",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother exhibited such patience that I learned kindness without lectures.",
+      "style": "Intimate",
+      "translation": "祖母展现的耐心，让我无需说教便懂得了善良。",
+      "translated_word": "展现",
+      "display_order": 2
+    }
+  ]
+}

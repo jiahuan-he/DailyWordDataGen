@@ -1,0 +1,39 @@
+{
+  "word": "exception",
+  "phonetic": "/ɪkˈsepʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "例外；特例；除外",
+  "examples": [
+    {
+      "sentence": "The museum is closed on Mondays, with one exception: national holidays.",
+      "style": "Contextual",
+      "translation": "博物馆周一闭馆，唯一的例外是国定假日。",
+      "translated_word": "例外",
+      "display_order": 1
+    },
+    {
+      "sentence": "She rarely lends her books, but she made an exception for him.",
+      "style": "Collocational",
+      "translation": "她几乎从不外借藏书，却为他破了例。",
+      "translated_word": "例",
+      "display_order": 2
+    },
+    {
+      "sentence": "Rules apply to everyone; genius is no exception.",
+      "style": "Contrastive",
+      "translation": "规则适用于所有人；天才也不例外。",
+      "translated_word": "例外",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every exception we grant reveals what we truly protect.",
+      "style": "Philosophical",
+      "translation": "我们给予的每一个例外，都揭示了内心真正守护的东西。",
+      "translated_word": "例外",
+      "display_order": 4
+    }
+  ]
+}

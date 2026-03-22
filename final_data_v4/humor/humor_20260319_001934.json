@@ -1,0 +1,40 @@
+{
+  "word": "humor",
+  "phonetic": "/ˈhjuːmər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "幽默；诙谐；风趣",
+  "examples": [
+    {
+      "sentence": "His dry humor made even the dullest meetings bearable.",
+      "style": "Contextual",
+      "translation": "他冷峻的幽默让最无聊的会议都变得可以忍受。",
+      "translated_word": "幽默",
+      "display_order": 1
+    },
+    {
+      "sentence": "Humor is how we forgive the world for being imperfect.",
+      "style": "Philosophical",
+      "translation": "幽默是我们原谅世界不够完美的方式。",
+      "translated_word": "幽默",
+      "display_order": 3
+    },
+    {
+      "sentence": "A good sense of humor ages better than beauty.",
+      "style": "Collocational",
+      "translation": "良好的幽默感比美貌更经得起岁月。",
+      "translated_word": "幽默",
+      "display_order": 2
+    },
+    {
+      "sentence": "We fell in love over shared humor and cold pizza at 2 a.m.",
+      "style": "Intimate",
+      "translation": "凌晨两点，我们因为相同的笑点和冷披萨坠入了爱河。",
+      "translated_word": "笑点",
+      "display_order": 4
+    }
+  ]
+}

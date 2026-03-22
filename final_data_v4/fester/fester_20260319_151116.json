@@ -1,0 +1,40 @@
+{
+  "word": "fester",
+  "phonetic": "/ˈfestər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "溃烂；恶化；郁积",
+  "examples": [
+    {
+      "sentence": "Without an apology, the tension between them festered.",
+      "style": "Contextual",
+      "translation": "没有道歉，他们之间的紧张关系日益恶化。",
+      "translated_word": "恶化",
+      "display_order": 1
+    },
+    {
+      "sentence": "Problems we avoid today fester into crises tomorrow.",
+      "style": "Philosophical",
+      "translation": "今日回避的问题，终将郁积成明日的危机。",
+      "translated_word": "郁积",
+      "display_order": 3
+    },
+    {
+      "sentence": "Unspoken words festered beneath the skin like buried thorns.",
+      "style": "Poetic",
+      "translation": "未曾说出的话语，如埋入皮下的荆棘，暗自溃烂。",
+      "translated_word": "溃烂",
+      "display_order": 4
+    },
+    {
+      "sentence": "I let that single cruel remark fester for a decade.",
+      "style": "Intimate",
+      "translation": "那句刻薄的话，我任它在心底郁积了十年。",
+      "translated_word": "郁积",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "limbo",
+  "phonetic": "/ˈlɪmboʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "悬而未决；过渡期；困境",
+  "examples": [
+    {
+      "sentence": "The merger is in limbo while regulators review the deal.",
+      "style": "Contextual",
+      "translation": "并购案悬而未决，监管部门正在审查。",
+      "translated_word": "悬而未决",
+      "display_order": 1
+    },
+    {
+      "sentence": "Limbo is where transformation begins: the old self gone, the new not yet formed.",
+      "style": "Philosophical",
+      "translation": "蜕变始于过渡期：旧我已逝，新我未成。",
+      "translated_word": "过渡期",
+      "display_order": 3
+    },
+    {
+      "sentence": "In limbo, the world holds its breath.",
+      "style": "Poetic",
+      "translation": "悬置之际，世界屏息以待。",
+      "translated_word": "悬置",
+      "display_order": 4
+    },
+    {
+      "sentence": "The months after graduation were a quiet limbo I came to cherish.",
+      "style": "Intimate",
+      "translation": "毕业后的那几个月是一段静谧的过渡期，我渐渐珍惜起那段时光。",
+      "translated_word": "过渡期",
+      "display_order": 2
+    }
+  ]
+}

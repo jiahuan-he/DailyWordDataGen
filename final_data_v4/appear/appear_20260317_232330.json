@@ -1,0 +1,39 @@
+{
+  "word": "appear",
+  "phonetic": "/əˈpɪr/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "出现；似乎；看起来；登场",
+  "examples": [
+    {
+      "sentence": "A fox appeared at the forest's edge, paused, then vanished.",
+      "style": "Contextual",
+      "translation": "一只狐狸出现在林缘，驻足片刻，又倏然消失。",
+      "translated_word": "出现",
+      "display_order": 1
+    },
+    {
+      "sentence": "The findings appear to contradict earlier reports.",
+      "style": "Formal",
+      "translation": "调查结果似乎与此前的报告相悖。",
+      "translated_word": "似乎",
+      "display_order": 3
+    },
+    {
+      "sentence": "What appears simple often conceals the deepest complexity.",
+      "style": "Philosophical",
+      "translation": "看似简单的事物，往往藏着最深的复杂。",
+      "translated_word": "看似",
+      "display_order": 4
+    },
+    {
+      "sentence": "The first star appeared: a single stitch in the darkening sky.",
+      "style": "Poetic",
+      "translation": "第一颗星星浮现，像暮色中缀上的一针微光。",
+      "translated_word": "浮现",
+      "display_order": 2
+    }
+  ]
+}

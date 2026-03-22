@@ -1,0 +1,40 @@
+{
+  "word": "inquisition",
+  "phonetic": "/ˌɪnkwɪˈzɪʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "审问；盘问；严厉调查",
+  "examples": [
+    {
+      "sentence": "The journalist's relentless inquisition left no secret unturned.",
+      "style": "Contextual",
+      "translation": "记者锲而不舍的追问，让所有秘密无所遁形。",
+      "translated_word": "追问",
+      "display_order": 2
+    },
+    {
+      "sentence": "The Senate committee launched a formal inquisition into the agency's spending practices.",
+      "style": "Formal",
+      "translation": "参议院委员会对该机构的支出行为展开了正式调查。",
+      "translated_word": "调查",
+      "display_order": 1
+    },
+    {
+      "sentence": "Truth rarely volunteers itself; it must be drawn out through careful inquisition.",
+      "style": "Philosophical",
+      "translation": "真相鲜少主动现身；它需要细致的追问才能显露。",
+      "translated_word": "追问",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her quiet inquisition over dinner revealed how little I truly knew myself.",
+      "style": "Intimate",
+      "translation": "她在晚餐时的轻声追问，让我发现自己其实并不了解自己。",
+      "translated_word": "追问",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "awesome",
+  "phonetic": "/ˈɔːsəm/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "极好的；令人敬畏的；了不起的",
+  "examples": [
+    {
+      "sentence": "The concert last night was absolutely awesome.",
+      "style": "Contextual",
+      "translation": "昨晚的演唱会真是太棒了。",
+      "translated_word": "棒",
+      "display_order": 1
+    },
+    {
+      "sentence": "Standing at the canyon's edge, she felt the awesome silence of deep time.",
+      "style": "Poetic",
+      "translation": "站在峡谷边缘，她感受到亘古岁月那令人敬畏的沉默。",
+      "translated_word": "敬畏",
+      "display_order": 4
+    },
+    {
+      "sentence": "An awesome opportunity like this won't come twice.",
+      "style": "Collocational",
+      "translation": "这样绝佳的机会不会再有第二次。",
+      "translated_word": "绝佳",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother taught me to read; she was awesome in ways I only now understand.",
+      "style": "Intimate",
+      "translation": "祖母教会我阅读；她的了不起，我如今才懂。",
+      "translated_word": "了不起",
+      "display_order": 2
+    }
+  ]
+}

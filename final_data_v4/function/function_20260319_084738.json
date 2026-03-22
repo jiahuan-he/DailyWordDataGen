@@ -1,0 +1,40 @@
+{
+  "word": "function",
+  "phonetic": "/ˈfʌŋkʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "功能；作用；职能",
+  "examples": [
+    {
+      "sentence": "Each key on this remote serves a specific function.",
+      "style": "Contextual",
+      "translation": "遥控器上的每个按键都有其特定功能。",
+      "translated_word": "功能",
+      "display_order": 1
+    },
+    {
+      "sentence": "The commission will evaluate the function of these policies next quarter.",
+      "style": "Formal",
+      "translation": "委员会将于下季度评估这些政策的作用。",
+      "translated_word": "作用",
+      "display_order": 3
+    },
+    {
+      "sentence": "Modern phones serve a dual function: communication tool and personal archive.",
+      "style": "Collocational",
+      "translation": "现代手机兼具双重功能：通讯工具与私人档案库。",
+      "translated_word": "功能",
+      "display_order": 2
+    },
+    {
+      "sentence": "Knowing your function is easy; accepting it takes a lifetime.",
+      "style": "Philosophical",
+      "translation": "认清自己的职能很简单，接受它却需要一生。",
+      "translated_word": "职能",
+      "display_order": 4
+    }
+  ]
+}

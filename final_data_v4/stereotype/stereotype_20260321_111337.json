@@ -1,0 +1,40 @@
+{
+  "word": "stereotype",
+  "phonetic": "/ˈsteriətaɪp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "刻板印象；成见；老套形象",
+  "examples": [
+    {
+      "sentence": "The quiet engineer shattered every stereotype about her field.",
+      "style": "Contextual",
+      "translation": "这位沉静的工程师打破了人们对她这一行业的所有刻板印象。",
+      "translated_word": "刻板印象",
+      "display_order": 1
+    },
+    {
+      "sentence": "Media coverage too often reinforces stereotypes rather than dismantles them.",
+      "style": "Formal",
+      "translation": "媒体报道往往在强化刻板印象，而非消解它们。",
+      "translated_word": "刻板印象",
+      "display_order": 2
+    },
+    {
+      "sentence": "A stereotype sees the category; curiosity sees the person.",
+      "style": "Philosophical",
+      "translation": "刻板印象看到的是类别，好奇心看到的是人。",
+      "translated_word": "刻板印象",
+      "display_order": 3
+    },
+    {
+      "sentence": "He expected a stereotype; he met an individual.",
+      "style": "Contrastive",
+      "translation": "他以为会遇见一个符号，却遇见了一个人。",
+      "translated_word": "符号",
+      "display_order": 4
+    }
+  ]
+}

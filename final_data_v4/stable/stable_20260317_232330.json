@@ -1,0 +1,41 @@
+{
+  "word": "stable",
+  "phonetic": "/ˈsteɪbl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "稳定；稳固；平稳；安定",
+  "examples": [
+    {
+      "sentence": "After years of volatility, the currency is finally stable.",
+      "style": "Contextual",
+      "translation": "经历多年波动后，这一货币终于趋于稳定。",
+      "translated_word": "稳定",
+      "display_order": 2
+    },
+    {
+      "sentence": "A stable income matters more than a high one when raising children.",
+      "style": "Collocational",
+      "translation": "养育孩子时，稳定的收入比高收入更重要。",
+      "translated_word": "稳定",
+      "display_order": 1
+    },
+    {
+      "sentence": "We chase the stable life, then grow restless once we have it.",
+      "style": "Philosophical",
+      "translation": "我们追逐安稳的生活，得到后却又心生躁动。",
+      "translated_word": "安稳",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her voice on the phone kept me stable through the worst year of my life.",
+      "style": "Intimate",
+      "translation": "那一年最难熬的日子里，她电话里的声音让我不至于崩溃。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

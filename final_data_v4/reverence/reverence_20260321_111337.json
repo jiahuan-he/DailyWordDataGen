@@ -1,0 +1,40 @@
+{
+  "word": "reverence",
+  "phonetic": "/ˈrevərəns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "敬畏；崇敬；尊崇",
+  "examples": [
+    {
+      "sentence": "He spoke of his late grandmother with quiet reverence.",
+      "style": "Contextual",
+      "translation": "他谈起已故的祖母时，语气中满是温柔的敬意。",
+      "translated_word": "敬意",
+      "display_order": 1
+    },
+    {
+      "sentence": "The old craftsman held his tools with reverence, as if they remembered every hand that came before.",
+      "style": "Poetic",
+      "translation": "老匠人虔诚地握着工具，仿佛它们记得每一双曾经触碰过的手。",
+      "translated_word": "虔诚",
+      "display_order": 3
+    },
+    {
+      "sentence": "We lose reverence the moment we stop noticing the ordinary.",
+      "style": "Philosophical",
+      "translation": "当我们不再留意平凡之物，敬畏便悄然消逝。",
+      "translated_word": "敬畏",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father never entered a library without a certain reverence in his step.",
+      "style": "Intimate",
+      "translation": "父亲每次走进图书馆，脚步里总带着一种庄重。",
+      "translated_word": "庄重",
+      "display_order": 2
+    }
+  ]
+}

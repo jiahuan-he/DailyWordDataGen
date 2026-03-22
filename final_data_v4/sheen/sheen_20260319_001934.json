@@ -1,0 +1,41 @@
+{
+  "word": "sheen",
+  "phonetic": "/ʃiːn/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "光泽；光彩；光亮",
+  "examples": [
+    {
+      "sentence": "Her hair caught the light, its healthy sheen unmistakable.",
+      "style": "Contextual",
+      "translation": "她的秀发映着光，那健康的光泽一眼可见。",
+      "translated_word": "光泽",
+      "display_order": 2
+    },
+    {
+      "sentence": "Moonlight left a silver sheen on the sleeping lake.",
+      "style": "Poetic",
+      "translation": "月光在沉睡的湖面洒下一层银色的光泽。",
+      "translated_word": "光泽",
+      "display_order": 1
+    },
+    {
+      "sentence": "The fabric's silky sheen made even the simplest dress feel luxurious.",
+      "style": "Collocational",
+      "translation": "丝绸般的光泽，让最素简的裙子也显得奢华。",
+      "translated_word": "光泽",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother's wooden table held a sheen from decades of careful polishing.",
+      "style": "Intimate",
+      "translation": "祖母的木桌泛着光泽，那是数十年悉心擦拭的痕迹。",
+      "translated_word": "光泽",
+      "display_order": 4
+    }
+  ]
+}

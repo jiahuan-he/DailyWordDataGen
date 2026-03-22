@@ -1,0 +1,41 @@
+{
+  "word": "concrete",
+  "phonetic": "/ˈkɑːnkriːt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "具体的；明确的；实在的",
+  "examples": [
+    {
+      "sentence": "The proposal needs concrete numbers, not rough estimates.",
+      "style": "Contextual",
+      "translation": "这份提案需要具体的数字，而非粗略的估算。",
+      "translated_word": "具体",
+      "display_order": 1
+    },
+    {
+      "sentence": "Investors demanded concrete evidence of profitability before committing funds.",
+      "style": "Formal",
+      "translation": "投资者在注资前要求获得盈利能力的确切证据。",
+      "translated_word": "确切",
+      "display_order": 3
+    },
+    {
+      "sentence": "Abstract theories only matter when they lead to concrete results.",
+      "style": "Contrastive",
+      "translation": "抽象的理论唯有转化为具体的成果，才真正有意义。",
+      "translated_word": "具体",
+      "display_order": 2
+    },
+    {
+      "sentence": "Dreams remain weightless until you give them concrete form.",
+      "style": "Philosophical",
+      "translation": "梦想始终轻飘飘的，直到你赋予它实在的形态。",
+      "translated_word": "实在",
+      "display_order": 4
+    }
+  ]
+}

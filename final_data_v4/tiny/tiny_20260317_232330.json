@@ -1,0 +1,40 @@
+{
+  "word": "tiny",
+  "phonetic": "/ˈtaɪni/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "微小的；极小的；细微的",
+  "examples": [
+    {
+      "sentence": "The apartment was tiny but enough for one.",
+      "style": "Contextual",
+      "translation": "公寓虽小，一人居住绰绰有余。",
+      "translated_word": "小",
+      "display_order": 1
+    },
+    {
+      "sentence": "Only a tiny fraction of the budget remained.",
+      "style": "Collocational",
+      "translation": "预算只剩下极小的一部分。",
+      "translated_word": "极小",
+      "display_order": 3
+    },
+    {
+      "sentence": "Through a tiny crack in the teacup, morning light found its way.",
+      "style": "Poetic",
+      "translation": "晨光穿过茶杯上细微的裂纹，悄然流入。",
+      "translated_word": "细微",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her tiny hand in mine made the crowd disappear.",
+      "style": "Intimate",
+      "translation": "她的小手握在我掌心，人群仿佛都消失了。",
+      "translated_word": "小",
+      "display_order": 2
+    }
+  ]
+}

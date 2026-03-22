@@ -1,0 +1,40 @@
+{
+  "word": "willow",
+  "phonetic": "/ˈwɪloʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "柳树；柳木；柳枝",
+  "examples": [
+    {
+      "sentence": "The willow's branches dipped lazily into the still pond.",
+      "style": "Contextual",
+      "translation": "柳枝慵懒地垂入静谧的池塘。",
+      "translated_word": "柳",
+      "display_order": 1
+    },
+    {
+      "sentence": "A weeping willow shaded the old garden bench.",
+      "style": "Collocational",
+      "translation": "一棵垂柳为花园旧长椅投下荫凉。",
+      "translated_word": "垂柳",
+      "display_order": 2
+    },
+    {
+      "sentence": "The willow survives storms not by resisting, but by yielding.",
+      "style": "Philosophical",
+      "translation": "柳树在风暴中存活，靠的不是抵抗，而是顺势而弯。",
+      "translated_word": "柳树",
+      "display_order": 3
+    },
+    {
+      "sentence": "Silver willows trembled at the water's edge, catching the last light.",
+      "style": "Poetic",
+      "translation": "银柳在水畔轻颤，承接着最后一缕暮光。",
+      "translated_word": "银柳",
+      "display_order": 4
+    }
+  ]
+}

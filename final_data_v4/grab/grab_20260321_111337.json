@@ -1,0 +1,40 @@
+{
+  "word": "grab",
+  "phonetic": "/ɡræb/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "抓；夺取；抢占；吸引",
+  "examples": [
+    {
+      "sentence": "She grabbed her coat and disappeared into the rain.",
+      "style": "Contextual",
+      "translation": "她抓起外套，消失在雨中。",
+      "translated_word": "抓起",
+      "display_order": 1
+    },
+    {
+      "sentence": "Let's grab lunch before the meeting starts.",
+      "style": "Collocational",
+      "translation": "会议开始前，我们先去吃个午饭吧。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "I grabbed his sleeve at the train station, afraid the crowd would swallow him whole.",
+      "style": "Intimate",
+      "translation": "在火车站，我紧紧抓住他的衣袖，怕人潮将他吞没。",
+      "translated_word": "抓住",
+      "display_order": 2
+    },
+    {
+      "sentence": "Opportunity is quiet; grab it before it slips away.",
+      "style": "Inspirational",
+      "translation": "机会来时悄无声息；趁它溜走之前，紧紧抓住。",
+      "translated_word": "抓住",
+      "display_order": 3
+    }
+  ]
+}

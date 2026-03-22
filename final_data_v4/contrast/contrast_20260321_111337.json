@@ -1,0 +1,40 @@
+{
+  "word": "contrast",
+  "phonetic": "/ˈkɑːntræst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "对比；反差；差异",
+  "examples": [
+    {
+      "sentence": "The contrast between her calm voice and trembling hands told the whole story.",
+      "style": "Contextual",
+      "translation": "平静的声音与颤抖的双手形成对比，一切尽在不言中。",
+      "translated_word": "对比",
+      "display_order": 1
+    },
+    {
+      "sentence": "Snow on black branches: nature's oldest contrast.",
+      "style": "Poetic",
+      "translation": "白雪覆于黑枝；这是自然最古老的反差。",
+      "translated_word": "反差",
+      "display_order": 2
+    },
+    {
+      "sentence": "Growth requires contrast; comfort reveals nothing.",
+      "style": "Philosophical",
+      "translation": "成长需要反差，安逸无法照见自我。",
+      "translated_word": "反差",
+      "display_order": 4
+    },
+    {
+      "sentence": "The stark contrast in their approaches led to a heated debate.",
+      "style": "Collocational",
+      "translation": "两人截然不同的方式引发了一场激烈的争论。",
+      "translated_word": "不同",
+      "display_order": 3
+    }
+  ]
+}

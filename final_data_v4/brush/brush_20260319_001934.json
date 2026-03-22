@@ -1,0 +1,40 @@
+{
+  "word": "brush",
+  "phonetic": "/brʌʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "刷；梳；轻拂；掠过",
+  "examples": [
+    {
+      "sentence": "She brushed her daughter's tangled hair before school.",
+      "style": "Contextual",
+      "translation": "上学前，她为女儿梳开了打结的头发。",
+      "translated_word": "梳",
+      "display_order": 1
+    },
+    {
+      "sentence": "He brushed aside the criticism and kept working.",
+      "style": "Collocational",
+      "translation": "他对批评置之不理，继续埋头工作。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Autumn leaves brushed the window, whispering of change.",
+      "style": "Poetic",
+      "translation": "秋叶轻拂窗棂，低语着季节的更迭。",
+      "translated_word": "轻拂",
+      "display_order": 2
+    },
+    {
+      "sentence": "Your sleeve brushed my hand once; I thought of it for weeks.",
+      "style": "Intimate",
+      "translation": "你的衣袖曾掠过我的手背，那一瞬我想了数周。",
+      "translated_word": "掠过",
+      "display_order": 3
+    }
+  ]
+}

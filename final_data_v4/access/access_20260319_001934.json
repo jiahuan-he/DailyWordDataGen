@@ -1,0 +1,39 @@
+{
+  "word": "access",
+  "phonetic": "/ˈæk.ses/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "通道；入口；使用权",
+  "examples": [
+    {
+      "sentence": "The garden path offers direct access to the lake.",
+      "style": "Contextual",
+      "translation": "花园小径直通湖边。",
+      "translated_word": "通",
+      "display_order": 3
+    },
+    {
+      "sentence": "New legislation guarantees equal access to public education.",
+      "style": "Formal",
+      "translation": "新法案保障了公共教育的平等入学权。",
+      "translated_word": "入学",
+      "display_order": 2
+    },
+    {
+      "sentence": "Members have unlimited access to the digital library.",
+      "style": "Collocational",
+      "translation": "会员可无限制使用数字图书馆。",
+      "translated_word": "使用",
+      "display_order": 1
+    },
+    {
+      "sentence": "What we inherit is not just wealth, but access.",
+      "style": "Philosophical",
+      "translation": "我们继承的不只是财富，还有门路。",
+      "translated_word": "门路",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "vague",
+  "phonetic": "/veɪɡ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "模糊的；含糊的；隐约的",
+  "examples": [
+    {
+      "sentence": "Her answer was too vague to be of any help.",
+      "style": "Contextual",
+      "translation": "她的回答太含糊，帮不上任何忙。",
+      "translated_word": "含糊",
+      "display_order": 1
+    },
+    {
+      "sentence": "A vague sense of unease followed him all morning.",
+      "style": "Collocational",
+      "translation": "一种隐约的不安整个上午都跟随着他。",
+      "translated_word": "隐约",
+      "display_order": 2
+    },
+    {
+      "sentence": "Certainty is rare; most of what we know remains vague.",
+      "style": "Philosophical",
+      "translation": "确定是稀有的；我们所知的大多仍是模糊。",
+      "translated_word": "模糊",
+      "display_order": 3
+    },
+    {
+      "sentence": "The melody was vague at first, then it hit me: my grandmother's lullaby.",
+      "style": "Intimate",
+      "translation": "那旋律起初隐隐约约，忽然我认出来了：是外婆的摇篮曲。",
+      "translated_word": "隐隐约约",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "portion",
+  "phonetic": "/ˈpɔːrʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "部分；份额；一份",
+  "examples": [
+    {
+      "sentence": "She set aside a small portion of her salary each month.",
+      "style": "Contextual",
+      "translation": "她每月留出一小部分薪水。",
+      "translated_word": "部分",
+      "display_order": 3
+    },
+    {
+      "sentence": "Each guest received an equal portion of the homemade pie.",
+      "style": "Collocational",
+      "translation": "每位客人分得一份同样大小的自制派。",
+      "translated_word": "份",
+      "display_order": 1
+    },
+    {
+      "sentence": "We are each given a portion of time; how we spend it defines us.",
+      "style": "Philosophical",
+      "translation": "我们各自被赋予一份时光；如何度过，定义了我们。",
+      "translated_word": "份",
+      "display_order": 4
+    },
+    {
+      "sentence": "At family dinners, Grandma always slid the largest portion onto my plate.",
+      "style": "Intimate",
+      "translation": "家宴上，外婆总把最大的那份悄悄拨到我碗里。",
+      "translated_word": "份",
+      "display_order": 2
+    }
+  ]
+}

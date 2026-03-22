@@ -1,0 +1,40 @@
+{
+  "word": "merchant",
+  "phonetic": "/ˈmɜːtʃənt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "商人；商贾；贸易商",
+  "examples": [
+    {
+      "sentence": "The merchant weighed the spices carefully before naming his price.",
+      "style": "Contextual",
+      "translation": "商人仔细称量香料，而后报出价格。",
+      "translated_word": "商人",
+      "display_order": 1
+    },
+    {
+      "sentence": "Local merchants reported a thirty percent increase in holiday sales.",
+      "style": "Formal",
+      "translation": "本地商户报告节日销售额增长三成。",
+      "translated_word": "商户",
+      "display_order": 4
+    },
+    {
+      "sentence": "A wise merchant knows that reputation outlasts any single transaction.",
+      "style": "Philosophical",
+      "translation": "聪明的商人深知，声誉比任何一笔交易都更长久。",
+      "translated_word": "商人",
+      "display_order": 3
+    },
+    {
+      "sentence": "The old merchant's hands remembered every silk he had ever touched.",
+      "style": "Poetic",
+      "translation": "老商人的双手，记得他抚过的每一匹绸缎。",
+      "translated_word": "商人",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "audio",
+  "phonetic": "/ˈɔːdioʊ/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "音频；声音；录音",
+  "examples": [
+    {
+      "sentence": "The audio keeps cutting out; we need a better connection.",
+      "style": "Contextual",
+      "translation": "音频总是断断续续的，我们需要更好的连接。",
+      "translated_word": "音频",
+      "display_order": 2
+    },
+    {
+      "sentence": "She sent me an audio message instead of texting.",
+      "style": "Collocational",
+      "translation": "她给我发了条语音，而不是打字。",
+      "translated_word": "语音",
+      "display_order": 1
+    },
+    {
+      "sentence": "The leaked audio has sparked a nationwide debate on privacy.",
+      "style": "Formal",
+      "translation": "泄露的录音引发了一场全国性的隐私争议。",
+      "translated_word": "录音",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her voice in that old audio feels closer than any photograph.",
+      "style": "Intimate",
+      "translation": "旧录音里她的声音，比任何照片都更亲近。",
+      "translated_word": "录音",
+      "display_order": 4
+    }
+  ]
+}

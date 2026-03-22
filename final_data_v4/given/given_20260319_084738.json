@@ -1,0 +1,42 @@
+{
+  "word": "given",
+  "phonetic": "/ˈɡɪvən/",
+  "pos": [
+    "adjective",
+    "noun",
+    "preposition",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "特定的；既定的；倾向于",
+  "examples": [
+    {
+      "sentence": "At any given moment, someone in the world is falling in love.",
+      "style": "Contextual",
+      "translation": "在任何一个特定的瞬间，世界上都有人正在坠入爱河。",
+      "translated_word": "特定",
+      "display_order": 2
+    },
+    {
+      "sentence": "The study examined productivity within a given timeframe.",
+      "style": "Formal",
+      "translation": "该研究考察了特定时间范围内的生产效率。",
+      "translated_word": "特定",
+      "display_order": 1
+    },
+    {
+      "sentence": "Take nothing as a given; everything requires effort.",
+      "style": "Collocational",
+      "translation": "别把任何事视为理所当然；一切皆需努力。",
+      "translated_word": "理所当然",
+      "display_order": 4
+    },
+    {
+      "sentence": "What we call given was once unthinkable.",
+      "style": "Philosophical",
+      "translation": "我们所谓的既定，曾是不可想象之事。",
+      "translated_word": "既定",
+      "display_order": 3
+    }
+  ]
+}

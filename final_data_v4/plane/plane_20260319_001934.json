@@ -1,0 +1,41 @@
+{
+  "word": "plane",
+  "phonetic": "/pleɪn/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "飞机；平面；层面",
+  "examples": [
+    {
+      "sentence": "Her plane landed two hours behind schedule.",
+      "style": "Contextual",
+      "translation": "她的飞机晚点了两个小时。",
+      "translated_word": "飞机",
+      "display_order": 1
+    },
+    {
+      "sentence": "The plane broke through the clouds into blinding gold.",
+      "style": "Poetic",
+      "translation": "飞机穿破云层，迎面是耀眼的金色。",
+      "translated_word": "飞机",
+      "display_order": 3
+    },
+    {
+      "sentence": "I booked the first plane home when she called.",
+      "style": "Intimate",
+      "translation": "接到她的电话，我订了最早的航班回家。",
+      "translated_word": "航班",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every plane carries both departures and homecomings.",
+      "style": "Philosophical",
+      "translation": "每一架飞机都承载着离别与归途。",
+      "translated_word": "飞机",
+      "display_order": 4
+    }
+  ]
+}

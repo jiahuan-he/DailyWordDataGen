@@ -1,0 +1,39 @@
+{
+  "word": "discrepancy",
+  "phonetic": "/dɪˈskrepənsi/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "差异；出入；不一致",
+  "examples": [
+    {
+      "sentence": "The accountant flagged a discrepancy: receipts didn't match the deposit.",
+      "style": "Contextual",
+      "translation": "会计发现了一处出入：收据与存款金额对不上。",
+      "translated_word": "出入",
+      "display_order": 1
+    },
+    {
+      "sentence": "Auditors uncovered a significant discrepancy in the quarterly report.",
+      "style": "Formal",
+      "translation": "审计人员在季度报告中发现了重大数据差异。",
+      "translated_word": "差异",
+      "display_order": 4
+    },
+    {
+      "sentence": "The discrepancy between who we are and who we wish to be is where growth begins.",
+      "style": "Philosophical",
+      "translation": "真实的自己与理想的自己之间的差距，正是成长的起点。",
+      "translated_word": "差距",
+      "display_order": 3
+    },
+    {
+      "sentence": "A glaring discrepancy between his words and his actions eroded all trust.",
+      "style": "Collocational",
+      "translation": "言行之间的巨大出入，消磨了所有信任。",
+      "translated_word": "出入",
+      "display_order": 2
+    }
+  ]
+}

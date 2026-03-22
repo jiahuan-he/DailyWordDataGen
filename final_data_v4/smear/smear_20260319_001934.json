@@ -1,0 +1,40 @@
+{
+  "word": "smear",
+  "phonetic": "/smɪr/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "涂抹；抹黑；诽谤",
+  "examples": [
+    {
+      "sentence": "She smeared sunscreen across her shoulders before stepping into the light.",
+      "style": "Contextual",
+      "translation": "她在肩上涂抹防晒霜，然后走进阳光里。",
+      "translated_word": "涂抹",
+      "display_order": 1
+    },
+    {
+      "sentence": "Leaked documents were timed to smear the candidate days before the vote.",
+      "style": "Formal",
+      "translation": "泄露的文件被精准安排在投票前数日，意在抹黑候选人。",
+      "translated_word": "抹黑",
+      "display_order": 3
+    },
+    {
+      "sentence": "They tried to smear his name, but his work spoke louder than whispers.",
+      "style": "Collocational",
+      "translation": "他们试图诽谤他的名声，但他的成就比流言更响亮。",
+      "translated_word": "诽谤",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her small hands smeared paint everywhere; I kept that canvas forever.",
+      "style": "Intimate",
+      "translation": "她的小手把颜料涂得到处都是；那幅画我永远留着。",
+      "translated_word": "涂",
+      "display_order": 2
+    }
+  ]
+}

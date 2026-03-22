@@ -1,0 +1,40 @@
+{
+  "word": "mow",
+  "phonetic": "/moʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "割草；修剪",
+  "examples": [
+    {
+      "sentence": "The grass reached my knees; it was time to mow.",
+      "style": "Contextual",
+      "translation": "草已经长到膝盖了，该割草了。",
+      "translated_word": "割草",
+      "display_order": 1
+    },
+    {
+      "sentence": "He mows the lawn every Sunday without fail.",
+      "style": "Collocational",
+      "translation": "他每个周日都雷打不动地修剪草坪。",
+      "translated_word": "修剪",
+      "display_order": 2
+    },
+    {
+      "sentence": "Weekends began with the familiar hum of someone mowing nearby.",
+      "style": "Intimate",
+      "translation": "周末总是在邻家割草机熟悉的嗡鸣声中开始。",
+      "translated_word": "割草",
+      "display_order": 3
+    },
+    {
+      "sentence": "He mowed at dusk, leaving ribbons of green in his wake.",
+      "style": "Poetic",
+      "translation": "他在暮色中割草，身后留下一道道青绿的纹路。",
+      "translated_word": "割草",
+      "display_order": 4
+    }
+  ]
+}

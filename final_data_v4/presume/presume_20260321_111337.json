@@ -1,0 +1,39 @@
+{
+  "word": "presume",
+  "phonetic": "/prɪˈzuːm/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "假定；认为；擅自；冒昧",
+  "examples": [
+    {
+      "sentence": "When she didn't reply, I presumed she was busy.",
+      "style": "Contextual",
+      "translation": "她没有回复，我便以为她正忙着。",
+      "translated_word": "以为",
+      "display_order": 1
+    },
+    {
+      "sentence": "Investigators presume the fire originated in the basement.",
+      "style": "Formal",
+      "translation": "调查人员推定火灾起于地下室。",
+      "translated_word": "推定",
+      "display_order": 2
+    },
+    {
+      "sentence": "We presume tomorrow will come; perhaps that is our quiet faith.",
+      "style": "Philosophical",
+      "translation": "我们总以为明天会来；这或许是我们无声的信仰。",
+      "translated_word": "以为",
+      "display_order": 3
+    },
+    {
+      "sentence": "He presumed to know me, yet he had only read my letters.",
+      "style": "Intimate",
+      "translation": "他自以为懂我，却只读过我的信。",
+      "translated_word": "自以为",
+      "display_order": 4
+    }
+  ]
+}

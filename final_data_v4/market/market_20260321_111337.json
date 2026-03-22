@@ -1,0 +1,40 @@
+{
+  "word": "market",
+  "phonetic": "/ˈmɑːrkɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "市场；行情；销路",
+  "examples": [
+    {
+      "sentence": "The housing market has cooled since last spring.",
+      "style": "Contextual",
+      "translation": "房地产市场自去年春天起已逐渐降温。",
+      "translated_word": "市场",
+      "display_order": 3
+    },
+    {
+      "sentence": "She found the freshest tomatoes at the Sunday farmers market.",
+      "style": "Collocational",
+      "translation": "她在周日的农贸市场找到了最新鲜的番茄。",
+      "translated_word": "市场",
+      "display_order": 1
+    },
+    {
+      "sentence": "The old market smelled of spices and salt, of hands that had bartered for generations.",
+      "style": "Poetic",
+      "translation": "老市场弥漫着香料与盐的气息，承载着世代交易的掌纹。",
+      "translated_word": "市场",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every market is a silent negotiation between desire and scarcity.",
+      "style": "Philosophical",
+      "translation": "每个市场都是欲望与稀缺之间无声的博弈。",
+      "translated_word": "市场",
+      "display_order": 4
+    }
+  ]
+}

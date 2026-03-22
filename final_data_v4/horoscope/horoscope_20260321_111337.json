@@ -1,0 +1,39 @@
+{
+  "word": "horoscope",
+  "phonetic": "/ˈhɔːrəskoʊp/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "星座运势；占星预测；星盘",
+  "examples": [
+    {
+      "sentence": "She checks her horoscope every morning before leaving for work.",
+      "style": "Contextual",
+      "translation": "她每天早晨出门前都会查看星座运势。",
+      "translated_word": "星座运势",
+      "display_order": 1
+    },
+    {
+      "sentence": "The magazine's back page featured a weekly horoscope.",
+      "style": "Collocational",
+      "translation": "杂志末页刊登着每周的星座运势。",
+      "translated_word": "星座运势",
+      "display_order": 2
+    },
+    {
+      "sentence": "A horoscope only holds power when you grant it belief.",
+      "style": "Philosophical",
+      "translation": "星座运势的力量，源于你赋予它的信任。",
+      "translated_word": "星座运势",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother cut out her horoscope every Sunday, tucking it into her prayer book.",
+      "style": "Intimate",
+      "translation": "外婆每个周日都会剪下星座运势，夹进她的祈祷书里。",
+      "translated_word": "星座运势",
+      "display_order": 3
+    }
+  ]
+}

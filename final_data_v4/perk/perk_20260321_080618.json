@@ -1,0 +1,41 @@
+{
+  "word": "perk",
+  "phonetic": "/pɜːrk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "福利；津贴；好处",
+  "examples": [
+    {
+      "sentence": "Free coffee is a small perk, but it starts every morning right.",
+      "style": "Contextual",
+      "translation": "免费咖啡是个小福利，却能开启每个美好的早晨。",
+      "translated_word": "福利",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company offers competitive perks to attract top talent.",
+      "style": "Formal",
+      "translation": "公司提供极具竞争力的福利以吸引顶尖人才。",
+      "translated_word": "福利",
+      "display_order": 3
+    },
+    {
+      "sentence": "One unexpected perk of remote work: lunch with my dog.",
+      "style": "Collocational",
+      "translation": "远程办公的意外福利：和我的狗一起吃午餐。",
+      "translated_word": "福利",
+      "display_order": 2
+    },
+    {
+      "sentence": "The real perk of that job was never the salary; it was the people.",
+      "style": "Intimate",
+      "translation": "那份工作真正的好处从来不是薪水，而是那些人。",
+      "translated_word": "好处",
+      "display_order": 4
+    }
+  ]
+}

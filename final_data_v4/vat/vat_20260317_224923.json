@@ -1,0 +1,40 @@
+{
+  "word": "vat",
+  "phonetic": "/væt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "大桶；缸；槽",
+  "examples": [
+    {
+      "sentence": "The grapes fermented slowly in the oak vat.",
+      "style": "Contextual",
+      "translation": "葡萄在橡木大桶中缓缓发酵。",
+      "translated_word": "大桶",
+      "display_order": 1
+    },
+    {
+      "sentence": "The brewery installed new stainless steel vats to meet rising demand.",
+      "style": "Formal",
+      "translation": "酿酒厂安装了新的不锈钢发酵罐，以应对日益增长的需求。",
+      "translated_word": "发酵罐",
+      "display_order": 3
+    },
+    {
+      "sentence": "She dipped the fabric into the indigo vat, watching it bloom blue.",
+      "style": "Collocational",
+      "translation": "她将布料浸入靛蓝染缸，看着它渐渐晕染成蓝。",
+      "translated_word": "染缸",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother's cheese vat sat in the corner, seasoned by decades of milk and salt.",
+      "style": "Intimate",
+      "translation": "祖母的奶酪桶静置于角落，浸润着数十年的奶香与盐渍。",
+      "translated_word": "桶",
+      "display_order": 4
+    }
+  ]
+}

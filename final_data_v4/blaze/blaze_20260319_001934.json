@@ -1,0 +1,40 @@
+{
+  "word": "blaze",
+  "phonetic": "/bleɪz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "烈火；火焰；光辉",
+  "examples": [
+    {
+      "sentence": "The blaze consumed three buildings before dawn.",
+      "style": "Contextual",
+      "translation": "黎明前，大火吞噬了三栋建筑。",
+      "translated_word": "大火",
+      "display_order": 1
+    },
+    {
+      "sentence": "Autumn arrived in a blaze of gold and crimson.",
+      "style": "Collocational",
+      "translation": "秋天在一片金红的绚烂中悄然而至。",
+      "translated_word": "绚烂",
+      "display_order": 4
+    },
+    {
+      "sentence": "The sunset was a quiet blaze, melting into the horizon.",
+      "style": "Poetic",
+      "translation": "落日是一场静默的燃烧，融化在天际。",
+      "translated_word": "燃烧",
+      "display_order": 3
+    },
+    {
+      "sentence": "Be the blaze that refuses to dim.",
+      "style": "Inspirational",
+      "translation": "做那永不黯淡的火焰。",
+      "translated_word": "火焰",
+      "display_order": 2
+    }
+  ]
+}

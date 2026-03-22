@@ -1,0 +1,40 @@
+{
+  "word": "settle",
+  "phonetic": "/ˈsetl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "解决；定居；安顿；平静",
+  "examples": [
+    {
+      "sentence": "After months of tension, they finally settled the dispute over a quiet dinner.",
+      "style": "Contextual",
+      "translation": "僵持数月后，他们终于在一顿静谧的晚餐中化解了纷争。",
+      "translated_word": "化解",
+      "display_order": 2
+    },
+    {
+      "sentence": "She closed her eyes and let the silence settle her restless mind.",
+      "style": "Collocational",
+      "translation": "她闭上眼睛，让寂静抚平躁动的心绪。",
+      "translated_word": "抚平",
+      "display_order": 3
+    },
+    {
+      "sentence": "We settled into that tiny studio with two suitcases and a secondhand couch.",
+      "style": "Intimate",
+      "translation": "我们带着两只行李箱和一张二手沙发，在那间小公寓里安了家。",
+      "translated_word": "安了家",
+      "display_order": 1
+    },
+    {
+      "sentence": "To settle is not to give up the horizon; it is to finally call somewhere home.",
+      "style": "Philosophical",
+      "translation": "安定并非放弃远方，而是终于有了一处可称为家的所在。",
+      "translated_word": "安定",
+      "display_order": 4
+    }
+  ]
+}

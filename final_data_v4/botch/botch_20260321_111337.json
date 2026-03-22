@@ -1,0 +1,40 @@
+{
+  "word": "botch",
+  "phonetic": "/bɑːtʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "搞砸；弄糟；草率地做",
+  "examples": [
+    {
+      "sentence": "The electrician botched the wiring, and now half the house is dark.",
+      "style": "Contextual",
+      "translation": "电工把线路搞砸了，现在半个房子都没有灯。",
+      "translated_word": "搞砸",
+      "display_order": 1
+    },
+    {
+      "sentence": "He didn't fail because he tried; he failed because he botched the execution.",
+      "style": "Contrastive",
+      "translation": "他的失败不在于尝试，而在于执行时弄糟了一切。",
+      "translated_word": "弄糟",
+      "display_order": 4
+    },
+    {
+      "sentence": "Officials botched the emergency response, drawing widespread criticism.",
+      "style": "Formal",
+      "translation": "官员们应急处置不力，招致广泛批评。",
+      "translated_word": "不力",
+      "display_order": 3
+    },
+    {
+      "sentence": "My first attempt at her birthday cake was hopelessly botched; the second one, she still talks about.",
+      "style": "Intimate",
+      "translation": "第一次给她做生日蛋糕，我彻底搞砸了；第二次的那个，她至今还念念不忘。",
+      "translated_word": "搞砸",
+      "display_order": 2
+    }
+  ]
+}

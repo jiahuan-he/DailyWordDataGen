@@ -1,0 +1,39 @@
+{
+  "word": "accompany",
+  "phonetic": "/əˈkʌmpəni/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "陪伴；伴随；陪同",
+  "examples": [
+    {
+      "sentence": "She accompanied her grandmother to the doctor's appointment.",
+      "style": "Contextual",
+      "translation": "她陪祖母去看了医生。",
+      "translated_word": "陪",
+      "display_order": 1
+    },
+    {
+      "sentence": "Live piano will accompany the dinner service tonight.",
+      "style": "Collocational",
+      "translation": "今晚的晚餐将有现场钢琴伴奏。",
+      "translated_word": "伴奏",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father's old watch accompanies me on every journey.",
+      "style": "Intimate",
+      "translation": "父亲的旧手表陪我走过每一段旅程。",
+      "translated_word": "陪",
+      "display_order": 2
+    },
+    {
+      "sentence": "Silence accompanied the snow, settling softly on the rooftops.",
+      "style": "Poetic",
+      "translation": "雪落无声，静谧轻覆屋檐。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

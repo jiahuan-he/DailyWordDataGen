@@ -1,0 +1,41 @@
+{
+  "word": "quarter",
+  "phonetic": "/ˈkwɔːrtər/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "四分之一；季度；一刻钟；街区",
+  "examples": [
+    {
+      "sentence": "Only a quarter of the pie was left by morning.",
+      "style": "Contextual",
+      "translation": "到早晨，派只剩下了四分之一。",
+      "translated_word": "四分之一",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company exceeded targets in the third quarter.",
+      "style": "Formal",
+      "translation": "公司第三季度业绩超越目标。",
+      "translated_word": "季度",
+      "display_order": 3
+    },
+    {
+      "sentence": "She arrived at quarter past seven, just as the sun broke through.",
+      "style": "Collocational",
+      "translation": "她七点一刻到达，恰逢阳光破云而出。",
+      "translated_word": "一刻",
+      "display_order": 2
+    },
+    {
+      "sentence": "I found my favorite bookshop in the Latin Quarter, hidden behind a green door.",
+      "style": "Intimate",
+      "translation": "我在拉丁区发现了我最爱的书店，藏在一扇绿门之后。",
+      "translated_word": "区",
+      "display_order": 4
+    }
+  ]
+}

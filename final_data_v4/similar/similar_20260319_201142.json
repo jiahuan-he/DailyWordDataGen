@@ -1,0 +1,40 @@
+{
+  "word": "similar",
+  "phonetic": "/ˈsɪmɪlər/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "相似的；类似的；相仿的",
+  "examples": [
+    {
+      "sentence": "Their handwriting is so similar that teachers often mix up their papers.",
+      "style": "Contextual",
+      "translation": "他们的字迹如此相似，老师常常混淆他们的作业。",
+      "translated_word": "相似",
+      "display_order": 1
+    },
+    {
+      "sentence": "The two plans look similar on paper but differ sharply in cost.",
+      "style": "Contrastive",
+      "translation": "两个方案表面相似，成本却相差甚远。",
+      "translated_word": "相似",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her story felt eerily similar to my own.",
+      "style": "Collocational",
+      "translation": "她的故事与我的经历出奇地相似。",
+      "translated_word": "相似",
+      "display_order": 2
+    },
+    {
+      "sentence": "We gravitate toward similar minds, only to discover our subtle differences.",
+      "style": "Philosophical",
+      "translation": "我们向相似的灵魂靠近，却在相处中发现彼此的微妙不同。",
+      "translated_word": "相似",
+      "display_order": 4
+    }
+  ]
+}

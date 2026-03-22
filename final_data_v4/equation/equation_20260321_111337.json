@@ -1,0 +1,39 @@
+{
+  "word": "equation",
+  "phonetic": "/ɪˈkweɪʒən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "方程式；等式；平衡；等同",
+  "examples": [
+    {
+      "sentence": "The professor filled the whiteboard with a single equation.",
+      "style": "Contextual",
+      "translation": "教授用一道方程式填满了整块黑板。",
+      "translated_word": "方程式",
+      "display_order": 1
+    },
+    {
+      "sentence": "Consumer confidence is just one variable in the broader economic equation.",
+      "style": "Formal",
+      "translation": "消费者信心只是宏观经济等式中的一个变量。",
+      "translated_word": "等式",
+      "display_order": 3
+    },
+    {
+      "sentence": "In life's equation, time outweighs money.",
+      "style": "Philosophical",
+      "translation": "在人生的等式里，时间的分量重于金钱。",
+      "translated_word": "等式",
+      "display_order": 2
+    },
+    {
+      "sentence": "Trust is a crucial part of the equation in any partnership.",
+      "style": "Collocational",
+      "translation": "信任是任何合作关系中不可或缺的一环。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

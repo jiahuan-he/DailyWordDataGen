@@ -1,0 +1,40 @@
+{
+  "word": "razor",
+  "phonetic": "/ˈreɪzər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "剃刀；剃须刀；刮刀",
+  "examples": [
+    {
+      "sentence": "He reached for the razor, steam still clouding the bathroom mirror.",
+      "style": "Contextual",
+      "translation": "他伸手去拿剃刀，浴室的镜子上仍蒙着一层水雾。",
+      "translated_word": "剃刀",
+      "display_order": 1
+    },
+    {
+      "sentence": "A dull razor leaves more cuts than a sharp one.",
+      "style": "Collocational",
+      "translation": "钝刀比利刃更易伤人。",
+      "translated_word": "刀",
+      "display_order": 4
+    },
+    {
+      "sentence": "Morning light caught the razor's edge, a sliver of silver against porcelain.",
+      "style": "Poetic",
+      "translation": "晨光落在刀锋上，一缕银丝映衬着白瓷。",
+      "translated_word": "刀",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father handed me his razor the summer I turned sixteen.",
+      "style": "Intimate",
+      "translation": "十六岁那年夏天，父亲把他的剃刀递到我手中。",
+      "translated_word": "剃刀",
+      "display_order": 2
+    }
+  ]
+}

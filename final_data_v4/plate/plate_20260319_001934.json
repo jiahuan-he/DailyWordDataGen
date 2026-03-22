@@ -1,0 +1,40 @@
+{
+  "word": "plate",
+  "phonetic": "/pleɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "盘子；金属板；板块",
+  "examples": [
+    {
+      "sentence": "She set a plate of sliced mango on the table, a quiet apology.",
+      "style": "Contextual",
+      "translation": "她把一盘芒果放在桌上，算是无声的道歉。",
+      "translated_word": "盘",
+      "display_order": 3
+    },
+    {
+      "sentence": "Clear your plate; nothing here goes to waste.",
+      "style": "Collocational",
+      "translation": "把盘子吃干净；在这里，什么都不能浪费。",
+      "translated_word": "盘子",
+      "display_order": 1
+    },
+    {
+      "sentence": "My father's old plate still sits in the cabinet, untouched for years.",
+      "style": "Intimate",
+      "translation": "父亲的旧盘子还在橱柜里，多年未曾动过。",
+      "translated_word": "盘子",
+      "display_order": 2
+    },
+    {
+      "sentence": "The empty plate waited, patient as the chair beside it.",
+      "style": "Poetic",
+      "translation": "空盘静待，一如它旁边的椅子。",
+      "translated_word": "盘",
+      "display_order": 4
+    }
+  ]
+}

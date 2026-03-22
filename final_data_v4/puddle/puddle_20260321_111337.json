@@ -1,0 +1,40 @@
+{
+  "word": "puddle",
+  "phonetic": "/ˈpʌdl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "水坑；小水洼",
+  "examples": [
+    {
+      "sentence": "The children splashed through every puddle on their way home from school.",
+      "style": "Contextual",
+      "translation": "孩子们放学回家，一路踩过每一个水坑。",
+      "translated_word": "水坑",
+      "display_order": 1
+    },
+    {
+      "sentence": "A single puddle held the whole sky, trembling with each drop of rain.",
+      "style": "Poetic",
+      "translation": "一汪浅水映着整片天空，每一滴雨落都让它微微颤动。",
+      "translated_word": "浅水",
+      "display_order": 4
+    },
+    {
+      "sentence": "My yellow rain boots exist for one purpose: finding the deepest puddle.",
+      "style": "Intimate",
+      "translation": "我那双黄色雨靴只有一个使命：找到最深的水坑。",
+      "translated_word": "水坑",
+      "display_order": 3
+    },
+    {
+      "sentence": "She stepped around the muddy puddle, protecting her new white sneakers.",
+      "style": "Collocational",
+      "translation": "她绕过泥泞的水坑，小心护着新买的白球鞋。",
+      "translated_word": "水坑",
+      "display_order": 2
+    }
+  ]
+}

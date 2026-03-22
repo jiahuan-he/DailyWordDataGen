@@ -1,0 +1,39 @@
+{
+  "word": "physiological",
+  "phonetic": "/ˌfɪziəˈlɒdʒɪkəl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "生理的；生理学的；身体机能的",
+  "examples": [
+    {
+      "sentence": "Sweating before a speech is a normal physiological response.",
+      "style": "Contextual",
+      "translation": "演讲前出汗是正常的生理反应。",
+      "translated_word": "生理",
+      "display_order": 1
+    },
+    {
+      "sentence": "The study examines physiological effects of prolonged sleep deprivation.",
+      "style": "Formal",
+      "translation": "该研究探讨长期睡眠不足的生理影响。",
+      "translated_word": "生理",
+      "display_order": 4
+    },
+    {
+      "sentence": "The symptoms were physiological, not psychological.",
+      "style": "Contrastive",
+      "translation": "这些症状是生理性的，而非心理性的。",
+      "translated_word": "生理性的",
+      "display_order": 2
+    },
+    {
+      "sentence": "Athletes must know their physiological limits to avoid injury.",
+      "style": "Collocational",
+      "translation": "运动员须了解自身的生理极限，以避免受伤。",
+      "translated_word": "生理",
+      "display_order": 3
+    }
+  ]
+}

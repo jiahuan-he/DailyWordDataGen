@@ -1,0 +1,41 @@
+{
+  "word": "melting",
+  "phonetic": "/ˈmeltɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "融化的；柔情的；令人心软的",
+  "examples": [
+    {
+      "sentence": "The melting snow revealed crocuses pushing through.",
+      "style": "Contextual",
+      "translation": "融化的雪下，番红花正破土而出。",
+      "translated_word": "融化的",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her melting gaze held all the words her silence kept.",
+      "style": "Poetic",
+      "translation": "她柔情的目光里，藏着沉默不曾诉说的一切。",
+      "translated_word": "柔情的",
+      "display_order": 3
+    },
+    {
+      "sentence": "One melting smile from her, and my rehearsed speech vanished.",
+      "style": "Intimate",
+      "translation": "她嫣然一笑，我排练好的台词便全忘了。",
+      "translated_word": "嫣然",
+      "display_order": 2
+    },
+    {
+      "sentence": "New York remains the world's greatest melting pot.",
+      "style": "Collocational",
+      "translation": "纽约依然是世界上最大的文化熔炉。",
+      "translated_word": "熔炉",
+      "display_order": 4
+    }
+  ]
+}

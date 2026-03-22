@@ -1,0 +1,42 @@
+{
+  "word": "general",
+  "phonetic": "/ˈdʒenərəl/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "普遍的；总体的；笼统的；大致的",
+  "examples": [
+    {
+      "sentence": "The general feeling in the room was one of cautious hope.",
+      "style": "Contextual",
+      "translation": "房间里弥漫着一种谨慎的期待。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "A general decline in exports has alarmed economists.",
+      "style": "Formal",
+      "translation": "出口的整体下滑引发了经济学家的担忧。",
+      "translated_word": "整体",
+      "display_order": 2
+    },
+    {
+      "sentence": "She preferred general guidance over detailed instructions.",
+      "style": "Contrastive",
+      "translation": "比起事无巨细的指令，她更喜欢大方向的指引。",
+      "translated_word": "大方向",
+      "display_order": 1
+    },
+    {
+      "sentence": "In general, quiet cafés make the best workspaces.",
+      "style": "Collocational",
+      "translation": "总的来说，安静的咖啡馆最适合办公。",
+      "translated_word": "总的来说",
+      "display_order": 3
+    }
+  ]
+}

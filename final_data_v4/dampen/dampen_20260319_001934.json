@@ -1,0 +1,39 @@
+{
+  "word": "dampen",
+  "phonetic": "/ˈdæmpən/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使潮湿；抑制；削弱",
+  "examples": [
+    {
+      "sentence": "She dampened the cloth before wiping the dusty shelves.",
+      "style": "Contextual",
+      "translation": "她把抹布浸湿，擦去架子上的灰尘。",
+      "translated_word": "浸湿",
+      "display_order": 2
+    },
+    {
+      "sentence": "The delay did little to dampen their spirits.",
+      "style": "Collocational",
+      "translation": "延误丝毫没有影响他们的兴致。",
+      "translated_word": "影响",
+      "display_order": 3
+    },
+    {
+      "sentence": "Evening rain dampened the rooftops, muting the city to a hush.",
+      "style": "Poetic",
+      "translation": "暮雨润湿了屋顶，整座城渐渐归于静谧。",
+      "translated_word": "润湿",
+      "display_order": 1
+    },
+    {
+      "sentence": "Fear may dampen your voice, but silence costs more.",
+      "style": "Philosophical",
+      "translation": "恐惧或许会让你噤声，但沉默的代价更高。",
+      "translated_word": "噤声",
+      "display_order": 4
+    }
+  ]
+}

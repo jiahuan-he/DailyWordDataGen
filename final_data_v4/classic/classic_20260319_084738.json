@@ -1,0 +1,40 @@
+{
+  "word": "classic",
+  "phonetic": "/ˈklæsɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "经典；典型；传统",
+  "examples": [
+    {
+      "sentence": "Her black dress was simple yet undeniably classic.",
+      "style": "Contextual",
+      "translation": "她的黑裙简约，却无可争辩地经典。",
+      "translated_word": "经典",
+      "display_order": 2
+    },
+    {
+      "sentence": "It was a classic case of too much, too soon.",
+      "style": "Collocational",
+      "translation": "这是操之过急的典型案例。",
+      "translated_word": "典型",
+      "display_order": 3
+    },
+    {
+      "sentence": "The lighthouse stood classic against the changing sky.",
+      "style": "Poetic",
+      "translation": "灯塔在变幻的天空下，经典地伫立。",
+      "translated_word": "经典",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father's leather jacket still looks classic after thirty years.",
+      "style": "Intimate",
+      "translation": "父亲的皮夹克，三十年后依然经典。",
+      "translated_word": "经典",
+      "display_order": 1
+    }
+  ]
+}

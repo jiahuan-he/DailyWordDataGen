@@ -1,0 +1,39 @@
+{
+  "word": "pasteurize",
+  "phonetic": "/ˈpæstʃəraɪz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "巴氏消毒；杀菌加热",
+  "examples": [
+    {
+      "sentence": "The dairy heats every batch to pasteurize it before bottling.",
+      "style": "Contextual",
+      "translation": "乳品厂在装瓶前加热每一批牛奶进行巴氏消毒。",
+      "translated_word": "巴氏消毒",
+      "display_order": 1
+    },
+    {
+      "sentence": "Regulations require producers to pasteurize all juice sold in supermarkets.",
+      "style": "Formal",
+      "translation": "法规要求生产商对所有超市销售的果汁进行巴氏消毒。",
+      "translated_word": "巴氏消毒",
+      "display_order": 3
+    },
+    {
+      "sentence": "She prefers cheese made from raw milk, never pasteurized.",
+      "style": "Contrastive",
+      "translation": "她偏爱生乳制成的奶酪，从不选用杀菌处理过的。",
+      "translated_word": "杀菌处理",
+      "display_order": 4
+    },
+    {
+      "sentence": "Pasteurized milk lasts longer, but some say the flavor fades.",
+      "style": "Collocational",
+      "translation": "巴氏消毒奶保质期更长，但有人说风味会减淡。",
+      "translated_word": "巴氏消毒",
+      "display_order": 2
+    }
+  ]
+}

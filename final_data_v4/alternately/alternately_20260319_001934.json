@@ -1,0 +1,39 @@
+{
+  "word": "alternately",
+  "phonetic": "/ˈɔːltərnətli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "交替地；轮流地；间隔地",
+  "examples": [
+    {
+      "sentence": "She glanced alternately at her phone and the door.",
+      "style": "Contextual",
+      "translation": "她的目光在手机与门之间来回游移。",
+      "translated_word": "来回",
+      "display_order": 1
+    },
+    {
+      "sentence": "The therapist asked him to alternately tense and relax each muscle.",
+      "style": "Collocational",
+      "translation": "治疗师让他依次绷紧和放松每块肌肉。",
+      "translated_word": "依次",
+      "display_order": 2
+    },
+    {
+      "sentence": "Moonlight fell through the blinds, alternately silver and shadow.",
+      "style": "Poetic",
+      "translation": "月光穿过百叶窗，银辉与暗影交织。",
+      "translated_word": "交织",
+      "display_order": 3
+    },
+    {
+      "sentence": "In every friendship, we are alternately the one who leans and the one who holds.",
+      "style": "Philosophical",
+      "translation": "在每段友谊中，我们轮流成为依靠者与支撑者。",
+      "translated_word": "轮流",
+      "display_order": 4
+    }
+  ]
+}

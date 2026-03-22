@@ -1,0 +1,37 @@
+{
+  "word": "insofar",
+  "phonetic": "/ˌɪnsəˈfɑːr/",
+  "pos": [],
+  "selected_pos": "adverb",
+  "definition": "在...范围内；就...而言；到...程度",
+  "examples": [
+    {
+      "sentence": "The contract is valid insofar as both parties consent.",
+      "style": "Formal",
+      "translation": "该合同在双方同意的范围内有效。",
+      "translated_word": "范围内",
+      "display_order": 1
+    },
+    {
+      "sentence": "We understand others insofar as we understand ourselves.",
+      "style": "Philosophical",
+      "translation": "我们对他人的理解，止于对自己的理解。",
+      "translated_word": "止于",
+      "display_order": 4
+    },
+    {
+      "sentence": "His advice helped insofar as it clarified the options.",
+      "style": "Contextual",
+      "translation": "他的建议有用之处在于厘清了各种选择。",
+      "translated_word": "在于",
+      "display_order": 3
+    },
+    {
+      "sentence": "I support the plan insofar as funding, not the timeline.",
+      "style": "Contrastive",
+      "translation": "就资金而言我支持这个计划，但时间表除外。",
+      "translated_word": "而言",
+      "display_order": 2
+    }
+  ]
+}

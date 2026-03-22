@@ -1,0 +1,39 @@
+{
+  "word": "sever",
+  "phonetic": "/ˈsevər/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "切断；割断；断绝",
+  "examples": [
+    {
+      "sentence": "The surgeon had to sever the damaged nerve to save the limb.",
+      "style": "Contextual",
+      "translation": "外科医生不得不切断受损的神经，以保住整条肢体。",
+      "translated_word": "切断",
+      "display_order": 1
+    },
+    {
+      "sentence": "The corporation announced plans to sever ties with its overseas partners.",
+      "style": "Formal",
+      "translation": "该公司宣布计划与海外合作伙伴断绝关系。",
+      "translated_word": "断绝",
+      "display_order": 3
+    },
+    {
+      "sentence": "To grow, we sometimes must sever what once nourished us.",
+      "style": "Philosophical",
+      "translation": "成长有时意味着割断曾经滋养我们的根。",
+      "translated_word": "割断",
+      "display_order": 4
+    },
+    {
+      "sentence": "She severed contact with her hometown the morning she boarded that flight.",
+      "style": "Intimate",
+      "translation": "登上那趟航班的清晨，她切断了与故乡的一切联系。",
+      "translated_word": "切断",
+      "display_order": 2
+    }
+  ]
+}

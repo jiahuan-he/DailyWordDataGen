@@ -1,0 +1,40 @@
+{
+  "word": "fraction",
+  "phonetic": "/ˈfrækʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "小部分；分数；些许",
+  "examples": [
+    {
+      "sentence": "Only a fraction of the applications made it past the first round.",
+      "style": "Contextual",
+      "translation": "只有一小部分申请通过了第一轮筛选。",
+      "translated_word": "一小部分",
+      "display_order": 2
+    },
+    {
+      "sentence": "The settlement represents a fraction of the damages initially sought.",
+      "style": "Formal",
+      "translation": "该和解金额仅占最初索赔数额的一小部分。",
+      "translated_word": "一小部分",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every great change begins with a fraction of doubt.",
+      "style": "Philosophical",
+      "translation": "每一次伟大的变革，都始于一丝怀疑。",
+      "translated_word": "一丝",
+      "display_order": 4
+    },
+    {
+      "sentence": "She found the same dress online for a fraction of the price.",
+      "style": "Collocational",
+      "translation": "她在网上找到了同款裙子，价格只是零头。",
+      "translated_word": "零头",
+      "display_order": 1
+    }
+  ]
+}

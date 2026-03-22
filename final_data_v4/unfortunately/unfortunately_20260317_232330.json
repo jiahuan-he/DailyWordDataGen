@@ -1,0 +1,39 @@
+{
+  "word": "unfortunately",
+  "phonetic": "/ʌnˈfɔːrtʃənətli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "不幸地；遗憾地；可惜",
+  "examples": [
+    {
+      "sentence": "Unfortunately, the last train had already left.",
+      "style": "Contextual",
+      "translation": "遗憾的是，末班车已经开走了。",
+      "translated_word": "遗憾的是",
+      "display_order": 1
+    },
+    {
+      "sentence": "The funding was unfortunately cut before the research concluded.",
+      "style": "Formal",
+      "translation": "遗憾的是，研究尚未结束，资金便被削减。",
+      "translated_word": "遗憾的是",
+      "display_order": 3
+    },
+    {
+      "sentence": "The truth, unfortunately, often arrives after the lesson.",
+      "style": "Philosophical",
+      "translation": "真相往往在教训之后才姗姗来迟，令人遗憾。",
+      "translated_word": "遗憾",
+      "display_order": 4
+    },
+    {
+      "sentence": "He waved from the platform; unfortunately, she never turned around.",
+      "style": "Intimate",
+      "translation": "他在站台上挥手，可惜她始终没有回头。",
+      "translated_word": "可惜",
+      "display_order": 2
+    }
+  ]
+}

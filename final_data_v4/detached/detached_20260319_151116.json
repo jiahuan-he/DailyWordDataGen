@@ -1,0 +1,40 @@
+{
+  "word": "detached",
+  "phonetic": "/dɪˈtætʃt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "超然的；疏离的；独立的；客观的",
+  "examples": [
+    {
+      "sentence": "She listened to the argument with a detached calm, as if watching strangers.",
+      "style": "Contextual",
+      "translation": "她以一种超然的平静倾听着争吵，仿佛在看陌生人。",
+      "translated_word": "超然",
+      "display_order": 1
+    },
+    {
+      "sentence": "Grief, when it overstays, leaves us detached from our own reflection.",
+      "style": "Philosophical",
+      "translation": "悲伤若久留不去，会让我们与镜中的自己渐行渐远。",
+      "translated_word": "渐行渐远",
+      "display_order": 4
+    },
+    {
+      "sentence": "The hilltop cottage stood detached and quiet, wrapped in morning fog.",
+      "style": "Poetic",
+      "translation": "山顶的小屋独立而静谧，被晨雾轻轻包裹。",
+      "translated_word": "独立",
+      "display_order": 2
+    },
+    {
+      "sentence": "Somewhere along the way, I grew detached from the dreams that once kept me awake.",
+      "style": "Intimate",
+      "translation": "不知从何时起，我与那些曾让我彻夜难眠的梦想渐渐疏离了。",
+      "translated_word": "疏离",
+      "display_order": 3
+    }
+  ]
+}

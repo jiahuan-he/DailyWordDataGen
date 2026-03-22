@@ -1,0 +1,39 @@
+{
+  "word": "posse",
+  "phonetic": "/ˈpɑːsi/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "一伙人；团伙；（朋友）圈子",
+  "examples": [
+    {
+      "sentence": "She arrived at the party with her usual posse of college friends.",
+      "style": "Contextual",
+      "translation": "她带着那帮大学老友一起出现在派对上。",
+      "translated_word": "那帮",
+      "display_order": 2
+    },
+    {
+      "sentence": "The tech mogul travels with a posse of assistants and security.",
+      "style": "Formal",
+      "translation": "这位科技大亨出行时总带着一群助理和保镖。",
+      "translated_word": "一群",
+      "display_order": 3
+    },
+    {
+      "sentence": "We were an unlikely posse: the poet, the athlete, the quiet one.",
+      "style": "Intimate",
+      "translation": "我们是一群不太搭的人：诗人、运动员，还有那个沉默寡言的。",
+      "translated_word": "一群",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every neighborhood kid wanted to join his posse.",
+      "style": "Collocational",
+      "translation": "街坊里的孩子都想加入他的小圈子。",
+      "translated_word": "小圈子",
+      "display_order": 1
+    }
+  ]
+}

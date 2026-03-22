@@ -1,0 +1,40 @@
+{
+  "word": "blackmail",
+  "phonetic": "/ˈblækmeɪl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "勒索；敲诈；要挟",
+  "examples": [
+    {
+      "sentence": "Someone had been blackmailing the mayor with photos from his past.",
+      "style": "Contextual",
+      "translation": "有人一直用他过去的照片勒索市长。",
+      "translated_word": "勒索",
+      "display_order": 1
+    },
+    {
+      "sentence": "The executive was charged with blackmailing a former business partner.",
+      "style": "Formal",
+      "translation": "这位高管被指控敲诈其前商业伙伴。",
+      "translated_word": "敲诈",
+      "display_order": 3
+    },
+    {
+      "sentence": "We blackmail ourselves with our own secrets, becoming both captor and captive.",
+      "style": "Philosophical",
+      "translation": "我们用自己的秘密要挟自己，既是囚犯，也是狱卒。",
+      "translated_word": "要挟",
+      "display_order": 4
+    },
+    {
+      "sentence": "When he tried to blackmail me, I chose honesty and told everyone first.",
+      "style": "Intimate",
+      "translation": "当他试图勒索我时，我选择坦诚，抢先告诉了所有人。",
+      "translated_word": "勒索",
+      "display_order": 2
+    }
+  ]
+}

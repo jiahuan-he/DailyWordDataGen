@@ -1,0 +1,40 @@
+{
+  "word": "minutes",
+  "phonetic": "/ˈmɪnɪts/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "分钟；片刻；会议记录",
+  "examples": [
+    {
+      "sentence": "Five minutes was all she needed to change his mind.",
+      "style": "Contextual",
+      "translation": "五分钟，足以让他改变主意。",
+      "translated_word": "分钟",
+      "display_order": 2
+    },
+    {
+      "sentence": "Within minutes, the news had spread across the city.",
+      "style": "Collocational",
+      "translation": "几分钟内，消息传遍全城。",
+      "translated_word": "分钟",
+      "display_order": 1
+    },
+    {
+      "sentence": "The longest minutes are spent waiting for someone who may not come.",
+      "style": "Philosophical",
+      "translation": "最漫长的分钟，是等一个可能不会来的人。",
+      "translated_word": "分钟",
+      "display_order": 4
+    },
+    {
+      "sentence": "In the final minutes of her visit, my grandmother slipped a letter into my hand.",
+      "style": "Intimate",
+      "translation": "奶奶临别前的最后几分钟，悄悄将一封信塞入我手中。",
+      "translated_word": "分钟",
+      "display_order": 3
+    }
+  ]
+}

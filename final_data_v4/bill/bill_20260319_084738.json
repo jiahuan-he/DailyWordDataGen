@@ -1,0 +1,40 @@
+{
+  "word": "bill",
+  "phonetic": "/bɪl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "账单；钞票；法案；喙",
+  "examples": [
+    {
+      "sentence": "The waiter placed the bill on the table, face down.",
+      "style": "Contextual",
+      "translation": "服务员将账单倒扣在桌上。",
+      "translated_word": "账单",
+      "display_order": 1
+    },
+    {
+      "sentence": "They split the bill three ways without hesitation.",
+      "style": "Collocational",
+      "translation": "他们毫不犹豫地将账单三等分。",
+      "translated_word": "账单",
+      "display_order": 3
+    },
+    {
+      "sentence": "The bill passed the Senate by a narrow margin.",
+      "style": "Formal",
+      "translation": "该法案以微弱优势在参议院获得通过。",
+      "translated_word": "法案",
+      "display_order": 4
+    },
+    {
+      "sentence": "My first paycheck was three crumpled bills; I framed them.",
+      "style": "Intimate",
+      "translation": "我的第一笔工资是三张皱巴巴的钞票；我把它们裱了起来。",
+      "translated_word": "钞票",
+      "display_order": 2
+    }
+  ]
+}

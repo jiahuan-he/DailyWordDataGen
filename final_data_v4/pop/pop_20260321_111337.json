@@ -1,0 +1,42 @@
+{
+  "word": "pop",
+  "phonetic": "/pɑːp/",
+  "pos": [
+    "adjective",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "爆开；突然出现；快速去",
+  "examples": [
+    {
+      "sentence": "The balloon popped when it touched the candle flame.",
+      "style": "Contextual",
+      "translation": "气球碰到烛火，瞬间爆裂。",
+      "translated_word": "爆裂",
+      "display_order": 1
+    },
+    {
+      "sentence": "She likes to pop by the bakery on her way home.",
+      "style": "Collocational",
+      "translation": "她喜欢回家路上顺道去趟面包店。",
+      "translated_word": "顺道",
+      "display_order": 3
+    },
+    {
+      "sentence": "Grandma would pop corn on the stove every Sunday evening.",
+      "style": "Intimate",
+      "translation": "每个周日傍晚，外婆都会在炉子上爆玉米花。",
+      "translated_word": "爆",
+      "display_order": 2
+    },
+    {
+      "sentence": "Colors pop against grey walls after rain.",
+      "style": "Poetic",
+      "translation": "雨后，色彩在灰墙上跃然而出。",
+      "translated_word": "跃然而出",
+      "display_order": 4
+    }
+  ]
+}

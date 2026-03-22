@@ -1,0 +1,40 @@
+{
+  "word": "calendar",
+  "phonetic": "/ˈkælɪndər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "日历；历法；日程表",
+  "examples": [
+    {
+      "sentence": "She crossed off another day on the kitchen calendar.",
+      "style": "Contextual",
+      "translation": "她在厨房的日历上又划掉了一天。",
+      "translated_word": "日历",
+      "display_order": 1
+    },
+    {
+      "sentence": "Mark your calendar: the meteor shower peaks this Friday.",
+      "style": "Collocational",
+      "translation": "在日历上做个标记吧：流星雨将于本周五达到极盛。",
+      "translated_word": "日历",
+      "display_order": 3
+    },
+    {
+      "sentence": "A calendar counts days; it cannot count their weight.",
+      "style": "Philosophical",
+      "translation": "日历数得清日子，却数不清日子的分量。",
+      "translated_word": "日历",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother kept a calendar with every birthday circled in red.",
+      "style": "Intimate",
+      "translation": "祖母有一本日历，上面每个生日都用红笔圈着。",
+      "translated_word": "日历",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "associate",
+  "phonetic": "/əˈsoʊʃieɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "联想；关联；结交；交往",
+  "examples": [
+    {
+      "sentence": "Most people associate the smell of cinnamon with the holiday season.",
+      "style": "Contextual",
+      "translation": "大多数人会把肉桂的气息与节日联系在一起。",
+      "translated_word": "联系",
+      "display_order": 1
+    },
+    {
+      "sentence": "She refuses to associate with anyone who speaks ill of others.",
+      "style": "Collocational",
+      "translation": "她拒绝与背后议人是非的人来往。",
+      "translated_word": "来往",
+      "display_order": 4
+    },
+    {
+      "sentence": "We associate silence with emptiness, yet it often holds the fullest truths.",
+      "style": "Philosophical",
+      "translation": "我们总将沉默等同于空虚，然而它往往承载着最丰盈的真相。",
+      "translated_word": "等同于",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her kitchen taught me to associate love with the warmth of fresh bread.",
+      "style": "Intimate",
+      "translation": "她的厨房让我学会了将爱与新鲜面包的温热联结在一起。",
+      "translated_word": "联结",
+      "display_order": 2
+    }
+  ]
+}

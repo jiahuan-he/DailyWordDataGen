@@ -1,0 +1,40 @@
+{
+  "word": "apply",
+  "phonetic": "/əˈplaɪ/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "申请；应用；涂抹；适用",
+  "examples": [
+    {
+      "sentence": "She applied for the grant without expecting much, and it changed her life.",
+      "style": "Contextual",
+      "translation": "她抱着试一试的心态申请了那笔资助，却因此改变了一生。",
+      "translated_word": "申请",
+      "display_order": 1
+    },
+    {
+      "sentence": "All applicants must apply through the official portal by the stated deadline.",
+      "style": "Formal",
+      "translation": "所有申请者须在截止日期前通过官方渠道提交申请。",
+      "translated_word": "申请",
+      "display_order": 3
+    },
+    {
+      "sentence": "Apply gentle pressure to the wound until help arrives.",
+      "style": "Collocational",
+      "translation": "轻轻按住伤口，等待救援到来。",
+      "translated_word": "按住",
+      "display_order": 4
+    },
+    {
+      "sentence": "The night before I applied, I sat alone rewriting my story until it finally sounded like me.",
+      "style": "Intimate",
+      "translation": "提交申请的前夜，我独自坐着反复修改，直到那些文字终于像我自己。",
+      "translated_word": "申请",
+      "display_order": 2
+    }
+  ]
+}

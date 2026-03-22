@@ -1,0 +1,40 @@
+{
+  "word": "sunset",
+  "phonetic": "/ˈsʌnˌset/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "日落；黄昏；晚霞",
+  "examples": [
+    {
+      "sentence": "The sunset bled orange across the harbor, setting the sailboats aglow.",
+      "style": "Poetic",
+      "translation": "落日将橙红泼洒在港湾，帆船被镀上一层暖光。",
+      "translated_word": "落日",
+      "display_order": 2
+    },
+    {
+      "sentence": "We drove west for hours, chasing the sunset like it owed us something.",
+      "style": "Intimate",
+      "translation": "我们向西开了几个小时，追逐落日，仿佛它欠我们一个答案。",
+      "translated_word": "落日",
+      "display_order": 4
+    },
+    {
+      "sentence": "They reached the summit just in time to watch the sunset.",
+      "style": "Contextual",
+      "translation": "他们刚好在日落时分登上山顶。",
+      "translated_word": "日落",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every sunset is proof that endings can be beautiful.",
+      "style": "Philosophical",
+      "translation": "每一次日落都在证明：结束也可以很美。",
+      "translated_word": "日落",
+      "display_order": 3
+    }
+  ]
+}

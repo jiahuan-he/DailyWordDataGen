@@ -1,0 +1,39 @@
+{
+  "word": "munitions",
+  "phonetic": "/mjuːˈnɪʃənz/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "军火；弹药；军需品",
+  "examples": [
+    {
+      "sentence": "The factory switched from producing farm equipment to munitions during the war.",
+      "style": "Contextual",
+      "translation": "战争期间，这家工厂从生产农具转为制造军火。",
+      "translated_word": "军火",
+      "display_order": 1
+    },
+    {
+      "sentence": "International inspectors verified the destruction of the regime's chemical munitions.",
+      "style": "Formal",
+      "translation": "国际核查人员确认了该政权化学弹药的销毁情况。",
+      "translated_word": "弹药",
+      "display_order": 3
+    },
+    {
+      "sentence": "Workers at the munitions depot undergo rigorous security clearances.",
+      "style": "Collocational",
+      "translation": "军火库的工作人员须通过严格的安全审查。",
+      "translated_word": "军火",
+      "display_order": 2
+    },
+    {
+      "sentence": "Unlike small arms, heavy munitions require specialized transport and storage.",
+      "style": "Contrastive",
+      "translation": "与轻武器不同，重型弹药需要专门的运输和储存条件。",
+      "translated_word": "弹药",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "bewildering",
+  "phonetic": "/bɪˈwɪldərɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "令人困惑；使人迷惑；眼花缭乱",
+  "examples": [
+    {
+      "sentence": "Forty buttons on the remote; the setup was bewildering for everyone.",
+      "style": "Contextual",
+      "translation": "遥控器上四十个按钮，设置让所有人都一头雾水。",
+      "translated_word": "一头雾水",
+      "display_order": 1
+    },
+    {
+      "sentence": "The aurora danced in bewildering silence across the polar night.",
+      "style": "Poetic",
+      "translation": "极光在极夜中无声舞动，令人目眩神迷。",
+      "translated_word": "目眩神迷",
+      "display_order": 4
+    },
+    {
+      "sentence": "What feels bewildering today may become wisdom tomorrow.",
+      "style": "Philosophical",
+      "translation": "今日的困惑，或许是明日的智慧。",
+      "translated_word": "困惑",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her recipe box held a bewildering number of handwritten secrets.",
+      "style": "Intimate",
+      "translation": "她的食谱盒里，藏着数不清的手写秘方。",
+      "translated_word": "数不清",
+      "display_order": 2
+    }
+  ]
+}

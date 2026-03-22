@@ -1,0 +1,39 @@
+{
+  "word": "generally",
+  "phonetic": "/ˈdʒenərəli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "通常；大体上；普遍地",
+  "examples": [
+    {
+      "sentence": "The cafés here generally close before sunset.",
+      "style": "Contextual",
+      "translation": "这里的咖啡馆通常在日落前打烊。",
+      "translated_word": "通常",
+      "display_order": 1
+    },
+    {
+      "sentence": "The policy reform was generally welcomed by economists.",
+      "style": "Formal",
+      "translation": "这项政策改革普遍受到经济学家的欢迎。",
+      "translated_word": "普遍",
+      "display_order": 2
+    },
+    {
+      "sentence": "Generally speaking, less is more.",
+      "style": "Collocational",
+      "translation": "一般而言，少即是多。",
+      "translated_word": "一般而言",
+      "display_order": 3
+    },
+    {
+      "sentence": "We generally notice kindness only when it stops.",
+      "style": "Philosophical",
+      "translation": "我们往往在善意消失时，才察觉它的存在。",
+      "translated_word": "往往",
+      "display_order": 4
+    }
+  ]
+}

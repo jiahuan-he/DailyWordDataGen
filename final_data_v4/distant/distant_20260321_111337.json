@@ -1,0 +1,39 @@
+{
+  "word": "distant",
+  "phonetic": "/ˈdɪstənt/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "遥远；疏远；冷淡；久远",
+  "examples": [
+    {
+      "sentence": "Through the fog, the lighthouse appeared small and distant.",
+      "style": "Contextual",
+      "translation": "雾中，灯塔显得渺小而遥远。",
+      "translated_word": "遥远",
+      "display_order": 1
+    },
+    {
+      "sentence": "A distant cousin arrived unannounced for the funeral.",
+      "style": "Collocational",
+      "translation": "一位远房表亲不请自来，出现在葬礼上。",
+      "translated_word": "远房",
+      "display_order": 3
+    },
+    {
+      "sentence": "Stars scatter across the sky: cold, distant, eternal.",
+      "style": "Poetic",
+      "translation": "繁星散落天际：清冷，遥远，亘古不变。",
+      "translated_word": "遥远",
+      "display_order": 2
+    },
+    {
+      "sentence": "His smile was polite, but his gaze remained distant.",
+      "style": "Intimate",
+      "translation": "他的微笑礼貌周全，目光却始终疏离。",
+      "translated_word": "疏离",
+      "display_order": 4
+    }
+  ]
+}

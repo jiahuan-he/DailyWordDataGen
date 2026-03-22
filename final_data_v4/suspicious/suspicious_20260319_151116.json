@@ -1,0 +1,39 @@
+{
+  "word": "suspicious",
+  "phonetic": "/səˈspɪʃəs/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "可疑的；怀疑的；多疑的",
+  "examples": [
+    {
+      "sentence": "The package had no return address, which seemed suspicious.",
+      "style": "Contextual",
+      "translation": "包裹上没有寄件地址，这让人起疑。",
+      "translated_word": "起疑",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities flagged several suspicious transactions linked to the account.",
+      "style": "Formal",
+      "translation": "当局标记了与该账户相关的数笔可疑交易。",
+      "translated_word": "可疑",
+      "display_order": 3
+    },
+    {
+      "sentence": "She cast a suspicious glance at the unlocked door.",
+      "style": "Collocational",
+      "translation": "她对那扇未锁的门投去狐疑的一瞥。",
+      "translated_word": "狐疑",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every time he avoided my questions, I grew more suspicious.",
+      "style": "Intimate",
+      "translation": "每当他回避我的问题，我的疑心便加深一分。",
+      "translated_word": "疑心",
+      "display_order": 2
+    }
+  ]
+}

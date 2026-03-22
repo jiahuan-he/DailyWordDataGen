@@ -1,0 +1,39 @@
+{
+  "word": "odour",
+  "phonetic": "/ˈəʊdə/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "气味；味道；气息",
+  "examples": [
+    {
+      "sentence": "A sharp odour of smoke filled the hallway.",
+      "style": "Contextual",
+      "translation": "走廊里弥漫着一股刺鼻的烟味。",
+      "translated_word": "烟味",
+      "display_order": 1
+    },
+    {
+      "sentence": "The old bookshop held an odour of aged paper and quiet afternoons.",
+      "style": "Poetic",
+      "translation": "旧书店里萦绕着陈年纸张与静谧午后的气息。",
+      "translated_word": "气息",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her perfume left a faint odour on my collar; I didn't wash it for weeks.",
+      "style": "Intimate",
+      "translation": "她的香水在我衣领上留下淡淡余香；我好几周都舍不得洗。",
+      "translated_word": "余香",
+      "display_order": 3
+    },
+    {
+      "sentence": "A foul odour from the fridge told me the milk had turned.",
+      "style": "Collocational",
+      "translation": "冰箱里传来一股恶臭，牛奶显然已经变质。",
+      "translated_word": "恶臭",
+      "display_order": 2
+    }
+  ]
+}

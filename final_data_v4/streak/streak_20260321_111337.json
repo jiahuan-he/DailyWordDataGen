@@ -1,0 +1,40 @@
+{
+  "word": "streak",
+  "phonetic": "/striːk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "条纹；连胜；性格特点",
+  "examples": [
+    {
+      "sentence": "His twenty-game winning streak finally came to an end.",
+      "style": "Contextual",
+      "translation": "他二十场的连胜纪录终于画上句点。",
+      "translated_word": "连胜",
+      "display_order": 2
+    },
+    {
+      "sentence": "She has a stubborn streak that refuses to bend.",
+      "style": "Collocational",
+      "translation": "她骨子里有一股不肯低头的倔强。",
+      "translated_word": "一股",
+      "display_order": 3
+    },
+    {
+      "sentence": "A streak of gold split the horizon at dawn.",
+      "style": "Poetic",
+      "translation": "一道金光在黎明时分划破了地平线。",
+      "translated_word": "一道",
+      "display_order": 1
+    },
+    {
+      "sentence": "That impulsive streak in me? I got it from my father.",
+      "style": "Intimate",
+      "translation": "我身上那股冲动劲儿，是从父亲那儿继承来的。",
+      "translated_word": "劲儿",
+      "display_order": 4
+    }
+  ]
+}

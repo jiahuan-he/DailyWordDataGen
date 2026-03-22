@@ -1,0 +1,40 @@
+{
+  "word": "wilt",
+  "phonetic": "/wɪlt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "枯萎；凋谢；萎靡；衰弱",
+  "examples": [
+    {
+      "sentence": "Without water, the tulips wilted overnight.",
+      "style": "Contextual",
+      "translation": "没有水，郁金香一夜之间便枯萎了。",
+      "translated_word": "枯萎",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her smile wilted the moment she read the letter.",
+      "style": "Poetic",
+      "translation": "读到那封信的瞬间，她的笑容骤然凋零。",
+      "translated_word": "凋零",
+      "display_order": 2
+    },
+    {
+      "sentence": "Neglected dreams wilt quietly, never asking to be remembered.",
+      "style": "Philosophical",
+      "translation": "被遗忘的梦想悄然枯萎，从不祈求被人记起。",
+      "translated_word": "枯萎",
+      "display_order": 3
+    },
+    {
+      "sentence": "After twelve hours on my feet, I wilted onto the couch.",
+      "style": "Intimate",
+      "translation": "站了整整十二个小时后，我瘫倒在沙发上。",
+      "translated_word": "瘫倒",
+      "display_order": 4
+    }
+  ]
+}

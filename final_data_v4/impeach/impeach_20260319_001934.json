@@ -1,0 +1,39 @@
+{
+  "word": "impeach",
+  "phonetic": "/ɪmˈpiːtʃ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "弹劾；质疑；指控",
+  "examples": [
+    {
+      "sentence": "The House voted to impeach the president for obstruction of justice.",
+      "style": "Formal",
+      "translation": "众议院投票弹劾总统，指控其妨碍司法公正。",
+      "translated_word": "弹劾",
+      "display_order": 1
+    },
+    {
+      "sentence": "New evidence emerged to impeach the witness's credibility.",
+      "style": "Contextual",
+      "translation": "新证据浮出水面，动摇了证人的可信度。",
+      "translated_word": "动摇",
+      "display_order": 3
+    },
+    {
+      "sentence": "To impeach is not to convict; it is merely to accuse.",
+      "style": "Contrastive",
+      "translation": "弹劾并非定罪，仅是提出指控。",
+      "translated_word": "弹劾",
+      "display_order": 2
+    },
+    {
+      "sentence": "Power unchecked invites the very scrutiny meant to impeach it.",
+      "style": "Philosophical",
+      "translation": "不受约束的权力，终将招致质疑它的审视。",
+      "translated_word": "质疑",
+      "display_order": 4
+    }
+  ]
+}

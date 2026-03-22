@@ -1,0 +1,39 @@
+{
+  "word": "propulsion",
+  "phonetic": "/prəˈpʌlʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "推进；推动力；驱动",
+  "examples": [
+    {
+      "sentence": "The spacecraft relies on ion propulsion for its journey to Jupiter.",
+      "style": "Formal",
+      "translation": "这艘飞船依靠离子推进技术完成木星之旅。",
+      "translated_word": "推进",
+      "display_order": 2
+    },
+    {
+      "sentence": "Nuclear propulsion could halve our travel time to Mars.",
+      "style": "Collocational",
+      "translation": "核推进技术可将火星旅行时间缩短一半。",
+      "translated_word": "推进",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every civilization finds its propulsion: fire, then steam, now ambition.",
+      "style": "Philosophical",
+      "translation": "每一种文明都有其推动力：先是火焰，继而蒸汽，如今是野心。",
+      "translated_word": "推动力",
+      "display_order": 3
+    },
+    {
+      "sentence": "Curiosity remains the quiet propulsion behind every breakthrough.",
+      "style": "Inspirational",
+      "translation": "好奇心始终是每一次突破背后无声的驱动力。",
+      "translated_word": "驱动力",
+      "display_order": 4
+    }
+  ]
+}

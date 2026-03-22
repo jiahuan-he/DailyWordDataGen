@@ -1,0 +1,41 @@
+{
+  "word": "switch",
+  "phonetic": "/swɪtʃ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "切换；转换；调换",
+  "examples": [
+    {
+      "sentence": "She switched to decaf after the sleepless nights began.",
+      "style": "Contextual",
+      "translation": "失眠的夜晚多了之后，她换成了无咖啡因的咖啡。",
+      "translated_word": "换",
+      "display_order": 3
+    },
+    {
+      "sentence": "He switched careers at forty and never looked back.",
+      "style": "Collocational",
+      "translation": "四十岁那年他转了行，从此再未回头。",
+      "translated_word": "转",
+      "display_order": 2
+    },
+    {
+      "sentence": "We switched seats so she could watch the sunset.",
+      "style": "Intimate",
+      "translation": "我们换了座位，好让她看见落日。",
+      "translated_word": "换",
+      "display_order": 1
+    },
+    {
+      "sentence": "The courage to switch paths is the courage to begin again.",
+      "style": "Inspirational",
+      "translation": "敢于转向的勇气，就是重新开始的勇气。",
+      "translated_word": "转向",
+      "display_order": 4
+    }
+  ]
+}

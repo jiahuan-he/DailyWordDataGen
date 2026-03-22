@@ -1,0 +1,40 @@
+{
+  "word": "license",
+  "phonetic": "/ˈlaɪsəns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "许可证；执照；许可",
+  "examples": [
+    {
+      "sentence": "He passed the test and finally got his license.",
+      "style": "Contextual",
+      "translation": "他通过了考试，终于拿到了驾照。",
+      "translated_word": "驾照",
+      "display_order": 1
+    },
+    {
+      "sentence": "The restaurant's license was revoked after repeated health violations.",
+      "style": "Formal",
+      "translation": "这家餐厅因多次违反卫生规定被吊销了营业执照。",
+      "translated_word": "营业执照",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her medical license allows her to practice in three states.",
+      "style": "Collocational",
+      "translation": "她的行医执照允许她在三个州执业。",
+      "translated_word": "执照",
+      "display_order": 2
+    },
+    {
+      "sentence": "Freedom without responsibility is merely a license for chaos.",
+      "style": "Philosophical",
+      "translation": "没有责任的自由，不过是混乱的通行证。",
+      "translated_word": "通行证",
+      "display_order": 4
+    }
+  ]
+}

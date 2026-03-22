@@ -1,0 +1,40 @@
+{
+  "word": "slouch",
+  "phonetic": "/slaʊtʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "懒散地坐；弯腰驼背；没精打采",
+  "examples": [
+    {
+      "sentence": "After the long meeting, he slouched in his chair, eyes half-closed.",
+      "style": "Contextual",
+      "translation": "漫长的会议结束后，他瘫坐在椅子里，眼睛半睁半闭。",
+      "translated_word": "瘫坐",
+      "display_order": 1
+    },
+    {
+      "sentence": "She slouched against the wall, scrolling through her phone.",
+      "style": "Collocational",
+      "translation": "她倚靠在墙上，懒散地刷着手机。",
+      "translated_word": "倚靠",
+      "display_order": 4
+    },
+    {
+      "sentence": "On bad days, I slouch into the couch and let the silence settle.",
+      "style": "Intimate",
+      "translation": "心情低落的日子，我窝进沙发，任由寂静蔓延。",
+      "translated_word": "窝进",
+      "display_order": 3
+    },
+    {
+      "sentence": "She stands tall in public but slouches the moment she gets home.",
+      "style": "Contrastive",
+      "translation": "她在人前挺拔端庄，一回到家便松懈下来。",
+      "translated_word": "松懈",
+      "display_order": 2
+    }
+  ]
+}

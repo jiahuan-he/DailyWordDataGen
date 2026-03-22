@@ -1,0 +1,41 @@
+{
+  "word": "web",
+  "phonetic": "/wɛb/",
+  "pos": [
+    "noun",
+    "proper noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "网；蛛网；网络；错综复杂的关系",
+  "examples": [
+    {
+      "sentence": "A single web stretched between the barn's rafters, untouched for years.",
+      "style": "Contextual",
+      "translation": "一张蛛网横跨在谷仓的横梁之间，多年未曾被触碰。",
+      "translated_word": "蛛网",
+      "display_order": 1
+    },
+    {
+      "sentence": "The web held the morning light like lace spun from silver.",
+      "style": "Poetic",
+      "translation": "蛛网承托着晨光，宛如银丝织就的蕾丝。",
+      "translated_word": "蛛网",
+      "display_order": 2
+    },
+    {
+      "sentence": "One small lie grew into a web of deception he could not escape.",
+      "style": "Collocational",
+      "translation": "一个小小的谎言滋生成他无法逃脱的欺骗之网。",
+      "translated_word": "网",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every friendship adds a thread; every loss leaves the web more fragile.",
+      "style": "Philosophical",
+      "translation": "每一份友谊添一根丝线；每一次失去，都让这张网更加脆弱。",
+      "translated_word": "网",
+      "display_order": 4
+    }
+  ]
+}

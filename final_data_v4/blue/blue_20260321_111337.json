@@ -1,0 +1,41 @@
+{
+  "word": "blue",
+  "phonetic": "/bluː/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "蓝色的；忧郁的；沮丧的",
+  "examples": [
+    {
+      "sentence": "The curtains cast a soft blue glow across the empty room.",
+      "style": "Contextual",
+      "translation": "窗帘将柔和的蓝光洒满空荡的房间。",
+      "translated_word": "蓝",
+      "display_order": 2
+    },
+    {
+      "sentence": "She painted the nursery pale blue, a color of quiet hope.",
+      "style": "Collocational",
+      "translation": "她把婴儿房漆成淡蓝色，那是一种静谧的希望之色。",
+      "translated_word": "蓝",
+      "display_order": 1
+    },
+    {
+      "sentence": "The lake held the sky until dusk bled it blue.",
+      "style": "Poetic",
+      "translation": "湖水倒映着天空，直到黄昏将它染成幽蓝。",
+      "translated_word": "蓝",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some winter mornings, I wake up blue for no reason at all.",
+      "style": "Intimate",
+      "translation": "有些冬日清晨，我醒来时莫名地感到忧郁。",
+      "translated_word": "忧郁",
+      "display_order": 4
+    }
+  ]
+}

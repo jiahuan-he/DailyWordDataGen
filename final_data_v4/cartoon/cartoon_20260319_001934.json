@@ -1,0 +1,40 @@
+{
+  "word": "cartoon",
+  "phonetic": "/kɑːrˈtuːn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "卡通；动画片；漫画",
+  "examples": [
+    {
+      "sentence": "Every Saturday morning, she'd wake up early for cartoons.",
+      "style": "Contextual",
+      "translation": "每个周六清晨，她都会早起看动画片。",
+      "translated_word": "动画片",
+      "display_order": 1
+    },
+    {
+      "sentence": "Those old cartoons taught me to believe in second chances.",
+      "style": "Intimate",
+      "translation": "那些老动画片教会了我相信人生有第二次机会。",
+      "translated_word": "动画片",
+      "display_order": 2
+    },
+    {
+      "sentence": "Classic cartoon characters never seem to age.",
+      "style": "Collocational",
+      "translation": "经典卡通角色似乎永不老去。",
+      "translated_word": "卡通",
+      "display_order": 3
+    },
+    {
+      "sentence": "A good cartoon speaks truths that live-action often cannot.",
+      "style": "Philosophical",
+      "translation": "好的动画片能道出真人影视难以表达的真理。",
+      "translated_word": "动画片",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "waiver",
+  "phonetic": "/ˈweɪvər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "弃权书；免责声明；豁免",
+  "examples": [
+    {
+      "sentence": "Before the zip-line tour, each guest signed a waiver.",
+      "style": "Contextual",
+      "translation": "滑索之旅开始前，每位游客都签了一份弃权书。",
+      "translated_word": "弃权书",
+      "display_order": 1
+    },
+    {
+      "sentence": "The university granted her a tuition waiver for academic excellence.",
+      "style": "Formal",
+      "translation": "大学因其学业优异，授予她学费豁免。",
+      "translated_word": "豁免",
+      "display_order": 2
+    },
+    {
+      "sentence": "A signed waiver does not erase moral responsibility.",
+      "style": "Philosophical",
+      "translation": "签署的免责声明，免不掉道义上的责任。",
+      "translated_word": "免责声明",
+      "display_order": 3
+    },
+    {
+      "sentence": "The wrinkled waiver in my glovebox still carries the scent of that summer's first dive.",
+      "style": "Intimate",
+      "translation": "手套箱里那张皱褶的弃权书，仍留有那年夏天第一次跳水的气息。",
+      "translated_word": "弃权书",
+      "display_order": 4
+    }
+  ]
+}

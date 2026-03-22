@@ -1,0 +1,39 @@
+{
+  "word": "appreciate",
+  "phonetic": "/əˈpriːʃieɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "感激；欣赏；理解；增值",
+  "examples": [
+    {
+      "sentence": "He paused to appreciate the quiet before the city woke.",
+      "style": "Contextual",
+      "translation": "他在城市苏醒前，静享片刻安宁。",
+      "translated_word": "静享",
+      "display_order": 2
+    },
+    {
+      "sentence": "My father never said much, but I've come to appreciate his silences.",
+      "style": "Intimate",
+      "translation": "父亲寡言，但我渐渐读懂了他的沉默。",
+      "translated_word": "读懂",
+      "display_order": 3
+    },
+    {
+      "sentence": "To appreciate something fully, you must first accept its impermanence.",
+      "style": "Philosophical",
+      "translation": "唯有接受无常，方能真正珍惜当下。",
+      "translated_word": "珍惜",
+      "display_order": 4
+    },
+    {
+      "sentence": "I truly appreciate your honesty; it's rare these days.",
+      "style": "Collocational",
+      "translation": "你的坦诚我很感激；这年头难能可贵。",
+      "translated_word": "感激",
+      "display_order": 1
+    }
+  ]
+}

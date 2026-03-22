@@ -1,0 +1,40 @@
+{
+  "word": "force",
+  "phonetic": "/fɔːrs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "力量；势力；武力；影响力",
+  "examples": [
+    {
+      "sentence": "The force of the current swept the boat downstream.",
+      "style": "Contextual",
+      "translation": "水流的力量将小船卷向下游。",
+      "translated_word": "力量",
+      "display_order": 1
+    },
+    {
+      "sentence": "Kindness is a quiet force; it reshapes worlds without breaking them.",
+      "style": "Philosophical",
+      "translation": "善良是一种静默的力量；它重塑世界，却不将其打碎。",
+      "translated_word": "力量",
+      "display_order": 3
+    },
+    {
+      "sentence": "Wind is a blind force, yet it knows every leaf by name.",
+      "style": "Poetic",
+      "translation": "风是盲目的力量，却能叫出每片叶子的名字。",
+      "translated_word": "力量",
+      "display_order": 4
+    },
+    {
+      "sentence": "The coalition emerged as a dominant force in regional diplomacy.",
+      "style": "Formal",
+      "translation": "该联盟已成为地区外交中的主导力量。",
+      "translated_word": "力量",
+      "display_order": 2
+    }
+  ]
+}

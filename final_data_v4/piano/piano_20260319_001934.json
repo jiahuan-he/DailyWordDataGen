@@ -1,0 +1,41 @@
+{
+  "word": "piano",
+  "phonetic": "/piˈænəʊ/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "钢琴",
+  "examples": [
+    {
+      "sentence": "A grand piano stood alone in the empty ballroom, waiting.",
+      "style": "Contextual",
+      "translation": "空旷的舞厅里，一架三角钢琴静静伫立，仿佛在等待。",
+      "translated_word": "钢琴",
+      "display_order": 3
+    },
+    {
+      "sentence": "She sat at the piano and let her fingers find the melody.",
+      "style": "Collocational",
+      "translation": "她坐在钢琴前，指尖自然流淌出旋律。",
+      "translated_word": "钢琴",
+      "display_order": 1
+    },
+    {
+      "sentence": "The piano holds every note you ever played: the hesitant, the bold, the broken.",
+      "style": "Poetic",
+      "translation": "钢琴留存着你弹过的每一个音符：迟疑的、果敢的、破碎的。",
+      "translated_word": "钢琴",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's piano still smells of jasmine and Sunday mornings.",
+      "style": "Intimate",
+      "translation": "祖母的钢琴至今仍散发着茉莉与周日清晨的气息。",
+      "translated_word": "钢琴",
+      "display_order": 2
+    }
+  ]
+}

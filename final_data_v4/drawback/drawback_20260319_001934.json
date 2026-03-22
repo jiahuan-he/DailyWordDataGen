@@ -1,0 +1,39 @@
+{
+  "word": "drawback",
+  "phonetic": "/ˈdrɔːbæk/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "缺点；弊端；不足",
+  "examples": [
+    {
+      "sentence": "The cottage was perfect, save for one drawback: no running water.",
+      "style": "Contextual",
+      "translation": "那座小屋近乎完美，只有一个缺点：没有自来水。",
+      "translated_word": "缺点",
+      "display_order": 1
+    },
+    {
+      "sentence": "Analysts identified cost overruns as the policy's chief drawback.",
+      "style": "Formal",
+      "translation": "分析人士指出，成本超支是该政策的主要弊端。",
+      "translated_word": "弊端",
+      "display_order": 4
+    },
+    {
+      "sentence": "Speed was its strength; battery life, its drawback.",
+      "style": "Contrastive",
+      "translation": "速度是它的优势；续航则是它的短板。",
+      "translated_word": "短板",
+      "display_order": 3
+    },
+    {
+      "sentence": "The only drawback to remote work is the isolation.",
+      "style": "Collocational",
+      "translation": "远程办公唯一的不足，是那份孤独感。",
+      "translated_word": "不足",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "erect",
+  "phonetic": "/ɪˈrekt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "建造；竖立；搭建",
+  "examples": [
+    {
+      "sentence": "They erected a fence to keep the deer out of the garden.",
+      "style": "Contextual",
+      "translation": "他们竖起围栏，将鹿挡在花园之外。",
+      "translated_word": "竖起",
+      "display_order": 1
+    },
+    {
+      "sentence": "The city council voted to erect a memorial honoring the fallen soldiers.",
+      "style": "Formal",
+      "translation": "市议会投票决定为阵亡将士建造纪念碑。",
+      "translated_word": "建造",
+      "display_order": 2
+    },
+    {
+      "sentence": "Workers erected scaffolding around the old cathedral.",
+      "style": "Collocational",
+      "translation": "工人们在古老的大教堂周围搭起了脚手架。",
+      "translated_word": "搭起",
+      "display_order": 3
+    },
+    {
+      "sentence": "Monuments are erected to remember, yet those who built them are forgotten.",
+      "style": "Philosophical",
+      "translation": "纪念碑为铭记而立，建造它们的人却已被遗忘。",
+      "translated_word": "立",
+      "display_order": 4
+    }
+  ]
+}

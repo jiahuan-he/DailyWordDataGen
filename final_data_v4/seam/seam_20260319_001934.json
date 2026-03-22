@@ -1,0 +1,40 @@
+{
+  "word": "seam",
+  "phonetic": "/siːm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "接缝；缝线；矿层",
+  "examples": [
+    {
+      "sentence": "She noticed the seam of her sleeve had come loose.",
+      "style": "Contextual",
+      "translation": "她发现袖子的接缝开了线。",
+      "translated_word": "接缝",
+      "display_order": 1
+    },
+    {
+      "sentence": "A thin seam of light crept beneath the door.",
+      "style": "Poetic",
+      "translation": "一道细细的光缝从门下透入。",
+      "translated_word": "缝",
+      "display_order": 3
+    },
+    {
+      "sentence": "The tiny apartment was bursting at the seams with books.",
+      "style": "Collocational",
+      "translation": "小小的公寓里塞满了书，几乎要撑破了。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Her fingers traced the seam, checking her stitches one last time.",
+      "style": "Intimate",
+      "translation": "她的手指沿着接缝滑过，最后检查一遍针脚。",
+      "translated_word": "接缝",
+      "display_order": 2
+    }
+  ]
+}

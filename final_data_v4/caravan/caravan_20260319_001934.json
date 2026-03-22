@@ -1,0 +1,40 @@
+{
+  "word": "caravan",
+  "phonetic": "/ˈkærəvæn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "商队；车队；旅行拖车",
+  "examples": [
+    {
+      "sentence": "The caravan crossed the desert at dawn, camels laden with spices.",
+      "style": "Contextual",
+      "translation": "黎明时分，商队穿越沙漠，骆驼驮满香料。",
+      "translated_word": "商队",
+      "display_order": 1
+    },
+    {
+      "sentence": "They rented a caravan by the coast for the whole summer.",
+      "style": "Collocational",
+      "translation": "他们在海边租了一辆房车，度过整个夏天。",
+      "translated_word": "房车",
+      "display_order": 2
+    },
+    {
+      "sentence": "Across the dunes, a caravan of shadows moved with the sun.",
+      "style": "Poetic",
+      "translation": "沙丘之上，一列影子随日光缓缓前行。",
+      "translated_word": "一列",
+      "display_order": 4
+    },
+    {
+      "sentence": "A caravan has no permanent home; the road itself becomes shelter.",
+      "style": "Philosophical",
+      "translation": "商队没有固定的居所；道路本身便是归宿。",
+      "translated_word": "商队",
+      "display_order": 3
+    }
+  ]
+}

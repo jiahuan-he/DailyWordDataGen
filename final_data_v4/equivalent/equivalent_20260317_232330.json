@@ -1,0 +1,41 @@
+{
+  "word": "equivalent",
+  "phonetic": "/ɪˈkwɪvələnt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "相等的；等价的；对等的",
+  "examples": [
+    {
+      "sentence": "One teaspoon of this concentrate is equivalent to three cups of broth.",
+      "style": "Contextual",
+      "translation": "一茶匙浓缩液相当于三杯高汤。",
+      "translated_word": "相当于",
+      "display_order": 1
+    },
+    {
+      "sentence": "The court ruled both degrees equivalent for licensing purposes.",
+      "style": "Formal",
+      "translation": "法院裁定两种学位在执照申请中具有同等效力。",
+      "translated_word": "同等",
+      "display_order": 3
+    },
+    {
+      "sentence": "Their skills are equivalent, but their approaches differ entirely.",
+      "style": "Contrastive",
+      "translation": "他们的技艺不相上下，方法却截然不同。",
+      "translated_word": "不相上下",
+      "display_order": 2
+    },
+    {
+      "sentence": "No apology is truly equivalent to changed behavior.",
+      "style": "Philosophical",
+      "translation": "再多的道歉，也抵不过真正的改变。",
+      "translated_word": "抵",
+      "display_order": 4
+    }
+  ]
+}

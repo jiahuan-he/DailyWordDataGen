@@ -1,0 +1,40 @@
+{
+  "word": "benefit",
+  "phonetic": "/ˈbenɪfɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "好处；利益；益处；福利",
+  "examples": [
+    {
+      "sentence": "Regular exercise has one undeniable benefit: better sleep.",
+      "style": "Contextual",
+      "translation": "规律运动有一个不可否认的好处：更好的睡眠。",
+      "translated_word": "好处",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new policy extends healthcare benefits to part-time workers.",
+      "style": "Formal",
+      "translation": "新政策将医疗福利扩展至兼职员工。",
+      "translated_word": "福利",
+      "display_order": 4
+    },
+    {
+      "sentence": "She weighed the costs against the benefits before accepting the offer.",
+      "style": "Collocational",
+      "translation": "她在接受邀约前权衡了成本与收益。",
+      "translated_word": "收益",
+      "display_order": 2
+    },
+    {
+      "sentence": "The greatest benefit of solitude is clarity.",
+      "style": "Philosophical",
+      "translation": "独处最大的益处是内心的澄明。",
+      "translated_word": "益处",
+      "display_order": 3
+    }
+  ]
+}

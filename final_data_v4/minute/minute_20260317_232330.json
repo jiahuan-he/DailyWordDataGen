@@ -1,0 +1,41 @@
+{
+  "word": "minute",
+  "phonetic": "/ˈmɪnɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "分钟；片刻；瞬间",
+  "examples": [
+    {
+      "sentence": "She glanced at her watch: three minutes until the train.",
+      "style": "Contextual",
+      "translation": "她瞥了一眼手表：还有三分钟火车就到。",
+      "translated_word": "分钟",
+      "display_order": 1
+    },
+    {
+      "sentence": "Give me a minute to find the right words.",
+      "style": "Collocational",
+      "translation": "给我一点时间，让我想想该怎么说。",
+      "translated_word": "时间",
+      "display_order": 4
+    },
+    {
+      "sentence": "The last minute before sleep is when the day finally makes sense.",
+      "style": "Philosophical",
+      "translation": "入睡前的最后一刻，这一天才终于有了意义。",
+      "translated_word": "一刻",
+      "display_order": 3
+    },
+    {
+      "sentence": "Those early morning minutes before anyone woke were entirely mine.",
+      "style": "Intimate",
+      "translation": "清晨众人未醒时的那几分钟，完完全全属于我。",
+      "translated_word": "分钟",
+      "display_order": 2
+    }
+  ]
+}

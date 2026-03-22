@@ -1,0 +1,40 @@
+{
+  "word": "sheath",
+  "phonetic": "/ʃiːθ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "鞘；套；护套",
+  "examples": [
+    {
+      "sentence": "The hunter slid the blade back into its leather sheath.",
+      "style": "Contextual",
+      "translation": "猎人将刀刃滑回皮鞘。",
+      "translated_word": "鞘",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every cable ran through a protective rubber sheath.",
+      "style": "Collocational",
+      "translation": "每根电缆都穿有橡胶护套。",
+      "translated_word": "护套",
+      "display_order": 4
+    },
+    {
+      "sentence": "Some truths need a sheath; not everything is meant to cut.",
+      "style": "Philosophical",
+      "translation": "有些真相需要剑鞘；并非一切都为锋利而生。",
+      "translated_word": "剑鞘",
+      "display_order": 3
+    },
+    {
+      "sentence": "Frost clung to the sword's sheath like a second skin of silence.",
+      "style": "Poetic",
+      "translation": "霜凝于剑鞘之上，似一层无声的薄衣。",
+      "translated_word": "剑鞘",
+      "display_order": 2
+    }
+  ]
+}

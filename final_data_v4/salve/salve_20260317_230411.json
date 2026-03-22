@@ -1,0 +1,41 @@
+{
+  "word": "salve",
+  "phonetic": "/sæv/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "药膏；软膏；慰藉",
+  "examples": [
+    {
+      "sentence": "She rubbed the herbal salve into her cracked heels before bed.",
+      "style": "Contextual",
+      "translation": "她在睡前将草本药膏涂抹在干裂的脚跟上。",
+      "translated_word": "药膏",
+      "display_order": 1
+    },
+    {
+      "sentence": "A good lip salve is essential for surviving winter.",
+      "style": "Collocational",
+      "translation": "一支好用的润唇膏是度过寒冬的必需品。",
+      "translated_word": "膏",
+      "display_order": 2
+    },
+    {
+      "sentence": "Music became the only salve for a grief that words could not reach.",
+      "style": "Poetic",
+      "translation": "音乐成了唯一的慰藉，抚慰着言语无法触及的悲伤。",
+      "translated_word": "慰藉",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her laughter was a salve; it made the long shifts bearable.",
+      "style": "Intimate",
+      "translation": "她的笑声是一剂良药，让漫长的轮班变得可以忍受。",
+      "translated_word": "良药",
+      "display_order": 3
+    }
+  ]
+}

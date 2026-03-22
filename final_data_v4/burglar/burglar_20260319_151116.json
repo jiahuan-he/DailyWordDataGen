@@ -1,0 +1,40 @@
+{
+  "word": "burglar",
+  "phonetic": "/ˈbɜːrɡlər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "窃贼；入室盗贼",
+  "examples": [
+    {
+      "sentence": "The dog's barking scared off the burglar before he reached the door.",
+      "style": "Contextual",
+      "translation": "狗的狂吠把窃贼吓跑了，他还没来得及靠近门口。",
+      "translated_word": "窃贼",
+      "display_order": 1
+    },
+    {
+      "sentence": "Police apprehended the burglar linked to a string of neighborhood thefts.",
+      "style": "Formal",
+      "translation": "警方逮捕了与社区连环盗窃案有关的窃贼。",
+      "translated_word": "窃贼",
+      "display_order": 2
+    },
+    {
+      "sentence": "We installed a burglar alarm after the break-in next door.",
+      "style": "Collocational",
+      "translation": "隔壁被盗后，我们装上了防盗警报器。",
+      "translated_word": "防盗",
+      "display_order": 4
+    },
+    {
+      "sentence": "The burglar took my mother's pearls, but it was the violation of home that lingered.",
+      "style": "Intimate",
+      "translation": "窃贼偷走了母亲的珍珠，但真正挥之不去的，是家被侵犯的感觉。",
+      "translated_word": "窃贼",
+      "display_order": 3
+    }
+  ]
+}

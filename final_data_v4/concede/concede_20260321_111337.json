@@ -1,0 +1,39 @@
+{
+  "word": "concede",
+  "phonetic": "/kənˈsiːd/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "承认；让步；认输；让与",
+  "examples": [
+    {
+      "sentence": "Faced with the data, she had no choice but to concede.",
+      "style": "Contextual",
+      "translation": "面对数据，她只能承认自己错了。",
+      "translated_word": "承认",
+      "display_order": 1
+    },
+    {
+      "sentence": "The incumbent conceded the race before the final count.",
+      "style": "Formal",
+      "translation": "现任者在最终计票前承认落败。",
+      "translated_word": "承认",
+      "display_order": 3
+    },
+    {
+      "sentence": "To concede is to trade certainty for peace.",
+      "style": "Philosophical",
+      "translation": "让步，是用执念换安宁。",
+      "translated_word": "让步",
+      "display_order": 4
+    },
+    {
+      "sentence": "He conceded the argument quietly, more tired than wrong.",
+      "style": "Intimate",
+      "translation": "他默默让了步，与其说认错，不如说是累了。",
+      "translated_word": "让了步",
+      "display_order": 2
+    }
+  ]
+}

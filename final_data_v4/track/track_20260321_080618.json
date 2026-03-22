@@ -1,0 +1,40 @@
+{
+  "word": "track",
+  "phonetic": "/træk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "追踪；跟踪；记录",
+  "examples": [
+    {
+      "sentence": "The app lets you track your daily water intake.",
+      "style": "Contextual",
+      "translation": "这款应用可以记录你每天的饮水量。",
+      "translated_word": "记录",
+      "display_order": 4
+    },
+    {
+      "sentence": "Investigators tracked the shipment across three continents.",
+      "style": "Formal",
+      "translation": "调查人员跨越三大洲追踪这批货物。",
+      "translated_word": "追踪",
+      "display_order": 3
+    },
+    {
+      "sentence": "She tracks her expenses in a simple spreadsheet.",
+      "style": "Collocational",
+      "translation": "她用一张简单的表格记录开支。",
+      "translated_word": "记录",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother tracked our family recipes in a leather-bound journal.",
+      "style": "Intimate",
+      "translation": "祖母将家传菜谱一一记录在一本皮面笔记本里。",
+      "translated_word": "记录",
+      "display_order": 2
+    }
+  ]
+}

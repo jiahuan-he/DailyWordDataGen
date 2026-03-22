@@ -1,0 +1,40 @@
+{
+  "word": "buoy",
+  "phonetic": "/bɔɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使振奋；鼓舞；使漂浮",
+  "examples": [
+    {
+      "sentence": "Her quiet confidence buoyed the entire team before the presentation.",
+      "style": "Contextual",
+      "translation": "她沉静的自信在演讲前振奋了整个团队。",
+      "translated_word": "振奋",
+      "display_order": 1
+    },
+    {
+      "sentence": "Music buoys the spirit when words fall short.",
+      "style": "Poetic",
+      "translation": "当言语苍白无力时，音乐托起心灵。",
+      "translated_word": "托起",
+      "display_order": 4
+    },
+    {
+      "sentence": "Let small wins buoy you; momentum is built one step at a time.",
+      "style": "Inspirational",
+      "translation": "让小小的胜利鼓舞你；势能是一步一步积累的。",
+      "translated_word": "鼓舞",
+      "display_order": 3
+    },
+    {
+      "sentence": "His voice on the phone buoyed me through an otherwise unbearable night.",
+      "style": "Intimate",
+      "translation": "电话那头他的声音，支撑我熬过了那个难捱的夜晚。",
+      "translated_word": "支撑",
+      "display_order": 2
+    }
+  ]
+}

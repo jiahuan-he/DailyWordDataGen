@@ -1,0 +1,40 @@
+{
+  "word": "wrestling",
+  "phonetic": "/ˈrɛslɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "摔跤；角力；搏斗",
+  "examples": [
+    {
+      "sentence": "His father coached wrestling at the local high school for twenty years.",
+      "style": "Contextual",
+      "translation": "他的父亲在当地高中执教摔跤二十年。",
+      "translated_word": "摔跤",
+      "display_order": 1
+    },
+    {
+      "sentence": "Greco-Roman wrestling demands both raw power and precise technique.",
+      "style": "Collocational",
+      "translation": "古典式摔跤既需要爆发力，也讲究精准技巧。",
+      "translated_word": "摔跤",
+      "display_order": 3
+    },
+    {
+      "sentence": "The deepest wrestling happens in silence: mind against heart, fear against hope.",
+      "style": "Philosophical",
+      "translation": "最深的角力发生在无声处：理智与情感，恐惧与希望。",
+      "translated_word": "角力",
+      "display_order": 4
+    },
+    {
+      "sentence": "Those evenings watching wrestling with my father taught me more about him than any conversation.",
+      "style": "Intimate",
+      "translation": "那些与父亲一起看摔跤的夜晚，让我比任何交谈都更了解他。",
+      "translated_word": "摔跤",
+      "display_order": 2
+    }
+  ]
+}

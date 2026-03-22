@@ -1,0 +1,42 @@
+{
+  "word": "low",
+  "phonetic": "/loʊ/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "低的；矮的；低落的；少的",
+  "examples": [
+    {
+      "sentence": "The river runs low in August, exposing stones that sleep underwater all year.",
+      "style": "Contextual",
+      "translation": "八月河水低浅，露出沉睡了一整年的石头。",
+      "translated_word": "低",
+      "display_order": 2
+    },
+    {
+      "sentence": "She spoke in a low voice, as if the secret might shatter in open air.",
+      "style": "Collocational",
+      "translation": "她压低声音说话，仿佛秘密一旦暴露在空气中便会碎裂。",
+      "translated_word": "低",
+      "display_order": 1
+    },
+    {
+      "sentence": "The low points teach us what the peaks cannot: how to begin again.",
+      "style": "Philosophical",
+      "translation": "低谷教会我们高峰无法给予的东西：如何重新开始。",
+      "translated_word": "低谷",
+      "display_order": 4
+    },
+    {
+      "sentence": "On low days, I water my plants and remind myself that growth is quiet work.",
+      "style": "Intimate",
+      "translation": "情绪低落的日子里，我浇浇花草，提醒自己成长本就是静默的功课。",
+      "translated_word": "低落",
+      "display_order": 3
+    }
+  ]
+}

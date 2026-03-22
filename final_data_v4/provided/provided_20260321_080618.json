@@ -1,0 +1,40 @@
+{
+  "word": "provided",
+  "phonetic": "/prəˈvaɪdɪd/",
+  "pos": [
+    "conjunction",
+    "verb"
+  ],
+  "selected_pos": "conjunction",
+  "definition": "假如；只要；倘若",
+  "examples": [
+    {
+      "sentence": "You may leave early, provided you finish the report.",
+      "style": "Contextual",
+      "translation": "你可以早走，只要报告写完。",
+      "translated_word": "只要",
+      "display_order": 1
+    },
+    {
+      "sentence": "The agreement remains valid provided both parties consent.",
+      "style": "Formal",
+      "translation": "双方同意的前提下，协议依然有效。",
+      "translated_word": "前提下",
+      "display_order": 3
+    },
+    {
+      "sentence": "Provided that conditions improve, the project will proceed.",
+      "style": "Collocational",
+      "translation": "倘若情况好转，项目将继续推进。",
+      "translated_word": "倘若",
+      "display_order": 2
+    },
+    {
+      "sentence": "Trust grows provided we allow room for mistakes.",
+      "style": "Philosophical",
+      "translation": "信任的生长，需要容错的空间。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

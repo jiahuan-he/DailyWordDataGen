@@ -1,0 +1,40 @@
+{
+  "word": "situated",
+  "phonetic": "/ˈsɪtʃueɪtɪd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "位于；坐落的；处于某境况",
+  "examples": [
+    {
+      "sentence": "The café is situated between the old library and the river.",
+      "style": "Contextual",
+      "translation": "咖啡馆坐落在老图书馆与河流之间。",
+      "translated_word": "坐落",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new campus will be strategically situated near major transit hubs.",
+      "style": "Formal",
+      "translation": "新校区将战略性地选址于主要交通枢纽附近。",
+      "translated_word": "选址",
+      "display_order": 3
+    },
+    {
+      "sentence": "Ideally situated for commuters, the apartment sold within days.",
+      "style": "Collocational",
+      "translation": "公寓地段绝佳，通勤便利，几天内便已售出。",
+      "translated_word": "地段",
+      "display_order": 2
+    },
+    {
+      "sentence": "We are all situated somewhere between who we were and who we are becoming.",
+      "style": "Philosophical",
+      "translation": "我们都处于曾经的自己与正在成为的自己之间。",
+      "translated_word": "处于",
+      "display_order": 4
+    }
+  ]
+}

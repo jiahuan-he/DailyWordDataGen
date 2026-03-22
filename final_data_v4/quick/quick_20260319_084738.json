@@ -1,0 +1,42 @@
+{
+  "word": "quick",
+  "phonetic": "/kwɪk/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "快的；迅速的；敏捷的；短暂的",
+  "examples": [
+    {
+      "sentence": "The meeting was quick; we finished before the coffee cooled.",
+      "style": "Contextual",
+      "translation": "会议很快结束了；咖啡还没凉。",
+      "translated_word": "快",
+      "display_order": 1
+    },
+    {
+      "sentence": "She stole a quick glance at the letter before folding it away.",
+      "style": "Collocational",
+      "translation": "她飞快地瞥了一眼那封信，然后将它折好收起。",
+      "translated_word": "飞快",
+      "display_order": 2
+    },
+    {
+      "sentence": "His quick squeeze of my hand said what words couldn't.",
+      "style": "Intimate",
+      "translation": "他飞快地握了握我的手，胜过千言万语。",
+      "translated_word": "飞快",
+      "display_order": 3
+    },
+    {
+      "sentence": "A quick mind often outpaces a thorough one.",
+      "style": "Philosophical",
+      "translation": "敏捷的头脑常常胜过周全的思虑。",
+      "translated_word": "敏捷",
+      "display_order": 4
+    }
+  ]
+}

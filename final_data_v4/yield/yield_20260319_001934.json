@@ -1,0 +1,40 @@
+{
+  "word": "yield",
+  "phonetic": "/jiːld/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "产出；屈服；让步；让出",
+  "examples": [
+    {
+      "sentence": "The orchard yielded twice as much fruit after the rainy spring.",
+      "style": "Contextual",
+      "translation": "那场多雨的春天过后，果园的产量翻了一倍。",
+      "translated_word": "产量",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new trade agreement is expected to yield measurable returns by Q3.",
+      "style": "Formal",
+      "translation": "预计新贸易协定将在第三季度产生可量化的回报。",
+      "translated_word": "产生",
+      "display_order": 4
+    },
+    {
+      "sentence": "Strength is knowing when to hold firm and when to yield.",
+      "style": "Philosophical",
+      "translation": "真正的强大，是懂得何时坚守，何时退让。",
+      "translated_word": "退让",
+      "display_order": 3
+    },
+    {
+      "sentence": "He yielded the floor to her, sensing she had more to say.",
+      "style": "Collocational",
+      "translation": "他把发言权让给了她，察觉到她还有话要说。",
+      "translated_word": "让给",
+      "display_order": 2
+    }
+  ]
+}

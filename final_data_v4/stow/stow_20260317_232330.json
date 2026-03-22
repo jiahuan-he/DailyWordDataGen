@@ -1,0 +1,40 @@
+{
+  "word": "stow",
+  "phonetic": "/stəʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "收藏；存放；装载",
+  "examples": [
+    {
+      "sentence": "Please stow your bag in the overhead compartment.",
+      "style": "Contextual",
+      "translation": "请将您的包放入头顶行李舱。",
+      "translated_word": "放入",
+      "display_order": 1
+    },
+    {
+      "sentence": "She stowed the suitcase beneath the bed until spring.",
+      "style": "Collocational",
+      "translation": "她把行李箱塞到床底，等春天再用。",
+      "translated_word": "塞到",
+      "display_order": 2
+    },
+    {
+      "sentence": "All carry-on items must be securely stowed before departure.",
+      "style": "Formal",
+      "translation": "所有随身物品须在起飞前妥善存放。",
+      "translated_word": "存放",
+      "display_order": 4
+    },
+    {
+      "sentence": "Before leaving, I stowed his letters in a tin box only I could find.",
+      "style": "Intimate",
+      "translation": "离开前，我把他的信藏进一个只有我知道的铁盒里。",
+      "translated_word": "藏进",
+      "display_order": 3
+    }
+  ]
+}

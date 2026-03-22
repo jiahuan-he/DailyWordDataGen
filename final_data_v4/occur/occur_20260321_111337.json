@@ -1,0 +1,39 @@
+{
+  "word": "occur",
+  "phonetic": "/əˈkɜːr/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "发生；出现；想到",
+  "examples": [
+    {
+      "sentence": "The blackout occurred just as the ceremony began.",
+      "style": "Contextual",
+      "translation": "停电恰好发生在典礼开始的那一刻。",
+      "translated_word": "发生",
+      "display_order": 1
+    },
+    {
+      "sentence": "Similar incidents have occurred in neighboring provinces this month.",
+      "style": "Formal",
+      "translation": "本月邻近省份也发生了类似事件。",
+      "translated_word": "发生",
+      "display_order": 2
+    },
+    {
+      "sentence": "It suddenly occurred to her that she had left the door unlocked.",
+      "style": "Collocational",
+      "translation": "她突然想起自己没锁门。",
+      "translated_word": "想起",
+      "display_order": 4
+    },
+    {
+      "sentence": "Miracles occur daily; we simply forget to name them.",
+      "style": "Philosophical",
+      "translation": "奇迹每天都在发生；只是我们忘了为它们命名。",
+      "translated_word": "发生",
+      "display_order": 3
+    }
+  ]
+}

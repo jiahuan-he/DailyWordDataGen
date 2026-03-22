@@ -1,0 +1,40 @@
+{
+  "word": "dealing",
+  "phonetic": "/ˈdiːlɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "交易；往来；处理",
+  "examples": [
+    {
+      "sentence": "Fair dealing builds reputations that contracts cannot.",
+      "style": "Formal",
+      "translation": "公平交易建立的声誉，合同无法替代。",
+      "translated_word": "交易",
+      "display_order": 3
+    },
+    {
+      "sentence": "After years of dealing with that supplier, trust replaced paperwork.",
+      "style": "Contextual",
+      "translation": "与那家供应商多年往来后，信任取代了繁文缛节。",
+      "translated_word": "往来",
+      "display_order": 2
+    },
+    {
+      "sentence": "Their dealing was swift: a handshake, a price, done.",
+      "style": "Collocational",
+      "translation": "他们的交易干脆利落：握手、定价、成交。",
+      "translated_word": "交易",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every dealing leaves a trace; choose what you wish to be remembered by.",
+      "style": "Philosophical",
+      "translation": "每一次往来都会留下痕迹；选择你希望被铭记的方式。",
+      "translated_word": "往来",
+      "display_order": 4
+    }
+  ]
+}

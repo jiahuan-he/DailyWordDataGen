@@ -1,0 +1,40 @@
+{
+  "word": "charge",
+  "phonetic": "/tʃɑːrdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "收费；充电；指控；冲锋",
+  "examples": [
+    {
+      "sentence": "The gallery doesn't charge admission on Sundays.",
+      "style": "Contextual",
+      "translation": "这家画廊周日免费开放。",
+      "translated_word": "免费",
+      "display_order": 2
+    },
+    {
+      "sentence": "Federal prosecutors charged three executives with insider trading.",
+      "style": "Formal",
+      "translation": "联邦检察官以内幕交易罪起诉了三名高管。",
+      "translated_word": "起诉",
+      "display_order": 3
+    },
+    {
+      "sentence": "Remember to charge your phone overnight.",
+      "style": "Collocational",
+      "translation": "记得夜间给手机充电。",
+      "translated_word": "充电",
+      "display_order": 1
+    },
+    {
+      "sentence": "When no one else steps up, charge forward anyway.",
+      "style": "Inspirational",
+      "translation": "当无人挺身而出时，你依然要勇往直前。",
+      "translated_word": "勇往直前",
+      "display_order": 4
+    }
+  ]
+}

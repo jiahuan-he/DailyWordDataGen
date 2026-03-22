@@ -1,0 +1,39 @@
+{
+  "word": "realm",
+  "phonetic": "/relm/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "领域；王国；范围；境界",
+  "examples": [
+    {
+      "sentence": "Her research lies in the realm of artificial intelligence.",
+      "style": "Contextual",
+      "translation": "她的研究属于人工智能领域。",
+      "translated_word": "领域",
+      "display_order": 1
+    },
+    {
+      "sentence": "The allegations fall outside the realm of this investigation.",
+      "style": "Formal",
+      "translation": "这些指控超出了本次调查的范围。",
+      "translated_word": "范围",
+      "display_order": 2
+    },
+    {
+      "sentence": "Each mind inhabits a realm no other can fully enter.",
+      "style": "Philosophical",
+      "translation": "每一颗心灵都栖居于他人无法完全进入的境界。",
+      "translated_word": "境界",
+      "display_order": 3
+    },
+    {
+      "sentence": "Dreams unlock a realm where gravity forgets its rules.",
+      "style": "Poetic",
+      "translation": "梦境开启了一个重力失效的世界。",
+      "translated_word": "世界",
+      "display_order": 4
+    }
+  ]
+}

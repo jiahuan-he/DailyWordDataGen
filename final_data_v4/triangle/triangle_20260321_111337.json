@@ -1,0 +1,39 @@
+{
+  "word": "triangle",
+  "phonetic": "/ˈtraɪæŋɡl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "三角形；三角关系；三角铁",
+  "examples": [
+    {
+      "sentence": "The child drew a triangle and called it a mountain.",
+      "style": "Contextual",
+      "translation": "孩子画了一个三角形，说那是一座山。",
+      "translated_word": "三角形",
+      "display_order": 1
+    },
+    {
+      "sentence": "No one escapes a love triangle unscathed.",
+      "style": "Collocational",
+      "translation": "没有人能从三角恋中全身而退。",
+      "translated_word": "三角",
+      "display_order": 2
+    },
+    {
+      "sentence": "Three points, three tensions: every triangle is a study in balance.",
+      "style": "Philosophical",
+      "translation": "三个点，三种张力：每个三角形都是关于平衡的功课。",
+      "translated_word": "三角形",
+      "display_order": 3
+    },
+    {
+      "sentence": "Geese crossed the evening sky in a shifting triangle, writing their way south.",
+      "style": "Poetic",
+      "translation": "雁群以变幻的三角队形划过暮色，向南书写归途。",
+      "translated_word": "三角",
+      "display_order": 4
+    }
+  ]
+}

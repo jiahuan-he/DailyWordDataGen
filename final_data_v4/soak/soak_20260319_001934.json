@@ -1,0 +1,40 @@
+{
+  "word": "soak",
+  "phonetic": "/soʊk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "浸泡；浸透；吸收",
+  "examples": [
+    {
+      "sentence": "The dried beans need to soak overnight before cooking.",
+      "style": "Contextual",
+      "translation": "干豆子需要浸泡一夜才能烹煮。",
+      "translated_word": "浸泡",
+      "display_order": 2
+    },
+    {
+      "sentence": "She soaked up the morning sun on her balcony.",
+      "style": "Collocational",
+      "translation": "她在阳台上沐浴着晨光。",
+      "translated_word": "沐浴",
+      "display_order": 3
+    },
+    {
+      "sentence": "Let the silence soak into your bones.",
+      "style": "Poetic",
+      "translation": "让寂静浸入骨髓。",
+      "translated_word": "浸入",
+      "display_order": 4
+    },
+    {
+      "sentence": "We soaked in the hot spring until the stars came out.",
+      "style": "Intimate",
+      "translation": "我们泡在温泉里，直到星星升起。",
+      "translated_word": "泡",
+      "display_order": 1
+    }
+  ]
+}

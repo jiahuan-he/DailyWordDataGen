@@ -1,0 +1,39 @@
+{
+  "word": "horrific",
+  "phonetic": "/həˈrɪfɪk/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "骇人的；恐怖的；可怕的",
+  "examples": [
+    {
+      "sentence": "The report detailed horrific conditions inside the facility.",
+      "style": "Formal",
+      "translation": "报告详述了设施内骇人听闻的状况。",
+      "translated_word": "骇人听闻",
+      "display_order": 2
+    },
+    {
+      "sentence": "The crash scene was horrific; paramedics worked in stunned silence.",
+      "style": "Contextual",
+      "translation": "车祸现场惨不忍睹；急救人员在沉默中施救。",
+      "translated_word": "惨不忍睹",
+      "display_order": 1
+    },
+    {
+      "sentence": "A horrific stillness blanketed the town after the storm passed.",
+      "style": "Poetic",
+      "translation": "风暴过后，一种可怖的寂静笼罩着小镇。",
+      "translated_word": "可怖",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we find horrific reveals what we hold sacred.",
+      "style": "Philosophical",
+      "translation": "令我们震骇之物，往往映照出我们所珍视之物。",
+      "translated_word": "震骇",
+      "display_order": 4
+    }
+  ]
+}

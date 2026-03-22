@@ -1,0 +1,39 @@
+{
+  "word": "donor",
+  "phonetic": "/ˈdoʊnər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "捐赠者；捐献人；赠与者",
+  "examples": [
+    {
+      "sentence": "The hospital urgently needs blood donors this week.",
+      "style": "Contextual",
+      "translation": "医院本周急需献血者。",
+      "translated_word": "献血者",
+      "display_order": 1
+    },
+    {
+      "sentence": "An anonymous donor contributed three million to the scholarship fund.",
+      "style": "Formal",
+      "translation": "一位匿名捐赠者向奖学金基金捐赠了三百万美元。",
+      "translated_word": "捐赠者",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every donor carries a quiet faith that their gift will outlive them.",
+      "style": "Philosophical",
+      "translation": "每位捐赠者都怀着一份静默的信念：他们的馈赠将比自己更长久。",
+      "translated_word": "捐赠者",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her heart beats in another chest now; she became a donor at seventeen.",
+      "style": "Intimate",
+      "translation": "她的心脏如今在另一个人的胸腔里跳动；她十七岁时成为了器官捐献者。",
+      "translated_word": "捐献者",
+      "display_order": 3
+    }
+  ]
+}

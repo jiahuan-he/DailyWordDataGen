@@ -1,0 +1,39 @@
+{
+  "word": "malpractice",
+  "phonetic": "/mælˈpræktɪs/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "渎职；失职行为；医疗事故",
+  "examples": [
+    {
+      "sentence": "The surgeon lost his license after the malpractice lawsuit.",
+      "style": "Contextual",
+      "translation": "那场医疗事故诉讼之后，这位外科医生丢了执照。",
+      "translated_word": "医疗事故",
+      "display_order": 1
+    },
+    {
+      "sentence": "Three witnesses testified at the malpractice hearing yesterday.",
+      "style": "Formal",
+      "translation": "三名证人昨日在渎职听证会上出庭作证。",
+      "translated_word": "渎职",
+      "display_order": 2
+    },
+    {
+      "sentence": "A mistake is human; malpractice is a betrayal of expertise.",
+      "style": "Contrastive",
+      "translation": "失误是人之常情；渎职却是对专业的背叛。",
+      "translated_word": "渎职",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every malpractice begins where accountability ends.",
+      "style": "Philosophical",
+      "translation": "失职的起点，正是责任消失之处。",
+      "translated_word": "失职",
+      "display_order": 4
+    }
+  ]
+}

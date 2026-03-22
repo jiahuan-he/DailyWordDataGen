@@ -1,0 +1,40 @@
+{
+  "word": "policy",
+  "phonetic": "/ˈpɑːləsi/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "政策；方针；保单；原则",
+  "examples": [
+    {
+      "sentence": "The new immigration policy takes effect next month.",
+      "style": "Formal",
+      "translation": "新的移民政策将于下月生效。",
+      "translated_word": "政策",
+      "display_order": 1
+    },
+    {
+      "sentence": "Company policy requires a two-week notice before resignation.",
+      "style": "Contextual",
+      "translation": "公司规定离职须提前两周通知。",
+      "translated_word": "规定",
+      "display_order": 3
+    },
+    {
+      "sentence": "He updated his life insurance policy after the baby was born.",
+      "style": "Collocational",
+      "translation": "孩子出生后，他更新了人寿保单。",
+      "translated_word": "保单",
+      "display_order": 2
+    },
+    {
+      "sentence": "A policy shapes behavior long after its authors are forgotten.",
+      "style": "Philosophical",
+      "translation": "政策塑造行为的力量，远比制定者的名字更持久。",
+      "translated_word": "政策",
+      "display_order": 4
+    }
+  ]
+}

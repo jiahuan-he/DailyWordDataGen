@@ -1,0 +1,40 @@
+{
+  "word": "incinerate",
+  "phonetic": "/ɪnˈsɪnəreɪt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "焚烧；烧毁；化为灰烬",
+  "examples": [
+    {
+      "sentence": "The wildfire incinerated the cabin in minutes, leaving only ash.",
+      "style": "Contextual",
+      "translation": "野火几分钟内便将木屋焚毁，只余灰烬。",
+      "translated_word": "焚毁",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new facility incinerates over 200 tons of medical waste daily.",
+      "style": "Formal",
+      "translation": "新设施每日焚烧处理逾两百吨医疗废弃物。",
+      "translated_word": "焚烧",
+      "display_order": 2
+    },
+    {
+      "sentence": "Dawn incinerates the fog; the valley slowly reveals itself.",
+      "style": "Poetic",
+      "translation": "晨曦焚尽薄雾，山谷渐次显露。",
+      "translated_word": "焚尽",
+      "display_order": 4
+    },
+    {
+      "sentence": "To move forward, incinerate the letters, the photographs, the what-ifs.",
+      "style": "Philosophical",
+      "translation": "若要向前，就焚毁那些信件、照片，和所有的假如。",
+      "translated_word": "焚毁",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "meet",
+  "phonetic": "/miːt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "遇见；会见；结识；迎接",
+  "examples": [
+    {
+      "sentence": "We met for coffee near the old bookstore.",
+      "style": "Contextual",
+      "translation": "我们约在旧书店附近喝咖啡。",
+      "translated_word": "约",
+      "display_order": 1
+    },
+    {
+      "sentence": "She met every challenge with quiet resolve.",
+      "style": "Collocational",
+      "translation": "她以沉静的决心迎接每一次挑战。",
+      "translated_word": "迎接",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some people meet once and change each other forever.",
+      "style": "Philosophical",
+      "translation": "有些人只见一面，却彼此改变了一生。",
+      "translated_word": "见",
+      "display_order": 4
+    },
+    {
+      "sentence": "The day I met you, the city felt smaller somehow.",
+      "style": "Intimate",
+      "translation": "遇见你那天，整座城市忽然变得不那么大了。",
+      "translated_word": "遇见",
+      "display_order": 2
+    }
+  ]
+}

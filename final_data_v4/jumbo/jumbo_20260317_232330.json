@@ -1,0 +1,40 @@
+{
+  "word": "jumbo",
+  "phonetic": "/ˈdʒʌmboʊ/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "巨大的；特大号的；超大的",
+  "examples": [
+    {
+      "sentence": "The jumbo popcorn barely fit in the cup holder.",
+      "style": "Contextual",
+      "translation": "这桶巨型爆米花几乎塞不进杯架里。",
+      "translated_word": "巨型",
+      "display_order": 1
+    },
+    {
+      "sentence": "She ordered the jumbo shrimp, crispy and golden.",
+      "style": "Collocational",
+      "translation": "她点了特大虾，外酥金黄。",
+      "translated_word": "特大",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather always bought me jumbo crayons; he said small hands need big dreams.",
+      "style": "Intimate",
+      "translation": "爷爷总给我买特大号蜡笔，他说小手要画大梦想。",
+      "translated_word": "特大号",
+      "display_order": 2
+    },
+    {
+      "sentence": "The regular feeds one; the jumbo feeds a family.",
+      "style": "Contrastive",
+      "translation": "普通份够一人，特大份够全家。",
+      "translated_word": "特大份",
+      "display_order": 3
+    }
+  ]
+}

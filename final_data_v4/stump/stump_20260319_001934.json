@@ -1,0 +1,40 @@
+{
+  "word": "stump",
+  "phonetic": "/stʌmp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "难住；使困惑；难倒",
+  "examples": [
+    {
+      "sentence": "The final riddle stumped everyone in the escape room.",
+      "style": "Contextual",
+      "translation": "最后那道谜题难住了密室里的每一个人。",
+      "translated_word": "难住",
+      "display_order": 1
+    },
+    {
+      "sentence": "Even the experts were stumped by the unusual symptoms.",
+      "style": "Collocational",
+      "translation": "连专家都被这些罕见的症状难倒了。",
+      "translated_word": "难倒",
+      "display_order": 3
+    },
+    {
+      "sentence": "The questions that stump us often reveal where our certainties end.",
+      "style": "Philosophical",
+      "translation": "那些令我们困惑的问题，往往揭示了确信的边界。",
+      "translated_word": "困惑",
+      "display_order": 4
+    },
+    {
+      "sentence": "She asked what I wanted from life, and I was completely stumped.",
+      "style": "Intimate",
+      "translation": "她问我想从生活中得到什么，我一时语塞。",
+      "translated_word": "语塞",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "informer",
+  "phonetic": "/ɪnˈfɔːrmər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "告密者；线人；举报人",
+  "examples": [
+    {
+      "sentence": "The police caught the gang thanks to an informer inside the organization.",
+      "style": "Contextual",
+      "translation": "警方得以破获该团伙，全靠组织内部的一名线人。",
+      "translated_word": "线人",
+      "display_order": 1
+    },
+    {
+      "sentence": "The investigation relied heavily on testimony from a protected informer.",
+      "style": "Formal",
+      "translation": "此次调查在很大程度上依赖于一名受保护线人的证词。",
+      "translated_word": "线人",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every informer carries two burdens: the truth they reveal and the trust they break.",
+      "style": "Philosophical",
+      "translation": "每个告密者都背负着双重重担：他们揭露的真相，与他们辜负的信任。",
+      "translated_word": "告密者",
+      "display_order": 4
+    },
+    {
+      "sentence": "He was my closest friend until I learned he'd been the informer all along.",
+      "style": "Intimate",
+      "translation": "他曾是我最亲密的朋友，直到我发现他一直是那个告密者。",
+      "translated_word": "告密者",
+      "display_order": 2
+    }
+  ]
+}

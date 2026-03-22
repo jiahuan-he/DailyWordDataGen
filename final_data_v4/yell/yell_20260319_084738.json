@@ -1,0 +1,41 @@
+{
+  "word": "yell",
+  "phonetic": "/jel/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "大喊；吼叫；呼喊",
+  "examples": [
+    {
+      "sentence": "The lifeguard yelled, and every swimmer froze.",
+      "style": "Contextual",
+      "translation": "救生员一声大喊，所有泳者瞬间静止。",
+      "translated_word": "大喊",
+      "display_order": 1
+    },
+    {
+      "sentence": "He yelled for help until his voice gave out.",
+      "style": "Collocational",
+      "translation": "他拼命呼救，直到声音嘶哑。",
+      "translated_word": "呼救",
+      "display_order": 3
+    },
+    {
+      "sentence": "My mother only yelled my full name when I was in real trouble.",
+      "style": "Intimate",
+      "translation": "母亲只有在我真正闯祸时，才会喊出我的全名。",
+      "translated_word": "喊",
+      "display_order": 2
+    },
+    {
+      "sentence": "The storm yelled across the rooftops, demanding to be heard.",
+      "style": "Poetic",
+      "translation": "暴风雨在屋顶上怒吼，执意要被听见。",
+      "translated_word": "怒吼",
+      "display_order": 4
+    }
+  ]
+}

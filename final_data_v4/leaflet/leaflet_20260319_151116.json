@@ -1,0 +1,40 @@
+{
+  "word": "leaflet",
+  "phonetic": "/ˈliːflɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "传单；小册子；宣传页",
+  "examples": [
+    {
+      "sentence": "A volunteer pressed a leaflet into my hand outside the metro station.",
+      "style": "Contextual",
+      "translation": "地铁站外，一位志愿者将一张传单塞进我手中。",
+      "translated_word": "传单",
+      "display_order": 2
+    },
+    {
+      "sentence": "She picked up a leaflet about the art exhibition from the front desk.",
+      "style": "Collocational",
+      "translation": "她从前台拿起一张关于艺术展的宣传页。",
+      "translated_word": "宣传页",
+      "display_order": 1
+    },
+    {
+      "sentence": "The faded leaflet from our first concert still marks page forty-two of my journal.",
+      "style": "Intimate",
+      "translation": "那张褪色的传单，来自我们的第一场音乐会，至今仍夹在我日记本的第四十二页。",
+      "translated_word": "传单",
+      "display_order": 4
+    },
+    {
+      "sentence": "Authorities distributed emergency leaflets to residents in the flood-affected areas.",
+      "style": "Formal",
+      "translation": "当局向洪灾地区的居民分发了紧急宣传单。",
+      "translated_word": "宣传单",
+      "display_order": 3
+    }
+  ]
+}

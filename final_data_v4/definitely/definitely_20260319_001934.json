@@ -1,0 +1,39 @@
+{
+  "word": "definitely",
+  "phonetic": "/ˈdefɪnətli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "肯定地；当然；绝对",
+  "examples": [
+    {
+      "sentence": "This place is definitely worth the two-hour drive.",
+      "style": "Contextual",
+      "translation": "这个地方绝对值得开两小时的车。",
+      "translated_word": "绝对",
+      "display_order": 1
+    },
+    {
+      "sentence": "She will definitely call back; she always does.",
+      "style": "Collocational",
+      "translation": "她肯定会回电话的；她一向如此。",
+      "translated_word": "肯定",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some doors close so the right ones can definitely open.",
+      "style": "Inspirational",
+      "translation": "有些门关上，是为了让对的门真正打开。",
+      "translated_word": "真正",
+      "display_order": 4
+    },
+    {
+      "sentence": "That summer changed me, definitely for the better.",
+      "style": "Intimate",
+      "translation": "那个夏天改变了我，往好的方向，毫无疑问。",
+      "translated_word": "毫无疑问",
+      "display_order": 3
+    }
+  ]
+}

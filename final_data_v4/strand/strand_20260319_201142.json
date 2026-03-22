@@ -1,0 +1,40 @@
+{
+  "word": "strand",
+  "phonetic": "/strænd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "一缕；一股；线索；要素",
+  "examples": [
+    {
+      "sentence": "She tucked a loose strand behind her ear and smiled.",
+      "style": "Contextual",
+      "translation": "她把一缕散落的头发别到耳后，微微一笑。",
+      "translated_word": "缕",
+      "display_order": 1
+    },
+    {
+      "sentence": "Morning dew clung to each strand of the spider's web, turning silk to glass.",
+      "style": "Poetic",
+      "translation": "晨露凝于蛛网的每一丝纤维，将丝化作了琉璃。",
+      "translated_word": "丝",
+      "display_order": 4
+    },
+    {
+      "sentence": "The detective found a single strand of hair at the scene.",
+      "style": "Collocational",
+      "translation": "侦探在现场发现了一根头发丝。",
+      "translated_word": "丝",
+      "display_order": 2
+    },
+    {
+      "sentence": "My mother kept a silver strand from her wedding veil; now it rests in my jewelry box.",
+      "style": "Intimate",
+      "translation": "母亲珍藏着婚纱上的一缕银丝；如今它静静躺在我的首饰盒里。",
+      "translated_word": "缕",
+      "display_order": 3
+    }
+  ]
+}

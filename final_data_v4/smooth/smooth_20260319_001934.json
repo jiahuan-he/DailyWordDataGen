@@ -1,0 +1,42 @@
+{
+  "word": "smooth",
+  "phonetic": "/smuːð/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "光滑；平滑；顺畅；圆滑",
+  "examples": [
+    {
+      "sentence": "The lake stretched smooth and still, mirroring the mountains.",
+      "style": "Contextual",
+      "translation": "湖面平滑如镜，倒映着群山。",
+      "translated_word": "平滑",
+      "display_order": 1
+    },
+    {
+      "sentence": "A smooth transition takes both patience and practice.",
+      "style": "Collocational",
+      "translation": "顺畅的过渡需要耐心与练习。",
+      "translated_word": "顺畅",
+      "display_order": 4
+    },
+    {
+      "sentence": "Moonlight rested on the smooth stones, pale and ancient.",
+      "style": "Poetic",
+      "translation": "月光栖息于光滑的石上，苍白而古老。",
+      "translated_word": "光滑",
+      "display_order": 3
+    },
+    {
+      "sentence": "Touching her cheek, I found it smooth and warm from sleep.",
+      "style": "Intimate",
+      "translation": "触碰她的脸颊，光滑而温热，带着睡意的余温。",
+      "translated_word": "光滑",
+      "display_order": 2
+    }
+  ]
+}

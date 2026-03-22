@@ -1,0 +1,40 @@
+{
+  "word": "hatch",
+  "phonetic": "/hætʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "孵化；破壳；策划；酝酿",
+  "examples": [
+    {
+      "sentence": "The eggs will hatch by morning if the nest stays warm.",
+      "style": "Contextual",
+      "translation": "若鸟巢保持温暖，蛋将在清晨孵化。",
+      "translated_word": "孵化",
+      "display_order": 1
+    },
+    {
+      "sentence": "They hatched a plan over cold coffee and paper napkins.",
+      "style": "Collocational",
+      "translation": "他们就着凉透的咖啡和纸巾，悄悄策划起来。",
+      "translated_word": "策划",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some dreams need years in the dark before they hatch.",
+      "style": "Philosophical",
+      "translation": "有些梦想需要在暗处酝酿多年，才能破壳而出。",
+      "translated_word": "破壳而出",
+      "display_order": 4
+    },
+    {
+      "sentence": "Spring arrived, and the pond hatched with tiny lives.",
+      "style": "Poetic",
+      "translation": "春至，池塘里孵出了细碎的生命。",
+      "translated_word": "孵出",
+      "display_order": 2
+    }
+  ]
+}

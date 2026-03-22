@@ -1,0 +1,39 @@
+{
+  "word": "comprehend",
+  "phonetic": "/ˌkɑːmprɪˈhend/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "理解；领悟；领会",
+  "examples": [
+    {
+      "sentence": "She read the passage twice before she could fully comprehend its meaning.",
+      "style": "Contextual",
+      "translation": "她把那段话读了两遍，才完全理解其中的含义。",
+      "translated_word": "理解",
+      "display_order": 1
+    },
+    {
+      "sentence": "The scale of the universe is difficult for the human mind to comprehend.",
+      "style": "Philosophical",
+      "translation": "宇宙之浩瀚，人类的心智难以企及。",
+      "translated_word": "企及",
+      "display_order": 4
+    },
+    {
+      "sentence": "Analysts are still working to comprehend the full implications of the policy shift.",
+      "style": "Formal",
+      "translation": "分析人士仍在努力理解这一政策转变的全部影响。",
+      "translated_word": "理解",
+      "display_order": 3
+    },
+    {
+      "sentence": "At sixteen, I could not comprehend why he left; at thirty, I finally do.",
+      "style": "Intimate",
+      "translation": "十六岁时，我无法理解他为何离开；三十岁时，终于懂了。",
+      "translated_word": "理解",
+      "display_order": 2
+    }
+  ]
+}

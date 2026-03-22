@@ -1,0 +1,39 @@
+{
+  "word": "stressful",
+  "phonetic": "/ˈstresfl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "压力大的；紧张的；令人焦虑的",
+  "examples": [
+    {
+      "sentence": "The week before finals is always stressful.",
+      "style": "Contextual",
+      "translation": "期末考试前的那一周总是压力最大的。",
+      "translated_word": "压力最大",
+      "display_order": 1
+    },
+    {
+      "sentence": "She left her stressful job for a quieter life.",
+      "style": "Collocational",
+      "translation": "她辞去了那份压力巨大的工作，去寻找更平静的生活。",
+      "translated_word": "压力巨大",
+      "display_order": 2
+    },
+    {
+      "sentence": "Those stressful nights taught me resilience.",
+      "style": "Intimate",
+      "translation": "那些焦灼的夜晚教会了我坚韧。",
+      "translated_word": "焦灼",
+      "display_order": 3
+    },
+    {
+      "sentence": "Stressful seasons reveal our true priorities.",
+      "style": "Philosophical",
+      "translation": "压力最大的时刻，往往让我们看清真正重要的事。",
+      "translated_word": "压力最大",
+      "display_order": 4
+    }
+  ]
+}

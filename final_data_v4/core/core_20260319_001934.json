@@ -1,0 +1,40 @@
+{
+  "word": "core",
+  "phonetic": "/kɔːr/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "核心；本质；要点",
+  "examples": [
+    {
+      "sentence": "Her kindness is the core of who she is.",
+      "style": "Contextual",
+      "translation": "善良是她最本真的特质。",
+      "translated_word": "本真",
+      "display_order": 2
+    },
+    {
+      "sentence": "The committee will examine the core principles of the proposal.",
+      "style": "Formal",
+      "translation": "委员会将审议该提案的核心原则。",
+      "translated_word": "核心",
+      "display_order": 1
+    },
+    {
+      "sentence": "Peel away the layers, and you find the core unchanged.",
+      "style": "Philosophical",
+      "translation": "层层剥开，内核依然如故。",
+      "translated_word": "内核",
+      "display_order": 4
+    },
+    {
+      "sentence": "At its core, the debate is about fairness.",
+      "style": "Collocational",
+      "translation": "归根结底，这场争论关乎公平。",
+      "translated_word": "根",
+      "display_order": 3
+    }
+  ]
+}

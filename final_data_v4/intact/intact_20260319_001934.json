@@ -1,0 +1,39 @@
+{
+  "word": "intact",
+  "phonetic": "/ɪnˈtækt/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "完整的；完好的；未受损的",
+  "examples": [
+    {
+      "sentence": "After the storm, the lighthouse stood intact.",
+      "style": "Contextual",
+      "translation": "暴风雨过后，灯塔依然完好。",
+      "translated_word": "完好",
+      "display_order": 2
+    },
+    {
+      "sentence": "The frame cracked, but the photograph inside remained intact.",
+      "style": "Contrastive",
+      "translation": "相框碎了，里面的照片却完好无损。",
+      "translated_word": "完好无损",
+      "display_order": 1
+    },
+    {
+      "sentence": "We survive many things; we do not always leave intact.",
+      "style": "Philosophical",
+      "translation": "我们熬过许多事，却未必能全身而退。",
+      "translated_word": "全身而退",
+      "display_order": 4
+    },
+    {
+      "sentence": "Years later, I found the letter, its seal still intact.",
+      "style": "Intimate",
+      "translation": "多年后，我找到那封信，封蜡依旧完好。",
+      "translated_word": "完好",
+      "display_order": 3
+    }
+  ]
+}

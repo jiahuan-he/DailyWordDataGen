@@ -1,0 +1,39 @@
+{
+  "word": "vehicle",
+  "phonetic": "/ˈviːɪkl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "车辆；交通工具；媒介；载体",
+  "examples": [
+    {
+      "sentence": "The vehicle slowed to a stop as children crossed the street.",
+      "style": "Contextual",
+      "translation": "车辆缓缓停下，让孩子们穿过街道。",
+      "translated_word": "车辆",
+      "display_order": 1
+    },
+    {
+      "sentence": "All vehicles entering the facility are subject to inspection.",
+      "style": "Formal",
+      "translation": "所有进入该设施的车辆须接受检查。",
+      "translated_word": "车辆",
+      "display_order": 3
+    },
+    {
+      "sentence": "Electric vehicles have become the new standard for urban commuting.",
+      "style": "Collocational",
+      "translation": "电动汽车已成为城市通勤的新标准。",
+      "translated_word": "汽车",
+      "display_order": 2
+    },
+    {
+      "sentence": "Music can be a vehicle for emotions that silence cannot hold.",
+      "style": "Philosophical",
+      "translation": "音乐是沉默无法承载的情感的载体。",
+      "translated_word": "载体",
+      "display_order": 4
+    }
+  ]
+}

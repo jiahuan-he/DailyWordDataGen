@@ -1,0 +1,40 @@
+{
+  "word": "thrust",
+  "phonetic": "/θrʌst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "推；刺；猛推；强加",
+  "examples": [
+    {
+      "sentence": "He thrust his hands into his pockets against the cold.",
+      "style": "Contextual",
+      "translation": "他把双手插进口袋，抵御寒意。",
+      "translated_word": "插进",
+      "display_order": 1
+    },
+    {
+      "sentence": "The young diplomat was thrust into negotiations with no warning.",
+      "style": "Formal",
+      "translation": "这位年轻外交官毫无预警地被推上了谈判桌。",
+      "translated_word": "被推上",
+      "display_order": 2
+    },
+    {
+      "sentence": "Spring thrusts green through the last crust of snow.",
+      "style": "Poetic",
+      "translation": "春意破雪而出，绿意盎然。",
+      "translated_word": "破雪而出",
+      "display_order": 4
+    },
+    {
+      "sentence": "One viral post thrust her into the spotlight overnight.",
+      "style": "Collocational",
+      "translation": "一条爆款帖子让她一夜成名。",
+      "translated_word": null,
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "choice",
+  "phonetic": "/tʃɔɪs/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "选择；抉择；选项；精选",
+  "examples": [
+    {
+      "sentence": "With three strong candidates, the final choice took weeks.",
+      "style": "Contextual",
+      "translation": "三位候选人都很优秀，最终的抉择花了数周时间。",
+      "translated_word": "抉择",
+      "display_order": 1
+    },
+    {
+      "sentence": "The hardest choices rarely feel like choices at all.",
+      "style": "Philosophical",
+      "translation": "最艰难的选择，往往不觉得是选择。",
+      "translated_word": "选择",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every morning is a fresh choice to begin again.",
+      "style": "Inspirational",
+      "translation": "每个清晨都是一次重新开始的选择。",
+      "translated_word": "选择",
+      "display_order": 3
+    },
+    {
+      "sentence": "That summer, one small choice quietly rerouted my entire life.",
+      "style": "Intimate",
+      "translation": "那年夏天，一个小小的选择悄然改写了我的人生轨迹。",
+      "translated_word": "选择",
+      "display_order": 2
+    }
+  ]
+}

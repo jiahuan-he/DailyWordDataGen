@@ -1,0 +1,40 @@
+{
+  "word": "assist",
+  "phonetic": "/əˈsɪst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "帮助；协助；援助",
+  "examples": [
+    {
+      "sentence": "The librarian assisted me in finding a rare first edition.",
+      "style": "Contextual",
+      "translation": "图书管理员帮我找到了一本珍贵的初版书。",
+      "translated_word": "帮",
+      "display_order": 1
+    },
+    {
+      "sentence": "Relief teams assisted thousands of displaced residents after the earthquake.",
+      "style": "Formal",
+      "translation": "地震后，救援队伍协助了数千名流离失所的居民。",
+      "translated_word": "协助",
+      "display_order": 2
+    },
+    {
+      "sentence": "He assisted with the surgery: steady hands and sharp focus.",
+      "style": "Collocational",
+      "translation": "他协助完成了手术：双手沉稳，目光专注。",
+      "translated_word": "协助",
+      "display_order": 3
+    },
+    {
+      "sentence": "To assist another is to light a path you may never walk.",
+      "style": "Inspirational",
+      "translation": "帮助他人，是照亮一条你或许永不踏足的路。",
+      "translated_word": "帮助",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "nice",
+  "phonetic": "/naɪs/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "美好；友善；宜人；精细",
+  "examples": [
+    {
+      "sentence": "She said something nice, and it changed my whole afternoon.",
+      "style": "Contextual",
+      "translation": "她说了句暖心的话，整个下午都亮堂起来。",
+      "translated_word": "暖心",
+      "display_order": 1
+    },
+    {
+      "sentence": "It's nice to finally put a face to the name.",
+      "style": "Collocational",
+      "translation": "久仰大名，今日终得一见。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother kept nice stationery for letters she never sent.",
+      "style": "Intimate",
+      "translation": "外婆珍藏着精美的信纸，却从未寄出一封信。",
+      "translated_word": "精美",
+      "display_order": 2
+    },
+    {
+      "sentence": "Being nice costs nothing, yet few can afford it.",
+      "style": "Philosophical",
+      "translation": "待人友善本无代价，能做到的人却寥寥无几。",
+      "translated_word": "友善",
+      "display_order": 3
+    }
+  ]
+}

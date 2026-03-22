@@ -1,0 +1,40 @@
+{
+  "word": "staggered",
+  "phonetic": "/ˈstæɡərd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "交错的；错开的；参差的",
+  "examples": [
+    {
+      "sentence": "The bookshelves were mounted at staggered heights along the wall.",
+      "style": "Contextual",
+      "translation": "书架沿墙高低错落地排列着。",
+      "translated_word": "错落",
+      "display_order": 1
+    },
+    {
+      "sentence": "The hospital introduced staggered visiting hours to reduce crowding.",
+      "style": "Formal",
+      "translation": "医院推行错时探视制度，以减少人员聚集。",
+      "translated_word": "错时",
+      "display_order": 4
+    },
+    {
+      "sentence": "Staggered payments made the renovation finally affordable.",
+      "style": "Collocational",
+      "translation": "分期付款让这次装修终于变得可以承受。",
+      "translated_word": "分期",
+      "display_order": 3
+    },
+    {
+      "sentence": "Our staggered schedules meant dinner together was a small victory.",
+      "style": "Intimate",
+      "translation": "我们的作息总是错开，能一起吃顿晚饭便是小小的胜利。",
+      "translated_word": "错开",
+      "display_order": 2
+    }
+  ]
+}

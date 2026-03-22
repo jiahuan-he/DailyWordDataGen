@@ -1,0 +1,41 @@
+{
+  "word": "check",
+  "phonetic": "/tʃek/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "检查；核对；查看；抑制",
+  "examples": [
+    {
+      "sentence": "She checked her phone three times before boarding the plane.",
+      "style": "Contextual",
+      "translation": "登机前，她看了三遍手机。",
+      "translated_word": "看",
+      "display_order": 2
+    },
+    {
+      "sentence": "Always check the expiration date before you buy.",
+      "style": "Collocational",
+      "translation": "购买前务必核对保质期。",
+      "translated_word": "核对",
+      "display_order": 1
+    },
+    {
+      "sentence": "Border officials will check all travel documents upon entry.",
+      "style": "Formal",
+      "translation": "边境官员将在入境时查验所有旅行证件。",
+      "translated_word": "查验",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother still checks if I've eaten, every single call.",
+      "style": "Intimate",
+      "translation": "每次通话，外婆总要问我吃了没有。",
+      "translated_word": "问",
+      "display_order": 4
+    }
+  ]
+}

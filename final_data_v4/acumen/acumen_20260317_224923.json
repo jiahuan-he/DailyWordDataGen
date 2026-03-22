@@ -1,0 +1,39 @@
+{
+  "word": "acumen",
+  "phonetic": "/əˈkjuːmən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "敏锐；洞察力；精明",
+  "examples": [
+    {
+      "sentence": "Her financial acumen earned her a seat on the board before forty.",
+      "style": "Formal",
+      "translation": "凭借过人的财务洞察力，她不到四十便跻身董事会。",
+      "translated_word": "洞察力",
+      "display_order": 1
+    },
+    {
+      "sentence": "Business acumen can be learned, but it cannot be rushed.",
+      "style": "Collocational",
+      "translation": "商业头脑可以习得，却急不来。",
+      "translated_word": "头脑",
+      "display_order": 3
+    },
+    {
+      "sentence": "Acumen is not about seeing more; it is about seeing what matters.",
+      "style": "Philosophical",
+      "translation": "敏锐并非看得更多，而是看见关键所在。",
+      "translated_word": "敏锐",
+      "display_order": 4
+    },
+    {
+      "sentence": "He lacked the acumen to sense the deal was slipping away.",
+      "style": "Contextual",
+      "translation": "他缺乏洞察力，没能察觉这笔交易正在悄然失控。",
+      "translated_word": "洞察力",
+      "display_order": 2
+    }
+  ]
+}

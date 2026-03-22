@@ -1,0 +1,41 @@
+{
+  "word": "boring",
+  "phonetic": "/ˈbɔːrɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "无聊的；乏味的；单调的",
+  "examples": [
+    {
+      "sentence": "The lecture was boring, so she sketched flowers in her notebook.",
+      "style": "Contextual",
+      "translation": "讲座太无聊，她便在笔记本上画起了花。",
+      "translated_word": "无聊",
+      "display_order": 1
+    },
+    {
+      "sentence": "A predictable life isn't boring; it's a canvas waiting for small joys.",
+      "style": "Contrastive",
+      "translation": "可预见的生活并非无聊；它是等待小确幸点缀的画布。",
+      "translated_word": "无聊",
+      "display_order": 3
+    },
+    {
+      "sentence": "My hometown felt boring at eighteen; now I miss its stillness.",
+      "style": "Intimate",
+      "translation": "十八岁时觉得家乡无聊；如今却怀念那份宁静。",
+      "translated_word": "无聊",
+      "display_order": 2
+    },
+    {
+      "sentence": "Boring moments are just invitations to look more closely.",
+      "style": "Philosophical",
+      "translation": "无聊的时刻，不过是凝视更深处的邀请。",
+      "translated_word": "无聊",
+      "display_order": 4
+    }
+  ]
+}

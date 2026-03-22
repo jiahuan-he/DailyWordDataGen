@@ -1,0 +1,39 @@
+{
+  "word": "dubious",
+  "phonetic": "/ˈduːbiəs/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "可疑的；怀疑的；靠不住的",
+  "examples": [
+    {
+      "sentence": "She gave him a dubious look when he claimed to have read the entire book overnight.",
+      "style": "Contextual",
+      "translation": "他声称一夜读完整本书，她投去怀疑的目光。",
+      "translated_word": "怀疑",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company's dubious accounting practices triggered a federal investigation.",
+      "style": "Formal",
+      "translation": "该公司可疑的会计操作引发了联邦调查。",
+      "translated_word": "可疑",
+      "display_order": 2
+    },
+    {
+      "sentence": "Being called the office's 'most improved' felt like a dubious honor.",
+      "style": "Collocational",
+      "translation": "被评为办公室\"进步最大\"的人，实在是种尴尬的荣誉。",
+      "translated_word": "尴尬",
+      "display_order": 3
+    },
+    {
+      "sentence": "The loudest certainties often rest on the most dubious foundations.",
+      "style": "Philosophical",
+      "translation": "最响亮的笃定，往往建立在最靠不住的根基之上。",
+      "translated_word": "靠不住",
+      "display_order": 4
+    }
+  ]
+}

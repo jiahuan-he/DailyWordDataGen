@@ -1,0 +1,39 @@
+{
+  "word": "modest",
+  "phonetic": "/ˈmɑːdɪst/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "谦逊；适度；朴素；端庄",
+  "examples": [
+    {
+      "sentence": "Her modest apartment held only books, a chair, and morning light.",
+      "style": "Contextual",
+      "translation": "她简朴的公寓里只有书籍、一把椅子，和清晨的光。",
+      "translated_word": "简朴",
+      "display_order": 1
+    },
+    {
+      "sentence": "From modest beginnings, she built something remarkable.",
+      "style": "Collocational",
+      "translation": "从平凡的起点出发，她成就了非凡。",
+      "translated_word": "平凡",
+      "display_order": 2
+    },
+    {
+      "sentence": "The truly skilled often wear the most modest faces.",
+      "style": "Philosophical",
+      "translation": "真正有才华的人，往往神情最为谦和。",
+      "translated_word": "谦和",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's modest garden taught me: beauty needs no excess.",
+      "style": "Intimate",
+      "translation": "祖母那方小小的菜园教会我：美，无需繁复。",
+      "translated_word": "小小的",
+      "display_order": 3
+    }
+  ]
+}

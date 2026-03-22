@@ -1,0 +1,40 @@
+{
+  "word": "crew",
+  "phonetic": "/kruː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "全体船员；机组人员；一组人",
+  "examples": [
+    {
+      "sentence": "The documentary crew traveled light, carrying only essentials.",
+      "style": "Contextual",
+      "translation": "纪录片摄制组轻装上阵，只带必需品。",
+      "translated_word": "摄制组",
+      "display_order": 2
+    },
+    {
+      "sentence": "A skeleton crew kept the servers running through the night.",
+      "style": "Collocational",
+      "translation": "一小队值班人员彻夜维护着服务器的运转。",
+      "translated_word": "小队",
+      "display_order": 3
+    },
+    {
+      "sentence": "The rescue crew located all survivors before dawn.",
+      "style": "Formal",
+      "translation": "救援队在黎明前找到了所有幸存者。",
+      "translated_word": "队",
+      "display_order": 1
+    },
+    {
+      "sentence": "Five strangers on a project; by the end, we were a crew.",
+      "style": "Intimate",
+      "translation": "五个陌生人因一个项目相遇；结束时，我们已是并肩作战的伙伴。",
+      "translated_word": "伙伴",
+      "display_order": 4
+    }
+  ]
+}

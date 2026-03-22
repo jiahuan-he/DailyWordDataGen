@@ -1,0 +1,40 @@
+{
+  "word": "proficient",
+  "phonetic": "/prəˈfɪʃənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "熟练的；精通的；娴熟的",
+  "examples": [
+    {
+      "sentence": "After three years in Seoul, she became proficient in Korean.",
+      "style": "Contextual",
+      "translation": "在首尔生活三年后，她的韩语已十分熟练。",
+      "translated_word": "熟练",
+      "display_order": 1
+    },
+    {
+      "sentence": "The role requires candidates proficient in both Python and SQL.",
+      "style": "Formal",
+      "translation": "该职位要求应聘者精通Python和SQL。",
+      "translated_word": "精通",
+      "display_order": 3
+    },
+    {
+      "sentence": "He's proficient at negotiation but still learning patience.",
+      "style": "Collocational",
+      "translation": "他善于谈判，却仍在学习耐心。",
+      "translated_word": "善于",
+      "display_order": 2
+    },
+    {
+      "sentence": "Being proficient isn't about talent; it's about showing up daily.",
+      "style": "Inspirational",
+      "translation": "熟练不靠天赋，靠的是日复一日的坚持。",
+      "translated_word": "熟练",
+      "display_order": 4
+    }
+  ]
+}

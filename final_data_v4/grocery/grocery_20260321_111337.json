@@ -1,0 +1,40 @@
+{
+  "word": "grocery",
+  "phonetic": "/ˈɡroʊsəri/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "食品杂货；杂货店",
+  "examples": [
+    {
+      "sentence": "She came home with three bags of groceries and a tired smile.",
+      "style": "Contextual",
+      "translation": "她拎着三袋食品杂货回到家，脸上挂着疲惫的微笑。",
+      "translated_word": "食品杂货",
+      "display_order": 1
+    },
+    {
+      "sentence": "The grocery list kept growing as the holiday drew near.",
+      "style": "Collocational",
+      "translation": "随着节日临近，采购清单越写越长。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Rising grocery prices have become a daily concern for most households.",
+      "style": "Formal",
+      "translation": "食品杂货价格上涨已成为大多数家庭的日常忧虑。",
+      "translated_word": "食品杂货",
+      "display_order": 3
+    },
+    {
+      "sentence": "Wandering the grocery aisles with my father, I learned what he valued: simple meals, no waste.",
+      "style": "Intimate",
+      "translation": "和父亲一起穿梭在杂货店的货架间，我渐渐明白他所珍视的：简单的饭菜，不浪费一分一毫。",
+      "translated_word": "杂货店",
+      "display_order": 2
+    }
+  ]
+}

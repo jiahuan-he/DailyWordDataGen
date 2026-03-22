@@ -1,0 +1,41 @@
+{
+  "word": "gear",
+  "phonetic": "/ɡɪr/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "装备；齿轮；挡位；行头",
+  "examples": [
+    {
+      "sentence": "He packed his camping gear into the trunk before sunrise.",
+      "style": "Contextual",
+      "translation": "日出前，他把露营装备塞进了后备箱。",
+      "translated_word": "装备",
+      "display_order": 1
+    },
+    {
+      "sentence": "She shifted into high gear as the deadline approached.",
+      "style": "Collocational",
+      "translation": "截止日期临近，她全力以赴。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "The expedition team arrived with specialized climbing gear.",
+      "style": "Formal",
+      "translation": "探险队携带专业攀登装备抵达现场。",
+      "translated_word": "装备",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather's fishing gear still smells of salt and early mornings.",
+      "style": "Intimate",
+      "translation": "祖父的钓具至今仍带着海盐与晨曦的气息。",
+      "translated_word": "钓具",
+      "display_order": 2
+    }
+  ]
+}

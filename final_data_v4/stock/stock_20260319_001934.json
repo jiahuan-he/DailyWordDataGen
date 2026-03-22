@@ -1,0 +1,41 @@
+{
+  "word": "stock",
+  "phonetic": "/stɑːk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "股票；存货；储备",
+  "examples": [
+    {
+      "sentence": "Fresh stock arrives every Tuesday morning.",
+      "style": "Contextual",
+      "translation": "每周二早晨新货到店。",
+      "translated_word": "货",
+      "display_order": 1
+    },
+    {
+      "sentence": "Tech stocks surged as investor confidence returned.",
+      "style": "Formal",
+      "translation": "随着投资者信心回升，科技股大涨。",
+      "translated_word": "股",
+      "display_order": 2
+    },
+    {
+      "sentence": "The shelves were finally in stock after weeks of shortage.",
+      "style": "Collocational",
+      "translation": "缺货数周后，货架终于补齐了。",
+      "translated_word": "货",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some only take stock of their lives when time runs short.",
+      "style": "Philosophical",
+      "translation": "有些人只在时日无多时，才回顾自己的人生。",
+      "translated_word": "回顾",
+      "display_order": 4
+    }
+  ]
+}

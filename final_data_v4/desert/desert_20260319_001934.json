@@ -1,0 +1,41 @@
+{
+  "word": "desert",
+  "phonetic": "/ˈdezərt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "沙漠；荒漠；不毛之地",
+  "examples": [
+    {
+      "sentence": "The caravan rested at an oasis after three days in the desert.",
+      "style": "Contextual",
+      "translation": "商队在沙漠中跋涉三日后，于绿洲停歇。",
+      "translated_word": "沙漠",
+      "display_order": 1
+    },
+    {
+      "sentence": "At dusk, the desert turns to gold and shadow.",
+      "style": "Poetic",
+      "translation": "黄昏时分，沙漠化作金色与暗影。",
+      "translated_word": "沙漠",
+      "display_order": 2
+    },
+    {
+      "sentence": "In the desert, silence has weight.",
+      "style": "Philosophical",
+      "translation": "在沙漠中，沉默也有分量。",
+      "translated_word": "沙漠",
+      "display_order": 4
+    },
+    {
+      "sentence": "Desert storms can reshape dunes in a single night.",
+      "style": "Collocational",
+      "translation": "沙漠风暴能在一夜之间重塑沙丘。",
+      "translated_word": "沙漠",
+      "display_order": 3
+    }
+  ]
+}

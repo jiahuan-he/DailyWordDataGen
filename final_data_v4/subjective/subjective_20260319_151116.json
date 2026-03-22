@@ -1,0 +1,39 @@
+{
+  "word": "subjective",
+  "phonetic": "/səbˈdʒektɪv/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "主观的；个人的；因人而异的",
+  "examples": [
+    {
+      "sentence": "Taste in music is entirely subjective.",
+      "style": "Contextual",
+      "translation": "音乐品味完全是主观的。",
+      "translated_word": "主观的",
+      "display_order": 1
+    },
+    {
+      "sentence": "Facts are objective; their meaning is subjective.",
+      "style": "Contrastive",
+      "translation": "事实是客观的，而解读是主观的。",
+      "translated_word": "主观的",
+      "display_order": 2
+    },
+    {
+      "sentence": "Memory is subjective: we each recall a different version of the same moment.",
+      "style": "Philosophical",
+      "translation": "记忆是主观的：同一时刻，每个人记住的版本都不同。",
+      "translated_word": "主观的",
+      "display_order": 3
+    },
+    {
+      "sentence": "The panel acknowledged that scoring creativity remains inherently subjective.",
+      "style": "Formal",
+      "translation": "评审团承认，创意评分本质上具有主观性。",
+      "translated_word": "主观性",
+      "display_order": 4
+    }
+  ]
+}

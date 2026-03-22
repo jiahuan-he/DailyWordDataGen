@@ -1,0 +1,40 @@
+{
+  "word": "scissor",
+  "phonetic": "/ˈsɪzər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "剪；裁剪；交叉摆动",
+  "examples": [
+    {
+      "sentence": "She scissored the fabric into long, even strips.",
+      "style": "Contextual",
+      "translation": "她把布料剪成了一条条整齐的长条。",
+      "translated_word": "剪",
+      "display_order": 1
+    },
+    {
+      "sentence": "His legs scissored through the water with powerful strokes.",
+      "style": "Collocational",
+      "translation": "他的双腿在水中有力地交替划动。",
+      "translated_word": "交替",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother taught me to scissor paper snowflakes on a quiet winter afternoon.",
+      "style": "Intimate",
+      "translation": "一个静谧的冬日午后，外婆教我剪纸雪花。",
+      "translated_word": "剪",
+      "display_order": 2
+    },
+    {
+      "sentence": "The dancer's arms scissored the spotlight into fleeting shadows.",
+      "style": "Poetic",
+      "translation": "舞者的双臂在聚光灯下交错挥舞，剪出一道道流转的光影。",
+      "translated_word": "剪",
+      "display_order": 4
+    }
+  ]
+}

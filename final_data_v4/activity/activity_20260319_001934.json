@@ -1,0 +1,39 @@
+{
+  "word": "activity",
+  "phonetic": "/ækˈtɪvəti/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "活动；行为；动态",
+  "examples": [
+    {
+      "sentence": "The café was quiet, a rare pause between the morning rush and lunch activity.",
+      "style": "Contextual",
+      "translation": "咖啡馆很安静，正值早高峰与午间热闹之间难得的空档。",
+      "translated_word": "热闹",
+      "display_order": 4
+    },
+    {
+      "sentence": "She scheduled outdoor activity into her weekends like clockwork.",
+      "style": "Collocational",
+      "translation": "她把户外活动安排进每个周末，雷打不动。",
+      "translated_word": "活动",
+      "display_order": 1
+    },
+    {
+      "sentence": "Economic activity in the region has shown steady growth this quarter.",
+      "style": "Formal",
+      "translation": "该地区本季度经济活动呈现稳步增长态势。",
+      "translated_word": "活动",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sunday baking became our favorite activity; flour on our noses, laughter filling the kitchen.",
+      "style": "Intimate",
+      "translation": "周日烘焙成了我们最爱的活动；鼻尖沾着面粉，笑声盈满厨房。",
+      "translated_word": "活动",
+      "display_order": 2
+    }
+  ]
+}

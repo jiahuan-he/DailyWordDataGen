@@ -1,0 +1,39 @@
+{
+  "word": "obligation",
+  "phonetic": "/ˌɑːblɪˈɡeɪʃn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "义务；责任；职责；承诺",
+  "examples": [
+    {
+      "sentence": "The lease clearly states the tenant's obligations regarding repairs.",
+      "style": "Contextual",
+      "translation": "租约明确规定了租户在维修方面的义务。",
+      "translated_word": "义务",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company failed to meet its financial obligations to shareholders.",
+      "style": "Formal",
+      "translation": "该公司未能履行对股东的财务义务。",
+      "translated_word": "义务",
+      "display_order": 2
+    },
+    {
+      "sentence": "Love given out of obligation loses its warmth somewhere along the way.",
+      "style": "Philosophical",
+      "translation": "出于义务的爱，总会在某处失去它的温度。",
+      "translated_word": "义务",
+      "display_order": 4
+    },
+    {
+      "sentence": "Calling my father every Sunday started as an obligation; now it's the highlight of my week.",
+      "style": "Intimate",
+      "translation": "每周日给父亲打电话，起初是责任，如今却成了我一周中最期待的时刻。",
+      "translated_word": "责任",
+      "display_order": 3
+    }
+  ]
+}

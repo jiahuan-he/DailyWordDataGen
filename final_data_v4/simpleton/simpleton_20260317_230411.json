@@ -1,0 +1,39 @@
+{
+  "word": "simpleton",
+  "phonetic": "/ˈsɪmpəltən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "傻瓜；笨蛋；头脑简单的人",
+  "examples": [
+    {
+      "sentence": "The con artist spotted a simpleton and smiled.",
+      "style": "Contextual",
+      "translation": "骗子发现了一个傻瓜，嘴角微微上扬。",
+      "translated_word": "傻瓜",
+      "display_order": 1
+    },
+    {
+      "sentence": "He plays the simpleton, but his eyes miss nothing.",
+      "style": "Contrastive",
+      "translation": "他装作头脑简单，眼睛却什么都没漏掉。",
+      "translated_word": "头脑简单",
+      "display_order": 4
+    },
+    {
+      "sentence": "History often mistakes the quiet soul for a simpleton.",
+      "style": "Philosophical",
+      "translation": "历史常将沉默的灵魂误认作愚人。",
+      "translated_word": "愚人",
+      "display_order": 3
+    },
+    {
+      "sentence": "In fairy tales, the simpleton wins what the clever cannot.",
+      "style": "Poetic",
+      "translation": "童话里，傻子总能赢得聪明人求而不得之物。",
+      "translated_word": "傻子",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "output",
+  "phonetic": "/ˈaʊtpʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "产出；产量；输出；成果",
+  "examples": [
+    {
+      "sentence": "The factory doubled its output after installing new machinery.",
+      "style": "Contextual",
+      "translation": "工厂在安装新设备后，产量翻了一番。",
+      "translated_word": "产量",
+      "display_order": 1
+    },
+    {
+      "sentence": "Annual economic output exceeded projections for the third consecutive quarter.",
+      "style": "Formal",
+      "translation": "年度经济产出连续第三个季度超出预期。",
+      "translated_word": "产出",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her creative output this year includes two novels and a short film.",
+      "style": "Collocational",
+      "translation": "她今年的创作成果包括两部小说和一部短片。",
+      "translated_word": "成果",
+      "display_order": 2
+    },
+    {
+      "sentence": "Measure your output not by hours spent, but by problems solved.",
+      "style": "Inspirational",
+      "translation": "衡量你的产出，不在于投入多少时间，而在于解决了多少问题。",
+      "translated_word": "产出",
+      "display_order": 4
+    }
+  ]
+}

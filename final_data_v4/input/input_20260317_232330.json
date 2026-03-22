@@ -1,0 +1,40 @@
+{
+  "word": "input",
+  "phonetic": "/ˈɪnpʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "输入；投入；意见；建议",
+  "examples": [
+    {
+      "sentence": "Your input on this project would be invaluable.",
+      "style": "Contextual",
+      "translation": "你对这个项目的意见将非常宝贵。",
+      "translated_word": "意见",
+      "display_order": 2
+    },
+    {
+      "sentence": "The committee is seeking public input before finalizing the policy.",
+      "style": "Formal",
+      "translation": "委员会正在征求公众意见，以便最终确定该政策。",
+      "translated_word": "意见",
+      "display_order": 3
+    },
+    {
+      "sentence": "She always provides thoughtful input during team meetings.",
+      "style": "Collocational",
+      "translation": "她在团队会议上总能提出深思熟虑的见解。",
+      "translated_word": "见解",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother's quiet input shaped every major decision I ever made.",
+      "style": "Intimate",
+      "translation": "祖母的轻声细语，塑造了我人生中的每一个重大决定。",
+      "translated_word": "轻声细语",
+      "display_order": 4
+    }
+  ]
+}

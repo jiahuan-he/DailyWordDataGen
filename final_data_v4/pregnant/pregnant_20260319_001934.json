@@ -1,0 +1,40 @@
+{
+  "word": "pregnant",
+  "phonetic": "/ˈpreɡnənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "怀孕的；意味深长的；充满的",
+  "examples": [
+    {
+      "sentence": "She rested both hands on her pregnant belly, counting the kicks.",
+      "style": "Contextual",
+      "translation": "她双手轻抚隆起的腹部，默数着胎动。",
+      "translated_word": "隆起",
+      "display_order": 2
+    },
+    {
+      "sentence": "The day I learned I was pregnant, the future stopped being abstract.",
+      "style": "Intimate",
+      "translation": "得知怀孕的那天，未来不再是一个抽象的词。",
+      "translated_word": "怀孕",
+      "display_order": 1
+    },
+    {
+      "sentence": "A pregnant pause holds more truth than a careless answer.",
+      "style": "Philosophical",
+      "translation": "意味深长的沉默，胜过轻率的回答。",
+      "translated_word": "意味深长",
+      "display_order": 4
+    },
+    {
+      "sentence": "The clouds hung pregnant with rain over the silent valley.",
+      "style": "Poetic",
+      "translation": "乌云低垂，雨意沉沉，笼罩着寂静的山谷。",
+      "translated_word": "沉沉",
+      "display_order": 3
+    }
+  ]
+}

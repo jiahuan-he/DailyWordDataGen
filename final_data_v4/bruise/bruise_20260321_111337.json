@@ -1,0 +1,40 @@
+{
+  "word": "bruise",
+  "phonetic": "/bruːz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "瘀伤；青肿；伤痕",
+  "examples": [
+    {
+      "sentence": "The bruise on her knee told the story of yesterday's fall.",
+      "style": "Contextual",
+      "translation": "她膝盖上的淤青，诉说着昨日那一跤的故事。",
+      "translated_word": "淤青",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some bruises fade in days; others take a lifetime.",
+      "style": "Philosophical",
+      "translation": "有些伤痕数日便消，有些却需要一生去愈合。",
+      "translated_word": "伤痕",
+      "display_order": 4
+    },
+    {
+      "sentence": "A bruise blooms beneath the skin like a quiet storm.",
+      "style": "Poetic",
+      "translation": "瘀青在皮肤下绽开，如一场无声的风暴。",
+      "translated_word": "瘀青",
+      "display_order": 3
+    },
+    {
+      "sentence": "My daughter showed me her bruise with pride: her first bike-riding badge.",
+      "style": "Intimate",
+      "translation": "女儿骄傲地给我看她的淤青：那是她学会骑车的第一枚勋章。",
+      "translated_word": "淤青",
+      "display_order": 2
+    }
+  ]
+}

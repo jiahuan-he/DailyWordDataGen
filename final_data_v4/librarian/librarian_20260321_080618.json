@@ -1,0 +1,39 @@
+{
+  "word": "librarian",
+  "phonetic": "/laɪˈbreəriən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "图书管理员；图书馆员",
+  "examples": [
+    {
+      "sentence": "The librarian recommended three novels that changed my summer.",
+      "style": "Contextual",
+      "translation": "图书管理员推荐了三本小说，改变了我的整个夏天。",
+      "translated_word": "图书管理员",
+      "display_order": 1
+    },
+    {
+      "sentence": "The university librarian curates one of the largest rare book collections in the country.",
+      "style": "Formal",
+      "translation": "这位大学图书馆馆长管理着全国最大的珍本藏书之一。",
+      "translated_word": "图书馆馆长",
+      "display_order": 3
+    },
+    {
+      "sentence": "The old librarian moved through the stacks like dust through afternoon light.",
+      "style": "Poetic",
+      "translation": "老图书管理员穿行于书架之间，如午后阳光中飘浮的微尘。",
+      "translated_word": "图书管理员",
+      "display_order": 4
+    },
+    {
+      "sentence": "Our town librarian knew every child by name and every dream by heart.",
+      "style": "Intimate",
+      "translation": "小镇的图书管理员记得每个孩子的名字，也记得每个人心底的梦想。",
+      "translated_word": "图书管理员",
+      "display_order": 2
+    }
+  ]
+}

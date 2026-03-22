@@ -1,0 +1,40 @@
+{
+  "word": "stage",
+  "phonetic": "/steɪdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "舞台；阶段；时期",
+  "examples": [
+    {
+      "sentence": "She walked onto the stage, and the chatter fell silent.",
+      "style": "Contextual",
+      "translation": "她走上舞台，喧嚣顿时沉寂。",
+      "translated_word": "舞台",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her bold move set the stage for everything that followed.",
+      "style": "Collocational",
+      "translation": "她大胆的一步，为后来的一切铺设了舞台。",
+      "translated_word": "舞台",
+      "display_order": 3
+    },
+    {
+      "sentence": "The city at dusk is a stage; every lit window, a scene unfolding.",
+      "style": "Poetic",
+      "translation": "黄昏的城市是一座舞台；每扇亮着灯的窗，都在上演一幕故事。",
+      "translated_word": "舞台",
+      "display_order": 2
+    },
+    {
+      "sentence": "We never truly leave a stage of life; we just stop performing there.",
+      "style": "Philosophical",
+      "translation": "我们从未真正离开人生的某个阶段；只是不再在那里登场。",
+      "translated_word": "阶段",
+      "display_order": 4
+    }
+  ]
+}

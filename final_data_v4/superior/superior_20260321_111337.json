@@ -1,0 +1,40 @@
+{
+  "word": "superior",
+  "phonetic": "/suːˈpɪəriər/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "优越的；更高级的；高人一等的",
+  "examples": [
+    {
+      "sentence": "The court ruled that federal law was superior to state regulations.",
+      "style": "Formal",
+      "translation": "法院裁定联邦法律优先于州法规。",
+      "translated_word": "优先",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her technique wasn't just different; it was superior.",
+      "style": "Contrastive",
+      "translation": "她的技法不仅与众不同，更胜一筹。",
+      "translated_word": "胜一筹",
+      "display_order": 1
+    },
+    {
+      "sentence": "Those who feel superior often miss lessons hidden in humility.",
+      "style": "Philosophical",
+      "translation": "自觉高人一等者，往往错失谦逊中藏匿的智慧。",
+      "translated_word": "高人一等",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather never acted superior, though he'd read more books than anyone I knew.",
+      "style": "Intimate",
+      "translation": "祖父从不显出傲气，尽管他读过的书比我认识的任何人都多。",
+      "translated_word": "傲气",
+      "display_order": 2
+    }
+  ]
+}

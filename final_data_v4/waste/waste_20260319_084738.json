@@ -1,0 +1,41 @@
+{
+  "word": "waste",
+  "phonetic": "/weɪst/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "浪费；糟蹋；虚度",
+  "examples": [
+    {
+      "sentence": "The meeting ran long, wasting everyone's afternoon.",
+      "style": "Contextual",
+      "translation": "会议拖得太久，浪费了所有人的下午。",
+      "translated_word": "浪费",
+      "display_order": 1
+    },
+    {
+      "sentence": "Don't waste your breath; her mind is made.",
+      "style": "Collocational",
+      "translation": "别白费口舌了，她心意已决。",
+      "translated_word": "白费",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some lessons only come from wasting time on the wrong things first.",
+      "style": "Philosophical",
+      "translation": "有些道理，只有在错的事上虚度光阴后才能领悟。",
+      "translated_word": "虚度",
+      "display_order": 3
+    },
+    {
+      "sentence": "You cannot waste today and expect tomorrow to forgive you.",
+      "style": "Inspirational",
+      "translation": "今日虚度，明日不会宽恕你。",
+      "translated_word": "虚度",
+      "display_order": 4
+    }
+  ]
+}

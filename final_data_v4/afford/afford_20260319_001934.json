@@ -1,0 +1,39 @@
+{
+  "word": "afford",
+  "phonetic": "/əˈfɔːrd/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "负担得起；承担；提供",
+  "examples": [
+    {
+      "sentence": "She worked two jobs so her children could afford college.",
+      "style": "Contextual",
+      "translation": "她身兼两职，只为让孩子们上得起大学。",
+      "translated_word": "上得起",
+      "display_order": 2
+    },
+    {
+      "sentence": "We can afford the ticket, but not the time away from home.",
+      "style": "Contrastive",
+      "translation": "机票我们买得起，买不起的是离家的时光。",
+      "translated_word": "买得起",
+      "display_order": 3
+    },
+    {
+      "sentence": "Youth affords us the illusion that mistakes are free.",
+      "style": "Philosophical",
+      "translation": "年轻给了我们一种错觉：犯错不需要代价。",
+      "translated_word": "给了",
+      "display_order": 4
+    },
+    {
+      "sentence": "My first real paycheck: I could finally afford to treat my mother to dinner.",
+      "style": "Intimate",
+      "translation": "拿到人生第一笔正式薪水那天，我终于能请妈妈吃顿饭了。",
+      "translated_word": "能",
+      "display_order": 1
+    }
+  ]
+}

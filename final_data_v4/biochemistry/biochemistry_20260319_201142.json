@@ -1,0 +1,39 @@
+{
+  "word": "biochemistry",
+  "phonetic": "/ˌbaɪoʊˈkemɪstri/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "生物化学；生化",
+  "examples": [
+    {
+      "sentence": "She switched from physics to biochemistry after watching enzymes repair DNA in real time.",
+      "style": "Contextual",
+      "translation": "亲眼看到酶实时修复DNA后，她从物理转向了生物化学。",
+      "translated_word": "生物化学",
+      "display_order": 2
+    },
+    {
+      "sentence": "Breakthroughs in biochemistry have reshaped how we understand cellular aging.",
+      "style": "Formal",
+      "translation": "生物化学领域的突破重塑了我们对细胞衰老的认知。",
+      "translated_word": "生物化学",
+      "display_order": 1
+    },
+    {
+      "sentence": "The biochemistry lab stays lit past midnight during finals week.",
+      "style": "Collocational",
+      "translation": "期末周，生化实验室的灯总是亮到深夜。",
+      "translated_word": "生化",
+      "display_order": 4
+    },
+    {
+      "sentence": "Biochemistry reveals that life, at its simplest, is elegant chemistry.",
+      "style": "Philosophical",
+      "translation": "生物化学揭示了一个事实：生命的本质，是优雅的化学反应。",
+      "translated_word": "生物化学",
+      "display_order": 3
+    }
+  ]
+}

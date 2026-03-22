@@ -1,0 +1,40 @@
+{
+  "word": "snitch",
+  "phonetic": "/snɪtʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "告密；打小报告；告发",
+  "examples": [
+    {
+      "sentence": "Someone snitched to the boss about the missing inventory.",
+      "style": "Contextual",
+      "translation": "有人向老板告发了库存短缺的事。",
+      "translated_word": "告发",
+      "display_order": 2
+    },
+    {
+      "sentence": "Kids learn early: you never snitch on your friends.",
+      "style": "Collocational",
+      "translation": "孩子们很早就明白：永远不要告发朋友。",
+      "translated_word": "告发",
+      "display_order": 3
+    },
+    {
+      "sentence": "To snitch is to trade someone else's secret for your own peace.",
+      "style": "Philosophical",
+      "translation": "告密，是用他人的秘密换取自己的心安。",
+      "translated_word": "告密",
+      "display_order": 4
+    },
+    {
+      "sentence": "My brother snitched about the broken vase; I didn't speak to him for a week.",
+      "style": "Intimate",
+      "translation": "弟弟告发了打碎花瓶的事；我整整一周没理他。",
+      "translated_word": "告发",
+      "display_order": 1
+    }
+  ]
+}

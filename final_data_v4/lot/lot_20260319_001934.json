@@ -1,0 +1,40 @@
+{
+  "word": "lot",
+  "phonetic": "/lɒt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "许多；命运；地块",
+  "examples": [
+    {
+      "sentence": "There's a lot to learn from losing gracefully.",
+      "style": "Contextual",
+      "translation": "优雅地接受失败，能学到很多。",
+      "translated_word": "很多",
+      "display_order": 2
+    },
+    {
+      "sentence": "We cannot choose our lot, only how we carry it.",
+      "style": "Philosophical",
+      "translation": "命运无从选择，唯有选择如何承担。",
+      "translated_word": "命运",
+      "display_order": 3
+    },
+    {
+      "sentence": "She cast her lot with the startup and never looked back.",
+      "style": "Collocational",
+      "translation": "她把命运押在了那家初创公司，从此义无反顾。",
+      "translated_word": "命运",
+      "display_order": 4
+    },
+    {
+      "sentence": "The vacant lot on Maple Street held all our summer secrets.",
+      "style": "Intimate",
+      "translation": "枫树街那片空地，藏着我们整个夏天的秘密。",
+      "translated_word": "空地",
+      "display_order": 1
+    }
+  ]
+}

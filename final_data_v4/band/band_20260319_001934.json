@@ -1,0 +1,40 @@
+{
+  "word": "band",
+  "phonetic": "/bænd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "乐队；带；环",
+  "examples": [
+    {
+      "sentence": "The band played until the lights came on.",
+      "style": "Contextual",
+      "translation": "乐队演奏到灯亮为止。",
+      "translated_word": "乐队",
+      "display_order": 1
+    },
+    {
+      "sentence": "She twisted the silver band on her finger, lost in thought.",
+      "style": "Collocational",
+      "translation": "她转动指间的银戒，陷入沉思。",
+      "translated_word": "戒",
+      "display_order": 4
+    },
+    {
+      "sentence": "A band of light crossed the sea at dusk.",
+      "style": "Poetic",
+      "translation": "一带余晖横跨海面。",
+      "translated_word": "带",
+      "display_order": 3
+    },
+    {
+      "sentence": "That band's music carried me through my loneliest year.",
+      "style": "Intimate",
+      "translation": "那支乐队的音乐，陪我度过最孤独的一年。",
+      "translated_word": "乐队",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "raw",
+  "phonetic": "/rɔː/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "生的；未加工的；原始的；真实的",
+  "examples": [
+    {
+      "sentence": "The chef insists on raw fish, never frozen.",
+      "style": "Contextual",
+      "translation": "主厨坚持用生鱼，从不用冷冻的。",
+      "translated_word": "生",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her raw talent needed no training to shine.",
+      "style": "Collocational",
+      "translation": "她与生俱来的天赋，无需雕琢便已夺目。",
+      "translated_word": "与生俱来",
+      "display_order": 2
+    },
+    {
+      "sentence": "Unedited photographs hold a raw honesty that filters cannot replicate.",
+      "style": "Poetic",
+      "translation": "未经修饰的照片藏着一种原始的真实，滤镜无法复制。",
+      "translated_word": "原始",
+      "display_order": 3
+    },
+    {
+      "sentence": "We polish ourselves for the world, yet our raw edges are what others remember.",
+      "style": "Philosophical",
+      "translation": "我们为世界打磨自己，可人们记住的，偏偏是那些粗粝的棱角。",
+      "translated_word": "粗粝",
+      "display_order": 4
+    }
+  ]
+}

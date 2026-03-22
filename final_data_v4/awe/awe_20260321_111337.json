@@ -1,0 +1,40 @@
+{
+  "word": "awe",
+  "phonetic": "/ɔː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "敬畏；惊叹；震撼",
+  "examples": [
+    {
+      "sentence": "She stood at the canyon's edge, speechless with awe.",
+      "style": "Contextual",
+      "translation": "她站在峡谷边缘，震撼得说不出话来。",
+      "translated_word": "震撼",
+      "display_order": 1
+    },
+    {
+      "sentence": "Awe reminds us how small we are, and how little that matters.",
+      "style": "Philosophical",
+      "translation": "敬畏让我们意识到自身的渺小，也让我们明白这渺小并不重要。",
+      "translated_word": "敬畏",
+      "display_order": 4
+    },
+    {
+      "sentence": "The night sky holds enough awe to silence any argument.",
+      "style": "Poetic",
+      "translation": "夜空蕴含的震撼，足以平息一切争论。",
+      "translated_word": "震撼",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather spoke of the ocean with quiet awe, though he'd seen it a thousand times.",
+      "style": "Intimate",
+      "translation": "祖父谈起大海时总带着淡淡的敬畏，尽管他已见过它千百次。",
+      "translated_word": "敬畏",
+      "display_order": 2
+    }
+  ]
+}

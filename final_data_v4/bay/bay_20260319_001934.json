@@ -1,0 +1,41 @@
+{
+  "word": "bay",
+  "phonetic": "/beɪ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "海湾；港湾；凹处",
+  "examples": [
+    {
+      "sentence": "Sailboats dotted the bay as the weekend crowds gathered.",
+      "style": "Contextual",
+      "translation": "周末人潮涌动时，帆船点缀着海湾。",
+      "translated_word": "海湾",
+      "display_order": 2
+    },
+    {
+      "sentence": "The bay holds the sky in its still waters, a mirror for passing clouds.",
+      "style": "Poetic",
+      "translation": "海湾以静水承托天空，化作流云的镜子。",
+      "translated_word": "海湾",
+      "display_order": 4
+    },
+    {
+      "sentence": "Ships take shelter in the bay when rough seas approach.",
+      "style": "Collocational",
+      "translation": "风浪将至时，船只便驶入海湾避风。",
+      "translated_word": "海湾",
+      "display_order": 1
+    },
+    {
+      "sentence": "That bay was where I learned to swim, small waves nudging me forward.",
+      "style": "Intimate",
+      "translation": "那片海湾是我学游泳的地方，细浪轻推着我向前。",
+      "translated_word": "海湾",
+      "display_order": 3
+    }
+  ]
+}

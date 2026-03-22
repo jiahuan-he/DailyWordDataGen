@@ -1,0 +1,39 @@
+{
+  "word": "treatment",
+  "phonetic": "/ˈtriːtmənt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "治疗；对待；待遇；处理",
+  "examples": [
+    {
+      "sentence": "After three months of treatment, she could finally walk again.",
+      "style": "Contextual",
+      "translation": "经过三个月的治疗，她终于能再次行走。",
+      "translated_word": "治疗",
+      "display_order": 1
+    },
+    {
+      "sentence": "The clinic announced a breakthrough treatment for chronic migraines.",
+      "style": "Formal",
+      "translation": "诊所宣布了一项治疗慢性偏头痛的突破性疗法。",
+      "translated_word": "疗法",
+      "display_order": 2
+    },
+    {
+      "sentence": "He never asked for special treatment despite his fame.",
+      "style": "Collocational",
+      "translation": "尽管声名显赫，他从未要求过特殊待遇。",
+      "translated_word": "待遇",
+      "display_order": 3
+    },
+    {
+      "sentence": "The treatment we offer to those who cannot repay us defines our character.",
+      "style": "Philosophical",
+      "translation": "我们如何对待无法回报我们的人，定义了我们的品格。",
+      "translated_word": "对待",
+      "display_order": 4
+    }
+  ]
+}

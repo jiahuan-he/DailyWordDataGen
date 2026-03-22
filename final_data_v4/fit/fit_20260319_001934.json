@@ -1,0 +1,41 @@
+{
+  "word": "fit",
+  "phonetic": "/fɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "适合；合身；安装；容纳",
+  "examples": [
+    {
+      "sentence": "The puzzle piece didn't fit until I rotated it.",
+      "style": "Contextual",
+      "translation": "拼图转了个角度才嵌入。",
+      "translated_word": "嵌入",
+      "display_order": 2
+    },
+    {
+      "sentence": "Can we fit a short meeting before lunch?",
+      "style": "Collocational",
+      "translation": "午饭前能挤出时间开个短会吗？",
+      "translated_word": "挤出",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father's watch finally fits my wrist.",
+      "style": "Intimate",
+      "translation": "父亲的表，终于合了我的手腕。",
+      "translated_word": "合",
+      "display_order": 1
+    },
+    {
+      "sentence": "The dress fits her body but not her spirit.",
+      "style": "Contrastive",
+      "translation": "裙子合身，却不合心。",
+      "translated_word": "合",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "classification",
+  "phonetic": "/ˌklæsɪfɪˈkeɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "分类；归类；类别",
+  "examples": [
+    {
+      "sentence": "The library's classification system guides readers to the right shelf.",
+      "style": "Contextual",
+      "translation": "图书馆的分类系统引导读者找到正确的书架。",
+      "translated_word": "分类",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new classification of sensitive documents requires executive approval.",
+      "style": "Formal",
+      "translation": "敏感文件的新分类方式需经高层批准。",
+      "translated_word": "分类",
+      "display_order": 3
+    },
+    {
+      "sentence": "Accurate classification of species remains essential in biological research.",
+      "style": "Collocational",
+      "translation": "物种的准确分类在生物学研究中仍至关重要。",
+      "translated_word": "分类",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every classification says as much about the sorter as the sorted.",
+      "style": "Philosophical",
+      "translation": "每一次分类，既在定义事物，也在定义分类者自己。",
+      "translated_word": "分类",
+      "display_order": 4
+    }
+  ]
+}

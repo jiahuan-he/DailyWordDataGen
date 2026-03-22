@@ -1,0 +1,40 @@
+{
+  "word": "chronic",
+  "phonetic": "/ˈkrɒnɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "慢性的；长期的；积习难改的",
+  "examples": [
+    {
+      "sentence": "The medication doesn't cure the disease; it simply makes chronic pain bearable.",
+      "style": "Contextual",
+      "translation": "这药无法根治疾病，只能让慢性疼痛变得可以忍受。",
+      "translated_word": "慢性",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rural hospitals face chronic understaffing as young doctors flock to cities.",
+      "style": "Formal",
+      "translation": "年轻医生涌向城市，乡村医院长期面临人手短缺。",
+      "translated_word": "长期",
+      "display_order": 2
+    },
+    {
+      "sentence": "Chronic stress, chronic fatigue, chronic doubt: the unholy trinity of modern ambition.",
+      "style": "Collocational",
+      "translation": "长期压力、长期疲惫、长期自我怀疑：现代人追逐成功的三重诅咒。",
+      "translated_word": "长期",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we call chronic is often just patience misunderstood.",
+      "style": "Philosophical",
+      "translation": "我们所谓的顽疾，往往不过是被误解的坚持。",
+      "translated_word": "顽疾",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "sock",
+  "phonetic": "/sɒk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "袜子；短袜",
+  "examples": [
+    {
+      "sentence": "She slipped on wool socks before the cold tile could wake her fully.",
+      "style": "Contextual",
+      "translation": "她套上羊毛袜，赶在冰凉的地砖彻底唤醒她之前。",
+      "translated_word": "袜",
+      "display_order": 1
+    },
+    {
+      "sentence": "He wears mismatched socks on purpose; chaos is his comfort.",
+      "style": "Collocational",
+      "translation": "他故意穿不成对的袜子；混乱是他的舒适区。",
+      "translated_word": "袜子",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother knitted me socks every December until her hands forgot how.",
+      "style": "Intimate",
+      "translation": "奶奶每年十二月都为我织袜子，直到她的双手遗忘了针法。",
+      "translated_word": "袜子",
+      "display_order": 2
+    },
+    {
+      "sentence": "A single sock beneath the bed: small proof that someone once lived here.",
+      "style": "Poetic",
+      "translation": "床底一只落单的袜子：这里曾有人生活过的小小证据。",
+      "translated_word": "袜子",
+      "display_order": 3
+    }
+  ]
+}

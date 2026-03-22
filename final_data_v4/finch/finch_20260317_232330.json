@@ -1,0 +1,40 @@
+{
+  "word": "finch",
+  "phonetic": "/fɪntʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "雀；雀科小鸟",
+  "examples": [
+    {
+      "sentence": "A finch landed on the feeder, its red breast bright against the snow.",
+      "style": "Contextual",
+      "translation": "一只雀落在喂食器上，红色的胸脯在雪中格外鲜艳。",
+      "translated_word": "雀",
+      "display_order": 1
+    },
+    {
+      "sentence": "Darwin's finches proved that isolation sculpts species.",
+      "style": "Collocational",
+      "translation": "达尔文雀证明了隔离能够塑造物种。",
+      "translated_word": "雀",
+      "display_order": 3
+    },
+    {
+      "sentence": "The finch sang at first light, stitching silence into melody.",
+      "style": "Poetic",
+      "translation": "雀鸟在晨曦中歌唱，将寂静编织成旋律。",
+      "translated_word": "雀鸟",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother named every finch that visited her garden.",
+      "style": "Intimate",
+      "translation": "祖母给每一只造访她花园的雀儿都取了名字。",
+      "translated_word": "雀儿",
+      "display_order": 2
+    }
+  ]
+}

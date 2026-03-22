@@ -1,0 +1,42 @@
+{
+  "word": "underhand",
+  "phonetic": "/ˌʌndəˈhænd/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "卑鄙的；不光彩的；暗中的",
+  "examples": [
+    {
+      "sentence": "He got the promotion through underhand means, not merit.",
+      "style": "Contextual",
+      "translation": "他靠不光彩的手段晋升，而非凭实力。",
+      "translated_word": "不光彩的",
+      "display_order": 1
+    },
+    {
+      "sentence": "The investigation uncovered underhand dealings at the highest levels.",
+      "style": "Formal",
+      "translation": "调查揭露了高层的暗箱操作。",
+      "translated_word": "暗箱",
+      "display_order": 2
+    },
+    {
+      "sentence": "Underhand tactics rarely win lasting respect.",
+      "style": "Collocational",
+      "translation": "卑鄙的手段难以赢得长久的尊重。",
+      "translated_word": "卑鄙的",
+      "display_order": 3
+    },
+    {
+      "sentence": "Those who rise by underhand methods live in fear of falling the same way.",
+      "style": "Philosophical",
+      "translation": "靠卑鄙手段上位的人，终日惧怕以同样方式跌落。",
+      "translated_word": "卑鄙",
+      "display_order": 4
+    }
+  ]
+}

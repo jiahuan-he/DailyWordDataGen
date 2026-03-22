@@ -1,0 +1,41 @@
+{
+  "word": "juice",
+  "phonetic": "/dʒuːs/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "果汁；汁液；精力",
+  "examples": [
+    {
+      "sentence": "The pitcher of juice sat untouched, too pretty to pour.",
+      "style": "Contextual",
+      "translation": "那壶果汁静置一旁，美得让人不忍倾倒。",
+      "translated_word": "果汁",
+      "display_order": 3
+    },
+    {
+      "sentence": "Fresh juice and warm toast: the quiet luxury of a slow morning.",
+      "style": "Collocational",
+      "translation": "鲜榨果汁配烤面包：慢时光的小小奢侈。",
+      "translated_word": "果汁",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her kitchen always had a pitcher of juice waiting, no matter when I arrived.",
+      "style": "Intimate",
+      "translation": "无论何时到访，她的厨房里总有一壶果汁静候。",
+      "translated_word": "果汁",
+      "display_order": 1
+    },
+    {
+      "sentence": "The orange surrendered its juice like a secret, sweet and fleeting.",
+      "style": "Poetic",
+      "translation": "橙子吐露汁液如倾诉秘密，甜蜜而短暂。",
+      "translated_word": "汁液",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "position",
+  "phonetic": "/pəˈzɪʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "位置；职位；立场；姿势",
+  "examples": [
+    {
+      "sentence": "The map showed our exact position in the mountains.",
+      "style": "Contextual",
+      "translation": "地图显示了我们在山中的确切位置。",
+      "translated_word": "位置",
+      "display_order": 1
+    },
+    {
+      "sentence": "Three candidates are competing for the senior analyst position.",
+      "style": "Formal",
+      "translation": "三位候选人正在角逐高级分析师职位。",
+      "translated_word": "职位",
+      "display_order": 2
+    },
+    {
+      "sentence": "Knowing your position in a conflict is the first step toward resolution.",
+      "style": "Philosophical",
+      "translation": "明确自己在冲突中的立场，是走向和解的第一步。",
+      "translated_word": "立场",
+      "display_order": 3
+    },
+    {
+      "sentence": "From a position of strength, she chose to forgive.",
+      "style": "Collocational",
+      "translation": "身处强者之位，她选择了宽恕。",
+      "translated_word": "位",
+      "display_order": 4
+    }
+  ]
+}

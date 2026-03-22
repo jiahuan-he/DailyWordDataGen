@@ -1,0 +1,40 @@
+{
+  "word": "gossip",
+  "phonetic": "/ˈɡɑːsɪp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "闲话；流言；八卦",
+  "examples": [
+    {
+      "sentence": "The breakroom buzzed with gossip about the new hire.",
+      "style": "Contextual",
+      "translation": "茶水间里满是关于新同事的闲话。",
+      "translated_word": "闲话",
+      "display_order": 1
+    },
+    {
+      "sentence": "Office gossip travels faster than any official memo.",
+      "style": "Collocational",
+      "translation": "办公室的八卦，传得比任何正式通知都快。",
+      "translated_word": "八卦",
+      "display_order": 3
+    },
+    {
+      "sentence": "Gossip reveals more about the speaker than the spoken of.",
+      "style": "Philosophical",
+      "translation": "流言所揭露的，往往是说话者自己，而非被议论之人。",
+      "translated_word": "流言",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her text arrived at midnight: fresh gossip, too good to wait.",
+      "style": "Intimate",
+      "translation": "她的消息午夜传来：新鲜八卦，等不及天亮。",
+      "translated_word": "八卦",
+      "display_order": 2
+    }
+  ]
+}

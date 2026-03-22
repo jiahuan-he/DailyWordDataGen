@@ -1,0 +1,42 @@
+{
+  "word": "brief",
+  "phonetic": "/briːf/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "短暂的；简短的；简洁的",
+  "examples": [
+    {
+      "sentence": "The power outage was brief, lasting only a few seconds.",
+      "style": "Contextual",
+      "translation": "停电很短暂，只持续了几秒钟。",
+      "translated_word": "短暂",
+      "display_order": 1
+    },
+    {
+      "sentence": "A brief silence fell over the room before the applause began.",
+      "style": "Collocational",
+      "translation": "掌声响起前，房间里陷入了短暂的沉默。",
+      "translated_word": "短暂",
+      "display_order": 3
+    },
+    {
+      "sentence": "Spring here is brief: petals scatter before roots remember their names.",
+      "style": "Poetic",
+      "translation": "这里的春天太短暂：花瓣飘零时，根还未记住它们的名字。",
+      "translated_word": "短暂",
+      "display_order": 4
+    },
+    {
+      "sentence": "We shared a brief glance across the platform before the train pulled away.",
+      "style": "Intimate",
+      "translation": "列车驶离前，我们隔着站台交换了短暂的一瞥。",
+      "translated_word": "短暂",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "patchy",
+  "phonetic": "/ˈpætʃi/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "零星的；不均匀的；时好时坏的",
+  "examples": [
+    {
+      "sentence": "The Wi-Fi here is patchy; find a seat near the router.",
+      "style": "Contextual",
+      "translation": "这里的无线信号时断时续，找个靠近路由器的位置坐吧。",
+      "translated_word": "时断时续",
+      "display_order": 2
+    },
+    {
+      "sentence": "Patchy fog hung low over the runway, delaying departures.",
+      "style": "Collocational",
+      "translation": "零星的薄雾低悬在跑道上空，航班纷纷延误。",
+      "translated_word": "零星",
+      "display_order": 1
+    },
+    {
+      "sentence": "The recovery has been patchy, with rural areas lagging behind.",
+      "style": "Formal",
+      "translation": "复苏进程参差不齐，农村地区明显滞后。",
+      "translated_word": "参差不齐",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather's voice returns to me in patchy fragments, like old radio static.",
+      "style": "Intimate",
+      "translation": "祖父的声音零星地浮现，像老收音机的断续杂音。",
+      "translated_word": "零星",
+      "display_order": 4
+    }
+  ]
+}

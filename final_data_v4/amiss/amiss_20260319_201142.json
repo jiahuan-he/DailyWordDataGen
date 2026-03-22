@@ -1,0 +1,41 @@
+{
+  "word": "amiss",
+  "phonetic": "/əˈmɪs/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "不对劲；有问题；出差错",
+  "examples": [
+    {
+      "sentence": "The lights were on, but the car was gone; something was clearly amiss.",
+      "style": "Contextual",
+      "translation": "灯亮着，车却不见了；显然有些不对劲。",
+      "translated_word": "不对劲",
+      "display_order": 2
+    },
+    {
+      "sentence": "She sensed something amiss the moment she entered.",
+      "style": "Collocational",
+      "translation": "她一进门便察觉有些异样。",
+      "translated_word": "异样",
+      "display_order": 1
+    },
+    {
+      "sentence": "We feel what is amiss before we can name it.",
+      "style": "Philosophical",
+      "translation": "我们往往先感知到不对，然后才能说清哪里不对。",
+      "translated_word": "不对",
+      "display_order": 4
+    },
+    {
+      "sentence": "His voice sounded amiss on the phone; I left work early.",
+      "style": "Intimate",
+      "translation": "电话那头他的声音不太对；我提前下了班。",
+      "translated_word": "不太对",
+      "display_order": 3
+    }
+  ]
+}

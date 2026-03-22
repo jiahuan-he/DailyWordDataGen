@@ -1,0 +1,41 @@
+{
+  "word": "inland",
+  "phonetic": "/ˈɪnlənd/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "内陆的；内地的；腹地的",
+  "examples": [
+    {
+      "sentence": "The inland provinces receive far less rainfall.",
+      "style": "Contextual",
+      "translation": "内陆省份的降雨量要少得多。",
+      "translated_word": "内陆",
+      "display_order": 2
+    },
+    {
+      "sentence": "New infrastructure will connect remote inland communities by 2030.",
+      "style": "Formal",
+      "translation": "新基础设施将于2030年前连通偏远的内陆社区。",
+      "translated_word": "内陆",
+      "display_order": 3
+    },
+    {
+      "sentence": "She grew up in a quiet inland town, hours from any coast.",
+      "style": "Collocational",
+      "translation": "她在一座宁静的内陆小镇长大，距离海岸数小时车程。",
+      "translated_word": "内陆",
+      "display_order": 1
+    },
+    {
+      "sentence": "Inland cities dream of the sea; coastal ones forget it.",
+      "style": "Philosophical",
+      "translation": "内陆的城市向往大海，滨海的城市却将其遗忘。",
+      "translated_word": "内陆",
+      "display_order": 4
+    }
+  ]
+}

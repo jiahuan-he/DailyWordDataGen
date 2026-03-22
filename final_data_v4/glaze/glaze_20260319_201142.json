@@ -1,0 +1,40 @@
+{
+  "word": "glaze",
+  "phonetic": "/ɡleɪz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "上釉；涂抹；使光亮；变呆滞",
+  "examples": [
+    {
+      "sentence": "She glazed each donut with a thin layer of honey.",
+      "style": "Contextual",
+      "translation": "她在每个甜甜圈上刷了一层薄薄的蜂蜜。",
+      "translated_word": "刷",
+      "display_order": 2
+    },
+    {
+      "sentence": "His eyes glazed over as the lecture dragged on.",
+      "style": "Collocational",
+      "translation": "讲座越拖越长，他的眼神渐渐变得呆滞。",
+      "translated_word": "呆滞",
+      "display_order": 3
+    },
+    {
+      "sentence": "Morning light glazed the wet streets with gold.",
+      "style": "Poetic",
+      "translation": "晨光为湿润的街道镀上一层金色。",
+      "translated_word": "镀上",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother taught me to glaze pottery before I could read.",
+      "style": "Intimate",
+      "translation": "在我识字之前，祖母就教我给陶器上釉。",
+      "translated_word": "上釉",
+      "display_order": 1
+    }
+  ]
+}

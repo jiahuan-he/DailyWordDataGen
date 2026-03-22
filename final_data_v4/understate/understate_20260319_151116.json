@@ -1,0 +1,39 @@
+{
+  "word": "understate",
+  "phonetic": "/ˌʌndərˈsteɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "轻描淡写；低估；保守陈述",
+  "examples": [
+    {
+      "sentence": "Officials consistently understate the projected costs.",
+      "style": "Formal",
+      "translation": "官员们总是低估预计成本。",
+      "translated_word": "低估",
+      "display_order": 1
+    },
+    {
+      "sentence": "To call it difficult would understate the challenge entirely.",
+      "style": "Contrastive",
+      "translation": "称其艰难，实在过于轻描淡写。",
+      "translated_word": "轻描淡写",
+      "display_order": 2
+    },
+    {
+      "sentence": "The wisest voices often understate their certainty.",
+      "style": "Philosophical",
+      "translation": "智者往往对自己的笃定保持克制。",
+      "translated_word": "克制",
+      "display_order": 3
+    },
+    {
+      "sentence": "He understates his longing the way dusk softens the sun.",
+      "style": "Poetic",
+      "translation": "他轻描淡写自己的思念，如黄昏柔化落日。",
+      "translated_word": "轻描淡写",
+      "display_order": 4
+    }
+  ]
+}

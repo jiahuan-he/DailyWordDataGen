@@ -1,0 +1,40 @@
+{
+  "word": "board",
+  "phonetic": "/bɔːrd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "板；委员会；伙食",
+  "examples": [
+    {
+      "sentence": "She wrote the day's specials on the board behind the counter.",
+      "style": "Contextual",
+      "translation": "她把当日特餐写在柜台后的黑板上。",
+      "translated_word": "黑板",
+      "display_order": 1
+    },
+    {
+      "sentence": "The board approved a new sustainability initiative after months of deliberation.",
+      "style": "Formal",
+      "translation": "经过数月审议，董事会批准了一项新的可持续发展计划。",
+      "translated_word": "董事会",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every Sunday, we gather around the board for a game of chess.",
+      "style": "Collocational",
+      "translation": "每个周日，我们围坐在棋盘旁对弈。",
+      "translated_word": "棋盘",
+      "display_order": 3
+    },
+    {
+      "sentence": "That old cutting board still carries the scars of a thousand family dinners.",
+      "style": "Intimate",
+      "translation": "那块旧砧板上，刻满了无数顿家宴的痕迹。",
+      "translated_word": "砧板",
+      "display_order": 2
+    }
+  ]
+}

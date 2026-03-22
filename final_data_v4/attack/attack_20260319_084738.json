@@ -1,0 +1,40 @@
+{
+  "word": "attack",
+  "phonetic": "/əˈtæk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "攻击；抨击；侵袭",
+  "examples": [
+    {
+      "sentence": "Critics attacked the film for its shallow portrayal of history.",
+      "style": "Contextual",
+      "translation": "评论家们抨击这部电影对历史的刻画过于肤浅。",
+      "translated_word": "抨击",
+      "display_order": 2
+    },
+    {
+      "sentence": "Hackers attacked the company's servers, compromising millions of accounts.",
+      "style": "Formal",
+      "translation": "黑客攻击了公司服务器，数百万账户信息遭到泄露。",
+      "translated_word": "攻击",
+      "display_order": 1
+    },
+    {
+      "sentence": "She attacked the problem from a fresh angle.",
+      "style": "Collocational",
+      "translation": "她从一个全新的角度着手解决问题。",
+      "translated_word": "着手",
+      "display_order": 3
+    },
+    {
+      "sentence": "Attack your fears before they define your limits.",
+      "style": "Inspirational",
+      "translation": "主动出击，直面恐惧，莫让它框定你的边界。",
+      "translated_word": "出击",
+      "display_order": 4
+    }
+  ]
+}

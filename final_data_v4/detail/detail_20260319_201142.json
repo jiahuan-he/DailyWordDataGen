@@ -1,0 +1,40 @@
+{
+  "word": "detail",
+  "phonetic": "/dɪˈteɪl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "细节；详情；琐事",
+  "examples": [
+    {
+      "sentence": "The report omitted a crucial detail: the CEO's prior knowledge of the leak.",
+      "style": "Formal",
+      "translation": "报告遗漏了一个关键细节：首席执行官事先知悉了泄密事件。",
+      "translated_word": "细节",
+      "display_order": 2
+    },
+    {
+      "sentence": "She planned the wedding down to the last detail.",
+      "style": "Collocational",
+      "translation": "她将婚礼的每一个细节都安排得妥妥帖帖。",
+      "translated_word": "细节",
+      "display_order": 1
+    },
+    {
+      "sentence": "Attention to detail separates craft from art.",
+      "style": "Philosophical",
+      "translation": "对细节的专注，是匠艺与艺术的分水岭。",
+      "translated_word": "细节",
+      "display_order": 3
+    },
+    {
+      "sentence": "His face has faded, but one detail remains: the way his eyes crinkled when he smiled.",
+      "style": "Intimate",
+      "translation": "他的面容已渐模糊，唯有一处细节依然清晰：他笑时眼角的皱纹。",
+      "translated_word": "细节",
+      "display_order": 4
+    }
+  ]
+}

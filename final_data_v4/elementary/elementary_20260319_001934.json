@@ -1,0 +1,40 @@
+{
+  "word": "elementary",
+  "phonetic": "/ˌelɪˈmentəri/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "基础的；初级的；简单的",
+  "examples": [
+    {
+      "sentence": "The detective smiled: the solution was elementary, hidden in plain sight.",
+      "style": "Contextual",
+      "translation": "侦探微微一笑：答案如此简单，就藏在眼皮底下。",
+      "translated_word": "简单",
+      "display_order": 3
+    },
+    {
+      "sentence": "The audit revealed elementary flaws in the company's data security protocols.",
+      "style": "Formal",
+      "translation": "审计揭示了公司数据安全协议中的基础性漏洞。",
+      "translated_word": "基础性",
+      "display_order": 1
+    },
+    {
+      "sentence": "She still volunteers at the elementary school where she learned to read.",
+      "style": "Collocational",
+      "translation": "她仍在那所教会她认字的小学做志愿者。",
+      "translated_word": "小学",
+      "display_order": 2
+    },
+    {
+      "sentence": "Mastery often means returning to elementary truths we once rushed past.",
+      "style": "Philosophical",
+      "translation": "精通往往意味着重返那些我们曾匆匆掠过的基本道理。",
+      "translated_word": "基本",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "chip",
+  "phonetic": "/tʃɪp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "薯片；芯片；碎片；筹码",
+  "examples": [
+    {
+      "sentence": "The bag was half-empty, but she kept reaching for one more chip.",
+      "style": "Contextual",
+      "translation": "袋子已经空了一半，她却还是忍不住伸手再拿一片。",
+      "translated_word": "片",
+      "display_order": 3
+    },
+    {
+      "sentence": "A single chip powers the entire device.",
+      "style": "Collocational",
+      "translation": "一枚芯片驱动着整个设备。",
+      "translated_word": "芯片",
+      "display_order": 2
+    },
+    {
+      "sentence": "Global demand for semiconductor chips has reshaped supply chains worldwide.",
+      "style": "Formal",
+      "translation": "全球对半导体芯片的需求正在重塑世界供应链格局。",
+      "translated_word": "芯片",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather always saved the last chip in the bowl for me.",
+      "style": "Intimate",
+      "translation": "外公总会把碗里最后一片薯片留给我。",
+      "translated_word": "薯片",
+      "display_order": 1
+    }
+  ]
+}

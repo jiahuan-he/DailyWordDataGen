@@ -1,0 +1,40 @@
+{
+  "word": "spring",
+  "phonetic": "/sprɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "春天；泉水；弹簧",
+  "examples": [
+    {
+      "sentence": "The flowers always bloom earlier here; spring arrives in late February.",
+      "style": "Contextual",
+      "translation": "这里的花总是开得更早；春天二月末便已降临。",
+      "translated_word": "春天",
+      "display_order": 1
+    },
+    {
+      "sentence": "Spring unfolds quietly: first the birdsong, then the blossoms.",
+      "style": "Poetic",
+      "translation": "春天悄然展开：先是鸟鸣，然后是花开。",
+      "translated_word": "春天",
+      "display_order": 3
+    },
+    {
+      "sentence": "Spring cleaning became our annual ritual of letting go.",
+      "style": "Collocational",
+      "translation": "春季大扫除成了我们每年断舍离的仪式。",
+      "translated_word": "春季",
+      "display_order": 4
+    },
+    {
+      "sentence": "That spring in Kyoto changed how I see the world.",
+      "style": "Intimate",
+      "translation": "那年京都的春天，改变了我看世界的方式。",
+      "translated_word": "春天",
+      "display_order": 2
+    }
+  ]
+}

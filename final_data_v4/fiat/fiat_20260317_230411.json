@@ -1,0 +1,40 @@
+{
+  "word": "fiat",
+  "phonetic": "/ˈfiːæt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "法令；命令；许可；裁决",
+  "examples": [
+    {
+      "sentence": "The currency holds value by government fiat alone.",
+      "style": "Contextual",
+      "translation": "这种货币的价值，仅凭政府的一纸法令支撑。",
+      "translated_word": "法令",
+      "display_order": 2
+    },
+    {
+      "sentence": "The board issued a fiat: all meetings would now be remote.",
+      "style": "Formal",
+      "translation": "董事会下达指令：所有会议即日起改为线上进行。",
+      "translated_word": "指令",
+      "display_order": 1
+    },
+    {
+      "sentence": "Trust cannot be created by fiat; it must be earned.",
+      "style": "Philosophical",
+      "translation": "信任无法凭空颁布，唯有日积月累方能赢得。",
+      "translated_word": "颁布",
+      "display_order": 3
+    },
+    {
+      "sentence": "Consensus builds bridges; fiat builds walls.",
+      "style": "Contrastive",
+      "translation": "共识筑桥，而独断筑墙。",
+      "translated_word": "独断",
+      "display_order": 4
+    }
+  ]
+}

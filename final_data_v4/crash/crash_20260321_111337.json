@@ -1,0 +1,41 @@
+{
+  "word": "crash",
+  "phonetic": "/kræʃ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "碰撞；崩溃；暴跌；倒头就睡",
+  "examples": [
+    {
+      "sentence": "The waves crashed against the cliffs as the storm moved in.",
+      "style": "Contextual",
+      "translation": "风暴逼近时，海浪猛烈地拍打着悬崖。",
+      "translated_word": "拍打",
+      "display_order": 1
+    },
+    {
+      "sentence": "Tech stocks crashed following the disappointing earnings report.",
+      "style": "Formal",
+      "translation": "财报不及预期后，科技股大幅暴跌。",
+      "translated_word": "暴跌",
+      "display_order": 3
+    },
+    {
+      "sentence": "He crashed the party uninvited but left as the most memorable guest.",
+      "style": "Collocational",
+      "translation": "他不请自来闯入派对，离开时却成了最难忘的客人。",
+      "translated_word": "闯入",
+      "display_order": 4
+    },
+    {
+      "sentence": "After three sleepless nights, I crashed on the couch before sunset.",
+      "style": "Intimate",
+      "translation": "三天没合眼后，我在日落前倒在沙发上就睡着了。",
+      "translated_word": "倒",
+      "display_order": 2
+    }
+  ]
+}

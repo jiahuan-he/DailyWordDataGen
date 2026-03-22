@@ -1,0 +1,39 @@
+{
+  "word": "loyal",
+  "phonetic": "/ˈlɔɪəl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "忠诚的；忠实的；忠心的",
+  "examples": [
+    {
+      "sentence": "Even after the scandal, she remained loyal to the company that raised her.",
+      "style": "Contextual",
+      "translation": "丑闻过后，她依然忠于那家培养她的公司。",
+      "translated_word": "忠于",
+      "display_order": 1
+    },
+    {
+      "sentence": "A loyal customer for twenty years, he still orders the same coffee.",
+      "style": "Collocational",
+      "translation": "二十年的老主顾，他点的咖啡从未变过。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "Loyalty asks us to stay when staying costs something.",
+      "style": "Philosophical",
+      "translation": "忠诚的意义，在于留下需要代价的时候依然选择留下。",
+      "translated_word": "忠诚",
+      "display_order": 4
+    },
+    {
+      "sentence": "She kept every photograph, loyal to memories others had forgotten.",
+      "style": "Intimate",
+      "translation": "她留着每一张照片，守护着旁人早已遗忘的记忆。",
+      "translated_word": "守护",
+      "display_order": 3
+    }
+  ]
+}

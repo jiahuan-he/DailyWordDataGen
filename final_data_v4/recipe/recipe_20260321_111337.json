@@ -1,0 +1,39 @@
+{
+  "word": "recipe",
+  "phonetic": "/ˈresɪpi/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "食谱；配方；秘诀",
+  "examples": [
+    {
+      "sentence": "The recipe calls for fresh basil, not dried.",
+      "style": "Contextual",
+      "translation": "食谱上写的是新鲜罗勒，不是干的。",
+      "translated_word": "食谱",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her family recipe has survived three generations of improvising cooks.",
+      "style": "Collocational",
+      "translation": "她家的食谱历经三代厨师的即兴发挥，依然流传至今。",
+      "translated_word": "食谱",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every recipe for success conveniently omits the failures that shaped it.",
+      "style": "Philosophical",
+      "translation": "每一份成功的秘诀，都刻意隐去了那些塑造它的失败。",
+      "translated_word": "秘诀",
+      "display_order": 4
+    },
+    {
+      "sentence": "That oil-stained recipe card holds more than instructions; it holds her handwriting.",
+      "style": "Intimate",
+      "translation": "那张沾满油渍的食谱卡片，承载的不只是做法，还有她的字迹。",
+      "translated_word": "食谱",
+      "display_order": 3
+    }
+  ]
+}

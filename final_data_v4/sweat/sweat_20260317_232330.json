@@ -1,0 +1,40 @@
+{
+  "word": "sweat",
+  "phonetic": "/swet/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "出汗；辛苦劳作；焦虑",
+  "examples": [
+    {
+      "sentence": "Her palms began to sweat before the interview.",
+      "style": "Contextual",
+      "translation": "面试前，她的手心开始冒汗。",
+      "translated_word": "冒汗",
+      "display_order": 1
+    },
+    {
+      "sentence": "Don't sweat the details; the big picture is what counts.",
+      "style": "Collocational",
+      "translation": "别为细节操心；大局才是关键。",
+      "translated_word": "操心",
+      "display_order": 4
+    },
+    {
+      "sentence": "Champions sweat in private so they can shine in public.",
+      "style": "Inspirational",
+      "translation": "冠军在暗处挥汗，只为在明处发光。",
+      "translated_word": "挥汗",
+      "display_order": 3
+    },
+    {
+      "sentence": "We sweated all summer building that treehouse together.",
+      "style": "Intimate",
+      "translation": "那年夏天，我们一起挥汗搭建了那座树屋。",
+      "translated_word": "挥汗",
+      "display_order": 2
+    }
+  ]
+}

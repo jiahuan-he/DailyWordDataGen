@@ -1,0 +1,40 @@
+{
+  "word": "proportion",
+  "phonetic": "/prəˈpɔːrʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "比例；部分；均衡",
+  "examples": [
+    {
+      "sentence": "The painter studied the proportions of the human face for years.",
+      "style": "Contextual",
+      "translation": "那位画家研究人脸的比例长达数年。",
+      "translated_word": "比例",
+      "display_order": 1
+    },
+    {
+      "sentence": "A significant proportion of voters remain undecided.",
+      "style": "Formal",
+      "translation": "相当比例的选民仍未做出决定。",
+      "translated_word": "比例",
+      "display_order": 2
+    },
+    {
+      "sentence": "Beauty often hides in proportion, not in size.",
+      "style": "Philosophical",
+      "translation": "美往往藏于比例之中，而非尺寸之大。",
+      "translated_word": "比例",
+      "display_order": 3
+    },
+    {
+      "sentence": "She blew the criticism out of proportion.",
+      "style": "Collocational",
+      "translation": "她把那番批评夸大其词了。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

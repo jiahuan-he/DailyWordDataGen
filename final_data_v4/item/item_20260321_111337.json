@@ -1,0 +1,41 @@
+{
+  "word": "item",
+  "phonetic": "/ˈaɪtəm/",
+  "pos": [
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "物品；项目；条目；一则",
+  "examples": [
+    {
+      "sentence": "Each item on the shelf had a small handwritten price tag.",
+      "style": "Contextual",
+      "translation": "货架上的每件物品都贴着手写的小价签。",
+      "translated_word": "物品",
+      "display_order": 1
+    },
+    {
+      "sentence": "The committee will address the final item on today's agenda.",
+      "style": "Formal",
+      "translation": "委员会将讨论今日议程的最后一项。",
+      "translated_word": "项",
+      "display_order": 3
+    },
+    {
+      "sentence": "She checked off every item on her grocery list.",
+      "style": "Collocational",
+      "translation": "她逐一勾掉购物清单上的每一项。",
+      "translated_word": "项",
+      "display_order": 2
+    },
+    {
+      "sentence": "That worn leather wallet was the only item I kept from his belongings.",
+      "style": "Intimate",
+      "translation": "那只磨旧的皮夹，是我从他遗物中唯一留下的东西。",
+      "translated_word": "东西",
+      "display_order": 4
+    }
+  ]
+}

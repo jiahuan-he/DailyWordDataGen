@@ -1,0 +1,39 @@
+{
+  "word": "tend",
+  "phonetic": "/tɛnd/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "倾向；照料；趋于",
+  "examples": [
+    {
+      "sentence": "Children tend to ask the questions adults have forgotten.",
+      "style": "Contextual",
+      "translation": "孩子总爱问那些大人早已遗忘的问题。",
+      "translated_word": "总爱",
+      "display_order": 3
+    },
+    {
+      "sentence": "She tends her rooftop garden every morning before work.",
+      "style": "Collocational",
+      "translation": "每天上班前，她都会照料天台上的小花园。",
+      "translated_word": "照料",
+      "display_order": 1
+    },
+    {
+      "sentence": "We tend toward what we fear losing most.",
+      "style": "Philosophical",
+      "translation": "我们总是倾心于那些最怕失去的事物。",
+      "translated_word": "倾心",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother tended to everyone but herself.",
+      "style": "Intimate",
+      "translation": "奶奶照顾了所有人，唯独忘了自己。",
+      "translated_word": "照顾",
+      "display_order": 2
+    }
+  ]
+}

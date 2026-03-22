@@ -1,0 +1,40 @@
+{
+  "word": "staircase",
+  "phonetic": "/ˈsterkeɪs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "楼梯；阶梯；楼梯间",
+  "examples": [
+    {
+      "sentence": "Her voice echoed through the empty staircase.",
+      "style": "Contextual",
+      "translation": "她的声音在空荡的楼梯间回响。",
+      "translated_word": "楼梯间",
+      "display_order": 1
+    },
+    {
+      "sentence": "Dust motes danced in the light falling through the staircase window.",
+      "style": "Poetic",
+      "translation": "阳光穿过楼梯的窗户，尘埃在光柱中起舞。",
+      "translated_word": "楼梯",
+      "display_order": 2
+    },
+    {
+      "sentence": "That narrow staircase heard all my teenage secrets.",
+      "style": "Intimate",
+      "translation": "那道狭窄的楼梯，听过我所有少年时的秘密。",
+      "translated_word": "楼梯",
+      "display_order": 3
+    },
+    {
+      "sentence": "A staircase reveals only the next step; the landing stays hidden until you climb.",
+      "style": "Philosophical",
+      "translation": "楼梯只显露下一级台阶；平台始终隐于攀登之后。",
+      "translated_word": "楼梯",
+      "display_order": 4
+    }
+  ]
+}

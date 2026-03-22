@@ -1,0 +1,40 @@
+{
+  "word": "load",
+  "phonetic": "/loʊd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "负担；负荷；装载量",
+  "examples": [
+    {
+      "sentence": "The porter adjusted the load before climbing the stairs.",
+      "style": "Contextual",
+      "translation": "搬运工在上楼前调整了背上的货物。",
+      "translated_word": "货物",
+      "display_order": 1
+    },
+    {
+      "sentence": "A heavy load of work greeted her Monday morning.",
+      "style": "Collocational",
+      "translation": "周一清晨，繁重的工作迎面而来。",
+      "translated_word": "繁重",
+      "display_order": 2
+    },
+    {
+      "sentence": "The heaviest loads are those we refuse to set down.",
+      "style": "Philosophical",
+      "translation": "最沉重的负担，往往是我们不肯放下的那些。",
+      "translated_word": "负担",
+      "display_order": 4
+    },
+    {
+      "sentence": "That load of debt shaped every decision he made for years.",
+      "style": "Intimate",
+      "translation": "那笔债务的重压，左右了他多年来的每一个抉择。",
+      "translated_word": "重压",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "sparse",
+  "phonetic": "/spɑːrs/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "稀疏；稀少；零星",
+  "examples": [
+    {
+      "sentence": "The crowd was sparse; we found seats easily.",
+      "style": "Contextual",
+      "translation": "人群稀少，我们轻松找到了座位。",
+      "translated_word": "稀少",
+      "display_order": 2
+    },
+    {
+      "sentence": "Sparse leaves clung to bare branches, refusing to let go of autumn.",
+      "style": "Poetic",
+      "translation": "枯枝上几片残叶不肯凋落，眷恋着深秋。",
+      "translated_word": "几片",
+      "display_order": 4
+    },
+    {
+      "sentence": "The region's sparse population makes infrastructure investment challenging.",
+      "style": "Formal",
+      "translation": "该地区人口稀少，基础设施投资面临挑战。",
+      "translated_word": "稀少",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sparse vegetation dotted the arid landscape.",
+      "style": "Collocational",
+      "translation": "稀疏的植被点缀着干旱的大地。",
+      "translated_word": "稀疏",
+      "display_order": 1
+    }
+  ]
+}

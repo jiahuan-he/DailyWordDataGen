@@ -1,0 +1,40 @@
+{
+  "word": "company",
+  "phonetic": "/ˈkʌmpəni/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "公司；陪伴；同伴",
+  "examples": [
+    {
+      "sentence": "She built the company from a garage and a dream.",
+      "style": "Contextual",
+      "translation": "她从一间车库和一个梦想起步，一手创建了这家公司。",
+      "translated_word": "公司",
+      "display_order": 1
+    },
+    {
+      "sentence": "He keeps good company; his friends are kind and curious.",
+      "style": "Collocational",
+      "translation": "他交友甚佳；身边的朋友都善良而好奇。",
+      "translated_word": "交友",
+      "display_order": 4
+    },
+    {
+      "sentence": "Some evenings, a cat and a cup of tea are company enough.",
+      "style": "Intimate",
+      "translation": "有些夜晚，一只猫、一杯茶，便是足够的陪伴。",
+      "translated_word": "陪伴",
+      "display_order": 2
+    },
+    {
+      "sentence": "Solitude teaches you which company you truly miss.",
+      "style": "Philosophical",
+      "translation": "孤独教会你，究竟想念谁的陪伴。",
+      "translated_word": "陪伴",
+      "display_order": 3
+    }
+  ]
+}

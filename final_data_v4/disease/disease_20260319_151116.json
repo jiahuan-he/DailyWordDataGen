@@ -1,0 +1,40 @@
+{
+  "word": "disease",
+  "phonetic": "/dɪˈziːz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "疾病；病症；弊病",
+  "examples": [
+    {
+      "sentence": "The doctor confirmed it was a rare genetic disease.",
+      "style": "Contextual",
+      "translation": "医生确认这是一种罕见的遗传疾病。",
+      "translated_word": "疾病",
+      "display_order": 1
+    },
+    {
+      "sentence": "Health officials are racing to contain the spread of the disease.",
+      "style": "Formal",
+      "translation": "卫生官员正全力遏制疾病的蔓延。",
+      "translated_word": "疾病",
+      "display_order": 2
+    },
+    {
+      "sentence": "Loneliness is a disease that no medicine can cure.",
+      "style": "Philosophical",
+      "translation": "孤独是一种无药可医的疾病。",
+      "translated_word": "疾病",
+      "display_order": 3
+    },
+    {
+      "sentence": "The disease crept through the village, leaving only shuttered windows and silence.",
+      "style": "Poetic",
+      "translation": "疾病悄然蔓延过村庄，只留下紧闭的窗户与一片寂静。",
+      "translated_word": "疾病",
+      "display_order": 4
+    }
+  ]
+}

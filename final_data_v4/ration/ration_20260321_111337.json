@@ -1,0 +1,40 @@
+{
+  "word": "ration",
+  "phonetic": "/ˈræʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "配给量；定量；口粮",
+  "examples": [
+    {
+      "sentence": "Each camper received a small ration of dried fruit for the week.",
+      "style": "Contextual",
+      "translation": "每位露营者领到一小份干果，作为一周的配给。",
+      "translated_word": "配给",
+      "display_order": 4
+    },
+    {
+      "sentence": "Aid workers distributed daily rations to refugees at the border camp.",
+      "style": "Formal",
+      "translation": "救援人员在边境营地向难民分发每日口粮。",
+      "translated_word": "口粮",
+      "display_order": 1
+    },
+    {
+      "sentence": "We spend our ration of days without knowing the sum.",
+      "style": "Philosophical",
+      "translation": "我们消耗着有限的时日，却从不知晓总数。",
+      "translated_word": "有限",
+      "display_order": 3
+    },
+    {
+      "sentence": "Even decades later, Grandpa cut bread thin; his hands remembered the ration.",
+      "style": "Intimate",
+      "translation": "几十年后，爷爷切面包依然很薄；他的双手记得那段配给的岁月。",
+      "translated_word": "配给",
+      "display_order": 2
+    }
+  ]
+}

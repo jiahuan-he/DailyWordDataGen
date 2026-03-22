@@ -1,0 +1,40 @@
+{
+  "word": "squeeze",
+  "phonetic": "/skwiːz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "挤；压榨；紧握；勉强挤出",
+  "examples": [
+    {
+      "sentence": "She squeezed the last drop of toothpaste from the tube.",
+      "style": "Contextual",
+      "translation": "她把牙膏管里最后一滴也挤了出来。",
+      "translated_word": "挤",
+      "display_order": 1
+    },
+    {
+      "sentence": "Can we squeeze in a quick coffee before your flight?",
+      "style": "Collocational",
+      "translation": "你起飞前，我们能挤出时间喝杯咖啡吗？",
+      "translated_word": "挤出",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother squeezed my hand once before letting go; that warmth never faded.",
+      "style": "Intimate",
+      "translation": "祖母松手前轻轻握了握我的手；那份温暖从未消散。",
+      "translated_word": "握了握",
+      "display_order": 3
+    },
+    {
+      "sentence": "We squeeze our days so full that silence becomes a stranger.",
+      "style": "Philosophical",
+      "translation": "我们把每一天都塞得太满，以至于静默成了陌生人。",
+      "translated_word": "塞",
+      "display_order": 4
+    }
+  ]
+}

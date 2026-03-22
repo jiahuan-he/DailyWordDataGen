@@ -1,0 +1,41 @@
+{
+  "word": "diet",
+  "phonetic": "/ˈdaɪət/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "饮食；节食；食谱",
+  "examples": [
+    {
+      "sentence": "Her diet is mostly vegetables, fish, and whole grains.",
+      "style": "Contextual",
+      "translation": "她的饮食以蔬菜、鱼类和全谷物为主。",
+      "translated_word": "饮食",
+      "display_order": 1
+    },
+    {
+      "sentence": "A balanced diet beats any quick fix.",
+      "style": "Collocational",
+      "translation": "均衡的饮食胜过任何速效方案。",
+      "translated_word": "饮食",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every crash diet I tried only led me back to self-compassion.",
+      "style": "Intimate",
+      "translation": "每一次失败的节食，最终都将我引向对自己的温柔以待。",
+      "translated_word": "节食",
+      "display_order": 4
+    },
+    {
+      "sentence": "Small shifts in diet ripple into lasting change.",
+      "style": "Inspirational",
+      "translation": "饮食上的微小改变，能激起持久的涟漪。",
+      "translated_word": "饮食",
+      "display_order": 3
+    }
+  ]
+}

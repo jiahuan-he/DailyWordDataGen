@@ -1,0 +1,39 @@
+{
+  "word": "bizarre",
+  "phonetic": "/bɪˈzɑːr/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "奇异的；怪诞的；离奇的",
+  "examples": [
+    {
+      "sentence": "The dream featured a bizarre landscape: floating houses and purple rain.",
+      "style": "Contextual",
+      "translation": "梦中是一片奇异的景象：漂浮的房屋，紫色的雨。",
+      "translated_word": "奇异",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities described the incident as bizarre, with no known precedent.",
+      "style": "Formal",
+      "translation": "当局称此事件极为离奇，史无前例。",
+      "translated_word": "离奇",
+      "display_order": 3
+    },
+    {
+      "sentence": "A bizarre stillness hung over the empty carnival at dusk.",
+      "style": "Poetic",
+      "translation": "黄昏时分，空旷的游乐场笼罩着一种怪诞的寂静。",
+      "translated_word": "怪诞",
+      "display_order": 2
+    },
+    {
+      "sentence": "The bizarre unsettles us because it defies the patterns we've learned to trust.",
+      "style": "Philosophical",
+      "translation": "怪诞之所以令人不安，是因为它打破了我们赖以信任的秩序。",
+      "translated_word": "怪诞",
+      "display_order": 4
+    }
+  ]
+}

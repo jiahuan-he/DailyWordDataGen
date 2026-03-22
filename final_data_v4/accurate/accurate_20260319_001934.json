@@ -1,0 +1,39 @@
+{
+  "word": "accurate",
+  "phonetic": "/ˈækjərət/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "精确的；准确的；无误的",
+  "examples": [
+    {
+      "sentence": "Her prediction proved accurate: snow fell at midnight.",
+      "style": "Contextual",
+      "translation": "她的预测应验了：午夜时分，雪如期而至。",
+      "translated_word": "应验",
+      "display_order": 3
+    },
+    {
+      "sentence": "The investigation yielded an accurate timeline of events.",
+      "style": "Formal",
+      "translation": "调查还原了事件的精确时间线。",
+      "translated_word": "精确",
+      "display_order": 2
+    },
+    {
+      "sentence": "An accurate diagnosis saved months of uncertainty.",
+      "style": "Collocational",
+      "translation": "精准的诊断省去了数月的茫然。",
+      "translated_word": "精准",
+      "display_order": 1
+    },
+    {
+      "sentence": "We crave accurate answers in a world of half-truths.",
+      "style": "Philosophical",
+      "translation": "在真假难辨的世界里，我们渴望确切的答案。",
+      "translated_word": "确切",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "attain",
+  "phonetic": "/əˈteɪn/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "达到；获得；实现",
+  "examples": [
+    {
+      "sentence": "After years of practice, she attained the rank of black belt.",
+      "style": "Contextual",
+      "translation": "经过多年练习，她终于获得了黑带段位。",
+      "translated_word": "获得",
+      "display_order": 1
+    },
+    {
+      "sentence": "The firm attained record profits for the third consecutive quarter.",
+      "style": "Formal",
+      "translation": "该公司连续第三个季度实现创纪录利润。",
+      "translated_word": "实现",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some goals, once attained, reveal themselves as mere starting points.",
+      "style": "Philosophical",
+      "translation": "有些目标一旦达成，才发现不过是新的起点。",
+      "translated_word": "达成",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every skill you attain becomes a permanent part of who you are.",
+      "style": "Inspirational",
+      "translation": "你所习得的每项技能，都将成为你永恒的一部分。",
+      "translated_word": "习得",
+      "display_order": 2
+    }
+  ]
+}

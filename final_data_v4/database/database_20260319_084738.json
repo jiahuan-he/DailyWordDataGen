@@ -1,0 +1,40 @@
+{
+  "word": "database",
+  "phonetic": "/ˈdeɪtəˌbeɪs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "数据库；资料库",
+  "examples": [
+    {
+      "sentence": "The entire customer database was migrated overnight without a single error.",
+      "style": "Contextual",
+      "translation": "整个客户数据库在一夜之间完成迁移，没有出现任何错误。",
+      "translated_word": "数据库",
+      "display_order": 3
+    },
+    {
+      "sentence": "Authorities confirmed that hackers accessed a government database containing sensitive records.",
+      "style": "Formal",
+      "translation": "当局证实，黑客入侵了一个存有敏感档案的政府数据库。",
+      "translated_word": "数据库",
+      "display_order": 4
+    },
+    {
+      "sentence": "She built a database to track every book she had ever read.",
+      "style": "Collocational",
+      "translation": "她建了一个数据库，记录自己读过的每一本书。",
+      "translated_word": "数据库",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandfather's stories live on in the database I created for our family history.",
+      "style": "Intimate",
+      "translation": "祖父的故事留存在我为家族史建立的数据库中，永不消逝。",
+      "translated_word": "数据库",
+      "display_order": 2
+    }
+  ]
+}

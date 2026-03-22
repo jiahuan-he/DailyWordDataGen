@@ -1,0 +1,40 @@
+{
+  "word": "ladle",
+  "phonetic": "/ˈleɪdl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "长柄勺；汤勺",
+  "examples": [
+    {
+      "sentence": "She dipped the ladle into the pot and filled each bowl.",
+      "style": "Contextual",
+      "translation": "她把长勺探入锅中，逐一盛满每只碗。",
+      "translated_word": "长勺",
+      "display_order": 1
+    },
+    {
+      "sentence": "A wooden ladle rested on the edge of the simmering soup pot.",
+      "style": "Collocational",
+      "translation": "一把木勺搁在咕嘟作响的汤锅边上。",
+      "translated_word": "木勺",
+      "display_order": 2
+    },
+    {
+      "sentence": "That old ladle was the first thing I packed when I moved away.",
+      "style": "Intimate",
+      "translation": "搬家那天，我最先装进箱子的是那把老汤勺。",
+      "translated_word": "汤勺",
+      "display_order": 3
+    },
+    {
+      "sentence": "The ladle broke the broth's stillness, releasing a curl of fragrant steam.",
+      "style": "Poetic",
+      "translation": "长勺划破汤面的静谧，腾起一缕馥郁的热气。",
+      "translated_word": "长勺",
+      "display_order": 4
+    }
+  ]
+}

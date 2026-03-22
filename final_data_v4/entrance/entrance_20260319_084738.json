@@ -1,0 +1,40 @@
+{
+  "word": "entrance",
+  "phonetic": "/ˈentrəns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "入口；进入；登场",
+  "examples": [
+    {
+      "sentence": "We agreed to meet at the side entrance after the concert.",
+      "style": "Contextual",
+      "translation": "我们约好音乐会后在侧门见面。",
+      "translated_word": "门",
+      "display_order": 1
+    },
+    {
+      "sentence": "She made a grand entrance in a floor-length gown.",
+      "style": "Collocational",
+      "translation": "她身着曳地长裙，惊艳登场。",
+      "translated_word": "登场",
+      "display_order": 3
+    },
+    {
+      "sentence": "Wisteria veiled the garden entrance in violet shadow.",
+      "style": "Poetic",
+      "translation": "紫藤掩映花园入口，洒下一片幽紫。",
+      "translated_word": "入口",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every entrance asks something of us before it opens.",
+      "style": "Philosophical",
+      "translation": "每一处入口在开启之前，都向我们索要些什么。",
+      "translated_word": "入口",
+      "display_order": 4
+    }
+  ]
+}

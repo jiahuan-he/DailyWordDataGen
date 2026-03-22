@@ -1,0 +1,39 @@
+{
+  "word": "seedy",
+  "phonetic": "/ˈsiːdi/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "破旧的；肮脏的；不正派的",
+  "examples": [
+    {
+      "sentence": "The motel's flickering sign and stained curtains gave it a seedy air.",
+      "style": "Contextual",
+      "translation": "汽车旅馆闪烁的招牌和污渍斑斑的窗帘，透着一股破败气息。",
+      "translated_word": "破败",
+      "display_order": 1
+    },
+    {
+      "sentence": "He vanished into the seedy underbelly of the city.",
+      "style": "Collocational",
+      "translation": "他消失在城市肮脏的底层。",
+      "translated_word": "肮脏",
+      "display_order": 4
+    },
+    {
+      "sentence": "The old hotel wore its seedy past in every crack and stain.",
+      "style": "Poetic",
+      "translation": "那间老旅馆的每一道裂痕与污渍，都铭刻着它不堪的过往。",
+      "translated_word": "不堪",
+      "display_order": 3
+    },
+    {
+      "sentence": "My first apartment sat above a seedy bar; I fell asleep to muffled laughter every night.",
+      "style": "Intimate",
+      "translation": "我的第一间公寓在一家破旧酒吧的楼上；每晚我都枕着隐约的笑声入眠。",
+      "translated_word": "破旧",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "edge",
+  "phonetic": "/edʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "边缘；优势；锋利",
+  "examples": [
+    {
+      "sentence": "She traced her finger along the edge of the old photograph.",
+      "style": "Contextual",
+      "translation": "她的指尖轻轻划过老照片的边缘。",
+      "translated_word": "边缘",
+      "display_order": 1
+    },
+    {
+      "sentence": "Innovation gives small companies a competitive edge.",
+      "style": "Collocational",
+      "translation": "创新赋予小公司竞争优势。",
+      "translated_word": "优势",
+      "display_order": 4
+    },
+    {
+      "sentence": "Growth begins at the edge of your comfort zone.",
+      "style": "Inspirational",
+      "translation": "成长始于舒适区的边界。",
+      "translated_word": "边界",
+      "display_order": 3
+    },
+    {
+      "sentence": "Morning light softened the edge of the distant hills.",
+      "style": "Poetic",
+      "translation": "晨光柔化了远山的轮廓。",
+      "translated_word": "轮廓",
+      "display_order": 2
+    }
+  ]
+}

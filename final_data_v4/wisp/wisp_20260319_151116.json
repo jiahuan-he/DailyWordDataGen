@@ -1,0 +1,40 @@
+{
+  "word": "wisp",
+  "phonetic": "/wɪsp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "一缕；一丝；一小束",
+  "examples": [
+    {
+      "sentence": "A wisp of smoke curled upward from the chimney.",
+      "style": "Contextual",
+      "translation": "一缕青烟从烟囱袅袅升起。",
+      "translated_word": "一缕",
+      "display_order": 1
+    },
+    {
+      "sentence": "She tucked a wisp of hair behind her ear and smiled.",
+      "style": "Collocational",
+      "translation": "她将一缕碎发别到耳后，轻轻一笑。",
+      "translated_word": "一缕",
+      "display_order": 2
+    },
+    {
+      "sentence": "The last wisp of fog dissolved as the sun climbed higher.",
+      "style": "Poetic",
+      "translation": "最后一丝薄雾随着日头渐高悄然消散。",
+      "translated_word": "一丝",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her voice was barely a wisp, but he heard every word.",
+      "style": "Intimate",
+      "translation": "她的声音细若游丝，他却听得分明。",
+      "translated_word": "游丝",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "smuggle",
+  "phonetic": "/ˈsmʌɡl/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "走私；偷运；私带",
+  "examples": [
+    {
+      "sentence": "He hid the letters in a hollow book and smuggled them out of the prison.",
+      "style": "Contextual",
+      "translation": "他把信藏在空心书里，偷偷带出了监狱。",
+      "translated_word": "偷偷带出",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities dismantled a network that had smuggled rare artifacts for decades.",
+      "style": "Formal",
+      "translation": "当局捣毁了一个走私珍稀文物长达数十年的犯罪网络。",
+      "translated_word": "走私",
+      "display_order": 3
+    },
+    {
+      "sentence": "Refugees risked everything to smuggle their children across the border.",
+      "style": "Collocational",
+      "translation": "难民们不惜一切，将孩子偷运过境。",
+      "translated_word": "偷运",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother smuggled one photograph out of the war; it still sits on her nightstand.",
+      "style": "Intimate",
+      "translation": "祖母从战火中只带出一张照片；它至今仍立在她床头。",
+      "translated_word": "带出",
+      "display_order": 4
+    }
+  ]
+}

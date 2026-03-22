@@ -1,0 +1,39 @@
+{
+  "word": "abbreviation",
+  "phonetic": "/əˌbriːviˈeɪʃn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "缩写；简称；缩略语",
+  "examples": [
+    {
+      "sentence": "NASA began as an abbreviation; now it's a household name.",
+      "style": "Contextual",
+      "translation": "NASA起初只是一个缩写；如今已家喻户晓。",
+      "translated_word": "缩写",
+      "display_order": 2
+    },
+    {
+      "sentence": "The report employs standard abbreviations for clarity and brevity.",
+      "style": "Formal",
+      "translation": "该报告采用标准缩写，以求清晰简洁。",
+      "translated_word": "缩写",
+      "display_order": 3
+    },
+    {
+      "sentence": "Doctors write in abbreviations; pharmacists learn to decode them.",
+      "style": "Collocational",
+      "translation": "医生用缩写开方；药剂师练就一双解码的眼睛。",
+      "translated_word": "缩写",
+      "display_order": 4
+    },
+    {
+      "sentence": "Write the full term first, then introduce the abbreviation.",
+      "style": "Contrastive",
+      "translation": "先写全称，再引入缩写。",
+      "translated_word": "缩写",
+      "display_order": 1
+    }
+  ]
+}

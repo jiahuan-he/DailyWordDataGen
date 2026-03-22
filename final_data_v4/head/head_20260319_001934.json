@@ -1,0 +1,41 @@
+{
+  "word": "head",
+  "phonetic": "/hed/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "头；头脑；首领；顶端",
+  "examples": [
+    {
+      "sentence": "She rested her head on his shoulder and closed her eyes.",
+      "style": "Contextual",
+      "translation": "她把头靠在他肩上，轻轻闭上眼睛。",
+      "translated_word": "头",
+      "display_order": 2
+    },
+    {
+      "sentence": "The head of the delegation addressed concerns about the new trade agreement.",
+      "style": "Formal",
+      "translation": "代表团团长就新贸易协定的相关问题发表了讲话。",
+      "translated_word": "团长",
+      "display_order": 4
+    },
+    {
+      "sentence": "A good night's sleep can clear your head before a difficult decision.",
+      "style": "Collocational",
+      "translation": "睡个好觉能让你在做重要决定前理清头绪。",
+      "translated_word": "头绪",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother used to pat my head and say everything would work out.",
+      "style": "Intimate",
+      "translation": "外婆总爱摸摸我的头，说一切都会好起来的。",
+      "translated_word": "头",
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "staple",
+  "phonetic": "/ˈsteɪpl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "主食；必需品；主要产品",
+  "examples": [
+    {
+      "sentence": "In rural China, rice and noodles are staples that anchor every meal.",
+      "style": "Contextual",
+      "translation": "在中国乡村，米饭和面条是每餐不可或缺的主食。",
+      "translated_word": "主食",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rising inflation has made even basic staples unaffordable for many families.",
+      "style": "Formal",
+      "translation": "通货膨胀加剧，许多家庭连基本必需品都已难以负担。",
+      "translated_word": "必需品",
+      "display_order": 3
+    },
+    {
+      "sentence": "Olive oil, garlic, and tomatoes: the holy trinity of Mediterranean staples.",
+      "style": "Collocational",
+      "translation": "橄榄油、大蒜、番茄：地中海饮食的三大支柱。",
+      "translated_word": "支柱",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her pantry held only flour, salt, and dried beans, yet from these staples she conjured feasts.",
+      "style": "Intimate",
+      "translation": "她的储藏室里只有面粉、盐和干豆，却能用这些简单食材变出满桌佳肴。",
+      "translated_word": "食材",
+      "display_order": 2
+    }
+  ]
+}

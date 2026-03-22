@@ -1,0 +1,41 @@
+{
+  "word": "human",
+  "phonetic": "/ˈhjuːmən/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "人类的；有人情味的；凡人的",
+  "examples": [
+    {
+      "sentence": "The most human quality is not reason; it is hope.",
+      "style": "Philosophical",
+      "translation": "最具人性的品质不是理性，而是希望。",
+      "translated_word": "人性",
+      "display_order": 4
+    },
+    {
+      "sentence": "Human error caused the delay, not the software.",
+      "style": "Collocational",
+      "translation": "是人为失误导致了延误，而非软件故障。",
+      "translated_word": "人为",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her laughter held something deeply human: joy laced with old sorrow.",
+      "style": "Poetic",
+      "translation": "她的笑声里藏着某种至深的人性：欢愉中掺着旧日的哀愁。",
+      "translated_word": "人性",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father's hands told his story: rough, tired, profoundly human.",
+      "style": "Intimate",
+      "translation": "父亲的双手诉说着他的故事：粗糙、疲惫，却无比真实。",
+      "translated_word": "真实",
+      "display_order": 2
+    }
+  ]
+}

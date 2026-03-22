@@ -1,0 +1,40 @@
+{
+  "word": "pack",
+  "phonetic": "/pæk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "打包；装箱；收拾；塞满",
+  "examples": [
+    {
+      "sentence": "He packed three books for a weekend trip.",
+      "style": "Contextual",
+      "translation": "他为周末旅行装了三本书。",
+      "translated_word": "装",
+      "display_order": 1
+    },
+    {
+      "sentence": "Pack light; you'll thank yourself later.",
+      "style": "Collocational",
+      "translation": "轻装上阵；日后你会感谢自己。",
+      "translated_word": "装",
+      "display_order": 2
+    },
+    {
+      "sentence": "Packing my childhood room, I folded years into cardboard boxes.",
+      "style": "Intimate",
+      "translation": "收拾童年的房间，我把岁月折进纸箱。",
+      "translated_word": "收拾",
+      "display_order": 4
+    },
+    {
+      "sentence": "Pack only what serves you; leave the rest behind.",
+      "style": "Inspirational",
+      "translation": "只带有用之物；其余皆可放下。",
+      "translated_word": "带",
+      "display_order": 3
+    }
+  ]
+}

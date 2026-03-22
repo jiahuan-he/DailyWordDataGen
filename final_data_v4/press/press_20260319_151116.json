@@ -1,0 +1,40 @@
+{
+  "word": "press",
+  "phonetic": "/prɛs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "按；压；催促；熨烫",
+  "examples": [
+    {
+      "sentence": "She pressed the elevator button twice, impatient to leave.",
+      "style": "Contextual",
+      "translation": "她连按了两下电梯按钮，急着离开。",
+      "translated_word": "按",
+      "display_order": 1
+    },
+    {
+      "sentence": "The journalist pressed him for answers until he finally confessed.",
+      "style": "Collocational",
+      "translation": "记者穷追不舍地追问，他终于坦白了。",
+      "translated_word": "追问",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother pressed wildflowers between the pages of her Bible.",
+      "style": "Intimate",
+      "translation": "外婆把野花压在《圣经》的书页间。",
+      "translated_word": "压",
+      "display_order": 2
+    },
+    {
+      "sentence": "The committee pressed charges against the former executive.",
+      "style": "Formal",
+      "translation": "委员会对这位前高管提起了诉讼。",
+      "translated_word": "提起",
+      "display_order": 4
+    }
+  ]
+}

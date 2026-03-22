@@ -1,0 +1,39 @@
+{
+  "word": "deny",
+  "phonetic": "/dɪˈnaɪ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "否认；拒绝；剥夺",
+  "examples": [
+    {
+      "sentence": "She denied knowing anything about the missing documents.",
+      "style": "Contextual",
+      "translation": "她否认自己知晓任何关于失踪文件的事。",
+      "translated_word": "否认",
+      "display_order": 1
+    },
+    {
+      "sentence": "The corporation denied all allegations of financial misconduct.",
+      "style": "Formal",
+      "translation": "该公司否认了所有财务不当行为的指控。",
+      "translated_word": "否认",
+      "display_order": 3
+    },
+    {
+      "sentence": "We often deny the truths that demand the most from us.",
+      "style": "Philosophical",
+      "translation": "我们常常否认那些对我们要求最多的真相。",
+      "translated_word": "否认",
+      "display_order": 4
+    },
+    {
+      "sentence": "For years, I denied how deeply his silence had wounded me.",
+      "style": "Intimate",
+      "translation": "多年来，我不愿承认他的沉默伤我有多深。",
+      "translated_word": "不愿承认",
+      "display_order": 2
+    }
+  ]
+}

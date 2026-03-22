@@ -1,0 +1,41 @@
+{
+  "word": "due",
+  "phonetic": "/djuː/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "到期的；应得的；预定的",
+  "examples": [
+    {
+      "sentence": "The library books are due tomorrow.",
+      "style": "Contextual",
+      "translation": "图书馆的书明天到期。",
+      "translated_word": "到期",
+      "display_order": 1
+    },
+    {
+      "sentence": "The quarterly report is due by end of business Friday.",
+      "style": "Formal",
+      "translation": "季度报告须在周五下班前提交。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "He finally gave credit where credit was due.",
+      "style": "Collocational",
+      "translation": "他终于承认了他人应得的功劳。",
+      "translated_word": "应得的",
+      "display_order": 4
+    },
+    {
+      "sentence": "My thesis was due in a week, and the blank page felt infinite.",
+      "style": "Intimate",
+      "translation": "论文一周后就要交了，空白的页面却像永远也填不满。",
+      "translated_word": "要交",
+      "display_order": 2
+    }
+  ]
+}

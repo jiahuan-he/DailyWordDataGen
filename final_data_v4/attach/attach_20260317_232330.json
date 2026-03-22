@@ -1,0 +1,39 @@
+{
+  "word": "attach",
+  "phonetic": "/əˈtætʃ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "附上；连接；依附；重视",
+  "examples": [
+    {
+      "sentence": "She attached a handwritten note to the gift.",
+      "style": "Contextual",
+      "translation": "她在礼物上附了一张手写便条。",
+      "translated_word": "附",
+      "display_order": 1
+    },
+    {
+      "sentence": "He attaches great importance to first impressions.",
+      "style": "Collocational",
+      "translation": "他非常重视第一印象。",
+      "translated_word": "重视",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother attached every letter I wrote to her bedroom mirror.",
+      "style": "Intimate",
+      "translation": "外婆把我写的每一封信都贴在她卧室的镜子上。",
+      "translated_word": "贴",
+      "display_order": 2
+    },
+    {
+      "sentence": "We attach meaning to objects; they return it as memory.",
+      "style": "Philosophical",
+      "translation": "我们赋予物品意义，它们以记忆回馈。",
+      "translated_word": "赋予",
+      "display_order": 4
+    }
+  ]
+}

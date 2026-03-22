@@ -1,0 +1,40 @@
+{
+  "word": "comprehensive",
+  "phonetic": "/ˌkɑːmprɪˈhensɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "全面的；综合的；详尽的",
+  "examples": [
+    {
+      "sentence": "The report left nothing unexamined: it was truly comprehensive.",
+      "style": "Contextual",
+      "translation": "那份报告没有遗漏任何细节：堪称详尽。",
+      "translated_word": "详尽",
+      "display_order": 3
+    },
+    {
+      "sentence": "The ministry announced a comprehensive reform of the healthcare system.",
+      "style": "Formal",
+      "translation": "卫生部宣布对医疗体系进行全面改革。",
+      "translated_word": "全面",
+      "display_order": 1
+    },
+    {
+      "sentence": "She compiled a comprehensive guide to the city's hidden bookstores.",
+      "style": "Collocational",
+      "translation": "她编撰了一份关于城中隐秘书店的完整指南。",
+      "translated_word": "完整",
+      "display_order": 2
+    },
+    {
+      "sentence": "A quick summary informs; a comprehensive analysis transforms.",
+      "style": "Contrastive",
+      "translation": "简述使人知晓，详析使人通透。",
+      "translated_word": "详",
+      "display_order": 4
+    }
+  ]
+}

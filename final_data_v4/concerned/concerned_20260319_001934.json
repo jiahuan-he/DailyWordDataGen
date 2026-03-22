@@ -1,0 +1,40 @@
+{
+  "word": "concerned",
+  "phonetic": "/kənˈsɜːrnd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "担忧的；关心的；有关的",
+  "examples": [
+    {
+      "sentence": "Her silence made him concerned.",
+      "style": "Contextual",
+      "translation": "她的沉默让他心生忧虑。",
+      "translated_word": "忧虑",
+      "display_order": 1
+    },
+    {
+      "sentence": "Doctors are growing concerned over the rise in antibiotic-resistant infections.",
+      "style": "Formal",
+      "translation": "医生们对抗生素耐药性感染的增加日益担忧。",
+      "translated_word": "担忧",
+      "display_order": 3
+    },
+    {
+      "sentence": "The most concerned parents are often the quietest ones.",
+      "style": "Philosophical",
+      "translation": "最牵挂的父母，往往是最沉默的那一个。",
+      "translated_word": "牵挂",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother never said she loved me; she just asked if I had eaten, always concerned.",
+      "style": "Intimate",
+      "translation": "奶奶从不说爱我，只是每次都问我吃了没有，总是那样牵挂。",
+      "translated_word": "牵挂",
+      "display_order": 2
+    }
+  ]
+}

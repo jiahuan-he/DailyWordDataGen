@@ -1,0 +1,41 @@
+{
+  "word": "limited",
+  "phonetic": "/ˈlɪmɪtɪd/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有限的；受限制的；不多的",
+  "examples": [
+    {
+      "sentence": "Seating is limited; arrive early to secure your spot.",
+      "style": "Contextual",
+      "translation": "座位有限，请提前到场以确保位置。",
+      "translated_word": "有限",
+      "display_order": 1
+    },
+    {
+      "sentence": "The studio released a limited run of two hundred signed prints.",
+      "style": "Collocational",
+      "translation": "工作室发行了限量两百张的亲笔签名版画。",
+      "translated_word": "限量",
+      "display_order": 2
+    },
+    {
+      "sentence": "Limited time teaches us what truly deserves our attention.",
+      "style": "Philosophical",
+      "translation": "有限的时间教会我们，什么才值得付出关注。",
+      "translated_word": "有限",
+      "display_order": 3
+    },
+    {
+      "sentence": "Within limited means, creativity finds its truest form.",
+      "style": "Inspirational",
+      "translation": "在有限的条件中，创造力才展现其本真。",
+      "translated_word": "有限",
+      "display_order": 4
+    }
+  ]
+}

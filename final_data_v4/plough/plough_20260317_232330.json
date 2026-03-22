@@ -1,0 +1,40 @@
+{
+  "word": "plough",
+  "phonetic": "/plaʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "耕；犁地；艰难前行；大量投入",
+  "examples": [
+    {
+      "sentence": "The farmer ploughed the frozen field before the first thaw.",
+      "style": "Contextual",
+      "translation": "农夫在初融之前犁开了冻土。",
+      "translated_word": "犁",
+      "display_order": 1
+    },
+    {
+      "sentence": "She ploughed through the stack of reports before lunch.",
+      "style": "Collocational",
+      "translation": "她在午饭前奋力读完了那一摞报告。",
+      "translated_word": "奋力",
+      "display_order": 3
+    },
+    {
+      "sentence": "Spring returns; hands plough the dark earth with quiet faith.",
+      "style": "Poetic",
+      "translation": "春回大地；双手怀着静默的信念翻耕黑土。",
+      "translated_word": "翻耕",
+      "display_order": 2
+    },
+    {
+      "sentence": "To plough is to trust the seed you cannot yet see.",
+      "style": "Philosophical",
+      "translation": "耕耘，是信任那颗尚未可见的种子。",
+      "translated_word": "耕耘",
+      "display_order": 4
+    }
+  ]
+}

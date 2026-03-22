@@ -1,0 +1,40 @@
+{
+  "word": "fixture",
+  "phonetic": "/ˈfɪkstʃər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "固定装置；常驻者；定期赛事",
+  "examples": [
+    {
+      "sentence": "The bathroom's brass fixtures gleamed after years of careful polishing.",
+      "style": "Contextual",
+      "translation": "浴室的黄铜配件在多年悉心擦拭下依然光亮如新。",
+      "translated_word": "配件",
+      "display_order": 2
+    },
+    {
+      "sentence": "The café replaced its old light fixtures with warm pendant lamps.",
+      "style": "Collocational",
+      "translation": "咖啡馆将老旧的灯具换成了温暖的吊灯。",
+      "translated_word": "灯具",
+      "display_order": 1
+    },
+    {
+      "sentence": "Tonight's fixture between the two rivals has been postponed indefinitely.",
+      "style": "Formal",
+      "translation": "今晚两队间的赛事已被无限期推迟。",
+      "translated_word": "赛事",
+      "display_order": 4
+    },
+    {
+      "sentence": "Grandpa became such a fixture at the corner bakery that they named a pastry after him.",
+      "style": "Intimate",
+      "translation": "爷爷成了街角面包店的常客，他们甚至以他的名字命名了一款糕点。",
+      "translated_word": "常客",
+      "display_order": 3
+    }
+  ]
+}

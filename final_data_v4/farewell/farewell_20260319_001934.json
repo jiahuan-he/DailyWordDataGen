@@ -1,0 +1,42 @@
+{
+  "word": "farewell",
+  "phonetic": "/ˌfeəˈwel/",
+  "pos": [
+    "adjective",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "告别；送别；辞别",
+  "examples": [
+    {
+      "sentence": "Friends gathered at the gate for a final farewell.",
+      "style": "Contextual",
+      "translation": "朋友们聚在门口，作最后的告别。",
+      "translated_word": "告别",
+      "display_order": 1
+    },
+    {
+      "sentence": "The farewell hung in the air like smoke from a blown-out candle.",
+      "style": "Poetic",
+      "translation": "那场告别如吹熄蜡烛后的烟雾，久久不散。",
+      "translated_word": "告别",
+      "display_order": 3
+    },
+    {
+      "sentence": "A sincere farewell admits we may both return as strangers.",
+      "style": "Philosophical",
+      "translation": "真诚的告别承认一个事实：再见时，彼此或已陌生。",
+      "translated_word": "告别",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her brief farewell at the airport became the longest moment of my life.",
+      "style": "Intimate",
+      "translation": "她在机场短暂的告别，成了我生命中最漫长的一刻。",
+      "translated_word": "告别",
+      "display_order": 2
+    }
+  ]
+}

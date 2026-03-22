@@ -1,0 +1,39 @@
+{
+  "word": "infraction",
+  "phonetic": "/ɪnˈfrækʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "违规；违反；过失",
+  "examples": [
+    {
+      "sentence": "The company dismissed him following his third documented infraction.",
+      "style": "Formal",
+      "translation": "公司在他第三次违规记录后将其解雇。",
+      "translated_word": "违规",
+      "display_order": 2
+    },
+    {
+      "sentence": "Even a small infraction can cost you your scholarship here.",
+      "style": "Contextual",
+      "translation": "在这里，即使是小小的违规也可能让你失去奖学金。",
+      "translated_word": "违规",
+      "display_order": 1
+    },
+    {
+      "sentence": "A minor infraction shouldn't overshadow years of good work.",
+      "style": "Collocational",
+      "translation": "一次轻微的过失，不该掩盖多年的良好表现。",
+      "translated_word": "过失",
+      "display_order": 4
+    },
+    {
+      "sentence": "It was only an infraction, yet the penalty felt like punishment for a crime.",
+      "style": "Contrastive",
+      "translation": "那不过是一次违规，惩罚却重如犯罪。",
+      "translated_word": "违规",
+      "display_order": 3
+    }
+  ]
+}

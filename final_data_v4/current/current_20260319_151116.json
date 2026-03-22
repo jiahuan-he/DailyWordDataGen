@@ -1,0 +1,40 @@
+{
+  "word": "current",
+  "phonetic": "/ˈkʌrənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "当前的；现行的；流通的",
+  "examples": [
+    {
+      "sentence": "The current system works, but barely.",
+      "style": "Contextual",
+      "translation": "现行的系统勉强能用。",
+      "translated_word": "现行的",
+      "display_order": 2
+    },
+    {
+      "sentence": "Current projections indicate a full recovery by autumn.",
+      "style": "Formal",
+      "translation": "当前预测显示，秋季前可全面恢复。",
+      "translated_word": "当前",
+      "display_order": 1
+    },
+    {
+      "sentence": "She subscribes to three magazines to stay current.",
+      "style": "Collocational",
+      "translation": "她订阅了三本杂志，只为紧跟潮流。",
+      "translated_word": "潮流",
+      "display_order": 3
+    },
+    {
+      "sentence": "What feels urgent and current will fade; what matters will remain.",
+      "style": "Philosophical",
+      "translation": "眼下的紧迫终将消散，真正重要的会留下来。",
+      "translated_word": "眼下的",
+      "display_order": 4
+    }
+  ]
+}

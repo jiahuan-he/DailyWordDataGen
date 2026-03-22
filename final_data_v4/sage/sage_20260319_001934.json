@@ -1,0 +1,42 @@
+{
+  "word": "sage",
+  "phonetic": "/seɪdʒ/",
+  "pos": [
+    "adjective",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "智者；贤人；圣哲",
+  "examples": [
+    {
+      "sentence": "The village sage had seen three generations come to him for guidance.",
+      "style": "Contextual",
+      "translation": "村里的智者见证了三代人前来向他寻求指引。",
+      "translated_word": "智者",
+      "display_order": 1
+    },
+    {
+      "sentence": "Confucius remains one of history's most revered sages.",
+      "style": "Formal",
+      "translation": "孔子至今仍是历史上最受尊崇的圣贤之一。",
+      "translated_word": "圣贤",
+      "display_order": 2
+    },
+    {
+      "sentence": "The sage knows when to speak and when to stay silent.",
+      "style": "Philosophical",
+      "translation": "智者懂得何时开口，何时沉默。",
+      "translated_word": "智者",
+      "display_order": 3
+    },
+    {
+      "sentence": "Beneath the willow, the old sage closed his eyes; the wind carried his teachings onward.",
+      "style": "Poetic",
+      "translation": "柳树下，老者闭目静坐；风将他的教诲吹向远方。",
+      "translated_word": "老者",
+      "display_order": 4
+    }
+  ]
+}

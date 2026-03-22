@@ -1,0 +1,39 @@
+{
+  "word": "factual",
+  "phonetic": "/ˈfæktʃuəl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "事实的；真实的；确凿的",
+  "examples": [
+    {
+      "sentence": "The report was factual, with no room for speculation.",
+      "style": "Formal",
+      "translation": "这份报告基于事实，不留揣测余地。",
+      "translated_word": "事实",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her testimony remained factual even under pressure.",
+      "style": "Contextual",
+      "translation": "即便承受压力，她的证词仍忠于事实。",
+      "translated_word": "事实",
+      "display_order": 2
+    },
+    {
+      "sentence": "His tone was factual, not cold; he simply trusted the truth to speak.",
+      "style": "Contrastive",
+      "translation": "他的语气平实而非冷漠；他只是相信真相自会说话。",
+      "translated_word": "平实",
+      "display_order": 3
+    },
+    {
+      "sentence": "A factual mind sees clearly; a curious mind sees further.",
+      "style": "Philosophical",
+      "translation": "求实的头脑看得清，求知的头脑看得远。",
+      "translated_word": "求实",
+      "display_order": 4
+    }
+  ]
+}

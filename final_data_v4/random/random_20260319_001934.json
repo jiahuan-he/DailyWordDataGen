@@ -1,0 +1,40 @@
+{
+  "word": "random",
+  "phonetic": "/ˈrændəm/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "随机的；任意的；偶然的",
+  "examples": [
+    {
+      "sentence": "The winners were chosen in random order.",
+      "style": "Contextual",
+      "translation": "获胜者以随机顺序抽选。",
+      "translated_word": "随机",
+      "display_order": 1
+    },
+    {
+      "sentence": "A random sample of voters was surveyed before the election.",
+      "style": "Formal",
+      "translation": "选举前，研究人员对随机抽取的选民进行了调查。",
+      "translated_word": "随机",
+      "display_order": 3
+    },
+    {
+      "sentence": "What seems random today may reveal its purpose years from now.",
+      "style": "Philosophical",
+      "translation": "今日看似偶然之事，多年后或许自有其深意。",
+      "translated_word": "偶然",
+      "display_order": 4
+    },
+    {
+      "sentence": "One random encounter reshaped the course of his career.",
+      "style": "Collocational",
+      "translation": "一次偶然的相遇，改变了他的职业轨迹。",
+      "translated_word": "偶然",
+      "display_order": 2
+    }
+  ]
+}

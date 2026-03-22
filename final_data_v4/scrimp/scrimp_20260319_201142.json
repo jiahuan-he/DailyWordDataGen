@@ -1,0 +1,41 @@
+{
+  "word": "scrimp",
+  "phonetic": "/skrɪmp/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "省吃俭用；节俭度日；克扣",
+  "examples": [
+    {
+      "sentence": "They scrimped on meals to afford her tuition.",
+      "style": "Contextual",
+      "translation": "他们省下饭钱，只为凑齐她的学费。",
+      "translated_word": "省下",
+      "display_order": 2
+    },
+    {
+      "sentence": "She scrimped and saved for a decade to open her bakery.",
+      "style": "Collocational",
+      "translation": "她省吃俭用十年，终于开了自己的面包店。",
+      "translated_word": "省吃俭用",
+      "display_order": 1
+    },
+    {
+      "sentence": "My father scrimped on everything except our education.",
+      "style": "Intimate",
+      "translation": "父亲样样节省，唯独在我们的教育上从不吝啬。",
+      "translated_word": "节省",
+      "display_order": 3
+    },
+    {
+      "sentence": "Those who scrimp for others rarely remember to keep something for themselves.",
+      "style": "Philosophical",
+      "translation": "为他人节衣缩食的人，往往忘了给自己留些什么。",
+      "translated_word": "节衣缩食",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "statement",
+  "phonetic": "/ˈsteɪtmənt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "声明；陈述；报表；表态",
+  "examples": [
+    {
+      "sentence": "After the scandal, the CEO released a brief statement.",
+      "style": "Contextual",
+      "translation": "丑闻曝光后，首席执行官发布了一份简短声明。",
+      "translated_word": "声明",
+      "display_order": 1
+    },
+    {
+      "sentence": "The ministry will issue an official statement by end of day.",
+      "style": "Formal",
+      "translation": "该部门将于今日结束前发布官方声明。",
+      "translated_word": "声明",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her minimalist wardrobe is a statement of quiet confidence.",
+      "style": "Collocational",
+      "translation": "她极简的衣橱，是一种无声的自信宣言。",
+      "translated_word": "宣言",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we choose not to say is also a statement.",
+      "style": "Philosophical",
+      "translation": "我们选择不说的，也是一种表态。",
+      "translated_word": "表态",
+      "display_order": 4
+    }
+  ]
+}

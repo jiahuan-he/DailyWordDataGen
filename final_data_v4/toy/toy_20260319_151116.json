@@ -1,0 +1,40 @@
+{
+  "word": "toy",
+  "phonetic": "/tɔɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "玩具；玩物；小玩意儿",
+  "examples": [
+    {
+      "sentence": "The child clutched her favorite toy, refusing to let go at bedtime.",
+      "style": "Contextual",
+      "translation": "孩子紧紧抱着她最爱的玩具，睡前怎么也不肯松手。",
+      "translated_word": "玩具",
+      "display_order": 1
+    },
+    {
+      "sentence": "That wooden train was more than a toy: it was my grandfather's last gift.",
+      "style": "Intimate",
+      "translation": "那辆木头小火车不只是玩具，而是祖父留给我的最后一份礼物。",
+      "translated_word": "玩具",
+      "display_order": 2
+    },
+    {
+      "sentence": "We outgrow our toys, but never our need for play.",
+      "style": "Philosophical",
+      "translation": "我们会长大到不再需要玩具，却永远不会失去玩耍的渴望。",
+      "translated_word": "玩具",
+      "display_order": 4
+    },
+    {
+      "sentence": "The toy store on the corner became our Sunday ritual.",
+      "style": "Collocational",
+      "translation": "街角那家玩具店，成了我们每个周日的固定仪式。",
+      "translated_word": "玩具",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "vent",
+  "phonetic": "/vɛnt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "发泄；倾诉；宣泄",
+  "examples": [
+    {
+      "sentence": "She called her sister just to vent about her impossible deadline.",
+      "style": "Contextual",
+      "translation": "她打电话给姐姐，只为倾诉那个不可能完成的截止日期。",
+      "translated_word": "倾诉",
+      "display_order": 1
+    },
+    {
+      "sentence": "He vented his frustrations on the long drive home.",
+      "style": "Collocational",
+      "translation": "在漫长的回家路上，他一路发泄着心中的郁闷。",
+      "translated_word": "发泄",
+      "display_order": 2
+    },
+    {
+      "sentence": "We vent to be heard, not always to be fixed.",
+      "style": "Philosophical",
+      "translation": "我们倾诉，是为了被倾听，而非总是为了被治愈。",
+      "translated_word": "倾诉",
+      "display_order": 4
+    },
+    {
+      "sentence": "Some nights, I vent to my journal when the world feels too heavy.",
+      "style": "Intimate",
+      "translation": "有些夜晚，当世界太过沉重，我便向日记本倾诉。",
+      "translated_word": "倾诉",
+      "display_order": 3
+    }
+  ]
+}

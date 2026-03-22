@@ -1,0 +1,40 @@
+{
+  "word": "fault",
+  "phonetic": "/fɔːlt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "过错；缺点；责任",
+  "examples": [
+    {
+      "sentence": "The delay wasn't his fault; the flight was cancelled.",
+      "style": "Contextual",
+      "translation": "航班取消，延误并非他的过错。",
+      "translated_word": "过错",
+      "display_order": 1
+    },
+    {
+      "sentence": "The fault we notice first in others often mirrors our own.",
+      "style": "Philosophical",
+      "translation": "我们最先在他人身上看到的缺点，往往是自己的影子。",
+      "translated_word": "缺点",
+      "display_order": 3
+    },
+    {
+      "sentence": "That summer taught me the weight of a fault I couldn't fix.",
+      "style": "Intimate",
+      "translation": "那个夏天让我明白，有些过错无法弥补。",
+      "translated_word": "过错",
+      "display_order": 2
+    },
+    {
+      "sentence": "She never finds fault with small imperfections.",
+      "style": "Collocational",
+      "translation": "她从不对小瑕疵吹毛求疵。",
+      "translated_word": "吹毛求疵",
+      "display_order": 4
+    }
+  ]
+}

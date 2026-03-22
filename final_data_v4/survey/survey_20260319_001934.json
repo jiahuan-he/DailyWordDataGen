@@ -1,0 +1,40 @@
+{
+  "word": "survey",
+  "phonetic": "/ˈsɜːrveɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "调查；问卷；勘测；概览",
+  "examples": [
+    {
+      "sentence": "The survey showed 80% of respondents favor the new policy.",
+      "style": "Contextual",
+      "translation": "调查显示，80%的受访者支持新政策。",
+      "translated_word": "调查",
+      "display_order": 1
+    },
+    {
+      "sentence": "A recent survey indicates shifting attitudes toward urban living.",
+      "style": "Formal",
+      "translation": "一项最新调查表明，人们对城市生活的态度正在转变。",
+      "translated_word": "调查",
+      "display_order": 3
+    },
+    {
+      "sentence": "We conducted a brief survey before launching the campaign.",
+      "style": "Collocational",
+      "translation": "在启动活动前，我们进行了一次简短的问卷调查。",
+      "translated_word": "问卷调查",
+      "display_order": 2
+    },
+    {
+      "sentence": "A survey captures broad trends; an interview reveals individual stories.",
+      "style": "Contrastive",
+      "translation": "问卷调查捕捉大趋势；深度访谈揭示个体故事。",
+      "translated_word": "问卷调查",
+      "display_order": 4
+    }
+  ]
+}

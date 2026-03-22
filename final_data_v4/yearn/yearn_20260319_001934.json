@@ -1,0 +1,40 @@
+{
+  "word": "yearn",
+  "phonetic": "/jɜːrn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "渴望；向往；思念",
+  "examples": [
+    {
+      "sentence": "The lighthouse keeper yearned for shore with every passing ship.",
+      "style": "Poetic",
+      "translation": "每艘船驶过，守塔人便愈发向往陆地。",
+      "translated_word": "向往",
+      "display_order": 3
+    },
+    {
+      "sentence": "In crowded rooms, I yearn for the quiet of my childhood garden.",
+      "style": "Intimate",
+      "translation": "在喧嚣人群中，我渴望回到童年花园的静谧。",
+      "translated_word": "渴望",
+      "display_order": 2
+    },
+    {
+      "sentence": "To yearn is to acknowledge a distance that cannot be closed.",
+      "style": "Philosophical",
+      "translation": "渴望，是承认某种无法跨越的距离。",
+      "translated_word": "渴望",
+      "display_order": 4
+    },
+    {
+      "sentence": "After months abroad, she yearned for the taste of home.",
+      "style": "Contextual",
+      "translation": "旅居数月，她开始思念家乡的味道。",
+      "translated_word": "思念",
+      "display_order": 1
+    }
+  ]
+}

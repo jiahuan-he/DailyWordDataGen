@@ -1,0 +1,40 @@
+{
+  "word": "range",
+  "phonetic": "/reɪndʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "范围；幅度；系列；山脉",
+  "examples": [
+    {
+      "sentence": "The menu offers a range of flavors, from smoky to sweet.",
+      "style": "Contextual",
+      "translation": "菜单上的风味从烟熏到香甜，选择丰富。",
+      "translated_word": "选择",
+      "display_order": 1
+    },
+    {
+      "sentence": "The gallery showcases a range of contemporary works from emerging artists.",
+      "style": "Formal",
+      "translation": "画廊展出了多位新锐艺术家的当代作品。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "A wide range of opinions surfaced during the town hall.",
+      "style": "Collocational",
+      "translation": "市民大会上涌现出各种不同的声音。",
+      "translated_word": "各种",
+      "display_order": 2
+    },
+    {
+      "sentence": "Within the range of a single conversation, strangers become friends.",
+      "style": "Philosophical",
+      "translation": "一场交谈的长度，足以让陌生人成为朋友。",
+      "translated_word": "长度",
+      "display_order": 4
+    }
+  ]
+}

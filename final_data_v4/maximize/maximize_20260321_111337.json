@@ -1,0 +1,39 @@
+{
+  "word": "maximize",
+  "phonetic": "/ˈmæksɪmaɪz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "最大化；使最大；充分利用",
+  "examples": [
+    {
+      "sentence": "She adjusted the curtains to maximize the natural light.",
+      "style": "Contextual",
+      "translation": "她调整了窗帘，让自然光尽可能多地洒进来。",
+      "translated_word": "尽可能多",
+      "display_order": 1
+    },
+    {
+      "sentence": "The firm restructured its operations to maximize shareholder value.",
+      "style": "Formal",
+      "translation": "该公司重组业务架构，以实现股东价值最大化。",
+      "translated_word": "最大化",
+      "display_order": 3
+    },
+    {
+      "sentence": "Athletes train year-round to maximize their performance.",
+      "style": "Collocational",
+      "translation": "运动员全年训练，只为将竞技状态发挥到极致。",
+      "translated_word": "极致",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every constraint is an invitation to maximize creativity.",
+      "style": "Inspirational",
+      "translation": "每一道限制，都是对创造力的邀请。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "kit",
+  "phonetic": "/kɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "工具包；成套用品；装备",
+  "examples": [
+    {
+      "sentence": "The repair kit had everything: tape, glue, and a tiny screwdriver.",
+      "style": "Contextual",
+      "translation": "修理工具包里一应俱全：胶带、胶水，还有一把小螺丝刀。",
+      "translated_word": "工具包",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every traveler should carry a basic first-aid kit.",
+      "style": "Collocational",
+      "translation": "每位旅者都应随身携带一个基本急救包。",
+      "translated_word": "包",
+      "display_order": 1
+    },
+    {
+      "sentence": "Relief teams distributed emergency kits to displaced families.",
+      "style": "Formal",
+      "translation": "救援队向流离失所的家庭分发了应急物资包。",
+      "translated_word": "包",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father's shaving kit still sits on the bathroom shelf, untouched.",
+      "style": "Intimate",
+      "translation": "父亲的剃须套装还放在浴室架上，无人触碰。",
+      "translated_word": "套装",
+      "display_order": 2
+    }
+  ]
+}

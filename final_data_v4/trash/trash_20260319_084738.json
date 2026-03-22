@@ -1,0 +1,40 @@
+{
+  "word": "trash",
+  "phonetic": "/træʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "垃圾；废物；糟粕",
+  "examples": [
+    {
+      "sentence": "The alley reeked of rotting trash left out in the summer heat.",
+      "style": "Contextual",
+      "translation": "小巷里弥漫着夏日暴晒下腐烂垃圾的恶臭。",
+      "translated_word": "垃圾",
+      "display_order": 2
+    },
+    {
+      "sentence": "He forgot to take out the trash again.",
+      "style": "Collocational",
+      "translation": "他又忘了倒垃圾。",
+      "translated_word": "垃圾",
+      "display_order": 1
+    },
+    {
+      "sentence": "What we discard as trash reveals who we truly are.",
+      "style": "Philosophical",
+      "translation": "我们丢弃的垃圾，往往泄露了真实的自己。",
+      "translated_word": "垃圾",
+      "display_order": 4
+    },
+    {
+      "sentence": "At the flea market, one person's trash becomes another's treasure.",
+      "style": "Contrastive",
+      "translation": "在跳蚤市场，一人眼中的废物是另一人的珍宝。",
+      "translated_word": "废物",
+      "display_order": 3
+    }
+  ]
+}

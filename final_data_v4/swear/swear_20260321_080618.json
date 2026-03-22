@@ -1,0 +1,41 @@
+{
+  "word": "swear",
+  "phonetic": "/swer/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "发誓；宣誓；咒骂",
+  "examples": [
+    {
+      "sentence": "The witness raised her hand and swore to tell the truth.",
+      "style": "Contextual",
+      "translation": "证人举起右手，宣誓如实作证。",
+      "translated_word": "宣誓",
+      "display_order": 2
+    },
+    {
+      "sentence": "She swears by cold showers every morning.",
+      "style": "Collocational",
+      "translation": "她坚信每天早晨冲冷水澡的功效。",
+      "translated_word": "坚信",
+      "display_order": 4
+    },
+    {
+      "sentence": "We swear to forever as if words could outrun time.",
+      "style": "Philosophical",
+      "translation": "我们许诺永远，仿佛誓言能跑赢时间。",
+      "translated_word": "许诺",
+      "display_order": 3
+    },
+    {
+      "sentence": "At the airport gate, I swore I would come back for her.",
+      "style": "Intimate",
+      "translation": "在登机口，我发誓一定会回来找她。",
+      "translated_word": "发誓",
+      "display_order": 1
+    }
+  ]
+}

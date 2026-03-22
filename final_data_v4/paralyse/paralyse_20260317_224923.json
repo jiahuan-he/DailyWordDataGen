@@ -1,0 +1,39 @@
+{
+  "word": "paralyse",
+  "phonetic": "/ˈpærəlaɪz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使瘫痪；使麻痹；使无法行动",
+  "examples": [
+    {
+      "sentence": "Fear can paralyse you when you need to act most.",
+      "style": "Contextual",
+      "translation": "恐惧往往在你最需要行动时将你定住。",
+      "translated_word": "定住",
+      "display_order": 2
+    },
+    {
+      "sentence": "The cyberattack threatened to paralyse the nation's banking system.",
+      "style": "Formal",
+      "translation": "这场网络攻击险些令全国银行系统陷入瘫痪。",
+      "translated_word": "瘫痪",
+      "display_order": 1
+    },
+    {
+      "sentence": "We are often paralysed not by what we lack, but by what we fear to lose.",
+      "style": "Philosophical",
+      "translation": "令我们止步不前的，往往不是匮乏，而是对失去的恐惧。",
+      "translated_word": "止步不前",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her silence paralysed me more than any words could have.",
+      "style": "Intimate",
+      "translation": "她的沉默比任何言语都更让我无所适从。",
+      "translated_word": "无所适从",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "weathering",
+  "phonetic": "/ˈweðərɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "经受；挺过；熬过",
+  "examples": [
+    {
+      "sentence": "The company is weathering the market downturn better than expected.",
+      "style": "Contextual",
+      "translation": "这家公司正平稳度过市场低迷期，表现超乎预期。",
+      "translated_word": "度过",
+      "display_order": 1
+    },
+    {
+      "sentence": "We discover our depth only when weathering what we feared most.",
+      "style": "Philosophical",
+      "translation": "唯有挺过最深的恐惧，我们才真正认识自己。",
+      "translated_word": "挺过",
+      "display_order": 4
+    },
+    {
+      "sentence": "The stone wall leans but holds, weathering centuries of wind and rain.",
+      "style": "Poetic",
+      "translation": "石墙微倾却不倒，历经百年风雨洗礼。",
+      "translated_word": "历经",
+      "display_order": 2
+    },
+    {
+      "sentence": "What you are weathering today is preparing you for tomorrow.",
+      "style": "Inspirational",
+      "translation": "你此刻所承受的，都在为明天的你奠基。",
+      "translated_word": "承受",
+      "display_order": 3
+    }
+  ]
+}

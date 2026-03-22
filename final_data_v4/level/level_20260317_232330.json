@@ -1,0 +1,41 @@
+{
+  "word": "level",
+  "phonetic": "/ˈlevəl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "水平；程度；层次；级别",
+  "examples": [
+    {
+      "sentence": "Her stress level dropped the moment she stepped into the garden.",
+      "style": "Contextual",
+      "translation": "她走进花园的那一刻，压力便烟消云散。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "The unemployment level has reached its lowest point in two decades.",
+      "style": "Formal",
+      "translation": "失业率已降至二十年来的最低水平。",
+      "translated_word": "水平",
+      "display_order": 1
+    },
+    {
+      "sentence": "Maintaining a healthy energy level requires both rest and movement.",
+      "style": "Collocational",
+      "translation": "保持充沛的精力，需要动静结合。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "Every level you reach reveals a new horizon.",
+      "style": "Inspirational",
+      "translation": "每攀上一层，便望见新的风景。",
+      "translated_word": "层",
+      "display_order": 4
+    }
+  ]
+}

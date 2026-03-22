@@ -1,0 +1,40 @@
+{
+  "word": "refuge",
+  "phonetic": "/ˈrefjuːdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "避难所；庇护；慰藉",
+  "examples": [
+    {
+      "sentence": "The old bookstore became her refuge during the long winters.",
+      "style": "Contextual",
+      "translation": "那家旧书店成了她漫长冬日里的避风港。",
+      "translated_word": "避风港",
+      "display_order": 1
+    },
+    {
+      "sentence": "In the quiet garden, even the rain felt like refuge.",
+      "style": "Poetic",
+      "translation": "在静谧的花园里，连雨声都像一种庇护。",
+      "translated_word": "庇护",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her letters were my refuge during those first years abroad.",
+      "style": "Intimate",
+      "translation": "她的来信是我初到异乡那几年唯一的慰藉。",
+      "translated_word": "慰藉",
+      "display_order": 2
+    },
+    {
+      "sentence": "The strongest refuge is not a place; it's a person who stays.",
+      "style": "Philosophical",
+      "translation": "最坚固的避风港从不是一个地方，而是一个愿意留下的人。",
+      "translated_word": "避风港",
+      "display_order": 4
+    }
+  ]
+}

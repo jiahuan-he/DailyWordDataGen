@@ -1,0 +1,40 @@
+{
+  "word": "gasoline",
+  "phonetic": "/ˈɡæsəliːn/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "汽油；燃油",
+  "examples": [
+    {
+      "sentence": "The car sputtered and died; we were out of gasoline.",
+      "style": "Contextual",
+      "translation": "车子突突几声后熄了火；我们没油了。",
+      "translated_word": "油",
+      "display_order": 2
+    },
+    {
+      "sentence": "Gasoline prices have surged to a decade high amid global supply shortages.",
+      "style": "Formal",
+      "translation": "受全球供应短缺影响，汽油价格飙升至十年新高。",
+      "translated_word": "汽油",
+      "display_order": 3
+    },
+    {
+      "sentence": "He filled the tank with premium gasoline before the long drive.",
+      "style": "Collocational",
+      "translation": "长途出发前，他加满了高标号汽油。",
+      "translated_word": "汽油",
+      "display_order": 1
+    },
+    {
+      "sentence": "The faint smell of gasoline at that old station still carries me back to road trips with my father.",
+      "style": "Intimate",
+      "translation": "老加油站淡淡的汽油味，总能将我带回与父亲一起上路的旧时光。",
+      "translated_word": "汽油",
+      "display_order": 4
+    }
+  ]
+}

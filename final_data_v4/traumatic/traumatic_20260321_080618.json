@@ -1,0 +1,40 @@
+{
+  "word": "traumatic",
+  "phonetic": "/trɔːˈmætɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "创伤的；痛苦的；震撼的",
+  "examples": [
+    {
+      "sentence": "The accident was so traumatic that she never drove again.",
+      "style": "Contextual",
+      "translation": "那场事故创伤太深，她再也没有开过车。",
+      "translated_word": "创伤",
+      "display_order": 1
+    },
+    {
+      "sentence": "Research shows traumatic childhood events can alter brain development.",
+      "style": "Formal",
+      "translation": "研究表明，童年的创伤性事件会改变大脑发育。",
+      "translated_word": "创伤性",
+      "display_order": 2
+    },
+    {
+      "sentence": "What feels traumatic to one person may pass unnoticed by another.",
+      "style": "Philosophical",
+      "translation": "对一个人而言是创伤的，对另一个人可能毫无波澜。",
+      "translated_word": "创伤",
+      "display_order": 3
+    },
+    {
+      "sentence": "That winter was traumatic; grief became my only companion.",
+      "style": "Intimate",
+      "translation": "那个冬天痛彻心扉；悲伤成了我唯一的伴侣。",
+      "translated_word": "痛彻心扉",
+      "display_order": 4
+    }
+  ]
+}

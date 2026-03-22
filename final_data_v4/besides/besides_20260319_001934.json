@@ -1,0 +1,40 @@
+{
+  "word": "besides",
+  "phonetic": "/bɪˈsaɪdz/",
+  "pos": [
+    "adverb",
+    "preposition"
+  ],
+  "selected_pos": "adverb",
+  "definition": "而且；此外；况且；再说",
+  "examples": [
+    {
+      "sentence": "I'm not hungry; besides, we just ate.",
+      "style": "Contextual",
+      "translation": "我不饿；况且刚吃过。",
+      "translated_word": "况且",
+      "display_order": 1
+    },
+    {
+      "sentence": "The proposal lacks feasibility; besides, the budget cannot support it.",
+      "style": "Formal",
+      "translation": "该提案缺乏可行性；此外，预算也无法支持。",
+      "translated_word": "此外",
+      "display_order": 3
+    },
+    {
+      "sentence": "The trip was expensive, and besides, we had no time.",
+      "style": "Collocational",
+      "translation": "旅行太贵了，而且我们也没时间。",
+      "translated_word": "而且",
+      "display_order": 2
+    },
+    {
+      "sentence": "I never called back; besides, some silences speak louder.",
+      "style": "Intimate",
+      "translation": "我始终没有回电话；况且，有些沉默更胜千言。",
+      "translated_word": "况且",
+      "display_order": 4
+    }
+  ]
+}

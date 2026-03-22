@@ -1,0 +1,41 @@
+{
+  "word": "profound",
+  "phonetic": "/prəˈfaʊnd/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "深刻；深远；渊博",
+  "examples": [
+    {
+      "sentence": "The simplest questions often yield the most profound answers.",
+      "style": "Philosophical",
+      "translation": "最简单的问题，往往蕴藏最深刻的答案。",
+      "translated_word": "深刻",
+      "display_order": 1
+    },
+    {
+      "sentence": "In the profound quiet before dawn, the world holds its breath.",
+      "style": "Poetic",
+      "translation": "黎明前的深沉寂静里，世界仿佛屏住了呼吸。",
+      "translated_word": "深沉",
+      "display_order": 2
+    },
+    {
+      "sentence": "That summer changed him in ways too profound for words.",
+      "style": "Intimate",
+      "translation": "那个夏天改变了他，深刻得无法言说。",
+      "translated_word": "深刻",
+      "display_order": 3
+    },
+    {
+      "sentence": "The study revealed profound disparities in healthcare access.",
+      "style": "Formal",
+      "translation": "研究揭示了医疗资源分配上的深刻差距。",
+      "translated_word": "深刻",
+      "display_order": 4
+    }
+  ]
+}

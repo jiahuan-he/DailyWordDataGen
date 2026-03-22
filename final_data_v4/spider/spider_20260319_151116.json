@@ -1,0 +1,40 @@
+{
+  "word": "spider",
+  "phonetic": "/ˈspaɪdər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "蜘蛛",
+  "examples": [
+    {
+      "sentence": "A tiny spider descended from the ceiling on a single thread.",
+      "style": "Contextual",
+      "translation": "一只小蜘蛛顺着一根丝线从天花板缓缓垂落。",
+      "translated_word": "蜘蛛",
+      "display_order": 1
+    },
+    {
+      "sentence": "The spider's web caught the morning light, a cathedral of silk.",
+      "style": "Poetic",
+      "translation": "蛛网捕获了晨光，宛若丝织的微型教堂。",
+      "translated_word": "蛛",
+      "display_order": 4
+    },
+    {
+      "sentence": "A spider weaves without hesitation; it knows the web will break.",
+      "style": "Philosophical",
+      "translation": "蜘蛛织网从不犹豫；它深知网终将破损。",
+      "translated_word": "蜘蛛",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother never killed spiders; she said they brought good luck.",
+      "style": "Intimate",
+      "translation": "外婆从不打蜘蛛，她说它们能带来好运。",
+      "translated_word": "蜘蛛",
+      "display_order": 2
+    }
+  ]
+}

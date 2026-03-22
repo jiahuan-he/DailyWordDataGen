@@ -1,0 +1,39 @@
+{
+  "word": "formation",
+  "phonetic": "/fɔːrˈmeɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "形成；编队；构造；阵型",
+  "examples": [
+    {
+      "sentence": "The jets broke formation and scattered across the sky.",
+      "style": "Contextual",
+      "translation": "战机打破编队，四散于天际。",
+      "translated_word": "编队",
+      "display_order": 2
+    },
+    {
+      "sentence": "The formation of the coalition reshaped the political landscape overnight.",
+      "style": "Formal",
+      "translation": "联盟的形成在一夜之间重塑了政治格局。",
+      "translated_word": "形成",
+      "display_order": 3
+    },
+    {
+      "sentence": "Rock formations along the coast have drawn geologists for decades.",
+      "style": "Collocational",
+      "translation": "沿海的岩石构造数十年来吸引着地质学家前来考察。",
+      "translated_word": "构造",
+      "display_order": 1
+    },
+    {
+      "sentence": "Clouds drifted into soft formations, dissolving before they found their shape.",
+      "style": "Poetic",
+      "translation": "云朵聚成柔软的形态，还未成形便已消散。",
+      "translated_word": "形态",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "burden",
+  "phonetic": "/ˈbɜːrdən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "负担；重担；包袱",
+  "examples": [
+    {
+      "sentence": "Her smile never faltered, but her eyes betrayed the burden.",
+      "style": "Contextual",
+      "translation": "她的笑容从未消减，但眼神泄露了心中的重担。",
+      "translated_word": "重担",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some burdens lighten only when shared; others, only when released.",
+      "style": "Philosophical",
+      "translation": "有些负担因分担而减轻，有些则唯有放下才得解脱。",
+      "translated_word": "负担",
+      "display_order": 3
+    },
+    {
+      "sentence": "The old tree stands crooked, shaped by seasons of snow and silent burden.",
+      "style": "Poetic",
+      "translation": "老树斜立，被岁月的风雪与无声的重压雕刻成形。",
+      "translated_word": "重压",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father never complained. Years later, I found his journal: page after page of burden, never spoken.",
+      "style": "Intimate",
+      "translation": "父亲从不抱怨。多年后我翻开他的日记：一页页写满了从未说出口的重担。",
+      "translated_word": "重担",
+      "display_order": 2
+    }
+  ]
+}

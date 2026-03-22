@@ -1,0 +1,41 @@
+{
+  "word": "antique",
+  "phonetic": "/ænˈtiːk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "古董；古物；古玩",
+  "examples": [
+    {
+      "sentence": "The dealer confirmed it was a genuine antique from the Qing dynasty.",
+      "style": "Contextual",
+      "translation": "商人确认这是一件清代真品古董。",
+      "translated_word": "古董",
+      "display_order": 1
+    },
+    {
+      "sentence": "She discovered the jade vase at a dusty antique shop in Shanghai.",
+      "style": "Collocational",
+      "translation": "她在上海一家落满灰尘的古董店发现了这只玉瓶。",
+      "translated_word": "古董",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every antique carries the silence of hands that once held it.",
+      "style": "Poetic",
+      "translation": "每件古董都承载着曾经握持它的双手的沉默。",
+      "translated_word": "古董",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather's pocket watch is the only antique I refused to appraise.",
+      "style": "Intimate",
+      "translation": "祖父的怀表是我唯一拒绝估价的古董。",
+      "translated_word": "古董",
+      "display_order": 2
+    }
+  ]
+}

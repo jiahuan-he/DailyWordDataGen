@@ -1,0 +1,39 @@
+{
+  "word": "accommodation",
+  "phonetic": "/əˌkɒməˈdeɪʃn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "住处；住所；适应；通融",
+  "examples": [
+    {
+      "sentence": "We found affordable accommodation just two blocks from the beach.",
+      "style": "Contextual",
+      "translation": "我们在离海滩两个街区的地方找到了价格实惠的住处。",
+      "translated_word": "住处",
+      "display_order": 1
+    },
+    {
+      "sentence": "The city faces a growing shortage of student accommodation.",
+      "style": "Formal",
+      "translation": "该市正面临日益严峻的学生住房短缺问题。",
+      "translated_word": "住房",
+      "display_order": 2
+    },
+    {
+      "sentence": "Temporary accommodation, shared kitchen, no pets allowed.",
+      "style": "Collocational",
+      "translation": "临时住所，共用厨房，禁止宠物。",
+      "translated_word": "住所",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every lasting bond is built on small, invisible accommodations.",
+      "style": "Philosophical",
+      "translation": "每一段长久的关系，都建立在细微而无声的相互迁就之上。",
+      "translated_word": "迁就",
+      "display_order": 4
+    }
+  ]
+}

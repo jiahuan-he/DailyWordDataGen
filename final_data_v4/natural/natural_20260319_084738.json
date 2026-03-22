@@ -1,0 +1,41 @@
+{
+  "word": "natural",
+  "phonetic": "/ˈnætʃərəl/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "自然的；天生的；真实的",
+  "examples": [
+    {
+      "sentence": "The fabric felt soft against her skin; it was made from natural fibers.",
+      "style": "Contextual",
+      "translation": "布料贴着肌肤柔软细腻；它是由天然纤维制成的。",
+      "translated_word": "天然",
+      "display_order": 1
+    },
+    {
+      "sentence": "Wildflowers grow in natural chaos, more beautiful than any garden.",
+      "style": "Poetic",
+      "translation": "野花以自然的杂乱生长，比任何花园都美。",
+      "translated_word": "自然",
+      "display_order": 3
+    },
+    {
+      "sentence": "Mastery looks natural only because we cannot see the years behind it.",
+      "style": "Philosophical",
+      "translation": "精通看起来浑然天成，只因我们看不见背后的岁月。",
+      "translated_word": "浑然天成",
+      "display_order": 4
+    },
+    {
+      "sentence": "With her, silence felt natural; we didn't need words to understand.",
+      "style": "Intimate",
+      "translation": "和她在一起，沉默也自然而然；我们不需要言语就能懂彼此。",
+      "translated_word": "自然而然",
+      "display_order": 2
+    }
+  ]
+}

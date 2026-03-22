@@ -1,0 +1,39 @@
+{
+  "word": "dioxide",
+  "phonetic": "/daɪˈɒksaɪd/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "二氧化物",
+  "examples": [
+    {
+      "sentence": "Plants absorb carbon dioxide and release oxygen.",
+      "style": "Contextual",
+      "translation": "植物吸收二氧化碳，释放氧气。",
+      "translated_word": "二氧化",
+      "display_order": 1
+    },
+    {
+      "sentence": "Global dioxide emissions reached record levels last year.",
+      "style": "Formal",
+      "translation": "去年全球二氧化物排放量创下历史新高。",
+      "translated_word": "二氧化物",
+      "display_order": 4
+    },
+    {
+      "sentence": "The volcano released sulfur dioxide into the atmosphere.",
+      "style": "Collocational",
+      "translation": "火山向大气中释放了二氧化硫。",
+      "translated_word": "二氧化",
+      "display_order": 2
+    },
+    {
+      "sentence": "Carbon dioxide warms the planet; sulfur dioxide cools it temporarily.",
+      "style": "Contrastive",
+      "translation": "二氧化碳使地球升温；二氧化硫则令其暂时降温。",
+      "translated_word": "二氧化",
+      "display_order": 3
+    }
+  ]
+}

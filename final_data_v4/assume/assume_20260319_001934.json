@@ -1,0 +1,39 @@
+{
+  "word": "assume",
+  "phonetic": "/əˈsuːm/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "假定；承担；采取",
+  "examples": [
+    {
+      "sentence": "She didn't reply, so I assumed the answer was no.",
+      "style": "Contextual",
+      "translation": "她没有回复，我便当作是拒绝了。",
+      "translated_word": "当作",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new director will assume office next Monday.",
+      "style": "Formal",
+      "translation": "新任主管将于下周一正式就职。",
+      "translated_word": "就职",
+      "display_order": 3
+    },
+    {
+      "sentence": "We assume strangers think the worst of us; often, they barely think of us at all.",
+      "style": "Philosophical",
+      "translation": "我们总以为陌生人在苛责自己，殊不知他们根本无暇顾及。",
+      "translated_word": "以为",
+      "display_order": 4
+    },
+    {
+      "sentence": "He assumed full responsibility for the team's failure.",
+      "style": "Collocational",
+      "translation": "他承担了团队失败的全部责任。",
+      "translated_word": "承担",
+      "display_order": 2
+    }
+  ]
+}

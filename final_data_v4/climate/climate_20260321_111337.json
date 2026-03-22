@@ -1,0 +1,40 @@
+{
+  "word": "climate",
+  "phonetic": "/ˈklaɪmət/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "气候；风气；氛围",
+  "examples": [
+    {
+      "sentence": "The dry climate here preserves ancient ruins for centuries.",
+      "style": "Contextual",
+      "translation": "这里干燥的气候使古迹得以保存数百年。",
+      "translated_word": "气候",
+      "display_order": 1
+    },
+    {
+      "sentence": "Experts warn the current climate trajectory is unsustainable.",
+      "style": "Formal",
+      "translation": "专家警告，当前的气候走向难以为继。",
+      "translated_word": "气候",
+      "display_order": 2
+    },
+    {
+      "sentence": "The political climate shifted overnight after the scandal.",
+      "style": "Collocational",
+      "translation": "丑闻曝光后，政治气候一夜骤变。",
+      "translated_word": "气候",
+      "display_order": 3
+    },
+    {
+      "sentence": "The climate of a conversation can change with a single word.",
+      "style": "Philosophical",
+      "translation": "一个词，便能改变整场对话的气候。",
+      "translated_word": "气候",
+      "display_order": 4
+    }
+  ]
+}

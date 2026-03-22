@@ -1,0 +1,39 @@
+{
+  "word": "nestle",
+  "phonetic": "/ˈnes.əl/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "依偎；蜷缩；安卧",
+  "examples": [
+    {
+      "sentence": "The village nestles in the valley, shielded from wind and time.",
+      "style": "Poetic",
+      "translation": "村庄安卧于山谷之中，避开了风，也避开了岁月。",
+      "translated_word": "安卧",
+      "display_order": 3
+    },
+    {
+      "sentence": "She nestled against his shoulder as the credits rolled.",
+      "style": "Intimate",
+      "translation": "片尾字幕滚动时，她轻轻依偎在他肩头。",
+      "translated_word": "依偎",
+      "display_order": 1
+    },
+    {
+      "sentence": "The cat nestled into the pile of warm laundry.",
+      "style": "Contextual",
+      "translation": "猫咪钻进那堆还带着余温的衣物里，蜷成一团。",
+      "translated_word": "蜷",
+      "display_order": 2
+    },
+    {
+      "sentence": "The cabin nestles among ancient pines, invisible from the road.",
+      "style": "Collocational",
+      "translation": "小屋掩映在古松之间，从路上根本看不见。",
+      "translated_word": "掩映",
+      "display_order": 4
+    }
+  ]
+}

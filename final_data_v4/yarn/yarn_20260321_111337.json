@@ -1,0 +1,40 @@
+{
+  "word": "yarn",
+  "phonetic": "/jɑːrn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "纱线；毛线；奇谈",
+  "examples": [
+    {
+      "sentence": "She reached for her needles and a skein of soft blue yarn.",
+      "style": "Contextual",
+      "translation": "她拿起织针，取了一束柔软的蓝色纱线。",
+      "translated_word": "纱线",
+      "display_order": 2
+    },
+    {
+      "sentence": "The cat batted a ball of yarn across the wooden floor.",
+      "style": "Collocational",
+      "translation": "猫咪把一团毛线球拍过木地板。",
+      "translated_word": "毛线",
+      "display_order": 1
+    },
+    {
+      "sentence": "Colors pooled in the basket: crimson yarn, goldenrod, forest green.",
+      "style": "Poetic",
+      "translation": "色彩在篮中汇聚：绯红的纱线、金黄、墨绿。",
+      "translated_word": "纱线",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her hands never paused; yarn became blankets, blankets became love.",
+      "style": "Intimate",
+      "translation": "她的双手从不停歇；纱线织成毯子，毯子织成了爱。",
+      "translated_word": "纱线",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "hollow",
+  "phonetic": "/ˈhɑːloʊ/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "空心的；空洞的；虚假的",
+  "examples": [
+    {
+      "sentence": "The chocolate bunny was hollow, just a thin shell of sweetness.",
+      "style": "Contextual",
+      "translation": "那只巧克力兔子是空心的，不过薄薄一层甜蜜。",
+      "translated_word": "空心",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her laughter echoed hollow against the empty walls.",
+      "style": "Poetic",
+      "translation": "她的笑声在空荡的墙壁间回响，显得格外空洞。",
+      "translated_word": "空洞",
+      "display_order": 4
+    },
+    {
+      "sentence": "Praise without specifics often rings hollow.",
+      "style": "Philosophical",
+      "translation": "缺乏细节的赞美往往显得空泛。",
+      "translated_word": "空泛",
+      "display_order": 3
+    },
+    {
+      "sentence": "He smiled, but his eyes stayed hollow; I knew not to ask.",
+      "style": "Intimate",
+      "translation": "他笑着，眼神却空洞依旧；我知道不该多问。",
+      "translated_word": "空洞",
+      "display_order": 2
+    }
+  ]
+}

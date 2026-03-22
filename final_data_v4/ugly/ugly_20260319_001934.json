@@ -1,0 +1,41 @@
+{
+  "word": "ugly",
+  "phonetic": "/ˈʌɡli/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "丑陋；难看；令人不快；棘手",
+  "examples": [
+    {
+      "sentence": "An ugly crack split the ceiling after the storm.",
+      "style": "Contextual",
+      "translation": "暴风雨过后，一道丑陋的裂缝劈开了天花板。",
+      "translated_word": "丑陋",
+      "display_order": 1
+    },
+    {
+      "sentence": "His jokes were ugly, but his heart was not.",
+      "style": "Contrastive",
+      "translation": "他的玩笑很难听，但他的心不是。",
+      "translated_word": "难听",
+      "display_order": 4
+    },
+    {
+      "sentence": "We call things ugly when we stop trying to understand them.",
+      "style": "Philosophical",
+      "translation": "当我们不再试图理解事物时，便称之为丑陋。",
+      "translated_word": "丑陋",
+      "display_order": 3
+    },
+    {
+      "sentence": "My first poem was ugly; I have never loved one more.",
+      "style": "Intimate",
+      "translation": "我的第一首诗很丑；却是我最珍爱的一首。",
+      "translated_word": "丑",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "wicked",
+  "phonetic": "/ˈwɪkɪd/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "邪恶的；恶劣的；顽皮的；极棒的",
+  "examples": [
+    {
+      "sentence": "His wicked grin told me he already knew the secret.",
+      "style": "Contextual",
+      "translation": "他那邪恶的笑容告诉我，他早已知晓那个秘密。",
+      "translated_word": "邪恶",
+      "display_order": 1
+    },
+    {
+      "sentence": "She has a wicked sense of humor that catches you off guard.",
+      "style": "Collocational",
+      "translation": "她有一种让人猝不及防的促狭幽默。",
+      "translated_word": "促狭",
+      "display_order": 4
+    },
+    {
+      "sentence": "The wind turned wicked at dusk, howling through empty streets.",
+      "style": "Poetic",
+      "translation": "黄昏时分风骤然凶厉，在空巷中呼啸穿行。",
+      "translated_word": "凶厉",
+      "display_order": 3
+    },
+    {
+      "sentence": "The wicked rarely see themselves as villains.",
+      "style": "Philosophical",
+      "translation": "恶人鲜少视自己为反派。",
+      "translated_word": "恶人",
+      "display_order": 2
+    }
+  ]
+}

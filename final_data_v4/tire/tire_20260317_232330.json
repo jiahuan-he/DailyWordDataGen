@@ -1,0 +1,40 @@
+{
+  "word": "tire",
+  "phonetic": "/ˈtaɪər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "疲倦；厌倦；使疲劳",
+  "examples": [
+    {
+      "sentence": "She never tires of watching the sunset from her balcony.",
+      "style": "Contextual",
+      "translation": "她从不厌倦在阳台上看落日。",
+      "translated_word": "厌倦",
+      "display_order": 1
+    },
+    {
+      "sentence": "We tire not from doing too much, but from caring too little about what we do.",
+      "style": "Philosophical",
+      "translation": "我们的疲惫不是因为做得太多，而是因为对所做之事关心太少。",
+      "translated_word": "疲惫",
+      "display_order": 4
+    },
+    {
+      "sentence": "His patience never tired, not once, through all my fumbling attempts to learn.",
+      "style": "Intimate",
+      "translation": "在我所有笨拙的学习尝试中，他的耐心从未消减过，一次也没有。",
+      "translated_word": "消减",
+      "display_order": 2
+    },
+    {
+      "sentence": "The river never tires; it simply finds a slower song to sing.",
+      "style": "Poetic",
+      "translation": "河流永不疲倦；它只是找到一首更舒缓的歌来吟唱。",
+      "translated_word": "疲倦",
+      "display_order": 3
+    }
+  ]
+}

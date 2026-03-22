@@ -1,0 +1,40 @@
+{
+  "word": "barge",
+  "phonetic": "/bɑːrdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "闯入；横冲直撞；硬挤",
+  "examples": [
+    {
+      "sentence": "He barged through the crowd, knocking shoulders without a word.",
+      "style": "Contextual",
+      "translation": "他横冲直撞地穿过人群，撞到人也不吭一声。",
+      "translated_word": "横冲直撞",
+      "display_order": 3
+    },
+    {
+      "sentence": "Never barge into a meeting without knocking first.",
+      "style": "Collocational",
+      "translation": "别不敲门就闯进会议室。",
+      "translated_word": "闯进",
+      "display_order": 1
+    },
+    {
+      "sentence": "My brother used to barge into my room at midnight, afraid of thunder.",
+      "style": "Intimate",
+      "translation": "小时候，弟弟每逢打雷就会半夜闯进我的房间。",
+      "translated_word": "闯进",
+      "display_order": 2
+    },
+    {
+      "sentence": "She could have waited; instead, she barged right through.",
+      "style": "Contrastive",
+      "translation": "她本可以等一等；可她偏要硬闯过去。",
+      "translated_word": "硬闯",
+      "display_order": 4
+    }
+  ]
+}

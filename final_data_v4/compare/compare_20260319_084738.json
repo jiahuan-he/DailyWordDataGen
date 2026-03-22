@@ -1,0 +1,40 @@
+{
+  "word": "compare",
+  "phonetic": "/kəmˈpeər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "比较；对比；相比；比作",
+  "examples": [
+    {
+      "sentence": "She compared the two resumes side by side before making her decision.",
+      "style": "Contextual",
+      "translation": "她将两份简历并排比较后才做出决定。",
+      "translated_word": "比较",
+      "display_order": 1
+    },
+    {
+      "sentence": "Nothing compares to the first sip of coffee on a slow morning.",
+      "style": "Collocational",
+      "translation": "没有什么比得上悠闲早晨的第一口咖啡。",
+      "translated_word": "比得上",
+      "display_order": 3
+    },
+    {
+      "sentence": "The moment you compare, you lose sight of what you already have.",
+      "style": "Philosophical",
+      "translation": "比较的那一刻，你便看不见自己所拥有的。",
+      "translated_word": "比较",
+      "display_order": 4
+    },
+    {
+      "sentence": "She compared the old photo to the mirror; ten years had passed so quietly.",
+      "style": "Intimate",
+      "translation": "她将旧照片与镜中的自己对比；十年竟已悄然流逝。",
+      "translated_word": "对比",
+      "display_order": 2
+    }
+  ]
+}

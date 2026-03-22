@@ -1,0 +1,40 @@
+{
+  "word": "ancillary",
+  "phonetic": "/ænˈsɪləri/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "辅助的；附属的；次要的",
+  "examples": [
+    {
+      "sentence": "The hotel's ancillary services include laundry, spa, and airport transfers.",
+      "style": "Contextual",
+      "translation": "酒店的附属服务涵盖洗衣、水疗和机场接送。",
+      "translated_word": "附属",
+      "display_order": 1
+    },
+    {
+      "sentence": "Revenue from ancillary products now exceeds that of core offerings.",
+      "style": "Formal",
+      "translation": "辅助产品的营收如今已超越核心业务。",
+      "translated_word": "辅助",
+      "display_order": 3
+    },
+    {
+      "sentence": "The main act dazzles; the ancillary performers go unnoticed.",
+      "style": "Contrastive",
+      "translation": "主角光芒四射，配角无人问津。",
+      "translated_word": "配角",
+      "display_order": 4
+    },
+    {
+      "sentence": "Airlines quietly rely on ancillary fees to stay profitable.",
+      "style": "Collocational",
+      "translation": "航空公司悄然依赖附加费用维持盈利。",
+      "translated_word": "附加",
+      "display_order": 2
+    }
+  ]
+}

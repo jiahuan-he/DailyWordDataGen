@@ -1,0 +1,39 @@
+{
+  "word": "alcohol",
+  "phonetic": "/ˈælkəhɒl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "酒；酒精；乙醇",
+  "examples": [
+    {
+      "sentence": "The medication label warned against mixing it with alcohol.",
+      "style": "Contextual",
+      "translation": "药瓶标签上写着：服药期间请勿饮酒。",
+      "translated_word": "酒",
+      "display_order": 2
+    },
+    {
+      "sentence": "New regulations have tightened the sale of alcohol near schools.",
+      "style": "Formal",
+      "translation": "新规收紧了校园周边酒类的销售管控。",
+      "translated_word": "酒类",
+      "display_order": 1
+    },
+    {
+      "sentence": "Alcohol doesn't change people; it simply lowers the curtain.",
+      "style": "Philosophical",
+      "translation": "酒不会改变一个人，只是掀开了幕布。",
+      "translated_word": "酒",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father quit alcohol the day I was born.",
+      "style": "Intimate",
+      "translation": "我出生那天，父亲戒了酒。",
+      "translated_word": "酒",
+      "display_order": 3
+    }
+  ]
+}

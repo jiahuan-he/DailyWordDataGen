@@ -1,0 +1,40 @@
+{
+  "word": "skimpy",
+  "phonetic": "/ˈskɪmpi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "暴露的；不足的；吝啬的",
+  "examples": [
+    {
+      "sentence": "The hotel's skimpy breakfast left us hungry by noon.",
+      "style": "Contextual",
+      "translation": "酒店简陋的早餐让我们到中午就饥肠辘辘。",
+      "translated_word": "简陋",
+      "display_order": 2
+    },
+    {
+      "sentence": "She ignored the stares at her skimpy dress and walked in.",
+      "style": "Collocational",
+      "translation": "她无视众人对那条暴露短裙的目光，径直走了进去。",
+      "translated_word": "暴露",
+      "display_order": 1
+    },
+    {
+      "sentence": "The report was skimpy on details but heavy on promises.",
+      "style": "Contrastive",
+      "translation": "报告细节寥寥，承诺却满满。",
+      "translated_word": "寥寥",
+      "display_order": 3
+    },
+    {
+      "sentence": "Critics cited the skimpy evidence behind the prosecution's case.",
+      "style": "Formal",
+      "translation": "评论人士指出控方的证据十分薄弱。",
+      "translated_word": "薄弱",
+      "display_order": 4
+    }
+  ]
+}

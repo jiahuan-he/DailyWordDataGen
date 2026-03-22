@@ -1,0 +1,42 @@
+{
+  "word": "bias",
+  "phonetic": "/ˈbaɪəs/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "偏见；偏好；倾向",
+  "examples": [
+    {
+      "sentence": "He dismissed the study without reading it; his bias spoke first.",
+      "style": "Contextual",
+      "translation": "他连研究都没读就否定了；是偏见先开了口。",
+      "translated_word": "偏见",
+      "display_order": 2
+    },
+    {
+      "sentence": "The investigation revealed systemic bias in the hiring algorithm.",
+      "style": "Formal",
+      "translation": "调查揭示了招聘算法中存在的系统性偏见。",
+      "translated_word": "偏见",
+      "display_order": 1
+    },
+    {
+      "sentence": "We see bias clearly in others, yet remain blind to our own.",
+      "style": "Philosophical",
+      "translation": "我们总能看清别人的偏见，却对自己的视而不见。",
+      "translated_word": "偏见",
+      "display_order": 3
+    },
+    {
+      "sentence": "Confirmation bias turns research into a hunt for agreement.",
+      "style": "Collocational",
+      "translation": "确认偏见让研究沦为寻求认同的游戏。",
+      "translated_word": "偏见",
+      "display_order": 4
+    }
+  ]
+}

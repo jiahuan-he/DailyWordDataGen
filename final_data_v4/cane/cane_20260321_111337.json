@@ -1,0 +1,40 @@
+{
+  "word": "cane",
+  "phonetic": "/keɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "手杖；藤条；甘蔗",
+  "examples": [
+    {
+      "sentence": "His silver-handled cane rested against the chair, untouched.",
+      "style": "Contextual",
+      "translation": "他那银柄手杖靠在椅边，无人触碰。",
+      "translated_word": "手杖",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sugarcane fields rippled gold beneath the harvest sun.",
+      "style": "Poetic",
+      "translation": "甘蔗田在丰收的日光下泛起金色涟漪。",
+      "translated_word": "蔗",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father's cane now steadies my own steps.",
+      "style": "Intimate",
+      "translation": "父亲的手杖，如今稳住了我的脚步。",
+      "translated_word": "手杖",
+      "display_order": 2
+    },
+    {
+      "sentence": "She found a cane chair at the flea market for ten dollars.",
+      "style": "Collocational",
+      "translation": "她在跳蚤市场花十美元淘到一把藤椅。",
+      "translated_word": "藤",
+      "display_order": 3
+    }
+  ]
+}

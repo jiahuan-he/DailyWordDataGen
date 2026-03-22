@@ -1,0 +1,40 @@
+{
+  "word": "tick",
+  "phonetic": "/tɪk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "滴答作响；打勾；驱动",
+  "examples": [
+    {
+      "sentence": "The old clock ticked softly in the empty hallway.",
+      "style": "Contextual",
+      "translation": "老钟在空荡的走廊里轻轻滴答作响。",
+      "translated_word": "滴答",
+      "display_order": 1
+    },
+    {
+      "sentence": "Tick the box to confirm you've read the terms.",
+      "style": "Collocational",
+      "translation": "请打勾确认您已阅读条款。",
+      "translated_word": "打勾",
+      "display_order": 2
+    },
+    {
+      "sentence": "Seconds tick; empires rise and fall between them.",
+      "style": "Poetic",
+      "translation": "秒针滴答；帝国在其间兴衰更替。",
+      "translated_word": "滴答",
+      "display_order": 4
+    },
+    {
+      "sentence": "To lead well, learn what makes your team tick.",
+      "style": "Philosophical",
+      "translation": "要领导有方，先懂得什么驱动你的团队。",
+      "translated_word": "驱动",
+      "display_order": 3
+    }
+  ]
+}

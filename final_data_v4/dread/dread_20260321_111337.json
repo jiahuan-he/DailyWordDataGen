@@ -1,0 +1,41 @@
+{
+  "word": "dread",
+  "phonetic": "/drɛd/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "恐惧；害怕；忧虑",
+  "examples": [
+    {
+      "sentence": "She dreaded the phone call, rehearsing excuses under her breath.",
+      "style": "Contextual",
+      "translation": "她害怕接那通电话，低声排练着各种借口。",
+      "translated_word": "害怕",
+      "display_order": 1
+    },
+    {
+      "sentence": "We dread uncertainty far more than hardship itself.",
+      "style": "Philosophical",
+      "translation": "比起苦难本身，我们更恐惧的是未知。",
+      "translated_word": "恐惧",
+      "display_order": 3
+    },
+    {
+      "sentence": "The old house dreads another winter, its timbers groaning in the cold.",
+      "style": "Poetic",
+      "translation": "老宅畏惧又一个寒冬的到来，梁木在寒风中呻吟。",
+      "translated_word": "畏惧",
+      "display_order": 4
+    },
+    {
+      "sentence": "I used to dread Sundays; now I guard them like a treasure.",
+      "style": "Intimate",
+      "translation": "我曾害怕周日的到来；如今却把它当作珍宝守护。",
+      "translated_word": "害怕",
+      "display_order": 2
+    }
+  ]
+}

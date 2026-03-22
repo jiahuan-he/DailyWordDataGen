@@ -1,0 +1,41 @@
+{
+  "word": "setting",
+  "phonetic": "/ˈsetɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "环境；背景；场景；设置",
+  "examples": [
+    {
+      "sentence": "The novel's rural setting made every chapter feel like home.",
+      "style": "Contextual",
+      "translation": "小说的乡村背景让每一章都像是归乡。",
+      "translated_word": "背景",
+      "display_order": 1
+    },
+    {
+      "sentence": "She adjusted the camera setting until the colors matched reality.",
+      "style": "Collocational",
+      "translation": "她调整相机设置，直到色彩与真实相符。",
+      "translated_word": "设置",
+      "display_order": 4
+    },
+    {
+      "sentence": "Autumn light transformed the courtyard into a setting from another century.",
+      "style": "Poetic",
+      "translation": "秋日的光线将庭院化作另一个世纪的场景。",
+      "translated_word": "场景",
+      "display_order": 3
+    },
+    {
+      "sentence": "That café was our setting for truths we couldn't speak elsewhere.",
+      "style": "Intimate",
+      "translation": "那间咖啡馆是我们倾诉真心的地方。",
+      "translated_word": "地方",
+      "display_order": 2
+    }
+  ]
+}

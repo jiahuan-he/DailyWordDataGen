@@ -1,0 +1,41 @@
+{
+  "word": "budget",
+  "phonetic": "/ˈbʌdʒɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "预算；经费；开支",
+  "examples": [
+    {
+      "sentence": "The project was canceled when the budget ran out.",
+      "style": "Contextual",
+      "translation": "预算耗尽后，项目被迫取消。",
+      "translated_word": "预算",
+      "display_order": 1
+    },
+    {
+      "sentence": "Congress approved a record defense budget amid rising tensions.",
+      "style": "Formal",
+      "translation": "在局势日益紧张之际，国会批准了创纪录的国防预算。",
+      "translated_word": "预算",
+      "display_order": 3
+    },
+    {
+      "sentence": "With a tight budget, she learned to cook meals that tasted like abundance.",
+      "style": "Collocational",
+      "translation": "预算紧张时，她学会了用简单食材做出丰盛的味道。",
+      "translated_word": "预算",
+      "display_order": 2
+    },
+    {
+      "sentence": "Our first apartment had a leaky faucet and a view of a parking lot; the budget was small, but the happiness was not.",
+      "style": "Intimate",
+      "translation": "我们的第一间公寓水龙头漏水，窗外是停车场；预算虽少，幸福却不曾打折。",
+      "translated_word": "预算",
+      "display_order": 4
+    }
+  ]
+}

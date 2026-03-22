@@ -1,0 +1,40 @@
+{
+  "word": "quadrilateral",
+  "phonetic": "/ˌkwɒdrɪˈlætərəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "四边形；四角形",
+  "examples": [
+    {
+      "sentence": "The architect sketched a quadrilateral for the plaza's foundation.",
+      "style": "Contextual",
+      "translation": "建筑师为广场的地基勾勒出一个四边形。",
+      "translated_word": "四边形",
+      "display_order": 1
+    },
+    {
+      "sentence": "Each quadrilateral in the dataset was classified by its symmetry properties.",
+      "style": "Formal",
+      "translation": "数据集中的每个四边形均按其对称性进行了分类。",
+      "translated_word": "四边形",
+      "display_order": 3
+    },
+    {
+      "sentence": "A square is a regular quadrilateral; a trapezoid is not.",
+      "style": "Collocational",
+      "translation": "正方形是正四边形；梯形则不是。",
+      "translated_word": "四边形",
+      "display_order": 2
+    },
+    {
+      "sentence": "In every quadrilateral, chaos bends itself into order.",
+      "style": "Philosophical",
+      "translation": "在每一个四边形中，混沌将自身折入秩序。",
+      "translated_word": "四边形",
+      "display_order": 4
+    }
+  ]
+}

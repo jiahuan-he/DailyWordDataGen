@@ -1,0 +1,40 @@
+{
+  "word": "watch",
+  "phonetic": "/wɒtʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "观看；注视；留意；看守",
+  "examples": [
+    {
+      "sentence": "The whole room watched as she opened the envelope.",
+      "style": "Contextual",
+      "translation": "她拆开信封时，满屋的人都屏息注视。",
+      "translated_word": "注视",
+      "display_order": 1
+    },
+    {
+      "sentence": "Watch your tone; words leave marks that don't fade.",
+      "style": "Collocational",
+      "translation": "注意你的语气；言语的伤痕不会消退。",
+      "translated_word": "注意",
+      "display_order": 3
+    },
+    {
+      "sentence": "To watch without judgment is a rare gift.",
+      "style": "Philosophical",
+      "translation": "不带评判地观看，是一种稀有的天赋。",
+      "translated_word": "观看",
+      "display_order": 4
+    },
+    {
+      "sentence": "He taught me to watch the ocean before speaking my mind.",
+      "style": "Intimate",
+      "translation": "他教会我在开口之前，先看看大海。",
+      "translated_word": "看看",
+      "display_order": 2
+    }
+  ]
+}

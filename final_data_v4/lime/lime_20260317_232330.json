@@ -1,0 +1,41 @@
+{
+  "word": "lime",
+  "phonetic": "/laɪm/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "青柠；酸橙；石灰；淡黄绿色",
+  "examples": [
+    {
+      "sentence": "She squeezed fresh lime over the grilled fish.",
+      "style": "Contextual",
+      "translation": "她把新鲜青柠挤在烤鱼上。",
+      "translated_word": "青柠",
+      "display_order": 1
+    },
+    {
+      "sentence": "The cocktail needed a wedge of lime.",
+      "style": "Collocational",
+      "translation": "这杯鸡尾酒需要一瓣青柠点缀。",
+      "translated_word": "青柠",
+      "display_order": 3
+    },
+    {
+      "sentence": "Summer tastes of lime and sea salt on sunburned lips.",
+      "style": "Poetic",
+      "translation": "夏天的滋味，是晒伤的唇上青柠与海盐的交融。",
+      "translated_word": "青柠",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's kitchen always smelled of lime and cilantro.",
+      "style": "Intimate",
+      "translation": "外婆的厨房里，永远飘着青柠与香菜的气息。",
+      "translated_word": "青柠",
+      "display_order": 2
+    }
+  ]
+}

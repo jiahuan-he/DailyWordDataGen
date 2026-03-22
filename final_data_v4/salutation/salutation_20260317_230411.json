@@ -1,0 +1,39 @@
+{
+  "word": "salutation",
+  "phonetic": "/ˌsæljuˈteɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "问候；致意；称呼语",
+  "examples": [
+    {
+      "sentence": "Her letter opened with a salutation so personal it felt like a whisper.",
+      "style": "Contextual",
+      "translation": "她的信以一句私密的问候开篇，轻柔如耳语。",
+      "translated_word": "问候",
+      "display_order": 3
+    },
+    {
+      "sentence": "The ambassador's salutation set a tone of respect before negotiations began.",
+      "style": "Formal",
+      "translation": "大使的致辞在谈判开始前便奠定了尊重的基调。",
+      "translated_word": "致辞",
+      "display_order": 4
+    },
+    {
+      "sentence": "A proper salutation transforms a cold email into a warm connection.",
+      "style": "Collocational",
+      "translation": "一个得体的称呼，能让冰冷的邮件变得温暖。",
+      "translated_word": "称呼",
+      "display_order": 1
+    },
+    {
+      "sentence": "The simplest salutation can acknowledge a stranger's existence.",
+      "style": "Philosophical",
+      "translation": "最简单的问候，也能让陌生人感到被看见。",
+      "translated_word": "问候",
+      "display_order": 2
+    }
+  ]
+}

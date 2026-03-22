@@ -1,0 +1,40 @@
+{
+  "word": "urge",
+  "phonetic": "/ɜːrdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "敦促；力劝；催促；驱使",
+  "examples": [
+    {
+      "sentence": "She urged him to apply before the deadline.",
+      "style": "Contextual",
+      "translation": "她催促他在截止日期前提交申请。",
+      "translated_word": "催促",
+      "display_order": 1
+    },
+    {
+      "sentence": "Health officials urge residents to evacuate immediately.",
+      "style": "Formal",
+      "translation": "卫生官员敦促居民立即撤离。",
+      "translated_word": "敦促",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father rarely spoke, but that night he urged me to follow my own path.",
+      "style": "Intimate",
+      "translation": "父亲寡言少语，但那晚他劝我走自己的路。",
+      "translated_word": "劝",
+      "display_order": 2
+    },
+    {
+      "sentence": "We urge others toward the risks we ourselves once fled.",
+      "style": "Philosophical",
+      "translation": "我们敦促他人去冒的险，往往是自己曾经逃避的。",
+      "translated_word": "敦促",
+      "display_order": 4
+    }
+  ]
+}

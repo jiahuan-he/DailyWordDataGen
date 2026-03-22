@@ -1,0 +1,41 @@
+{
+  "word": "advance",
+  "phonetic": "/ədˈvæns/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "前进；推进；提升；预支",
+  "examples": [
+    {
+      "sentence": "The chess player advanced her pawn, leaving no escape for the king.",
+      "style": "Contextual",
+      "translation": "棋手推进了她的卒子，国王已无路可逃。",
+      "translated_word": "推进",
+      "display_order": 1
+    },
+    {
+      "sentence": "New findings advance our understanding of how memories consolidate during sleep.",
+      "style": "Formal",
+      "translation": "新发现推进了我们对睡眠期间记忆巩固机制的理解。",
+      "translated_word": "推进",
+      "display_order": 3
+    },
+    {
+      "sentence": "Advance boldly; hesitation has never built anything worth keeping.",
+      "style": "Inspirational",
+      "translation": "大胆前进；犹豫从未能建成任何值得留下的东西。",
+      "translated_word": "前进",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father advanced through poverty without a single complaint; his silence taught me everything.",
+      "style": "Intimate",
+      "translation": "父亲在贫穷中默默前行，从无怨言；他的沉默教会了我一切。",
+      "translated_word": "前行",
+      "display_order": 2
+    }
+  ]
+}

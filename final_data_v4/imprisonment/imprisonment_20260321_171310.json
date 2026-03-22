@@ -1,0 +1,39 @@
+{
+  "word": "imprisonment",
+  "phonetic": "/ɪmˈprɪzənmənt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "监禁；囚禁；关押",
+  "examples": [
+    {
+      "sentence": "The court sentenced him to three years of imprisonment for embezzlement.",
+      "style": "Formal",
+      "translation": "法院以挪用公款罪判处他三年监禁。",
+      "translated_word": "监禁",
+      "display_order": 1
+    },
+    {
+      "sentence": "Exile allows wandering; imprisonment denies even a single step.",
+      "style": "Contrastive",
+      "translation": "流放尚能漂泊，监禁却连一步都不许。",
+      "translated_word": "监禁",
+      "display_order": 2
+    },
+    {
+      "sentence": "The body can survive imprisonment; it is the mind that must learn to roam free.",
+      "style": "Philosophical",
+      "translation": "肉体能熬过囚禁，而心灵必须学会自由驰骋。",
+      "translated_word": "囚禁",
+      "display_order": 3
+    },
+    {
+      "sentence": "His imprisonment turned birdsong into the only calendar he kept.",
+      "style": "Poetic",
+      "translation": "狱中岁月，鸟鸣成了他唯一的日历。",
+      "translated_word": "狱中",
+      "display_order": 4
+    }
+  ]
+}

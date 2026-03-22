@@ -1,0 +1,40 @@
+{
+  "word": "shrub",
+  "phonetic": "/ʃrʌb/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "灌木；矮树丛",
+  "examples": [
+    {
+      "sentence": "The overgrown shrub had begun to block the kitchen window.",
+      "style": "Contextual",
+      "translation": "那丛疯长的灌木已经遮住了厨房的窗。",
+      "translated_word": "灌木",
+      "display_order": 3
+    },
+    {
+      "sentence": "Flowering shrubs bordered the stone walkway.",
+      "style": "Collocational",
+      "translation": "花灌木沿着石径延伸。",
+      "translated_word": "灌木",
+      "display_order": 1
+    },
+    {
+      "sentence": "Winter strips the shrub to its bones, yet it stands.",
+      "style": "Poetic",
+      "translation": "冬天将灌木剥至骨架，它依然挺立。",
+      "translated_word": "灌木",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother had one shrub in her yard where sparrows gathered every dawn.",
+      "style": "Intimate",
+      "translation": "外婆院里有一丛灌木，每天黎明麻雀都会在那儿聚集。",
+      "translated_word": "灌木",
+      "display_order": 2
+    }
+  ]
+}

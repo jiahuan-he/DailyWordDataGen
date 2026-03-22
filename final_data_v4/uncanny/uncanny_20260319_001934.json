@@ -1,0 +1,40 @@
+{
+  "word": "uncanny",
+  "phonetic": "/ʌnˈkæni/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "诡异的；不可思议的；出奇的",
+  "examples": [
+    {
+      "sentence": "The portrait bore an uncanny resemblance to my grandmother.",
+      "style": "Contextual",
+      "translation": "那幅画像与我祖母有着惊人的相似。",
+      "translated_word": "惊人",
+      "display_order": 1
+    },
+    {
+      "sentence": "He has an uncanny knack for arriving at just the right moment.",
+      "style": "Collocational",
+      "translation": "他总能在恰到好处的时刻出现，简直不可思议。",
+      "translated_word": "不可思议",
+      "display_order": 2
+    },
+    {
+      "sentence": "At dusk, the empty playground felt uncanny, frozen between worlds.",
+      "style": "Poetic",
+      "translation": "黄昏时分，空荡的游乐场透着诡异，仿佛凝固在两个世界之间。",
+      "translated_word": "诡异",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we call uncanny is often the familiar stripped of its disguise.",
+      "style": "Philosophical",
+      "translation": "所谓诡异，不过是熟悉事物卸下了伪装。",
+      "translated_word": "诡异",
+      "display_order": 4
+    }
+  ]
+}

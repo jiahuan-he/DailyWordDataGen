@@ -1,0 +1,41 @@
+{
+  "word": "context",
+  "phonetic": "/ˈkɑːntekst/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "背景；语境；上下文；情境",
+  "examples": [
+    {
+      "sentence": "Without context, even the kindest words can wound.",
+      "style": "Contextual",
+      "translation": "失去语境，再温柔的话也能伤人。",
+      "translated_word": "语境",
+      "display_order": 3
+    },
+    {
+      "sentence": "The historian examined the treaty within its broader political context.",
+      "style": "Formal",
+      "translation": "历史学家在更宏观的政治背景下审视这份条约。",
+      "translated_word": "背景",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every truth is incomplete without its context.",
+      "style": "Philosophical",
+      "translation": "任何真相，脱离了背景便不再完整。",
+      "translated_word": "背景",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her comment, taken out of context, sparked unnecessary controversy.",
+      "style": "Collocational",
+      "translation": "她的话被断章取义，引发了不必要的争议。",
+      "translated_word": null,
+      "display_order": 2
+    }
+  ]
+}

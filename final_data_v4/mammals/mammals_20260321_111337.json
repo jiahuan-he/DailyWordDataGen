@@ -1,0 +1,39 @@
+{
+  "word": "mammals",
+  "phonetic": "/ˈmæməlz/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "哺乳动物；哺乳类",
+  "examples": [
+    {
+      "sentence": "Whales and dolphins, despite living in the ocean, are mammals that must surface to breathe.",
+      "style": "Contextual",
+      "translation": "鲸鱼和海豚虽生活在海洋中，却是必须浮出水面呼吸的哺乳动物。",
+      "translated_word": "哺乳动物",
+      "display_order": 2
+    },
+    {
+      "sentence": "Climate change poses an unprecedented threat to polar mammals worldwide.",
+      "style": "Formal",
+      "translation": "气候变化正对全球极地哺乳动物构成前所未有的威胁。",
+      "translated_word": "哺乳动物",
+      "display_order": 3
+    },
+    {
+      "sentence": "Unlike reptiles, mammals regulate their own body temperature.",
+      "style": "Contrastive",
+      "translation": "与爬行动物不同，哺乳动物能自主调节体温。",
+      "translated_word": "哺乳动物",
+      "display_order": 1
+    },
+    {
+      "sentence": "We forget too easily that we are mammals: creatures of instinct wrapped in language.",
+      "style": "Philosophical",
+      "translation": "我们太容易忘记自己也是哺乳动物：用语言包裹本能的生灵。",
+      "translated_word": "哺乳动物",
+      "display_order": 4
+    }
+  ]
+}

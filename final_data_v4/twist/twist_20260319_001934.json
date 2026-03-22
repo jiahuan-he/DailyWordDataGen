@@ -1,0 +1,40 @@
+{
+  "word": "twist",
+  "phonetic": "/twɪst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "扭；拧；缠绕；曲解",
+  "examples": [
+    {
+      "sentence": "The vine twisted around the fence, reaching for sunlight.",
+      "style": "Contextual",
+      "translation": "藤蔓缠绕着篱笆，向阳光伸展。",
+      "translated_word": "缠绕",
+      "display_order": 2
+    },
+    {
+      "sentence": "He twisted her words to suit his own story.",
+      "style": "Collocational",
+      "translation": "他曲解了她的话，使之符合自己的叙述。",
+      "translated_word": "曲解",
+      "display_order": 3
+    },
+    {
+      "sentence": "We twist our memories until they become kind.",
+      "style": "Philosophical",
+      "translation": "我们扭曲记忆，直到它们变得温柔。",
+      "translated_word": "扭曲",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her fingers twist the ring whenever she's lost in thought.",
+      "style": "Intimate",
+      "translation": "每当她陷入沉思，手指便不自觉地转动那枚戒指。",
+      "translated_word": "转动",
+      "display_order": 1
+    }
+  ]
+}

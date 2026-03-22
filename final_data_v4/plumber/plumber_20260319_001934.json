@@ -1,0 +1,39 @@
+{
+  "word": "plumber",
+  "phonetic": "/ˈplʌmər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "水管工；管道工",
+  "examples": [
+    {
+      "sentence": "The sink wouldn't drain, so we called a plumber.",
+      "style": "Contextual",
+      "translation": "水槽堵了，我们叫了水管工。",
+      "translated_word": "水管工",
+      "display_order": 1
+    },
+    {
+      "sentence": "A good plumber is worth their weight in gold.",
+      "style": "Collocational",
+      "translation": "好的水管工千金难求。",
+      "translated_word": "水管工",
+      "display_order": 4
+    },
+    {
+      "sentence": "The city faces a critical shortage of licensed plumbers.",
+      "style": "Formal",
+      "translation": "该市正面临持证水管工严重短缺的问题。",
+      "translated_word": "水管工",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather was a plumber; his toolbox still sits in my garage.",
+      "style": "Intimate",
+      "translation": "祖父是个水管工，他的工具箱至今还放在我的车库里。",
+      "translated_word": "水管工",
+      "display_order": 2
+    }
+  ]
+}

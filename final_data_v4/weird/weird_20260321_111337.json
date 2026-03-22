@@ -1,0 +1,41 @@
+{
+  "word": "weird",
+  "phonetic": "/wɪrd/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "奇怪的；古怪的；诡异的",
+  "examples": [
+    {
+      "sentence": "The house was silent, but something felt weird.",
+      "style": "Contextual",
+      "translation": "房子里静悄悄的，但总觉得哪里不对劲。",
+      "translated_word": "不对劲",
+      "display_order": 2
+    },
+    {
+      "sentence": "It's weird how a single song can unlock an entire summer.",
+      "style": "Intimate",
+      "translation": "奇妙的是，一首歌就能唤醒整个夏天的记忆。",
+      "translated_word": "奇妙",
+      "display_order": 3
+    },
+    {
+      "sentence": "The things we call weird are often just unfamiliar.",
+      "style": "Philosophical",
+      "translation": "我们所谓的古怪，往往不过是陌生罢了。",
+      "translated_word": "古怪",
+      "display_order": 4
+    },
+    {
+      "sentence": "He gave me a weird look and walked away.",
+      "style": "Collocational",
+      "translation": "他古怪地看了我一眼，转身走了。",
+      "translated_word": "古怪",
+      "display_order": 1
+    }
+  ]
+}

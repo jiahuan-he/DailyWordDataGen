@@ -1,0 +1,40 @@
+{
+  "word": "rod",
+  "phonetic": "/rɒd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "杆；棒；竿",
+  "examples": [
+    {
+      "sentence": "He heated the iron rod until it glowed orange.",
+      "style": "Contextual",
+      "translation": "他把铁棒加热，直到泛起橘红色的光。",
+      "translated_word": "棒",
+      "display_order": 1
+    },
+    {
+      "sentence": "The fishing rod bent sharply; something big had taken the bait.",
+      "style": "Collocational",
+      "translation": "鱼竿猛然弯下去；有大家伙上钩了。",
+      "translated_word": "鱼竿",
+      "display_order": 2
+    },
+    {
+      "sentence": "A single curtain rod held back the morning, thin as a whisper.",
+      "style": "Poetic",
+      "translation": "一根窗帘杆挡住晨光，细若低语。",
+      "translated_word": "杆",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father handed me his fishing rod at dawn, and I understood everything.",
+      "style": "Intimate",
+      "translation": "父亲在黎明时把鱼竿递给我，那一刻我什么都懂了。",
+      "translated_word": "鱼竿",
+      "display_order": 3
+    }
+  ]
+}

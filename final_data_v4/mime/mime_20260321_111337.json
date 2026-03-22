@@ -1,0 +1,40 @@
+{
+  "word": "mime",
+  "phonetic": "/maɪm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "哑剧；哑剧演员；默剧",
+  "examples": [
+    {
+      "sentence": "The street mime froze mid-gesture until a coin clinked into his hat.",
+      "style": "Contextual",
+      "translation": "街头的哑剧演员凝固在半空，直到一枚硬币叮当落入帽中。",
+      "translated_word": "哑剧演员",
+      "display_order": 1
+    },
+    {
+      "sentence": "White gloves sculpting silence: the mime traced doors that weren't there.",
+      "style": "Poetic",
+      "translation": "白手套雕琢着寂静：他描摹着不存在的门。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "A mime proves that language exists beyond words.",
+      "style": "Philosophical",
+      "translation": "哑剧证明，语言可以超越言语而存在。",
+      "translated_word": "哑剧",
+      "display_order": 3
+    },
+    {
+      "sentence": "That summer in Paris, a mime on the bridge made me laugh until I cried.",
+      "style": "Intimate",
+      "translation": "那年夏天在巴黎，桥上的哑剧演员让我笑到流泪。",
+      "translated_word": "哑剧演员",
+      "display_order": 2
+    }
+  ]
+}

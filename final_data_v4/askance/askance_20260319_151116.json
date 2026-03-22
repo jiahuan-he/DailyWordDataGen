@@ -1,0 +1,41 @@
+{
+  "word": "askance",
+  "phonetic": "/əˈskæns/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "verb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "怀疑地；侧目；不以为然",
+  "examples": [
+    {
+      "sentence": "She glanced askance at the contract, sensing hidden clauses.",
+      "style": "Contextual",
+      "translation": "她狐疑地瞥了一眼合同，察觉到其中暗藏玄机。",
+      "translated_word": "狐疑地",
+      "display_order": 1
+    },
+    {
+      "sentence": "Traditionalists often look askance at unconventional methods.",
+      "style": "Collocational",
+      "translation": "传统主义者往往对非常规的方法不以为然。",
+      "translated_word": "不以为然",
+      "display_order": 3
+    },
+    {
+      "sentence": "Even the crooked streetlamp seemed to peer askance at the midnight wanderer.",
+      "style": "Poetic",
+      "translation": "连歪斜的路灯似乎也在侧目打量那个午夜的流浪者。",
+      "translated_word": "侧目",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father would eye askance any boy who came to our door.",
+      "style": "Intimate",
+      "translation": "任何登门拜访的男孩，父亲都会投去审视的目光。",
+      "translated_word": "审视",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "centralise",
+  "phonetic": "/ˈsentrəlaɪz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "集中；统一管理；使集权",
+  "examples": [
+    {
+      "sentence": "The ministry plans to centralise all public health data by next year.",
+      "style": "Formal",
+      "translation": "该部门计划在明年前将所有公共卫生数据集中管理。",
+      "translated_word": "集中",
+      "display_order": 2
+    },
+    {
+      "sentence": "To reduce confusion, we decided to centralise customer inquiries through one team.",
+      "style": "Contextual",
+      "translation": "为减少混乱，我们决定由一个团队统一处理客户咨询。",
+      "translated_word": "统一",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some nations centralise power; others distribute it among regions.",
+      "style": "Contrastive",
+      "translation": "有些国家集权于中央；另一些则将权力分散至各地区。",
+      "translated_word": "集权",
+      "display_order": 4
+    },
+    {
+      "sentence": "The company chose to centralise operations in a single headquarters.",
+      "style": "Collocational",
+      "translation": "公司选择将业务集中在一个总部运营。",
+      "translated_word": "集中",
+      "display_order": 1
+    }
+  ]
+}

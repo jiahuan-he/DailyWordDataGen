@@ -1,0 +1,40 @@
+{
+  "word": "jeopardy",
+  "phonetic": "/ˈdʒepərdi/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "危险；风险；险境",
+  "examples": [
+    {
+      "sentence": "One careless word, and years of trust were suddenly in jeopardy.",
+      "style": "Contextual",
+      "translation": "一句无心之语，多年的信任瞬间岌岌可危。",
+      "translated_word": "岌岌可危",
+      "display_order": 2
+    },
+    {
+      "sentence": "The proposed policy changes place thousands of jobs in jeopardy.",
+      "style": "Formal",
+      "translation": "拟议的政策调整使数千个工作岗位陷入危机。",
+      "translated_word": "危机",
+      "display_order": 3
+    },
+    {
+      "sentence": "His reckless decision put the entire project in jeopardy.",
+      "style": "Collocational",
+      "translation": "他鲁莽的决定使整个项目命悬一线。",
+      "translated_word": "命悬一线",
+      "display_order": 1
+    },
+    {
+      "sentence": "The things we refuse to risk reveal the jeopardy we fear most.",
+      "style": "Philosophical",
+      "translation": "我们拒绝冒险的事物，恰恰暴露了内心最深的恐惧。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

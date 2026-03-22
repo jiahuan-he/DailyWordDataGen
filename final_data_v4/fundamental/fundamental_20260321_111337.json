@@ -1,0 +1,40 @@
+{
+  "word": "fundamental",
+  "phonetic": "/ˌfʌndəˈmentl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "基本的；根本的；核心的",
+  "examples": [
+    {
+      "sentence": "Trust is fundamental to any lasting relationship.",
+      "style": "Contextual",
+      "translation": "信任是任何长久关系的根本。",
+      "translated_word": "根本",
+      "display_order": 1
+    },
+    {
+      "sentence": "The committee identified fundamental flaws in the proposal.",
+      "style": "Formal",
+      "translation": "委员会指出了该提案的根本性缺陷。",
+      "translated_word": "根本性",
+      "display_order": 2
+    },
+    {
+      "sentence": "We debate policies while ignoring the fundamental question: what kind of life do we want?",
+      "style": "Philosophical",
+      "translation": "我们争论政策，却忽略了根本问题：我们想要怎样的生活？",
+      "translated_word": "根本",
+      "display_order": 3
+    },
+    {
+      "sentence": "Master the fundamentals; everything else will follow.",
+      "style": "Inspirational",
+      "translation": "掌握基本功，其余自然水到渠成。",
+      "translated_word": "基本功",
+      "display_order": 4
+    }
+  ]
+}

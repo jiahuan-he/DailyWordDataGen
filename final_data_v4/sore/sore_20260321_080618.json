@@ -1,0 +1,42 @@
+{
+  "word": "sore",
+  "phonetic": "/sɔːr/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "疼痛的；酸痛的；恼火的",
+  "examples": [
+    {
+      "sentence": "Her calves were sore after climbing six flights of stairs.",
+      "style": "Contextual",
+      "translation": "爬了六层楼后，她的小腿酸痛不已。",
+      "translated_word": "酸痛",
+      "display_order": 1
+    },
+    {
+      "sentence": "A sore throat kept her voice down to a whisper.",
+      "style": "Collocational",
+      "translation": "嗓子疼让她只能低声细语。",
+      "translated_word": "疼",
+      "display_order": 2
+    },
+    {
+      "sentence": "My palms were sore from applauding, but the encore was worth every ache.",
+      "style": "Intimate",
+      "translation": "鼓掌鼓得双手发疼，但那场返场值得每一分酸楚。",
+      "translated_word": "疼",
+      "display_order": 3
+    },
+    {
+      "sentence": "Old letters leave the heart sore in the gentlest way.",
+      "style": "Poetic",
+      "translation": "旧信笺总以最温柔的方式，让心隐隐作痛。",
+      "translated_word": "作痛",
+      "display_order": 4
+    }
+  ]
+}

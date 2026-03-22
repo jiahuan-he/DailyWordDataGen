@@ -1,0 +1,40 @@
+{
+  "word": "aromatic",
+  "phonetic": "/ˌærəˈmætɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "芳香的；芬芳的；香气扑鼻的",
+  "examples": [
+    {
+      "sentence": "The kitchen filled with aromatic steam as the herbs simmered.",
+      "style": "Contextual",
+      "translation": "香草在锅中慢炖，厨房里弥漫着芳香的蒸汽。",
+      "translated_word": "芳香的",
+      "display_order": 2
+    },
+    {
+      "sentence": "She added aromatic spices to the curry: cumin, cardamom, and cinnamon.",
+      "style": "Collocational",
+      "translation": "她往咖喱里加入芳香的香料：孜然、豆蔻和肉桂。",
+      "translated_word": "芳香的",
+      "display_order": 1
+    },
+    {
+      "sentence": "Aromatic lavender drifted through the open window, softening the afternoon.",
+      "style": "Poetic",
+      "translation": "薰衣草的芬芳随风飘入窗内，柔化了整个午后。",
+      "translated_word": "芬芳",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's hands always carried something aromatic: basil, rosemary, thyme.",
+      "style": "Intimate",
+      "translation": "外婆的双手总带着某种香气：罗勒、迷迭香、百里香。",
+      "translated_word": "香气",
+      "display_order": 3
+    }
+  ]
+}

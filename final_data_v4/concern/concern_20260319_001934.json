@@ -1,0 +1,40 @@
+{
+  "word": "concern",
+  "phonetic": "/kənˈsɜːrn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "担忧；关切；忧虑",
+  "examples": [
+    {
+      "sentence": "Her only concern was whether the children had eaten.",
+      "style": "Contextual",
+      "translation": "她唯一担心的，是孩子们有没有吃饭。",
+      "translated_word": "担心",
+      "display_order": 1
+    },
+    {
+      "sentence": "Climate change remains a growing concern worldwide.",
+      "style": "Collocational",
+      "translation": "气候变化仍是全球日益关注的问题。",
+      "translated_word": "关注",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we name concern for others is often fear dressed in kindness.",
+      "style": "Philosophical",
+      "translation": "我们所谓对他人的关切，往往是披着善意外衣的恐惧。",
+      "translated_word": "关切",
+      "display_order": 4
+    },
+    {
+      "sentence": "His quiet concern said more than words ever could.",
+      "style": "Intimate",
+      "translation": "他无声的关心，胜过千言万语。",
+      "translated_word": "关心",
+      "display_order": 2
+    }
+  ]
+}

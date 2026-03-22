@@ -1,0 +1,40 @@
+{
+  "word": "incumbent",
+  "phonetic": "/ɪnˈkʌmbənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "在任的；现任的；责无旁贷的",
+  "examples": [
+    {
+      "sentence": "The incumbent senator refused to concede until every vote was counted.",
+      "style": "Formal",
+      "translation": "现任参议员拒绝在所有选票清点完毕前认输。",
+      "translated_word": "现任",
+      "display_order": 1
+    },
+    {
+      "sentence": "It is incumbent upon us to preserve what we inherit.",
+      "style": "Contextual",
+      "translation": "守护所继承的一切，是我们责无旁贷的使命。",
+      "translated_word": "责无旁贷",
+      "display_order": 4
+    },
+    {
+      "sentence": "Power feels natural to the incumbent; change feels natural to the challenger.",
+      "style": "Philosophical",
+      "translation": "在位者视权力为理所当然，挑战者视变革为天经地义。",
+      "translated_word": "在位者",
+      "display_order": 3
+    },
+    {
+      "sentence": "The challenger promised revolution; the incumbent offered stability.",
+      "style": "Contrastive",
+      "translation": "挑战者许诺变革，现任者承诺稳定。",
+      "translated_word": "现任者",
+      "display_order": 2
+    }
+  ]
+}

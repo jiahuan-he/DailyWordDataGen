@@ -1,0 +1,39 @@
+{
+  "word": "simply",
+  "phonetic": "/ˈsɪmpli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "仅仅；简单地；完全地；朴素地",
+  "examples": [
+    {
+      "sentence": "She simply nodded and walked away.",
+      "style": "Contextual",
+      "translation": "她只是点了点头，转身离去。",
+      "translated_word": "只是",
+      "display_order": 1
+    },
+    {
+      "sentence": "Put simply, we need more time.",
+      "style": "Collocational",
+      "translation": "简单来说，我们需要更多时间。",
+      "translated_word": "简单",
+      "display_order": 2
+    },
+    {
+      "sentence": "To live simply is to see clearly.",
+      "style": "Philosophical",
+      "translation": "简朴地生活，才能看得透彻。",
+      "translated_word": "简朴",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some dreams are simply worth chasing.",
+      "style": "Inspirational",
+      "translation": "有些梦想，值得全力以赴。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

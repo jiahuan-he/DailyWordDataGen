@@ -1,0 +1,39 @@
+{
+  "word": "underling",
+  "phonetic": "/ˈʌndərlɪŋ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "下属；手下；小喽啰",
+  "examples": [
+    {
+      "sentence": "The CEO never attended those meetings; he sent an underling instead.",
+      "style": "Contextual",
+      "translation": "CEO从不出席那些会议；他总是派个手下代劳。",
+      "translated_word": "手下",
+      "display_order": 1
+    },
+    {
+      "sentence": "The investigation revealed that several underlings had been instructed to destroy evidence.",
+      "style": "Formal",
+      "translation": "调查显示，数名下属曾被指示销毁证据。",
+      "translated_word": "下属",
+      "display_order": 4
+    },
+    {
+      "sentence": "She refused to be treated as an underling when she had earned her place at the table.",
+      "style": "Contrastive",
+      "translation": "她凭实力赢得一席之地，绝不甘心被当作小喽啰对待。",
+      "translated_word": "小喽啰",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every empire is built on the silence of its underlings.",
+      "style": "Philosophical",
+      "translation": "每一个帝国，都建立在无数小人物的沉默之上。",
+      "translated_word": "小人物",
+      "display_order": 3
+    }
+  ]
+}

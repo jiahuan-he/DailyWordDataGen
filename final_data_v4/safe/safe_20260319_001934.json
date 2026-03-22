@@ -1,0 +1,41 @@
+{
+  "word": "safe",
+  "phonetic": "/seɪf/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "安全的；平安的；稳妥的；谨慎的",
+  "examples": [
+    {
+      "sentence": "The children played in the backyard, safe from the busy street.",
+      "style": "Contextual",
+      "translation": "孩子们在后院玩耍，远离繁忙的街道。",
+      "translated_word": "远离",
+      "display_order": 2
+    },
+    {
+      "sentence": "With you, silence feels safe.",
+      "style": "Intimate",
+      "translation": "和你在一起，连沉默都让人安心。",
+      "translated_word": "安心",
+      "display_order": 3
+    },
+    {
+      "sentence": "The safest choices rarely make the best stories.",
+      "style": "Philosophical",
+      "translation": "最稳妥的选择，往往写不出最好的故事。",
+      "translated_word": "稳妥",
+      "display_order": 4
+    },
+    {
+      "sentence": "She texted me when she got home safe and sound.",
+      "style": "Collocational",
+      "translation": "她到家后发短信告诉我，一切平安。",
+      "translated_word": "平安",
+      "display_order": 1
+    }
+  ]
+}

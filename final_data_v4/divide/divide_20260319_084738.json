@@ -1,0 +1,40 @@
+{
+  "word": "divide",
+  "phonetic": "/dɪˈvaɪd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "分开；划分；分配；使分裂",
+  "examples": [
+    {
+      "sentence": "She divided the cake so everyone got an equal share.",
+      "style": "Contextual",
+      "translation": "她把蛋糕分好，确保每人都能分到一样多。",
+      "translated_word": "分",
+      "display_order": 1
+    },
+    {
+      "sentence": "The jury was deeply divided after three days of deliberation.",
+      "style": "Collocational",
+      "translation": "经过三天的审议，陪审团仍然分歧严重。",
+      "translated_word": "分歧",
+      "display_order": 2
+    },
+    {
+      "sentence": "We build walls to divide, then wonder why we feel so alone.",
+      "style": "Philosophical",
+      "translation": "我们筑墙分隔彼此，却又困惑于为何如此孤独。",
+      "translated_word": "分隔",
+      "display_order": 3
+    },
+    {
+      "sentence": "That summer, politics divided our dinner table into silence.",
+      "style": "Intimate",
+      "translation": "那年夏天，政治让我们的餐桌陷入沉默。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

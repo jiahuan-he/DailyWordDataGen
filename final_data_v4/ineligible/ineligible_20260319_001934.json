@@ -1,0 +1,40 @@
+{
+  "word": "ineligible",
+  "phonetic": "/ɪnˈelɪdʒəbl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "无资格的；不合格；不符条件",
+  "examples": [
+    {
+      "sentence": "Without a local address, she was ineligible to vote.",
+      "style": "Contextual",
+      "translation": "没有本地住址，她无资格投票。",
+      "translated_word": "无资格",
+      "display_order": 2
+    },
+    {
+      "sentence": "Candidates under eighteen are ineligible for the position.",
+      "style": "Formal",
+      "translation": "十八岁以下的候选人不符合该职位条件。",
+      "translated_word": "不符合",
+      "display_order": 1
+    },
+    {
+      "sentence": "One missed deadline made him ineligible for the grant he had spent months pursuing.",
+      "style": "Contrastive",
+      "translation": "一次错过截止日期，让他失去了数月追求的资助资格。",
+      "translated_word": "资格",
+      "display_order": 3
+    },
+    {
+      "sentence": "The rejection letter was brief: ineligible. No reason, no appeal.",
+      "style": "Intimate",
+      "translation": "拒信很简短：不符合资格。没有理由，不予申诉。",
+      "translated_word": "不符合资格",
+      "display_order": 4
+    }
+  ]
+}

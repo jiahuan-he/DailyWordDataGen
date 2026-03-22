@@ -1,0 +1,39 @@
+{
+  "word": "rashly",
+  "phonetic": "/ˈræʃli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "轻率地；鲁莽地；草率地",
+  "examples": [
+    {
+      "sentence": "He rashly signed the contract without reading the fine print.",
+      "style": "Contextual",
+      "translation": "他草率地签了合同，连细则都没看。",
+      "translated_word": "草率地",
+      "display_order": 1
+    },
+    {
+      "sentence": "She paused while others rashly leapt; patience proved wiser.",
+      "style": "Contrastive",
+      "translation": "别人鲁莽跃入时她选择驻足；事实证明，耐心更为明智。",
+      "translated_word": "鲁莽",
+      "display_order": 4
+    },
+    {
+      "sentence": "Words spoken rashly leave wounds that apologies cannot heal.",
+      "style": "Philosophical",
+      "translation": "轻率说出的话留下的伤口，道歉无法愈合。",
+      "translated_word": "轻率",
+      "display_order": 3
+    },
+    {
+      "sentence": "At nineteen, I rashly booked a one-way ticket to a city where I knew no one.",
+      "style": "Intimate",
+      "translation": "十九岁那年，我冲动地订了一张单程票，去往一座举目无亲的城市。",
+      "translated_word": "冲动地",
+      "display_order": 2
+    }
+  ]
+}

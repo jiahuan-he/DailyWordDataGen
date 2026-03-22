@@ -1,0 +1,41 @@
+{
+  "word": "base",
+  "phonetic": "/beɪs/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "基础；底部；基地；根基",
+  "examples": [
+    {
+      "sentence": "They pitched their tents at the base of the cliff before dawn.",
+      "style": "Contextual",
+      "translation": "黎明前，他们在悬崖脚下扎起了帐篷。",
+      "translated_word": "脚下",
+      "display_order": 1
+    },
+    {
+      "sentence": "The firm will relocate its operational base to Singapore next quarter.",
+      "style": "Formal",
+      "translation": "该公司将于下季度把运营总部迁至新加坡。",
+      "translated_word": "总部",
+      "display_order": 3
+    },
+    {
+      "sentence": "This café has become our home base for weekend brainstorms.",
+      "style": "Collocational",
+      "translation": "这家咖啡馆已成为我们周末头脑风暴的据点。",
+      "translated_word": "据点",
+      "display_order": 2
+    },
+    {
+      "sentence": "Without a solid base, even the tallest ambitions crumble.",
+      "style": "Philosophical",
+      "translation": "根基不稳，再宏大的抱负也会倾塌。",
+      "translated_word": "根基",
+      "display_order": 4
+    }
+  ]
+}

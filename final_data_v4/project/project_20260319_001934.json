@@ -1,0 +1,40 @@
+{
+  "word": "project",
+  "phonetic": "/ˈprɒdʒekt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "项目；工程；计划；课题",
+  "examples": [
+    {
+      "sentence": "The team spent six months on the project before it finally launched.",
+      "style": "Contextual",
+      "translation": "团队花了六个月打磨这个项目，最终成功上线。",
+      "translated_word": "项目",
+      "display_order": 2
+    },
+    {
+      "sentence": "The infrastructure project is expected to create thousands of jobs.",
+      "style": "Formal",
+      "translation": "该基础设施项目预计将创造数千个就业岗位。",
+      "translated_word": "项目",
+      "display_order": 3
+    },
+    {
+      "sentence": "We wrapped up the project two weeks ahead of schedule.",
+      "style": "Collocational",
+      "translation": "我们提前两周完成了这个项目。",
+      "translated_word": "项目",
+      "display_order": 1
+    },
+    {
+      "sentence": "The most important project you'll ever work on is yourself.",
+      "style": "Inspirational",
+      "translation": "你这一生最重要的项目，是成为你自己。",
+      "translated_word": "项目",
+      "display_order": 4
+    }
+  ]
+}

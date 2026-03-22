@@ -1,0 +1,40 @@
+{
+  "word": "carving",
+  "phonetic": "/ˈkɑːrvɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "雕刻品；雕塑；雕刻",
+  "examples": [
+    {
+      "sentence": "The temple walls were covered in intricate stone carvings.",
+      "style": "Contextual",
+      "translation": "寺庙的墙壁上布满了精美的石雕。",
+      "translated_word": "石雕",
+      "display_order": 1
+    },
+    {
+      "sentence": "Each carving holds the silence of the hands that shaped it.",
+      "style": "Poetic",
+      "translation": "每一件雕刻都凝固着创作者双手的静默。",
+      "translated_word": "雕刻",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather's only heirloom was a small jade carving of a crane.",
+      "style": "Intimate",
+      "translation": "祖父留下的唯一遗物，是一尊小小的玉雕白鹤。",
+      "translated_word": "玉雕",
+      "display_order": 2
+    },
+    {
+      "sentence": "A carving does not add to the wood; it reveals what was always there.",
+      "style": "Philosophical",
+      "translation": "雕刻并非赋予木头什么，而是唤醒其中本就存在的形态。",
+      "translated_word": "雕刻",
+      "display_order": 4
+    }
+  ]
+}

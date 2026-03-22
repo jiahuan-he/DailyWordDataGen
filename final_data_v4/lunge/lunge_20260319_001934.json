@@ -1,0 +1,40 @@
+{
+  "word": "lunge",
+  "phonetic": "/lʌndʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "猛冲；扑向；刺",
+  "examples": [
+    {
+      "sentence": "The cat lunged at the moth the instant it landed.",
+      "style": "Contextual",
+      "translation": "飞蛾落地的一瞬，猫便猛然扑去。",
+      "translated_word": "扑",
+      "display_order": 1
+    },
+    {
+      "sentence": "The goalkeeper lunged left, deflecting what seemed a certain goal.",
+      "style": "Formal",
+      "translation": "守门员向左飞扑，挡下了那记志在必得的射门。",
+      "translated_word": "飞扑",
+      "display_order": 3
+    },
+    {
+      "sentence": "He lunged forward and caught her arm before she slipped.",
+      "style": "Collocational",
+      "translation": "他猛冲上前，在她滑倒前一把抓住了她的手臂。",
+      "translated_word": "猛冲",
+      "display_order": 2
+    },
+    {
+      "sentence": "The heron lunged; silver flickered once, then vanished down its throat.",
+      "style": "Poetic",
+      "translation": "苍鹭猛然出击；银光一闪，旋即没入喉中。",
+      "translated_word": "出击",
+      "display_order": 4
+    }
+  ]
+}

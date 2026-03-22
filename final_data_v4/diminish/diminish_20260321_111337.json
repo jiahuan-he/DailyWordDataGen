@@ -1,0 +1,39 @@
+{
+  "word": "diminish",
+  "phonetic": "/dɪˈmɪnɪʃ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "减少；缩小；减弱；降低",
+  "examples": [
+    {
+      "sentence": "Her confidence began to diminish after months of silence from the hiring managers.",
+      "style": "Contextual",
+      "translation": "几个月杳无音讯后，她的信心开始消退。",
+      "translated_word": "消退",
+      "display_order": 2
+    },
+    {
+      "sentence": "The scandal has significantly diminished public trust in the institution.",
+      "style": "Formal",
+      "translation": "这场丑闻严重削弱了公众对该机构的信任。",
+      "translated_word": "削弱",
+      "display_order": 1
+    },
+    {
+      "sentence": "What we ignore does not diminish; it waits.",
+      "style": "Philosophical",
+      "translation": "被我们忽视的事物不会消减，它们只是在等待。",
+      "translated_word": "消减",
+      "display_order": 3
+    },
+    {
+      "sentence": "The candle flame diminished to a whisper of gold.",
+      "style": "Poetic",
+      "translation": "烛火渐弱，化作一缕金色的低语。",
+      "translated_word": "渐弱",
+      "display_order": 4
+    }
+  ]
+}

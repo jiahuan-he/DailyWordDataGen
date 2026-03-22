@@ -1,0 +1,39 @@
+{
+  "word": "region",
+  "phonetic": "/ˈriːdʒən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "地区；区域；领域；部位",
+  "examples": [
+    {
+      "sentence": "Each region has its own dialect and customs.",
+      "style": "Contextual",
+      "translation": "每个地区都有独特的方言和习俗。",
+      "translated_word": "地区",
+      "display_order": 1
+    },
+    {
+      "sentence": "The southern region reported record rainfall this quarter.",
+      "style": "Formal",
+      "translation": "本季度南部地区录得历史最高降雨量。",
+      "translated_word": "地区",
+      "display_order": 2
+    },
+    {
+      "sentence": "Wine from this region pairs beautifully with aged cheese.",
+      "style": "Collocational",
+      "translation": "这个产区的葡萄酒与陈年奶酪堪称绝配。",
+      "translated_word": "产区",
+      "display_order": 3
+    },
+    {
+      "sentence": "The mountains of my home region still appear in my dreams.",
+      "style": "Intimate",
+      "translation": "故乡的群山，至今仍入梦来。",
+      "translated_word": "故乡",
+      "display_order": 4
+    }
+  ]
+}

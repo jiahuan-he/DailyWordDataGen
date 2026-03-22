@@ -1,0 +1,39 @@
+{
+  "word": "earshot",
+  "phonetic": "/ˈɪrʃɒt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "听力范围；能听见的距离",
+  "examples": [
+    {
+      "sentence": "She glanced around before speaking, making sure no one was within earshot.",
+      "style": "Contextual",
+      "translation": "她开口前环顾四周，确保没人能听见。",
+      "translated_word": "听见",
+      "display_order": 1
+    },
+    {
+      "sentence": "He stepped out of earshot to take the call.",
+      "style": "Collocational",
+      "translation": "他走到听不见的地方接电话。",
+      "translated_word": "听不见",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother would hum old songs, not knowing I was within earshot.",
+      "style": "Intimate",
+      "translation": "奶奶常哼起老歌，不知我正在一旁偷听。",
+      "translated_word": "偷听",
+      "display_order": 3
+    },
+    {
+      "sentence": "The most honest words are often saved for when no one is within earshot.",
+      "style": "Philosophical",
+      "translation": "最真实的话，往往留给无人能听见的时刻。",
+      "translated_word": "听见",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "critical",
+  "phonetic": "/ˈkrɪtɪkəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "关键的；批判的；危急的；挑剔的",
+  "examples": [
+    {
+      "sentence": "The next forty-eight hours are critical for the patient's recovery.",
+      "style": "Contextual",
+      "translation": "未来四十八小时对病人的康复至关重要。",
+      "translated_word": "至关重要",
+      "display_order": 1
+    },
+    {
+      "sentence": "Analysts describe this election as critical for the future of the alliance.",
+      "style": "Formal",
+      "translation": "分析人士认为，这场选举对联盟的未来至关重要。",
+      "translated_word": "至关重要",
+      "display_order": 2
+    },
+    {
+      "sentence": "To be critical is not to dismiss, but to seek clarity.",
+      "style": "Philosophical",
+      "translation": "批判不是否定，而是追求清明。",
+      "translated_word": "批判",
+      "display_order": 4
+    },
+    {
+      "sentence": "She offered critical feedback without a trace of condescension.",
+      "style": "Collocational",
+      "translation": "她给出了中肯的批评，却没有一丝居高临下。",
+      "translated_word": "中肯",
+      "display_order": 3
+    }
+  ]
+}

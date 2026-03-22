@@ -1,0 +1,40 @@
+{
+  "word": "unsubstantiated",
+  "phonetic": "/ˌʌnsəbˈstænʃieɪtɪd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "未经证实；无根据；捕风捉影",
+  "examples": [
+    {
+      "sentence": "The newspaper issued a retraction after the allegations proved unsubstantiated.",
+      "style": "Formal",
+      "translation": "报社在指控被证实毫无根据后发布了撤回声明。",
+      "translated_word": "毫无根据",
+      "display_order": 2
+    },
+    {
+      "sentence": "Without a single witness, the accusation remained unsubstantiated.",
+      "style": "Contextual",
+      "translation": "没有任何证人，那项指控始终未经证实。",
+      "translated_word": "未经证实",
+      "display_order": 1
+    },
+    {
+      "sentence": "Unsubstantiated fears often cast longer shadows than real threats.",
+      "style": "Philosophical",
+      "translation": "无根据的恐惧，往往比真实的威胁投下更长的阴影。",
+      "translated_word": "无根据",
+      "display_order": 3
+    },
+    {
+      "sentence": "A verified fact travels slowly; an unsubstantiated rumor flies.",
+      "style": "Contrastive",
+      "translation": "证实的事实传播缓慢，无根据的谣言却不胫而走。",
+      "translated_word": "无根据",
+      "display_order": 4
+    }
+  ]
+}

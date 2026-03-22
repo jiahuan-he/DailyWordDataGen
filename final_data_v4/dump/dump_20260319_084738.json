@@ -1,0 +1,40 @@
+{
+  "word": "dump",
+  "phonetic": "/dʌmp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "倾倒；丢弃；甩掉；抛售",
+  "examples": [
+    {
+      "sentence": "The truck dumped gravel into the driveway.",
+      "style": "Contextual",
+      "translation": "卡车把碎石倾倒在车道上。",
+      "translated_word": "倾倒",
+      "display_order": 1
+    },
+    {
+      "sentence": "Investors began to dump stocks at the first sign of trouble.",
+      "style": "Collocational",
+      "translation": "一有风吹草动，投资者便开始抛售股票。",
+      "translated_word": "抛售",
+      "display_order": 4
+    },
+    {
+      "sentence": "She dumped me over text; three years, gone in a single message.",
+      "style": "Intimate",
+      "translation": "她用短信甩了我；三年感情，一条消息了结。",
+      "translated_word": "甩",
+      "display_order": 2
+    },
+    {
+      "sentence": "He didn't recycle or donate; he just dumped everything in the trash.",
+      "style": "Contrastive",
+      "translation": "他没有回收，也没有捐赠；只是把一切都扔进垃圾桶。",
+      "translated_word": "扔",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "telecommunication",
+  "phonetic": "/ˌtelɪkəˌmjuːnɪˈkeɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "电信；远程通信；电讯",
+  "examples": [
+    {
+      "sentence": "The undersea cable failure disrupted telecommunication across three continents.",
+      "style": "Contextual",
+      "translation": "海底电缆故障导致三大洲的电信服务中断。",
+      "translated_word": "电信",
+      "display_order": 2
+    },
+    {
+      "sentence": "Advances in telecommunication have reshaped global commerce.",
+      "style": "Formal",
+      "translation": "电信技术的进步重塑了全球商业格局。",
+      "translated_word": "电信",
+      "display_order": 3
+    },
+    {
+      "sentence": "She spent two decades in the telecommunication industry.",
+      "style": "Collocational",
+      "translation": "她在电信行业深耕了二十年。",
+      "translated_word": "电信",
+      "display_order": 1
+    },
+    {
+      "sentence": "Before modern telecommunication, news traveled only as fast as ships could sail.",
+      "style": "Contrastive",
+      "translation": "在现代电信出现之前，消息的传递不会快过船只的航速。",
+      "translated_word": "电信",
+      "display_order": 4
+    }
+  ]
+}

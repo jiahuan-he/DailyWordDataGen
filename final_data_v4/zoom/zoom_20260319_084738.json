@@ -1,0 +1,41 @@
+{
+  "word": "zoom",
+  "phonetic": "/zuːm/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "疾驰；急升；缩放",
+  "examples": [
+    {
+      "sentence": "The motorcycle zoomed past before I could turn my head.",
+      "style": "Contextual",
+      "translation": "摩托车一闪而过，我还没来得及转头。",
+      "translated_word": "一闪而过",
+      "display_order": 2
+    },
+    {
+      "sentence": "She zoomed in on the photo to read the street sign.",
+      "style": "Collocational",
+      "translation": "她放大照片，辨认街道标牌上的字。",
+      "translated_word": "放大",
+      "display_order": 3
+    },
+    {
+      "sentence": "Childhood zooms by in a blur of scraped knees and summer light.",
+      "style": "Poetic",
+      "translation": "童年在擦伤的膝盖与夏日光影中倏忽而逝。",
+      "translated_word": "倏忽而逝",
+      "display_order": 4
+    },
+    {
+      "sentence": "We zoomed down the coast road, windows down, singing off-key.",
+      "style": "Intimate",
+      "translation": "我们沿海岸线一路飞驰，车窗大开，唱得荒腔走板。",
+      "translated_word": "飞驰",
+      "display_order": 1
+    }
+  ]
+}

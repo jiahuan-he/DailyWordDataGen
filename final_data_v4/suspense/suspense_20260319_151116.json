@@ -1,0 +1,40 @@
+{
+  "word": "suspense",
+  "phonetic": "/səˈspens/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "悬念；紧张；悬疑",
+  "examples": [
+    {
+      "sentence": "The film held its audience in suspense until the final frame.",
+      "style": "Contextual",
+      "translation": "这部电影让观众屏息凝神，直至最后一帧。",
+      "translated_word": "屏息凝神",
+      "display_order": 1
+    },
+    {
+      "sentence": "Suspense is the silence between lightning and thunder.",
+      "style": "Poetic",
+      "translation": "悬念，是闪电与雷鸣之间的寂静。",
+      "translated_word": "悬念",
+      "display_order": 4
+    },
+    {
+      "sentence": "We chase suspense in stories to rehearse the uncertainties of life.",
+      "style": "Philosophical",
+      "translation": "我们在故事中追逐悬念，是为了预演生活的未知。",
+      "translated_word": "悬念",
+      "display_order": 3
+    },
+    {
+      "sentence": "Those three days waiting for your answer were pure suspense.",
+      "style": "Intimate",
+      "translation": "等你回复的那三天，我活在纯粹的悬念之中。",
+      "translated_word": "悬念",
+      "display_order": 2
+    }
+  ]
+}

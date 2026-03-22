@@ -1,0 +1,40 @@
+{
+  "word": "theme",
+  "phonetic": "/θiːm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "主题；题材；主旨",
+  "examples": [
+    {
+      "sentence": "Every song on the album returns to a single theme: forgiveness.",
+      "style": "Contextual",
+      "translation": "专辑中的每首歌都回归同一个主题：宽恕。",
+      "translated_word": "主题",
+      "display_order": 1
+    },
+    {
+      "sentence": "The conference will explore the theme of sustainable urban development.",
+      "style": "Formal",
+      "translation": "本次会议将围绕可持续城市发展这一主题展开探讨。",
+      "translated_word": "主题",
+      "display_order": 3
+    },
+    {
+      "sentence": "We rarely choose our themes; they choose us through what we cannot forget.",
+      "style": "Philosophical",
+      "translation": "我们鲜少选择自己的主题；是那些无法忘却的事物替我们做了选择。",
+      "translated_word": "主题",
+      "display_order": 4
+    },
+    {
+      "sentence": "The recurring theme of loss runs through all her novels.",
+      "style": "Collocational",
+      "translation": "失去这一反复出现的主题贯穿了她所有的小说。",
+      "translated_word": "主题",
+      "display_order": 2
+    }
+  ]
+}

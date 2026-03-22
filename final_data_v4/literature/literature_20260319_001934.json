@@ -1,0 +1,39 @@
+{
+  "word": "literature",
+  "phonetic": "/ˈlɪtərətʃər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "文学；著作；文献",
+  "examples": [
+    {
+      "sentence": "Literature shows us who we are when no one is watching.",
+      "style": "Philosophical",
+      "translation": "文学让我们看见无人注视时的自己。",
+      "translated_word": "文学",
+      "display_order": 4
+    },
+    {
+      "sentence": "Great literature turns strangers into confidants across centuries.",
+      "style": "Poetic",
+      "translation": "伟大的文学使陌生人跨越世纪成为知己。",
+      "translated_word": "文学",
+      "display_order": 3
+    },
+    {
+      "sentence": "The literature she pressed into my hands at sixteen shaped everything.",
+      "style": "Intimate",
+      "translation": "她十六岁时塞进我手中的那些书，塑造了我的一切。",
+      "translated_word": "书",
+      "display_order": 2
+    },
+    {
+      "sentence": "The award recognizes exceptional contributions to world literature.",
+      "style": "Formal",
+      "translation": "该奖项旨在表彰对世界文学的杰出贡献。",
+      "translated_word": "文学",
+      "display_order": 1
+    }
+  ]
+}

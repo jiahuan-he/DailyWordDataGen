@@ -1,0 +1,40 @@
+{
+  "word": "advantage",
+  "phonetic": "/ədˈvæntɪdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "优势；好处；有利条件",
+  "examples": [
+    {
+      "sentence": "Her fluency in three languages gave her a clear advantage in the interview.",
+      "style": "Contextual",
+      "translation": "她精通三门语言，在面试中占尽优势。",
+      "translated_word": "优势",
+      "display_order": 1
+    },
+    {
+      "sentence": "The firm's early investment in AI has become a decisive competitive advantage.",
+      "style": "Formal",
+      "translation": "该公司早期对人工智能的投资，已成为决定性的竞争优势。",
+      "translated_word": "优势",
+      "display_order": 2
+    },
+    {
+      "sentence": "Take advantage of the quiet morning hours for your deepest work.",
+      "style": "Collocational",
+      "translation": "利用清晨的宁静，完成最需要专注的工作。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Your so-called weakness may be the very advantage others lack.",
+      "style": "Inspirational",
+      "translation": "你所谓的弱点，或许正是他人所缺的优势。",
+      "translated_word": "优势",
+      "display_order": 3
+    }
+  ]
+}

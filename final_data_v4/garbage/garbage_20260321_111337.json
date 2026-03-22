@@ -1,0 +1,41 @@
+{
+  "word": "garbage",
+  "phonetic": "/ˈɡɑːrbɪdʒ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "垃圾；废物；废话",
+  "examples": [
+    {
+      "sentence": "The bins overflowed with garbage after the holiday weekend.",
+      "style": "Contextual",
+      "translation": "假期过后，垃圾桶已经满溢。",
+      "translated_word": "垃圾",
+      "display_order": 2
+    },
+    {
+      "sentence": "He filters out the garbage and keeps only what matters.",
+      "style": "Contrastive",
+      "translation": "他过滤掉无用之物，只留下真正重要的。",
+      "translated_word": "无用之物",
+      "display_order": 3
+    },
+    {
+      "sentence": "She took out the garbage before the truck arrived.",
+      "style": "Collocational",
+      "translation": "她赶在垃圾车来之前把垃圾拎了出去。",
+      "translated_word": "垃圾",
+      "display_order": 1
+    },
+    {
+      "sentence": "What a city discards reveals more than what it builds.",
+      "style": "Philosophical",
+      "translation": "一座城市丢弃的东西，往往比它建造的更能说明问题。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

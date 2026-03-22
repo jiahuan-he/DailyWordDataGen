@@ -1,0 +1,40 @@
+{
+  "word": "control",
+  "phonetic": "/kənˈtroʊl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "控制；掌控；管理；抑制",
+  "examples": [
+    {
+      "sentence": "The app lets you control your smart home with voice commands.",
+      "style": "Contextual",
+      "translation": "这款应用让你用语音指令控制智能家居。",
+      "translated_word": "控制",
+      "display_order": 1
+    },
+    {
+      "sentence": "She controlled her emotions and responded calmly.",
+      "style": "Collocational",
+      "translation": "她控制住情绪，平静地回应。",
+      "translated_word": "控制",
+      "display_order": 2
+    },
+    {
+      "sentence": "We spend years trying to control what was never ours to hold.",
+      "style": "Philosophical",
+      "translation": "我们花了多年试图控制那些从不属于我们的东西。",
+      "translated_word": "控制",
+      "display_order": 4
+    },
+    {
+      "sentence": "My therapist taught me to control my breath first; the thoughts followed.",
+      "style": "Intimate",
+      "translation": "治疗师教我先控制呼吸，思绪随之平静。",
+      "translated_word": "控制",
+      "display_order": 3
+    }
+  ]
+}

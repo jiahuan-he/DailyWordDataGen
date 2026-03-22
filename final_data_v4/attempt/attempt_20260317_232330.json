@@ -1,0 +1,40 @@
+{
+  "word": "attempt",
+  "phonetic": "/əˈtempt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "尝试；试图；企图",
+  "examples": [
+    {
+      "sentence": "She attempted the recipe three times before it finally worked.",
+      "style": "Contextual",
+      "translation": "她尝试了三次，那道菜才终于成功。",
+      "translated_word": "尝试",
+      "display_order": 1
+    },
+    {
+      "sentence": "Negotiators attempted to broker a ceasefire before dawn.",
+      "style": "Formal",
+      "translation": "谈判代表试图在黎明前促成停火协议。",
+      "translated_word": "试图",
+      "display_order": 4
+    },
+    {
+      "sentence": "Most people fail not by attempting, but by never starting.",
+      "style": "Inspirational",
+      "translation": "多数人的失败，不在于尝试，而在于从未开始。",
+      "translated_word": "尝试",
+      "display_order": 3
+    },
+    {
+      "sentence": "Last winter, I attempted to paint again after ten silent years.",
+      "style": "Intimate",
+      "translation": "去年冬天，沉寂十年后，我重新拿起了画笔。",
+      "translated_word": null,
+      "display_order": 2
+    }
+  ]
+}

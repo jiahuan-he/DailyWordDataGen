@@ -1,0 +1,39 @@
+{
+  "word": "cuisine",
+  "phonetic": "/kwɪˈziːn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "菜系；烹饪风格；美食",
+  "examples": [
+    {
+      "sentence": "The new chef brought authentic Cantonese cuisine to a neighborhood that craved it.",
+      "style": "Contextual",
+      "translation": "新主厨将正宗粤菜带到了这个渴望已久的街区。",
+      "translated_word": "粤菜",
+      "display_order": 2
+    },
+    {
+      "sentence": "Travelers often discover a city best through its local cuisine.",
+      "style": "Collocational",
+      "translation": "旅人往往通过当地美食，最能读懂一座城。",
+      "translated_word": "美食",
+      "display_order": 1
+    },
+    {
+      "sentence": "A cuisine carries centuries: the soil, the seasons, the hands that shaped each recipe.",
+      "style": "Poetic",
+      "translation": "一种菜系承载百年：土壤、时令，与塑造每道食谱的双手。",
+      "translated_word": "菜系",
+      "display_order": 4
+    },
+    {
+      "sentence": "That summer in Lyon, the cuisine taught me more than any museum could.",
+      "style": "Intimate",
+      "translation": "那年夏天在里昂，美食教会我的，比任何博物馆都多。",
+      "translated_word": "美食",
+      "display_order": 3
+    }
+  ]
+}

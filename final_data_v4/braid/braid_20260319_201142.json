@@ -1,0 +1,41 @@
+{
+  "word": "braid",
+  "phonetic": "/breɪd/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "辫子；编织物；穗带",
+  "examples": [
+    {
+      "sentence": "Her braid caught the afternoon light as she turned.",
+      "style": "Contextual",
+      "translation": "她转身时，辫子映着午后的阳光。",
+      "translated_word": "辫子",
+      "display_order": 2
+    },
+    {
+      "sentence": "She tied her braid with a thin silk ribbon.",
+      "style": "Collocational",
+      "translation": "她用一条细细的丝带系住辫子。",
+      "translated_word": "辫子",
+      "display_order": 1
+    },
+    {
+      "sentence": "A single braid, dark as wet stone, rested on her shoulder.",
+      "style": "Poetic",
+      "translation": "一条乌黑如湿石的辫子，静静垂在她肩上。",
+      "translated_word": "辫子",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother hummed softly whenever she fixed my braid.",
+      "style": "Intimate",
+      "translation": "每次为我编辫子时，外婆总会轻轻哼着歌。",
+      "translated_word": "辫子",
+      "display_order": 3
+    }
+  ]
+}

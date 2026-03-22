@@ -1,0 +1,39 @@
+{
+  "word": "addition",
+  "phonetic": "/əˈdɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "添加；增添；加法；附加物",
+  "examples": [
+    {
+      "sentence": "The skylight was a recent addition, flooding the room with morning sun.",
+      "style": "Contextual",
+      "translation": "天窗是新添的，晨光因此洒满了整个房间。",
+      "translated_word": "新添",
+      "display_order": 1
+    },
+    {
+      "sentence": "This acquisition marks a strategic addition to the firm's portfolio.",
+      "style": "Formal",
+      "translation": "此次收购是公司投资组合的一项战略性扩充。",
+      "translated_word": "扩充",
+      "display_order": 4
+    },
+    {
+      "sentence": "Fresh herbs make a simple addition that elevates any dish.",
+      "style": "Collocational",
+      "translation": "新鲜香草是简单的点缀，却能让菜肴焕然一新。",
+      "translated_word": "点缀",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother's ring is the newest addition to my jewelry box.",
+      "style": "Intimate",
+      "translation": "外婆的戒指是我首饰盒里最新的珍藏。",
+      "translated_word": "珍藏",
+      "display_order": 2
+    }
+  ]
+}

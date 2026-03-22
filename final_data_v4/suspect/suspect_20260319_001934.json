@@ -1,0 +1,41 @@
+{
+  "word": "suspect",
+  "phonetic": "/səˈspekt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "怀疑；猜疑；觉得",
+  "examples": [
+    {
+      "sentence": "He suspects the milk has gone bad.",
+      "style": "Contextual",
+      "translation": "他怀疑牛奶已经坏了。",
+      "translated_word": "怀疑",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities suspect foul play in the disappearance.",
+      "style": "Formal",
+      "translation": "当局怀疑此次失踪案涉及谋杀。",
+      "translated_word": "怀疑",
+      "display_order": 2
+    },
+    {
+      "sentence": "We suspect in others what we fear in ourselves.",
+      "style": "Philosophical",
+      "translation": "我们怀疑他人的，往往是自己内心所惧。",
+      "translated_word": "怀疑",
+      "display_order": 4
+    },
+    {
+      "sentence": "I suspected her smile was a goodbye.",
+      "style": "Intimate",
+      "translation": "我当时就隐隐觉得，她的微笑是一场告别。",
+      "translated_word": "隐隐觉得",
+      "display_order": 3
+    }
+  ]
+}

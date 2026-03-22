@@ -1,0 +1,40 @@
+{
+  "word": "deliberate",
+  "phonetic": "/dɪˈlɪbərət/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "故意的；蓄意的；从容的；审慎的",
+  "examples": [
+    {
+      "sentence": "She left the letter unsigned. The choice was deliberate.",
+      "style": "Contextual",
+      "translation": "她没有在信上署名，这是刻意为之。",
+      "translated_word": "刻意",
+      "display_order": 2
+    },
+    {
+      "sentence": "His rudeness wasn't careless; it was deliberate.",
+      "style": "Contrastive",
+      "translation": "他的无礼并非无心之失，而是蓄意所为。",
+      "translated_word": "蓄意",
+      "display_order": 1
+    },
+    {
+      "sentence": "A deliberate life requires saying no more than yes.",
+      "style": "Philosophical",
+      "translation": "有意识地生活，意味着拒绝多于接受。",
+      "translated_word": "有意识",
+      "display_order": 4
+    },
+    {
+      "sentence": "With deliberate calm, she set down the phone.",
+      "style": "Collocational",
+      "translation": "她从容镇定地放下了电话。",
+      "translated_word": "从容",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "yahoo",
+  "phonetic": "/jəˈhuː/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "interjection",
+  "definition": "太棒了；好耶；万岁",
+  "examples": [
+    {
+      "sentence": "Yahoo! The rain finally stopped.",
+      "style": "Contextual",
+      "translation": "太棒了！雨终于停了。",
+      "translated_word": "太棒了",
+      "display_order": 1
+    },
+    {
+      "sentence": "She crossed the finish line and let out a wild yahoo.",
+      "style": "Collocational",
+      "translation": "她冲过终点线，发出一声狂喜的欢呼。",
+      "translated_word": "欢呼",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every small victory deserves its own quiet yahoo.",
+      "style": "Inspirational",
+      "translation": "每一个小小的胜利，都值得在心底轻轻欢呼。",
+      "translated_word": "欢呼",
+      "display_order": 4
+    },
+    {
+      "sentence": "The kids sledded down the hill, their yahoos echoing through cold air.",
+      "style": "Intimate",
+      "translation": "孩子们从山坡上滑下，欢呼声在冷冽的空气中回荡。",
+      "translated_word": "欢呼声",
+      "display_order": 2
+    }
+  ]
+}

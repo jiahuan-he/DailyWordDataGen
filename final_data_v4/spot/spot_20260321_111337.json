@@ -1,0 +1,41 @@
+{
+  "word": "spot",
+  "phonetic": "/spɑt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "地点；斑点；污渍；少量",
+  "examples": [
+    {
+      "sentence": "This is my favorite reading spot in the whole house.",
+      "style": "Contextual",
+      "translation": "这是整栋房子里我最爱的阅读角落。",
+      "translated_word": "角落",
+      "display_order": 1
+    },
+    {
+      "sentence": "He wiped the grease spot off his shirt before the interview.",
+      "style": "Collocational",
+      "translation": "面试前，他擦去了衬衫上的油渍。",
+      "translated_word": "渍",
+      "display_order": 4
+    },
+    {
+      "sentence": "The café's corner spot holds all our unfinished conversations.",
+      "style": "Intimate",
+      "translation": "咖啡馆角落的那个位置，装着我们所有未说完的话。",
+      "translated_word": "位置",
+      "display_order": 2
+    },
+    {
+      "sentence": "A single bright spot broke through the gray: the first crocus of spring.",
+      "style": "Poetic",
+      "translation": "灰暗中透出一点亮色：春天的第一朵番红花。",
+      "translated_word": "点",
+      "display_order": 3
+    }
+  ]
+}

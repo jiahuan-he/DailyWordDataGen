@@ -1,0 +1,39 @@
+{
+  "word": "minimize",
+  "phonetic": "/ˈmɪnɪmaɪz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "最小化；减少；淡化",
+  "examples": [
+    {
+      "sentence": "She closed the blinds to minimize the glare on her screen.",
+      "style": "Contextual",
+      "translation": "她拉下百叶窗，减少屏幕上的反光。",
+      "translated_word": "减少",
+      "display_order": 1
+    },
+    {
+      "sentence": "The protocol was designed to minimize human error.",
+      "style": "Formal",
+      "translation": "该协议旨在将人为失误降到最低。",
+      "translated_word": "降到最低",
+      "display_order": 2
+    },
+    {
+      "sentence": "To minimize risk, diversify early.",
+      "style": "Collocational",
+      "translation": "要降低风险，趁早分散投资。",
+      "translated_word": "降低",
+      "display_order": 3
+    },
+    {
+      "sentence": "Minimize distractions; your focus is finite.",
+      "style": "Inspirational",
+      "translation": "减少干扰；你的专注力有限。",
+      "translated_word": "减少",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "shake",
+  "phonetic": "/ʃeɪk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "摇；震动；颤抖；动摇",
+  "examples": [
+    {
+      "sentence": "She shook the bottle before opening it.",
+      "style": "Contextual",
+      "translation": "她打开瓶子前先摇了摇。",
+      "translated_word": "摇",
+      "display_order": 1
+    },
+    {
+      "sentence": "They shook hands and sealed the deal.",
+      "style": "Collocational",
+      "translation": "他们握手成交。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Autumn winds shook the last golden leaves from the branches.",
+      "style": "Poetic",
+      "translation": "秋风摇落枝头最后的金叶。",
+      "translated_word": "摇",
+      "display_order": 3
+    },
+    {
+      "sentence": "My hands shook as I opened the acceptance letter.",
+      "style": "Intimate",
+      "translation": "拆开录取通知书时，我的手在颤抖。",
+      "translated_word": "颤抖",
+      "display_order": 2
+    }
+  ]
+}

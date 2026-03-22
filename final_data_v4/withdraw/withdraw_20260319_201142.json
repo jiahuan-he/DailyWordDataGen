@@ -1,0 +1,39 @@
+{
+  "word": "withdraw",
+  "phonetic": "/wɪðˈdrɔː/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "撤回；取出；退出；退缩",
+  "examples": [
+    {
+      "sentence": "She withdrew cash from the ATM before the trip.",
+      "style": "Contextual",
+      "translation": "她在出发前从取款机取了些现金。",
+      "translated_word": "取",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company withdrew its sponsorship following the scandal.",
+      "style": "Formal",
+      "translation": "丑闻曝光后，该公司撤回了赞助。",
+      "translated_word": "撤回",
+      "display_order": 3
+    },
+    {
+      "sentence": "To withdraw is not always weakness; sometimes it is the wisest form of self-preservation.",
+      "style": "Philosophical",
+      "translation": "退缩未必是软弱；有时，这是最明智的自我保护。",
+      "translated_word": "退缩",
+      "display_order": 4
+    },
+    {
+      "sentence": "When the argument grew heated, I chose to withdraw rather than say something I'd regret.",
+      "style": "Intimate",
+      "translation": "争吵愈演愈烈时，我选择退出，而非说出让自己后悔的话。",
+      "translated_word": "退出",
+      "display_order": 2
+    }
+  ]
+}

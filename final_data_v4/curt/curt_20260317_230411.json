@@ -1,0 +1,40 @@
+{
+  "word": "curt",
+  "phonetic": "/kɜːrt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "简慢的；生硬；唐突",
+  "examples": [
+    {
+      "sentence": "His curt reply ended the conversation before it began.",
+      "style": "Contextual",
+      "translation": "他简短而生硬的回复，让对话还未开始便已结束。",
+      "translated_word": "简短而生硬",
+      "display_order": 1
+    },
+    {
+      "sentence": "She chose to be curt rather than risk saying something she'd regret.",
+      "style": "Contrastive",
+      "translation": "她宁可表现得冷淡生硬，也不愿说出让自己后悔的话。",
+      "translated_word": "冷淡生硬",
+      "display_order": 3
+    },
+    {
+      "sentence": "A curt nod was all the acknowledgment he offered.",
+      "style": "Collocational",
+      "translation": "他只是敷衍地点了点头，算是打过招呼。",
+      "translated_word": "敷衍",
+      "display_order": 2
+    },
+    {
+      "sentence": "When stress takes over, my texts grow curt; I forget tenderness is a choice.",
+      "style": "Intimate",
+      "translation": "压力袭来时，我的消息变得简短冷漠；我忘了，温柔其实是一种选择。",
+      "translated_word": "简短冷漠",
+      "display_order": 4
+    }
+  ]
+}

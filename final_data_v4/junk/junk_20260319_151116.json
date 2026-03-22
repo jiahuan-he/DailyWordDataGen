@@ -1,0 +1,40 @@
+{
+  "word": "junk",
+  "phonetic": "/dʒʌŋk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "废物；垃圾；破烂",
+  "examples": [
+    {
+      "sentence": "The drawer held nothing but old junk and dust.",
+      "style": "Contextual",
+      "translation": "抽屉里只剩陈年杂物与灰尘。",
+      "translated_word": "杂物",
+      "display_order": 1
+    },
+    {
+      "sentence": "A diet of junk food catches up with everyone eventually.",
+      "style": "Collocational",
+      "translation": "垃圾食品的代价，终会让每个人尝到。",
+      "translated_word": "垃圾",
+      "display_order": 4
+    },
+    {
+      "sentence": "What she called junk, I called my childhood.",
+      "style": "Intimate",
+      "translation": "她口中的破烂，是我的整个童年。",
+      "translated_word": "破烂",
+      "display_order": 2
+    },
+    {
+      "sentence": "We name things junk when we've forgotten why we kept them.",
+      "style": "Philosophical",
+      "translation": "当我们忘记留存的理由，便称之为废物。",
+      "translated_word": "废物",
+      "display_order": 3
+    }
+  ]
+}

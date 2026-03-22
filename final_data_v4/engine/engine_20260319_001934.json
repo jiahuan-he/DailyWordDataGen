@@ -1,0 +1,40 @@
+{
+  "word": "engine",
+  "phonetic": "/ˈendʒɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "发动机；引擎；火车头；推动力",
+  "examples": [
+    {
+      "sentence": "He turned the key, but the engine wouldn't start.",
+      "style": "Contextual",
+      "translation": "他转动钥匙，发动机却纹丝不动。",
+      "translated_word": "发动机",
+      "display_order": 1
+    },
+    {
+      "sentence": "Curiosity is the engine of discovery.",
+      "style": "Collocational",
+      "translation": "好奇心是发现的引擎。",
+      "translated_word": "引擎",
+      "display_order": 2
+    },
+    {
+      "sentence": "Small businesses remain the engine of regional economic growth.",
+      "style": "Formal",
+      "translation": "小型企业仍是区域经济增长的引擎。",
+      "translated_word": "引擎",
+      "display_order": 3
+    },
+    {
+      "sentence": "Ideas ignite, but habits are the engine.",
+      "style": "Philosophical",
+      "translation": "灵感点燃火花，习惯才是引擎。",
+      "translated_word": "引擎",
+      "display_order": 4
+    }
+  ]
+}

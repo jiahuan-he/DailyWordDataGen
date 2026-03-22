@@ -1,0 +1,40 @@
+{
+  "word": "clone",
+  "phonetic": "/kloʊn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "克隆；复制品；翻版",
+  "examples": [
+    {
+      "sentence": "The startup was dismissed as just another clone of a popular app.",
+      "style": "Contextual",
+      "translation": "这家初创公司被视为热门应用的又一个翻版，无人在意。",
+      "translated_word": "翻版",
+      "display_order": 3
+    },
+    {
+      "sentence": "Scientists announced the first successful primate clone, reigniting ethical debates.",
+      "style": "Formal",
+      "translation": "科学家宣布首例灵长类克隆成功，伦理争议随之再起。",
+      "translated_word": "克隆",
+      "display_order": 1
+    },
+    {
+      "sentence": "A perfect clone inherits the body, but not the weight of lived experience.",
+      "style": "Philosophical",
+      "translation": "完美的克隆继承躯壳，却无法承袭岁月的重量。",
+      "translated_word": "克隆",
+      "display_order": 4
+    },
+    {
+      "sentence": "He's a clone of his father: same walk, same laugh, same stubborn streak.",
+      "style": "Collocational",
+      "translation": "他活脱脱是父亲的翻版：同样的步态，同样的笑声，同样的倔强。",
+      "translated_word": "翻版",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "quaint",
+  "phonetic": "/kweɪnt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "古雅；别致；古朴",
+  "examples": [
+    {
+      "sentence": "The cobblestone streets and hand-painted signs gave the village a quaint charm.",
+      "style": "Contextual",
+      "translation": "鹅卵石街道与手绘招牌，赋予了这座村庄古雅的韵味。",
+      "translated_word": "古雅",
+      "display_order": 1
+    },
+    {
+      "sentence": "Candlelight flickered in the quaint bookshop, casting amber shadows on leather-bound spines.",
+      "style": "Poetic",
+      "translation": "烛光在古朴的书店里摇曳，将琥珀色的光影投落在皮面书脊上。",
+      "translated_word": "古朴",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's kitchen, with its chipped teacups and faded curtains, felt wonderfully quaint.",
+      "style": "Intimate",
+      "translation": "祖母的厨房里摆着磨损的茶杯，挂着褪色的窗帘，透着一种温馨的古朴。",
+      "translated_word": "古朴",
+      "display_order": 2
+    },
+    {
+      "sentence": "We stayed at a quaint little inn tucked behind the harbor.",
+      "style": "Collocational",
+      "translation": "我们住进了一家藏在港口后面的别致小旅馆。",
+      "translated_word": "别致",
+      "display_order": 3
+    }
+  ]
+}

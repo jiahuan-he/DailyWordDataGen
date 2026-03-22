@@ -1,0 +1,39 @@
+{
+  "word": "sampler",
+  "phonetic": "/ˈsæmplər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "采样器；样品集；试用装",
+  "examples": [
+    {
+      "sentence": "The perfume counter offered a sampler of their newest fragrances.",
+      "style": "Contextual",
+      "translation": "香水柜台摆着一套最新香氛的试用装。",
+      "translated_word": "试用装",
+      "display_order": 1
+    },
+    {
+      "sentence": "She built her first beat using nothing but a vintage sampler and headphones.",
+      "style": "Collocational",
+      "translation": "她仅凭一台老式采样器和一副耳机，做出了自己的第一段节拍。",
+      "translated_word": "采样器",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother's cross-stitch sampler still hangs above the kitchen doorway.",
+      "style": "Intimate",
+      "translation": "祖母的十字绣样品至今仍挂在厨房门楣上方。",
+      "translated_word": "样品",
+      "display_order": 3
+    },
+    {
+      "sentence": "A good playlist is a sampler of who you were at different seasons of life.",
+      "style": "Philosophical",
+      "translation": "一份好的歌单，是你在人生不同季节的切片集锦。",
+      "translated_word": "切片集锦",
+      "display_order": 4
+    }
+  ]
+}

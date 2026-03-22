@@ -1,0 +1,40 @@
+{
+  "word": "sport",
+  "phonetic": "/spɔːrt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "运动；体育；竞技",
+  "examples": [
+    {
+      "sentence": "Soccer remains the world's most popular sport.",
+      "style": "Contextual",
+      "translation": "足球依然是世界上最受欢迎的运动。",
+      "translated_word": "运动",
+      "display_order": 1
+    },
+    {
+      "sentence": "Golf is a gentleman's sport with a ruthless heart.",
+      "style": "Collocational",
+      "translation": "高尔夫是一项绅士运动，却有着残酷的内核。",
+      "translated_word": "运动",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sport teaches what classrooms cannot: how to lose with grace.",
+      "style": "Inspirational",
+      "translation": "体育教会我们课堂无法传授的东西：如何优雅地面对失败。",
+      "translated_word": "体育",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every Sunday, my grandfather watched the same sport on his cracked television, cheering alone.",
+      "style": "Intimate",
+      "translation": "每个周日，祖父都守着那台裂了屏的电视看同一场比赛，独自欢呼。",
+      "translated_word": "比赛",
+      "display_order": 2
+    }
+  ]
+}

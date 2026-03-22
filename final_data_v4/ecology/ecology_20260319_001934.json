@@ -1,0 +1,39 @@
+{
+  "word": "ecology",
+  "phonetic": "/ɪˈkɑːlədʒi/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "生态学；生态；生态环境",
+  "examples": [
+    {
+      "sentence": "The coral reef's ecology depends on a delicate balance of temperature and light.",
+      "style": "Contextual",
+      "translation": "珊瑚礁的生态依赖温度与光线的微妙平衡。",
+      "translated_word": "生态",
+      "display_order": 1
+    },
+    {
+      "sentence": "Scientists warn that the region's ecology may take decades to recover.",
+      "style": "Formal",
+      "translation": "科学家警告，该地区的生态或需数十年才能恢复。",
+      "translated_word": "生态",
+      "display_order": 2
+    },
+    {
+      "sentence": "To study ecology is to learn humility before the web of life.",
+      "style": "Philosophical",
+      "translation": "研究生态学，便是在生命之网前学习谦卑。",
+      "translated_word": "生态学",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her research bridges marine ecology and climate science.",
+      "style": "Collocational",
+      "translation": "她的研究连接海洋生态学与气候科学。",
+      "translated_word": "生态学",
+      "display_order": 3
+    }
+  ]
+}

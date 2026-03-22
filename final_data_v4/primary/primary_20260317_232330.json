@@ -1,0 +1,41 @@
+{
+  "word": "primary",
+  "phonetic": "/ˈpraɪməri/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "主要的；首要的；最初的；基本的",
+  "examples": [
+    {
+      "sentence": "Her primary concern was not the money, but the principle.",
+      "style": "Contextual",
+      "translation": "她首要关心的不是钱，而是原则。",
+      "translated_word": "首要",
+      "display_order": 2
+    },
+    {
+      "sentence": "Access to clean water remains the primary challenge in the region.",
+      "style": "Formal",
+      "translation": "获取清洁水源仍是该地区面临的首要挑战。",
+      "translated_word": "首要",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sleep is a primary source of healing that no medicine can replace.",
+      "style": "Collocational",
+      "translation": "睡眠是任何药物都无法替代的基本疗愈之源。",
+      "translated_word": "基本",
+      "display_order": 3
+    },
+    {
+      "sentence": "We often confuse what is urgent with what is primary.",
+      "style": "Philosophical",
+      "translation": "我们常把紧急之事误当作首要之事。",
+      "translated_word": "首要",
+      "display_order": 4
+    }
+  ]
+}

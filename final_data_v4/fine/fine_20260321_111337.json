@@ -1,0 +1,42 @@
+{
+  "word": "fine",
+  "phonetic": "/faɪn/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "好的；精美的；细致的",
+  "examples": [
+    {
+      "sentence": "The weather is fine today; let's have lunch outside.",
+      "style": "Contextual",
+      "translation": "今天天气不错，我们去外面吃午餐吧。",
+      "translated_word": "不错",
+      "display_order": 1
+    },
+    {
+      "sentence": "There's a fine line between confidence and arrogance.",
+      "style": "Collocational",
+      "translation": "自信与傲慢之间，只有一线之隔。",
+      "translated_word": "一线",
+      "display_order": 3
+    },
+    {
+      "sentence": "Morning light sifted through the fine lace curtains.",
+      "style": "Poetic",
+      "translation": "晨光穿过精致的蕾丝窗帘，轻轻洒落。",
+      "translated_word": "精致",
+      "display_order": 4
+    },
+    {
+      "sentence": "She asked if I was okay. I said fine, but my hands were shaking.",
+      "style": "Intimate",
+      "translation": "她问我还好吗。我说没事，但双手在发抖。",
+      "translated_word": "没事",
+      "display_order": 2
+    }
+  ]
+}

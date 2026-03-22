@@ -1,0 +1,40 @@
+{
+  "word": "destined",
+  "phonetic": "/ˈdestɪnd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "命中注定的；注定的；预定的",
+  "examples": [
+    {
+      "sentence": "Their paths crossed three times in one week; it felt destined.",
+      "style": "Contextual",
+      "translation": "一周内三次偶遇，这一切仿佛命中注定。",
+      "translated_word": "命中注定",
+      "display_order": 1
+    },
+    {
+      "sentence": "What we call coincidence often turns out to be destined.",
+      "style": "Philosophical",
+      "translation": "我们所谓的巧合，往往是早已注定的安排。",
+      "translated_word": "注定",
+      "display_order": 4
+    },
+    {
+      "sentence": "Seeds scattered by wind find soil destined for their roots.",
+      "style": "Poetic",
+      "translation": "风吹散的种子，终会落入为它注定的土壤。",
+      "translated_word": "注定",
+      "display_order": 3
+    },
+    {
+      "sentence": "That summer in Paris wasn't planned, but looking back, it felt destined.",
+      "style": "Intimate",
+      "translation": "那年夏天的巴黎之行并非刻意，回首却觉得是命运使然。",
+      "translated_word": "命运使然",
+      "display_order": 2
+    }
+  ]
+}

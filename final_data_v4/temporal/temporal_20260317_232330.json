@@ -1,0 +1,40 @@
+{
+  "word": "temporal",
+  "phonetic": "/ˈtempərəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "时间的；世俗的；短暂的",
+  "examples": [
+    {
+      "sentence": "Monks trade temporal comforts for inner peace.",
+      "style": "Contrastive",
+      "translation": "僧侣以世俗的安逸换取内心的宁静。",
+      "translated_word": "世俗的",
+      "display_order": 2
+    },
+    {
+      "sentence": "The study analyzed temporal patterns in sleep cycles.",
+      "style": "Formal",
+      "translation": "该研究分析了睡眠周期的时间规律。",
+      "translated_word": "时间",
+      "display_order": 1
+    },
+    {
+      "sentence": "We chase temporal victories, forgetting what outlasts us.",
+      "style": "Philosophical",
+      "translation": "我们追逐短暂的胜利，却忘了什么能比我们长存。",
+      "translated_word": "短暂的",
+      "display_order": 3
+    },
+    {
+      "sentence": "Autumn leaves know their beauty is temporal.",
+      "style": "Poetic",
+      "translation": "秋叶深知，自己的美丽转瞬即逝。",
+      "translated_word": "转瞬即逝",
+      "display_order": 4
+    }
+  ]
+}

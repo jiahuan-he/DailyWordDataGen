@@ -1,0 +1,40 @@
+{
+  "word": "blurt",
+  "phonetic": "/blɜːrt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "脱口而出；冲口说出；不假思索地说",
+  "examples": [
+    {
+      "sentence": "She blurted his name in her sleep, and I pretended not to hear.",
+      "style": "Intimate",
+      "translation": "她在梦中脱口叫出他的名字，我假装没有听见。",
+      "translated_word": "脱口",
+      "display_order": 2
+    },
+    {
+      "sentence": "He blurted out the answer before anyone else could even think.",
+      "style": "Collocational",
+      "translation": "他脱口说出答案，比所有人都快。",
+      "translated_word": "脱口",
+      "display_order": 1
+    },
+    {
+      "sentence": "What we blurt reveals more than what we rehearse.",
+      "style": "Philosophical",
+      "translation": "脱口而出的话，往往比字斟句酌的更见真心。",
+      "translated_word": "脱口而出",
+      "display_order": 3
+    },
+    {
+      "sentence": "In the tense silence of the interview, she blurted a nervous laugh.",
+      "style": "Contextual",
+      "translation": "面试的沉默中，她紧张地冲口笑了出来。",
+      "translated_word": "冲口",
+      "display_order": 4
+    }
+  ]
+}

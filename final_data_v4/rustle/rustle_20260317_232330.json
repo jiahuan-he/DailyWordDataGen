@@ -1,0 +1,40 @@
+{
+  "word": "rustle",
+  "phonetic": "/ˈrʌsəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "沙沙作响；窸窣；轻声移动",
+  "examples": [
+    {
+      "sentence": "A sudden breeze made the newspaper rustle on the table.",
+      "style": "Contextual",
+      "translation": "一阵微风吹过，桌上的报纸沙沙作响。",
+      "translated_word": "沙沙作响",
+      "display_order": 1
+    },
+    {
+      "sentence": "The bamboo rustles; the mountain knows no silence.",
+      "style": "Poetic",
+      "translation": "竹林窸窣，山间从无静寂。",
+      "translated_word": "窸窣",
+      "display_order": 4
+    },
+    {
+      "sentence": "Pages rustled as the audience awaited the verdict.",
+      "style": "Collocational",
+      "translation": "翻页声窸窣，听众屏息等待宣判。",
+      "translated_word": "窸窣",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her silk dress rustled as she leaned in to whisper goodnight.",
+      "style": "Intimate",
+      "translation": "她侧身低语晚安，丝裙轻轻作响。",
+      "translated_word": "作响",
+      "display_order": 2
+    }
+  ]
+}

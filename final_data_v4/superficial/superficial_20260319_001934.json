@@ -1,0 +1,40 @@
+{
+  "word": "superficial",
+  "phonetic": "/ˌsuːpərˈfɪʃəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "肤浅的；表面的；浅薄的",
+  "examples": [
+    {
+      "sentence": "He could name every wine region, but his knowledge was superficial.",
+      "style": "Contextual",
+      "translation": "他能说出每个葡萄酒产区，但所知不过皮毛。",
+      "translated_word": "皮毛",
+      "display_order": 1
+    },
+    {
+      "sentence": "A superficial wound heals quickly; a superficial friendship fades just as fast.",
+      "style": "Contrastive",
+      "translation": "表面的伤口愈合得快；肤浅的友谊消散得也一样快。",
+      "translated_word": "肤浅的",
+      "display_order": 2
+    },
+    {
+      "sentence": "We judge strangers by superficial traits, then wonder why we feel misunderstood.",
+      "style": "Philosophical",
+      "translation": "我们以表象评判他人，却困惑于自己为何总被误解。",
+      "translated_word": "表象",
+      "display_order": 3
+    },
+    {
+      "sentence": "At twenty, I craved superficial validation. At thirty, I crave one honest conversation.",
+      "style": "Intimate",
+      "translation": "二十岁时渴望浮华的认可；三十岁后，只想要一场真诚的对话。",
+      "translated_word": "浮华",
+      "display_order": 4
+    }
+  ]
+}

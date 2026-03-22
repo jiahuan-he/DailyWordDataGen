@@ -1,0 +1,41 @@
+{
+  "word": "overboard",
+  "phonetic": "/ˌoʊvərˈbɔːrd/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "verb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "过度地；过分地；落水",
+  "examples": [
+    {
+      "sentence": "The party planner went overboard: five ice sculptures for a children's birthday.",
+      "style": "Contextual",
+      "translation": "派对策划师太过火了：一场儿童生日宴，竟准备了五座冰雕。",
+      "translated_word": "过火",
+      "display_order": 2
+    },
+    {
+      "sentence": "Try not to go overboard with the spices; this dish is meant to be subtle.",
+      "style": "Collocational",
+      "translation": "香料别放太多；这道菜讲究的是清淡。",
+      "translated_word": "太多",
+      "display_order": 1
+    },
+    {
+      "sentence": "A little enthusiasm is charming; going overboard becomes exhausting.",
+      "style": "Contrastive",
+      "translation": "适度的热情令人愉悦；过了头便让人疲惫。",
+      "translated_word": "过了头",
+      "display_order": 3
+    },
+    {
+      "sentence": "My first attempt at baking, I went overboard and made enough cookies for the entire building.",
+      "style": "Intimate",
+      "translation": "第一次学烘焙，我一发不可收拾，做的饼干够整栋楼的人吃。",
+      "translated_word": "一发不可收拾",
+      "display_order": 4
+    }
+  ]
+}

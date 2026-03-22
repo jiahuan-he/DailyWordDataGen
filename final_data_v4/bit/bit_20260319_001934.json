@@ -1,0 +1,41 @@
+{
+  "word": "bit",
+  "phonetic": "/bɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "一点；少量；片刻",
+  "examples": [
+    {
+      "sentence": "Add just a bit of salt; the soup is almost perfect.",
+      "style": "Contextual",
+      "translation": "加一点点盐就好，这汤差不多了。",
+      "translated_word": "一点点",
+      "display_order": 1
+    },
+    {
+      "sentence": "She needed a bit of fresh air after the long meeting.",
+      "style": "Collocational",
+      "translation": "漫长的会议结束后，她需要出去透透气。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "That old café still holds a bit of the person I was at twenty.",
+      "style": "Intimate",
+      "translation": "那家老咖啡馆里，还留着二十岁的我的影子。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Every great change begins with a bit of discomfort.",
+      "style": "Philosophical",
+      "translation": "每一次重大的改变，都始于些许不适。",
+      "translated_word": "些许",
+      "display_order": 3
+    }
+  ]
+}

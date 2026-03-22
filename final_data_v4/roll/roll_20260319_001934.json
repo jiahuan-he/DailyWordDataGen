@@ -1,0 +1,40 @@
+{
+  "word": "roll",
+  "phonetic": "/roʊl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "滚动；卷；转动",
+  "examples": [
+    {
+      "sentence": "The coin slipped from her fingers and rolled under the couch.",
+      "style": "Contextual",
+      "translation": "硬币从她指间滑落，滚进了沙发底下。",
+      "translated_word": "滚",
+      "display_order": 1
+    },
+    {
+      "sentence": "She learned to roll with the punches and keep moving forward.",
+      "style": "Collocational",
+      "translation": "她学会了随遇而安，继续向前。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Fog rolled in from the harbor, swallowing the city in silence.",
+      "style": "Poetic",
+      "translation": "雾气从港口涌来，将城市吞没于一片静谧。",
+      "translated_word": "涌",
+      "display_order": 3
+    },
+    {
+      "sentence": "We rolled down grassy hills until the sky spun above us.",
+      "style": "Intimate",
+      "translation": "我们从草坡上滚下，直到天空在头顶旋转。",
+      "translated_word": "滚",
+      "display_order": 2
+    }
+  ]
+}

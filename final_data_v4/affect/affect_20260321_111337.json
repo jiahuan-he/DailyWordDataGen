@@ -1,0 +1,40 @@
+{
+  "word": "affect",
+  "phonetic": "/əˈfekt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "影响；打动；感染",
+  "examples": [
+    {
+      "sentence": "The news affected him more than he let on.",
+      "style": "Contextual",
+      "translation": "这消息对他的触动，远比他表现出来的要深。",
+      "translated_word": "触动",
+      "display_order": 2
+    },
+    {
+      "sentence": "Climate shifts will affect global food production for decades.",
+      "style": "Formal",
+      "translation": "气候变化将在未来数十年内影响全球粮食生产。",
+      "translated_word": "影响",
+      "display_order": 1
+    },
+    {
+      "sentence": "We cannot choose what affects us; only how we carry it.",
+      "style": "Philosophical",
+      "translation": "我们无法选择被什么打动，只能选择如何承载。",
+      "translated_word": "打动",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her laughter affected the whole room, turning strangers into friends.",
+      "style": "Intimate",
+      "translation": "她的笑声感染了整个房间，让陌生人变成了朋友。",
+      "translated_word": "感染",
+      "display_order": 3
+    }
+  ]
+}

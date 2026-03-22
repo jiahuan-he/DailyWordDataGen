@@ -1,0 +1,40 @@
+{
+  "word": "cob",
+  "phonetic": "/kɒb/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "玉米芯；玉米棒",
+  "examples": [
+    {
+      "sentence": "She bit into the steaming cob, butter dripping down her chin.",
+      "style": "Contextual",
+      "translation": "她咬下热腾腾的玉米棒，黄油顺着下巴滴落。",
+      "translated_word": "玉米棒",
+      "display_order": 3
+    },
+    {
+      "sentence": "Nothing says summer like corn on the cob fresh off the grill.",
+      "style": "Collocational",
+      "translation": "没有什么比刚烤好的玉米棒更有夏天的味道了。",
+      "translated_word": "玉米棒",
+      "display_order": 1
+    },
+    {
+      "sentence": "My father always saved the biggest cob on the plate for me.",
+      "style": "Intimate",
+      "translation": "父亲总是把盘里最大的玉米棒留给我。",
+      "translated_word": "玉米棒",
+      "display_order": 2
+    },
+    {
+      "sentence": "Kernels cling to the cob like sunlight caught in golden rows.",
+      "style": "Poetic",
+      "translation": "玉米粒紧贴着芯，宛如阳光凝成金色的行列。",
+      "translated_word": "芯",
+      "display_order": 4
+    }
+  ]
+}

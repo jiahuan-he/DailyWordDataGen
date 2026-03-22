@@ -1,0 +1,42 @@
+{
+  "word": "plain",
+  "phonetic": "/pleɪn/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "朴素的；简单的；清楚的；平凡的",
+  "examples": [
+    {
+      "sentence": "The café served plain black coffee: no syrup, no froth.",
+      "style": "Contextual",
+      "translation": "咖啡馆只供应黑咖啡：不加糖浆，不起泡沫。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "Her plain silver band outshone every diamond in the room.",
+      "style": "Contrastive",
+      "translation": "她那枚朴素的银戒指，比满屋的钻石都更耀眼。",
+      "translated_word": "朴素",
+      "display_order": 1
+    },
+    {
+      "sentence": "A plain answer demands more courage than an eloquent excuse.",
+      "style": "Philosophical",
+      "translation": "一句直白的回答，比一番华丽的借口更需要勇气。",
+      "translated_word": "直白",
+      "display_order": 3
+    },
+    {
+      "sentence": "Plain stone, worn smooth by centuries of prayer.",
+      "style": "Poetic",
+      "translation": "素朴的石阶，被千年的祈祷磨得温润。",
+      "translated_word": "素朴",
+      "display_order": 4
+    }
+  ]
+}

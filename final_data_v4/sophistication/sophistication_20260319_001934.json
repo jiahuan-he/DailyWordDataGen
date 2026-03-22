@@ -1,0 +1,39 @@
+{
+  "word": "sophistication",
+  "phonetic": "/səˌfɪstɪˈkeɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "老练；精致；复杂性",
+  "examples": [
+    {
+      "sentence": "The gallery's understated lighting revealed a quiet sophistication.",
+      "style": "Contextual",
+      "translation": "画廊低调的灯光透出一种静谧的精致。",
+      "translated_word": "精致",
+      "display_order": 1
+    },
+    {
+      "sentence": "The system's sophistication enables real-time threat detection.",
+      "style": "Formal",
+      "translation": "该系统的精密程度可实现实时威胁检测。",
+      "translated_word": "精密",
+      "display_order": 3
+    },
+    {
+      "sentence": "True sophistication lies in needing less, not knowing more.",
+      "style": "Philosophical",
+      "translation": "真正的老练，在于所需更少，而非所知更多。",
+      "translated_word": "老练",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her sophistication lived in gestures, never in declarations.",
+      "style": "Poetic",
+      "translation": "她的优雅藏在举手投足间，从不宣之于口。",
+      "translated_word": "优雅",
+      "display_order": 2
+    }
+  ]
+}

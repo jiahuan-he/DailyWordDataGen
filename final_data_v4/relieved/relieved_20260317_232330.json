@@ -1,0 +1,40 @@
+{
+  "word": "relieved",
+  "phonetic": "/rɪˈliːvd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "如释重负的；宽慰的；放心的",
+  "examples": [
+    {
+      "sentence": "The doctor smiled, and suddenly I felt relieved.",
+      "style": "Contextual",
+      "translation": "医生微微一笑，我悬着的心终于落了地。",
+      "translated_word": "落了地",
+      "display_order": 2
+    },
+    {
+      "sentence": "She was visibly relieved when the results came back clear.",
+      "style": "Collocational",
+      "translation": "结果显示一切正常，她明显松了一口气。",
+      "translated_word": "松了一口气",
+      "display_order": 1
+    },
+    {
+      "sentence": "A relieved exhale; the storm had passed without touching the garden.",
+      "style": "Poetic",
+      "translation": "一声轻叹释然而出；风暴已过，花园安然无恙。",
+      "translated_word": "释然",
+      "display_order": 4
+    },
+    {
+      "sentence": "The moment your reply lit up my screen, I was relieved beyond words.",
+      "style": "Intimate",
+      "translation": "你的回复点亮屏幕的那一刻，我心中的石头终于落地。",
+      "translated_word": "落地",
+      "display_order": 3
+    }
+  ]
+}

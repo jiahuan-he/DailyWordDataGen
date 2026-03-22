@@ -1,0 +1,39 @@
+{
+  "word": "correspond",
+  "phonetic": "/ˌkɔːrɪˈspɑːnd/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "通信；相符；对应",
+  "examples": [
+    {
+      "sentence": "The colors on screen don't always correspond to what you'll see in print.",
+      "style": "Contextual",
+      "translation": "屏幕上的颜色未必与印刷成品一致。",
+      "translated_word": "一致",
+      "display_order": 1
+    },
+    {
+      "sentence": "The suspect's alibi failed to correspond with the surveillance footage.",
+      "style": "Formal",
+      "translation": "嫌疑人的不在场证明与监控录像不符。",
+      "translated_word": "符",
+      "display_order": 3
+    },
+    {
+      "sentence": "They correspond weekly, trading book recommendations across continents.",
+      "style": "Collocational",
+      "translation": "他们每周通信，隔着大洲交换书单。",
+      "translated_word": "通信",
+      "display_order": 4
+    },
+    {
+      "sentence": "We corresponded for two years before meeting; I knew his handwriting before his face.",
+      "style": "Intimate",
+      "translation": "我们通信两年才见面；我先认得他的字迹，后认得他的脸。",
+      "translated_word": "通信",
+      "display_order": 2
+    }
+  ]
+}

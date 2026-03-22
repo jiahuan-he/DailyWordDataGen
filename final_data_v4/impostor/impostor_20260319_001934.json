@@ -1,0 +1,39 @@
+{
+  "word": "impostor",
+  "phonetic": "/ɪmˈpɑːstər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "冒充者；骗子；假冒者",
+  "examples": [
+    {
+      "sentence": "The security team discovered an impostor among the new hires.",
+      "style": "Contextual",
+      "translation": "安保团队在新员工中发现了一名冒充者。",
+      "translated_word": "冒充者",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities arrested an impostor who had posed as a licensed surgeon for three years.",
+      "style": "Formal",
+      "translation": "当局逮捕了一名冒充执业外科医生长达三年的骗子。",
+      "translated_word": "骗子",
+      "display_order": 2
+    },
+    {
+      "sentence": "Sometimes the greatest impostor is the version of yourself you perform for others.",
+      "style": "Philosophical",
+      "translation": "有时，最大的冒充者是你为他人扮演的那个自己。",
+      "translated_word": "冒充者",
+      "display_order": 4
+    },
+    {
+      "sentence": "In every meeting, a quiet voice insists I'm just an impostor waiting to be exposed.",
+      "style": "Intimate",
+      "translation": "每次开会，总有个细小的声音坚称我不过是个骗子，迟早会被揭穿。",
+      "translated_word": "骗子",
+      "display_order": 3
+    }
+  ]
+}

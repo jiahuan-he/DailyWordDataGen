@@ -1,0 +1,40 @@
+{
+  "word": "rinse",
+  "phonetic": "/rɪns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "冲洗；漱；清净",
+  "examples": [
+    {
+      "sentence": "She rinsed the berries under cold water before serving.",
+      "style": "Contextual",
+      "translation": "上桌前，她用冷水冲洗了浆果。",
+      "translated_word": "冲洗",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rinse thoroughly until the water runs clear.",
+      "style": "Collocational",
+      "translation": "反复冲洗，直至水变清澈。",
+      "translated_word": "冲洗",
+      "display_order": 2
+    },
+    {
+      "sentence": "The storm rinsed the dust from every rooftop.",
+      "style": "Poetic",
+      "translation": "暴雨冲净了每一片屋顶上的尘埃。",
+      "translated_word": "冲净",
+      "display_order": 3
+    },
+    {
+      "sentence": "Each evening, I rinse my face and let the day slip away.",
+      "style": "Intimate",
+      "translation": "每个傍晚，我用水洗脸，任白日悄然褪去。",
+      "translated_word": "洗",
+      "display_order": 4
+    }
+  ]
+}

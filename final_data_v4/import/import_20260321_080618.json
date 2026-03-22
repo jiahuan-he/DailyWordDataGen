@@ -1,0 +1,40 @@
+{
+  "word": "import",
+  "phonetic": "/ɪmˈpɔːrt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "进口；导入；引进",
+  "examples": [
+    {
+      "sentence": "The café imports its beans directly from Ethiopia.",
+      "style": "Contextual",
+      "translation": "这家咖啡馆的豆子从埃塞俄比亚直接进口。",
+      "translated_word": "进口",
+      "display_order": 2
+    },
+    {
+      "sentence": "New tariffs will impact firms that import rare minerals.",
+      "style": "Formal",
+      "translation": "新关税将影响稀有矿产的进口企业。",
+      "translated_word": "进口",
+      "display_order": 3
+    },
+    {
+      "sentence": "We import raw materials but export finished goods.",
+      "style": "Contrastive",
+      "translation": "我们进口原材料，出口成品。",
+      "translated_word": "进口",
+      "display_order": 1
+    },
+    {
+      "sentence": "Click the button to import your data.",
+      "style": "Collocational",
+      "translation": "点击按钮导入数据。",
+      "translated_word": "导入",
+      "display_order": 4
+    }
+  ]
+}

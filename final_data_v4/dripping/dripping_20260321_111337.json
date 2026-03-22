@@ -1,0 +1,40 @@
+{
+  "word": "dripping",
+  "phonetic": "/ˈdrɪpɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "滴落；滴水；湿透",
+  "examples": [
+    {
+      "sentence": "Rain kept dripping from the eaves long after the storm had passed.",
+      "style": "Poetic",
+      "translation": "雨停许久，屋檐仍在滴水。",
+      "translated_word": "滴水",
+      "display_order": 2
+    },
+    {
+      "sentence": "The faucet was dripping all night, a quiet rhythm in the dark.",
+      "style": "Contextual",
+      "translation": "水龙头滴了一整夜，在黑暗中敲出轻柔的节拍。",
+      "translated_word": "滴",
+      "display_order": 1
+    },
+    {
+      "sentence": "She walked in dripping wet, still smiling from the rain.",
+      "style": "Collocational",
+      "translation": "她浑身湿透地走进来，脸上还带着淋雨后的笑意。",
+      "translated_word": "湿透",
+      "display_order": 4
+    },
+    {
+      "sentence": "The popsicle was dripping down my fingers before I could finish it.",
+      "style": "Intimate",
+      "translation": "还没吃完，冰棍就顺着指缝滴落了。",
+      "translated_word": "滴落",
+      "display_order": 3
+    }
+  ]
+}

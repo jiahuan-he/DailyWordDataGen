@@ -1,0 +1,40 @@
+{
+  "word": "solution",
+  "phonetic": "/səˈluːʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "解决方案；答案；溶液",
+  "examples": [
+    {
+      "sentence": "Sleep on it; the solution often arrives by morning.",
+      "style": "Contextual",
+      "translation": "先睡一觉；答案往往在清晨到来。",
+      "translated_word": "答案",
+      "display_order": 2
+    },
+    {
+      "sentence": "Diplomats proposed a solution to end the decade-long conflict.",
+      "style": "Formal",
+      "translation": "外交官提出了一项方案，以终结这场长达十年的冲突。",
+      "translated_word": "方案",
+      "display_order": 1
+    },
+    {
+      "sentence": "A simple solution is often hiding in plain sight.",
+      "style": "Collocational",
+      "translation": "简单的解决之道，往往就藏在眼前。",
+      "translated_word": "解决之道",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every problem carries within it the seed of its own solution.",
+      "style": "Inspirational",
+      "translation": "每个问题都孕育着解决自身的种子。",
+      "translated_word": "解决",
+      "display_order": 4
+    }
+  ]
+}

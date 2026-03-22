@@ -1,0 +1,40 @@
+{
+  "word": "article",
+  "phonetic": "/ˈɑːrtɪkl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "文章；物品；条款",
+  "examples": [
+    {
+      "sentence": "The article on climate change sparked heated debates across social media.",
+      "style": "Contextual",
+      "translation": "那篇关于气候变化的文章在社交媒体上引发了激烈的讨论。",
+      "translated_word": "文章",
+      "display_order": 3
+    },
+    {
+      "sentence": "This article examines the economic implications of recent policy shifts.",
+      "style": "Formal",
+      "translation": "本文探讨了近期政策调整的经济影响。",
+      "translated_word": "文",
+      "display_order": 4
+    },
+    {
+      "sentence": "She bookmarked the article for later reading.",
+      "style": "Collocational",
+      "translation": "她把那篇文章收藏起来，留待稍后阅读。",
+      "translated_word": "文章",
+      "display_order": 1
+    },
+    {
+      "sentence": "That old magazine article about Paris made me finally book my ticket.",
+      "style": "Intimate",
+      "translation": "那篇关于巴黎的旧杂志文章，让我终于下定决心订了机票。",
+      "translated_word": "文章",
+      "display_order": 2
+    }
+  ]
+}

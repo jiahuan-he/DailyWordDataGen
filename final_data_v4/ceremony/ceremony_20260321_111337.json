@@ -1,0 +1,39 @@
+{
+  "word": "ceremony",
+  "phonetic": "/ˈserəmoʊni/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "仪式；典礼；礼节",
+  "examples": [
+    {
+      "sentence": "The graduation ceremony lasted three hours in the summer heat.",
+      "style": "Contextual",
+      "translation": "毕业典礼在夏日的炎热中持续了三个小时。",
+      "translated_word": "典礼",
+      "display_order": 1
+    },
+    {
+      "sentence": "The opening ceremony drew dignitaries from over forty nations.",
+      "style": "Formal",
+      "translation": "开幕式吸引了来自四十多个国家的政要出席。",
+      "translated_word": "式",
+      "display_order": 3
+    },
+    {
+      "sentence": "We invented ceremony to give weight to what would otherwise slip by unnoticed.",
+      "style": "Philosophical",
+      "translation": "我们创造仪式，是为了赋予那些本会悄然流逝之事以分量。",
+      "translated_word": "仪式",
+      "display_order": 4
+    },
+    {
+      "sentence": "At my sister's wedding ceremony, my father's voice cracked mid-toast.",
+      "style": "Intimate",
+      "translation": "在姐姐的婚礼上，父亲祝酒词说到一半，声音哽咽了。",
+      "translated_word": "礼",
+      "display_order": 2
+    }
+  ]
+}

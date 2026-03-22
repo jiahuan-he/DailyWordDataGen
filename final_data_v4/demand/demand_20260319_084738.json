@@ -1,0 +1,40 @@
+{
+  "word": "demand",
+  "phonetic": "/dɪˈmænd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "要求；需要；质问",
+  "examples": [
+    {
+      "sentence": "The crowd demanded answers from the mayor.",
+      "style": "Contextual",
+      "translation": "人群要求市长给出答案。",
+      "translated_word": "要求",
+      "display_order": 1
+    },
+    {
+      "sentence": "Workers across the sector are demanding fair wages and safer conditions.",
+      "style": "Formal",
+      "translation": "各行业工人正要求公平的薪资与更安全的工作环境。",
+      "translated_word": "要求",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her quiet confidence demands respect without a word spoken.",
+      "style": "Collocational",
+      "translation": "她沉静的自信无需言语，便让人肃然起敬。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "We demand so much from others, yet forgive ourselves so easily.",
+      "style": "Philosophical",
+      "translation": "我们对他人苛求甚多，对自己却轻易宽宥。",
+      "translated_word": "苛求",
+      "display_order": 4
+    }
+  ]
+}

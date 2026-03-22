@@ -1,0 +1,40 @@
+{
+  "word": "complement",
+  "phonetic": "/ˈkɑːmplɪment/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "补充；使完善；相得益彰",
+  "examples": [
+    {
+      "sentence": "The tangy sauce complements the richness of the fish.",
+      "style": "Contextual",
+      "translation": "酸爽的酱汁恰好衬托出鱼肉的醇厚。",
+      "translated_word": "衬托",
+      "display_order": 2
+    },
+    {
+      "sentence": "Their skills complement each other perfectly.",
+      "style": "Collocational",
+      "translation": "他们的技能完美互补。",
+      "translated_word": "互补",
+      "display_order": 1
+    },
+    {
+      "sentence": "Silence complements music; it is the breath between notes.",
+      "style": "Poetic",
+      "translation": "沉默成全了音乐；它是音符间的呼吸。",
+      "translated_word": "成全",
+      "display_order": 3
+    },
+    {
+      "sentence": "True partnership is not about matching; it is about learning to complement.",
+      "style": "Philosophical",
+      "translation": "真正的伴侣不在于相似，而在于学会彼此成就。",
+      "translated_word": "成就",
+      "display_order": 4
+    }
+  ]
+}

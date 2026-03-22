@@ -1,0 +1,40 @@
+{
+  "word": "malignant",
+  "phonetic": "/məˈlɪɡnənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "恶性的；恶毒的；有害的",
+  "examples": [
+    {
+      "sentence": "The biopsy confirmed the tumor was malignant.",
+      "style": "Contextual",
+      "translation": "活检结果证实肿瘤是恶性的。",
+      "translated_word": "恶性的",
+      "display_order": 1
+    },
+    {
+      "sentence": "Early detection of malignant cells significantly improves survival rates.",
+      "style": "Formal",
+      "translation": "恶性细胞的早期发现能显著提高生存率。",
+      "translated_word": "恶性",
+      "display_order": 3
+    },
+    {
+      "sentence": "Unlike benign growths, malignant ones invade surrounding tissue.",
+      "style": "Contrastive",
+      "translation": "与良性肿瘤不同，恶性肿瘤会侵袭周围组织。",
+      "translated_word": "恶性",
+      "display_order": 2
+    },
+    {
+      "sentence": "Resentment, left to fester, becomes malignant in the soul.",
+      "style": "Poetic",
+      "translation": "怨恨若任其溃烂，终将化为灵魂中的恶瘤。",
+      "translated_word": "恶瘤",
+      "display_order": 4
+    }
+  ]
+}

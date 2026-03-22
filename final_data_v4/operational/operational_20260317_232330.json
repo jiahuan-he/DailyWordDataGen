@@ -1,0 +1,39 @@
+{
+  "word": "operational",
+  "phonetic": "/ˌɒpəˈreɪʃənl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "运行中的；可操作的；运营的",
+  "examples": [
+    {
+      "sentence": "After months of testing, the new subway line is finally operational.",
+      "style": "Contextual",
+      "translation": "经过数月测试，新地铁线路终于投入运行。",
+      "translated_word": "运行",
+      "display_order": 1
+    },
+    {
+      "sentence": "The offshore wind farm became operational ahead of schedule.",
+      "style": "Formal",
+      "translation": "这座海上风电场提前投入运营。",
+      "translated_word": "运营",
+      "display_order": 2
+    },
+    {
+      "sentence": "Keeping operational costs low remains every startup's greatest test.",
+      "style": "Collocational",
+      "translation": "控制运营成本，始终是每家初创企业的最大考验。",
+      "translated_word": "运营",
+      "display_order": 3
+    },
+    {
+      "sentence": "The prototype looked impressive on paper but was never truly operational.",
+      "style": "Contrastive",
+      "translation": "原型机在图纸上令人惊艳，却从未真正运转起来。",
+      "translated_word": "运转",
+      "display_order": 4
+    }
+  ]
+}

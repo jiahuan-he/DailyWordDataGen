@@ -1,0 +1,41 @@
+{
+  "word": "cover",
+  "phonetic": "/ˈkʌvər/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "覆盖；涵盖；报道；支付",
+  "examples": [
+    {
+      "sentence": "Fog covered the valley until noon.",
+      "style": "Contextual",
+      "translation": "浓雾覆盖山谷，直到正午才散。",
+      "translated_word": "覆盖",
+      "display_order": 1
+    },
+    {
+      "sentence": "The grant covers tuition and housing.",
+      "style": "Collocational",
+      "translation": "这笔资助涵盖学费和住宿。",
+      "translated_word": "涵盖",
+      "display_order": 3
+    },
+    {
+      "sentence": "The inquiry covers allegations spanning five years.",
+      "style": "Formal",
+      "translation": "此次调查涉及过去五年的指控。",
+      "translated_word": "涉及",
+      "display_order": 4
+    },
+    {
+      "sentence": "I covered his cold hands with mine and said nothing.",
+      "style": "Intimate",
+      "translation": "我用双手覆住他冰冷的手，什么也没说。",
+      "translated_word": "覆住",
+      "display_order": 2
+    }
+  ]
+}

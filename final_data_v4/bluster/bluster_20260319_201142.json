@@ -1,0 +1,40 @@
+{
+  "word": "bluster",
+  "phonetic": "/ˈblʌstər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "虚张声势；咆哮；怒吼",
+  "examples": [
+    {
+      "sentence": "He blustered about quitting, but returned to his desk within the hour.",
+      "style": "Contextual",
+      "translation": "他嚷嚷着要辞职，不到一小时又回到了工位上。",
+      "translated_word": "嚷嚷",
+      "display_order": 1
+    },
+    {
+      "sentence": "The opposition blustered through the hearing, offering no concrete evidence.",
+      "style": "Formal",
+      "translation": "反对派在听证会上一味叫嚣，却拿不出任何实质证据。",
+      "translated_word": "叫嚣",
+      "display_order": 3
+    },
+    {
+      "sentence": "Those who bluster seldom act; those who act seldom need to.",
+      "style": "Contrastive",
+      "translation": "虚张声势者少有行动，真正行动者无需声张。",
+      "translated_word": "虚张声势",
+      "display_order": 4
+    },
+    {
+      "sentence": "March winds blustered against the cottage, rattling every window.",
+      "style": "Poetic",
+      "translation": "三月的风怒号着扑向小屋，震得每扇窗户咯咯作响。",
+      "translated_word": "怒号",
+      "display_order": 2
+    }
+  ]
+}

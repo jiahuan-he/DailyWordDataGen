@@ -1,0 +1,40 @@
+{
+  "word": "flutter",
+  "phonetic": "/ˈflʌtər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "飘动；颤动；扑腾；怦然心动",
+  "examples": [
+    {
+      "sentence": "The curtains fluttered as a cool breeze swept through the room.",
+      "style": "Contextual",
+      "translation": "凉风穿堂而过，窗帘轻轻飘动。",
+      "translated_word": "飘动",
+      "display_order": 1
+    },
+    {
+      "sentence": "My heart fluttered when her name lit up my phone.",
+      "style": "Intimate",
+      "translation": "她的名字亮起时，我心头一颤。",
+      "translated_word": "一颤",
+      "display_order": 2
+    },
+    {
+      "sentence": "Autumn leaves fluttered down, gilding the empty bench.",
+      "style": "Poetic",
+      "translation": "秋叶纷纷飘落，为空荡的长椅镀上金色。",
+      "translated_word": "飘落",
+      "display_order": 3
+    },
+    {
+      "sentence": "Butterflies fluttered among the lavender at dusk.",
+      "style": "Collocational",
+      "translation": "黄昏时分，蝴蝶在薰衣草间翩跹起舞。",
+      "translated_word": "翩跹",
+      "display_order": 4
+    }
+  ]
+}

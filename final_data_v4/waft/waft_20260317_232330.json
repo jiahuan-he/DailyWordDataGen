@@ -1,0 +1,40 @@
+{
+  "word": "waft",
+  "phonetic": "/wɑːft/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "飘送；飘荡；轻轻传来",
+  "examples": [
+    {
+      "sentence": "The smell of fresh bread wafted from the bakery across the street.",
+      "style": "Contextual",
+      "translation": "新鲜面包的香气从街对面的烘焙坊飘来。",
+      "translated_word": "飘来",
+      "display_order": 1
+    },
+    {
+      "sentence": "Jasmine wafted through the open window, heavy with summer.",
+      "style": "Poetic",
+      "translation": "茉莉的香气穿窗而入，满载着夏日的浓郁。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Her perfume wafted past me in the corridor; I knew she had been there.",
+      "style": "Intimate",
+      "translation": "她的香水在走廊里轻轻飘过；我知道她来过。",
+      "translated_word": "飘过",
+      "display_order": 2
+    },
+    {
+      "sentence": "Smoke wafted lazily from the chimney into the pale morning sky.",
+      "style": "Collocational",
+      "translation": "炊烟从烟囱中袅袅升起，融入淡白的晨空。",
+      "translated_word": "袅袅",
+      "display_order": 3
+    }
+  ]
+}

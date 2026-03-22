@@ -1,0 +1,40 @@
+{
+  "word": "school",
+  "phonetic": "/skuːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "学校；学派；鱼群",
+  "examples": [
+    {
+      "sentence": "The school bell rang, and the hallways emptied in seconds.",
+      "style": "Contextual",
+      "translation": "学校的钟声响起，走廊瞬间空无一人。",
+      "translated_word": "学校",
+      "display_order": 1
+    },
+    {
+      "sentence": "My daughter now attends the same school I once feared leaving.",
+      "style": "Intimate",
+      "translation": "女儿如今就读的学校，正是我当年不舍离开的地方。",
+      "translated_word": "学校",
+      "display_order": 2
+    },
+    {
+      "sentence": "He's old school: handshakes over emails, every time.",
+      "style": "Collocational",
+      "translation": "他是老派作风：宁握手，不发邮件。",
+      "translated_word": "老派",
+      "display_order": 4
+    },
+    {
+      "sentence": "A school gives you answers; leaving it teaches you questions.",
+      "style": "Philosophical",
+      "translation": "学校给你答案；离开它，才教会你发问。",
+      "translated_word": "学校",
+      "display_order": 3
+    }
+  ]
+}

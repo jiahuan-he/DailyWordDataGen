@@ -1,0 +1,40 @@
+{
+  "word": "sabotage",
+  "phonetic": "/ˈsæbətɑːʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "蓄意破坏；暗中阻挠；搞砸",
+  "examples": [
+    {
+      "sentence": "Someone had sabotaged the brakes; the mechanic found the cut lines.",
+      "style": "Contextual",
+      "translation": "有人蓄意破坏了刹车；技师发现了被剪断的管线。",
+      "translated_word": "蓄意破坏",
+      "display_order": 1
+    },
+    {
+      "sentence": "Investigators believe insiders sabotaged the merger to protect their positions.",
+      "style": "Formal",
+      "translation": "调查人员认为内部人员暗中阻挠了合并，以保全自身职位。",
+      "translated_word": "暗中阻挠",
+      "display_order": 2
+    },
+    {
+      "sentence": "We sabotage ourselves most when success begins to feel undeserved.",
+      "style": "Philosophical",
+      "translation": "当成功开始令人心虚时，我们最容易亲手毁掉自己。",
+      "translated_word": "毁掉",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every time love got close, I found quiet ways to sabotage it.",
+      "style": "Intimate",
+      "translation": "每当爱靠近，我总会悄悄把它搞砸。",
+      "translated_word": "搞砸",
+      "display_order": 3
+    }
+  ]
+}

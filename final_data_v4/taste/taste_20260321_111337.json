@@ -1,0 +1,40 @@
+{
+  "word": "taste",
+  "phonetic": "/teɪst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "味道；品味；爱好",
+  "examples": [
+    {
+      "sentence": "The soup left a bitter taste that lingered.",
+      "style": "Contextual",
+      "translation": "汤里残留着一丝挥之不去的苦味。",
+      "translated_word": "味",
+      "display_order": 1
+    },
+    {
+      "sentence": "Coffee is an acquired taste that becomes ritual.",
+      "style": "Collocational",
+      "translation": "咖啡是后天的口味，却成了每日的仪式。",
+      "translated_word": "口味",
+      "display_order": 3
+    },
+    {
+      "sentence": "Taste is shaped by what we reject as much as what we embrace.",
+      "style": "Philosophical",
+      "translation": "品味，由我们的接纳与拒绝共同塑造。",
+      "translated_word": "品味",
+      "display_order": 4
+    },
+    {
+      "sentence": "My mother's recipes formed my taste before I knew I had one.",
+      "style": "Intimate",
+      "translation": "母亲的味道，在我懂得品味之前就已扎根。",
+      "translated_word": "品味",
+      "display_order": 2
+    }
+  ]
+}

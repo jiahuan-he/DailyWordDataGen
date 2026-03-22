@@ -1,0 +1,40 @@
+{
+  "word": "tip",
+  "phonetic": "/tɪp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "小费；提示；尖端；诀窍",
+  "examples": [
+    {
+      "sentence": "She left a generous tip for the waiter who remembered her name.",
+      "style": "Contextual",
+      "translation": "她给那位记得她名字的服务员留下了一笔丰厚的小费。",
+      "translated_word": "小费",
+      "display_order": 1
+    },
+    {
+      "sentence": "Here's a quick tip: charge your phone the night before a trip.",
+      "style": "Collocational",
+      "translation": "小诀窍：出行前一晚记得给手机充满电。",
+      "translated_word": "诀窍",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother's baking tips live on in every loaf I make.",
+      "style": "Intimate",
+      "translation": "外婆的烘焙秘诀，如今融进了我烤的每一个面包里。",
+      "translated_word": "秘诀",
+      "display_order": 3
+    },
+    {
+      "sentence": "An anonymous tip led police to the stolen masterpiece.",
+      "style": "Formal",
+      "translation": "一条匿名线索帮助警方找到了失窃的名画。",
+      "translated_word": "线索",
+      "display_order": 4
+    }
+  ]
+}

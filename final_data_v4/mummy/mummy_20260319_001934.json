@@ -1,0 +1,40 @@
+{
+  "word": "mummy",
+  "phonetic": "/ˈmʌmi/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "木乃伊；妈咪",
+  "examples": [
+    {
+      "sentence": "The museum's newest exhibit features a mummy unearthed near the Nile.",
+      "style": "Contextual",
+      "translation": "博物馆最新展出了一具出土于尼罗河畔的木乃伊。",
+      "translated_word": "木乃伊",
+      "display_order": 2
+    },
+    {
+      "sentence": "Egyptian mummies continue to fascinate archaeologists worldwide.",
+      "style": "Collocational",
+      "translation": "埃及木乃伊至今仍令全球考古学家着迷。",
+      "translated_word": "木乃伊",
+      "display_order": 1
+    },
+    {
+      "sentence": "Mummy always knew when something was wrong before I said a word.",
+      "style": "Intimate",
+      "translation": "妈咪总能在我开口之前，察觉到不对劲。",
+      "translated_word": "妈咪",
+      "display_order": 4
+    },
+    {
+      "sentence": "Wrapped in linen and silence, the mummy sleeps beneath desert stars.",
+      "style": "Poetic",
+      "translation": "裹于亚麻与静寂之中，木乃伊长眠于沙漠星空之下。",
+      "translated_word": "木乃伊",
+      "display_order": 3
+    }
+  ]
+}

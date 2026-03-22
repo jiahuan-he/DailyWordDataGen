@@ -1,0 +1,41 @@
+{
+  "word": "surplus",
+  "phonetic": "/ˈsɜːrpləs/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "剩余；盈余；过剩",
+  "examples": [
+    {
+      "sentence": "The bakery donates its evening surplus to the neighborhood shelter.",
+      "style": "Contextual",
+      "translation": "面包店每晚都将剩余的糕点捐给社区庇护所。",
+      "translated_word": "剩余",
+      "display_order": 1
+    },
+    {
+      "sentence": "Economists predict the trade surplus will narrow by next quarter.",
+      "style": "Formal",
+      "translation": "经济学家预测贸易盈余将在下季度收窄。",
+      "translated_word": "盈余",
+      "display_order": 3
+    },
+    {
+      "sentence": "He furnished his first apartment entirely from military surplus.",
+      "style": "Collocational",
+      "translation": "他的第一间公寓全用军用剩余物资布置而成。",
+      "translated_word": "剩余物资",
+      "display_order": 2
+    },
+    {
+      "sentence": "A surplus hoarded becomes burden; a surplus shared becomes gift.",
+      "style": "Philosophical",
+      "translation": "囤积的盈余是负担，分享的盈余是馈赠。",
+      "translated_word": "盈余",
+      "display_order": 4
+    }
+  ]
+}

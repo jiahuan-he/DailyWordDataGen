@@ -1,0 +1,40 @@
+{
+  "word": "ditty",
+  "phonetic": "/ˈdɪti/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "小曲；短歌；小调",
+  "examples": [
+    {
+      "sentence": "The ice cream truck played the same ditty every summer afternoon.",
+      "style": "Contextual",
+      "translation": "每个夏日午后，冰淇淋车总是播放着同一首小曲。",
+      "translated_word": "小曲",
+      "display_order": 2
+    },
+    {
+      "sentence": "She hummed a cheerful ditty while folding laundry.",
+      "style": "Collocational",
+      "translation": "她一边叠衣服，一边哼着欢快的小调。",
+      "translated_word": "小调",
+      "display_order": 1
+    },
+    {
+      "sentence": "A half-forgotten ditty surfaced in my mind: my grandmother's lullaby.",
+      "style": "Intimate",
+      "translation": "一首半已遗忘的短歌浮上心头：那是外婆的摇篮曲。",
+      "translated_word": "短歌",
+      "display_order": 3
+    },
+    {
+      "sentence": "The sparrow's morning ditty asks for nothing but to be sung.",
+      "style": "Poetic",
+      "translation": "麻雀的晨歌别无所求，只为被唱出口。",
+      "translated_word": "晨歌",
+      "display_order": 4
+    }
+  ]
+}

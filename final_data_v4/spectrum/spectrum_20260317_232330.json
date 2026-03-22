@@ -1,0 +1,39 @@
+{
+  "word": "spectrum",
+  "phonetic": "/ˈspektrəm/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "光谱；范围；系列",
+  "examples": [
+    {
+      "sentence": "The poll revealed a spectrum of voter concerns.",
+      "style": "Contextual",
+      "translation": "民调显示出选民各式各样的关切。",
+      "translated_word": "各式各样",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sunlight through the prism unfolded into a silent spectrum.",
+      "style": "Poetic",
+      "translation": "阳光穿过棱镜，静静展开一道光谱。",
+      "translated_word": "光谱",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every person contains a spectrum; we show different colors to different people.",
+      "style": "Philosophical",
+      "translation": "每个人都是一道光谱；只是对不同的人，显现不同的颜色。",
+      "translated_word": "光谱",
+      "display_order": 4
+    },
+    {
+      "sentence": "This antibiotic covers a broad spectrum of infections.",
+      "style": "Collocational",
+      "translation": "这种抗生素能应对多种感染。",
+      "translated_word": "多种",
+      "display_order": 2
+    }
+  ]
+}

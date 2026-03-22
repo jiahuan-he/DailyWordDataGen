@@ -1,0 +1,40 @@
+{
+  "word": "substantial",
+  "phonetic": "/səbˈstænʃəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "大量的；可观的；实质的；坚固的",
+  "examples": [
+    {
+      "sentence": "The scholarship covered a substantial portion of her tuition.",
+      "style": "Contextual",
+      "translation": "这笔奖学金覆盖了她学费的大部分。",
+      "translated_word": "大",
+      "display_order": 2
+    },
+    {
+      "sentence": "The investigation uncovered substantial evidence of misconduct.",
+      "style": "Formal",
+      "translation": "调查发现了大量不当行为的证据。",
+      "translated_word": "大量",
+      "display_order": 1
+    },
+    {
+      "sentence": "After the long hike, we needed a substantial meal.",
+      "style": "Collocational",
+      "translation": "长途徒步后，我们需要饱餐一顿。",
+      "translated_word": "饱餐",
+      "display_order": 3
+    },
+    {
+      "sentence": "A life of meaning requires substantial investment in things that cannot be measured.",
+      "style": "Philosophical",
+      "translation": "有意义的人生，需要在无法衡量之事上倾注心血。",
+      "translated_word": "倾注",
+      "display_order": 4
+    }
+  ]
+}

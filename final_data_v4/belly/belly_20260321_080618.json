@@ -1,0 +1,40 @@
+{
+  "word": "belly",
+  "phonetic": "/ˈbeli/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "肚子；腹部；胃",
+  "examples": [
+    {
+      "sentence": "She felt the baby kick inside her belly.",
+      "style": "Contextual",
+      "translation": "她感觉到宝宝在肚子里踢了一下。",
+      "translated_word": "肚子",
+      "display_order": 2
+    },
+    {
+      "sentence": "His belly laugh echoed down the hallway.",
+      "style": "Collocational",
+      "translation": "他爽朗的笑声回荡在走廊里。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "After Sunday dinners, Dad would lean back and pat his belly.",
+      "style": "Intimate",
+      "translation": "每个周日晚餐后，爸爸总会靠在椅背上，拍拍肚子。",
+      "translated_word": "肚子",
+      "display_order": 1
+    },
+    {
+      "sentence": "The valley's belly held the morning mist.",
+      "style": "Poetic",
+      "translation": "山谷的腹地盛满了晨雾。",
+      "translated_word": "腹地",
+      "display_order": 3
+    }
+  ]
+}

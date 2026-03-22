@@ -1,0 +1,40 @@
+{
+  "word": "shell",
+  "phonetic": "/ʃel/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "壳；外壳；躯壳",
+  "examples": [
+    {
+      "sentence": "The crab had outgrown its shell and needed a new one.",
+      "style": "Contextual",
+      "translation": "螃蟹长大了，壳已经装不下它了。",
+      "translated_word": "壳",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sunlight filled the shell's spiral, tracing a geometry older than language.",
+      "style": "Poetic",
+      "translation": "阳光洒入贝壳的螺旋，勾勒出比语言更古老的几何。",
+      "translated_word": "贝壳",
+      "display_order": 3
+    },
+    {
+      "sentence": "We mistake the shell for the creature, the armor for the soul.",
+      "style": "Philosophical",
+      "translation": "我们常把壳误认为生命本身，把铠甲当作灵魂。",
+      "translated_word": "壳",
+      "display_order": 4
+    },
+    {
+      "sentence": "That shell from our first beach trip still sits on my desk.",
+      "style": "Intimate",
+      "translation": "那枚来自我们第一次海边之旅的贝壳，至今仍摆在我的桌上。",
+      "translated_word": "贝壳",
+      "display_order": 2
+    }
+  ]
+}

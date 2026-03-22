@@ -1,0 +1,39 @@
+{
+  "word": "leakage",
+  "phonetic": "/ˈliːkɪdʒ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "泄漏；渗漏；外泄",
+  "examples": [
+    {
+      "sentence": "The pipes are old; we've noticed leakage in the basement for months.",
+      "style": "Contextual",
+      "translation": "管道老化了，地下室的渗漏已持续数月。",
+      "translated_word": "渗漏",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company disclosed a data leakage affecting two million accounts.",
+      "style": "Formal",
+      "translation": "公司披露了一起涉及两百万账户的数据泄露事件。",
+      "translated_word": "泄露",
+      "display_order": 2
+    },
+    {
+      "sentence": "Regular inspections prevent costly gas leakage before it turns dangerous.",
+      "style": "Collocational",
+      "translation": "定期检查能在燃气泄漏酿成危险前将其防患于未然。",
+      "translated_word": "泄漏",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every secret carries the risk of leakage; trust is merely a fragile seal.",
+      "style": "Philosophical",
+      "translation": "每个秘密都潜藏外泄的风险；信任不过是一道脆弱的封印。",
+      "translated_word": "外泄",
+      "display_order": 4
+    }
+  ]
+}

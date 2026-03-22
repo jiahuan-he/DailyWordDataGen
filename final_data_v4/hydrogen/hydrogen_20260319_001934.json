@@ -1,0 +1,39 @@
+{
+  "word": "hydrogen",
+  "phonetic": "/ˈhaɪdrədʒən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "氢；氢气",
+  "examples": [
+    {
+      "sentence": "Water is simply two hydrogen atoms bonded to one oxygen.",
+      "style": "Contextual",
+      "translation": "水不过是两个氢原子与一个氧原子的结合。",
+      "translated_word": "氢",
+      "display_order": 1
+    },
+    {
+      "sentence": "The nation announced a ten-year plan to transition its trucking fleet to hydrogen.",
+      "style": "Formal",
+      "translation": "该国宣布了一项十年计划，将其货运车队转型为氢能源。",
+      "translated_word": "氢",
+      "display_order": 3
+    },
+    {
+      "sentence": "Hydrogen fuel cells power the vehicle without a single exhaust emission.",
+      "style": "Collocational",
+      "translation": "氢燃料电池驱动车辆，不产生任何尾气排放。",
+      "translated_word": "氢",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every star is a furnace where hydrogen becomes light.",
+      "style": "Poetic",
+      "translation": "每颗恒星都是一座熔炉，氢在其中化作光芒。",
+      "translated_word": "氢",
+      "display_order": 4
+    }
+  ]
+}

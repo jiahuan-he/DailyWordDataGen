@@ -1,0 +1,40 @@
+{
+  "word": "chop",
+  "phonetic": "/tʃɒp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "砍；切；剁",
+  "examples": [
+    {
+      "sentence": "He chopped the firewood until his palms blistered.",
+      "style": "Contextual",
+      "translation": "他不停地劈柴，直到手掌磨出水泡。",
+      "translated_word": "劈",
+      "display_order": 1
+    },
+    {
+      "sentence": "She chopped garlic with the steady rhythm of a woman who has fed many.",
+      "style": "Collocational",
+      "translation": "她有节奏地切着蒜，那是喂饱过许多人的手法。",
+      "translated_word": "切",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandfather chopped onions without tears; I never learned his trick.",
+      "style": "Intimate",
+      "translation": "外公切洋葱从不流泪，我始终没学会他的诀窍。",
+      "translated_word": "切",
+      "display_order": 3
+    },
+    {
+      "sentence": "The blade rises, falls, and what was whole becomes offering.",
+      "style": "Poetic",
+      "translation": "刀起，刀落，完整之物化作供奉。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

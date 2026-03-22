@@ -1,0 +1,40 @@
+{
+  "word": "hinge",
+  "phonetic": "/hɪndʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "铰链；枢纽；关键",
+  "examples": [
+    {
+      "sentence": "The cabinet door hung crooked; its hinge had come loose.",
+      "style": "Contextual",
+      "translation": "柜门歪了，铰链松了。",
+      "translated_word": "铰链",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some conversations are hinges: you enter one person and leave another.",
+      "style": "Philosophical",
+      "translation": "有些对话是人生的枢纽：进去时是一个人，出来时已是另一个。",
+      "translated_word": "枢纽",
+      "display_order": 4
+    },
+    {
+      "sentence": "Analysts view this quarter as the hinge of the company's turnaround.",
+      "style": "Formal",
+      "translation": "分析师认为本季度是公司转型的关键节点。",
+      "translated_word": "关键节点",
+      "display_order": 3
+    },
+    {
+      "sentence": "That summer was the hinge of my youth: everything before felt like childhood.",
+      "style": "Intimate",
+      "translation": "那个夏天是我青春的转折点：之前的一切都还是童年。",
+      "translated_word": "转折点",
+      "display_order": 2
+    }
+  ]
+}

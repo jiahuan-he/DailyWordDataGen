@@ -1,0 +1,40 @@
+{
+  "word": "babble",
+  "phonetic": "/ˈbæbəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "喋喋不休；含混地说；潺潺作响",
+  "examples": [
+    {
+      "sentence": "The toddler babbled happily, not yet forming real words.",
+      "style": "Contextual",
+      "translation": "小家伙咿咿呀呀地说着，还不会组成完整的词。",
+      "translated_word": "咿咿呀呀",
+      "display_order": 1
+    },
+    {
+      "sentence": "Streams babble through the forest, keeping secrets for the moss.",
+      "style": "Poetic",
+      "translation": "溪水穿林而过，潺潺低语，为青苔守着秘密。",
+      "translated_word": "潺潺",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother would babble about her village; I wish I had listened closer.",
+      "style": "Intimate",
+      "translation": "外婆总爱絮絮叨叨地讲她的村庄；我多希望当时听得再仔细些。",
+      "translated_word": "絮絮叨叨",
+      "display_order": 3
+    },
+    {
+      "sentence": "A brook babbled nearby as we spread the picnic blanket.",
+      "style": "Collocational",
+      "translation": "我们铺开野餐垫时，一旁的小溪正潺潺流淌。",
+      "translated_word": "潺潺",
+      "display_order": 2
+    }
+  ]
+}

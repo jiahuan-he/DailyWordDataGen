@@ -1,0 +1,40 @@
+{
+  "word": "muffled",
+  "phonetic": "/ˈmʌfld/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "低沉的；模糊的；闷声的",
+  "examples": [
+    {
+      "sentence": "Through the heavy curtains, only muffled traffic reached the room.",
+      "style": "Contextual",
+      "translation": "厚重的窗帘后，只有模糊的车流声传入房间。",
+      "translated_word": "模糊的",
+      "display_order": 4
+    },
+    {
+      "sentence": "Snow covered the city, and every sound became muffled and soft.",
+      "style": "Poetic",
+      "translation": "雪覆盖了城市，所有声音都变得低沉而柔和。",
+      "translated_word": "低沉",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her muffled sobs from the next room kept him awake all night.",
+      "style": "Intimate",
+      "translation": "她从隔壁传来的低声抽泣，让他彻夜难眠。",
+      "translated_word": "低声",
+      "display_order": 2
+    },
+    {
+      "sentence": "Muffled footsteps echoed down the empty corridor.",
+      "style": "Collocational",
+      "translation": "闷声的脚步在空荡的走廊里回响。",
+      "translated_word": "闷声的",
+      "display_order": 1
+    }
+  ]
+}

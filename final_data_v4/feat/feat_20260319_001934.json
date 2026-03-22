@@ -1,0 +1,41 @@
+{
+  "word": "feat",
+  "phonetic": "/fiːt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "壮举；功绩；技艺",
+  "examples": [
+    {
+      "sentence": "Climbing Everest without oxygen remains one of mountaineering's greatest feats.",
+      "style": "Contextual",
+      "translation": "无氧攀登珠峰至今仍是登山史上最伟大的壮举之一。",
+      "translated_word": "壮举",
+      "display_order": 1
+    },
+    {
+      "sentence": "The engineering feat required five years and three thousand workers to complete.",
+      "style": "Formal",
+      "translation": "这项工程壮举耗时五年，动用了三千名工人方才完成。",
+      "translated_word": "壮举",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every small feat you accomplish rewires your brain to believe in bigger ones.",
+      "style": "Inspirational",
+      "translation": "你完成的每一个小成就，都在重塑大脑，让它相信更大的可能。",
+      "translated_word": "成就",
+      "display_order": 4
+    },
+    {
+      "sentence": "Teaching my grandmother to video call felt like a quiet feat worth celebrating.",
+      "style": "Intimate",
+      "translation": "教会奶奶用视频通话，是一件值得悄悄庆祝的小小功绩。",
+      "translated_word": "功绩",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "drill",
+  "phonetic": "/drɪl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "钻孔；训练；演练；灌输",
+  "examples": [
+    {
+      "sentence": "The dentist began to drill, and I gripped the armrest.",
+      "style": "Contextual",
+      "translation": "牙医开始钻牙，我下意识地攥紧了扶手。",
+      "translated_word": "钻",
+      "display_order": 2
+    },
+    {
+      "sentence": "Rescue teams drill for earthquake scenarios twice a year.",
+      "style": "Formal",
+      "translation": "救援队每年进行两次地震演练。",
+      "translated_word": "演练",
+      "display_order": 1
+    },
+    {
+      "sentence": "She drilled the basics into her students until they became second nature.",
+      "style": "Collocational",
+      "translation": "她反复训练学生的基本功，直到形成本能。",
+      "translated_word": "训练",
+      "display_order": 3
+    },
+    {
+      "sentence": "My coach drilled us so hard that summer; years later, those habits still hold.",
+      "style": "Intimate",
+      "translation": "那年夏天教练练我们练得很狠；多年后，那些习惯依然刻在骨子里。",
+      "translated_word": "练",
+      "display_order": 4
+    }
+  ]
+}

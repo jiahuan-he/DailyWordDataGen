@@ -1,0 +1,39 @@
+{
+  "word": "figurine",
+  "phonetic": "/ˌfɪɡjəˈriːn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "小雕像；人偶；塑像",
+  "examples": [
+    {
+      "sentence": "The antique shop displayed rows of porcelain figurines behind glass.",
+      "style": "Contextual",
+      "translation": "古董店的玻璃柜里陈列着一排排瓷质小雕像。",
+      "translated_word": "小雕像",
+      "display_order": 1
+    },
+    {
+      "sentence": "She collects ceramic figurines from every country she visits.",
+      "style": "Collocational",
+      "translation": "她收藏每个去过的国家的陶瓷人偶。",
+      "translated_word": "人偶",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother's jade figurine now watches over my bookshelf.",
+      "style": "Intimate",
+      "translation": "外婆的玉雕人偶如今静静守望着我的书架。",
+      "translated_word": "人偶",
+      "display_order": 3
+    },
+    {
+      "sentence": "Dust gathered on the ballerina figurine, her pirouette frozen for years.",
+      "style": "Poetic",
+      "translation": "灰尘轻覆在芭蕾少女的雕像上，那一瞬的旋转已凝固多年。",
+      "translated_word": "雕像",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "condition",
+  "phonetic": "/kənˈdɪʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "状态；情况；条件",
+  "examples": [
+    {
+      "sentence": "The vintage camera was still in working condition after thirty years.",
+      "style": "Contextual",
+      "translation": "那台老相机历经三十年，依然能正常使用。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "Weather conditions forced officials to postpone the summit.",
+      "style": "Formal",
+      "translation": "恶劣的天气状况迫使官员推迟了峰会。",
+      "translated_word": "状况",
+      "display_order": 2
+    },
+    {
+      "sentence": "She agreed to help on one condition: no questions asked.",
+      "style": "Collocational",
+      "translation": "她同意帮忙，只有一个条件：不许追问。",
+      "translated_word": "条件",
+      "display_order": 1
+    },
+    {
+      "sentence": "To be restless is not a weakness; it is the human condition.",
+      "style": "Philosophical",
+      "translation": "心有不安并非软弱，而是人之常情。",
+      "translated_word": "常情",
+      "display_order": 4
+    }
+  ]
+}

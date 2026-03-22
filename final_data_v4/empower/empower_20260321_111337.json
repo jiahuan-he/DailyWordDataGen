@@ -1,0 +1,39 @@
+{
+  "word": "empower",
+  "phonetic": "/ɪmˈpaʊər/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "授权；赋能；使有能力",
+  "examples": [
+    {
+      "sentence": "Education doesn't just inform; it empowers.",
+      "style": "Philosophical",
+      "translation": "教育不只是传递知识，更是赋予力量。",
+      "translated_word": "赋予力量",
+      "display_order": 3
+    },
+    {
+      "sentence": "The new policy empowers local communities to manage their own resources.",
+      "style": "Formal",
+      "translation": "新政策授权当地社区自主管理资源。",
+      "translated_word": "授权",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her words didn't rescue me; they empowered me to rescue myself.",
+      "style": "Inspirational",
+      "translation": "她的话没有拯救我，而是让我有了自救的力量。",
+      "translated_word": "力量",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother never learned to read, but she empowered every child in our village to dream bigger.",
+      "style": "Intimate",
+      "translation": "祖母一生不识字，却让村里每个孩子都敢做更大的梦。",
+      "translated_word": "敢",
+      "display_order": 4
+    }
+  ]
+}

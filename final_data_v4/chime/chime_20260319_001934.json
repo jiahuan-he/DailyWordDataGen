@@ -1,0 +1,40 @@
+{
+  "word": "chime",
+  "phonetic": "/tʃaɪm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "鸣响；敲响；附和",
+  "examples": [
+    {
+      "sentence": "The clock chimed midnight as the party fell silent.",
+      "style": "Contextual",
+      "translation": "时钟敲响午夜，派对陷入沉默。",
+      "translated_word": "敲响",
+      "display_order": 1
+    },
+    {
+      "sentence": "She chimed in before he could finish his thought.",
+      "style": "Collocational",
+      "translation": "他话音未落，她便插嘴进来。",
+      "translated_word": "插嘴",
+      "display_order": 4
+    },
+    {
+      "sentence": "Bells chimed through the morning fog, their notes dissolving into silver air.",
+      "style": "Poetic",
+      "translation": "钟声穿透晨雾，音符融入银白的空气。",
+      "translated_word": "钟声",
+      "display_order": 3
+    },
+    {
+      "sentence": "On Christmas morning, church bells chime, and my father opens the window to listen.",
+      "style": "Intimate",
+      "translation": "圣诞清晨，教堂钟声响起，父亲总会打开窗子聆听。",
+      "translated_word": "响起",
+      "display_order": 2
+    }
+  ]
+}

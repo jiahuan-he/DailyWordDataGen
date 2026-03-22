@@ -1,0 +1,40 @@
+{
+  "word": "epidemic",
+  "phonetic": "/ˌepɪˈdemɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "流行病；疫情；蔓延",
+  "examples": [
+    {
+      "sentence": "Schools closed across the city as the epidemic spread.",
+      "style": "Contextual",
+      "translation": "疫情蔓延，全城学校相继停课。",
+      "translated_word": "疫情",
+      "display_order": 1
+    },
+    {
+      "sentence": "The health ministry declared a national epidemic.",
+      "style": "Formal",
+      "translation": "卫生部宣布全国进入疫情状态。",
+      "translated_word": "疫情",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every epidemic reveals who we are willing to protect.",
+      "style": "Philosophical",
+      "translation": "每一场疫情都在揭示，我们愿意守护的究竟是谁。",
+      "translated_word": "疫情",
+      "display_order": 3
+    },
+    {
+      "sentence": "Loneliness has reached epidemic proportions in modern cities.",
+      "style": "Collocational",
+      "translation": "孤独已在现代都市中大面积蔓延。",
+      "translated_word": "蔓延",
+      "display_order": 4
+    }
+  ]
+}

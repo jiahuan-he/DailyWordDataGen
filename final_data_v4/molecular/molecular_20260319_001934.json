@@ -1,0 +1,40 @@
+{
+  "word": "molecular",
+  "phonetic": "/məˈlekjələr/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "分子的；微观的",
+  "examples": [
+    {
+      "sentence": "The lab examined the molecular structure of the protein.",
+      "style": "Contextual",
+      "translation": "实验室检测了这种蛋白质的分子结构。",
+      "translated_word": "分子",
+      "display_order": 1
+    },
+    {
+      "sentence": "Breakthroughs in molecular medicine are redefining cancer therapy.",
+      "style": "Formal",
+      "translation": "分子医学的突破正在重新定义癌症疗法。",
+      "translated_word": "分子",
+      "display_order": 3
+    },
+    {
+      "sentence": "She spent a decade in molecular biology before switching to biotech.",
+      "style": "Collocational",
+      "translation": "她在分子生物学领域深耕十年，后转投生物科技。",
+      "translated_word": "分子",
+      "display_order": 2
+    },
+    {
+      "sentence": "At the molecular level, you and the stars share the same alphabet.",
+      "style": "Philosophical",
+      "translation": "在分子层面，你与星辰使用同一套字母表。",
+      "translated_word": "分子",
+      "display_order": 4
+    }
+  ]
+}

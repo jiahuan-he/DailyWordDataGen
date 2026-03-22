@@ -1,0 +1,39 @@
+{
+  "word": "decor",
+  "phonetic": "/deɪˈkɔːr/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "装饰；布置；装潢",
+  "examples": [
+    {
+      "sentence": "The cafe's vintage decor transported guests to 1920s Paris.",
+      "style": "Contextual",
+      "translation": "咖啡馆的复古装饰，将客人带回了二十年代的巴黎。",
+      "translated_word": "装饰",
+      "display_order": 1
+    },
+    {
+      "sentence": "She spent Sunday browsing home decor shops for the perfect lamp.",
+      "style": "Collocational",
+      "translation": "她周日逛了一整天家居店，只为寻找一盏合适的灯。",
+      "translated_word": "家居",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother's decor never changed: the same lace curtains, the same porcelain cats.",
+      "style": "Intimate",
+      "translation": "外婆家的布置从未变过：同样的蕾丝窗帘，同样的瓷猫。",
+      "translated_word": "布置",
+      "display_order": 2
+    },
+    {
+      "sentence": "Autumn leaves pressed against the window became nature's decor.",
+      "style": "Poetic",
+      "translation": "秋叶贴在窗上，成了大自然的装饰。",
+      "translated_word": "装饰",
+      "display_order": 4
+    }
+  ]
+}

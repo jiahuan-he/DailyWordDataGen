@@ -1,0 +1,40 @@
+{
+  "word": "van",
+  "phonetic": "/væn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "货车；面包车；厢式车",
+  "examples": [
+    {
+      "sentence": "The delivery van arrived just as we ran out of stock.",
+      "style": "Contextual",
+      "translation": "送货车刚好在库存告罄时抵达。",
+      "translated_word": "货车",
+      "display_order": 3
+    },
+    {
+      "sentence": "We rented a moving van and left the city before dawn.",
+      "style": "Collocational",
+      "translation": "我们租了辆搬家货车，天未亮便离开了这座城市。",
+      "translated_word": "货车",
+      "display_order": 1
+    },
+    {
+      "sentence": "That rusty van carried everything we owned to our first apartment.",
+      "style": "Intimate",
+      "translation": "那辆锈迹斑斑的货车，载着我们全部家当驶向第一间公寓。",
+      "translated_word": "货车",
+      "display_order": 2
+    },
+    {
+      "sentence": "The city has introduced electric vans to reduce emissions in residential areas.",
+      "style": "Formal",
+      "translation": "该市已引进电动货车，以减少居民区的尾气排放。",
+      "translated_word": "货车",
+      "display_order": 4
+    }
+  ]
+}

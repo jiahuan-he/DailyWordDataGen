@@ -1,0 +1,40 @@
+{
+  "word": "bug",
+  "phonetic": "/bʌɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "虫子；漏洞；小毛病",
+  "examples": [
+    {
+      "sentence": "A small bug crawled across the windowsill in the afternoon light.",
+      "style": "Contextual",
+      "translation": "午后的光线里，一只小虫爬过窗台。",
+      "translated_word": "小虫",
+      "display_order": 1
+    },
+    {
+      "sentence": "The team worked overnight to fix the bug before launch.",
+      "style": "Collocational",
+      "translation": "团队通宵工作，赶在发布前修复了这个漏洞。",
+      "translated_word": "漏洞",
+      "display_order": 3
+    },
+    {
+      "sentence": "A single bug in the code led to millions in losses.",
+      "style": "Formal",
+      "translation": "代码中的一个漏洞造成了数百万的损失。",
+      "translated_word": "漏洞",
+      "display_order": 4
+    },
+    {
+      "sentence": "My daughter caught a bug and stayed home, wrapped in her favorite blanket.",
+      "style": "Intimate",
+      "translation": "女儿染了点小病，裹着她最爱的毯子待在家里。",
+      "translated_word": "小病",
+      "display_order": 2
+    }
+  ]
+}

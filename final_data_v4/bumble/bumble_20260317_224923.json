@@ -1,0 +1,40 @@
+{
+  "word": "bumble",
+  "phonetic": "/ˈbʌm.bəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "笨拙地行动；结结巴巴；弄糟",
+  "examples": [
+    {
+      "sentence": "He bumbled through the speech, losing his place twice.",
+      "style": "Contextual",
+      "translation": "他磕磕绊绊地念完演讲稿，中间两次忘词。",
+      "translated_word": "磕磕绊绊",
+      "display_order": 1
+    },
+    {
+      "sentence": "On my first day, I bumbled around the office searching for the printer.",
+      "style": "Intimate",
+      "translation": "入职第一天，我在办公室里转来转去，到处找打印机。",
+      "translated_word": "转来转去",
+      "display_order": 3
+    },
+    {
+      "sentence": "She bumbled her words whenever he walked by.",
+      "style": "Collocational",
+      "translation": "每次他经过，她说话就变得语无伦次。",
+      "translated_word": "语无伦次",
+      "display_order": 2
+    },
+    {
+      "sentence": "The bee bumbled from bloom to bloom, heavy with pollen and sunlight.",
+      "style": "Poetic",
+      "translation": "蜜蜂嗡嗡地穿梭于花丛间，身上沾满花粉与阳光。",
+      "translated_word": "嗡嗡地",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "soot",
+  "phonetic": "/sʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "煤烟；烟灰；黑灰",
+  "examples": [
+    {
+      "sentence": "After the fire, soot coated every wall and window.",
+      "style": "Contextual",
+      "translation": "大火过后，每面墙壁和窗户都覆着一层煤灰。",
+      "translated_word": "煤灰",
+      "display_order": 1
+    },
+    {
+      "sentence": "His face was streaked with soot from the chimney.",
+      "style": "Collocational",
+      "translation": "清扫烟囱后，他的脸上沾满了煤灰。",
+      "translated_word": "煤灰",
+      "display_order": 2
+    },
+    {
+      "sentence": "Soot clings to the bricks: proof of vanished flames.",
+      "style": "Poetic",
+      "translation": "煤烟附于砖上，是消逝火焰的痕迹。",
+      "translated_word": "煤烟",
+      "display_order": 4
+    },
+    {
+      "sentence": "Grandma's kitchen ceiling was always dark with soot; I loved it that way.",
+      "style": "Intimate",
+      "translation": "外婆厨房的天花板总被熏得发黑；我却偏爱那样。",
+      "translated_word": "熏",
+      "display_order": 3
+    }
+  ]
+}

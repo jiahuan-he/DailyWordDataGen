@@ -1,0 +1,40 @@
+{
+  "word": "guarantee",
+  "phonetic": "/ˌɡærənˈtiː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "保证；担保；确保",
+  "examples": [
+    {
+      "sentence": "We guarantee same-day delivery for all local orders.",
+      "style": "Contextual",
+      "translation": "本地订单均可保证当日送达。",
+      "translated_word": "保证",
+      "display_order": 1
+    },
+    {
+      "sentence": "The contract guarantees exclusive rights to the publisher for five years.",
+      "style": "Formal",
+      "translation": "合同保证出版商享有五年独家版权。",
+      "translated_word": "保证",
+      "display_order": 2
+    },
+    {
+      "sentence": "Effort does not guarantee success, but it guarantees you tried.",
+      "style": "Philosophical",
+      "translation": "努力不保证成功，但保证你曾尝试。",
+      "translated_word": "保证",
+      "display_order": 3
+    },
+    {
+      "sentence": "She guaranteed nothing except her presence when it mattered.",
+      "style": "Intimate",
+      "translation": "她不曾许下什么，只确保在关键时刻陪伴左右。",
+      "translated_word": "确保",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "snack",
+  "phonetic": "/snæk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "零食；小吃；点心",
+  "examples": [
+    {
+      "sentence": "She packed some snacks for the road trip.",
+      "style": "Contextual",
+      "translation": "她为公路旅行准备了一些零食。",
+      "translated_word": "零食",
+      "display_order": 1
+    },
+    {
+      "sentence": "A midnight snack became our shared ritual.",
+      "style": "Collocational",
+      "translation": "深夜的小吃成了我们共同的仪式。",
+      "translated_word": "小吃",
+      "display_order": 3
+    },
+    {
+      "sentence": "Grandma always had a snack ready when I came home.",
+      "style": "Intimate",
+      "translation": "每次回家，外婆总备好一份点心等我。",
+      "translated_word": "点心",
+      "display_order": 2
+    },
+    {
+      "sentence": "The simplest snack can feel like a feast when shared.",
+      "style": "Philosophical",
+      "translation": "最简单的零食，分享时也能胜过盛宴。",
+      "translated_word": "零食",
+      "display_order": 4
+    }
+  ]
+}

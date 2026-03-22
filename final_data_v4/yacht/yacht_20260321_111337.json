@@ -1,0 +1,40 @@
+{
+  "word": "yacht",
+  "phonetic": "/jɑːt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "游艇；帆船",
+  "examples": [
+    {
+      "sentence": "They chartered a yacht for their honeymoon along the coast.",
+      "style": "Contextual",
+      "translation": "他们租了一艘游艇，沿着海岸线度蜜月。",
+      "translated_word": "游艇",
+      "display_order": 1
+    },
+    {
+      "sentence": "A distant yacht caught the last gold of sunset.",
+      "style": "Poetic",
+      "translation": "远处的游艇染上了夕阳最后一缕金辉。",
+      "translated_word": "游艇",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some spend their lives building yachts they never sail.",
+      "style": "Philosophical",
+      "translation": "有些人穷尽一生建造游艇，却从未扬帆起航。",
+      "translated_word": "游艇",
+      "display_order": 3
+    },
+    {
+      "sentence": "The yacht club by the bay hosts regattas every summer.",
+      "style": "Collocational",
+      "translation": "海湾边的游艇俱乐部每年夏天都会举办帆船赛。",
+      "translated_word": "游艇",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "proper",
+  "phonetic": "/ˈprɑːpər/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "适当的；正确的；真正的；得体的",
+  "examples": [
+    {
+      "sentence": "Without proper alignment, the door won't close.",
+      "style": "Contextual",
+      "translation": "门框若未校准，门便合不上。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "With proper care, leather ages beautifully.",
+      "style": "Collocational",
+      "translation": "精心保养之下，皮革愈旧愈美。",
+      "translated_word": "精心",
+      "display_order": 3
+    },
+    {
+      "sentence": "A quick patch is not the same as a proper repair.",
+      "style": "Contrastive",
+      "translation": "草草修补，终究不是真正的修复。",
+      "translated_word": "真正的",
+      "display_order": 2
+    },
+    {
+      "sentence": "That was the first proper conversation we'd had in years.",
+      "style": "Intimate",
+      "translation": "那是我们多年来第一次真正的对话。",
+      "translated_word": "真正的",
+      "display_order": 1
+    }
+  ]
+}

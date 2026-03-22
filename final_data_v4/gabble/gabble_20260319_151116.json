@@ -1,0 +1,40 @@
+{
+  "word": "gabble",
+  "phonetic": "/ˈɡæb.əl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "急促含糊地说；语无伦次地讲；喋喋不休",
+  "examples": [
+    {
+      "sentence": "The toddler gabbled excitedly, pointing at every passing dog.",
+      "style": "Contextual",
+      "translation": "小孩兴奋地咿咿呀呀，指着每一只路过的狗。",
+      "translated_word": "咿咿呀呀",
+      "display_order": 2
+    },
+    {
+      "sentence": "She gabbled on nervously, filling every pause with words.",
+      "style": "Collocational",
+      "translation": "她紧张地喋喋不休，用话语填满每一处停顿。",
+      "translated_word": "喋喋不休",
+      "display_order": 1
+    },
+    {
+      "sentence": "My nerves took over at the interview; I gabbled through answers I had rehearsed perfectly.",
+      "style": "Intimate",
+      "translation": "面试时紧张攫住了我，排练好的答案讲得语无伦次。",
+      "translated_word": "语无伦次",
+      "display_order": 3
+    },
+    {
+      "sentence": "Tourists gabbled in a dozen tongues, the piazza humming with foreign syllables.",
+      "style": "Poetic",
+      "translation": "游客们用十几种语言急促交谈，广场上回荡着异国音节的嗡鸣。",
+      "translated_word": "急促交谈",
+      "display_order": 4
+    }
+  ]
+}

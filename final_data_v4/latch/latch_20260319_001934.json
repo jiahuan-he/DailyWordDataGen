@@ -1,0 +1,40 @@
+{
+  "word": "latch",
+  "phonetic": "/lætʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "门闩；插销；弹簧锁",
+  "examples": [
+    {
+      "sentence": "The garden gate wouldn't stay shut; its old latch had rusted through.",
+      "style": "Contextual",
+      "translation": "花园的门总是关不住；老旧的门闩早已锈透了。",
+      "translated_word": "门闩",
+      "display_order": 2
+    },
+    {
+      "sentence": "She lifted the latch quietly, not wanting to wake the house.",
+      "style": "Collocational",
+      "translation": "她轻轻拨开门闩，不想惊醒屋里的人。",
+      "translated_word": "门闩",
+      "display_order": 1
+    },
+    {
+      "sentence": "Behind every latch lies a room that remembers.",
+      "style": "Poetic",
+      "translation": "每一道门闩之后，都有一间铭记往事的房间。",
+      "translated_word": "门闩",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's back door had a brass latch worn smooth by decades of hands.",
+      "style": "Intimate",
+      "translation": "外婆家后门的铜闩，被几十年来往的手摩挲得光滑如镜。",
+      "translated_word": "闩",
+      "display_order": 3
+    }
+  ]
+}

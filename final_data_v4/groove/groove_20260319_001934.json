@@ -1,0 +1,40 @@
+{
+  "word": "groove",
+  "phonetic": "/ɡruːv/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "凹槽；节奏；状态",
+  "examples": [
+    {
+      "sentence": "The needle dropped into the groove, and music filled the room.",
+      "style": "Contextual",
+      "translation": "唱针落入纹槽，音乐随即盈满房间。",
+      "translated_word": "纹槽",
+      "display_order": 1
+    },
+    {
+      "sentence": "Once she found her groove, the words came easily.",
+      "style": "Collocational",
+      "translation": "一旦找到状态，文字便如泉涌。",
+      "translated_word": "状态",
+      "display_order": 2
+    },
+    {
+      "sentence": "Coffee at dawn, pages by noon: this is my groove now.",
+      "style": "Intimate",
+      "translation": "晨曦中的咖啡，午后的书稿：这便是我的节奏。",
+      "translated_word": "节奏",
+      "display_order": 3
+    },
+    {
+      "sentence": "Trust the process; the groove will find you.",
+      "style": "Inspirational",
+      "translation": "相信过程，状态自会到来。",
+      "translated_word": "状态",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "ritzy",
+  "phonetic": "/ˈrɪtsi/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "奢华的；高档的；时髦的",
+  "examples": [
+    {
+      "sentence": "The lobby glittered with chandeliers and marble; we had wandered somewhere ritzy.",
+      "style": "Contextual",
+      "translation": "大堂里水晶灯璀璨，大理石闪耀；我们误入了某处奢华之地。",
+      "translated_word": "奢华",
+      "display_order": 3
+    },
+    {
+      "sentence": "She booked us a table at that ritzy new restaurant downtown.",
+      "style": "Collocational",
+      "translation": "她在市中心那家新开的高档餐厅给我们订了位。",
+      "translated_word": "高档",
+      "display_order": 1
+    },
+    {
+      "sentence": "We traded our usual diner booth for a ritzy place with cloth napkins.",
+      "style": "Contrastive",
+      "translation": "我们放弃了常去的小餐馆卡座，换成一家有布餐巾的高档餐厅。",
+      "translated_word": "高档",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother's pearls made me feel ritzy enough to belong anywhere.",
+      "style": "Intimate",
+      "translation": "戴上祖母的珍珠项链，我觉得自己足够优雅，可以出入任何场合。",
+      "translated_word": "优雅",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "shove",
+  "phonetic": "/ʃʌv/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "猛推；塞；挤",
+  "examples": [
+    {
+      "sentence": "The crowd surged, and someone shoved me toward the exit.",
+      "style": "Contextual",
+      "translation": "人群涌动，有人把我推向出口。",
+      "translated_word": "推",
+      "display_order": 2
+    },
+    {
+      "sentence": "He shoved his hands into his pockets and walked away.",
+      "style": "Collocational",
+      "translation": "他把手插进口袋，转身离开。",
+      "translated_word": "插进",
+      "display_order": 3
+    },
+    {
+      "sentence": "My brother used to shove me into the pool every summer.",
+      "style": "Intimate",
+      "translation": "小时候每个夏天，哥哥都会把我推进泳池。",
+      "translated_word": "推",
+      "display_order": 1
+    },
+    {
+      "sentence": "Ambition shoves us forward; fear shoves us back.",
+      "style": "Philosophical",
+      "translation": "野心推我们向前，恐惧又将我们推回原处。",
+      "translated_word": "推",
+      "display_order": 4
+    }
+  ]
+}

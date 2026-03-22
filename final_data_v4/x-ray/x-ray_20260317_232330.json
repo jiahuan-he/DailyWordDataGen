@@ -1,0 +1,40 @@
+{
+  "word": "x-ray",
+  "phonetic": "/ˈeks.reɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "X射线；X光片；透视检查",
+  "examples": [
+    {
+      "sentence": "The doctor held the x-ray up to the light, searching for the fracture.",
+      "style": "Contextual",
+      "translation": "医生将X光片举向灯光，寻找骨折的痕迹。",
+      "translated_word": "X光片",
+      "display_order": 1
+    },
+    {
+      "sentence": "Airport x-rays detected the prohibited items concealed in the luggage.",
+      "style": "Formal",
+      "translation": "机场X光检测发现了行李中藏匿的违禁物品。",
+      "translated_word": "X光",
+      "display_order": 2
+    },
+    {
+      "sentence": "A routine chest x-ray can catch what symptoms have not yet whispered.",
+      "style": "Collocational",
+      "translation": "一张常规胸片，能捕捉到症状尚未低语的隐患。",
+      "translated_word": "胸片",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some people are x-rays: they see through you before you speak.",
+      "style": "Philosophical",
+      "translation": "有些人如同X光：未等你开口，便已将你看透。",
+      "translated_word": "X光",
+      "display_order": 4
+    }
+  ]
+}

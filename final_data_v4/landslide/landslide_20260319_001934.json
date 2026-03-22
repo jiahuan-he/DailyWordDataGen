@@ -1,0 +1,40 @@
+{
+  "word": "landslide",
+  "phonetic": "/ˈlændslaɪd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "山崩；滑坡；压倒性胜利",
+  "examples": [
+    {
+      "sentence": "Heavy rains loosened the hillside, and by morning, a landslide had buried the road.",
+      "style": "Contextual",
+      "translation": "连日暴雨松动了山坡，清晨时分，山崩已将道路掩埋。",
+      "translated_word": "山崩",
+      "display_order": 1
+    },
+    {
+      "sentence": "The incumbent secured a landslide, winning 72% of the vote.",
+      "style": "Formal",
+      "translation": "现任者以压倒性优势获胜，赢得七成二选票。",
+      "translated_word": "压倒性优势",
+      "display_order": 3
+    },
+    {
+      "sentence": "Deforestation triggered a landslide that displaced thousands.",
+      "style": "Collocational",
+      "translation": "滥伐森林引发滑坡，数千人流离失所。",
+      "translated_word": "滑坡",
+      "display_order": 2
+    },
+    {
+      "sentence": "The mountain exhaled; a landslide erased what took a century to build.",
+      "style": "Poetic",
+      "translation": "山峦一声叹息，滑坡便抹去了百年营建。",
+      "translated_word": "滑坡",
+      "display_order": 4
+    }
+  ]
+}

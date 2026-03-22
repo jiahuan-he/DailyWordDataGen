@@ -1,0 +1,39 @@
+{
+  "word": "pasta",
+  "phonetic": "/ˈpɑːstə/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "意大利面；意式面食",
+  "examples": [
+    {
+      "sentence": "The kitchen filled with steam as she drained the pasta.",
+      "style": "Contextual",
+      "translation": "厨房里蒸汽弥漫，她正将意面沥干。",
+      "translated_word": "意面",
+      "display_order": 2
+    },
+    {
+      "sentence": "Fresh pasta pairs beautifully with olive oil and garlic.",
+      "style": "Collocational",
+      "translation": "新鲜意面配上橄榄油和蒜末，便是绝配。",
+      "translated_word": "意面",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every Sunday, my nonna made pasta from scratch; that ritual shaped my childhood.",
+      "style": "Intimate",
+      "translation": "每个周日，外婆都会亲手做意面；这仪式塑造了我的童年。",
+      "translated_word": "意面",
+      "display_order": 3
+    },
+    {
+      "sentence": "Ribbons of pasta glistened under the lamplight, soft and golden.",
+      "style": "Poetic",
+      "translation": "灯光下，意面如丝带般闪烁，柔软而金黄。",
+      "translated_word": "意面",
+      "display_order": 4
+    }
+  ]
+}

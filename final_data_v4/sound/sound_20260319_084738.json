@@ -1,0 +1,43 @@
+{
+  "word": "sound",
+  "phonetic": "/saʊnd/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "声音；声响；音",
+  "examples": [
+    {
+      "sentence": "The sound of rain against the window helped her fall asleep.",
+      "style": "Contextual",
+      "translation": "雨滴敲打窗户的声音让她安然入睡。",
+      "translated_word": "声音",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every city has its own sound: a heartbeat only locals recognize.",
+      "style": "Poetic",
+      "translation": "每座城市都有独特的声音：一种只有本地人才能辨认的心跳。",
+      "translated_word": "声音",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather's laughter is the sound I miss most.",
+      "style": "Intimate",
+      "translation": "外公的笑声是我最怀念的声音。",
+      "translated_word": "声音",
+      "display_order": 2
+    },
+    {
+      "sentence": "Silence is not the absence of sound; it is the presence of attention.",
+      "style": "Philosophical",
+      "translation": "寂静并非声音的缺失，而是专注的开始。",
+      "translated_word": "声音",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "staff",
+  "phonetic": "/stæf/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "员工；职员；全体人员",
+  "examples": [
+    {
+      "sentence": "The café runs smoothly because its staff genuinely cares.",
+      "style": "Contextual",
+      "translation": "这家咖啡馆运转顺畅，因为员工们是真心在意。",
+      "translated_word": "员工们",
+      "display_order": 3
+    },
+    {
+      "sentence": "Hospital staff worked double shifts throughout the crisis.",
+      "style": "Formal",
+      "translation": "危机期间，医院全体人员连轴倒班工作。",
+      "translated_word": "人员",
+      "display_order": 2
+    },
+    {
+      "sentence": "A single staff member can shift the entire mood of a store.",
+      "style": "Philosophical",
+      "translation": "一位员工，便能改变整间店铺的气场。",
+      "translated_word": "员工",
+      "display_order": 4
+    },
+    {
+      "sentence": "The hotel prides itself on friendly, attentive staff.",
+      "style": "Collocational",
+      "translation": "这家酒店以热情周到的员工为荣。",
+      "translated_word": "员工",
+      "display_order": 1
+    }
+  ]
+}

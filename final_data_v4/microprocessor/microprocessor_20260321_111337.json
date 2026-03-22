@@ -1,0 +1,39 @@
+{
+  "word": "microprocessor",
+  "phonetic": "/ˌmaɪkroʊˈprɑːsesər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "微处理器；芯片",
+  "examples": [
+    {
+      "sentence": "The laptop wouldn't boot; a faulty microprocessor was to blame.",
+      "style": "Contextual",
+      "translation": "笔记本无法启动，问题出在微处理器上。",
+      "translated_word": "微处理器",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new microprocessor delivers a 40% gain in energy efficiency.",
+      "style": "Formal",
+      "translation": "新款微处理器的能效提升了40%。",
+      "translated_word": "微处理器",
+      "display_order": 3
+    },
+    {
+      "sentence": "Engineers refined the microprocessor architecture for three generations.",
+      "style": "Collocational",
+      "translation": "工程师们历经三代，不断优化微处理器架构。",
+      "translated_word": "微处理器",
+      "display_order": 4
+    },
+    {
+      "sentence": "A single microprocessor now holds more power than a room-sized computer once did.",
+      "style": "Contrastive",
+      "translation": "如今一枚微处理器的算力，已超越当年一整间房的计算机。",
+      "translated_word": "微处理器",
+      "display_order": 2
+    }
+  ]
+}

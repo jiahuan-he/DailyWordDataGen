@@ -1,0 +1,40 @@
+{
+  "word": "tremble",
+  "phonetic": "/ˈtrembl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "发抖；颤抖；战栗",
+  "examples": [
+    {
+      "sentence": "His hands trembled as he opened the envelope.",
+      "style": "Contextual",
+      "translation": "他拆开信封时，双手颤抖。",
+      "translated_word": "颤抖",
+      "display_order": 1
+    },
+    {
+      "sentence": "The candlelight trembled against the old stone walls.",
+      "style": "Poetic",
+      "translation": "烛光在古老的石墙上轻轻摇曳。",
+      "translated_word": "摇曳",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her voice trembled, but she kept speaking.",
+      "style": "Intimate",
+      "translation": "她声音发颤，却没有停下。",
+      "translated_word": "发颤",
+      "display_order": 2
+    },
+    {
+      "sentence": "We tremble not because we are weak, but because we care.",
+      "style": "Philosophical",
+      "translation": "我们颤抖，不是因为软弱，而是因为在乎。",
+      "translated_word": "颤抖",
+      "display_order": 4
+    }
+  ]
+}

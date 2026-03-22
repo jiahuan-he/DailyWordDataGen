@@ -1,0 +1,39 @@
+{
+  "word": "locally",
+  "phonetic": "/ˈloʊkəli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "在本地；在当地；就近",
+  "examples": [
+    {
+      "sentence": "These tomatoes are grown locally, picked fresh each morning.",
+      "style": "Contextual",
+      "translation": "这些番茄是本地种植的，每天清晨现摘。",
+      "translated_word": "本地",
+      "display_order": 1
+    },
+    {
+      "sentence": "She prefers to shop locally; the farmers market is her weekend ritual.",
+      "style": "Collocational",
+      "translation": "她喜欢就近购物；逛农贸市场是她周末的固定仪式。",
+      "translated_word": "就近",
+      "display_order": 2
+    },
+    {
+      "sentence": "The new policy encourages manufacturers to source materials locally.",
+      "style": "Formal",
+      "translation": "新政策鼓励制造商在本地采购原材料。",
+      "translated_word": "本地",
+      "display_order": 3
+    },
+    {
+      "sentence": "After years of wandering, I wanted nothing more than to belong somewhere locally.",
+      "style": "Intimate",
+      "translation": "漂泊多年后，我只想在一个地方扎下根来。",
+      "translated_word": "一个地方",
+      "display_order": 4
+    }
+  ]
+}

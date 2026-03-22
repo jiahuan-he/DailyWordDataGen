@@ -1,0 +1,39 @@
+{
+  "word": "album",
+  "phonetic": "/ˈælbəm/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "相册；专辑；纪念册",
+  "examples": [
+    {
+      "sentence": "Her debut album topped the charts within days.",
+      "style": "Contextual",
+      "translation": "她的首张专辑在数日内登顶榜首。",
+      "translated_word": "专辑",
+      "display_order": 2
+    },
+    {
+      "sentence": "We flipped through the old photo album until sunset.",
+      "style": "Collocational",
+      "translation": "我们翻着那本老相册，直到日落。",
+      "translated_word": "相册",
+      "display_order": 1
+    },
+    {
+      "sentence": "That album was the soundtrack to my first summer alone.",
+      "style": "Intimate",
+      "translation": "那张专辑是我第一个独处夏天的配乐。",
+      "translated_word": "专辑",
+      "display_order": 3
+    },
+    {
+      "sentence": "Each page of the album holds a door to a vanished afternoon.",
+      "style": "Poetic",
+      "translation": "相册的每一页，都藏着一扇通往消逝午后的门。",
+      "translated_word": "相册",
+      "display_order": 4
+    }
+  ]
+}

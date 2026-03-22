@@ -1,0 +1,40 @@
+{
+  "word": "raise",
+  "phonetic": "/reɪz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "举起；提高；养育；筹集",
+  "examples": [
+    {
+      "sentence": "She raised her glass to the setting sun.",
+      "style": "Contextual",
+      "translation": "她举起酒杯，向落日致意。",
+      "translated_word": "举起",
+      "display_order": 1
+    },
+    {
+      "sentence": "The report raised serious concerns about data privacy.",
+      "style": "Formal",
+      "translation": "该报告引发了对数据隐私的严重担忧。",
+      "translated_word": "引发",
+      "display_order": 3
+    },
+    {
+      "sentence": "A single question can raise the bar for an entire conversation.",
+      "style": "Collocational",
+      "translation": "一个问题，便能抬高整场对话的门槛。",
+      "translated_word": "抬高",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father raised me on old jazz records and Sunday morning pancakes.",
+      "style": "Intimate",
+      "translation": "父亲用老爵士唱片和周日早晨的煎饼，将我养大。",
+      "translated_word": "养大",
+      "display_order": 2
+    }
+  ]
+}

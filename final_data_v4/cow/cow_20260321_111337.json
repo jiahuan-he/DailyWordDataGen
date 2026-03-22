@@ -1,0 +1,40 @@
+{
+  "word": "cow",
+  "phonetic": "/kaʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "母牛；奶牛",
+  "examples": [
+    {
+      "sentence": "The cows grazed quietly as the morning mist lifted from the valley.",
+      "style": "Contextual",
+      "translation": "晨雾从山谷散去，牛群静静地吃着草。",
+      "translated_word": "牛群",
+      "display_order": 1
+    },
+    {
+      "sentence": "A dairy cow can produce over six gallons of milk a day.",
+      "style": "Collocational",
+      "translation": "一头奶牛每天可产出六加仑以上的牛奶。",
+      "translated_word": "奶牛",
+      "display_order": 3
+    },
+    {
+      "sentence": "Bronze bells chime softly where the cows wander home at dusk.",
+      "style": "Poetic",
+      "translation": "暮色四合，铜铃声随牛群归来。",
+      "translated_word": "牛群",
+      "display_order": 4
+    },
+    {
+      "sentence": "Grandpa's old cow knew the path to the barn by heart.",
+      "style": "Intimate",
+      "translation": "爷爷那头老牛早已熟记回牛棚的路。",
+      "translated_word": "老牛",
+      "display_order": 2
+    }
+  ]
+}

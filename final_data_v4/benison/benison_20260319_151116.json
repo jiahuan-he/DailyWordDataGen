@@ -1,0 +1,39 @@
+{
+  "word": "benison",
+  "phonetic": "/ˈbenɪzən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "祝福；恩赐；祝祷",
+  "examples": [
+    {
+      "sentence": "Rain after drought is a benison no farmer forgets.",
+      "style": "Poetic",
+      "translation": "久旱之后的甘霖，是农人铭记一生的恩赐。",
+      "translated_word": "恩赐",
+      "display_order": 2
+    },
+    {
+      "sentence": "The priest murmured a final benison over the newborn.",
+      "style": "Formal",
+      "translation": "神父低声为新生儿送上最后的祝祷。",
+      "translated_word": "祝祷",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some call solitude a curse; others, a benison.",
+      "style": "Philosophical",
+      "translation": "有人视孤独为诅咒，有人视之为祝福。",
+      "translated_word": "祝福",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her quiet words at my bedside felt like a benison I never knew I needed.",
+      "style": "Intimate",
+      "translation": "她在床边轻声说的那些话，是我从未意识到自己需要的祝福。",
+      "translated_word": "祝福",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "career",
+  "phonetic": "/kəˈrɪr/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "职业；事业；生涯",
+  "examples": [
+    {
+      "sentence": "She built a career in medicine over thirty quiet years.",
+      "style": "Contextual",
+      "translation": "她用三十年光阴，在医学领域默默耕耘出一番事业。",
+      "translated_word": "事业",
+      "display_order": 1
+    },
+    {
+      "sentence": "A career change at forty felt like jumping without a net.",
+      "style": "Collocational",
+      "translation": "四十岁转行，像是纵身跃入无网的深渊。",
+      "translated_word": "行",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some chase a career; others let it find them.",
+      "style": "Philosophical",
+      "translation": "有人追逐事业，有人静待事业寻上门来。",
+      "translated_word": "事业",
+      "display_order": 3
+    },
+    {
+      "sentence": "Your career is not a ladder; it is a story you write.",
+      "style": "Inspirational",
+      "translation": "职业生涯不是一架梯子，而是一部由你执笔的故事。",
+      "translated_word": "职业生涯",
+      "display_order": 4
+    }
+  ]
+}

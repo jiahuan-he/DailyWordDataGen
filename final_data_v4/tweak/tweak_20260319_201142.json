@@ -1,0 +1,40 @@
+{
+  "word": "tweak",
+  "phonetic": "/twiːk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "微调；调整；轻捏",
+  "examples": [
+    {
+      "sentence": "The photo looked dull until she tweaked the contrast.",
+      "style": "Contextual",
+      "translation": "照片原本黯淡无光，她稍微调了调对比度，便焕然一新。",
+      "translated_word": "调了调",
+      "display_order": 1
+    },
+    {
+      "sentence": "Engineers tweaked the algorithm to reduce latency by forty percent.",
+      "style": "Formal",
+      "translation": "工程师对算法进行微调，将延迟降低了百分之四十。",
+      "translated_word": "微调",
+      "display_order": 3
+    },
+    {
+      "sentence": "She tweaked the seasoning, and the soup finally tasted like home.",
+      "style": "Collocational",
+      "translation": "她调了调味道，那锅汤终于有了家的味道。",
+      "translated_word": "调了调",
+      "display_order": 2
+    },
+    {
+      "sentence": "My father never followed recipes; he tweaked everything by instinct.",
+      "style": "Intimate",
+      "translation": "父亲做菜从不照本宣科，全凭直觉随手调整。",
+      "translated_word": "调整",
+      "display_order": 4
+    }
+  ]
+}

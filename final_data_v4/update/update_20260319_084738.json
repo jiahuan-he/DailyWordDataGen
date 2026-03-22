@@ -1,0 +1,40 @@
+{
+  "word": "update",
+  "phonetic": "/ʌpˈdeɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "更新；升级；告知进展",
+  "examples": [
+    {
+      "sentence": "The app wouldn't open until I agreed to update.",
+      "style": "Contextual",
+      "translation": "应用提示更新后才能继续使用。",
+      "translated_word": "更新",
+      "display_order": 3
+    },
+    {
+      "sentence": "Officials will update the public once results are confirmed.",
+      "style": "Formal",
+      "translation": "结果确认后，官方将向公众发布最新通报。",
+      "translated_word": "通报",
+      "display_order": 4
+    },
+    {
+      "sentence": "He updates his resume after every major project.",
+      "style": "Collocational",
+      "translation": "每完成一个重要项目，他都会更新简历。",
+      "translated_word": "更新",
+      "display_order": 1
+    },
+    {
+      "sentence": "She promised to update me the moment she landed.",
+      "style": "Intimate",
+      "translation": "她答应我，落地后第一时间报平安。",
+      "translated_word": "报平安",
+      "display_order": 2
+    }
+  ]
+}

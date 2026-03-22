@@ -1,0 +1,40 @@
+{
+  "word": "hay",
+  "phonetic": "/heɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "干草；牧草",
+  "examples": [
+    {
+      "sentence": "The barn smelled of fresh hay and leather.",
+      "style": "Contextual",
+      "translation": "谷仓里弥漫着新鲜干草和皮革的气息。",
+      "translated_word": "干草",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sunlight filtered through the hayloft, dusting gold over sleeping bales.",
+      "style": "Poetic",
+      "translation": "阳光透过草仓的缝隙洒落，为沉睡的草垛披上金色薄纱。",
+      "translated_word": "草",
+      "display_order": 4
+    },
+    {
+      "sentence": "We loaded hay bales onto the truck before the storm rolled in.",
+      "style": "Collocational",
+      "translation": "暴风雨来临前，我们把一捆捆干草装上了卡车。",
+      "translated_word": "干草",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every summer, we'd climb the hay stacks and watch the stars appear.",
+      "style": "Intimate",
+      "translation": "每年夏天，我们都会爬上草垛，看繁星渐次亮起。",
+      "translated_word": "草",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "uranium",
+  "phonetic": "/jʊˈreɪniəm/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "铀；铀元素",
+  "examples": [
+    {
+      "sentence": "The geiger counter spiked near the uranium deposit.",
+      "style": "Contextual",
+      "translation": "盖革计数器在铀矿床附近急剧攀升。",
+      "translated_word": "铀",
+      "display_order": 1
+    },
+    {
+      "sentence": "Inspectors confirmed the facility was enriching uranium beyond civilian limits.",
+      "style": "Formal",
+      "translation": "核查人员证实该设施的铀浓缩已超出民用标准。",
+      "translated_word": "铀",
+      "display_order": 2
+    },
+    {
+      "sentence": "Yellowcake uranium travels through a dozen borders before reaching a reactor.",
+      "style": "Collocational",
+      "translation": "黄饼铀在抵达反应堆前需跨越十余道国境。",
+      "translated_word": "铀",
+      "display_order": 3
+    },
+    {
+      "sentence": "Uranium holds a quiet truth: the smallest atom can level a city or light one for a century.",
+      "style": "Philosophical",
+      "translation": "铀蕴含着一个静默的真理：最微小的原子既能夷平一座城市，也能点亮它一个世纪。",
+      "translated_word": "铀",
+      "display_order": 4
+    }
+  ]
+}

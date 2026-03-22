@@ -1,0 +1,39 @@
+{
+  "word": "status",
+  "phonetic": "/ˈsteɪtəs/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "地位；身份；状态；情形",
+  "examples": [
+    {
+      "sentence": "The application is pending; we'll notify you once the status changes.",
+      "style": "Contextual",
+      "translation": "申请仍在审核中；状态一有变化，我们会立即通知您。",
+      "translated_word": "状态",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her employment status was disclosed only after the investigation concluded.",
+      "style": "Formal",
+      "translation": "调查结束后，她的雇佣状态才被正式公开。",
+      "translated_word": "状态",
+      "display_order": 2
+    },
+    {
+      "sentence": "We chase status, forgetting that respect is earned, not purchased.",
+      "style": "Philosophical",
+      "translation": "我们追逐地位，却忘了尊重从来不是买来的。",
+      "translated_word": "地位",
+      "display_order": 4
+    },
+    {
+      "sentence": "The watch was never about time; it was a status symbol.",
+      "style": "Collocational",
+      "translation": "那块表从来与时间无关；它是身份的象征。",
+      "translated_word": "身份",
+      "display_order": 3
+    }
+  ]
+}

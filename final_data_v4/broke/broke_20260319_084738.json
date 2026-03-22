@@ -1,0 +1,41 @@
+{
+  "word": "broke",
+  "phonetic": "/broʊk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "身无分文；破产的；穷困的",
+  "examples": [
+    {
+      "sentence": "After rent and groceries, I'm broke until payday.",
+      "style": "Contextual",
+      "translation": "付完房租和日用，我到发薪日前都身无分文了。",
+      "translated_word": "身无分文",
+      "display_order": 1
+    },
+    {
+      "sentence": "The restaurant went broke during the pandemic.",
+      "style": "Collocational",
+      "translation": "那家餐厅在疫情期间破产了。",
+      "translated_word": "破产",
+      "display_order": 3
+    },
+    {
+      "sentence": "Those broke college years taught me which friends were real.",
+      "style": "Intimate",
+      "translation": "那些穷困的大学时光让我看清了谁是真正的朋友。",
+      "translated_word": "穷困",
+      "display_order": 2
+    },
+    {
+      "sentence": "Being broke strips away everything except what matters.",
+      "style": "Philosophical",
+      "translation": "一贫如洗时，只剩下真正重要的东西。",
+      "translated_word": "一贫如洗",
+      "display_order": 4
+    }
+  ]
+}

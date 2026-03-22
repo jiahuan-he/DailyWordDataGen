@@ -1,0 +1,39 @@
+{
+  "word": "allusion",
+  "phonetic": "/əˈluːʒən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "暗指；影射；典故",
+  "examples": [
+    {
+      "sentence": "Her poem's allusion to Greek mythology added unexpected depth.",
+      "style": "Contextual",
+      "translation": "她诗中对希腊神话的暗指增添了意想不到的深度。",
+      "translated_word": "暗指",
+      "display_order": 1
+    },
+    {
+      "sentence": "The senator's remarks contained a pointed allusion to her predecessor's scandal.",
+      "style": "Formal",
+      "translation": "参议员的发言中含有对其前任丑闻的尖锐影射。",
+      "translated_word": "影射",
+      "display_order": 3
+    },
+    {
+      "sentence": "An allusion speaks twice: once in what it names, once in what it withholds.",
+      "style": "Philosophical",
+      "translation": "典故有双重言说：一次在于点明，一次在于留白。",
+      "translated_word": "典故",
+      "display_order": 4
+    },
+    {
+      "sentence": "He made a brief allusion to their shared past; she smiled knowingly.",
+      "style": "Collocational",
+      "translation": "他简短地暗指了他们共同的过去；她会心一笑。",
+      "translated_word": "暗指",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "flout",
+  "phonetic": "/flaʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "蔑视；公然违反；藐视",
+  "examples": [
+    {
+      "sentence": "He wore sneakers to the black-tie gala, flouting every dress code.",
+      "style": "Contextual",
+      "translation": "他穿着运动鞋出席黑领结晚宴，无视所有着装规范。",
+      "translated_word": "无视",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company continued to flout safety regulations despite repeated fines.",
+      "style": "Formal",
+      "translation": "尽管屡遭罚款，该公司仍持续违反安全法规。",
+      "translated_word": "违反",
+      "display_order": 2
+    },
+    {
+      "sentence": "She built her career by flouting convention and trusting her instincts.",
+      "style": "Collocational",
+      "translation": "她凭借蔑视成规、相信直觉，成就了自己的事业。",
+      "translated_word": "蔑视",
+      "display_order": 3
+    },
+    {
+      "sentence": "The young flout rules to test their limits; the wise flout only the ones worth breaking.",
+      "style": "Philosophical",
+      "translation": "年轻人挑战规则以试探边界；智者只打破值得打破的。",
+      "translated_word": "挑战",
+      "display_order": 4
+    }
+  ]
+}

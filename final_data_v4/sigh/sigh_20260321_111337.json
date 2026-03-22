@@ -1,0 +1,41 @@
+{
+  "word": "sigh",
+  "phonetic": "/saɪ/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "叹气；叹息；感慨",
+  "examples": [
+    {
+      "sentence": "She sighed with relief when the results came back clear.",
+      "style": "Contextual",
+      "translation": "结果显示一切正常，她如释重负地叹了口气。",
+      "translated_word": "叹了口气",
+      "display_order": 1
+    },
+    {
+      "sentence": "The curtains sighed as evening settled in.",
+      "style": "Poetic",
+      "translation": "夜幕低垂，窗帘轻轻叹息。",
+      "translated_word": "叹息",
+      "display_order": 4
+    },
+    {
+      "sentence": "We sigh when feelings grow too large for words.",
+      "style": "Philosophical",
+      "translation": "当情感溢于言表，我们只能叹息。",
+      "translated_word": "叹息",
+      "display_order": 3
+    },
+    {
+      "sentence": "You sighed into my shoulder; nothing else needed to be said.",
+      "style": "Intimate",
+      "translation": "你靠在我肩头轻叹，一切尽在不言中。",
+      "translated_word": "轻叹",
+      "display_order": 2
+    }
+  ]
+}

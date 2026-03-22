@@ -1,0 +1,40 @@
+{
+  "word": "spread",
+  "phonetic": "/spred/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "传播；涂抹；展开；蔓延",
+  "examples": [
+    {
+      "sentence": "She spread the map across the table, tracing the route with her finger.",
+      "style": "Contextual",
+      "translation": "她把地图展开在桌上，用手指描摹着路线。",
+      "translated_word": "展开",
+      "display_order": 2
+    },
+    {
+      "sentence": "Spread the butter while the toast is still warm.",
+      "style": "Collocational",
+      "translation": "趁吐司还热，把黄油抹上去。",
+      "translated_word": "抹",
+      "display_order": 1
+    },
+    {
+      "sentence": "Dawn spread gold across the harbor, and the fishing boats stirred.",
+      "style": "Poetic",
+      "translation": "黎明将金色洒满港湾，渔船缓缓苏醒。",
+      "translated_word": "洒满",
+      "display_order": 4
+    },
+    {
+      "sentence": "Small truths, spoken often, spread faster than grand declarations.",
+      "style": "Philosophical",
+      "translation": "小小的真话说得多了，比宏大的宣言传得更远。",
+      "translated_word": "传",
+      "display_order": 3
+    }
+  ]
+}

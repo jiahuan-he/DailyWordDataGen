@@ -1,0 +1,39 @@
+{
+  "word": "soybean",
+  "phonetic": "/ˈsɔɪbiːn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "大豆；黄豆",
+  "examples": [
+    {
+      "sentence": "The field stretched golden with soybeans ready for harvest.",
+      "style": "Contextual",
+      "translation": "田野金黄一片，大豆已熟待收。",
+      "translated_word": "大豆",
+      "display_order": 1
+    },
+    {
+      "sentence": "Global soybean exports surged as demand from Asia intensified.",
+      "style": "Formal",
+      "translation": "随着亚洲需求攀升，全球大豆出口量激增。",
+      "translated_word": "大豆",
+      "display_order": 4
+    },
+    {
+      "sentence": "She added a splash of soybean oil to the sizzling wok.",
+      "style": "Collocational",
+      "translation": "她往滋滋作响的锅里淋了一点豆油。",
+      "translated_word": "豆油",
+      "display_order": 3
+    },
+    {
+      "sentence": "Grandma's kitchen smelled of freshly ground soybeans every morning.",
+      "style": "Intimate",
+      "translation": "奶奶的厨房，每个清晨都弥漫着新磨豆浆的香气。",
+      "translated_word": "豆浆",
+      "display_order": 2
+    }
+  ]
+}

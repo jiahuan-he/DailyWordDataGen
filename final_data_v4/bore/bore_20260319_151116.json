@@ -1,0 +1,40 @@
+{
+  "word": "bore",
+  "phonetic": "/bɔːr/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使厌烦；使无聊；令人生厌",
+  "examples": [
+    {
+      "sentence": "The lecture began to bore even the professors.",
+      "style": "Contextual",
+      "translation": "讲座开始让教授们也感到无聊。",
+      "translated_word": "无聊",
+      "display_order": 1
+    },
+    {
+      "sentence": "He would bore guests with endless tales of his golf rounds.",
+      "style": "Collocational",
+      "translation": "他总用没完没了的高尔夫故事让客人们厌烦。",
+      "translated_word": "厌烦",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather's war stories never bored me; each telling unveiled something new.",
+      "style": "Intimate",
+      "translation": "祖父的战争故事从未让我厌倦；每次讲述都有新的发现。",
+      "translated_word": "厌倦",
+      "display_order": 2
+    },
+    {
+      "sentence": "Those who bore others rarely notice the silence they create.",
+      "style": "Philosophical",
+      "translation": "令人生厌的人，往往听不见自己制造的沉默。",
+      "translated_word": "生厌",
+      "display_order": 4
+    }
+  ]
+}

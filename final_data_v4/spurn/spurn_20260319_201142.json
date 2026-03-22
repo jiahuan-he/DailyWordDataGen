@@ -1,0 +1,40 @@
+{
+  "word": "spurn",
+  "phonetic": "/spɜːn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "拒绝；鄙弃；摒弃",
+  "examples": [
+    {
+      "sentence": "The sea spurns every stone yet shapes it into something beautiful.",
+      "style": "Poetic",
+      "translation": "大海拒绝每一块礁石，却将其雕琢成美丽的形状。",
+      "translated_word": "拒绝",
+      "display_order": 4
+    },
+    {
+      "sentence": "We often spurn the love we have while chasing the love we imagine.",
+      "style": "Philosophical",
+      "translation": "我们常常拒绝拥有的爱，却追逐想象中的爱。",
+      "translated_word": "拒绝",
+      "display_order": 3
+    },
+    {
+      "sentence": "She spurned my offer gently, and I learned that rejection can still carry kindness.",
+      "style": "Intimate",
+      "translation": "她婉拒了我的邀请，我才明白拒绝也可以温柔。",
+      "translated_word": "婉拒",
+      "display_order": 2
+    },
+    {
+      "sentence": "He did not simply decline; he spurned her with cold indifference.",
+      "style": "Contrastive",
+      "translation": "他不是简单地婉拒，而是冷漠地将她摒弃。",
+      "translated_word": "摒弃",
+      "display_order": 1
+    }
+  ]
+}

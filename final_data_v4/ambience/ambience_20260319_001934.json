@@ -1,0 +1,39 @@
+{
+  "word": "ambience",
+  "phonetic": "/ˈæmbiəns/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "氛围；环境；情调",
+  "examples": [
+    {
+      "sentence": "Soft jazz and dim lights gave the café an inviting ambience.",
+      "style": "Contextual",
+      "translation": "柔和的爵士乐与昏暗灯光，赋予咖啡馆一种温馨的氛围。",
+      "translated_word": "氛围",
+      "display_order": 1
+    },
+    {
+      "sentence": "The restaurant's cozy ambience kept us lingering for hours.",
+      "style": "Collocational",
+      "translation": "餐厅温馨的氛围，让我们流连数小时。",
+      "translated_word": "氛围",
+      "display_order": 2
+    },
+    {
+      "sentence": "Dust motes danced in sunlight, lending the antique shop an ambience of memory.",
+      "style": "Poetic",
+      "translation": "阳光中浮尘轻舞，为古董店平添一层记忆的情调。",
+      "translated_word": "情调",
+      "display_order": 3
+    },
+    {
+      "sentence": "We barely spoke that night; the ambience held our words.",
+      "style": "Intimate",
+      "translation": "那晚我们几乎无言；氛围替我们诉说了一切。",
+      "translated_word": "氛围",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "balmy",
+  "phonetic": "/ˈbɑːmi/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "温和的；宜人的；温暖舒适的",
+  "examples": [
+    {
+      "sentence": "The balmy evening drew neighbors onto their porches.",
+      "style": "Contextual",
+      "translation": "温和的夜晚将邻居们引向各自的门廊。",
+      "translated_word": "温和的",
+      "display_order": 4
+    },
+    {
+      "sentence": "A balmy breeze carried jasmine through the open window.",
+      "style": "Poetic",
+      "translation": "暖风穿窗而入，携来茉莉的香气。",
+      "translated_word": "暖",
+      "display_order": 2
+    },
+    {
+      "sentence": "We planned the ceremony for a balmy afternoon in May.",
+      "style": "Collocational",
+      "translation": "我们将婚礼定在五月一个温暖宜人的午后。",
+      "translated_word": "温暖宜人的",
+      "display_order": 1
+    },
+    {
+      "sentence": "On balmy nights like this, my grandmother would take me to count fireflies.",
+      "style": "Intimate",
+      "translation": "每逢这样温柔的夜晚，外婆便会带我去数萤火虫。",
+      "translated_word": "温柔的",
+      "display_order": 3
+    }
+  ]
+}

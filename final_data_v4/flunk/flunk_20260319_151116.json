@@ -1,0 +1,39 @@
+{
+  "word": "flunk",
+  "phonetic": "/flʌŋk/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "不及格；挂科；考砸",
+  "examples": [
+    {
+      "sentence": "Three questions wrong, and I flunked the entire exam.",
+      "style": "Contextual",
+      "translation": "三道题答错，整张试卷便不及格。",
+      "translated_word": "不及格",
+      "display_order": 1
+    },
+    {
+      "sentence": "My father never mentioned the math test I flunked; his silence said enough.",
+      "style": "Intimate",
+      "translation": "父亲从未提起我挂掉的那次数学考试；他的沉默已是千言万语。",
+      "translated_word": "挂掉",
+      "display_order": 2
+    },
+    {
+      "sentence": "She nearly flunked out of college before finding her true calling.",
+      "style": "Collocational",
+      "translation": "她险些从大学退学，后来才找到了人生方向。",
+      "translated_word": "退学",
+      "display_order": 3
+    },
+    {
+      "sentence": "Flunk once, learn twice: every failure sharpens the mind.",
+      "style": "Inspirational",
+      "translation": "挂科一次，领悟加倍：每次失败都在磨砺心智。",
+      "translated_word": "挂科",
+      "display_order": 4
+    }
+  ]
+}

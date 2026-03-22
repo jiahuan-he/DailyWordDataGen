@@ -1,0 +1,40 @@
+{
+  "word": "uppermost",
+  "phonetic": "/ˈʌpərˌmoʊst/",
+  "pos": [
+    "adjective",
+    "adverb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "最高的；最上面的；首要的",
+  "examples": [
+    {
+      "sentence": "The oldest books lined the uppermost shelf, untouched for years.",
+      "style": "Contextual",
+      "translation": "最老的书籍排列在最高的架子上，多年无人触碰。",
+      "translated_word": "最高",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her children's safety was uppermost in her mind.",
+      "style": "Collocational",
+      "translation": "孩子的安全是她心中最牵挂的事。",
+      "translated_word": "最牵挂",
+      "display_order": 2
+    },
+    {
+      "sentence": "What rises uppermost in silence often matters more than what we speak aloud.",
+      "style": "Philosophical",
+      "translation": "在沉默中浮现的念头，往往比说出口的更为重要。",
+      "translated_word": "浮现",
+      "display_order": 4
+    },
+    {
+      "sentence": "Even now, that summer afternoon remains uppermost among all my memories.",
+      "style": "Intimate",
+      "translation": "直到如今，那个夏日午后仍是我记忆中最鲜明的画面。",
+      "translated_word": "最鲜明",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "copy",
+  "phonetic": "/ˈkɑːpi/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "复制；抄写；模仿",
+  "examples": [
+    {
+      "sentence": "She copied the recipe onto a card before returning the book.",
+      "style": "Contextual",
+      "translation": "她把食谱抄在卡片上，然后归还了那本书。",
+      "translated_word": "抄",
+      "display_order": 1
+    },
+    {
+      "sentence": "Children copy not what we say, but what we do.",
+      "style": "Philosophical",
+      "translation": "孩子模仿的不是我们说的话，而是我们的行为。",
+      "translated_word": "模仿",
+      "display_order": 4
+    },
+    {
+      "sentence": "Copy the file to your desktop before editing.",
+      "style": "Collocational",
+      "translation": "编辑前请先将文件复制到桌面。",
+      "translated_word": "复制",
+      "display_order": 3
+    },
+    {
+      "sentence": "At seven, I copied my father's handwriting for hours, hoping to inherit his elegance.",
+      "style": "Intimate",
+      "translation": "七岁那年，我花了好几个小时临摹父亲的字迹，渴望继承那份优雅。",
+      "translated_word": "临摹",
+      "display_order": 2
+    }
+  ]
+}

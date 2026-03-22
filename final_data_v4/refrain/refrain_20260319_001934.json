@@ -1,0 +1,40 @@
+{
+  "word": "refrain",
+  "phonetic": "/rɪˈfreɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "克制；忍住；避免",
+  "examples": [
+    {
+      "sentence": "She wanted to argue but refrained, knowing silence spoke louder.",
+      "style": "Contextual",
+      "translation": "她想反驳，却忍住了；她知道，沉默更有力量。",
+      "translated_word": "忍住",
+      "display_order": 1
+    },
+    {
+      "sentence": "Wisdom often lies in what we refrain from saying.",
+      "style": "Philosophical",
+      "translation": "智慧往往藏在我们没有说出口的话里。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "At his wedding, I refrained from mentioning the years I waited.",
+      "style": "Intimate",
+      "translation": "他的婚礼上，我没有提起那些等待的年月。",
+      "translated_word": "没有",
+      "display_order": 3
+    },
+    {
+      "sentence": "Officials urged residents to refrain from non-essential travel.",
+      "style": "Formal",
+      "translation": "官方呼吁居民避免非必要出行。",
+      "translated_word": "避免",
+      "display_order": 2
+    }
+  ]
+}

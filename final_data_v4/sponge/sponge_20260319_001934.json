@@ -1,0 +1,40 @@
+{
+  "word": "sponge",
+  "phonetic": "/spʌndʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "海绵；吸水物",
+  "examples": [
+    {
+      "sentence": "The kitchen sponge needs replacing; it's starting to smell.",
+      "style": "Contextual",
+      "translation": "厨房的海绵该换了，已经有味道了。",
+      "translated_word": "海绵",
+      "display_order": 3
+    },
+    {
+      "sentence": "She squeezed the sponge dry before wiping the counter.",
+      "style": "Collocational",
+      "translation": "她把海绵拧干，然后擦拭台面。",
+      "translated_word": "海绵",
+      "display_order": 1
+    },
+    {
+      "sentence": "A child's mind is a sponge: it absorbs everything, good and bad.",
+      "style": "Philosophical",
+      "translation": "孩子的心灵是块海绵：好的坏的，照单全收。",
+      "translated_word": "海绵",
+      "display_order": 4
+    },
+    {
+      "sentence": "Grandma kept a soft sponge by the sink, worn thin from years of Sunday dishes.",
+      "style": "Intimate",
+      "translation": "外婆水槽边放着一块柔软的海绵，多年的周日洗碗已将它磨得很薄。",
+      "translated_word": "海绵",
+      "display_order": 2
+    }
+  ]
+}

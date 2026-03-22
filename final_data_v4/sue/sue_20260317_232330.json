@@ -1,0 +1,39 @@
+{
+  "word": "sue",
+  "phonetic": "/suː/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "起诉；控告；提起诉讼",
+  "examples": [
+    {
+      "sentence": "The contractor vanished mid-project; the homeowners had no choice but to sue.",
+      "style": "Contextual",
+      "translation": "承包商中途消失，业主别无选择，只能起诉。",
+      "translated_word": "起诉",
+      "display_order": 1
+    },
+    {
+      "sentence": "The whistleblower intends to sue her former employer for wrongful termination.",
+      "style": "Formal",
+      "translation": "举报人拟就非法解雇起诉前雇主。",
+      "translated_word": "起诉",
+      "display_order": 2
+    },
+    {
+      "sentence": "They threatened to sue for damages after the data breach.",
+      "style": "Collocational",
+      "translation": "数据泄露后，他们威胁要索赔起诉。",
+      "translated_word": "起诉",
+      "display_order": 3
+    },
+    {
+      "sentence": "We sue not always for justice, but for acknowledgment that harm was done.",
+      "style": "Philosophical",
+      "translation": "起诉，有时并非为正义，只为让伤害被承认。",
+      "translated_word": "起诉",
+      "display_order": 4
+    }
+  ]
+}

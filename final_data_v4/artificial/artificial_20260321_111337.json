@@ -1,0 +1,39 @@
+{
+  "word": "artificial",
+  "phonetic": "/ˌɑːrtɪˈfɪʃəl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "人造的；人工的；虚假的；做作的",
+  "examples": [
+    {
+      "sentence": "The orchid never needed water: it was artificial.",
+      "style": "Contextual",
+      "translation": "那株兰花从不需要浇水：它是人造的。",
+      "translated_word": "人造的",
+      "display_order": 1
+    },
+    {
+      "sentence": "Real pearls carry imperfections; artificial ones are flawlessly hollow.",
+      "style": "Contrastive",
+      "translation": "真珍珠带着瑕疵；人造珍珠完美却空洞。",
+      "translated_word": "人造",
+      "display_order": 4
+    },
+    {
+      "sentence": "We forgive artificial light but never an artificial smile.",
+      "style": "Philosophical",
+      "translation": "我们能接受人造的光，却无法原谅虚假的笑。",
+      "translated_word": "人造的",
+      "display_order": 3
+    },
+    {
+      "sentence": "Artificial intelligence learned to predict storms before the clouds gathered.",
+      "style": "Collocational",
+      "translation": "人工智能学会了在云层聚集之前预测风暴。",
+      "translated_word": "人工",
+      "display_order": 2
+    }
+  ]
+}

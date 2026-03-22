@@ -1,0 +1,40 @@
+{
+  "word": "banjo",
+  "phonetic": "/ˈbændʒoʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "班卓琴；五弦琴",
+  "examples": [
+    {
+      "sentence": "The porch came alive when he picked up his banjo.",
+      "style": "Contextual",
+      "translation": "他拿起班卓琴，门廊便热闹起来。",
+      "translated_word": "班卓琴",
+      "display_order": 1
+    },
+    {
+      "sentence": "A banjo's twang carries the dust of Southern roads.",
+      "style": "Poetic",
+      "translation": "班卓琴的颤音里，裹挟着南方公路的尘土。",
+      "translated_word": "班卓琴",
+      "display_order": 4
+    },
+    {
+      "sentence": "Grandpa's banjo hangs on the wall now; no one else knows the fingering.",
+      "style": "Intimate",
+      "translation": "爷爷的班卓琴如今挂在墙上，再没人会弹了。",
+      "translated_word": "班卓琴",
+      "display_order": 2
+    },
+    {
+      "sentence": "She tunes the banjo before every set, a ritual of quiet focus.",
+      "style": "Collocational",
+      "translation": "每次演出前，她都会调好班卓琴的弦；这是她静心的仪式。",
+      "translated_word": "班卓琴",
+      "display_order": 3
+    }
+  ]
+}

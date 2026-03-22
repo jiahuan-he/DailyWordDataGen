@@ -1,0 +1,39 @@
+{
+  "word": "arcade",
+  "phonetic": "/ɑːrˈkeɪd/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "拱廊；游戏厅；商业街廊",
+  "examples": [
+    {
+      "sentence": "Sunlight poured through the glass arcade, painting the marble in gold.",
+      "style": "Poetic",
+      "translation": "阳光倾泻过玻璃拱廊，将大理石染成金色。",
+      "translated_word": "拱廊",
+      "display_order": 4
+    },
+    {
+      "sentence": "He spent every allowance at the arcade until the owner knew his name.",
+      "style": "Intimate",
+      "translation": "他把每一笔零花钱都花在游戏厅，直到老板记住了他的名字。",
+      "translated_word": "游戏厅",
+      "display_order": 2
+    },
+    {
+      "sentence": "The Victorian shopping arcade houses over thirty boutique stores.",
+      "style": "Contextual",
+      "translation": "这座维多利亚时期的购物廊道内汇聚了三十多家精品店铺。",
+      "translated_word": "廊道",
+      "display_order": 1
+    },
+    {
+      "sentence": "The children ran past the video arcade on their way to the food court.",
+      "style": "Collocational",
+      "translation": "孩子们跑过电玩城，一路奔向美食广场。",
+      "translated_word": "电玩城",
+      "display_order": 3
+    }
+  ]
+}

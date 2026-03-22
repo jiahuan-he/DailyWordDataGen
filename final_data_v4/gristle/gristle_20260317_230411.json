@@ -1,0 +1,39 @@
+{
+  "word": "gristle",
+  "phonetic": "/ˈɡrɪsəl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "软骨；筋",
+  "examples": [
+    {
+      "sentence": "He pushed aside the gristle and reached for the tender meat.",
+      "style": "Contextual",
+      "translation": "他拨开软骨，夹起嫩肉。",
+      "translated_word": "软骨",
+      "display_order": 1
+    },
+    {
+      "sentence": "Cheap cuts often contain more gristle than premium steaks.",
+      "style": "Contrastive",
+      "translation": "廉价肉块往往比高档牛排含有更多筋膜。",
+      "translated_word": "筋膜",
+      "display_order": 4
+    },
+    {
+      "sentence": "The stew had been simmered so long that even the gristle turned soft.",
+      "style": "Collocational",
+      "translation": "炖肉煨得太久，连软骨都化开了。",
+      "translated_word": "软骨",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother never wasted gristle; she said it held all the flavor.",
+      "style": "Intimate",
+      "translation": "祖母从不丢弃筋头，她说那里藏着全部的鲜味。",
+      "translated_word": "筋头",
+      "display_order": 2
+    }
+  ]
+}

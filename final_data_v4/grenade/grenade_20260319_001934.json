@@ -1,0 +1,40 @@
+{
+  "word": "grenade",
+  "phonetic": "/ɡrəˈneɪd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "手榴弹；榴弹",
+  "examples": [
+    {
+      "sentence": "He pulled the pin; the grenade was live.",
+      "style": "Contextual",
+      "translation": "他拔出插销；手榴弹已激活。",
+      "translated_word": "手榴弹",
+      "display_order": 2
+    },
+    {
+      "sentence": "Police recovered a live grenade from the abandoned vehicle.",
+      "style": "Formal",
+      "translation": "警方从废弃车辆中发现一枚未爆手榴弹。",
+      "translated_word": "手榴弹",
+      "display_order": 1
+    },
+    {
+      "sentence": "Smoke grenades covered their retreat across the open field.",
+      "style": "Collocational",
+      "translation": "烟雾弹掩护他们穿越开阔地带撤退。",
+      "translated_word": "弹",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every secret kept too long becomes a grenade without a pin.",
+      "style": "Philosophical",
+      "translation": "每个隐瞒太久的秘密，都会变成一颗没有保险的手榴弹。",
+      "translated_word": "手榴弹",
+      "display_order": 4
+    }
+  ]
+}

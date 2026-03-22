@@ -1,0 +1,41 @@
+{
+  "word": "mine",
+  "phonetic": "/maɪn/",
+  "pos": [
+    "noun",
+    "pronoun",
+    "verb"
+  ],
+  "selected_pos": "pronoun",
+  "definition": "我的；属于我的",
+  "examples": [
+    {
+      "sentence": "The last slice of cake is mine.",
+      "style": "Contextual",
+      "translation": "最后一块蛋糕是我的。",
+      "translated_word": "我的",
+      "display_order": 1
+    },
+    {
+      "sentence": "His eyes are brown like his father's, but that stubborn spirit is mine.",
+      "style": "Intimate",
+      "translation": "他的眼睛像父亲一样是棕色的，但那份倔强随我。",
+      "translated_word": "我",
+      "display_order": 2
+    },
+    {
+      "sentence": "Everything I call mine is borrowed; time merely decides when to collect.",
+      "style": "Philosophical",
+      "translation": "我所拥有的一切皆是借来的；时间只是在决定何时收回。",
+      "translated_word": "我",
+      "display_order": 4
+    },
+    {
+      "sentence": "The quiet hour before dawn is mine alone.",
+      "style": "Poetic",
+      "translation": "黎明前的静谧时光，唯我独享。",
+      "translated_word": "我",
+      "display_order": 3
+    }
+  ]
+}

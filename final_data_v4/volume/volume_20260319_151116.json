@@ -1,0 +1,40 @@
+{
+  "word": "volume",
+  "phonetic": "/ˈvɑːljuːm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "音量；体积；卷；数量",
+  "examples": [
+    {
+      "sentence": "She lowered the volume when the baby fell asleep.",
+      "style": "Contextual",
+      "translation": "宝宝睡着后，她把音量调低了。",
+      "translated_word": "音量",
+      "display_order": 1
+    },
+    {
+      "sentence": "The sheer volume of emails made Monday mornings unbearable.",
+      "style": "Collocational",
+      "translation": "堆积如山的邮件让周一的早晨难以忍受。",
+      "translated_word": "堆积如山",
+      "display_order": 3
+    },
+    {
+      "sentence": "Silence speaks at a volume words cannot reach.",
+      "style": "Philosophical",
+      "translation": "沉默的声量，言语无法企及。",
+      "translated_word": "声量",
+      "display_order": 4
+    },
+    {
+      "sentence": "His library held twelve volumes of poetry, each spine cracked with love.",
+      "style": "Intimate",
+      "translation": "他的书房里有十二卷诗集，每一本书脊都因翻阅而布满裂痕。",
+      "translated_word": "卷",
+      "display_order": 2
+    }
+  ]
+}

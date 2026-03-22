@@ -1,0 +1,39 @@
+{
+  "word": "insist",
+  "phonetic": "/ɪnˈsɪst/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "坚持；坚决要求；执意",
+  "examples": [
+    {
+      "sentence": "She insisted on paying, waving away my wallet.",
+      "style": "Contextual",
+      "translation": "她执意买单，把我伸向钱包的手挥开。",
+      "translated_word": "执意",
+      "display_order": 2
+    },
+    {
+      "sentence": "He insists on freshly ground coffee, nothing less.",
+      "style": "Collocational",
+      "translation": "他坚持要喝现磨咖啡，绝不将就。",
+      "translated_word": "坚持",
+      "display_order": 1
+    },
+    {
+      "sentence": "To insist on truth when no one listens requires quiet courage.",
+      "style": "Philosophical",
+      "translation": "在无人倾听时仍坚持真理，需要沉默的勇气。",
+      "translated_word": "坚持",
+      "display_order": 4
+    },
+    {
+      "sentence": "My mother insisted I learn piano; years later, I play for my own peace.",
+      "style": "Intimate",
+      "translation": "母亲当年坚持让我学琴；多年后，我为自己的内心而弹奏。",
+      "translated_word": "坚持",
+      "display_order": 3
+    }
+  ]
+}

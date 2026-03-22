@@ -1,0 +1,40 @@
+{
+  "word": "paradise",
+  "phonetic": "/ˈpærədaɪs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "天堂；乐园；极乐",
+  "examples": [
+    {
+      "sentence": "Morning light flooded the garden; for a moment, it was paradise.",
+      "style": "Poetic",
+      "translation": "晨光洒满花园；那一刻，便是天堂。",
+      "translated_word": "天堂",
+      "display_order": 2
+    },
+    {
+      "sentence": "Paradise is not a place you find; it is a way of seeing.",
+      "style": "Philosophical",
+      "translation": "天堂不是寻得的地方，而是看待世界的方式。",
+      "translated_word": "天堂",
+      "display_order": 4
+    },
+    {
+      "sentence": "Our Sunday mornings together: coffee, silence, and paradise.",
+      "style": "Intimate",
+      "translation": "我们的周日清晨：咖啡、静默，与乐园。",
+      "translated_word": "乐园",
+      "display_order": 3
+    },
+    {
+      "sentence": "With year-round sunshine and pristine beaches, Bali is a surfer's paradise.",
+      "style": "Contextual",
+      "translation": "四季阳光、碧海沙滩；巴厘岛是冲浪者的天堂。",
+      "translated_word": "天堂",
+      "display_order": 1
+    }
+  ]
+}

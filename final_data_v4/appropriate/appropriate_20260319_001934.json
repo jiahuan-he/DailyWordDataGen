@@ -1,0 +1,40 @@
+{
+  "word": "appropriate",
+  "phonetic": "/əˈproʊpriət/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "合适；恰当；适宜；得体",
+  "examples": [
+    {
+      "sentence": "She chose appropriate footwear for the hike: sturdy boots, not sandals.",
+      "style": "Contextual",
+      "translation": "她为徒步选了合适的鞋：结实的登山靴，而非凉鞋。",
+      "translated_word": "合适",
+      "display_order": 1
+    },
+    {
+      "sentence": "Officials took appropriate measures to contain the outbreak.",
+      "style": "Formal",
+      "translation": "官方采取了适当措施以控制疫情蔓延。",
+      "translated_word": "适当",
+      "display_order": 3
+    },
+    {
+      "sentence": "An appropriate response requires more listening than speaking.",
+      "style": "Collocational",
+      "translation": "恰当的回应，往往需要多听少说。",
+      "translated_word": "恰当",
+      "display_order": 2
+    },
+    {
+      "sentence": "What seems appropriate today may feel stifling tomorrow.",
+      "style": "Philosophical",
+      "translation": "今日看似得体之事，明日或许令人窒息。",
+      "translated_word": "得体",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "mean",
+  "phonetic": "/miːn/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "意味着；意指；打算；重要",
+  "examples": [
+    {
+      "sentence": "Her hesitation meant no.",
+      "style": "Contextual",
+      "translation": "她的犹豫便是拒绝。",
+      "translated_word": "便是",
+      "display_order": 3
+    },
+    {
+      "sentence": "You mean the world to me.",
+      "style": "Collocational",
+      "translation": "你是我的全世界。",
+      "translated_word": "是",
+      "display_order": 2
+    },
+    {
+      "sentence": "To mean well is not the same as to do well.",
+      "style": "Philosophical",
+      "translation": "出发点好，不等于结果好。",
+      "translated_word": "出发点",
+      "display_order": 4
+    },
+    {
+      "sentence": "That worn cookbook means more than any inheritance.",
+      "style": "Intimate",
+      "translation": "那本翻旧的食谱，比任何遗产都珍贵。",
+      "translated_word": "珍贵",
+      "display_order": 1
+    }
+  ]
+}

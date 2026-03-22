@@ -1,0 +1,39 @@
+{
+  "word": "intense",
+  "phonetic": "/ɪnˈtens/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "强烈；激烈；紧张；专注",
+  "examples": [
+    {
+      "sentence": "The summer heat was so intense the pavement seemed to shimmer.",
+      "style": "Contextual",
+      "translation": "夏日的暑气热烈得令人窒息，柏油路面泛起阵阵热浪。",
+      "translated_word": "热烈",
+      "display_order": 2
+    },
+    {
+      "sentence": "An intense silence settled, heavy with all that remained unsaid.",
+      "style": "Poetic",
+      "translation": "一阵浓烈的沉默落下，承载着所有未曾说出口的话。",
+      "translated_word": "浓烈",
+      "display_order": 4
+    },
+    {
+      "sentence": "We shared an intense summer: brief, burning, unforgettable.",
+      "style": "Intimate",
+      "translation": "我们共度了一个炽热的夏天：短暂、灼烈、难以忘怀。",
+      "translated_word": "炽热",
+      "display_order": 3
+    },
+    {
+      "sentence": "After months of intense training, she ran her first marathon.",
+      "style": "Collocational",
+      "translation": "经过数月高强度的训练，她终于跑完了人生第一场马拉松。",
+      "translated_word": "高强度",
+      "display_order": 1
+    }
+  ]
+}

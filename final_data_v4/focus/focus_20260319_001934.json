@@ -1,0 +1,40 @@
+{
+  "word": "focus",
+  "phonetic": "/ˈfoʊkəs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "集中；聚焦；专注",
+  "examples": [
+    {
+      "sentence": "The room quieted as she focused on the final paragraph.",
+      "style": "Contextual",
+      "translation": "房间安静下来，她专注于最后一段文字。",
+      "translated_word": "专注",
+      "display_order": 1
+    },
+    {
+      "sentence": "Focus your energy on what moves you forward.",
+      "style": "Collocational",
+      "translation": "把精力集中在能推动你前进的事上。",
+      "translated_word": "集中",
+      "display_order": 2
+    },
+    {
+      "sentence": "Attention is finite. To focus is to choose.",
+      "style": "Philosophical",
+      "translation": "注意力有限；专注即是选择。",
+      "translated_word": "专注",
+      "display_order": 4
+    },
+    {
+      "sentence": "Focus turns scattered effort into momentum.",
+      "style": "Inspirational",
+      "translation": "专注能将零散的努力化为前行的动力。",
+      "translated_word": "专注",
+      "display_order": 3
+    }
+  ]
+}

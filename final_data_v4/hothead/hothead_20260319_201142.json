@@ -1,0 +1,39 @@
+{
+  "word": "hothead",
+  "phonetic": "/ˈhɑːtˌhed/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "急性子；冲动的人；暴脾气",
+  "examples": [
+    {
+      "sentence": "The hothead quit over a single critique.",
+      "style": "Contextual",
+      "translation": "那个急性子因为一句批评就辞职了。",
+      "translated_word": "急性子",
+      "display_order": 3
+    },
+    {
+      "sentence": "She's a strategist; her brother is a hothead.",
+      "style": "Contrastive",
+      "translation": "她是谋略家；她弟弟却是急性子。",
+      "translated_word": "急性子",
+      "display_order": 1
+    },
+    {
+      "sentence": "Don't be such a hothead; think before you act.",
+      "style": "Collocational",
+      "translation": "别那么冲动；三思而后行。",
+      "translated_word": "冲动",
+      "display_order": 2
+    },
+    {
+      "sentence": "My father was a hothead, but his anger always burned out fast.",
+      "style": "Intimate",
+      "translation": "我父亲是个暴脾气，但他的怒火来得快去得也快。",
+      "translated_word": "暴脾气",
+      "display_order": 4
+    }
+  ]
+}

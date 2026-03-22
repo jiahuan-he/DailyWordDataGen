@@ -1,0 +1,40 @@
+{
+  "word": "sulphur",
+  "phonetic": "/ˈsʌlfə/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "硫；硫磺",
+  "examples": [
+    {
+      "sentence": "The hot springs smelled faintly of sulphur.",
+      "style": "Contextual",
+      "translation": "温泉散发着淡淡的硫磺味。",
+      "translated_word": "硫磺",
+      "display_order": 1
+    },
+    {
+      "sentence": "Yellow sulphur deposits ringed the volcanic crater like scattered gold.",
+      "style": "Poetic",
+      "translation": "黄色的硫磺沉积环绕火山口，宛若散落的金砂。",
+      "translated_word": "硫磺",
+      "display_order": 3
+    },
+    {
+      "sentence": "Volcanic sulphur emissions have doubled since last year's eruption.",
+      "style": "Formal",
+      "translation": "自去年喷发以来，火山的硫排放量已翻倍。",
+      "translated_word": "硫",
+      "display_order": 4
+    },
+    {
+      "sentence": "Matches, fertilizers, and medicines all rely on sulphur.",
+      "style": "Collocational",
+      "translation": "火柴、肥料与药物皆离不开硫磺。",
+      "translated_word": "硫磺",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "slip",
+  "phonetic": "/slɪp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "滑倒；溜走；下滑；脱口而出",
+  "examples": [
+    {
+      "sentence": "She slipped on the wet tiles and grabbed the rail just in time.",
+      "style": "Contextual",
+      "translation": "她在湿滑的瓷砖上滑了一下，及时抓住了栏杆。",
+      "translated_word": "滑",
+      "display_order": 1
+    },
+    {
+      "sentence": "The secret slipped out before I could stop myself.",
+      "style": "Collocational",
+      "translation": "那个秘密不经意间脱口而出。",
+      "translated_word": "脱口而出",
+      "display_order": 2
+    },
+    {
+      "sentence": "The afternoon slipped into dusk, unnoticed.",
+      "style": "Poetic",
+      "translation": "午后悄然滑入黄昏，无人察觉。",
+      "translated_word": "滑入",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her name slipped from my lips in a crowded room; my heart stopped.",
+      "style": "Intimate",
+      "translation": "她的名字在喧嚣中脱口而出，我的心漏跳了一拍。",
+      "translated_word": "脱口而出",
+      "display_order": 3
+    }
+  ]
+}

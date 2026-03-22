@@ -1,0 +1,39 @@
+{
+  "word": "admit",
+  "phonetic": "/ədˈmɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "承认；准许进入；接纳",
+  "examples": [
+    {
+      "sentence": "The hardest part wasn't losing her; it was admitting I never fought to stay.",
+      "style": "Intimate",
+      "translation": "最难的不是失去她，而是承认我从未挽留。",
+      "translated_word": "承认",
+      "display_order": 2
+    },
+    {
+      "sentence": "Growth begins the moment we admit we were wrong.",
+      "style": "Philosophical",
+      "translation": "成长始于承认自己错了的那一刻。",
+      "translated_word": "承认",
+      "display_order": 3
+    },
+    {
+      "sentence": "She admitted her mistake before anyone else noticed.",
+      "style": "Contextual",
+      "translation": "她在旁人察觉之前便承认了错误。",
+      "translated_word": "承认",
+      "display_order": 1
+    },
+    {
+      "sentence": "The university admitted only twelve students to the doctoral program this year.",
+      "style": "Formal",
+      "translation": "今年该大学仅录取了十二名博士生。",
+      "translated_word": "录取",
+      "display_order": 4
+    }
+  ]
+}

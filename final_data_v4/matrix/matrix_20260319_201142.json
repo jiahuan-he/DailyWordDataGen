@@ -1,0 +1,39 @@
+{
+  "word": "matrix",
+  "phonetic": "/ˈmeɪtrɪks/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "矩阵；母体；基质；框架",
+  "examples": [
+    {
+      "sentence": "The data was arranged in a three-by-three matrix for easier analysis.",
+      "style": "Contextual",
+      "translation": "数据被排列成三乘三的矩阵，便于分析。",
+      "translated_word": "矩阵",
+      "display_order": 1
+    },
+    {
+      "sentence": "Researchers have mapped the neural matrix underlying decision-making in the human brain.",
+      "style": "Formal",
+      "translation": "研究人员绘制了人脑决策背后的神经网络图谱。",
+      "translated_word": "网络",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every city is a matrix of invisible rules that shape how strangers become neighbors.",
+      "style": "Philosophical",
+      "translation": "每座城市都是一个无形规则的母体，塑造着陌生人如何成为邻里。",
+      "translated_word": "母体",
+      "display_order": 3
+    },
+    {
+      "sentence": "Stars scattered across the night sky form an ancient matrix of light and myth.",
+      "style": "Poetic",
+      "translation": "繁星散落夜空，织成一张古老的光与神话之网。",
+      "translated_word": "网",
+      "display_order": 4
+    }
+  ]
+}

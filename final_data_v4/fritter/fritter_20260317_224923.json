@@ -1,0 +1,40 @@
+{
+  "word": "fritter",
+  "phonetic": "/ˈfrɪtər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "浪费；挥霍；虚度",
+  "examples": [
+    {
+      "sentence": "He frittered his inheritance away on schemes that never materialized.",
+      "style": "Contextual",
+      "translation": "他把遗产挥霍在了那些从未实现的计划上。",
+      "translated_word": "挥霍",
+      "display_order": 1
+    },
+    {
+      "sentence": "We fritter hours on details the world will never notice.",
+      "style": "Philosophical",
+      "translation": "我们把时间浪费在世人永远不会留意的细节上。",
+      "translated_word": "浪费",
+      "display_order": 2
+    },
+    {
+      "sentence": "I frittered that whole summer away at the beach; I regret nothing.",
+      "style": "Intimate",
+      "translation": "那整个夏天，我都在海边虚度；我毫不后悔。",
+      "translated_word": "虚度",
+      "display_order": 4
+    },
+    {
+      "sentence": "Time and money are easily frittered away on small comforts.",
+      "style": "Collocational",
+      "translation": "时间与金钱，总是轻易消磨在细碎的安逸里。",
+      "translated_word": "消磨",
+      "display_order": 3
+    }
+  ]
+}

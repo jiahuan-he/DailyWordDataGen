@@ -1,0 +1,40 @@
+{
+  "word": "antibiotic",
+  "phonetic": "/ˌæntɪbaɪˈɒtɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "抗生素；消炎药",
+  "examples": [
+    {
+      "sentence": "The doctor prescribed a seven-day course of antibiotics for the infection.",
+      "style": "Contextual",
+      "translation": "医生为这次感染开了一个疗程七天的抗生素。",
+      "translated_word": "抗生素",
+      "display_order": 1
+    },
+    {
+      "sentence": "Overuse of antibiotics has accelerated the rise of drug-resistant bacteria worldwide.",
+      "style": "Formal",
+      "translation": "抗生素的滥用加速了全球耐药细菌的蔓延。",
+      "translated_word": "抗生素",
+      "display_order": 3
+    },
+    {
+      "sentence": "Finish the full course of antibiotics, even if you feel better.",
+      "style": "Collocational",
+      "translation": "即使感觉好转，也要服完整个疗程的抗生素。",
+      "translated_word": "抗生素",
+      "display_order": 2
+    },
+    {
+      "sentence": "We grew up believing antibiotics could fix anything; now we face the cost of that faith.",
+      "style": "Philosophical",
+      "translation": "我们这代人曾深信抗生素能治愈一切；如今却正为那份盲信付出代价。",
+      "translated_word": "抗生素",
+      "display_order": 4
+    }
+  ]
+}

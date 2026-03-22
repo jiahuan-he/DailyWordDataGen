@@ -1,0 +1,40 @@
+{
+  "word": "revert",
+  "phonetic": "/rɪˈvɜːrt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "恢复；回归；返回",
+  "examples": [
+    {
+      "sentence": "After the update failed, the system will revert to its previous version.",
+      "style": "Contextual",
+      "translation": "更新失败后，系统将恢复到先前版本。",
+      "translated_word": "恢复",
+      "display_order": 3
+    },
+    {
+      "sentence": "The committee voted to revert the policy to its original terms.",
+      "style": "Formal",
+      "translation": "委员会投票决定将政策恢复至原有条款。",
+      "translated_word": "恢复",
+      "display_order": 1
+    },
+    {
+      "sentence": "Under pressure, we revert to who we truly are.",
+      "style": "Philosophical",
+      "translation": "压力之下，我们回归真实的自己。",
+      "translated_word": "回归",
+      "display_order": 4
+    },
+    {
+      "sentence": "Whenever I visit my hometown, I revert to my childhood dialect without thinking.",
+      "style": "Intimate",
+      "translation": "每次回到故乡，我总会不自觉地说起儿时的方言。",
+      "translated_word": null,
+      "display_order": 2
+    }
+  ]
+}

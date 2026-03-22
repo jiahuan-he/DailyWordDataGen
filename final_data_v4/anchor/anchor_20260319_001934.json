@@ -1,0 +1,40 @@
+{
+  "word": "anchor",
+  "phonetic": "/ˈæŋkər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "锚；支柱；依靠",
+  "examples": [
+    {
+      "sentence": "The captain dropped anchor in the quiet bay at dusk.",
+      "style": "Contextual",
+      "translation": "黄昏时分，船长在静谧的海湾抛下了锚。",
+      "translated_word": "锚",
+      "display_order": 1
+    },
+    {
+      "sentence": "She became the anchor of our team during the crisis.",
+      "style": "Collocational",
+      "translation": "危机之中，她成了我们团队的支柱。",
+      "translated_word": "支柱",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every wanderer needs an anchor; not to stay, but to return.",
+      "style": "Poetic",
+      "translation": "每个漂泊者都需要一个锚；不为停留，而为归来。",
+      "translated_word": "锚",
+      "display_order": 4
+    },
+    {
+      "sentence": "His letters were my anchor through that lonely year abroad.",
+      "style": "Intimate",
+      "translation": "那孤独的留学岁月里，他的信是我唯一的依靠。",
+      "translated_word": "依靠",
+      "display_order": 3
+    }
+  ]
+}

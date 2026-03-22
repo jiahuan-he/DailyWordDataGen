@@ -1,0 +1,41 @@
+{
+  "word": "average",
+  "phonetic": "/ˈæv.ər.ɪdʒ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "平均的；普通的；一般的",
+  "examples": [
+    {
+      "sentence": "The average commute here takes forty minutes.",
+      "style": "Contextual",
+      "translation": "这里的通勤时间平均四十分钟。",
+      "translated_word": "平均",
+      "display_order": 1
+    },
+    {
+      "sentence": "She refused to settle for an average life.",
+      "style": "Contrastive",
+      "translation": "她不愿安于平庸的生活。",
+      "translated_word": "平庸",
+      "display_order": 3
+    },
+    {
+      "sentence": "Most fear being average more than being wrong.",
+      "style": "Philosophical",
+      "translation": "比起犯错，多数人更怕平凡。",
+      "translated_word": "平凡",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father worked an average job and raised an extraordinary family.",
+      "style": "Intimate",
+      "translation": "父亲做着普通的工作，却养育了一个不平凡的家。",
+      "translated_word": "普通",
+      "display_order": 2
+    }
+  ]
+}

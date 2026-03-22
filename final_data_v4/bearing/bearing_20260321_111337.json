@@ -1,0 +1,41 @@
+{
+  "word": "bearing",
+  "phonetic": "/ˈberɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "举止；风度；关系；方位",
+  "examples": [
+    {
+      "sentence": "Her bearing alone silenced the room.",
+      "style": "Contextual",
+      "translation": "她的举止便足以让全场安静。",
+      "translated_word": "举止",
+      "display_order": 1
+    },
+    {
+      "sentence": "His personal history had no bearing on the verdict.",
+      "style": "Collocational",
+      "translation": "他的个人经历与判决结果毫无关系。",
+      "translated_word": "关系",
+      "display_order": 4
+    },
+    {
+      "sentence": "Bearing is character made visible.",
+      "style": "Philosophical",
+      "translation": "举止，是性格的外显。",
+      "translated_word": "举止",
+      "display_order": 3
+    },
+    {
+      "sentence": "She moved with the bearing of someone who had already weathered the worst.",
+      "style": "Poetic",
+      "translation": "她步履从容，宛若历经风浪后的平静。",
+      "translated_word": "从容",
+      "display_order": 2
+    }
+  ]
+}

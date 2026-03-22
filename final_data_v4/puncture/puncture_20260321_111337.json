@@ -1,0 +1,40 @@
+{
+  "word": "puncture",
+  "phonetic": "/ˈpʌŋktʃər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "刺穿；戳破；使破灭",
+  "examples": [
+    {
+      "sentence": "A nail punctured the rear tire halfway through our road trip.",
+      "style": "Contextual",
+      "translation": "一颗钉子在旅途中扎破了后胎。",
+      "translated_word": "扎破",
+      "display_order": 1
+    },
+    {
+      "sentence": "One honest question can puncture the most inflated ego.",
+      "style": "Collocational",
+      "translation": "一个真诚的问题，足以戳破最膨胀的自尊。",
+      "translated_word": "戳破",
+      "display_order": 3
+    },
+    {
+      "sentence": "Truth doesn't comfort; it punctures.",
+      "style": "Philosophical",
+      "translation": "真相从不抚慰人心；它只负责刺破幻象。",
+      "translated_word": "刺破",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her quiet skepticism punctured my certainty, and I loved her for it.",
+      "style": "Intimate",
+      "translation": "她无声的质疑戳破了我的笃定，我却因此更爱她。",
+      "translated_word": "戳破",
+      "display_order": 2
+    }
+  ]
+}

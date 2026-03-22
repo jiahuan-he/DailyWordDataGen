@@ -1,0 +1,39 @@
+{
+  "word": "expiration",
+  "phonetic": "/ˌekspəˈreɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "到期；期满；终止；呼气",
+  "examples": [
+    {
+      "sentence": "The expiration on this coupon is tomorrow.",
+      "style": "Contextual",
+      "translation": "这张优惠券明天到期。",
+      "translated_word": "到期",
+      "display_order": 1
+    },
+    {
+      "sentence": "Contract expiration looms as negotiations stall.",
+      "style": "Formal",
+      "translation": "谈判陷入僵局，合同即将届满。",
+      "translated_word": "届满",
+      "display_order": 4
+    },
+    {
+      "sentence": "We mark expirations on cartons but never on days.",
+      "style": "Philosophical",
+      "translation": "我们在纸盒上标注保质期，却从不为日子设限。",
+      "translated_word": "保质期",
+      "display_order": 3
+    },
+    {
+      "sentence": "The expiration of my lease became a quiet invitation to start over.",
+      "style": "Intimate",
+      "translation": "租约到期，成了一份无声的邀请，让我重新开始。",
+      "translated_word": "到期",
+      "display_order": 2
+    }
+  ]
+}

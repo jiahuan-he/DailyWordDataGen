@@ -1,0 +1,41 @@
+{
+  "word": "smart",
+  "phonetic": "/smɑːrt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "聪明；机敏；时髦；整洁",
+  "examples": [
+    {
+      "sentence": "The solution came to her instantly; she was always the smart one.",
+      "style": "Contextual",
+      "translation": "答案瞬间浮现于她脑海；她向来是最聪明的那个。",
+      "translated_word": "聪明",
+      "display_order": 1
+    },
+    {
+      "sentence": "A smart blazer transforms any outfit.",
+      "style": "Collocational",
+      "translation": "一件利落的西装外套能点亮整套造型。",
+      "translated_word": "利落",
+      "display_order": 3
+    },
+    {
+      "sentence": "He wasn't merely diligent; he was genuinely smart.",
+      "style": "Contrastive",
+      "translation": "他不只是勤奋，更有真正的聪慧。",
+      "translated_word": "聪慧",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother dressed smart even for market runs.",
+      "style": "Intimate",
+      "translation": "外婆就算去买菜，也要穿得体体面面。",
+      "translated_word": "体体面面",
+      "display_order": 4
+    }
+  ]
+}

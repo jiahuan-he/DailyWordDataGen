@@ -1,0 +1,40 @@
+{
+  "word": "enterprise",
+  "phonetic": "/ˈentərpraɪz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "企业；事业；进取心",
+  "examples": [
+    {
+      "sentence": "The enterprise reported record profits despite global supply chain disruptions.",
+      "style": "Formal",
+      "translation": "尽管全球供应链受阻，这家企业仍创下了利润新高。",
+      "translated_word": "企业",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every great enterprise begins with a single act of courage.",
+      "style": "Inspirational",
+      "translation": "每一项伟大的事业，都始于一次勇敢的行动。",
+      "translated_word": "事业",
+      "display_order": 3
+    },
+    {
+      "sentence": "Opening a bookstore in a dying mall was her riskiest enterprise yet.",
+      "style": "Contextual",
+      "translation": "在一家日渐萧条的商场里开书店，是她迄今最冒险的尝试。",
+      "translated_word": "尝试",
+      "display_order": 2
+    },
+    {
+      "sentence": "Free enterprise thrives where innovation meets opportunity.",
+      "style": "Collocational",
+      "translation": "自由企业在创新与机遇交汇处蓬勃生长。",
+      "translated_word": "企业",
+      "display_order": 4
+    }
+  ]
+}

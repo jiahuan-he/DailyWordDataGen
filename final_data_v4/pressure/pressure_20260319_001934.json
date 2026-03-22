@@ -1,0 +1,40 @@
+{
+  "word": "pressure",
+  "phonetic": "/ˈpreʃər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "压力；压强；紧迫感",
+  "examples": [
+    {
+      "sentence": "The deadline added pressure no one had anticipated.",
+      "style": "Contextual",
+      "translation": "截止日期带来了意料之外的压力。",
+      "translated_word": "压力",
+      "display_order": 1
+    },
+    {
+      "sentence": "Economic pressure has reshaped global supply chains.",
+      "style": "Formal",
+      "translation": "经济压力已重塑全球供应链。",
+      "translated_word": "压力",
+      "display_order": 4
+    },
+    {
+      "sentence": "Pressure doesn't build character; it reveals it.",
+      "style": "Philosophical",
+      "translation": "压力不塑造品格，只是将其显露。",
+      "translated_word": "压力",
+      "display_order": 3
+    },
+    {
+      "sentence": "At twenty-two, I mistook pressure for failure.",
+      "style": "Intimate",
+      "translation": "二十二岁那年，我把压力误认为失败。",
+      "translated_word": "压力",
+      "display_order": 2
+    }
+  ]
+}

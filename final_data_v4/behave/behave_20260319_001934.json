@@ -1,0 +1,39 @@
+{
+  "word": "behave",
+  "phonetic": "/bɪˈheɪv/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "表现；举止；守规矩",
+  "examples": [
+    {
+      "sentence": "The children behaved perfectly at the formal dinner.",
+      "style": "Contextual",
+      "translation": "孩子们在正式晚宴上表现得无可挑剔。",
+      "translated_word": "表现",
+      "display_order": 1
+    },
+    {
+      "sentence": "She behaves with grace, even in chaos.",
+      "style": "Collocational",
+      "translation": "即便身处混乱，她依然举止从容。",
+      "translated_word": "举止",
+      "display_order": 3
+    },
+    {
+      "sentence": "How we behave when unseen reveals who we truly are.",
+      "style": "Philosophical",
+      "translation": "无人注视时的举止，方显真实的自我。",
+      "translated_word": "举止",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father's quiet nod told me I had behaved well.",
+      "style": "Intimate",
+      "translation": "父亲无声的点头，让我知道自己做得很好。",
+      "translated_word": "做",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "ready",
+  "phonetic": "/ˈredi/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "准备好的；就绪的；愿意的；迅速的",
+  "examples": [
+    {
+      "sentence": "The coffee is ready; come get it while it's hot.",
+      "style": "Contextual",
+      "translation": "咖啡好了，趁热来喝。",
+      "translated_word": "好了",
+      "display_order": 1
+    },
+    {
+      "sentence": "She was ready and waiting at the door by seven.",
+      "style": "Collocational",
+      "translation": "七点整，她已在门口候着。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "You don't have to be perfect to be ready.",
+      "style": "Inspirational",
+      "translation": "无需完美，亦可启程。",
+      "translated_word": "启程",
+      "display_order": 4
+    },
+    {
+      "sentence": "At thirty, I finally felt ready to forgive.",
+      "style": "Intimate",
+      "translation": "三十岁那年，我终于准备好去原谅。",
+      "translated_word": "准备好",
+      "display_order": 2
+    }
+  ]
+}

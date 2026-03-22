@@ -1,0 +1,41 @@
+{
+  "word": "shoot",
+  "phonetic": "/ʃuːt/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "射击；拍摄；射门；冲出",
+  "examples": [
+    {
+      "sentence": "The photographer asked everyone to smile before she began to shoot.",
+      "style": "Contextual",
+      "translation": "摄影师请大家微笑，然后开始拍摄。",
+      "translated_word": "拍摄",
+      "display_order": 2
+    },
+    {
+      "sentence": "We used to shoot hoops in the driveway until the streetlights came on.",
+      "style": "Collocational",
+      "translation": "我们曾在车道上投篮，直到路灯亮起。",
+      "translated_word": "投篮",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather taught me to shoot when I was twelve; his steady hands guiding mine.",
+      "style": "Intimate",
+      "translation": "祖父在我十二岁时教我射击，他沉稳的双手引导着我。",
+      "translated_word": "射击",
+      "display_order": 1
+    },
+    {
+      "sentence": "Light shoots through the cathedral windows, painting the stone floor gold.",
+      "style": "Poetic",
+      "translation": "光线穿透教堂的窗户，将石地染成金色。",
+      "translated_word": "穿透",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "protein",
+  "phonetic": "/ˈproʊtiːn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "蛋白质；蛋白",
+  "examples": [
+    {
+      "sentence": "After the hike, we craved protein: grilled salmon and eggs.",
+      "style": "Contextual",
+      "translation": "徒步归来，我们渴望蛋白质：烤三文鱼和鸡蛋。",
+      "translated_word": "蛋白质",
+      "display_order": 1
+    },
+    {
+      "sentence": "New research links adequate protein intake to improved cognitive function in older adults.",
+      "style": "Formal",
+      "translation": "新研究表明，充足的蛋白质摄入有助于改善老年人的认知功能。",
+      "translated_word": "蛋白质",
+      "display_order": 3
+    },
+    {
+      "sentence": "She replaced sugary snacks with protein bars and nuts.",
+      "style": "Collocational",
+      "translation": "她用蛋白棒和坚果取代了甜食。",
+      "translated_word": "蛋白",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother measured love in protein: eggs at dawn, fish at dusk.",
+      "style": "Intimate",
+      "translation": "祖母用蛋白质丈量爱意：黎明是鸡蛋，黄昏是鱼。",
+      "translated_word": "蛋白质",
+      "display_order": 4
+    }
+  ]
+}

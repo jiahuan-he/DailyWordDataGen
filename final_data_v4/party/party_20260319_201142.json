@@ -1,0 +1,41 @@
+{
+  "word": "party",
+  "phonetic": "/ˈpɑːrti/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "聚会；派对；政党；一方",
+  "examples": [
+    {
+      "sentence": "The whole office came to her farewell party.",
+      "style": "Contextual",
+      "translation": "整个办公室的人都来参加了她的欢送会。",
+      "translated_word": "欢送会",
+      "display_order": 2
+    },
+    {
+      "sentence": "We're throwing a small party for his promotion.",
+      "style": "Collocational",
+      "translation": "我们要为他的升职办一个小型派对。",
+      "translated_word": "派对",
+      "display_order": 1
+    },
+    {
+      "sentence": "At every party, there's someone standing by the window, watching the room like a stranger.",
+      "style": "Philosophical",
+      "translation": "每场聚会上，总有人站在窗边，像个陌生人一样静静看着满屋的人。",
+      "translated_word": "聚会",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her laughter across the party caught me before her eyes did.",
+      "style": "Intimate",
+      "translation": "在那场派对上，她的笑声比目光更早俘获了我。",
+      "translated_word": "派对",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "flex",
+  "phonetic": "/fleks/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "弯曲；绷紧；炫耀",
+  "examples": [
+    {
+      "sentence": "He flexed his fingers before touching the piano keys.",
+      "style": "Contextual",
+      "translation": "他活动了一下手指，然后触上琴键。",
+      "translated_word": "活动",
+      "display_order": 1
+    },
+    {
+      "sentence": "Small brands now flex their creativity against industry giants.",
+      "style": "Formal",
+      "translation": "小品牌如今凭借创意与行业巨头一较高下。",
+      "translated_word": "凭借",
+      "display_order": 4
+    },
+    {
+      "sentence": "True confidence doesn't need to flex; it simply exists.",
+      "style": "Philosophical",
+      "translation": "真正的自信无需炫耀；它只是自然存在。",
+      "translated_word": "炫耀",
+      "display_order": 3
+    },
+    {
+      "sentence": "She watched him flex in the mirror and laughed quietly to herself.",
+      "style": "Intimate",
+      "translation": "她看着他对着镜子秀肌肉，自己偷偷笑了起来。",
+      "translated_word": "秀肌肉",
+      "display_order": 2
+    }
+  ]
+}

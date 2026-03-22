@@ -1,0 +1,40 @@
+{
+  "word": "convict",
+  "phonetic": "/kənˈvɪkt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "定罪；宣判有罪；证明有罪",
+  "examples": [
+    {
+      "sentence": "The jury convicted him on all three counts.",
+      "style": "Contextual",
+      "translation": "陪审团裁定他三项罪名全部成立。",
+      "translated_word": "成立",
+      "display_order": 1
+    },
+    {
+      "sentence": "New DNA evidence convicted the suspect after a decade-long investigation.",
+      "style": "Formal",
+      "translation": "历经十年调查，新的DNA证据最终为嫌疑人定罪。",
+      "translated_word": "定罪",
+      "display_order": 3
+    },
+    {
+      "sentence": "Courts convict the accused; only time reveals the truth.",
+      "style": "Philosophical",
+      "translation": "法庭宣判被告有罪，唯有时间揭示真相。",
+      "translated_word": "有罪",
+      "display_order": 4
+    },
+    {
+      "sentence": "The evidence was enough to charge him, but not to convict.",
+      "style": "Contrastive",
+      "translation": "证据足以起诉他，却不足以定罪。",
+      "translated_word": "定罪",
+      "display_order": 2
+    }
+  ]
+}

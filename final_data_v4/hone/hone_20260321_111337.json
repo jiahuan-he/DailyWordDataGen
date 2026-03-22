@@ -1,0 +1,40 @@
+{
+  "word": "hone",
+  "phonetic": "/hoʊn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "磨练；精进；打磨",
+  "examples": [
+    {
+      "sentence": "Years of debate honed her arguments until they cut like blades.",
+      "style": "Contextual",
+      "translation": "多年的辩论磨砺了她的论点，锋利如刃。",
+      "translated_word": "磨砺",
+      "display_order": 3
+    },
+    {
+      "sentence": "He honed his craft in obscurity before the world took notice.",
+      "style": "Collocational",
+      "translation": "在世人瞩目之前，他默默精进着自己的技艺。",
+      "translated_word": "精进",
+      "display_order": 1
+    },
+    {
+      "sentence": "Discomfort is where skill is honed.",
+      "style": "Inspirational",
+      "translation": "不适之处，正是技艺精进之所。",
+      "translated_word": "精进",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather honed knives every Sunday; I watched, learning that patience itself is a blade.",
+      "style": "Intimate",
+      "translation": "祖父每个周日都磨刀；我在一旁看着，渐渐明白耐心本身也是一把利刃。",
+      "translated_word": "磨",
+      "display_order": 2
+    }
+  ]
+}

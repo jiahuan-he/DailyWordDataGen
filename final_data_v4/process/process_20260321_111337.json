@@ -1,0 +1,40 @@
+{
+  "word": "process",
+  "phonetic": "/ˈprɑːses/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "过程；程序；步骤；进程",
+  "examples": [
+    {
+      "sentence": "The hiring process took three months, from first interview to final offer.",
+      "style": "Contextual",
+      "translation": "招聘流程从初次面试到最终录用，历时三个月。",
+      "translated_word": "流程",
+      "display_order": 1
+    },
+    {
+      "sentence": "Trust the creative process; brilliance rarely arrives on schedule.",
+      "style": "Collocational",
+      "translation": "相信创作的过程；灵感从不按时赴约。",
+      "translated_word": "过程",
+      "display_order": 3
+    },
+    {
+      "sentence": "Healing is not an event but a process: quiet, slow, nonlinear.",
+      "style": "Philosophical",
+      "translation": "愈合不是一个瞬间，而是一段过程：无声、缓慢、迂回。",
+      "translated_word": "过程",
+      "display_order": 2
+    },
+    {
+      "sentence": "Fall in love with the process, and results will follow.",
+      "style": "Inspirational",
+      "translation": "爱上过程，结果自会追随。",
+      "translated_word": "过程",
+      "display_order": 4
+    }
+  ]
+}

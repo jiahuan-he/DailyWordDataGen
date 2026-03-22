@@ -1,0 +1,40 @@
+{
+  "word": "rigid",
+  "phonetic": "/ˈrɪdʒɪd/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "僵硬；刚硬；严格；刻板",
+  "examples": [
+    {
+      "sentence": "The new boots were too rigid to walk in comfortably.",
+      "style": "Contextual",
+      "translation": "新靴子太硬，穿着走路很不舒服。",
+      "translated_word": "硬",
+      "display_order": 1
+    },
+    {
+      "sentence": "His posture was rigid, but his eyes were kind.",
+      "style": "Contrastive",
+      "translation": "他姿态僵硬，眼神却很温柔。",
+      "translated_word": "僵硬",
+      "display_order": 2
+    },
+    {
+      "sentence": "Rigid answers rarely survive good questions.",
+      "style": "Philosophical",
+      "translation": "僵化的答案，往往经不起好问题的追问。",
+      "translated_word": "僵化",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her rigid expectations softened the day she became a mother.",
+      "style": "Intimate",
+      "translation": "成为母亲那天，她严苛的期待终于柔软下来。",
+      "translated_word": "严苛",
+      "display_order": 3
+    }
+  ]
+}

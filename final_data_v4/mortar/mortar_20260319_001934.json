@@ -1,0 +1,40 @@
+{
+  "word": "mortar",
+  "phonetic": "/ˈmɔːrtər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "灰浆；研钵；迫击炮",
+  "examples": [
+    {
+      "sentence": "The wall crumbled where the mortar had worn thin.",
+      "style": "Contextual",
+      "translation": "墙壁在灰浆磨损处渐渐碎裂。",
+      "translated_word": "灰浆",
+      "display_order": 1
+    },
+    {
+      "sentence": "She crushed the spices in a mortar, releasing their fragrance.",
+      "style": "Collocational",
+      "translation": "她在研钵中捣碎香料，香气四溢。",
+      "translated_word": "研钵",
+      "display_order": 2
+    },
+    {
+      "sentence": "Restoration required authentic lime mortar to preserve the building's integrity.",
+      "style": "Formal",
+      "translation": "修复工程需使用传统石灰�ite浆，以保持建筑的历史风貌。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Shared rituals are the mortar of any lasting community.",
+      "style": "Philosophical",
+      "translation": "共同的仪式，是维系社群的粘合剂。",
+      "translated_word": "粘合剂",
+      "display_order": 3
+    }
+  ]
+}

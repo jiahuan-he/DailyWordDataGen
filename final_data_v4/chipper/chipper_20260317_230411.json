@@ -1,0 +1,41 @@
+{
+  "word": "chipper",
+  "phonetic": "/ˈtʃɪpər/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "活泼的；愉快的；精神饱满的",
+  "examples": [
+    {
+      "sentence": "Despite the early hour, she walked in chipper and ready to tackle the day.",
+      "style": "Contextual",
+      "translation": "尽管时间尚早，她神采奕奕地走进来，准备迎接新的一天。",
+      "translated_word": "神采奕奕",
+      "display_order": 2
+    },
+    {
+      "sentence": "He arrived bright and chipper after his morning run.",
+      "style": "Collocational",
+      "translation": "晨跑后，他容光焕发地出现了。",
+      "translated_word": "容光焕发",
+      "display_order": 3
+    },
+    {
+      "sentence": "Coffee in hand, I finally felt chipper enough to face the inbox.",
+      "style": "Intimate",
+      "translation": "手捧咖啡，我终于有了精神去面对收件箱。",
+      "translated_word": "精神",
+      "display_order": 4
+    },
+    {
+      "sentence": "She was surprisingly chipper for someone who had slept only four hours.",
+      "style": "Contrastive",
+      "translation": "只睡了四个小时的她，精神却出奇地好。",
+      "translated_word": "精神",
+      "display_order": 1
+    }
+  ]
+}

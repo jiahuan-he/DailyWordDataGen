@@ -1,0 +1,41 @@
+{
+  "word": "mortal",
+  "phonetic": "/ˈmɔːrtl/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "终有一死的；致命的；凡人的",
+  "examples": [
+    {
+      "sentence": "The wound was mortal; nothing could save him.",
+      "style": "Contextual",
+      "translation": "那是致命伤，已无力回天。",
+      "translated_word": "致命",
+      "display_order": 1
+    },
+    {
+      "sentence": "We create art because we are mortal.",
+      "style": "Philosophical",
+      "translation": "正因终有一死，我们才创作。",
+      "translated_word": "终有一死",
+      "display_order": 3
+    },
+    {
+      "sentence": "Even mountains crumble; all things are mortal.",
+      "style": "Poetic",
+      "translation": "山岳也会崩塌；万物皆有终时。",
+      "translated_word": "终",
+      "display_order": 4
+    },
+    {
+      "sentence": "The gods never age, but their believers remain mortal.",
+      "style": "Contrastive",
+      "translation": "诸神不老不死，而信徒终归尘土。",
+      "translated_word": "终归尘土",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "collect",
+  "phonetic": "/kəˈlekt/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "收集；采集；收藏；聚集",
+  "examples": [
+    {
+      "sentence": "Every autumn, children collect fallen leaves in the park.",
+      "style": "Contextual",
+      "translation": "每年秋天，孩子们都会在公园里收集落叶。",
+      "translated_word": "收集",
+      "display_order": 1
+    },
+    {
+      "sentence": "Before speaking, she paused to collect her thoughts.",
+      "style": "Collocational",
+      "translation": "开口之前，她停顿片刻，整理思绪。",
+      "translated_word": "整理",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather collected maps of places he never visited.",
+      "style": "Intimate",
+      "translation": "祖父收藏着许多他从未踏足之地的地图。",
+      "translated_word": "收藏",
+      "display_order": 2
+    },
+    {
+      "sentence": "What we choose to collect reveals what we fear losing.",
+      "style": "Philosophical",
+      "translation": "我们选择收藏什么，往往暴露了我们害怕失去什么。",
+      "translated_word": "收藏",
+      "display_order": 4
+    }
+  ]
+}

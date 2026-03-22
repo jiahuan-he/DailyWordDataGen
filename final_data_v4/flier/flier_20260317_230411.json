@@ -1,0 +1,40 @@
+{
+  "word": "flier",
+  "phonetic": "/ˈflaɪər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "传单；飞行者；乘客",
+  "examples": [
+    {
+      "sentence": "A crumpled flier on the café table announced a jazz night I'd nearly missed.",
+      "style": "Contextual",
+      "translation": "咖啡桌上一张皱巴巴的传单，宣传着一场我差点错过的爵士之夜。",
+      "translated_word": "传单",
+      "display_order": 3
+    },
+    {
+      "sentence": "She handed out fliers at the corner, each one a quiet invitation.",
+      "style": "Collocational",
+      "translation": "她在街角分发传单，每一张都是一份静默的邀约。",
+      "translated_word": "传单",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother kept a yellowed flier from her first piano recital, tucked inside her Bible.",
+      "style": "Intimate",
+      "translation": "祖母把她第一场钢琴独奏会那张泛黄的传单，夹在圣经里珍藏至今。",
+      "translated_word": "传单",
+      "display_order": 2
+    },
+    {
+      "sentence": "The campaign distributed ten thousand fliers in a single weekend, blanketing the district.",
+      "style": "Formal",
+      "translation": "竞选团队在一个周末内分发了上万份传单，铺天盖地席卷整个选区。",
+      "translated_word": "传单",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "reservation",
+  "phonetic": "/ˌrezərˈveɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "预订；保留；疑虑",
+  "examples": [
+    {
+      "sentence": "We arrived at eight; the corner booth was waiting under our reservation.",
+      "style": "Contextual",
+      "translation": "我们八点到达，角落的卡座已在预订下静候。",
+      "translated_word": "预订",
+      "display_order": 1
+    },
+    {
+      "sentence": "Several analysts have expressed reservations about the merger's timeline.",
+      "style": "Formal",
+      "translation": "数位分析师对合并时间表表示了保留意见。",
+      "translated_word": "保留",
+      "display_order": 4
+    },
+    {
+      "sentence": "She supported the plan without reservation.",
+      "style": "Collocational",
+      "translation": "她毫无保留地支持这项计划。",
+      "translated_word": "保留",
+      "display_order": 2
+    },
+    {
+      "sentence": "My one reservation about leaving was the dog I'd have to say goodbye to.",
+      "style": "Intimate",
+      "translation": "离开前唯一让我犹豫的，是那只要与我道别的狗。",
+      "translated_word": "犹豫",
+      "display_order": 3
+    }
+  ]
+}

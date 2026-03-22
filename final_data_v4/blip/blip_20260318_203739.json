@@ -1,0 +1,40 @@
+{
+  "word": "blip",
+  "phonetic": "/blɪp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "短促声响；小亮点；小波动；小插曲",
+  "examples": [
+    {
+      "sentence": "The outage was a minor blip; we resumed work within minutes.",
+      "style": "Contextual",
+      "translation": "停电只是个小插曲，几分钟内我们便恢复了工作。",
+      "translated_word": "小插曲",
+      "display_order": 1
+    },
+    {
+      "sentence": "Analysts dismissed the quarterly loss as a temporary blip in an otherwise stellar year.",
+      "style": "Formal",
+      "translation": "分析师将季度亏损视为这辉煌一年中的短暂波动。",
+      "translated_word": "波动",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every crisis feels enormous until time reveals it as a blip.",
+      "style": "Philosophical",
+      "translation": "每场危机都显得巨大，直到时间将它还原成一个小点。",
+      "translated_word": "小点",
+      "display_order": 4
+    },
+    {
+      "sentence": "That argument once felt catastrophic; now it's barely a blip in our decade together.",
+      "style": "Intimate",
+      "translation": "那场争吵曾让人觉得天塌了，如今在我们共度的十年里，它不过是微不足道的一笔。",
+      "translated_word": "一笔",
+      "display_order": 3
+    }
+  ]
+}

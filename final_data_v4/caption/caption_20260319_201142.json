@@ -1,0 +1,40 @@
+{
+  "word": "caption",
+  "phonetic": "/ˈkæpʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "标题；说明文字；字幕",
+  "examples": [
+    {
+      "sentence": "The caption beneath the photo named each person in the frame.",
+      "style": "Contextual",
+      "translation": "照片下方的说明文字标注了画面中每个人的名字。",
+      "translated_word": "说明文字",
+      "display_order": 1
+    },
+    {
+      "sentence": "She spent ten minutes crafting the perfect caption for her sunset post.",
+      "style": "Collocational",
+      "translation": "她花了十分钟，为那张日落照片斟酌最完美的配文。",
+      "translated_word": "配文",
+      "display_order": 2
+    },
+    {
+      "sentence": "The museum revised its captions to reflect new historical research.",
+      "style": "Formal",
+      "translation": "博物馆修订了展品说明，以反映最新的历史研究成果。",
+      "translated_word": "说明",
+      "display_order": 4
+    },
+    {
+      "sentence": "His handwritten caption on the back of that photograph still makes me smile.",
+      "style": "Intimate",
+      "translation": "他在照片背面手写的那行字，至今仍让我微笑。",
+      "translated_word": "那行字",
+      "display_order": 3
+    }
+  ]
+}

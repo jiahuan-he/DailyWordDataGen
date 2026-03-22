@@ -1,0 +1,40 @@
+{
+  "word": "soccer",
+  "phonetic": "/ˈsɑːkər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "足球；英式足球",
+  "examples": [
+    {
+      "sentence": "The kids chased the soccer ball across the muddy field.",
+      "style": "Contextual",
+      "translation": "孩子们在泥泞的场地上追逐着足球。",
+      "translated_word": "足球",
+      "display_order": 1
+    },
+    {
+      "sentence": "She joined a weekend soccer league to meet new people.",
+      "style": "Collocational",
+      "translation": "她加入了周末足球联赛，结识新朋友。",
+      "translated_word": "足球",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sunday mornings meant soccer with my father; the game taught me patience.",
+      "style": "Intimate",
+      "translation": "周日的早晨意味着和父亲一起踢足球；比赛教会了我耐心。",
+      "translated_word": "足球",
+      "display_order": 2
+    },
+    {
+      "sentence": "The national soccer team clinched a historic World Cup qualification.",
+      "style": "Formal",
+      "translation": "国家足球队历史性地锁定了世界杯参赛资格。",
+      "translated_word": "足球",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "mostly",
+  "phonetic": "/ˈmoʊstli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "主要；大多；通常",
+  "examples": [
+    {
+      "sentence": "The park is mostly quiet before sunrise.",
+      "style": "Contextual",
+      "translation": "日出前，公园大多寂静无声。",
+      "translated_word": "大多",
+      "display_order": 1
+    },
+    {
+      "sentence": "He reads mostly fiction, with occasional poetry.",
+      "style": "Collocational",
+      "translation": "他主要读小说，偶尔翻翻诗集。",
+      "translated_word": "主要",
+      "display_order": 2
+    },
+    {
+      "sentence": "Our childhood was mostly sunny, even when it rained.",
+      "style": "Intimate",
+      "translation": "我们的童年大多晴朗，即使下着雨。",
+      "translated_word": "大多",
+      "display_order": 3
+    },
+    {
+      "sentence": "We are mostly the questions we keep asking.",
+      "style": "Philosophical",
+      "translation": "我们大多是自己不断追问的那些问题。",
+      "translated_word": "大多",
+      "display_order": 4
+    }
+  ]
+}

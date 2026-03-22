@@ -1,0 +1,40 @@
+{
+  "word": "nerve",
+  "phonetic": "/nɜːrv/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "神经；勇气；胆量；厚颜",
+  "examples": [
+    {
+      "sentence": "The dentist hit a nerve, and pain shot through my jaw.",
+      "style": "Contextual",
+      "translation": "牙医触到了神经，痛感瞬间蹿过下颌。",
+      "translated_word": "神经",
+      "display_order": 1
+    },
+    {
+      "sentence": "His careless words struck a nerve she'd kept hidden for years.",
+      "style": "Collocational",
+      "translation": "他漫不经心的一句话，触动了她藏匿多年的心结。",
+      "translated_word": "心结",
+      "display_order": 3
+    },
+    {
+      "sentence": "True nerve is not fearlessness; it is fear walking forward anyway.",
+      "style": "Philosophical",
+      "translation": "真正的勇气不是无畏，而是恐惧中依然向前。",
+      "translated_word": "勇气",
+      "display_order": 4
+    },
+    {
+      "sentence": "Before the interview, my nerves hummed like live wires. I spoke anyway.",
+      "style": "Intimate",
+      "translation": "面试前，紧张如电流穿身。我还是开了口。",
+      "translated_word": "紧张",
+      "display_order": 2
+    }
+  ]
+}

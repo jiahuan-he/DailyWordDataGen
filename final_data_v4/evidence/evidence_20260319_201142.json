@@ -1,0 +1,40 @@
+{
+  "word": "evidence",
+  "phonetic": "/ˈevɪdəns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "证据；迹象；痕迹",
+  "examples": [
+    {
+      "sentence": "Empty coffee cups lined his desk: evidence of another sleepless night.",
+      "style": "Contextual",
+      "translation": "空咖啡杯堆满桌面，又是一个不眠之夜的痕迹。",
+      "translated_word": "痕迹",
+      "display_order": 2
+    },
+    {
+      "sentence": "Prosecutors unveiled new evidence that could overturn the verdict.",
+      "style": "Formal",
+      "translation": "检察官公布了可能推翻原判的新证据。",
+      "translated_word": "证据",
+      "display_order": 1
+    },
+    {
+      "sentence": "We often dismiss evidence that threatens what we want to believe.",
+      "style": "Philosophical",
+      "translation": "我们常常无视那些动摇信念的证据。",
+      "translated_word": "证据",
+      "display_order": 3
+    },
+    {
+      "sentence": "Those faded letters in her drawer were evidence of a love she never spoke of.",
+      "style": "Intimate",
+      "translation": "抽屉里泛黄的信笺，是她从未言说的爱的痕迹。",
+      "translated_word": "痕迹",
+      "display_order": 4
+    }
+  ]
+}

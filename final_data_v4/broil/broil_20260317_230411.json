@@ -1,0 +1,40 @@
+{
+  "word": "broil",
+  "phonetic": "/brɔɪl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "烤；炙烤；使灼热",
+  "examples": [
+    {
+      "sentence": "Broil the salmon for five minutes on each side.",
+      "style": "Contextual",
+      "translation": "三文鱼每面烤五分钟即可。",
+      "translated_word": "烤",
+      "display_order": 1
+    },
+    {
+      "sentence": "Broil the peppers until the skins blister and char.",
+      "style": "Collocational",
+      "translation": "将甜椒烤至表皮起泡焦黑。",
+      "translated_word": "烤",
+      "display_order": 3
+    },
+    {
+      "sentence": "The city broiled under an August sun that forgave nothing.",
+      "style": "Poetic",
+      "translation": "八月骄阳毫不留情，整座城市都在炙烤中。",
+      "translated_word": "炙烤",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother would broil lamb chops every Sunday, filling the house with her quiet devotion.",
+      "style": "Intimate",
+      "translation": "祖母每个周日都会烤羊排，满屋弥漫着她无声的爱意。",
+      "translated_word": "烤",
+      "display_order": 2
+    }
+  ]
+}

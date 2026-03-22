@@ -1,0 +1,39 @@
+{
+  "word": "specify",
+  "phonetic": "/ˈspesɪfaɪ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "明确指出；详细说明；具体规定",
+  "examples": [
+    {
+      "sentence": "The contract specifies a thirty-day notice period.",
+      "style": "Contextual",
+      "translation": "合同明确规定了三十天的通知期限。",
+      "translated_word": "规定",
+      "display_order": 2
+    },
+    {
+      "sentence": "Officials declined to specify which measures would come first.",
+      "style": "Formal",
+      "translation": "官员拒绝透露哪些措施将优先实施。",
+      "translated_word": "透露",
+      "display_order": 3
+    },
+    {
+      "sentence": "Please specify your preferred delivery date at checkout.",
+      "style": "Collocational",
+      "translation": "结账时请注明您期望的送达日期。",
+      "translated_word": "注明",
+      "display_order": 1
+    },
+    {
+      "sentence": "She didn't just suggest a time; she specified the exact minute.",
+      "style": "Contrastive",
+      "translation": "她不只是提议了一个时间；她精确到了分钟。",
+      "translated_word": "精确",
+      "display_order": 4
+    }
+  ]
+}

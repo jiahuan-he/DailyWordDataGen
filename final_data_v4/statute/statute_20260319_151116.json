@@ -1,0 +1,39 @@
+{
+  "word": "statute",
+  "phonetic": "/ˈstætʃuːt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "法规；法令；成文法",
+  "examples": [
+    {
+      "sentence": "The new statute requires all employers to provide paid parental leave.",
+      "style": "Contextual",
+      "translation": "新法规要求所有雇主提供带薪育儿假。",
+      "translated_word": "法规",
+      "display_order": 1
+    },
+    {
+      "sentence": "Congress passed a landmark statute protecting digital privacy rights.",
+      "style": "Formal",
+      "translation": "国会通过了一项保护数字隐私权的里程碑式法令。",
+      "translated_word": "法令",
+      "display_order": 2
+    },
+    {
+      "sentence": "The statute of limitations expired before charges could be filed.",
+      "style": "Collocational",
+      "translation": "诉讼时效已过，无法再提起指控。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Unlike informal guidelines, a statute carries the full force of law.",
+      "style": "Contrastive",
+      "translation": "与非正式的指导方针不同，法规具有完整的法律效力。",
+      "translated_word": "法规",
+      "display_order": 3
+    }
+  ]
+}

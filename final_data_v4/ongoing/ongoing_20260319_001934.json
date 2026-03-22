@@ -1,0 +1,41 @@
+{
+  "word": "ongoing",
+  "phonetic": "/ˈɑːnˌɡoʊɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "持续的；进行中的；不断的",
+  "examples": [
+    {
+      "sentence": "The construction is ongoing; please use the side entrance.",
+      "style": "Contextual",
+      "translation": "施工仍在进行中，请走侧门。",
+      "translated_word": "进行中",
+      "display_order": 1
+    },
+    {
+      "sentence": "The investigation into the data breach remains ongoing.",
+      "style": "Formal",
+      "translation": "针对数据泄露事件的调查仍在持续。",
+      "translated_word": "持续",
+      "display_order": 3
+    },
+    {
+      "sentence": "Their ongoing collaboration has produced three bestsellers.",
+      "style": "Collocational",
+      "translation": "他们持续的合作已催生了三部畅销书。",
+      "translated_word": "持续的",
+      "display_order": 2
+    },
+    {
+      "sentence": "Growth is an ongoing conversation between who you are and who you could be.",
+      "style": "Philosophical",
+      "translation": "成长是现在的你与未来的你之间持续的对话。",
+      "translated_word": "持续的",
+      "display_order": 4
+    }
+  ]
+}

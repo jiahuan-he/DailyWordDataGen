@@ -1,0 +1,40 @@
+{
+  "word": "pen",
+  "phonetic": "/pen/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "笔；钢笔；畜栏",
+  "examples": [
+    {
+      "sentence": "She uncapped her pen and signed the contract.",
+      "style": "Contextual",
+      "translation": "她拔开笔帽，在合同上签下了名字。",
+      "translated_word": "笔",
+      "display_order": 1
+    },
+    {
+      "sentence": "He keeps a pen and notepad by his bed for midnight ideas.",
+      "style": "Collocational",
+      "translation": "他在床头放着笔和本子，用来记录深夜的灵感。",
+      "translated_word": "笔",
+      "display_order": 2
+    },
+    {
+      "sentence": "A pen records not just words, but the pauses between them.",
+      "style": "Philosophical",
+      "translation": "笔所记录的不只是文字，还有字句间的停顿。",
+      "translated_word": "笔",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather's pen sits on my desk now, its ink long dry.",
+      "style": "Intimate",
+      "translation": "祖父的笔如今静置在我的书桌上，墨迹早已干涸。",
+      "translated_word": "笔",
+      "display_order": 3
+    }
+  ]
+}

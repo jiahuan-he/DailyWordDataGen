@@ -1,0 +1,40 @@
+{
+  "word": "contact",
+  "phonetic": "/ˈkɒntækt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "联系；联络；接触",
+  "examples": [
+    {
+      "sentence": "For updates, contact the front desk before noon.",
+      "style": "Contextual",
+      "translation": "如需了解最新信息，请于中午前联系前台。",
+      "translated_word": "联系",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities contacted local residents ahead of the scheduled evacuation.",
+      "style": "Formal",
+      "translation": "当局在计划疏散前已联系当地居民。",
+      "translated_word": "联系",
+      "display_order": 2
+    },
+    {
+      "sentence": "He tried to contact her for weeks, but every call went unanswered.",
+      "style": "Collocational",
+      "translation": "他试图联系她数周，但每通电话都无人接听。",
+      "translated_word": "联系",
+      "display_order": 3
+    },
+    {
+      "sentence": "Three years later, she finally contacted me: one word, 'sorry.'",
+      "style": "Intimate",
+      "translation": "三年后，她终于联系了我：只有一个字，「抱歉」。",
+      "translated_word": "联系",
+      "display_order": 4
+    }
+  ]
+}

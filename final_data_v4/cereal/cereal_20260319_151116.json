@@ -1,0 +1,39 @@
+{
+  "word": "cereal",
+  "phonetic": "/ˈsɪriəl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "麦片；谷物；谷类作物",
+  "examples": [
+    {
+      "sentence": "She poured milk over her cereal while the coffee brewed.",
+      "style": "Contextual",
+      "translation": "咖啡在壶中沸腾，她往麦片里倒入牛奶。",
+      "translated_word": "麦片",
+      "display_order": 1
+    },
+    {
+      "sentence": "A bowl of cereal with fresh berries; her quiet morning ritual.",
+      "style": "Collocational",
+      "translation": "一碗麦片配新鲜浆果；她静谧的晨间仪式。",
+      "translated_word": "麦片",
+      "display_order": 3
+    },
+    {
+      "sentence": "The kitchen still smells like the cereal my father ate every morning.",
+      "style": "Intimate",
+      "translation": "厨房里至今还残留着父亲每天早餐麦片的气息。",
+      "translated_word": "麦片",
+      "display_order": 4
+    },
+    {
+      "sentence": "He chose cereal over eggs; mornings were never long enough for cooking.",
+      "style": "Contrastive",
+      "translation": "他选了麦片而非鸡蛋；早晨总是太短，来不及下厨。",
+      "translated_word": "麦片",
+      "display_order": 2
+    }
+  ]
+}

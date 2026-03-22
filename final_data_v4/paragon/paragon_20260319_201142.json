@@ -1,0 +1,40 @@
+{
+  "word": "paragon",
+  "phonetic": "/ˈpærəɡən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "典范；楷模；完美榜样",
+  "examples": [
+    {
+      "sentence": "The institute named her a paragon of ethical leadership.",
+      "style": "Formal",
+      "translation": "该机构将她誉为道德领导力的典范。",
+      "translated_word": "典范",
+      "display_order": 1
+    },
+    {
+      "sentence": "The paragon we admire is often just a stranger whose flaws we cannot see.",
+      "style": "Philosophical",
+      "translation": "我们仰慕的楷模，往往只是一个看不见其缺陷的陌生人。",
+      "translated_word": "楷模",
+      "display_order": 3
+    },
+    {
+      "sentence": "In a city of noise, she stood still: a paragon carved from silence.",
+      "style": "Poetic",
+      "translation": "在喧嚣的城市里，她静静伫立：一尊由沉默雕刻的典范。",
+      "translated_word": "典范",
+      "display_order": 4
+    },
+    {
+      "sentence": "Critics expected a paragon; what they got was a flawed, brilliant visionary.",
+      "style": "Contrastive",
+      "translation": "评论家期待的是完人；他们得到的，是一位有瑕疵的天才先驱。",
+      "translated_word": "完人",
+      "display_order": 2
+    }
+  ]
+}

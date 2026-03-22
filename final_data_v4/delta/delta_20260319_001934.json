@@ -1,0 +1,39 @@
+{
+  "word": "delta",
+  "phonetic": "/ˈdeltə/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "三角洲；变化量；差值",
+  "examples": [
+    {
+      "sentence": "The Nile delta has sustained Egyptian agriculture for thousands of years.",
+      "style": "Contextual",
+      "translation": "尼罗河三角洲滋养了埃及农业数千年。",
+      "translated_word": "三角洲",
+      "display_order": 1
+    },
+    {
+      "sentence": "Researchers observed a measurable delta in ocean temperatures since 2010.",
+      "style": "Formal",
+      "translation": "研究人员观测到自2010年以来海洋温度的显著变化量。",
+      "translated_word": "变化量",
+      "display_order": 3
+    },
+    {
+      "sentence": "At dusk, the delta turns amber: water, reeds, and silence woven into one.",
+      "style": "Poetic",
+      "translation": "黄昏时分，三角洲染上琥珀色：水、芦苇与寂静交织成一体。",
+      "translated_word": "三角洲",
+      "display_order": 2
+    },
+    {
+      "sentence": "Growth is found in the delta between who you were and who you are becoming.",
+      "style": "Philosophical",
+      "translation": "成长，藏在曾经的你与正在成为的你之间的差值里。",
+      "translated_word": "差值",
+      "display_order": 4
+    }
+  ]
+}

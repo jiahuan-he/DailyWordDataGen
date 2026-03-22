@@ -1,0 +1,39 @@
+{
+  "word": "submerge",
+  "phonetic": "/səbˈmɜːdʒ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "淹没；浸没；沉浸；隐藏",
+  "examples": [
+    {
+      "sentence": "The flood submerged entire neighborhoods within hours.",
+      "style": "Contextual",
+      "translation": "洪水在数小时内淹没了整片街区。",
+      "translated_word": "淹没",
+      "display_order": 1
+    },
+    {
+      "sentence": "She submerged beneath the surface, letting the world dissolve above.",
+      "style": "Poetic",
+      "translation": "她潜入水下，任世界在头顶消融。",
+      "translated_word": "潜入",
+      "display_order": 2
+    },
+    {
+      "sentence": "We submerge our doubts so often they become invisible to us.",
+      "style": "Philosophical",
+      "translation": "我们太常压抑疑虑，以至于它们对自己也隐形了。",
+      "translated_word": "压抑",
+      "display_order": 4
+    },
+    {
+      "sentence": "He submerged himself in work to escape the silence at home.",
+      "style": "Collocational",
+      "translation": "他埋首工作，逃避家中的寂静。",
+      "translated_word": "埋首",
+      "display_order": 3
+    }
+  ]
+}

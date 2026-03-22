@@ -1,0 +1,40 @@
+{
+  "word": "implicate",
+  "phonetic": "/ˈɪmplɪkeɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "牵连；暗示；使卷入",
+  "examples": [
+    {
+      "sentence": "The fingerprints on the glass implicate only one person.",
+      "style": "Contextual",
+      "translation": "玻璃杯上的指纹只指向一个人。",
+      "translated_word": "指向",
+      "display_order": 2
+    },
+    {
+      "sentence": "Leaked documents implicate three executives in the bribery case.",
+      "style": "Formal",
+      "translation": "泄露的文件显示三名高管涉及贿赂案。",
+      "translated_word": "涉及",
+      "display_order": 1
+    },
+    {
+      "sentence": "To love is to implicate yourself in another's becoming.",
+      "style": "Philosophical",
+      "translation": "去爱，便是将自己卷入另一个人的成长。",
+      "translated_word": "卷入",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her silence at dinner implicated everything she could not say.",
+      "style": "Intimate",
+      "translation": "她在晚餐时的沉默，暗示了所有无法说出口的话。",
+      "translated_word": "暗示",
+      "display_order": 3
+    }
+  ]
+}

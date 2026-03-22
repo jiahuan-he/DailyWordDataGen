@@ -1,0 +1,42 @@
+{
+  "word": "rubbish",
+  "phonetic": "/ˈrʌbɪʃ/",
+  "pos": [
+    "adjective",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "垃圾；废话；废物",
+  "examples": [
+    {
+      "sentence": "After the festival, rubbish lined the empty streets.",
+      "style": "Contextual",
+      "translation": "节日过后，空荡的街道上满是垃圾。",
+      "translated_word": "垃圾",
+      "display_order": 1
+    },
+    {
+      "sentence": "Stop talking rubbish and show me the data.",
+      "style": "Collocational",
+      "translation": "别说废话了，把数据给我看。",
+      "translated_word": "废话",
+      "display_order": 2
+    },
+    {
+      "sentence": "One collector's rubbish is another's rare find.",
+      "style": "Contrastive",
+      "translation": "一人眼中的废物，是另一人苦寻的珍品。",
+      "translated_word": "废物",
+      "display_order": 3
+    },
+    {
+      "sentence": "We sort our rubbish with care, yet let useless thoughts pile high.",
+      "style": "Philosophical",
+      "translation": "我们细心分类垃圾，却任无用的念头堆积如山。",
+      "translated_word": "垃圾",
+      "display_order": 4
+    }
+  ]
+}

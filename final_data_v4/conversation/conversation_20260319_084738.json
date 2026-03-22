@@ -1,0 +1,40 @@
+{
+  "word": "conversation",
+  "phonetic": "/ˌkɑːnvərˈseɪʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "对话；交谈；谈话",
+  "examples": [
+    {
+      "sentence": "The coffee grew cold as their conversation stretched into the evening.",
+      "style": "Contextual",
+      "translation": "咖啡凉了，他们的谈话却延续到了傍晚。",
+      "translated_word": "谈话",
+      "display_order": 2
+    },
+    {
+      "sentence": "She struck up a conversation with the stranger beside her on the train.",
+      "style": "Collocational",
+      "translation": "她在火车上和身旁的陌生人攀谈起来。",
+      "translated_word": "攀谈",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some conversations change us quietly; we only notice years later.",
+      "style": "Philosophical",
+      "translation": "有些对话悄然改变了我们，多年后才恍然察觉。",
+      "translated_word": "对话",
+      "display_order": 4
+    },
+    {
+      "sentence": "That late-night conversation with my father shaped who I became.",
+      "style": "Intimate",
+      "translation": "那晚与父亲的长谈，塑造了后来的我。",
+      "translated_word": "长谈",
+      "display_order": 3
+    }
+  ]
+}

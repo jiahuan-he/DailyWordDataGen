@@ -1,0 +1,40 @@
+{
+  "word": "hankering",
+  "phonetic": "/ˈhæŋkərɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "渴望；热望；向往",
+  "examples": [
+    {
+      "sentence": "She had a sudden hankering for her grandmother's apple pie.",
+      "style": "Contextual",
+      "translation": "她突然想念起奶奶做的苹果派。",
+      "translated_word": "想念",
+      "display_order": 1
+    },
+    {
+      "sentence": "A hankering for the sea brought him back to his coastal hometown.",
+      "style": "Collocational",
+      "translation": "对大海的向往，将他带回了海边的故乡。",
+      "translated_word": "向往",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some hankerings never fade; they simply wait.",
+      "style": "Poetic",
+      "translation": "有些渴望从未消退，只是静静等候。",
+      "translated_word": "渴望",
+      "display_order": 4
+    },
+    {
+      "sentence": "That old hankering for adventure stirred again when the job offer arrived from abroad.",
+      "style": "Intimate",
+      "translation": "当海外的工作邀约到来时，那份对冒险的渴望再次被唤醒。",
+      "translated_word": "渴望",
+      "display_order": 3
+    }
+  ]
+}

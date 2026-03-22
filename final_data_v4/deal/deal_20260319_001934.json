@@ -1,0 +1,41 @@
+{
+  "word": "deal",
+  "phonetic": "/diːl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "交易；协议；待遇；大量",
+  "examples": [
+    {
+      "sentence": "The deal was simple: free rent in exchange for caregiving.",
+      "style": "Contextual",
+      "translation": "条件很简单：照顾老人，换取免费住房。",
+      "translated_word": "条件",
+      "display_order": 3
+    },
+    {
+      "sentence": "The merger deal will reshape the entire industry.",
+      "style": "Formal",
+      "translation": "这笔并购交易将重塑整个行业。",
+      "translated_word": "交易",
+      "display_order": 1
+    },
+    {
+      "sentence": "They shook hands and closed the deal before lunch.",
+      "style": "Collocational",
+      "translation": "午餐前，他们握手成交。",
+      "translated_word": "成交",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every compromise is a quiet deal we make with ourselves.",
+      "style": "Philosophical",
+      "translation": "每一次妥协，都是我们与自己达成的无声协议。",
+      "translated_word": "协议",
+      "display_order": 4
+    }
+  ]
+}

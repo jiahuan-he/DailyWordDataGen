@@ -1,0 +1,39 @@
+{
+  "word": "appoint",
+  "phonetic": "/əˈpɔɪnt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "任命；委派；指定",
+  "examples": [
+    {
+      "sentence": "The board appointed her CEO after a unanimous vote.",
+      "style": "Formal",
+      "translation": "董事会一致投票后，任命她为首席执行官。",
+      "translated_word": "任命",
+      "display_order": 1
+    },
+    {
+      "sentence": "When the old coach retired, everyone knew who they would appoint next.",
+      "style": "Contextual",
+      "translation": "老教练退休时，所有人都知道下一任会是谁。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "He was appointed to the committee, appointed to lead, appointed to speak; yet he longed to simply listen.",
+      "style": "Philosophical",
+      "translation": "他被任命进委员会，被任命去领导，被任命发言；而他只渴望静静聆听。",
+      "translated_word": "任命",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother appointed me keeper of her recipes, handwritten on yellowed cards.",
+      "style": "Intimate",
+      "translation": "祖母指定我保管她的食谱，那些泛黄的卡片上写满她的笔迹。",
+      "translated_word": "指定",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "circulation",
+  "phonetic": "/ˌsɜːrkjəˈleɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "循环；流通；发行量；传播",
+  "examples": [
+    {
+      "sentence": "Cold hands often signal poor circulation.",
+      "style": "Contextual",
+      "translation": "手脚冰凉，往往是血液循环不畅的信号。",
+      "translated_word": "循环",
+      "display_order": 1
+    },
+    {
+      "sentence": "The magazine's circulation fell sharply after the scandal.",
+      "style": "Formal",
+      "translation": "丑闻曝光后，该杂志的发行量骤然下滑。",
+      "translated_word": "发行量",
+      "display_order": 3
+    },
+    {
+      "sentence": "Stretching keeps your circulation flowing on long flights.",
+      "style": "Collocational",
+      "translation": "长途飞行中，适时伸展能促进血液流通。",
+      "translated_word": "流通",
+      "display_order": 2
+    },
+    {
+      "sentence": "An idea locked away has no circulation; it must be shared to live.",
+      "style": "Philosophical",
+      "translation": "思想若深锁不出，便无从流传；唯有分享，方能存续。",
+      "translated_word": "流传",
+      "display_order": 4
+    }
+  ]
+}

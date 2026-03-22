@@ -1,0 +1,41 @@
+{
+  "word": "bear",
+  "phonetic": "/beər/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "忍受；承担；承载；结出",
+  "examples": [
+    {
+      "sentence": "The old bridge could barely bear the weight of a single truck.",
+      "style": "Contextual",
+      "translation": "这座老桥勉强能承受一辆卡车的重量。",
+      "translated_word": "承受",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her patience bore fruit; the garden finally bloomed.",
+      "style": "Collocational",
+      "translation": "她的耐心结出了果实；花园终于盛开。",
+      "translated_word": "结出",
+      "display_order": 4
+    },
+    {
+      "sentence": "What we bear in silence shapes us more than what we speak aloud.",
+      "style": "Philosophical",
+      "translation": "沉默中承受的，比说出口的更能塑造我们。",
+      "translated_word": "承受",
+      "display_order": 3
+    },
+    {
+      "sentence": "My mother bore the news with a stillness I have never forgotten.",
+      "style": "Intimate",
+      "translation": "母亲听到那消息时的平静，我至今难忘。",
+      "translated_word": null,
+      "display_order": 2
+    }
+  ]
+}

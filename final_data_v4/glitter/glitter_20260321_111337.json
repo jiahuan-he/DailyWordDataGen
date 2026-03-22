@@ -1,0 +1,40 @@
+{
+  "word": "glitter",
+  "phonetic": "/ˈɡlɪtər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "闪烁；闪耀；闪闪发光",
+  "examples": [
+    {
+      "sentence": "The harbor glittered under a thousand lanterns.",
+      "style": "Poetic",
+      "translation": "千盏灯笼下，港湾波光粼粼。",
+      "translated_word": "波光粼粼",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her eyes glittered with a defiance words could not capture.",
+      "style": "Intimate",
+      "translation": "她的眼中闪烁着言语无法形容的倔强。",
+      "translated_word": "闪烁",
+      "display_order": 3
+    },
+    {
+      "sentence": "Not everything that glitters is asking to be held.",
+      "style": "Philosophical",
+      "translation": "并非所有闪烁之物，都渴望被握在手中。",
+      "translated_word": "闪烁",
+      "display_order": 4
+    },
+    {
+      "sentence": "Fresh snow glittered across the field as the sun rose.",
+      "style": "Contextual",
+      "translation": "旭日初升，新雪在原野上闪闪发亮。",
+      "translated_word": "闪闪发亮",
+      "display_order": 1
+    }
+  ]
+}

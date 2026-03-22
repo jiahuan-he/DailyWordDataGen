@@ -1,0 +1,40 @@
+{
+  "word": "meantime",
+  "phonetic": "/ˈmiːntaɪm/",
+  "pos": [
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "其间；同时；在此期间",
+  "examples": [
+    {
+      "sentence": "The flight was delayed, so we explored the terminal in the meantime.",
+      "style": "Contextual",
+      "translation": "航班延误了，我们便趁这段时间逛了逛航站楼。",
+      "translated_word": "这段时间",
+      "display_order": 1
+    },
+    {
+      "sentence": "In the meantime, coffee became my closest companion.",
+      "style": "Collocational",
+      "translation": "在那段日子里，咖啡成了我最亲密的伙伴。",
+      "translated_word": "那段日子",
+      "display_order": 2
+    },
+    {
+      "sentence": "We wait for answers; the meantime is where we quietly grow.",
+      "style": "Philosophical",
+      "translation": "我们等待答案；而在等待中，我们悄然成长。",
+      "translated_word": "等待中",
+      "display_order": 4
+    },
+    {
+      "sentence": "He promised to call back, and in the meantime, I learned to stop waiting.",
+      "style": "Intimate",
+      "translation": "他答应会回电，而在那段等待里，我学会了不再守候。",
+      "translated_word": "那段等待",
+      "display_order": 3
+    }
+  ]
+}

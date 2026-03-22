@@ -1,0 +1,39 @@
+{
+  "word": "calcium",
+  "phonetic": "/ˈkælsiəm/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "钙；钙质",
+  "examples": [
+    {
+      "sentence": "The doctor glanced at her bone scan and prescribed more calcium.",
+      "style": "Contextual",
+      "translation": "医生看了一眼她的骨密度报告，嘱咐她多补钙。",
+      "translated_word": "钙",
+      "display_order": 1
+    },
+    {
+      "sentence": "Studies confirm adequate calcium intake reduces osteoporosis risk in older adults.",
+      "style": "Formal",
+      "translation": "研究证实，充足的钙摄入可降低老年人骨质疏松的风险。",
+      "translated_word": "钙",
+      "display_order": 4
+    },
+    {
+      "sentence": "Leafy greens offer a surprising source of calcium for those avoiding dairy.",
+      "style": "Collocational",
+      "translation": "对于不吃乳制品的人来说，绿叶蔬菜是意想不到的钙质来源。",
+      "translated_word": "钙质",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every glass of milk my grandmother poured came with a small lecture about calcium.",
+      "style": "Intimate",
+      "translation": "外婆递来的每一杯牛奶，都附带着一番关于补钙的叮嘱。",
+      "translated_word": "钙",
+      "display_order": 2
+    }
+  ]
+}

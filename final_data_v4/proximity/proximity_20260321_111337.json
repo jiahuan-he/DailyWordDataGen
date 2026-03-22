@@ -1,0 +1,39 @@
+{
+  "word": "proximity",
+  "phonetic": "/prɑːkˈsɪməti/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "接近；邻近；临近",
+  "examples": [
+    {
+      "sentence": "The café's proximity to campus kept us coming back.",
+      "style": "Contextual",
+      "translation": "咖啡馆离校园近，我们总爱去那儿。",
+      "translated_word": "近",
+      "display_order": 2
+    },
+    {
+      "sentence": "Authorities warned residents about their proximity to the wildfire zone.",
+      "style": "Formal",
+      "translation": "当局提醒居民注意与山火区域的距离。",
+      "translated_word": "距离",
+      "display_order": 3
+    },
+    {
+      "sentence": "We rented here for its proximity to the train station.",
+      "style": "Collocational",
+      "translation": "我们租这里，就是因为离地铁站近。",
+      "translated_word": "近",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her proximity on that crowded bus made my heart race.",
+      "style": "Intimate",
+      "translation": "拥挤的公交车上，她就在身旁，我的心跳不由得加速。",
+      "translated_word": "身旁",
+      "display_order": 4
+    }
+  ]
+}

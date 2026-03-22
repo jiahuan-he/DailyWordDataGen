@@ -1,0 +1,41 @@
+{
+  "word": "quit",
+  "phonetic": "/kwɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "辞职；放弃；停止；戒掉",
+  "examples": [
+    {
+      "sentence": "He quit without notice, leaving only his badge on the desk.",
+      "style": "Contextual",
+      "translation": "他不辞而别，只留下桌上的工牌。",
+      "translated_word": "辞",
+      "display_order": 2
+    },
+    {
+      "sentence": "Knowing when to quit is not defeat; it is redirection.",
+      "style": "Inspirational",
+      "translation": "懂得何时放手不是认输，而是转向。",
+      "translated_word": "放手",
+      "display_order": 3
+    },
+    {
+      "sentence": "The day I quit drinking, the morning light looked different.",
+      "style": "Intimate",
+      "translation": "戒酒那天，晨光看起来不一样了。",
+      "translated_word": "戒",
+      "display_order": 1
+    },
+    {
+      "sentence": "We celebrate those who never quit, yet rarely honor those wise enough to walk away.",
+      "style": "Philosophical",
+      "translation": "我们赞美永不放弃的人，却鲜少敬重那些懂得抽身的智者。",
+      "translated_word": "放弃",
+      "display_order": 4
+    }
+  ]
+}

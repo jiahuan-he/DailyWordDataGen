@@ -1,0 +1,40 @@
+{
+  "word": "procession",
+  "phonetic": "/prəˈseʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "队伍；行列；游行",
+  "examples": [
+    {
+      "sentence": "The wedding procession wound through the village streets.",
+      "style": "Contextual",
+      "translation": "婚礼队伍蜿蜒穿过村庄的街道。",
+      "translated_word": "队伍",
+      "display_order": 1
+    },
+    {
+      "sentence": "Thousands lined the avenue to watch the royal procession pass.",
+      "style": "Formal",
+      "translation": "数千人夹道而立，目送王室车队缓缓驶过。",
+      "translated_word": "车队",
+      "display_order": 2
+    },
+    {
+      "sentence": "A procession of clouds drifted across the autumn sky, unhurried and silent.",
+      "style": "Poetic",
+      "translation": "云的队列漫过秋日长空，不疾不徐，悄然无声。",
+      "translated_word": "队列",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every funeral procession carries the living as much as the dead.",
+      "style": "Philosophical",
+      "translation": "每一支送葬队伍，承载的不只是逝者，更是生者的心。",
+      "translated_word": "队伍",
+      "display_order": 4
+    }
+  ]
+}

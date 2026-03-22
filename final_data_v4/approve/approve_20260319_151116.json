@@ -1,0 +1,39 @@
+{
+  "word": "approve",
+  "phonetic": "/əˈpruːv/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "批准；赞成；认可",
+  "examples": [
+    {
+      "sentence": "The board approved the merger after months of deliberation.",
+      "style": "Formal",
+      "translation": "董事会在数月审议后批准了此次合并。",
+      "translated_word": "批准",
+      "display_order": 1
+    },
+    {
+      "sentence": "She smiled when her mother approved of her chosen path.",
+      "style": "Contextual",
+      "translation": "母亲认可了她选择的道路，她微微一笑。",
+      "translated_word": "认可",
+      "display_order": 2
+    },
+    {
+      "sentence": "When he finally approved of my choices, decades of tension dissolved.",
+      "style": "Intimate",
+      "translation": "当他终于赞成我的选择时，多年的隔阂烟消云散。",
+      "translated_word": "赞成",
+      "display_order": 3
+    },
+    {
+      "sentence": "The need for others to approve can quiet our own inner voice.",
+      "style": "Philosophical",
+      "translation": "对他人认可的渴求，往往会淹没我们内心的声音。",
+      "translated_word": "认可",
+      "display_order": 4
+    }
+  ]
+}

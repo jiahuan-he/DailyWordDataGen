@@ -1,0 +1,40 @@
+{
+  "word": "smell",
+  "phonetic": "/smɛl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "闻；嗅；散发气味",
+  "examples": [
+    {
+      "sentence": "Something smells off in the fridge.",
+      "style": "Contextual",
+      "translation": "冰箱里有什么东西闻起来不对劲。",
+      "translated_word": "闻起来",
+      "display_order": 3
+    },
+    {
+      "sentence": "Autumn smells of wood smoke and quiet surrender.",
+      "style": "Poetic",
+      "translation": "秋天闻起来是木柴烟和静谧的告别。",
+      "translated_word": "闻起来",
+      "display_order": 4
+    },
+    {
+      "sentence": "His jacket still smells of cologne; I never returned it.",
+      "style": "Intimate",
+      "translation": "他的夹克还留着古龙水的气息；我一直没有还。",
+      "translated_word": "气息",
+      "display_order": 2
+    },
+    {
+      "sentence": "The kitchen smells of garlic and fresh bread.",
+      "style": "Collocational",
+      "translation": "厨房里弥漫着蒜香和新鲜面包的气息。",
+      "translated_word": "气息",
+      "display_order": 1
+    }
+  ]
+}

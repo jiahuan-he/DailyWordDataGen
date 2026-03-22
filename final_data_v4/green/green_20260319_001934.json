@@ -1,0 +1,41 @@
+{
+  "word": "green",
+  "phonetic": "/ɡriːn/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "绿色的；环保的；青涩的；未成熟的",
+  "examples": [
+    {
+      "sentence": "After the rain, the hills turned impossibly green.",
+      "style": "Contextual",
+      "translation": "雨后，山丘绿得不可思议。",
+      "translated_word": "绿",
+      "display_order": 1
+    },
+    {
+      "sentence": "She gave him the green light to pursue the project alone.",
+      "style": "Collocational",
+      "translation": "她批准他独自推进这个项目。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "The green of early summer holds a softness that July forgets.",
+      "style": "Poetic",
+      "translation": "初夏的绿意带着一种盛夏已然遗忘的柔软。",
+      "translated_word": "绿意",
+      "display_order": 2
+    },
+    {
+      "sentence": "We were green once, unafraid to fail because we hadn't learned how.",
+      "style": "Philosophical",
+      "translation": "我们都曾青涩，无畏失败，只因彼时尚未学会何为失败。",
+      "translated_word": "青涩",
+      "display_order": 3
+    }
+  ]
+}

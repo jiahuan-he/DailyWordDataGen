@@ -1,0 +1,39 @@
+{
+  "word": "literally",
+  "phonetic": "/ˈlɪtərəli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "字面上地；确实；真正地",
+  "examples": [
+    {
+      "sentence": "The ancient scroll was translated literally, preserving every word.",
+      "style": "Contextual",
+      "translation": "那卷古籍被逐字翻译，每一个词都得以保留。",
+      "translated_word": "逐字",
+      "display_order": 2
+    },
+    {
+      "sentence": "This isn't a metaphor: the glacier is literally shrinking each year.",
+      "style": "Contrastive",
+      "translation": "这不是比喻：冰川每年都在真实地消退。",
+      "translated_word": "真实地",
+      "display_order": 3
+    },
+    {
+      "sentence": "Children often take idioms literally.",
+      "style": "Collocational",
+      "translation": "孩子们常常按字面意思理解习语。",
+      "translated_word": "字面意思",
+      "display_order": 1
+    },
+    {
+      "sentence": "When you promised to write every day, I held you to it literally.",
+      "style": "Intimate",
+      "translation": "你说过每天都会写信，我当了真。",
+      "translated_word": "当了真",
+      "display_order": 4
+    }
+  ]
+}

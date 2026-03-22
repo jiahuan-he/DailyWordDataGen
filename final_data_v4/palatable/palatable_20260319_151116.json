@@ -1,0 +1,39 @@
+{
+  "word": "palatable",
+  "phonetic": "/ˈpælətəbl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "可口的；易于接受的；合意的",
+  "examples": [
+    {
+      "sentence": "A drizzle of honey made the bitter tea palatable.",
+      "style": "Contextual",
+      "translation": "一滴蜂蜜，苦茶便入口了。",
+      "translated_word": "入口",
+      "display_order": 1
+    },
+    {
+      "sentence": "The revised terms proved palatable to both negotiating parties.",
+      "style": "Formal",
+      "translation": "修订后的条款令双方都能接受。",
+      "translated_word": "接受",
+      "display_order": 2
+    },
+    {
+      "sentence": "Honesty is rarely palatable; flattery, always.",
+      "style": "Contrastive",
+      "translation": "真话难入耳；奉承，则永远顺耳。",
+      "translated_word": "入耳",
+      "display_order": 4
+    },
+    {
+      "sentence": "We learn to dress difficult truths in palatable words.",
+      "style": "Philosophical",
+      "translation": "我们学会用委婉的措辞，包裹那些艰涩的真相。",
+      "translated_word": "委婉",
+      "display_order": 3
+    }
+  ]
+}

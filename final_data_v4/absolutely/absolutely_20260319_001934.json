@@ -1,0 +1,40 @@
+{
+  "word": "absolutely",
+  "phonetic": "/ˌæbsəˈluːtli/",
+  "pos": [
+    "adverb",
+    "interjection"
+  ],
+  "selected_pos": "adverb",
+  "definition": "绝对地；完全地；当然",
+  "examples": [
+    {
+      "sentence": "The silence was absolutely deafening.",
+      "style": "Contextual",
+      "translation": "那片寂静震耳欲聋。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "She was absolutely certain about her decision.",
+      "style": "Collocational",
+      "translation": "她对自己的决定深信不疑。",
+      "translated_word": "深",
+      "display_order": 1
+    },
+    {
+      "sentence": "When he asked if I'd wait, I meant it absolutely.",
+      "style": "Intimate",
+      "translation": "当他问我是否愿意等待，我的回答毫无保留。",
+      "translated_word": "毫无保留",
+      "display_order": 2
+    },
+    {
+      "sentence": "Believe in yourself absolutely; half-hearted faith accomplishes nothing.",
+      "style": "Inspirational",
+      "translation": "全然相信自己；半信半疑成就不了任何事。",
+      "translated_word": "全然",
+      "display_order": 3
+    }
+  ]
+}

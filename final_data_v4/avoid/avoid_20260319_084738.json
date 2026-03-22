@@ -1,0 +1,39 @@
+{
+  "word": "avoid",
+  "phonetic": "/əˈvɔɪd/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "避免；躲避；回避",
+  "examples": [
+    {
+      "sentence": "She took the back road to avoid the morning traffic.",
+      "style": "Contextual",
+      "translation": "她走小路，避开了早高峰。",
+      "translated_word": "避开",
+      "display_order": 1
+    },
+    {
+      "sentence": "He avoided eye contact throughout the interview.",
+      "style": "Collocational",
+      "translation": "整场面试，他都在回避目光接触。",
+      "translated_word": "回避",
+      "display_order": 2
+    },
+    {
+      "sentence": "What we avoid reveals as much as what we chase.",
+      "style": "Philosophical",
+      "translation": "我们逃避的，往往与追求的一样暴露真实的自己。",
+      "translated_word": "逃避",
+      "display_order": 4
+    },
+    {
+      "sentence": "For years, I avoided that café on Fifth Street.",
+      "style": "Intimate",
+      "translation": "这些年，我始终绕开第五街那家咖啡馆。",
+      "translated_word": "绕开",
+      "display_order": 3
+    }
+  ]
+}

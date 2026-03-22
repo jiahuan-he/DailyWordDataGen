@@ -1,0 +1,39 @@
+{
+  "word": "divert",
+  "phonetic": "/daɪˈvɜːrt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "转移；使改道；使分心",
+  "examples": [
+    {
+      "sentence": "The pilot diverted the plane to Boston due to thick fog.",
+      "style": "Contextual",
+      "translation": "因大雾弥漫，飞行员将航班改降波士顿。",
+      "translated_word": "改降",
+      "display_order": 3
+    },
+    {
+      "sentence": "Authorities will divert traffic through side streets during the summit.",
+      "style": "Formal",
+      "translation": "峰会期间，当局将把车流分流至周边街道。",
+      "translated_word": "分流",
+      "display_order": 2
+    },
+    {
+      "sentence": "She diverted his attention with a question while the others slipped away.",
+      "style": "Collocational",
+      "translation": "她抛出一个问题转移他的注意力，其他人趁机悄然离开。",
+      "translated_word": "转移",
+      "display_order": 1
+    },
+    {
+      "sentence": "We divert ourselves with noise to avoid the questions that live in silence.",
+      "style": "Philosophical",
+      "translation": "我们用喧嚣转移自己，只为回避那些栖居于寂静中的叩问。",
+      "translated_word": "转移",
+      "display_order": 4
+    }
+  ]
+}

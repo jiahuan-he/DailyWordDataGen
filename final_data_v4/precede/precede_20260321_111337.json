@@ -1,0 +1,40 @@
+{
+  "word": "precede",
+  "phonetic": "/prɪˈsiːd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "在…之前；先于；领先",
+  "examples": [
+    {
+      "sentence": "A deep breath preceded her answer.",
+      "style": "Contextual",
+      "translation": "她深吸一口气，才开口作答。",
+      "translated_word": "才",
+      "display_order": 1
+    },
+    {
+      "sentence": "The summit will be preceded by closed-door negotiations.",
+      "style": "Formal",
+      "translation": "峰会召开前，将先举行闭门磋商。",
+      "translated_word": "先",
+      "display_order": 3
+    },
+    {
+      "sentence": "Thunder follows lightning, but fear precedes both.",
+      "style": "Contrastive",
+      "translation": "雷声随闪电而至，而恐惧却先于两者。",
+      "translated_word": "先于",
+      "display_order": 4
+    },
+    {
+      "sentence": "Understanding must precede judgment.",
+      "style": "Philosophical",
+      "translation": "理解应先于评判。",
+      "translated_word": "先于",
+      "display_order": 2
+    }
+  ]
+}

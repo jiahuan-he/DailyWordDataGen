@@ -1,0 +1,41 @@
+{
+  "word": "crazy",
+  "phonetic": "/ˈkreɪzi/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "疯狂；狂热；荒唐；痴迷",
+  "examples": [
+    {
+      "sentence": "The fans went crazy when she walked on stage.",
+      "style": "Contextual",
+      "translation": "她登台的瞬间，全场沸腾。",
+      "translated_word": "沸腾",
+      "display_order": 1
+    },
+    {
+      "sentence": "He's crazy about old jazz records.",
+      "style": "Collocational",
+      "translation": "他对老爵士唱片痴迷不已。",
+      "translated_word": "痴迷",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother called me crazy for quitting law school; now she frames my paintings.",
+      "style": "Intimate",
+      "translation": "祖母曾说我疯了，竟从法学院退学；如今她把我的画裱起来挂满了墙。",
+      "translated_word": "疯了",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every breakthrough was once a crazy idea no one believed in.",
+      "style": "Inspirational",
+      "translation": "每一次突破，曾经都是无人问津的疯狂念头。",
+      "translated_word": "疯狂",
+      "display_order": 4
+    }
+  ]
+}

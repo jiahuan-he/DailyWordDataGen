@@ -1,0 +1,40 @@
+{
+  "word": "fuse",
+  "phonetic": "/fjuːz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "融合；熔合；结合",
+  "examples": [
+    {
+      "sentence": "The chef's menu fuses French technique with Japanese ingredients.",
+      "style": "Contextual",
+      "translation": "主厨的菜单将法式技艺与日本食材融为一体。",
+      "translated_word": "融为一体",
+      "display_order": 2
+    },
+    {
+      "sentence": "Heat and pressure fuse the metals into a single alloy.",
+      "style": "Collocational",
+      "translation": "高温与压力将金属熔合成一种合金。",
+      "translated_word": "熔合",
+      "display_order": 1
+    },
+    {
+      "sentence": "At dusk, sea and sky fuse into a single shade of violet.",
+      "style": "Poetic",
+      "translation": "黄昏时分，海与天融成一片紫罗兰色。",
+      "translated_word": "融成",
+      "display_order": 3
+    },
+    {
+      "sentence": "Travel fuses who you were with who you're becoming.",
+      "style": "Philosophical",
+      "translation": "旅行将过去的你与正在蜕变的你融为一体。",
+      "translated_word": "融为一体",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "weapon",
+  "phonetic": "/ˈwepən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "武器；兵器；利器",
+  "examples": [
+    {
+      "sentence": "The archaeologists uncovered bronze weapons from the tomb.",
+      "style": "Contextual",
+      "translation": "考古学家从墓穴中发掘出青铜兵器。",
+      "translated_word": "兵器",
+      "display_order": 1
+    },
+    {
+      "sentence": "Charm was always her weapon of choice.",
+      "style": "Collocational",
+      "translation": "魅力向来是她的惯用武器。",
+      "translated_word": "武器",
+      "display_order": 3
+    },
+    {
+      "sentence": "The cruelest weapon is indifference.",
+      "style": "Philosophical",
+      "translation": "最残忍的武器是冷漠。",
+      "translated_word": "武器",
+      "display_order": 4
+    },
+    {
+      "sentence": "Education remains our most powerful weapon against poverty.",
+      "style": "Inspirational",
+      "translation": "教育依然是对抗贫穷最有力的武器。",
+      "translated_word": "武器",
+      "display_order": 2
+    }
+  ]
+}

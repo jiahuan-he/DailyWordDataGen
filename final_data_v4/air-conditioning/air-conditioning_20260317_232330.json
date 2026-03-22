@@ -1,0 +1,40 @@
+{
+  "word": "air-conditioning",
+  "phonetic": "/ˌeər kənˈdɪʃənɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "空调；冷气；空气调节",
+  "examples": [
+    {
+      "sentence": "The office felt like a freezer; someone had cranked the air-conditioning too high.",
+      "style": "Contextual",
+      "translation": "办公室冷得像冰窖；有人把空调开得太足了。",
+      "translated_word": "空调",
+      "display_order": 3
+    },
+    {
+      "sentence": "The new campus features energy-efficient air-conditioning, cutting operational costs by forty percent.",
+      "style": "Formal",
+      "translation": "新校区采用节能空调系统，运营成本降低了百分之四十。",
+      "translated_word": "空调",
+      "display_order": 4
+    },
+    {
+      "sentence": "We lingered in the bookstore all afternoon, grateful for the air-conditioning.",
+      "style": "Collocational",
+      "translation": "我们在书店消磨了整个下午，庆幸有空调相伴。",
+      "translated_word": "空调",
+      "display_order": 1
+    },
+    {
+      "sentence": "Summer at Grandma's meant no air-conditioning, just open windows and the hum of cicadas.",
+      "style": "Intimate",
+      "translation": "在奶奶家过夏天，没有空调，只有敞开的窗户和蝉鸣。",
+      "translated_word": "空调",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "account",
+  "phonetic": "/əˈkaʊnt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "账户；描述；理由",
+  "examples": [
+    {
+      "sentence": "His account of the expedition filled three leather journals.",
+      "style": "Contextual",
+      "translation": "他对那次探险的记述写满了三本皮面日记。",
+      "translated_word": "记述",
+      "display_order": 2
+    },
+    {
+      "sentence": "The committee has requested a full account of the incident.",
+      "style": "Formal",
+      "translation": "委员会已要求提交事件的完整报告。",
+      "translated_word": "报告",
+      "display_order": 1
+    },
+    {
+      "sentence": "Take this into account before making your decision.",
+      "style": "Collocational",
+      "translation": "做决定前，请将此纳入考量。",
+      "translated_word": "考量",
+      "display_order": 3
+    },
+    {
+      "sentence": "In the end, we must all give an account of how we spent our days.",
+      "style": "Philosophical",
+      "translation": "终有一日，我们都要为如何度过此生作出交代。",
+      "translated_word": "交代",
+      "display_order": 4
+    }
+  ]
+}

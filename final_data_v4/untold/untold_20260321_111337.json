@@ -1,0 +1,39 @@
+{
+  "word": "untold",
+  "phonetic": "/ʌnˈtoʊld/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "无数的；难以计量的；未说出的",
+  "examples": [
+    {
+      "sentence": "The earthquake brought untold devastation to the coastal villages.",
+      "style": "Contextual",
+      "translation": "地震给沿海村庄带来了难以估量的破坏。",
+      "translated_word": "难以估量",
+      "display_order": 1
+    },
+    {
+      "sentence": "Beneath still waters, untold depths wait in silence.",
+      "style": "Poetic",
+      "translation": "静水之下，无尽的深渊默然等候。",
+      "translated_word": "无尽",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every face on the subway holds untold chapters.",
+      "style": "Philosophical",
+      "translation": "地铁上的每张脸庞，都藏着未曾讲述的篇章。",
+      "translated_word": "未曾讲述",
+      "display_order": 3
+    },
+    {
+      "sentence": "She kept untold fears folded in her chest for years.",
+      "style": "Intimate",
+      "translation": "多年来，她将那些说不出口的恐惧深藏于心。",
+      "translated_word": "说不出口",
+      "display_order": 2
+    }
+  ]
+}

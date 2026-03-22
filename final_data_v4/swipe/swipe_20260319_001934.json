@@ -1,0 +1,40 @@
+{
+  "word": "swipe",
+  "phonetic": "/swaɪp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "滑动；刷（卡）；挥击；顺手偷走",
+  "examples": [
+    {
+      "sentence": "She swiped through the photos, pausing only at the sunset.",
+      "style": "Contextual",
+      "translation": "她滑动着照片，只在那张日落前停下。",
+      "translated_word": "滑动",
+      "display_order": 2
+    },
+    {
+      "sentence": "Swipe your card and the door will unlock automatically.",
+      "style": "Collocational",
+      "translation": "刷卡后，门会自动解锁。",
+      "translated_word": "刷",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every night before sleep, I swipe through old messages we shared.",
+      "style": "Intimate",
+      "translation": "每晚入睡前，我都会滑过我们曾经的对话。",
+      "translated_word": "滑过",
+      "display_order": 3
+    },
+    {
+      "sentence": "We swipe past a hundred faces, searching for one that makes us stop.",
+      "style": "Philosophical",
+      "translation": "我们滑过上百张面孔，只为找到让自己停下的那一个。",
+      "translated_word": "滑过",
+      "display_order": 4
+    }
+  ]
+}

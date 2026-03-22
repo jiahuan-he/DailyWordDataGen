@@ -1,0 +1,40 @@
+{
+  "word": "toss",
+  "phonetic": "/tɔːs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "抛；扔；掷；翻动",
+  "examples": [
+    {
+      "sentence": "She tossed her keys onto the counter and sighed.",
+      "style": "Contextual",
+      "translation": "她把钥匙往台面上一扔，叹了口气。",
+      "translated_word": "扔",
+      "display_order": 1
+    },
+    {
+      "sentence": "When neither could decide, we tossed a coin.",
+      "style": "Collocational",
+      "translation": "僵持不下时，我们掷硬币决定。",
+      "translated_word": "掷",
+      "display_order": 2
+    },
+    {
+      "sentence": "He tossed his old journals into the fire without rereading a single page.",
+      "style": "Intimate",
+      "translation": "他把旧日记扔进火里，一页也没有重读。",
+      "translated_word": "扔",
+      "display_order": 3
+    },
+    {
+      "sentence": "The wind tossed autumn leaves across the empty courtyard.",
+      "style": "Poetic",
+      "translation": "秋风将落叶抛过空旷的庭院。",
+      "translated_word": "抛",
+      "display_order": 4
+    }
+  ]
+}

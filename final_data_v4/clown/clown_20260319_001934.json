@@ -1,0 +1,40 @@
+{
+  "word": "clown",
+  "phonetic": "/klaʊn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "小丑；丑角；蠢人",
+  "examples": [
+    {
+      "sentence": "The children gathered closer as the clown pulled a rabbit from his hat.",
+      "style": "Contextual",
+      "translation": "孩子们围拢过来，看小丑从帽子里变出一只兔子。",
+      "translated_word": "小丑",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every clown understands the burden of a smile that isn't felt.",
+      "style": "Philosophical",
+      "translation": "每个小丑都懂得，强颜欢笑的分量。",
+      "translated_word": "小丑",
+      "display_order": 2
+    },
+    {
+      "sentence": "Beneath the painted grin, the clown cradles a silence no applause can fill.",
+      "style": "Poetic",
+      "translation": "油彩笑容之下，小丑怀抱着掌声无法填补的寂静。",
+      "translated_word": "小丑",
+      "display_order": 3
+    },
+    {
+      "sentence": "I became the family clown, hiding heartbreak behind punchlines.",
+      "style": "Intimate",
+      "translation": "我成了家里的开心果，把心碎藏在笑话背后。",
+      "translated_word": "开心果",
+      "display_order": 4
+    }
+  ]
+}

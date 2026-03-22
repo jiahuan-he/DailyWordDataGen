@@ -1,0 +1,40 @@
+{
+  "word": "teeter",
+  "phonetic": "/ˈtiːtər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "摇晃；踉跄；摇摆不定",
+  "examples": [
+    {
+      "sentence": "The toddler teetered across the room, arms outstretched for balance.",
+      "style": "Contextual",
+      "translation": "幼童张开双臂保持平衡，摇摇晃晃地穿过房间。",
+      "translated_word": "摇摇晃晃",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company teeters on the brink of bankruptcy.",
+      "style": "Collocational",
+      "translation": "这家公司正处于破产边缘，摇摇欲坠。",
+      "translated_word": "摇摇欲坠",
+      "display_order": 2
+    },
+    {
+      "sentence": "Autumn leaves teeter on their stems before surrendering to the wind.",
+      "style": "Poetic",
+      "translation": "秋叶在枝头摇曳，终于向风俯首。",
+      "translated_word": "摇曳",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every bold decision teeters between recklessness and courage.",
+      "style": "Philosophical",
+      "translation": "每一个大胆的决定都在鲁莽与勇气之间摇摆。",
+      "translated_word": "摇摆",
+      "display_order": 4
+    }
+  ]
+}

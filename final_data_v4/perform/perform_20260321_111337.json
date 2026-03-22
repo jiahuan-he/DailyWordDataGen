@@ -1,0 +1,39 @@
+{
+  "word": "perform",
+  "phonetic": "/pərˈfɔːrm/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "表演；执行；表现",
+  "examples": [
+    {
+      "sentence": "The orchestra will perform Beethoven's Fifth tonight.",
+      "style": "Contextual",
+      "translation": "今晚，乐团将演奏贝多芬第五交响曲。",
+      "translated_word": "演奏",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new drug performed well in clinical trials.",
+      "style": "Formal",
+      "translation": "这款新药在临床试验中表现出色。",
+      "translated_word": "表现",
+      "display_order": 2
+    },
+    {
+      "sentence": "She performs as if silence itself is listening.",
+      "style": "Poetic",
+      "translation": "她的表演，仿佛连寂静都在倾听。",
+      "translated_word": "表演",
+      "display_order": 3
+    },
+    {
+      "sentence": "Perform first; doubt yourself later.",
+      "style": "Inspirational",
+      "translation": "先去做，再去怀疑。",
+      "translated_word": "做",
+      "display_order": 4
+    }
+  ]
+}

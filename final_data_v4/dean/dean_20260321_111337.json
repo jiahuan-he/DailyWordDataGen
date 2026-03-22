@@ -1,0 +1,40 @@
+{
+  "word": "dean",
+  "phonetic": "/diːn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "院长；教务长；资深成员",
+  "examples": [
+    {
+      "sentence": "The dean welcomed the freshmen to the College of Arts.",
+      "style": "Contextual",
+      "translation": "院长欢迎新生们来到艺术学院。",
+      "translated_word": "院长",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new dean announced sweeping reforms to the graduate curriculum.",
+      "style": "Formal",
+      "translation": "新任院长宣布对研究生课程进行全面改革。",
+      "translated_word": "院长",
+      "display_order": 2
+    },
+    {
+      "sentence": "She made the dean's list three semesters in a row.",
+      "style": "Collocational",
+      "translation": "她连续三个学期登上院长荣誉榜。",
+      "translated_word": "院长",
+      "display_order": 4
+    },
+    {
+      "sentence": "His office was small, but every student who left it felt seen by the dean.",
+      "style": "Intimate",
+      "translation": "他的办公室不大，但每个走出来的学生都觉得被院长真正看见了。",
+      "translated_word": "院长",
+      "display_order": 3
+    }
+  ]
+}

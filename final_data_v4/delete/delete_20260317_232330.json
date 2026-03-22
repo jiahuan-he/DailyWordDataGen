@@ -1,0 +1,40 @@
+{
+  "word": "delete",
+  "phonetic": "/dɪˈliːt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "删除；删去；抹掉",
+  "examples": [
+    {
+      "sentence": "She deleted the draft and started fresh.",
+      "style": "Contextual",
+      "translation": "她删除了草稿，重新开始。",
+      "translated_word": "删除",
+      "display_order": 1
+    },
+    {
+      "sentence": "Delete the cache; it should fix the loading issue.",
+      "style": "Collocational",
+      "translation": "清除缓存，加载问题应该就能解决。",
+      "translated_word": "清除",
+      "display_order": 4
+    },
+    {
+      "sentence": "What we choose to delete reveals what we wish to forget.",
+      "style": "Philosophical",
+      "translation": "我们选择删除的，恰是我们渴望遗忘的。",
+      "translated_word": "删除",
+      "display_order": 3
+    },
+    {
+      "sentence": "That night, I finally deleted our photos; it took three years.",
+      "style": "Intimate",
+      "translation": "那晚，我终于删除了我们的照片；这花了我三年。",
+      "translated_word": "删除",
+      "display_order": 2
+    }
+  ]
+}

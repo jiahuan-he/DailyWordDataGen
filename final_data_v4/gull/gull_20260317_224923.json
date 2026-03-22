@@ -1,0 +1,40 @@
+{
+  "word": "gull",
+  "phonetic": "/ɡʌl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "海鸥",
+  "examples": [
+    {
+      "sentence": "A gull swept low and snatched a crab from the shallows.",
+      "style": "Contextual",
+      "translation": "一只海鸥俯冲而下，从浅滩叼走了一只螃蟹。",
+      "translated_word": "海鸥",
+      "display_order": 1
+    },
+    {
+      "sentence": "The gull traced silver arcs against the fading sky.",
+      "style": "Poetic",
+      "translation": "海鸥在暮色中划出银色的弧线。",
+      "translated_word": "海鸥",
+      "display_order": 2
+    },
+    {
+      "sentence": "Gulls, salt air, and creaking docks: the song of every coastal town.",
+      "style": "Collocational",
+      "translation": "海鸥、海风、吱呀作响的码头：这是每个海滨小镇的歌谣。",
+      "translated_word": "海鸥",
+      "display_order": 3
+    },
+    {
+      "sentence": "The old gull at the pier knows my face; we share mornings in silence.",
+      "style": "Intimate",
+      "translation": "码头上那只老海鸥认得我的脸；我们默默共享着清晨。",
+      "translated_word": "海鸥",
+      "display_order": 4
+    }
+  ]
+}

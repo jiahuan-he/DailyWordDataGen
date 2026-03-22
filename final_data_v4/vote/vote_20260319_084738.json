@@ -1,0 +1,40 @@
+{
+  "word": "vote",
+  "phonetic": "/voʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "投票；选举；表决",
+  "examples": [
+    {
+      "sentence": "The polls close at eight; we should vote before dinner.",
+      "style": "Contextual",
+      "translation": "投票站八点关门，我们得赶在晚饭前去投票。",
+      "translated_word": "投票",
+      "display_order": 1
+    },
+    {
+      "sentence": "Citizens will vote on the proposed amendment next Tuesday.",
+      "style": "Formal",
+      "translation": "公民将于下周二就该修正案进行投票表决。",
+      "translated_word": "投票",
+      "display_order": 4
+    },
+    {
+      "sentence": "To vote is to believe your voice still matters.",
+      "style": "Philosophical",
+      "translation": "投票，是相信自己的声音依然有意义。",
+      "translated_word": "投票",
+      "display_order": 3
+    },
+    {
+      "sentence": "Vote not just for yourself, but for those who cannot.",
+      "style": "Inspirational",
+      "translation": "投票不只是为了自己，更是为了那些无法发声的人。",
+      "translated_word": "投票",
+      "display_order": 2
+    }
+  ]
+}

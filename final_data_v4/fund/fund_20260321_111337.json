@@ -1,0 +1,40 @@
+{
+  "word": "fund",
+  "phonetic": "/fʌnd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "基金；资金；专款",
+  "examples": [
+    {
+      "sentence": "Her emergency fund saved her when the layoffs came.",
+      "style": "Contextual",
+      "translation": "裁员潮来袭时，她的应急基金救了她。",
+      "translated_word": "基金",
+      "display_order": 2
+    },
+    {
+      "sentence": "The foundation launched a fund for climate research.",
+      "style": "Formal",
+      "translation": "该基金会设立了一项气候研究专款。",
+      "translated_word": "专款",
+      "display_order": 3
+    },
+    {
+      "sentence": "They contribute to a college fund every month.",
+      "style": "Collocational",
+      "translation": "他们每月都往大学教育基金里存钱。",
+      "translated_word": "基金",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every fund begins with a single deposit and a vision.",
+      "style": "Inspirational",
+      "translation": "每一笔基金，都始于一次存款和一个愿景。",
+      "translated_word": "基金",
+      "display_order": 4
+    }
+  ]
+}

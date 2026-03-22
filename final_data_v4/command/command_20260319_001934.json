@@ -1,0 +1,40 @@
+{
+  "word": "command",
+  "phonetic": "/kəˈmænd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "命令；指挥；掌控；博得",
+  "examples": [
+    {
+      "sentence": "She commands a team of thirty engineers across three continents.",
+      "style": "Contextual",
+      "translation": "她指挥着分布在三大洲的三十名工程师。",
+      "translated_word": "指挥",
+      "display_order": 2
+    },
+    {
+      "sentence": "The general will command NATO forces during the joint exercise.",
+      "style": "Formal",
+      "translation": "联合演习期间，该将军将指挥北约部队。",
+      "translated_word": "指挥",
+      "display_order": 1
+    },
+    {
+      "sentence": "True leaders command loyalty without ever demanding it.",
+      "style": "Philosophical",
+      "translation": "真正的领袖从不索取忠诚，却自然赢得追随。",
+      "translated_word": "赢得",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her quiet confidence commands respect in every room she enters.",
+      "style": "Collocational",
+      "translation": "她沉静的自信让她无论走进哪里都令人肃然起敬。",
+      "translated_word": "令",
+      "display_order": 3
+    }
+  ]
+}

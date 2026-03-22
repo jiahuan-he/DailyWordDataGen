@@ -1,0 +1,40 @@
+{
+  "word": "match",
+  "phonetic": "/mætʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "匹配；相配；比得上",
+  "examples": [
+    {
+      "sentence": "Her earrings match the color of her dress.",
+      "style": "Contextual",
+      "translation": "她的耳环与裙子的颜色相配。",
+      "translated_word": "相配",
+      "display_order": 1
+    },
+    {
+      "sentence": "Few rivals could match his determination.",
+      "style": "Collocational",
+      "translation": "很少有对手能比得上他的决心。",
+      "translated_word": "比得上",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some people clash; others match naturally.",
+      "style": "Contrastive",
+      "translation": "有些人针锋相对，有些人天生契合。",
+      "translated_word": "契合",
+      "display_order": 3
+    },
+    {
+      "sentence": "When our laughter matches, I know I've found home.",
+      "style": "Intimate",
+      "translation": "当我们的笑声同频，我便知道找到了归宿。",
+      "translated_word": "同频",
+      "display_order": 4
+    }
+  ]
+}

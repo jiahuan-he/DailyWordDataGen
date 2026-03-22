@@ -1,0 +1,40 @@
+{
+  "word": "typical",
+  "phonetic": "/ˈtɪpɪkəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "典型的；有代表性的；惯常的",
+  "examples": [
+    {
+      "sentence": "A typical summer here brings thunderstorms by three o'clock.",
+      "style": "Contextual",
+      "translation": "这里典型的夏天，三点必有雷雨。",
+      "translated_word": "典型",
+      "display_order": 1
+    },
+    {
+      "sentence": "He ordered the typical combo: burger, fries, and a shake.",
+      "style": "Collocational",
+      "translation": "他点了惯常的套餐：汉堡、薯条、奶昔。",
+      "translated_word": "惯常",
+      "display_order": 3
+    },
+    {
+      "sentence": "She was far from typical, yet blended in effortlessly.",
+      "style": "Contrastive",
+      "translation": "她绝非典型，却能轻松融入人群。",
+      "translated_word": "典型",
+      "display_order": 4
+    },
+    {
+      "sentence": "On a typical school morning, my father would drive me in silence.",
+      "style": "Intimate",
+      "translation": "寻常的上学早晨，父亲总是沉默地送我。",
+      "translated_word": "寻常",
+      "display_order": 2
+    }
+  ]
+}

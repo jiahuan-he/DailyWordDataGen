@@ -1,0 +1,39 @@
+{
+  "word": "interval",
+  "phonetic": "/ˈɪntərvəl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "间隔；间歇；休息时间",
+  "examples": [
+    {
+      "sentence": "During the interval, the audience stretched and whispered softly.",
+      "style": "Contextual",
+      "translation": "幕间休息时，观众们伸了伸腰，低声交谈着。",
+      "translated_word": "幕间休息",
+      "display_order": 2
+    },
+    {
+      "sentence": "Streetlights stood at even intervals, guiding the quiet road home.",
+      "style": "Collocational",
+      "translation": "路灯以均匀的间隔矗立，照亮回家的静谧小路。",
+      "translated_word": "间隔",
+      "display_order": 1
+    },
+    {
+      "sentence": "Growth happens in the intervals between effort.",
+      "style": "Philosophical",
+      "translation": "成长发生在努力与努力之间的空隙里。",
+      "translated_word": "空隙",
+      "display_order": 3
+    },
+    {
+      "sentence": "The interval before rain holds a silence all its own.",
+      "style": "Poetic",
+      "translation": "雨落之前的片刻，有一种独属于它的寂静。",
+      "translated_word": "片刻",
+      "display_order": 4
+    }
+  ]
+}

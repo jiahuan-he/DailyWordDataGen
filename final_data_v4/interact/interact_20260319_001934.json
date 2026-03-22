@@ -1,0 +1,40 @@
+{
+  "word": "interact",
+  "phonetic": "/ˌɪntərˈækt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "互动；交流；相互作用",
+  "examples": [
+    {
+      "sentence": "Children learn fastest when they interact with the world, not just observe it.",
+      "style": "Contextual",
+      "translation": "孩子在与世界互动时学得最快，而非仅仅旁观。",
+      "translated_word": "互动",
+      "display_order": 1
+    },
+    {
+      "sentence": "The ambassador will interact with local leaders to strengthen diplomatic ties.",
+      "style": "Formal",
+      "translation": "大使将与当地领导人交流，以加强外交关系。",
+      "translated_word": "交流",
+      "display_order": 3
+    },
+    {
+      "sentence": "She interacts with strangers the way most people greet old friends.",
+      "style": "Collocational",
+      "translation": "她与陌生人打交道的方式，像极了大多数人问候老友。",
+      "translated_word": "打交道",
+      "display_order": 2
+    },
+    {
+      "sentence": "We interact to be understood, yet sometimes silence says more.",
+      "style": "Philosophical",
+      "translation": "我们交流是为了被理解，然而有时沉默更具深意。",
+      "translated_word": "交流",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "cause",
+  "phonetic": "/kɔːz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "原因；事业；理由",
+  "examples": [
+    {
+      "sentence": "The investigation finally uncovered the cause of the failure.",
+      "style": "Contextual",
+      "translation": "调查最终揭示了故障的原因。",
+      "translated_word": "原因",
+      "display_order": 1
+    },
+    {
+      "sentence": "Climate change remains a leading cause of species extinction.",
+      "style": "Formal",
+      "translation": "气候变化仍是物种灭绝的主要原因。",
+      "translated_word": "原因",
+      "display_order": 2
+    },
+    {
+      "sentence": "We chase effects, rarely pausing to question the cause.",
+      "style": "Philosophical",
+      "translation": "我们追逐结果，却很少停下来追问起因。",
+      "translated_word": "起因",
+      "display_order": 3
+    },
+    {
+      "sentence": "A cause worth believing in turns doubt into direction.",
+      "style": "Inspirational",
+      "translation": "一个值得相信的事业，能将迷茫化为方向。",
+      "translated_word": "事业",
+      "display_order": 4
+    }
+  ]
+}

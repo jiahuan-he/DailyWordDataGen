@@ -1,0 +1,40 @@
+{
+  "word": "objective",
+  "phonetic": "/əbˈdʒektɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "客观的；公正的；不偏不倚的",
+  "examples": [
+    {
+      "sentence": "She asked a stranger to taste the dish; friends can rarely be objective.",
+      "style": "Contextual",
+      "translation": "她请陌生人试菜；朋友很难做到客观。",
+      "translated_word": "客观",
+      "display_order": 1
+    },
+    {
+      "sentence": "The audit revealed objective evidence of systematic accounting errors.",
+      "style": "Formal",
+      "translation": "审计揭示了系统性会计差错的客观证据。",
+      "translated_word": "客观",
+      "display_order": 2
+    },
+    {
+      "sentence": "We crave objective truth, yet see the world through borrowed lenses.",
+      "style": "Philosophical",
+      "translation": "我们渴望客观的真相，却透过借来的镜片观察世界。",
+      "translated_word": "客观的",
+      "display_order": 4
+    },
+    {
+      "sentence": "Art criticism is never purely objective; it breathes the critic's soul.",
+      "style": "Contrastive",
+      "translation": "艺术批评从不纯然客观；它呼吸着评论家的灵魂。",
+      "translated_word": "客观",
+      "display_order": 3
+    }
+  ]
+}

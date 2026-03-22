@@ -1,0 +1,40 @@
+{
+  "word": "hiccup",
+  "phonetic": "/ˈhɪkʌp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "打嗝；小问题；小障碍",
+  "examples": [
+    {
+      "sentence": "The project hit a minor hiccup when the supplier delayed shipment.",
+      "style": "Contextual",
+      "translation": "供应商延迟发货，项目遇到了一点小麻烦。",
+      "translated_word": "小麻烦",
+      "display_order": 3
+    },
+    {
+      "sentence": "Despite a few hiccups along the way, the launch was a success.",
+      "style": "Collocational",
+      "translation": "尽管途中有些小波折，发布会仍圆满成功。",
+      "translated_word": "小波折",
+      "display_order": 2
+    },
+    {
+      "sentence": "The central bank dismissed the inflation spike as a temporary hiccup.",
+      "style": "Formal",
+      "translation": "央行将此次通胀飙升定性为暂时性波动。",
+      "translated_word": "波动",
+      "display_order": 4
+    },
+    {
+      "sentence": "My daughter's hiccups after laughing too hard always make me smile.",
+      "style": "Intimate",
+      "translation": "女儿笑得太厉害后打嗝的样子，总让我忍俊不禁。",
+      "translated_word": "打嗝",
+      "display_order": 1
+    }
+  ]
+}

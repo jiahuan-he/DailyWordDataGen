@@ -1,0 +1,40 @@
+{
+  "word": "absentee",
+  "phonetic": "/ˌæbsənˈtiː/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "缺席者；旷工者；不在者",
+  "examples": [
+    {
+      "sentence": "Three absentees missed the vote that changed everything.",
+      "style": "Contextual",
+      "translation": "三名缺席者错过了那场改变一切的投票。",
+      "translated_word": "缺席者",
+      "display_order": 1
+    },
+    {
+      "sentence": "The board issued warnings to chronic absentees before termination.",
+      "style": "Formal",
+      "translation": "董事会在解雇前向长期旷工者发出警告。",
+      "translated_word": "旷工者",
+      "display_order": 4
+    },
+    {
+      "sentence": "An absentee leaves a shape in the room; presence is not the only way to be felt.",
+      "style": "Philosophical",
+      "translation": "缺席者在房间里留下轮廓；存在并非被感知的唯一方式。",
+      "translated_word": "缺席者",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father was the absentee at every school play, yet his voice on the phone that night made me cry.",
+      "style": "Intimate",
+      "translation": "父亲缺席了每一场校园演出，但那晚电话里他的声音让我泪流满面。",
+      "translated_word": "缺席",
+      "display_order": 2
+    }
+  ]
+}

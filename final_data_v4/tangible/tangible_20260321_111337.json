@@ -1,0 +1,40 @@
+{
+  "word": "tangible",
+  "phonetic": "/ˈtændʒɪbəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有形的；切实的；可感知的",
+  "examples": [
+    {
+      "sentence": "The tension in the room was tangible; no one dared speak.",
+      "style": "Contextual",
+      "translation": "房间里的紧张气氛几乎凝成实质，无人敢开口。",
+      "translated_word": "实质",
+      "display_order": 3
+    },
+    {
+      "sentence": "The initiative has yielded tangible improvements in public health outcomes.",
+      "style": "Formal",
+      "translation": "该举措在公共卫生领域取得了切实成效。",
+      "translated_word": "切实",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her support wasn't just verbal; it was tangible: meals, money, time.",
+      "style": "Contrastive",
+      "translation": "她的支持不只是口头上的，而是实实在在的：饭菜、金钱、时间。",
+      "translated_word": "实实在在",
+      "display_order": 1
+    },
+    {
+      "sentence": "We hoard tangible things while letting intangible moments slip away.",
+      "style": "Philosophical",
+      "translation": "我们囤积有形之物，却任无形的时光悄然流逝。",
+      "translated_word": "有形",
+      "display_order": 4
+    }
+  ]
+}

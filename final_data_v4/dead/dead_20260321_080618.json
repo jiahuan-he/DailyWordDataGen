@@ -1,0 +1,42 @@
+{
+  "word": "dead",
+  "phonetic": "/dɛd/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "死的；无生命的；沉寂的；彻底的",
+  "examples": [
+    {
+      "sentence": "The battery is dead; we need to find a charger.",
+      "style": "Contextual",
+      "translation": "电池没电了，我们得找个充电器。",
+      "translated_word": "没电",
+      "display_order": 1
+    },
+    {
+      "sentence": "Dead silence filled the courtroom as the verdict was read.",
+      "style": "Collocational",
+      "translation": "宣读判决时，法庭里一片死寂。",
+      "translated_word": "死寂",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some dreams aren't dead; they're just waiting for braver hands.",
+      "style": "Philosophical",
+      "translation": "有些梦想并未死去，只是在等待更勇敢的人。",
+      "translated_word": "死去",
+      "display_order": 3
+    },
+    {
+      "sentence": "The lake lay dead and silver under a winter moon.",
+      "style": "Poetic",
+      "translation": "湖面沉寂如镜，在冬月下泛着银光。",
+      "translated_word": "沉寂",
+      "display_order": 4
+    }
+  ]
+}

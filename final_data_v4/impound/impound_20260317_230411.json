@@ -1,0 +1,40 @@
+{
+  "word": "impound",
+  "phonetic": "/ɪmˈpaʊnd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "扣押；没收；蓄水",
+  "examples": [
+    {
+      "sentence": "Three unpaid tickets later, the city impounded his car.",
+      "style": "Contextual",
+      "translation": "三张罚单未缴之后，市政府扣押了他的车。",
+      "translated_word": "扣押",
+      "display_order": 2
+    },
+    {
+      "sentence": "Customs officials impounded the shipment pending further investigation.",
+      "style": "Formal",
+      "translation": "海关官员扣押了该批货物，等待进一步调查。",
+      "translated_word": "扣押",
+      "display_order": 1
+    },
+    {
+      "sentence": "The officer threatened to impound the vehicle on the spot.",
+      "style": "Collocational",
+      "translation": "警官威胁要当场扣押车辆。",
+      "translated_word": "扣押",
+      "display_order": 3
+    },
+    {
+      "sentence": "They impounded my car once; walking home in the rain, I finally understood why my father always fed the meter.",
+      "style": "Intimate",
+      "translation": "我的车曾被扣押过一次；冒雨走回家的路上，我终于明白父亲为何总是及时投币续费。",
+      "translated_word": "扣押",
+      "display_order": 4
+    }
+  ]
+}

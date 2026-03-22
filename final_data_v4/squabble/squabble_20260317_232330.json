@@ -1,0 +1,40 @@
+{
+  "word": "squabble",
+  "phonetic": "/ˈskwɑːbəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "争吵；拌嘴；口角",
+  "examples": [
+    {
+      "sentence": "The siblings squabbled over who got the last slice of pizza.",
+      "style": "Contextual",
+      "translation": "兄妹俩为最后一片披萨争吵不休。",
+      "translated_word": "争吵",
+      "display_order": 1
+    },
+    {
+      "sentence": "Neighbors often squabble about parking spaces and noise.",
+      "style": "Collocational",
+      "translation": "邻里之间常为停车位和噪音拌嘴。",
+      "translated_word": "拌嘴",
+      "display_order": 3
+    },
+    {
+      "sentence": "We squabbled that morning over something trivial; by evening, neither of us could recall what.",
+      "style": "Intimate",
+      "translation": "那天早上我们为琐事拌嘴，到了傍晚，谁也想不起因何而起。",
+      "translated_word": "拌嘴",
+      "display_order": 2
+    },
+    {
+      "sentence": "The things we squabble over rarely matter; the people we squabble with always do.",
+      "style": "Philosophical",
+      "translation": "争吵的事由往往无关紧要，争吵的对象却总是举足轻重。",
+      "translated_word": "争吵",
+      "display_order": 4
+    }
+  ]
+}

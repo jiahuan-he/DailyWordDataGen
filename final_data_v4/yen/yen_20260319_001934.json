@@ -1,0 +1,40 @@
+{
+  "word": "yen",
+  "phonetic": "/jen/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "渴望；向往；热望",
+  "examples": [
+    {
+      "sentence": "She spoke of distant cities with a quiet yen in her voice.",
+      "style": "Contextual",
+      "translation": "她谈起那些遥远的城市时，声音里藏着一丝淡淡的向往。",
+      "translated_word": "向往",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some nights, the yen for home arrives without warning.",
+      "style": "Intimate",
+      "translation": "有些夜晚，对故乡的渴望会毫无预兆地涌上心头。",
+      "translated_word": "渴望",
+      "display_order": 2
+    },
+    {
+      "sentence": "The old painter never lost his yen for the sea.",
+      "style": "Poetic",
+      "translation": "那位老画家从未失去对大海的热望。",
+      "translated_word": "热望",
+      "display_order": 1
+    },
+    {
+      "sentence": "A yen unfulfilled can shape a life more than any achievement.",
+      "style": "Philosophical",
+      "translation": "未竟的渴望，有时比任何成就都更能塑造一个人的一生。",
+      "translated_word": "渴望",
+      "display_order": 4
+    }
+  ]
+}

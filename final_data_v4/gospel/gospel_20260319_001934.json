@@ -1,0 +1,40 @@
+{
+  "word": "gospel",
+  "phonetic": "/ˈɡɑːspəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "福音；真理；金科玉律",
+  "examples": [
+    {
+      "sentence": "To the team, his strategy became gospel.",
+      "style": "Contextual",
+      "translation": "对团队而言，他的策略成了金科玉律。",
+      "translated_word": "金科玉律",
+      "display_order": 3
+    },
+    {
+      "sentence": "She took his advice as gospel truth.",
+      "style": "Collocational",
+      "translation": "她把他的建议奉为圭臬。",
+      "translated_word": "圭臬",
+      "display_order": 2
+    },
+    {
+      "sentence": "What one generation treats as gospel, the next may question.",
+      "style": "Philosophical",
+      "translation": "一代人的真理，或许是下一代人的疑问。",
+      "translated_word": "真理",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her voice filled the chapel with gospel, turning grief into grace.",
+      "style": "Poetic",
+      "translation": "她的歌声在教堂回荡，以福音将悲伤化作恩典。",
+      "translated_word": "福音",
+      "display_order": 1
+    }
+  ]
+}

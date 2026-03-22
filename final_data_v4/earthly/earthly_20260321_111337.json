@@ -1,0 +1,41 @@
+{
+  "word": "earthly",
+  "phonetic": "/ˈɜːrθli/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "世俗的；尘世的；人间的",
+  "examples": [
+    {
+      "sentence": "She traded heavenly ambitions for earthly comforts.",
+      "style": "Contrastive",
+      "translation": "她用天上的抱负换取了尘世的安逸。",
+      "translated_word": "尘世",
+      "display_order": 1
+    },
+    {
+      "sentence": "All earthly glory fades; only kindness endures.",
+      "style": "Philosophical",
+      "translation": "世间荣耀终将消逝，唯有善意长存。",
+      "translated_word": "世间",
+      "display_order": 3
+    },
+    {
+      "sentence": "He found holiness in earthly things: bread, soil, silence.",
+      "style": "Poetic",
+      "translation": "他在尘世之物中寻见神圣：面包、泥土、静默。",
+      "translated_word": "尘世",
+      "display_order": 2
+    },
+    {
+      "sentence": "My father had no earthly reason to trust me, yet he did.",
+      "style": "Intimate",
+      "translation": "父亲没有任何理由相信我，但他选择了相信。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

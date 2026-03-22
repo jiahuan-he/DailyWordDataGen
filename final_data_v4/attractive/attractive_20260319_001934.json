@@ -1,0 +1,39 @@
+{
+  "word": "attractive",
+  "phonetic": "/əˈtræktɪv/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有吸引力的；迷人的；诱人的",
+  "examples": [
+    {
+      "sentence": "The house was old, but the price was attractive.",
+      "style": "Contextual",
+      "translation": "房子虽旧，价格却很诱人。",
+      "translated_word": "诱人",
+      "display_order": 1
+    },
+    {
+      "sentence": "An attractive offer arrived at the worst possible time.",
+      "style": "Collocational",
+      "translation": "一个诱人的机会偏偏在最不合时宜时降临。",
+      "translated_word": "诱人",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we find attractive often reveals what we lack.",
+      "style": "Philosophical",
+      "translation": "我们被什么吸引，往往暴露了我们缺少什么。",
+      "translated_word": "吸引",
+      "display_order": 4
+    },
+    {
+      "sentence": "He wasn't conventionally attractive, but his laugh made me stay.",
+      "style": "Intimate",
+      "translation": "他算不上传统意义上的帅，但他的笑声让我留了下来。",
+      "translated_word": "帅",
+      "display_order": 2
+    }
+  ]
+}

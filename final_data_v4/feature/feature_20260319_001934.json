@@ -1,0 +1,40 @@
+{
+  "word": "feature",
+  "phonetic": "/ˈfiːtʃər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "特点；特征；面貌",
+  "examples": [
+    {
+      "sentence": "The camera is the phone's standout feature.",
+      "style": "Contextual",
+      "translation": "摄像头是这款手机最出色的特点。",
+      "translated_word": "特点",
+      "display_order": 1
+    },
+    {
+      "sentence": "Analysts praised the platform's security features.",
+      "style": "Formal",
+      "translation": "分析人士称赞了该平台的安全特性。",
+      "translated_word": "特性",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her kindness remains her most distinctive feature.",
+      "style": "Collocational",
+      "translation": "善良始终是她最鲜明的特质。",
+      "translated_word": "特质",
+      "display_order": 2
+    },
+    {
+      "sentence": "In the mirror, I trace my mother's features on my own face.",
+      "style": "Intimate",
+      "translation": "镜中，我在自己脸上辨认出母亲的轮廓。",
+      "translated_word": "轮廓",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "cocktail",
+  "phonetic": "/ˈkɒkteɪl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "鸡尾酒；混合物；开胃小食",
+  "examples": [
+    {
+      "sentence": "The bartender slid a cocktail across the counter, its surface catching the low light.",
+      "style": "Contextual",
+      "translation": "调酒师把一杯鸡尾酒推过吧台，酒面映着昏黄的灯光。",
+      "translated_word": "鸡尾酒",
+      "display_order": 1
+    },
+    {
+      "sentence": "A good cocktail balances spirit, citrus, and sweetness in quiet harmony.",
+      "style": "Collocational",
+      "translation": "一杯好的鸡尾酒，是烈酒、柑橘与甜味之间的微妙平衡。",
+      "translated_word": "鸡尾酒",
+      "display_order": 3
+    },
+    {
+      "sentence": "The city hums below; the cocktail glows amber in my hand.",
+      "style": "Poetic",
+      "translation": "城市在脚下低吟，琥珀色的酒杯在掌心微微发亮。",
+      "translated_word": "酒杯",
+      "display_order": 4
+    },
+    {
+      "sentence": "We ordered the same cocktail that night, and somewhere between sips, we became friends.",
+      "style": "Intimate",
+      "translation": "那晚我们点了同一款鸡尾酒，几杯下肚，便成了朋友。",
+      "translated_word": "鸡尾酒",
+      "display_order": 2
+    }
+  ]
+}

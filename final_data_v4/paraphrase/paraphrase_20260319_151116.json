@@ -1,0 +1,40 @@
+{
+  "word": "paraphrase",
+  "phonetic": "/ˈpærəfreɪz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "转述；改述；释义",
+  "examples": [
+    {
+      "sentence": "She paraphrased the dense paragraph into one clear sentence.",
+      "style": "Contextual",
+      "translation": "她将晦涩的段落浓缩成一句清晰的话。",
+      "translated_word": "浓缩",
+      "display_order": 2
+    },
+    {
+      "sentence": "The ambassador paraphrased the treaty's key provisions for the press.",
+      "style": "Formal",
+      "translation": "大使为媒体转述了条约的核心条款。",
+      "translated_word": "转述",
+      "display_order": 1
+    },
+    {
+      "sentence": "To paraphrase an old adage: simplicity reveals mastery.",
+      "style": "Collocational",
+      "translation": "借用一句古训：大道至简。",
+      "translated_word": "借用",
+      "display_order": 4
+    },
+    {
+      "sentence": "To paraphrase is to interpret; no two retellings are the same.",
+      "style": "Philosophical",
+      "translation": "转述即诠释；没有两次复述会完全相同。",
+      "translated_word": "转述",
+      "display_order": 3
+    }
+  ]
+}

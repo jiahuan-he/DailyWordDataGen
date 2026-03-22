@@ -1,0 +1,41 @@
+{
+  "word": "regular",
+  "phonetic": "/ˈreɡjələr/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "规律的；定期的；常规的；普通的",
+  "examples": [
+    {
+      "sentence": "Her regular morning walks gave the neighborhood dogs something to look forward to.",
+      "style": "Contextual",
+      "translation": "她规律的晨间散步，成了邻居家小狗们的期盼。",
+      "translated_word": "规律",
+      "display_order": 2
+    },
+    {
+      "sentence": "Regular practice turns awkward fingers into graceful ones.",
+      "style": "Collocational",
+      "translation": "规律的练习让笨拙的手指变得灵巧。",
+      "translated_word": "规律",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandfather's regular letters stopped arriving, and I finally understood absence.",
+      "style": "Intimate",
+      "translation": "祖父规律寄来的信停了，我才真正懂得了缺席的重量。",
+      "translated_word": "规律",
+      "display_order": 3
+    },
+    {
+      "sentence": "What feels regular today was once someone's impossible dream.",
+      "style": "Philosophical",
+      "translation": "今日习以为常之事，曾是某人遥不可及的梦。",
+      "translated_word": "习以为常",
+      "display_order": 4
+    }
+  ]
+}

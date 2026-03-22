@@ -1,0 +1,41 @@
+{
+  "word": "remainder",
+  "phonetic": "/rɪˈmeɪndər/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "剩余；余数；残部",
+  "examples": [
+    {
+      "sentence": "She donated half her savings and invested the remainder.",
+      "style": "Contextual",
+      "translation": "她捐出一半积蓄，将剩余的用于投资。",
+      "translated_word": "剩余",
+      "display_order": 1
+    },
+    {
+      "sentence": "He spent the remainder of the afternoon in silence.",
+      "style": "Collocational",
+      "translation": "他在沉默中度过了下午剩余的时光。",
+      "translated_word": "剩余",
+      "display_order": 2
+    },
+    {
+      "sentence": "We cannot choose what we lose, only what we do with the remainder.",
+      "style": "Philosophical",
+      "translation": "我们无法选择失去什么，只能选择如何对待余下的一切。",
+      "translated_word": "余下",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather's library now fits in one small box: the remainder of a lifetime's collection.",
+      "style": "Intimate",
+      "translation": "祖父的藏书如今只剩一小箱：一生收藏的残余。",
+      "translated_word": "残余",
+      "display_order": 3
+    }
+  ]
+}

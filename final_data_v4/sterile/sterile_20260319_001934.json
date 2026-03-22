@@ -1,0 +1,39 @@
+{
+  "word": "sterile",
+  "phonetic": "/ˈsterəl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "无菌的；不育的；贫瘠的；乏味的",
+  "examples": [
+    {
+      "sentence": "The nurse handed me instruments from the sterile tray.",
+      "style": "Contextual",
+      "translation": "护士从无菌托盘上递给我手术器械。",
+      "translated_word": "无菌",
+      "display_order": 1
+    },
+    {
+      "sentence": "Regulatory standards require sterile packaging for all implantable devices.",
+      "style": "Formal",
+      "translation": "监管标准要求所有植入式器械采用无菌包装。",
+      "translated_word": "无菌",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her studio overflowed with color; his office remained sterile and white.",
+      "style": "Contrastive",
+      "translation": "她的工作室色彩斑斓；他的办公室却苍白冷清。",
+      "translated_word": "冷清",
+      "display_order": 3
+    },
+    {
+      "sentence": "Perfection, when pursued too rigidly, becomes sterile.",
+      "style": "Philosophical",
+      "translation": "过于执着的完美，终将变得空洞乏味。",
+      "translated_word": "空洞乏味",
+      "display_order": 4
+    }
+  ]
+}

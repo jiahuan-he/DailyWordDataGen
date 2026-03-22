@@ -1,0 +1,40 @@
+{
+  "word": "schedule",
+  "phonetic": "/ˈskedʒuːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "日程；时间表；计划",
+  "examples": [
+    {
+      "sentence": "Her schedule left no room for lunch between meetings.",
+      "style": "Contextual",
+      "translation": "会议排满了她的日程，午餐只能作罢。",
+      "translated_word": "日程",
+      "display_order": 1
+    },
+    {
+      "sentence": "A flexible schedule is a rare luxury in this industry.",
+      "style": "Collocational",
+      "translation": "在这个行业，弹性日程是稀有的奢侈。",
+      "translated_word": "日程",
+      "display_order": 2
+    },
+    {
+      "sentence": "We fit our schedules around each other and called it love.",
+      "style": "Intimate",
+      "translation": "我们为彼此腾出时间，并称之为爱。",
+      "translated_word": "时间",
+      "display_order": 4
+    },
+    {
+      "sentence": "Your schedule reveals what you truly value.",
+      "style": "Philosophical",
+      "translation": "你的日程表，暴露着你真正在意的事。",
+      "translated_word": "日程表",
+      "display_order": 3
+    }
+  ]
+}

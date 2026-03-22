@@ -1,0 +1,41 @@
+{
+  "word": "spite",
+  "phonetic": "/spaɪt/",
+  "pos": [
+    "noun",
+    "preposition",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "怨恨；恶意；刁难",
+  "examples": [
+    {
+      "sentence": "She donated to his rival's campaign out of pure spite.",
+      "style": "Contextual",
+      "translation": "她出于纯粹的怨恨，给他对手的竞选活动捐了款。",
+      "translated_word": "怨恨",
+      "display_order": 1
+    },
+    {
+      "sentence": "Spite is anger that has learned to be patient.",
+      "style": "Philosophical",
+      "translation": "怨恨，是学会了隐忍的愤怒。",
+      "translated_word": "怨恨",
+      "display_order": 2
+    },
+    {
+      "sentence": "Spite burns cold; it needs no fire, only memory.",
+      "style": "Poetic",
+      "translation": "怨恨是冷焰；无需薪火，唯凭记忆。",
+      "translated_word": "怨恨",
+      "display_order": 3
+    },
+    {
+      "sentence": "The garden I built after our divorce thrives on sunlight and, admittedly, a little spite.",
+      "style": "Intimate",
+      "translation": "离婚后我造的那座花园，靠阳光滋养，也靠一点点不甘心。",
+      "translated_word": "不甘心",
+      "display_order": 4
+    }
+  ]
+}

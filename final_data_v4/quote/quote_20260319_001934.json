@@ -1,0 +1,40 @@
+{
+  "word": "quote",
+  "phonetic": "/kwoʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "引言；语录；报价",
+  "examples": [
+    {
+      "sentence": "She keeps a quote from her mentor pinned to her mirror.",
+      "style": "Contextual",
+      "translation": "她把导师的一句话贴在镜子上。",
+      "translated_word": "一句话",
+      "display_order": 1
+    },
+    {
+      "sentence": "The contractor's quote came in under budget.",
+      "style": "Collocational",
+      "translation": "承包商的报价低于预算。",
+      "translated_word": "报价",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every quote is a conversation across time.",
+      "style": "Philosophical",
+      "translation": "每一句引言，都是一场跨越时间的对话。",
+      "translated_word": "引言",
+      "display_order": 3
+    },
+    {
+      "sentence": "That old quote from my father found new meaning when I became a parent myself.",
+      "style": "Intimate",
+      "translation": "当我为人父母后，父亲当年的那句话有了全新的意义。",
+      "translated_word": "那句话",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "belt",
+  "phonetic": "/belt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "腰带；皮带；地带",
+  "examples": [
+    {
+      "sentence": "He adjusted his belt before stepping onto the stage.",
+      "style": "Contextual",
+      "translation": "他整了整腰带，走上了舞台。",
+      "translated_word": "腰带",
+      "display_order": 1
+    },
+    {
+      "sentence": "The rust belt still hums with echoes of its industrial past.",
+      "style": "Collocational",
+      "translation": "铁锈地带至今仍回响着往昔工业的余音。",
+      "translated_word": "地带",
+      "display_order": 4
+    },
+    {
+      "sentence": "That cracked leather belt was the only thing he left behind.",
+      "style": "Intimate",
+      "translation": "那条裂痕斑驳的皮带，是他留下的唯一遗物。",
+      "translated_word": "皮带",
+      "display_order": 2
+    },
+    {
+      "sentence": "A belt holds more than trousers; it holds a man's composure.",
+      "style": "Philosophical",
+      "translation": "腰带系住的不只是裤子，更是一个人的体面。",
+      "translated_word": "腰带",
+      "display_order": 3
+    }
+  ]
+}

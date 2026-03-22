@@ -1,0 +1,39 @@
+{
+  "word": "majority",
+  "phonetic": "/məˈdʒɔːrəti/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "大多数；多数派；过半数",
+  "examples": [
+    {
+      "sentence": "Seven voted in favor; the majority had spoken.",
+      "style": "Contextual",
+      "translation": "七票赞成，多数已定。",
+      "translated_word": "多数",
+      "display_order": 2
+    },
+    {
+      "sentence": "The majority of analysts predict a gradual recovery.",
+      "style": "Formal",
+      "translation": "多数分析师预测经济将逐步复苏。",
+      "translated_word": "多数",
+      "display_order": 1
+    },
+    {
+      "sentence": "Truth does not require the approval of a majority.",
+      "style": "Philosophical",
+      "translation": "真理无需多数人的认可。",
+      "translated_word": "多数人",
+      "display_order": 3
+    },
+    {
+      "sentence": "The majority follows; the few question.",
+      "style": "Contrastive",
+      "translation": "多数人追随，少数人质疑。",
+      "translated_word": "多数人",
+      "display_order": 4
+    }
+  ]
+}

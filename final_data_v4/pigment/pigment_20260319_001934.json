@@ -1,0 +1,40 @@
+{
+  "word": "pigment",
+  "phonetic": "/ˈpɪɡmənt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "色素；颜料",
+  "examples": [
+    {
+      "sentence": "The restorer carefully matched the pigment to the original fresco.",
+      "style": "Contextual",
+      "translation": "修复师仔细调配颜料，力求与原壁画的色彩一致。",
+      "translated_word": "颜料",
+      "display_order": 2
+    },
+    {
+      "sentence": "Crushed shells became pigment; pigment became sky.",
+      "style": "Poetic",
+      "translation": "贝壳碾作颜料，颜料化为天空。",
+      "translated_word": "颜料",
+      "display_order": 4
+    },
+    {
+      "sentence": "New research links sun exposure to accelerated loss of skin pigment.",
+      "style": "Formal",
+      "translation": "新研究表明，日晒会加速皮肤色素流失。",
+      "translated_word": "色素",
+      "display_order": 3
+    },
+    {
+      "sentence": "She sources natural pigment from local plants and minerals.",
+      "style": "Collocational",
+      "translation": "她从本地植物和矿石中提取天然颜料。",
+      "translated_word": "颜料",
+      "display_order": 1
+    }
+  ]
+}

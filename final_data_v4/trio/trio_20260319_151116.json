@@ -1,0 +1,39 @@
+{
+  "word": "trio",
+  "phonetic": "/ˈtriːoʊ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "三人组；三重奏；三件套",
+  "examples": [
+    {
+      "sentence": "The jazz trio played until the last guest left the café.",
+      "style": "Contextual",
+      "translation": "爵士三重奏一直演奏到最后一位客人离开咖啡馆。",
+      "translated_word": "三重奏",
+      "display_order": 1
+    },
+    {
+      "sentence": "They made an unlikely trio: a chef, a poet, and a physicist.",
+      "style": "Collocational",
+      "translation": "他们是一个不太可能的组合：一位厨师、一位诗人和一位物理学家。",
+      "translated_word": "组合",
+      "display_order": 3
+    },
+    {
+      "sentence": "A trio of swallows cut through the dusk, tracing arcs only they understood.",
+      "style": "Poetic",
+      "translation": "三只燕子划破黄昏，勾勒出只有它们才懂的弧线。",
+      "translated_word": "三只",
+      "display_order": 4
+    },
+    {
+      "sentence": "Our childhood trio scattered across continents, yet we still share the same group chat.",
+      "style": "Intimate",
+      "translation": "童年的三人组散落在各大洲，但我们仍在同一个群聊里。",
+      "translated_word": "三人组",
+      "display_order": 2
+    }
+  ]
+}

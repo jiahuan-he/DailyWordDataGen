@@ -1,0 +1,40 @@
+{
+  "word": "liquid",
+  "phonetic": "/ˈlɪkwɪd/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "液体；流体；液态物",
+  "examples": [
+    {
+      "sentence": "The nurse asked if I could keep liquids down after the surgery.",
+      "style": "Contextual",
+      "translation": "护士问我术后能否正常进食流质。",
+      "translated_word": "流质",
+      "display_order": 2
+    },
+    {
+      "sentence": "Store this liquid in a cool, dark place away from children.",
+      "style": "Collocational",
+      "translation": "请将此液体存放于阴凉避光处，远离儿童。",
+      "translated_word": "液体",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sunlight pooled in the liquid, turning plain water into scattered gold.",
+      "style": "Poetic",
+      "translation": "阳光沉入杯中，将清水化作碎金。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "Every liquid finds its own level; so does honesty, eventually.",
+      "style": "Philosophical",
+      "translation": "液体终会找到自己的水平面；诚实亦然。",
+      "translated_word": "液体",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "identification",
+  "phonetic": "/aɪˌdentɪfɪˈkeɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "身份证明；辨认；认同；鉴定",
+  "examples": [
+    {
+      "sentence": "The clerk asked for identification before releasing the package.",
+      "style": "Contextual",
+      "translation": "店员要求出示证件后才肯交出包裹。",
+      "translated_word": "证件",
+      "display_order": 1
+    },
+    {
+      "sentence": "Forensic identification confirmed the artifact dated back two millennia.",
+      "style": "Formal",
+      "translation": "法医鉴定证实该文物可追溯至两千年前。",
+      "translated_word": "鉴定",
+      "display_order": 3
+    },
+    {
+      "sentence": "She kept her identification in a slim leather case, edges softened by years of use.",
+      "style": "Collocational",
+      "translation": "她把证件收在一只窄小的皮夹里，边角已被岁月磨得柔软。",
+      "translated_word": "证件",
+      "display_order": 2
+    },
+    {
+      "sentence": "Identification with a fictional character often reveals what we secretly long to become.",
+      "style": "Philosophical",
+      "translation": "对虚构人物的认同，往往泄露了我们暗自渴望成为的模样。",
+      "translated_word": "认同",
+      "display_order": 4
+    }
+  ]
+}

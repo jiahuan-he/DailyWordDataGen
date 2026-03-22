@@ -1,0 +1,40 @@
+{
+  "word": "stress",
+  "phonetic": "/stres/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "压力；紧张；重负",
+  "examples": [
+    {
+      "sentence": "Her voice cracked mid-sentence; the stress was getting to her.",
+      "style": "Contextual",
+      "translation": "她话说到一半声音就哑了；压力正在吞噬她。",
+      "translated_word": "压力",
+      "display_order": 2
+    },
+    {
+      "sentence": "Stress reveals what we care about most.",
+      "style": "Philosophical",
+      "translation": "压力往往暴露我们最在意的事。",
+      "translated_word": "压力",
+      "display_order": 4
+    },
+    {
+      "sentence": "My mother once told me: stress means you still care.",
+      "style": "Intimate",
+      "translation": "母亲曾对我说：有压力，说明你还在乎。",
+      "translated_word": "压力",
+      "display_order": 3
+    },
+    {
+      "sentence": "She's been under immense stress since the merger.",
+      "style": "Collocational",
+      "translation": "自从合并的消息传出，她一直承受着巨大的压力。",
+      "translated_word": "压力",
+      "display_order": 1
+    }
+  ]
+}

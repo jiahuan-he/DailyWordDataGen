@@ -1,0 +1,40 @@
+{
+  "word": "humdrum",
+  "phonetic": "/ˈhʌmdrʌm/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "单调的；乏味的；平淡无奇的",
+  "examples": [
+    {
+      "sentence": "The days blurred together: same commute, same desk, same humdrum tasks.",
+      "style": "Contextual",
+      "translation": "日子渐渐模糊：同样的通勤，同样的桌子，同样单调的事务。",
+      "translated_word": "单调",
+      "display_order": 2
+    },
+    {
+      "sentence": "One unexpected phone call can shatter a humdrum afternoon.",
+      "style": "Contrastive",
+      "translation": "一通意外来电，便能打破一个乏味的午后。",
+      "translated_word": "乏味",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some build entire lives escaping the humdrum; others find peace within it.",
+      "style": "Philosophical",
+      "translation": "有人穷尽一生逃避平淡，有人却从中觅得安宁。",
+      "translated_word": "平淡",
+      "display_order": 4
+    },
+    {
+      "sentence": "After years of chasing thrills, I returned to my humdrum hometown and finally felt home.",
+      "style": "Intimate",
+      "translation": "追逐刺激多年后，我回到平淡的故乡，终于有了归属之感。",
+      "translated_word": "平淡",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "fumble",
+  "phonetic": "/ˈfʌmbəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "摸索；笨拙地处理；失手",
+  "examples": [
+    {
+      "sentence": "He fumbled for his phone as the alarm blared.",
+      "style": "Contextual",
+      "translation": "闹铃大作，他手忙脚乱地摸索着手机。",
+      "translated_word": "摸索",
+      "display_order": 1
+    },
+    {
+      "sentence": "She fumbled with the lock, fingers numb from the cold.",
+      "style": "Collocational",
+      "translation": "她笨拙地拨弄着门锁，手指早已冻僵。",
+      "translated_word": "笨拙",
+      "display_order": 2
+    },
+    {
+      "sentence": "Your hands fumbled with the ribbon; I pretended not to notice.",
+      "style": "Intimate",
+      "translation": "你的手笨拙地解着丝带，我假装没有看见。",
+      "translated_word": "笨拙",
+      "display_order": 3
+    },
+    {
+      "sentence": "Words fumble at the edge of what the heart already knows.",
+      "style": "Poetic",
+      "translation": "言语在心知之处踌躇，终究难以成形。",
+      "translated_word": "踌躇",
+      "display_order": 4
+    }
+  ]
+}

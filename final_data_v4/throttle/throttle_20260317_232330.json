@@ -1,0 +1,40 @@
+{
+  "word": "throttle",
+  "phonetic": "/ˈθrɑːtl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "扼住；压制；节流",
+  "examples": [
+    {
+      "sentence": "The provider began to throttle internet speeds during peak hours.",
+      "style": "Contextual",
+      "translation": "服务商在高峰时段开始限制网速。",
+      "translated_word": "限制",
+      "display_order": 1
+    },
+    {
+      "sentence": "Critics warn the new regulation will throttle innovation across the sector.",
+      "style": "Formal",
+      "translation": "批评人士警告，新规将抑制整个行业的创新。",
+      "translated_word": "抑制",
+      "display_order": 3
+    },
+    {
+      "sentence": "He learned to throttle back his pace after the burnout.",
+      "style": "Collocational",
+      "translation": "那次倦怠之后，他学会了放慢脚步。",
+      "translated_word": "放慢",
+      "display_order": 2
+    },
+    {
+      "sentence": "Fear throttles more dreams than failure ever could.",
+      "style": "Philosophical",
+      "translation": "恐惧扼杀的梦想，远比失败更多。",
+      "translated_word": "扼杀",
+      "display_order": 4
+    }
+  ]
+}

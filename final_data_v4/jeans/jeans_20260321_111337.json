@@ -1,0 +1,39 @@
+{
+  "word": "jeans",
+  "phonetic": "/dʒiːnz/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "牛仔裤",
+  "examples": [
+    {
+      "sentence": "She slipped into jeans before the morning hike.",
+      "style": "Contextual",
+      "translation": "清晨徒步前，她换上了牛仔裤。",
+      "translated_word": "牛仔裤",
+      "display_order": 1
+    },
+    {
+      "sentence": "Faded jeans and a leather jacket: effortless cool.",
+      "style": "Collocational",
+      "translation": "洗旧的牛仔裤配皮夹克：不费力的帅气。",
+      "translated_word": "牛仔裤",
+      "display_order": 3
+    },
+    {
+      "sentence": "My favorite jeans finally ripped at the knee; I couldn't throw them away.",
+      "style": "Intimate",
+      "translation": "我最爱的那条牛仔裤终于在膝盖处破了洞；我舍不得扔。",
+      "translated_word": "牛仔裤",
+      "display_order": 2
+    },
+    {
+      "sentence": "Soft from years of wear, her jeans held the shape of a thousand afternoons.",
+      "style": "Poetic",
+      "translation": "经年磨软的牛仔裤，保留着无数午后的轮廓。",
+      "translated_word": "牛仔裤",
+      "display_order": 4
+    }
+  ]
+}

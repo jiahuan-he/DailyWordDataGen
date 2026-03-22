@@ -1,0 +1,41 @@
+{
+  "word": "solid",
+  "phonetic": "/ˈsɑːlɪd/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "坚固的；扎实的；可靠的；实心的",
+  "examples": [
+    {
+      "sentence": "The old oak table felt solid beneath my palms.",
+      "style": "Contextual",
+      "translation": "那张老橡木桌在掌心下显得沉稳结实。",
+      "translated_word": "结实",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her proposal was backed by solid evidence.",
+      "style": "Collocational",
+      "translation": "她的提案有扎实的证据支撑。",
+      "translated_word": "扎实",
+      "display_order": 2
+    },
+    {
+      "sentence": "The firm posted solid earnings for the third consecutive quarter.",
+      "style": "Formal",
+      "translation": "该公司连续第三个季度录得稳健收益。",
+      "translated_word": "稳健",
+      "display_order": 3
+    },
+    {
+      "sentence": "Small, solid steps outlast grand leaps.",
+      "style": "Inspirational",
+      "translation": "踏实的小步，走得比大跨越更远。",
+      "translated_word": "踏实",
+      "display_order": 4
+    }
+  ]
+}

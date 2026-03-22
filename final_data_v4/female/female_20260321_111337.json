@@ -1,0 +1,40 @@
+{
+  "word": "female",
+  "phonetic": "/ˈfiːmeɪl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "女性的；雌性的",
+  "examples": [
+    {
+      "sentence": "The company appointed its first female CEO last month.",
+      "style": "Contextual",
+      "translation": "公司上月任命了首位女性首席执行官。",
+      "translated_word": "女性",
+      "display_order": 1
+    },
+    {
+      "sentence": "Female participation in STEM fields has risen steadily over the past decade.",
+      "style": "Formal",
+      "translation": "过去十年间，女性在理工科领域的参与度稳步上升。",
+      "translated_word": "女性",
+      "display_order": 3
+    },
+    {
+      "sentence": "The study found that female candidates outperformed their male counterparts in verbal reasoning.",
+      "style": "Contrastive",
+      "translation": "研究发现，女性候选人在言语推理方面的表现优于男性。",
+      "translated_word": "女性",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her deep female voice commanded the room without raising its volume.",
+      "style": "Collocational",
+      "translation": "她低沉的女声不必提高音量，便足以掌控全场。",
+      "translated_word": "女",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "affection",
+  "phonetic": "/əˈfekʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "喜爱；深情；爱慕",
+  "examples": [
+    {
+      "sentence": "Children sense genuine affection; they cannot be fooled by hollow words.",
+      "style": "Collocational",
+      "translation": "孩子能感知真挚的喜爱；空洞的言语骗不了他们。",
+      "translated_word": "喜爱",
+      "display_order": 1
+    },
+    {
+      "sentence": "Affection, unlike passion, strengthens through the ordinary.",
+      "style": "Philosophical",
+      "translation": "喜爱不似激情，它在平凡中愈发深厚。",
+      "translated_word": "喜爱",
+      "display_order": 4
+    },
+    {
+      "sentence": "Affection lives in small gestures: a saved seat, a second glance.",
+      "style": "Poetic",
+      "translation": "深情藏于细微处：一个留座，一次回眸。",
+      "translated_word": "深情",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother spoke little, but her cooking carried all her affection.",
+      "style": "Intimate",
+      "translation": "祖母寡言，却将所有的爱都揉进了饭菜里。",
+      "translated_word": "爱",
+      "display_order": 2
+    }
+  ]
+}

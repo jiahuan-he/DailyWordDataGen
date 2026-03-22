@@ -1,0 +1,43 @@
+{
+  "word": "fast",
+  "phonetic": "/fæst/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "快的；迅速的；牢固的",
+  "examples": [
+    {
+      "sentence": "The city demanded fast decisions and even faster instincts.",
+      "style": "Contextual",
+      "translation": "这座城市需要快速的决断，以及更快的直觉。",
+      "translated_word": "快速",
+      "display_order": 2
+    },
+    {
+      "sentence": "She's a fast learner; give her a week.",
+      "style": "Collocational",
+      "translation": "她学东西很快，给她一周就够了。",
+      "translated_word": "快",
+      "display_order": 1
+    },
+    {
+      "sentence": "A fast mind is useful, but a steady heart wins.",
+      "style": "Inspirational",
+      "translation": "敏捷的头脑固然有用，但沉稳的内心才能取胜。",
+      "translated_word": "敏捷",
+      "display_order": 3
+    },
+    {
+      "sentence": "We built a fast world, then wondered why stillness felt foreign.",
+      "style": "Philosophical",
+      "translation": "我们建造了一个飞速运转的世界，却又困惑于为何静止变得如此陌生。",
+      "translated_word": "飞速",
+      "display_order": 4
+    }
+  ]
+}

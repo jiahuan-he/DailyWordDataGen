@@ -1,0 +1,39 @@
+{
+  "word": "colon",
+  "phonetic": "/ˈkoʊlən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "冒号；结肠",
+  "examples": [
+    {
+      "sentence": "Use a colon before introducing a list or explanation.",
+      "style": "Contextual",
+      "translation": "在引出列表或解释之前，使用冒号。",
+      "translated_word": "冒号",
+      "display_order": 1
+    },
+    {
+      "sentence": "The biopsy confirmed no abnormalities in the patient's colon.",
+      "style": "Formal",
+      "translation": "活检结果证实患者结肠无异常。",
+      "translated_word": "结肠",
+      "display_order": 4
+    },
+    {
+      "sentence": "A colon signals what follows; a semicolon links what stands equal.",
+      "style": "Contrastive",
+      "translation": "冒号引出后文；分号连接对等。",
+      "translated_word": "冒号",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her note ended with a colon, as if the rest were up to me.",
+      "style": "Collocational",
+      "translation": "她的字条以冒号结尾，仿佛后文全由我来书写。",
+      "translated_word": "冒号",
+      "display_order": 2
+    }
+  ]
+}

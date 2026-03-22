@@ -1,0 +1,40 @@
+{
+  "word": "series",
+  "phonetic": "/ˈsɪəriːz/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "系列；连续；剧集；丛书",
+  "examples": [
+    {
+      "sentence": "A series of small choices led her here.",
+      "style": "Contextual",
+      "translation": "一连串微小的选择，将她带到了这里。",
+      "translated_word": "一连串",
+      "display_order": 3
+    },
+    {
+      "sentence": "The documentary series premieres this Friday on all major platforms.",
+      "style": "Formal",
+      "translation": "该纪录片系列将于本周五在各大平台首播。",
+      "translated_word": "系列",
+      "display_order": 1
+    },
+    {
+      "sentence": "We binged the entire series in one weekend.",
+      "style": "Collocational",
+      "translation": "我们用一个周末刷完了整部剧。",
+      "translated_word": "剧",
+      "display_order": 4
+    },
+    {
+      "sentence": "That old fantasy series was our childhood ritual; we read it aloud by flashlight.",
+      "style": "Intimate",
+      "translation": "那套老旧的奇幻丛书是我们童年的仪式，我们曾在手电筒下朗读它。",
+      "translated_word": "丛书",
+      "display_order": 2
+    }
+  ]
+}

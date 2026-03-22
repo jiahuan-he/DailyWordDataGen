@@ -1,0 +1,40 @@
+{
+  "word": "address",
+  "phonetic": "/əˈdres/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "处理；应对；致辞；称呼",
+  "examples": [
+    {
+      "sentence": "The mayor stepped forward to address the anxious crowd.",
+      "style": "Contextual",
+      "translation": "市长走上前，向焦虑的人群致辞。",
+      "translated_word": "致辞",
+      "display_order": 1
+    },
+    {
+      "sentence": "The committee will address the budget shortfall in tomorrow's session.",
+      "style": "Formal",
+      "translation": "委员会将于明日会议上讨论预算缺口问题。",
+      "translated_word": "讨论",
+      "display_order": 3
+    },
+    {
+      "sentence": "Address the root cause, not just the symptoms.",
+      "style": "Inspirational",
+      "translation": "治本，而非治标。",
+      "translated_word": "治",
+      "display_order": 4
+    },
+    {
+      "sentence": "She addressed him by his first name, and the room went quiet.",
+      "style": "Intimate",
+      "translation": "她直呼他的名字，房间顿时安静下来。",
+      "translated_word": "呼",
+      "display_order": 2
+    }
+  ]
+}

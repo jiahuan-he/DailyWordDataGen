@@ -1,0 +1,41 @@
+{
+  "word": "undercut",
+  "phonetic": "/ˌʌndərˈkʌt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "削价竞争；削弱；暗中破坏",
+  "examples": [
+    {
+      "sentence": "The new supplier undercut every quote we received.",
+      "style": "Contextual",
+      "translation": "新供应商的报价低于我们收到的所有报价。",
+      "translated_word": "低于",
+      "display_order": 1
+    },
+    {
+      "sentence": "Analysts warn that undercutting rivals may erode long-term brand equity.",
+      "style": "Formal",
+      "translation": "分析师警告，削价竞争可能损害品牌的长期价值。",
+      "translated_word": "削价",
+      "display_order": 3
+    },
+    {
+      "sentence": "He didn't argue openly; he undercut her credibility in private.",
+      "style": "Contrastive",
+      "translation": "他没有公开争论，而是私下削弱她的公信力。",
+      "translated_word": "削弱",
+      "display_order": 2
+    },
+    {
+      "sentence": "Ambition, left unchecked, will undercut the very trust it needs to succeed.",
+      "style": "Philosophical",
+      "translation": "不加节制的野心，终将侵蚀它赖以成功的信任。",
+      "translated_word": "侵蚀",
+      "display_order": 4
+    }
+  ]
+}

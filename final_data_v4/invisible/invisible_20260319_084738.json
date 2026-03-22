@@ -1,0 +1,41 @@
+{
+  "word": "invisible",
+  "phonetic": "/ɪnˈvɪzəbl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "看不见的；无形的；隐形的",
+  "examples": [
+    {
+      "sentence": "The stain was invisible until the light hit it at an angle.",
+      "style": "Contextual",
+      "translation": "污渍在光线斜照之前，完全看不见。",
+      "translated_word": "看不见",
+      "display_order": 1
+    },
+    {
+      "sentence": "The strongest forces are invisible: gravity, time, love.",
+      "style": "Philosophical",
+      "translation": "最强大的力量往往无形：引力、时间、爱。",
+      "translated_word": "无形",
+      "display_order": 3
+    },
+    {
+      "sentence": "She drifted through the crowd, invisible, a ghost at her own party.",
+      "style": "Poetic",
+      "translation": "她穿行于人群，宛若幽灵，在自己的派对上无人问津。",
+      "translated_word": "无人问津",
+      "display_order": 2
+    },
+    {
+      "sentence": "At twelve, I felt invisible in my own home; now I see they were drowning too.",
+      "style": "Intimate",
+      "translation": "十二岁那年，我在家中感到隐形；如今才懂，他们也在挣扎求存。",
+      "translated_word": "隐形",
+      "display_order": 4
+    }
+  ]
+}

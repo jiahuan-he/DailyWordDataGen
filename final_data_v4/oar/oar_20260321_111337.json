@@ -1,0 +1,40 @@
+{
+  "word": "oar",
+  "phonetic": "/ɔːr/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "桨；橹；船桨",
+  "examples": [
+    {
+      "sentence": "She dipped the oar into the still lake and began to row.",
+      "style": "Contextual",
+      "translation": "她将桨探入静谧的湖中，缓缓划行。",
+      "translated_word": "桨",
+      "display_order": 1
+    },
+    {
+      "sentence": "He gripped the oars tightly as the current grew stronger.",
+      "style": "Collocational",
+      "translation": "水流愈急，他握桨愈紧。",
+      "translated_word": "桨",
+      "display_order": 3
+    },
+    {
+      "sentence": "The oar sliced through dawn, leaving silver trails in its wake.",
+      "style": "Poetic",
+      "translation": "桨破晓色，身后曳出道道银痕。",
+      "translated_word": "桨",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather carved that oar himself; it still hangs in the shed.",
+      "style": "Intimate",
+      "translation": "那把桨是祖父亲手削制的，至今仍挂在棚屋里。",
+      "translated_word": "桨",
+      "display_order": 2
+    }
+  ]
+}

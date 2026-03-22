@@ -1,0 +1,39 @@
+{
+  "word": "fatten",
+  "phonetic": "/ˈfæt.ən/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使发胖；养肥；增肥",
+  "examples": [
+    {
+      "sentence": "The farmer fattened his pigs before the winter market.",
+      "style": "Contextual",
+      "translation": "农夫在冬季集市前把猪养肥了。",
+      "translated_word": "养肥",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rising feed costs have made it expensive to fatten livestock.",
+      "style": "Formal",
+      "translation": "饲料成本上涨使牲畜育肥变得愈发昂贵。",
+      "translated_word": "育肥",
+      "display_order": 3
+    },
+    {
+      "sentence": "Grandma always tried to fatten us up with her cooking.",
+      "style": "Collocational",
+      "translation": "奶奶总想用她的拿手菜把我们喂胖。",
+      "translated_word": "喂胖",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every visit home, my mother fattens me with love disguised as food.",
+      "style": "Intimate",
+      "translation": "每次回家，母亲总以美食为名，将满腔爱意喂进我的身体。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "loom",
+  "phonetic": "/luːm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "隐现；逼近；迫在眉睫",
+  "examples": [
+    {
+      "sentence": "The mountains loomed through the morning mist.",
+      "style": "Poetic",
+      "translation": "群山在晨雾中隐隐浮现。",
+      "translated_word": "浮现",
+      "display_order": 1
+    },
+    {
+      "sentence": "A global recession looms as inflation continues to climb.",
+      "style": "Formal",
+      "translation": "通胀持续攀升，全球衰退迫在眉睫。",
+      "translated_word": "迫在眉睫",
+      "display_order": 3
+    },
+    {
+      "sentence": "The deadline looms; only two days remain.",
+      "style": "Contextual",
+      "translation": "截止日期逼近，仅剩两天。",
+      "translated_word": "逼近",
+      "display_order": 2
+    },
+    {
+      "sentence": "What looms largest is often what we refuse to name.",
+      "style": "Philosophical",
+      "translation": "最迫近之事，往往是我们不愿言明的。",
+      "translated_word": "迫近",
+      "display_order": 4
+    }
+  ]
+}

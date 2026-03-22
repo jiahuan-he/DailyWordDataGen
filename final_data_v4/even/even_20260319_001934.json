@@ -1,0 +1,42 @@
+{
+  "word": "even",
+  "phonetic": "/ˈiːvən/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "甚至；更加；竟然",
+  "examples": [
+    {
+      "sentence": "Even with the windows closed, we could hear the sea.",
+      "style": "Contextual",
+      "translation": "即使关着窗，海声依然传来。",
+      "translated_word": "即使",
+      "display_order": 1
+    },
+    {
+      "sentence": "He mastered five languages, yet even simple honesty eluded him.",
+      "style": "Contrastive",
+      "translation": "他精通五门语言，却连最简单的坦诚也做不到。",
+      "translated_word": "连",
+      "display_order": 4
+    },
+    {
+      "sentence": "Even one candle can defy a room of darkness.",
+      "style": "Inspirational",
+      "translation": "哪怕一支蜡烛，也能抗衡满室的黑暗。",
+      "translated_word": "哪怕",
+      "display_order": 3
+    },
+    {
+      "sentence": "She never said she was proud, but even her silence held warmth.",
+      "style": "Intimate",
+      "translation": "她从未说过骄傲，但连沉默都带着温柔。",
+      "translated_word": "连",
+      "display_order": 2
+    }
+  ]
+}

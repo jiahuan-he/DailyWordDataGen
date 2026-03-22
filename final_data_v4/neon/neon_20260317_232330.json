@@ -1,0 +1,40 @@
+{
+  "word": "neon",
+  "phonetic": "/ˈniːɒn/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "氖；霓虹灯",
+  "examples": [
+    {
+      "sentence": "The old diner's neon flickered through the rain.",
+      "style": "Contextual",
+      "translation": "老餐馆的霓虹灯在雨中明灭闪烁。",
+      "translated_word": "霓虹灯",
+      "display_order": 3
+    },
+    {
+      "sentence": "Neon signs lined the narrow street, each one competing for attention.",
+      "style": "Collocational",
+      "translation": "霓虹招牌排满窄街，争相夺目。",
+      "translated_word": "霓虹",
+      "display_order": 1
+    },
+    {
+      "sentence": "The city breathes in neon after dark.",
+      "style": "Poetic",
+      "translation": "夜幕降临，城市在霓虹中呼吸。",
+      "translated_word": "霓虹",
+      "display_order": 4
+    },
+    {
+      "sentence": "That pharmacy's neon was the only light on when I walked her home.",
+      "style": "Intimate",
+      "translation": "送她回家那晚，只有药店的霓虹还亮着。",
+      "translated_word": "霓虹",
+      "display_order": 2
+    }
+  ]
+}

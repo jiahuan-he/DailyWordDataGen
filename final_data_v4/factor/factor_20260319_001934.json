@@ -1,0 +1,40 @@
+{
+  "word": "factor",
+  "phonetic": "/ˈfæktər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "因素；要素；因子",
+  "examples": [
+    {
+      "sentence": "Price was the deciding factor for most buyers.",
+      "style": "Contextual",
+      "translation": "价格是大多数买家的决定性因素。",
+      "translated_word": "因素",
+      "display_order": 1
+    },
+    {
+      "sentence": "Analysts cite inflation as the primary factor driving market volatility.",
+      "style": "Formal",
+      "translation": "分析师指出，通货膨胀是市场波动的首要因素。",
+      "translated_word": "因素",
+      "display_order": 3
+    },
+    {
+      "sentence": "Location remains a key factor in property value.",
+      "style": "Collocational",
+      "translation": "地段始终是房产价值的核心要素。",
+      "translated_word": "要素",
+      "display_order": 2
+    },
+    {
+      "sentence": "We remember our choices, not the quiet factors that shaped them.",
+      "style": "Philosophical",
+      "translation": "我们铭记抉择，却忘了那些无声塑造它们的因素。",
+      "translated_word": "因素",
+      "display_order": 4
+    }
+  ]
+}

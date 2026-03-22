@@ -1,0 +1,39 @@
+{
+  "word": "arrange",
+  "phonetic": "/əˈreɪndʒ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "安排；整理；布置",
+  "examples": [
+    {
+      "sentence": "She arranged the chairs in a circle before the guests arrived.",
+      "style": "Contextual",
+      "translation": "客人到来前，她把椅子摆成了一圈。",
+      "translated_word": "摆",
+      "display_order": 1
+    },
+    {
+      "sentence": "The embassy will arrange transportation for all delegates.",
+      "style": "Formal",
+      "translation": "大使馆将为所有代表安排交通。",
+      "translated_word": "安排",
+      "display_order": 4
+    },
+    {
+      "sentence": "Let me arrange a time that works for both of us.",
+      "style": "Collocational",
+      "translation": "我来安排一个双方都方便的时间吧。",
+      "translated_word": "安排",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every Sunday, my grandmother arranged wildflowers on the kitchen table.",
+      "style": "Intimate",
+      "translation": "每个周日，祖母都会在餐桌上摆放一束野花。",
+      "translated_word": "摆放",
+      "display_order": 2
+    }
+  ]
+}

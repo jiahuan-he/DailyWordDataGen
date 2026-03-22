@@ -1,0 +1,41 @@
+{
+  "word": "despite",
+  "phonetic": "/dɪˈspaɪt/",
+  "pos": [
+    "noun",
+    "preposition",
+    "verb"
+  ],
+  "selected_pos": "preposition",
+  "definition": "尽管；不顾；虽然",
+  "examples": [
+    {
+      "sentence": "Despite the rain, the wedding proceeded outdoors.",
+      "style": "Contextual",
+      "translation": "尽管下着雨，婚礼仍在户外如期举行。",
+      "translated_word": "尽管",
+      "display_order": 1
+    },
+    {
+      "sentence": "She built her company despite every closed door.",
+      "style": "Inspirational",
+      "translation": "每扇门关上，她依然建起了自己的公司。",
+      "translated_word": "依然",
+      "display_order": 2
+    },
+    {
+      "sentence": "He kept my letters, despite everything.",
+      "style": "Intimate",
+      "translation": "他留着我的信，尽管一切都已不同。",
+      "translated_word": "尽管",
+      "display_order": 3
+    },
+    {
+      "sentence": "The garden blooms despite the frost: stubborn, bright.",
+      "style": "Poetic",
+      "translation": "花园在霜冻中绽放：倔强，明艳。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

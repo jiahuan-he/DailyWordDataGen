@@ -1,0 +1,40 @@
+{
+  "word": "strike",
+  "phonetic": "/straɪk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "打；击；触动；罢工",
+  "examples": [
+    {
+      "sentence": "The clock struck twelve as the old year ended.",
+      "style": "Contextual",
+      "translation": "钟声敲响十二下，旧岁在此刻落幕。",
+      "translated_word": "敲响",
+      "display_order": 1
+    },
+    {
+      "sentence": "She struck a balance between work and rest.",
+      "style": "Collocational",
+      "translation": "她在工作与休息之间找到了平衡。",
+      "translated_word": "找到",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some faces strike us once and stay forever.",
+      "style": "Poetic",
+      "translation": "有些面孔只惊鸿一瞥，却永驻心间。",
+      "translated_word": "惊",
+      "display_order": 4
+    },
+    {
+      "sentence": "Factory workers voted to strike over unpaid wages.",
+      "style": "Formal",
+      "translation": "工厂工人因欠薪问题投票决定罢工。",
+      "translated_word": "罢工",
+      "display_order": 2
+    }
+  ]
+}

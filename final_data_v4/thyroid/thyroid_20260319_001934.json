@@ -1,0 +1,40 @@
+{
+  "word": "thyroid",
+  "phonetic": "/ˈθaɪrɔɪd/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "甲状腺",
+  "examples": [
+    {
+      "sentence": "The doctor gently pressed my neck to examine the thyroid.",
+      "style": "Contextual",
+      "translation": "医生轻轻按压我的颈部，检查甲状腺。",
+      "translated_word": "甲状腺",
+      "display_order": 1
+    },
+    {
+      "sentence": "Routine screening revealed an enlarged thyroid requiring further evaluation.",
+      "style": "Formal",
+      "translation": "常规筛查发现甲状腺肿大，需进一步检查。",
+      "translated_word": "甲状腺",
+      "display_order": 4
+    },
+    {
+      "sentence": "An overactive thyroid can cause rapid heartbeat and sudden weight loss.",
+      "style": "Collocational",
+      "translation": "甲状腺功能亢进会导致心跳加速和体重骤降。",
+      "translated_word": "甲状腺",
+      "display_order": 3
+    },
+    {
+      "sentence": "For years, I blamed my fatigue on stress; it was my thyroid all along.",
+      "style": "Intimate",
+      "translation": "多年来，我把疲惫归咎于压力；其实一直是甲状腺在作祟。",
+      "translated_word": "甲状腺",
+      "display_order": 2
+    }
+  ]
+}

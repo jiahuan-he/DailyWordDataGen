@@ -1,0 +1,39 @@
+{
+  "word": "vandal",
+  "phonetic": "/ˈvændl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "破坏者；捣乱分子；恶意毁损者",
+  "examples": [
+    {
+      "sentence": "A vandal had shattered every window on the block by morning.",
+      "style": "Contextual",
+      "translation": "清晨时分，整条街的窗户都已被人砸碎。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "Authorities are searching for the vandal who defaced the war memorial.",
+      "style": "Formal",
+      "translation": "当局正在追查毁损战争纪念碑的肇事者。",
+      "translated_word": "肇事者",
+      "display_order": 1
+    },
+    {
+      "sentence": "To the city, he was a vandal; to himself, an artist without a gallery.",
+      "style": "Contrastive",
+      "translation": "在城市眼中他是破坏者；在他自己看来，不过是没有展厅的艺术家。",
+      "translated_word": "破坏者",
+      "display_order": 3
+    },
+    {
+      "sentence": "A vandal craves attention but fears being truly seen.",
+      "style": "Philosophical",
+      "translation": "破坏者渴望被注意，却害怕被真正看见。",
+      "translated_word": "破坏者",
+      "display_order": 4
+    }
+  ]
+}

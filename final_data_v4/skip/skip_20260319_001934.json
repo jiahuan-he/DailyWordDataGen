@@ -1,0 +1,40 @@
+{
+  "word": "skip",
+  "phonetic": "/skɪp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "跳跃；略过；跳过",
+  "examples": [
+    {
+      "sentence": "She skipped the introduction and jumped straight to chapter three.",
+      "style": "Contextual",
+      "translation": "她跳过了引言，直接翻到第三章。",
+      "translated_word": "跳过",
+      "display_order": 1
+    },
+    {
+      "sentence": "My heart skipped a beat when I saw her name on my phone.",
+      "style": "Collocational",
+      "translation": "看到她的名字出现在手机上，我的心漏跳了一拍。",
+      "translated_word": "漏跳",
+      "display_order": 4
+    },
+    {
+      "sentence": "On sunny mornings, I skip breakfast and walk to the bakery instead.",
+      "style": "Intimate",
+      "translation": "阳光明媚的早晨，我会不吃早餐，散步去面包店。",
+      "translated_word": "不吃",
+      "display_order": 2
+    },
+    {
+      "sentence": "Children skip along the shore, their laughter lost to the tide.",
+      "style": "Poetic",
+      "translation": "孩子们沿着海岸蹦跳，笑声消散在潮水里。",
+      "translated_word": "蹦跳",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "pitch",
+  "phonetic": "/pɪtʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "投掷；推销；搭建",
+  "examples": [
+    {
+      "sentence": "He pitched the idea with quiet confidence; the room listened.",
+      "style": "Contextual",
+      "translation": "他从容地推销自己的想法，全场静心聆听。",
+      "translated_word": "推销",
+      "display_order": 4
+    },
+    {
+      "sentence": "The CEO will pitch the new strategy at tomorrow's board meeting.",
+      "style": "Formal",
+      "translation": "首席执行官将在明日董事会上提出新战略。",
+      "translated_word": "提出",
+      "display_order": 3
+    },
+    {
+      "sentence": "They pitched their tent by the river as the sun began to set.",
+      "style": "Collocational",
+      "translation": "日落时分，他们在河畔搭起了帐篷。",
+      "translated_word": "搭起",
+      "display_order": 1
+    },
+    {
+      "sentence": "My father taught me to pitch a baseball the summer I turned eight.",
+      "style": "Intimate",
+      "translation": "八岁那年夏天，父亲教会了我投球。",
+      "translated_word": "投球",
+      "display_order": 2
+    }
+  ]
+}

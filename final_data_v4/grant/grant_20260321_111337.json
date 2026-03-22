@@ -1,0 +1,40 @@
+{
+  "word": "grant",
+  "phonetic": "/ɡrænt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "授予；准许；承认",
+  "examples": [
+    {
+      "sentence": "After reviewing his case, the judge granted bail.",
+      "style": "Contextual",
+      "translation": "审查案情后，法官准许保释。",
+      "translated_word": "准许",
+      "display_order": 1
+    },
+    {
+      "sentence": "The foundation granted funding to twelve startups this quarter.",
+      "style": "Formal",
+      "translation": "本季度，该基金会向十二家初创企业提供了资助。",
+      "translated_word": "提供",
+      "display_order": 3
+    },
+    {
+      "sentence": "To grant forgiveness is to free two people at once.",
+      "style": "Philosophical",
+      "translation": "给予宽恕，是同时解放两个人。",
+      "translated_word": "给予",
+      "display_order": 4
+    },
+    {
+      "sentence": "She granted me her recipe book the day I left home.",
+      "style": "Intimate",
+      "translation": "离家那天，她把食谱本郑重地交给了我。",
+      "translated_word": "交给",
+      "display_order": 2
+    }
+  ]
+}

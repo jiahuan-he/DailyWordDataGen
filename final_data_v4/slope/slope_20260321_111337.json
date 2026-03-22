@@ -1,0 +1,42 @@
+{
+  "word": "slope",
+  "phonetic": "/sloʊp/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "斜坡；坡度；山坡",
+  "examples": [
+    {
+      "sentence": "The trail wound gently up the slope toward the lighthouse.",
+      "style": "Contextual",
+      "translation": "小径沿坡蜿蜒而上，通向灯塔。",
+      "translated_word": "坡",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rain drew silver threads down the slope.",
+      "style": "Poetic",
+      "translation": "雨在山坡上织出银色的丝线。",
+      "translated_word": "山坡",
+      "display_order": 2
+    },
+    {
+      "sentence": "The ski slope was packed with weekend visitors.",
+      "style": "Collocational",
+      "translation": "滑雪坡道挤满了周末的游客。",
+      "translated_word": "坡道",
+      "display_order": 3
+    },
+    {
+      "sentence": "The steeper the slope, the stronger your legs become.",
+      "style": "Inspirational",
+      "translation": "坡度越陡，双腿越坚韧。",
+      "translated_word": "坡度",
+      "display_order": 4
+    }
+  ]
+}

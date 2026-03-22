@@ -1,0 +1,40 @@
+{
+  "word": "indent",
+  "phonetic": "/ɪnˈdent/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "缩进；使凹陷；切成锯齿状",
+  "examples": [
+    {
+      "sentence": "Indent the first line to signal a new paragraph.",
+      "style": "Contextual",
+      "translation": "首行缩进，标示新段落的开始。",
+      "translated_word": "缩进",
+      "display_order": 1
+    },
+    {
+      "sentence": "Most style guides indent quoted passages by half an inch.",
+      "style": "Collocational",
+      "translation": "多数格式指南要求引文缩进半英寸。",
+      "translated_word": "缩进",
+      "display_order": 4
+    },
+    {
+      "sentence": "The treaty's clauses were indented to clarify their hierarchy.",
+      "style": "Formal",
+      "translation": "条约各款项经缩进排列，以明晰其层级。",
+      "translated_word": "缩进",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father taught me to indent each paragraph; small habits shape clear thinking.",
+      "style": "Intimate",
+      "translation": "父亲教我每段缩进；小习惯塑造清晰的思维。",
+      "translated_word": "缩进",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "means",
+  "phonetic": "/miːnz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "方法；手段；途径；财力",
+  "examples": [
+    {
+      "sentence": "For most urban workers, the subway is the quickest means of travel.",
+      "style": "Contextual",
+      "translation": "对大多数城市上班族而言，地铁是最快捷的出行方式。",
+      "translated_word": "方式",
+      "display_order": 1
+    },
+    {
+      "sentence": "The committee is exploring all available means to resolve the crisis.",
+      "style": "Formal",
+      "translation": "委员会正在探索一切可行手段以化解危机。",
+      "translated_word": "手段",
+      "display_order": 2
+    },
+    {
+      "sentence": "When the means consume us, we forget why we started.",
+      "style": "Philosophical",
+      "translation": "当我们沉溺于手段，便忘了为何出发。",
+      "translated_word": "手段",
+      "display_order": 4
+    },
+    {
+      "sentence": "Living beyond your means is a quiet form of self-betrayal.",
+      "style": "Collocational",
+      "translation": "入不敷出，是一种无声的自我背叛。",
+      "translated_word": null,
+      "display_order": 3
+    }
+  ]
+}

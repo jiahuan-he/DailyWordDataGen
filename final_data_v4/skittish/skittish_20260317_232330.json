@@ -1,0 +1,39 @@
+{
+  "word": "skittish",
+  "phonetic": "/ˈskɪtɪʃ/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "易惊的；神经质的；善变的",
+  "examples": [
+    {
+      "sentence": "The horse turned skittish at the first clap of thunder.",
+      "style": "Contextual",
+      "translation": "雷声初响，马儿便躁动不安起来。",
+      "translated_word": "躁动不安",
+      "display_order": 1
+    },
+    {
+      "sentence": "Skittish investors fled the market after the earnings report.",
+      "style": "Collocational",
+      "translation": "财报发布后，神经紧张的投资者纷纷撤离市场。",
+      "translated_word": "神经紧张",
+      "display_order": 3
+    },
+    {
+      "sentence": "Morning light made the deer skittish; they vanished like smoke between the pines.",
+      "style": "Poetic",
+      "translation": "晨光惊扰了鹿群，它们如烟雾般消散于松林间。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "She was skittish on our first date, barely meeting my eyes.",
+      "style": "Intimate",
+      "translation": "初次约会时她格外拘谨，几乎不敢与我对视。",
+      "translated_word": "拘谨",
+      "display_order": 2
+    }
+  ]
+}

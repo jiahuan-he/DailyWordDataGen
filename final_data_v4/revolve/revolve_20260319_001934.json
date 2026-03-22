@@ -1,0 +1,40 @@
+{
+  "word": "revolve",
+  "phonetic": "/rɪˈvɒlv/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "旋转；围绕；以...为中心",
+  "examples": [
+    {
+      "sentence": "Planets revolve around stars, bound by invisible gravity.",
+      "style": "Contextual",
+      "translation": "行星围绕恒星运转，被无形的引力束缚。",
+      "translated_word": "运转",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her entire week revolved around caring for her newborn.",
+      "style": "Collocational",
+      "translation": "她整周的生活都围绕着照顾新生儿展开。",
+      "translated_word": "围绕",
+      "display_order": 2
+    },
+    {
+      "sentence": "Ask yourself: does your life revolve around what truly matters?",
+      "style": "Philosophical",
+      "translation": "问问自己：你的生活是否围绕着真正重要的事物运转？",
+      "translated_word": "围绕",
+      "display_order": 3
+    },
+    {
+      "sentence": "The seasons revolve, each carrying its own quiet beauty.",
+      "style": "Poetic",
+      "translation": "四季轮转，各自携带着独有的静美。",
+      "translated_word": "轮转",
+      "display_order": 4
+    }
+  ]
+}

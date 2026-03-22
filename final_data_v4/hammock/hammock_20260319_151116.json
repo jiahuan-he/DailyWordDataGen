@@ -1,0 +1,40 @@
+{
+  "word": "hammock",
+  "phonetic": "/ˈhæmək/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "吊床；悬挂式休憩网",
+  "examples": [
+    {
+      "sentence": "He strung a hammock between two palms and napped to the rhythm of the waves.",
+      "style": "Contextual",
+      "translation": "他在两棵棕榈树间系起吊床，伴着海浪的节奏入眠。",
+      "translated_word": "吊床",
+      "display_order": 1
+    },
+    {
+      "sentence": "A hammock on the porch turns any afternoon into a slow, golden hour.",
+      "style": "Collocational",
+      "translation": "门廊上的一张吊床，能让任何午后都变得悠长而金黄。",
+      "translated_word": "吊床",
+      "display_order": 3
+    },
+    {
+      "sentence": "The hammock held her like a pause between sentences.",
+      "style": "Poetic",
+      "translation": "吊床轻轻托住她，像句与句之间的一次停顿。",
+      "translated_word": "吊床",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather's hammock still hangs in the yard, faded but waiting.",
+      "style": "Intimate",
+      "translation": "祖父的吊床至今还挂在院子里，褪了色，却仍在等候。",
+      "translated_word": "吊床",
+      "display_order": 2
+    }
+  ]
+}

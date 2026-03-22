@@ -1,0 +1,40 @@
+{
+  "word": "want",
+  "phonetic": "/wɑːnt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "想要；需要；渴望",
+  "examples": [
+    {
+      "sentence": "He stared at the job listing, knowing exactly what he wanted.",
+      "style": "Contextual",
+      "translation": "他盯着招聘启事，心中早已有了答案。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "I want to call you, but I've forgotten what to say.",
+      "style": "Intimate",
+      "translation": "我想打电话给你，却忘了该说些什么。",
+      "translated_word": "想",
+      "display_order": 1
+    },
+    {
+      "sentence": "We often want what we cannot name.",
+      "style": "Philosophical",
+      "translation": "我们常常渴望着自己无法言说的东西。",
+      "translated_word": "渴望",
+      "display_order": 3
+    },
+    {
+      "sentence": "The world makes room for those who know what they want.",
+      "style": "Inspirational",
+      "translation": "这世界总会为目标明确的人让出一条路。",
+      "translated_word": "目标",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "coddle",
+  "phonetic": "/ˈkɑːdl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "溺爱；娇惯；过度呵护",
+  "examples": [
+    {
+      "sentence": "Her parents coddled her so much she never learned to fail.",
+      "style": "Contextual",
+      "translation": "父母太过娇惯，她从未学会面对失败。",
+      "translated_word": "娇惯",
+      "display_order": 1
+    },
+    {
+      "sentence": "To nurture is to prepare; to coddle is to disable.",
+      "style": "Contrastive",
+      "translation": "养育是为了成全，溺爱却是一种残害。",
+      "translated_word": "溺爱",
+      "display_order": 4
+    },
+    {
+      "sentence": "We coddle our fears until they grow too heavy to carry.",
+      "style": "Philosophical",
+      "translation": "我们小心呵护着恐惧，直到它们沉重得无法承受。",
+      "translated_word": "呵护",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother coddled me with warm soup every time I fell ill.",
+      "style": "Intimate",
+      "translation": "每次生病，祖母都用热汤细心照料我。",
+      "translated_word": "照料",
+      "display_order": 2
+    }
+  ]
+}

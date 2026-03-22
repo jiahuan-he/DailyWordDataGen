@@ -1,0 +1,40 @@
+{
+  "word": "garb",
+  "phonetic": "/ɡɑːrb/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "服装；装束；打扮",
+  "examples": [
+    {
+      "sentence": "The monks moved through the temple in saffron garb.",
+      "style": "Contextual",
+      "translation": "僧侣们身着藏红袍服，在寺庙中缓步穿行。",
+      "translated_word": "袍服",
+      "display_order": 2
+    },
+    {
+      "sentence": "Delegates arrived wearing the traditional garb of their home nations.",
+      "style": "Formal",
+      "translation": "各国代表身着本国传统服饰抵达会场。",
+      "translated_word": "服饰",
+      "display_order": 1
+    },
+    {
+      "sentence": "She traded her corporate garb for hiking boots and flannel.",
+      "style": "Collocational",
+      "translation": "她脱下职业套装，换上登山靴与法兰绒衫。",
+      "translated_word": "套装",
+      "display_order": 3
+    },
+    {
+      "sentence": "Autumn trees wear their finest garb before the long sleep.",
+      "style": "Poetic",
+      "translation": "秋树披上华服，静待漫长的沉眠。",
+      "translated_word": "华服",
+      "display_order": 4
+    }
+  ]
+}

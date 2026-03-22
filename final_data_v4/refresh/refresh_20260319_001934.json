@@ -1,0 +1,40 @@
+{
+  "word": "refresh",
+  "phonetic": "/rɪˈfreʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "刷新；提神；焕新",
+  "examples": [
+    {
+      "sentence": "The barista refreshed his coffee without being asked.",
+      "style": "Contextual",
+      "translation": "咖啡师不声不响地为他续上了咖啡。",
+      "translated_word": "续上",
+      "display_order": 2
+    },
+    {
+      "sentence": "A walk in the park refreshed her perspective on the problem.",
+      "style": "Collocational",
+      "translation": "公园里散步一圈，让她对问题有了新的看法。",
+      "translated_word": "新的",
+      "display_order": 3
+    },
+    {
+      "sentence": "Rain refreshed the city overnight; morning streets gleamed with quiet possibility.",
+      "style": "Poetic",
+      "translation": "夜雨润泽了城市；清晨的街道闪烁着静谧的希望。",
+      "translated_word": "润泽",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every Sunday, I refresh my apartment and my thoughts.",
+      "style": "Intimate",
+      "translation": "每个周日，我都会整理房间，也整理思绪。",
+      "translated_word": "整理",
+      "display_order": 1
+    }
+  ]
+}

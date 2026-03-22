@@ -1,0 +1,39 @@
+{
+  "word": "summation",
+  "phonetic": "/sʌˈmeɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "总结；概括；总和",
+  "examples": [
+    {
+      "sentence": "The lawyer's summation left no room for doubt.",
+      "style": "Formal",
+      "translation": "律师的结案陈词不容置疑。",
+      "translated_word": "结案陈词",
+      "display_order": 2
+    },
+    {
+      "sentence": "In summation, the project exceeded every benchmark.",
+      "style": "Collocational",
+      "translation": "总而言之，项目的各项指标均超出预期。",
+      "translated_word": "总",
+      "display_order": 3
+    },
+    {
+      "sentence": "A life's summation lies not in years, but in moments fully lived.",
+      "style": "Philosophical",
+      "translation": "人生的总和不在于岁月长短，而在于全然投入的瞬间。",
+      "translated_word": "总和",
+      "display_order": 4
+    },
+    {
+      "sentence": "She glanced at the spreadsheet; the summation confirmed her suspicion.",
+      "style": "Contextual",
+      "translation": "她瞥了一眼表格，总数印证了她的猜测。",
+      "translated_word": "总数",
+      "display_order": 1
+    }
+  ]
+}

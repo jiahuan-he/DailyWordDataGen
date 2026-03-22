@@ -1,0 +1,40 @@
+{
+  "word": "station",
+  "phonetic": "/ˈsteɪʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "车站；台站；岗位；身份",
+  "examples": [
+    {
+      "sentence": "The train departs from the central station at noon.",
+      "style": "Contextual",
+      "translation": "火车中午从中央车站出发。",
+      "translated_word": "车站",
+      "display_order": 1
+    },
+    {
+      "sentence": "She hosts the morning show at a local radio station.",
+      "style": "Collocational",
+      "translation": "她在当地一家电台主持早间节目。",
+      "translated_word": "电台",
+      "display_order": 4
+    },
+    {
+      "sentence": "Pigeons rest on the station roof, indifferent to our departures.",
+      "style": "Poetic",
+      "translation": "鸽子栖息在车站屋顶，对我们的离去无动于衷。",
+      "translated_word": "车站",
+      "display_order": 3
+    },
+    {
+      "sentence": "That old station is where my grandfather waved goodbye for the last time.",
+      "style": "Intimate",
+      "translation": "那座老车站，是祖父最后一次向我挥手告别的地方。",
+      "translated_word": "车站",
+      "display_order": 2
+    }
+  ]
+}

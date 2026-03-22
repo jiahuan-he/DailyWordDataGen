@@ -1,0 +1,40 @@
+{
+  "word": "variable",
+  "phonetic": "/ˈveriəbl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "可变的；多变的；不稳定的",
+  "examples": [
+    {
+      "sentence": "Desert temperatures are highly variable: scorching by day, freezing by night.",
+      "style": "Contextual",
+      "translation": "沙漠温差极大：白天酷热，夜晚骤寒。",
+      "translated_word": "温差",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company reported variable earnings across its regional divisions.",
+      "style": "Formal",
+      "translation": "该公司各区域业务的营收表现参差不齐。",
+      "translated_word": "参差不齐",
+      "display_order": 2
+    },
+    {
+      "sentence": "They chose a variable-rate mortgage to ride the market downward.",
+      "style": "Collocational",
+      "translation": "他们选择了浮动利率贷款，以便在市场下行时获益。",
+      "translated_word": "浮动",
+      "display_order": 3
+    },
+    {
+      "sentence": "Growth is variable; some seasons we bloom, others we simply root deeper.",
+      "style": "Philosophical",
+      "translation": "成长本就起伏不定；有时绽放，有时只是向下扎根。",
+      "translated_word": "起伏不定",
+      "display_order": 4
+    }
+  ]
+}

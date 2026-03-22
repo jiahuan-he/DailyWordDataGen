@@ -1,0 +1,39 @@
+{
+  "word": "volcano",
+  "phonetic": "/vɑːlˈkeɪnoʊ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "火山；爆发点",
+  "examples": [
+    {
+      "sentence": "The village was buried when the volcano erupted without warning.",
+      "style": "Contextual",
+      "translation": "火山毫无预兆地喷发，将整座村庄掩埋。",
+      "translated_word": "火山",
+      "display_order": 1
+    },
+    {
+      "sentence": "Beneath the still water, a volcano sleeps in centuries of silence.",
+      "style": "Poetic",
+      "translation": "静水之下，一座火山在百年沉寂中酣眠。",
+      "translated_word": "火山",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every person carries a volcano; wisdom lies in knowing when to let it breathe.",
+      "style": "Philosophical",
+      "translation": "每个人心中都藏着一座火山；智慧在于懂得何时让它透气。",
+      "translated_word": "火山",
+      "display_order": 4
+    },
+    {
+      "sentence": "Scientists detected increased seismic activity near the dormant volcano.",
+      "style": "Formal",
+      "translation": "科学家在这座休眠火山附近监测到地震活动加剧。",
+      "translated_word": "火山",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "display",
+  "phonetic": "/dɪˈspleɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "展示；陈列；显示；表现",
+  "examples": [
+    {
+      "sentence": "The museum displays artifacts from ancient civilizations.",
+      "style": "Contextual",
+      "translation": "博物馆陈列着古代文明的遗物。",
+      "translated_word": "陈列",
+      "display_order": 1
+    },
+    {
+      "sentence": "She rarely displays affection in public.",
+      "style": "Collocational",
+      "translation": "她很少在公众场合表露感情。",
+      "translated_word": "表露",
+      "display_order": 2
+    },
+    {
+      "sentence": "What we choose to display reveals what we hope others will believe.",
+      "style": "Philosophical",
+      "translation": "我们选择展示的，揭示了我们希望他人相信的。",
+      "translated_word": "展示",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's hands displayed a lifetime of labor and love.",
+      "style": "Intimate",
+      "translation": "祖母的双手展现了一生的劳作与爱。",
+      "translated_word": "展现",
+      "display_order": 3
+    }
+  ]
+}

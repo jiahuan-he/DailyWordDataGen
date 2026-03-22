@@ -1,0 +1,40 @@
+{
+  "word": "inch",
+  "phonetic": "/ɪntʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "英寸；少许；每一点",
+  "examples": [
+    {
+      "sentence": "The shelf was an inch too wide for the alcove.",
+      "style": "Contextual",
+      "translation": "书架宽了一英寸，放不进壁龛。",
+      "translated_word": "英寸",
+      "display_order": 1
+    },
+    {
+      "sentence": "She knew every inch of the old bookstore.",
+      "style": "Collocational",
+      "translation": "她熟悉这家旧书店的每一寸角落。",
+      "translated_word": "寸",
+      "display_order": 2
+    },
+    {
+      "sentence": "An inch of compromise today may cost a mile tomorrow.",
+      "style": "Philosophical",
+      "translation": "今日退让一寸，明日或失一里。",
+      "translated_word": "寸",
+      "display_order": 4
+    },
+    {
+      "sentence": "Morning light claimed every inch of the empty room.",
+      "style": "Poetic",
+      "translation": "晨光占领了空房间的每一寸。",
+      "translated_word": "寸",
+      "display_order": 3
+    }
+  ]
+}

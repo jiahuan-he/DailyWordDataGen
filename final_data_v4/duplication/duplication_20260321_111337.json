@@ -1,0 +1,39 @@
+{
+  "word": "duplication",
+  "phonetic": "/ˌduːplɪˈkeɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "复制；重复；副本",
+  "examples": [
+    {
+      "sentence": "The audit revealed significant duplication in our expense records.",
+      "style": "Contextual",
+      "translation": "审计显示我们的费用记录中存在大量重复。",
+      "translated_word": "重复",
+      "display_order": 2
+    },
+    {
+      "sentence": "Eliminating duplication across departments could save millions annually.",
+      "style": "Formal",
+      "translation": "消除各部门间的重复工作，每年可节省数百万。",
+      "translated_word": "重复",
+      "display_order": 3
+    },
+    {
+      "sentence": "Art is transformation; mere duplication is craft.",
+      "style": "Contrastive",
+      "translation": "艺术是转化；单纯的复制只是技艺。",
+      "translated_word": "复制",
+      "display_order": 4
+    },
+    {
+      "sentence": "The shared calendar prevents duplication of meetings.",
+      "style": "Collocational",
+      "translation": "共享日历可避免会议安排的重复。",
+      "translated_word": "重复",
+      "display_order": 1
+    }
+  ]
+}

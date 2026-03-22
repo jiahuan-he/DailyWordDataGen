@@ -1,0 +1,40 @@
+{
+  "word": "formal",
+  "phonetic": "/ˈfɔːrməl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "正式的；正规的；拘谨的；形式上的",
+  "examples": [
+    {
+      "sentence": "The dinner required formal attire, so he dusted off his only suit.",
+      "style": "Contextual",
+      "translation": "晚宴要求正装出席，他翻出了唯一的西装。",
+      "translated_word": "正装",
+      "display_order": 2
+    },
+    {
+      "sentence": "Their emails stayed formal long after their coffee chats turned warm.",
+      "style": "Contrastive",
+      "translation": "咖啡闲聊早已亲切，邮件往来却依然拘谨。",
+      "translated_word": "拘谨",
+      "display_order": 3
+    },
+    {
+      "sentence": "A formal apology arrived, signed but hollow.",
+      "style": "Philosophical",
+      "translation": "一封正式的道歉函寄来了，签了名，却空洞无物。",
+      "translated_word": "正式",
+      "display_order": 1
+    },
+    {
+      "sentence": "We shook hands at the reunion: too formal for old friends, too fragile to embrace.",
+      "style": "Intimate",
+      "translation": "重逢时我们握了握手：对老友太生疏，拥抱又怕触碎什么。",
+      "translated_word": "生疏",
+      "display_order": 4
+    }
+  ]
+}

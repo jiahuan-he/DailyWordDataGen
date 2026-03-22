@@ -1,0 +1,39 @@
+{
+  "word": "pier",
+  "phonetic": "/pɪr/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "码头；栈桥；桥墩",
+  "examples": [
+    {
+      "sentence": "Fishermen cast their lines from the pier as the sun rose over the harbor.",
+      "style": "Contextual",
+      "translation": "渔民们在码头甩出钓线，旭日正从港湾升起。",
+      "translated_word": "码头",
+      "display_order": 2
+    },
+    {
+      "sentence": "The pier stretched into fog, its planks holding decades of salt and silence.",
+      "style": "Poetic",
+      "translation": "栈桥伸入雾中，木板承载着数十年的盐渍与沉默。",
+      "translated_word": "栈桥",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father taught me to fish on that pier; now I bring my own child to the same weathered railings.",
+      "style": "Intimate",
+      "translation": "父亲曾在那座码头教我钓鱼；如今我带着自己的孩子，来到同样斑驳的栏杆前。",
+      "translated_word": "码头",
+      "display_order": 3
+    },
+    {
+      "sentence": "We walked to the end of the pier and watched the ferry depart.",
+      "style": "Collocational",
+      "translation": "我们走到栈桥尽头，目送渡轮离去。",
+      "translated_word": "栈桥",
+      "display_order": 1
+    }
+  ]
+}

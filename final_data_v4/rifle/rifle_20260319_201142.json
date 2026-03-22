@@ -1,0 +1,40 @@
+{
+  "word": "rifle",
+  "phonetic": "/ˈraɪfəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "步枪；来复枪",
+  "examples": [
+    {
+      "sentence": "The hunter raised his rifle and held his breath.",
+      "style": "Contextual",
+      "translation": "猎人举起步枪，屏住呼吸。",
+      "translated_word": "步枪",
+      "display_order": 1
+    },
+    {
+      "sentence": "Border patrols have been issued new long-range rifles.",
+      "style": "Formal",
+      "translation": "边境巡逻队已配发新型远程步枪。",
+      "translated_word": "步枪",
+      "display_order": 3
+    },
+    {
+      "sentence": "He inherited his grandfather's hunting rifle and every story it carried.",
+      "style": "Intimate",
+      "translation": "他继承了祖父的猎枪，连同它承载的每一个故事。",
+      "translated_word": "猎枪",
+      "display_order": 2
+    },
+    {
+      "sentence": "A rifle in the cabinet holds more weight than one in hand.",
+      "style": "Philosophical",
+      "translation": "锁在柜中的步枪，比握在手中的更有分量。",
+      "translated_word": "步枪",
+      "display_order": 4
+    }
+  ]
+}

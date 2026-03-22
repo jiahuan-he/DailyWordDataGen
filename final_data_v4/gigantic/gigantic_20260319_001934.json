@@ -1,0 +1,39 @@
+{
+  "word": "gigantic",
+  "phonetic": "/dʒaɪˈɡæntɪk/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "巨大的；庞大的；巨型的",
+  "examples": [
+    {
+      "sentence": "The gigantic oak in the town square has sheltered generations.",
+      "style": "Contextual",
+      "translation": "镇广场上那棵巨大的橡树，已庇护了数代人。",
+      "translated_word": "巨大",
+      "display_order": 1
+    },
+    {
+      "sentence": "A gigantic moon rose behind the mountains, silver and ancient.",
+      "style": "Poetic",
+      "translation": "一轮硕大的月亮从山后升起，银白而亘古。",
+      "translated_word": "硕大",
+      "display_order": 2
+    },
+    {
+      "sentence": "Leaving home felt like a gigantic leap into the unknown.",
+      "style": "Collocational",
+      "translation": "离开家乡，像是纵身跃入未知的深渊。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "What seems gigantic today often shrinks with time.",
+      "style": "Philosophical",
+      "translation": "今日看似庞然大物，往往随岁月而渐小。",
+      "translated_word": "庞然大物",
+      "display_order": 3
+    }
+  ]
+}

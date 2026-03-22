@@ -1,0 +1,40 @@
+{
+  "word": "mandate",
+  "phonetic": "/ˈmændeɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "授权；命令；委托",
+  "examples": [
+    {
+      "sentence": "The election gave her a clear mandate for change.",
+      "style": "Contextual",
+      "translation": "这场选举赋予了她推动变革的明确授权。",
+      "translated_word": "授权",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new environmental mandate takes effect next quarter.",
+      "style": "Formal",
+      "translation": "新的环保法令将于下季度生效。",
+      "translated_word": "法令",
+      "display_order": 2
+    },
+    {
+      "sentence": "A suggestion invites; a mandate compels.",
+      "style": "Contrastive",
+      "translation": "建议是邀请，命令是强制。",
+      "translated_word": "命令",
+      "display_order": 3
+    },
+    {
+      "sentence": "Power without a mandate is a throne built on sand.",
+      "style": "Philosophical",
+      "translation": "没有授权的权力，是建在沙上的王座。",
+      "translated_word": "授权",
+      "display_order": 4
+    }
+  ]
+}

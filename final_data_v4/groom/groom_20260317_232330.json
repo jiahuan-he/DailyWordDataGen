@@ -1,0 +1,40 @@
+{
+  "word": "groom",
+  "phonetic": "/ɡruːm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "梳理；培养；打扮",
+  "examples": [
+    {
+      "sentence": "She spends every morning grooming the horses before sunrise.",
+      "style": "Contextual",
+      "translation": "每天清晨，她都在日出前为马儿梳理毛发。",
+      "translated_word": "梳理",
+      "display_order": 1
+    },
+    {
+      "sentence": "The CEO has been quietly grooming her successor for three years.",
+      "style": "Formal",
+      "translation": "这位首席执行官三年来一直在悄然培养她的接班人。",
+      "translated_word": "培养",
+      "display_order": 2
+    },
+    {
+      "sentence": "We are groomed by the stories we choose to believe.",
+      "style": "Philosophical",
+      "translation": "我们被自己选择相信的故事所塑造。",
+      "translated_word": "塑造",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father groomed me for resilience, not comfort.",
+      "style": "Intimate",
+      "translation": "父亲培养我的是韧性，而非安逸。",
+      "translated_word": "培养",
+      "display_order": 3
+    }
+  ]
+}

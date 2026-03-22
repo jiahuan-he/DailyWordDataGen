@@ -1,0 +1,39 @@
+{
+  "word": "analogy",
+  "phonetic": "/əˈnælədʒi/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "类比；比喻；相似之处",
+  "examples": [
+    {
+      "sentence": "Her analogy between memory and tide made the abstract feel tangible.",
+      "style": "Contextual",
+      "translation": "她用潮汐比喻记忆，抽象顿时变得可触可感。",
+      "translated_word": "比喻",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every analogy reveals as much about the thinker as the thought.",
+      "style": "Philosophical",
+      "translation": "每一个类比，都同时揭示了思考者与思想本身。",
+      "translated_word": "类比",
+      "display_order": 3
+    },
+    {
+      "sentence": "He drew an apt analogy between grief and winter.",
+      "style": "Collocational",
+      "translation": "他用冬天比喻悲伤，恰如其分。",
+      "translated_word": "比喻",
+      "display_order": 1
+    },
+    {
+      "sentence": "Love is the only analogy that needs no explanation.",
+      "style": "Poetic",
+      "translation": "爱是唯一无需解释的类比。",
+      "translated_word": "类比",
+      "display_order": 4
+    }
+  ]
+}

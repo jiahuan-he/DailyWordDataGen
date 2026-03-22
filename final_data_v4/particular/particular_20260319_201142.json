@@ -1,0 +1,40 @@
+{
+  "word": "particular",
+  "phonetic": "/pərˈtɪkjələr/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "特定的；挑剔的；特别的",
+  "examples": [
+    {
+      "sentence": "She has a particular way of folding napkins that no one else can replicate.",
+      "style": "Contextual",
+      "translation": "她叠餐巾的方式独具一格，无人能够复刻。",
+      "translated_word": "独具一格",
+      "display_order": 3
+    },
+    {
+      "sentence": "He's very particular about his morning coffee: single-origin, medium roast, no sugar.",
+      "style": "Collocational",
+      "translation": "他对晨间咖啡极为讲究：单一产地，中度烘焙，不加糖。",
+      "translated_word": "讲究",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother was particular about her garden; every rose had its exact place.",
+      "style": "Intimate",
+      "translation": "祖母对她的花园一丝不苟；每株玫瑰都有属于它的位置。",
+      "translated_word": "一丝不苟",
+      "display_order": 2
+    },
+    {
+      "sentence": "To love someone is to notice the particular: the way they laugh, the words they choose.",
+      "style": "Philosophical",
+      "translation": "爱一个人，是留意那些细微之处：笑的样子，选择的措辞。",
+      "translated_word": "细微之处",
+      "display_order": 4
+    }
+  ]
+}

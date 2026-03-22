@@ -1,0 +1,39 @@
+{
+  "word": "probability",
+  "phonetic": "/ˌprɒbəˈbɪləti/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "可能性；概率；几率",
+  "examples": [
+    {
+      "sentence": "The probability of rain is over eighty percent; bring an umbrella.",
+      "style": "Contextual",
+      "translation": "降雨概率超过百分之八十；记得带伞。",
+      "translated_word": "概率",
+      "display_order": 1
+    },
+    {
+      "sentence": "Analysts estimate the probability of recession at thirty percent this quarter.",
+      "style": "Formal",
+      "translation": "分析师估计本季度经济衰退的概率为百分之三十。",
+      "translated_word": "概率",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every choice shifts the probability of who we become.",
+      "style": "Philosophical",
+      "translation": "每一个选择，都在悄然改变我们成为谁的可能性。",
+      "translated_word": "可能性",
+      "display_order": 3
+    },
+    {
+      "sentence": "Against all probability, we found each other in a city of eight million.",
+      "style": "Intimate",
+      "translation": "在八百万人的城市里，我们竟然相遇了；这概率本该微乎其微。",
+      "translated_word": "概率",
+      "display_order": 4
+    }
+  ]
+}

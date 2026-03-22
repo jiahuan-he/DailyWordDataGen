@@ -1,0 +1,40 @@
+{
+  "word": "mobile",
+  "phonetic": "/ˈmoʊbəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "可移动的；流动的；机动的",
+  "examples": [
+    {
+      "sentence": "The clinic is mobile, reaching a new village each week.",
+      "style": "Contextual",
+      "translation": "诊所是流动的，每周抵达一个新的村庄。",
+      "translated_word": "流动的",
+      "display_order": 1
+    },
+    {
+      "sentence": "A mobile workforce is quietly reshaping the modern economy.",
+      "style": "Formal",
+      "translation": "流动的劳动力正悄然重塑现代经济。",
+      "translated_word": "流动的",
+      "display_order": 2
+    },
+    {
+      "sentence": "Download the mobile app for offline reading.",
+      "style": "Collocational",
+      "translation": "下载移动应用，即可离线阅读。",
+      "translated_word": "移动",
+      "display_order": 3
+    },
+    {
+      "sentence": "We are more mobile than ever, yet seldom feel we've arrived.",
+      "style": "Philosophical",
+      "translation": "我们前所未有地自由流动，却鲜少觉得真正抵达了某处。",
+      "translated_word": "流动",
+      "display_order": 4
+    }
+  ]
+}

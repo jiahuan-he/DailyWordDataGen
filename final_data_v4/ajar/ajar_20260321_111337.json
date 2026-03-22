@@ -1,0 +1,41 @@
+{
+  "word": "ajar",
+  "phonetic": "/əˈdʒɑːr/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "微开的；半掩的",
+  "examples": [
+    {
+      "sentence": "She left the bathroom door ajar so she could hear the baby.",
+      "style": "Contextual",
+      "translation": "她把浴室门虚掩着，好随时听到婴儿的动静。",
+      "translated_word": "虚掩着",
+      "display_order": 1
+    },
+    {
+      "sentence": "The old gate hung ajar, overgrown with jasmine.",
+      "style": "Poetic",
+      "translation": "老旧的院门半掩着，茉莉花藤爬满了门框。",
+      "translated_word": "半掩着",
+      "display_order": 2
+    },
+    {
+      "sentence": "His office door was always ajar; that's how we knew he was listening.",
+      "style": "Intimate",
+      "translation": "他办公室的门总是虚掩着；我们都明白，他一直在倾听。",
+      "translated_word": "虚掩着",
+      "display_order": 3
+    },
+    {
+      "sentence": "Leave one window ajar in your convictions; truth needs room to enter.",
+      "style": "Philosophical",
+      "translation": "在你的信念中留一扇半开的窗；真理需要进入的缝隙。",
+      "translated_word": "半开",
+      "display_order": 4
+    }
+  ]
+}

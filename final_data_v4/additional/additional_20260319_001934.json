@@ -1,0 +1,40 @@
+{
+  "word": "additional",
+  "phonetic": "/əˈdɪʃənl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "额外的；附加的；另外的",
+  "examples": [
+    {
+      "sentence": "The base plan is free; additional features require a subscription.",
+      "style": "Contextual",
+      "translation": "基础版免费；额外功能需订阅。",
+      "translated_word": "额外",
+      "display_order": 2
+    },
+    {
+      "sentence": "The committee requested additional documentation before final approval.",
+      "style": "Formal",
+      "translation": "委员会要求补交材料后方可最终批准。",
+      "translated_word": "补",
+      "display_order": 4
+    },
+    {
+      "sentence": "No additional charge for same-day delivery.",
+      "style": "Collocational",
+      "translation": "当日送达不收取额外费用。",
+      "translated_word": "额外",
+      "display_order": 1
+    },
+    {
+      "sentence": "The original budget covered labor; additional costs came from unforeseen repairs.",
+      "style": "Contrastive",
+      "translation": "原始预算涵盖人工；额外开支源于意外维修。",
+      "translated_word": "额外",
+      "display_order": 3
+    }
+  ]
+}

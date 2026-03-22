@@ -1,0 +1,39 @@
+{
+  "word": "episode",
+  "phonetic": "/ˈepɪsoʊd/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "集；插曲；片段",
+  "examples": [
+    {
+      "sentence": "The final episode airs tonight at nine.",
+      "style": "Contextual",
+      "translation": "最后一集今晚九点播出。",
+      "translated_word": "集",
+      "display_order": 1
+    },
+    {
+      "sentence": "She binged every episode in a single weekend.",
+      "style": "Collocational",
+      "translation": "她用一个周末刷完了全部剧集。",
+      "translated_word": "剧集",
+      "display_order": 2
+    },
+    {
+      "sentence": "That summer remains the brightest episode of my youth.",
+      "style": "Intimate",
+      "translation": "那个夏天，是我青春里最明亮的一段。",
+      "translated_word": "一段",
+      "display_order": 3
+    },
+    {
+      "sentence": "Each episode of failure quietly reshapes who we become.",
+      "style": "Philosophical",
+      "translation": "每一次失败的经历，都在悄然重塑我们。",
+      "translated_word": "经历",
+      "display_order": 4
+    }
+  ]
+}

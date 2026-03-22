@@ -1,0 +1,40 @@
+{
+  "word": "former",
+  "phonetic": "/ˈfɔːrmər/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "以前的；前任的；昔日的",
+  "examples": [
+    {
+      "sentence": "His former teacher still sends birthday cards each year.",
+      "style": "Contextual",
+      "translation": "他曾经的老师至今每年都会寄来生日贺卡。",
+      "translated_word": "曾经的",
+      "display_order": 1
+    },
+    {
+      "sentence": "The former CEO stepped down amid mounting criticism.",
+      "style": "Formal",
+      "translation": "前任首席执行官在舆论压力下宣布辞职。",
+      "translated_word": "前任",
+      "display_order": 2
+    },
+    {
+      "sentence": "We outgrow places, people, and former versions of ourselves.",
+      "style": "Philosophical",
+      "translation": "我们终会告别故地、旧友，以及曾经的自己。",
+      "translated_word": "曾经的",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her former favorite song came on; she smiled without knowing why.",
+      "style": "Intimate",
+      "translation": "她从前最爱的歌响起，她不由自主地微笑了。",
+      "translated_word": "从前",
+      "display_order": 3
+    }
+  ]
+}

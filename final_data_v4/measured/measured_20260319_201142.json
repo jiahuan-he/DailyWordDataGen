@@ -1,0 +1,40 @@
+{
+  "word": "measured",
+  "phonetic": "/ˈmeʒərd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "审慎的；从容的；克制的",
+  "examples": [
+    {
+      "sentence": "Her measured response defused the tension before it escalated.",
+      "style": "Contextual",
+      "translation": "她从容的回应在紧张升级前将其化解。",
+      "translated_word": "从容",
+      "display_order": 1
+    },
+    {
+      "sentence": "The diplomat's measured tone signaled neither concession nor confrontation.",
+      "style": "Formal",
+      "translation": "外交官审慎的语气既未示弱，也未挑衅。",
+      "translated_word": "审慎",
+      "display_order": 3
+    },
+    {
+      "sentence": "Wisdom speaks in measured words; only fools rush to fill silence.",
+      "style": "Philosophical",
+      "translation": "智慧以审慎之言道出；唯愚者急于填补沉默。",
+      "translated_word": "审慎",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father never raised his voice; his measured calm was its own authority.",
+      "style": "Intimate",
+      "translation": "父亲从不提高嗓门；他那份从容本身就是一种威严。",
+      "translated_word": "从容",
+      "display_order": 2
+    }
+  ]
+}

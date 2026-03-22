@@ -1,0 +1,40 @@
+{
+  "word": "age",
+  "phonetic": "/eɪdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "年龄；时代；岁月",
+  "examples": [
+    {
+      "sentence": "She started painting at the age of six and never stopped.",
+      "style": "Contextual",
+      "translation": "她六岁开始画画，此后从未停笔。",
+      "translated_word": "岁",
+      "display_order": 1
+    },
+    {
+      "sentence": "Age reveals what youth conceals: patience is its own reward.",
+      "style": "Philosophical",
+      "translation": "年龄揭示青春所掩藏的真相：耐心本身便是奖赏。",
+      "translated_word": "年龄",
+      "display_order": 4
+    },
+    {
+      "sentence": "The oak bore its age in rings, each one a silent year.",
+      "style": "Poetic",
+      "translation": "橡树以年轮承载岁月，每一圈都是静默的一年。",
+      "translated_word": "岁月",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother says age is just the universe keeping score.",
+      "style": "Intimate",
+      "translation": "奶奶说，年龄不过是宇宙在记分。",
+      "translated_word": "年龄",
+      "display_order": 2
+    }
+  ]
+}

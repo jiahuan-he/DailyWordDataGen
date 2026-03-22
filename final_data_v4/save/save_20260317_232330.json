@@ -1,0 +1,42 @@
+{
+  "word": "save",
+  "phonetic": "/seɪv/",
+  "pos": [
+    "conjunction",
+    "noun",
+    "preposition",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "拯救；储存；节省；保留",
+  "examples": [
+    {
+      "sentence": "The lifeguard dove in and saved the struggling swimmer.",
+      "style": "Contextual",
+      "translation": "救生员跃入水中，救起了那个挣扎的泳者。",
+      "translated_word": "救起",
+      "display_order": 1
+    },
+    {
+      "sentence": "She saved enough to travel abroad for a month.",
+      "style": "Collocational",
+      "translation": "她攒够了钱，足以出国旅行一个月。",
+      "translated_word": "攒",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother saved every letter I ever wrote her.",
+      "style": "Intimate",
+      "translation": "外婆珍藏着我写给她的每一封信。",
+      "translated_word": "珍藏",
+      "display_order": 2
+    },
+    {
+      "sentence": "Sometimes saving yourself means walking away.",
+      "style": "Inspirational",
+      "translation": "有时候，拯救自己意味着转身离开。",
+      "translated_word": "拯救",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "actuality",
+  "phonetic": "/ˌæktʃuˈælɪti/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "现实；实际情况；真实",
+  "examples": [
+    {
+      "sentence": "The actuality of the crisis only hit her when the lights went out.",
+      "style": "Contextual",
+      "translation": "直到灯灭的那一刻，她才真正意识到危机的现实。",
+      "translated_word": "现实",
+      "display_order": 3
+    },
+    {
+      "sentence": "In theory, freedom is universal; in actuality, it remains a privilege.",
+      "style": "Contrastive",
+      "translation": "理论上，自由属于所有人；实际上，它仍是一种特权。",
+      "translated_word": "实际上",
+      "display_order": 1
+    },
+    {
+      "sentence": "We chase the idea of success, rarely asking what its actuality feels like.",
+      "style": "Philosophical",
+      "translation": "我们追逐成功的概念，却很少问它真实的滋味如何。",
+      "translated_word": "真实",
+      "display_order": 4
+    },
+    {
+      "sentence": "The investigation exposed the actuality beneath years of falsified reports.",
+      "style": "Formal",
+      "translation": "调查揭露了多年虚假报告背后的真实情况。",
+      "translated_word": "真实情况",
+      "display_order": 2
+    }
+  ]
+}

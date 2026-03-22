@@ -1,0 +1,40 @@
+{
+  "word": "commission",
+  "phonetic": "/kəˈmɪʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "佣金；委托；委员会",
+  "examples": [
+    {
+      "sentence": "Her commission alone paid the rent that month.",
+      "style": "Contextual",
+      "translation": "单是佣金就足够她付那个月的房租。",
+      "translated_word": "佣金",
+      "display_order": 2
+    },
+    {
+      "sentence": "The investigative commission will submit its report by December.",
+      "style": "Formal",
+      "translation": "调查委员会将于十二月前提交报告。",
+      "translated_word": "委员会",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sales agents work on commission, not hourly pay.",
+      "style": "Collocational",
+      "translation": "销售代理按佣金计酬，而非按时薪。",
+      "translated_word": "佣金",
+      "display_order": 1
+    },
+    {
+      "sentence": "That painting above the fireplace was my grandfather's last commission before he retired.",
+      "style": "Intimate",
+      "translation": "壁炉上方那幅画，是祖父退休前接受的最后一件委托。",
+      "translated_word": "委托",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "suppose",
+  "phonetic": "/səˈpoʊz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "假设；认为；猜想；料想",
+  "examples": [
+    {
+      "sentence": "I suppose the train is delayed again; the platform is empty.",
+      "style": "Contextual",
+      "translation": "我猜火车又晚点了；站台空无一人。",
+      "translated_word": "猜",
+      "display_order": 1
+    },
+    {
+      "sentence": "Suppose we start over: no blame, no history.",
+      "style": "Collocational",
+      "translation": "假设我们重新开始：没有责怪，没有过往。",
+      "translated_word": "假设",
+      "display_order": 3
+    },
+    {
+      "sentence": "To suppose is to rehearse a world before living in it.",
+      "style": "Philosophical",
+      "translation": "假设，是在栖居之前先预演一个世界。",
+      "translated_word": "假设",
+      "display_order": 4
+    },
+    {
+      "sentence": "For years, I supposed he didn't care. His letters proved otherwise.",
+      "style": "Intimate",
+      "translation": "多年来我以为他毫不在意。他的信证明了我错了。",
+      "translated_word": "以为",
+      "display_order": 2
+    }
+  ]
+}

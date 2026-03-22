@@ -1,0 +1,39 @@
+{
+  "word": "argue",
+  "phonetic": "/ˈɑːrɡjuː/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "争论；辩论；争吵；主张",
+  "examples": [
+    {
+      "sentence": "They argued for hours, but neither would budge.",
+      "style": "Contextual",
+      "translation": "他们争论了几个小时，谁也不肯让步。",
+      "translated_word": "争论",
+      "display_order": 1
+    },
+    {
+      "sentence": "Scientists argue that climate action must accelerate within this decade.",
+      "style": "Formal",
+      "translation": "科学家们主张，气候行动必须在这十年内加速推进。",
+      "translated_word": "主张",
+      "display_order": 3
+    },
+    {
+      "sentence": "We argue to be heard, rarely to understand.",
+      "style": "Philosophical",
+      "translation": "我们争辩是为了被倾听，却鲜少为了理解。",
+      "translated_word": "争辩",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father and I used to argue about everything; now I miss even our disagreements.",
+      "style": "Intimate",
+      "translation": "从前我和父亲事事争论；如今，连那些分歧我都怀念。",
+      "translated_word": "争论",
+      "display_order": 2
+    }
+  ]
+}

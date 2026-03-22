@@ -1,0 +1,41 @@
+{
+  "word": "background",
+  "phonetic": "/ˈbækɡraʊnd/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "背景；出身；底色",
+  "examples": [
+    {
+      "sentence": "Her background in medicine made the diagnosis obvious.",
+      "style": "Contextual",
+      "translation": "她的医学背景让诊断变得一目了然。",
+      "translated_word": "背景",
+      "display_order": 1
+    },
+    {
+      "sentence": "All applicants must pass a comprehensive background check.",
+      "style": "Formal",
+      "translation": "所有申请者须通过全面的背景审查。",
+      "translated_word": "背景",
+      "display_order": 3
+    },
+    {
+      "sentence": "Soft jazz played in the background while we talked for hours.",
+      "style": "Collocational",
+      "translation": "我们长谈时，轻柔的爵士乐在背景中流淌。",
+      "translated_word": "背景",
+      "display_order": 2
+    },
+    {
+      "sentence": "He never spoke of his background, but his hands told the story.",
+      "style": "Intimate",
+      "translation": "他从未提及自己的出身，但那双手诉说着一切。",
+      "translated_word": "出身",
+      "display_order": 4
+    }
+  ]
+}

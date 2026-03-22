@@ -1,0 +1,40 @@
+{
+  "word": "groan",
+  "phonetic": "/ɡroʊn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "呻吟；叹息；发出嘎吱声",
+  "examples": [
+    {
+      "sentence": "The old floorboards groaned beneath his footsteps.",
+      "style": "Contextual",
+      "translation": "旧地板在他脚下嘎吱作响。",
+      "translated_word": "嘎吱作响",
+      "display_order": 3
+    },
+    {
+      "sentence": "The ship groaned against the dock, restless for open sea.",
+      "style": "Poetic",
+      "translation": "船身倚着码头低吟，渴望驶向辽阔的海。",
+      "translated_word": "低吟",
+      "display_order": 4
+    },
+    {
+      "sentence": "My alarm rang at five; I groaned and pulled the blanket over my head.",
+      "style": "Intimate",
+      "translation": "闹钟五点响起，我呻吟一声，把被子蒙过头顶。",
+      "translated_word": "呻吟",
+      "display_order": 1
+    },
+    {
+      "sentence": "She groaned in frustration when the page failed to load again.",
+      "style": "Collocational",
+      "translation": "页面再次加载失败时，她沮丧地叹了口气。",
+      "translated_word": "叹了口气",
+      "display_order": 2
+    }
+  ]
+}

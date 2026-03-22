@@ -1,0 +1,40 @@
+{
+  "word": "secure",
+  "phonetic": "/sɪˈkjʊr/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "安全的；稳固的；有保障的；安心的",
+  "examples": [
+    {
+      "sentence": "The door clicked shut behind her; she finally felt secure.",
+      "style": "Contextual",
+      "translation": "门在身后咔嗒一声关上，她终于感到安心。",
+      "translated_word": "安心",
+      "display_order": 1
+    },
+    {
+      "sentence": "Your hand in mine made every unfamiliar city feel secure.",
+      "style": "Intimate",
+      "translation": "你的手握在我手中，每座陌生的城市都变得安稳。",
+      "translated_word": "安稳",
+      "display_order": 2
+    },
+    {
+      "sentence": "True security lies not in certainty, but in trusting yourself to adapt.",
+      "style": "Philosophical",
+      "translation": "真正的安全感不在于确定性，而在于相信自己能适应。",
+      "translated_word": "安全感",
+      "display_order": 4
+    },
+    {
+      "sentence": "A secure foundation allows you to take bolder risks.",
+      "style": "Inspirational",
+      "translation": "稳固的根基，让你敢于冒更大的险。",
+      "translated_word": "稳固",
+      "display_order": 3
+    }
+  ]
+}

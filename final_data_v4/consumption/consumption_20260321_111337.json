@@ -1,0 +1,39 @@
+{
+  "word": "consumption",
+  "phonetic": "/kənˈsʌmpʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "消费；消耗；消费量",
+  "examples": [
+    {
+      "sentence": "Global energy consumption has doubled in the last three decades.",
+      "style": "Formal",
+      "translation": "过去三十年间，全球能源消耗已翻了一番。",
+      "translated_word": "消耗",
+      "display_order": 1
+    },
+    {
+      "sentence": "The café's water consumption spiked after they added a new espresso machine.",
+      "style": "Contextual",
+      "translation": "咖啡馆添置了新的意式咖啡机后，用水量骤然上升。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "We measure progress by production, rarely by the wisdom of our consumption.",
+      "style": "Philosophical",
+      "translation": "我们以生产衡量进步，却鲜少审视消费的智慧。",
+      "translated_word": "消费",
+      "display_order": 4
+    },
+    {
+      "sentence": "Reducing plastic consumption starts with small, daily choices.",
+      "style": "Collocational",
+      "translation": "减少塑料消费，始于日常的点滴选择。",
+      "translated_word": "消费",
+      "display_order": 2
+    }
+  ]
+}

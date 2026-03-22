@@ -1,0 +1,39 @@
+{
+  "word": "finale",
+  "phonetic": "/fɪˈnæli/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "终曲；结局；压轴",
+  "examples": [
+    {
+      "sentence": "The season finale left viewers stunned into silence.",
+      "style": "Contextual",
+      "translation": "季终集播完，观众久久无言。",
+      "translated_word": "季终集",
+      "display_order": 2
+    },
+    {
+      "sentence": "The grand finale erupted in cascading silver and gold.",
+      "style": "Collocational",
+      "translation": "压轴烟火腾空而起，银光金雨倾泻而下。",
+      "translated_word": "压轴",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sunset painted its finale across the water, then vanished.",
+      "style": "Poetic",
+      "translation": "落日在水面挥洒最后一笔，随即隐入暮色。",
+      "translated_word": "最后一笔",
+      "display_order": 3
+    },
+    {
+      "sentence": "In every finale, we rehearse for the endings yet to come.",
+      "style": "Philosophical",
+      "translation": "每一次落幕，都是对未来告别的预演。",
+      "translated_word": "落幕",
+      "display_order": 4
+    }
+  ]
+}

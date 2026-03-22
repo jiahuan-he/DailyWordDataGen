@@ -1,0 +1,40 @@
+{
+  "word": "guy",
+  "phonetic": "/ɡaɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "家伙；男人；人",
+  "examples": [
+    {
+      "sentence": "The guy at the coffee shop remembered my order.",
+      "style": "Contextual",
+      "translation": "咖啡店的那个小哥记住了我的点单。",
+      "translated_word": "小哥",
+      "display_order": 1
+    },
+    {
+      "sentence": "He's a good guy; you can trust him.",
+      "style": "Collocational",
+      "translation": "他是个好人，你可以信任他。",
+      "translated_word": "人",
+      "display_order": 3
+    },
+    {
+      "sentence": "That quiet guy in the back row became my closest friend.",
+      "style": "Intimate",
+      "translation": "后排那个沉默的家伙，后来成了我最亲密的朋友。",
+      "translated_word": "家伙",
+      "display_order": 2
+    },
+    {
+      "sentence": "Any guy can make promises; few actually keep them.",
+      "style": "Contrastive",
+      "translation": "谁都能许下诺言，但鲜少有人真正信守。",
+      "translated_word": "谁",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "flight",
+  "phonetic": "/flaɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "飞行；航班；逃离；一段楼梯",
+  "examples": [
+    {
+      "sentence": "Our flight boards in ten minutes; grab your passport.",
+      "style": "Contextual",
+      "translation": "我们的航班十分钟后登机，拿好护照。",
+      "translated_word": "航班",
+      "display_order": 1
+    },
+    {
+      "sentence": "A heron took flight, its wings drawing silence across the lake.",
+      "style": "Poetic",
+      "translation": "一只苍鹭振翅而起，双翼在湖面划过一道静谧。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Every flight is an act of faith: we trust the sky to hold us.",
+      "style": "Philosophical",
+      "translation": "每一次飞行都是一种信念：我们相信天空会托住我们。",
+      "translated_word": "飞行",
+      "display_order": 3
+    },
+    {
+      "sentence": "On that red-eye flight, I watched the world shrink into constellations below.",
+      "style": "Intimate",
+      "translation": "那趟深夜航班上，我看着世界在脚下缩成星座。",
+      "translated_word": "航班",
+      "display_order": 2
+    }
+  ]
+}

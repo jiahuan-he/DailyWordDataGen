@@ -1,0 +1,40 @@
+{
+  "word": "pound",
+  "phonetic": "/paʊnd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "猛击；捶打；剧烈跳动",
+  "examples": [
+    {
+      "sentence": "Rain pounded the roof until sleep felt impossible.",
+      "style": "Contextual",
+      "translation": "雨水猛烈地敲打屋顶，让人难以入眠。",
+      "translated_word": "敲打",
+      "display_order": 1
+    },
+    {
+      "sentence": "Waves pound the cliffs, patient sculptors of stone.",
+      "style": "Poetic",
+      "translation": "海浪拍打悬崖，是石头耐心的雕刻者。",
+      "translated_word": "拍打",
+      "display_order": 3
+    },
+    {
+      "sentence": "My heart pounded the moment I saw her name on my phone.",
+      "style": "Intimate",
+      "translation": "看到她的名字出现在手机上，我的心剧烈跳动。",
+      "translated_word": "剧烈跳动",
+      "display_order": 2
+    },
+    {
+      "sentence": "He pounds the pavement daily, searching for work.",
+      "style": "Collocational",
+      "translation": "他每天奔波街头，四处寻找工作。",
+      "translated_word": "奔波",
+      "display_order": 4
+    }
+  ]
+}

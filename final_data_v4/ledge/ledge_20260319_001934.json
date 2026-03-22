@@ -1,0 +1,40 @@
+{
+  "word": "ledge",
+  "phonetic": "/lɛdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "岩架；壁架；窗台",
+  "examples": [
+    {
+      "sentence": "A stray cat napped on the window ledge all afternoon.",
+      "style": "Contextual",
+      "translation": "一只流浪猫在窗台上打了一整个下午的盹。",
+      "translated_word": "窗台",
+      "display_order": 1
+    },
+    {
+      "sentence": "From the ledge, the valley held its breath in morning mist.",
+      "style": "Poetic",
+      "translation": "从岩架望去，山谷在晨雾中屏息静默。",
+      "translated_word": "岩架",
+      "display_order": 2
+    },
+    {
+      "sentence": "On that rocky ledge, watching the dawn, I finally understood stillness.",
+      "style": "Intimate",
+      "translation": "坐在那块岩架上看日出，我终于懂得了何为宁静。",
+      "translated_word": "岩架",
+      "display_order": 3
+    },
+    {
+      "sentence": "The narrower the ledge, the more carefully we choose our steps.",
+      "style": "Philosophical",
+      "translation": "立足之地越窄，落脚便越需谨慎。",
+      "translated_word": "立足之地",
+      "display_order": 4
+    }
+  ]
+}

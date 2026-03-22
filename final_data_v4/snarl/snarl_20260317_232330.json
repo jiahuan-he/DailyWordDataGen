@@ -1,0 +1,40 @@
+{
+  "word": "snarl",
+  "phonetic": "/snɑːrl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "咆哮；低吼；怒斥",
+  "examples": [
+    {
+      "sentence": "The stray dog snarled when I reached for its injured paw.",
+      "style": "Contextual",
+      "translation": "当我伸手去碰那只流浪狗受伤的爪子时，它低吼起来。",
+      "translated_word": "低吼",
+      "display_order": 1
+    },
+    {
+      "sentence": "Thunder snarled across the valley, ancient and wild.",
+      "style": "Poetic",
+      "translation": "雷声在山谷间咆哮，古老而狂野。",
+      "translated_word": "咆哮",
+      "display_order": 4
+    },
+    {
+      "sentence": "She snarled a warning and walked away.",
+      "style": "Collocational",
+      "translation": "她怒吼着警告了一声，转身离去。",
+      "translated_word": "怒吼",
+      "display_order": 2
+    },
+    {
+      "sentence": "My father never raised his hand, but his voice could snarl sharp enough to wound.",
+      "style": "Intimate",
+      "translation": "父亲从不动手，但他的怒吼声足以刺伤人心。",
+      "translated_word": "怒吼",
+      "display_order": 3
+    }
+  ]
+}

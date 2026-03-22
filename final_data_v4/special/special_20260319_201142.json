@@ -1,0 +1,41 @@
+{
+  "word": "special",
+  "phonetic": "/ˈspeʃəl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "特别的；特殊的；专门的；珍贵的",
+  "examples": [
+    {
+      "sentence": "She whispered my name differently; it made me feel special.",
+      "style": "Intimate",
+      "translation": "她唤我名字的方式不同寻常，让我觉得自己很特别。",
+      "translated_word": "特别",
+      "display_order": 2
+    },
+    {
+      "sentence": "This bottle is for special occasions only.",
+      "style": "Contextual",
+      "translation": "这瓶酒只在特殊场合才开。",
+      "translated_word": "特殊",
+      "display_order": 1
+    },
+    {
+      "sentence": "Their bond was built on special moments, not grand gestures.",
+      "style": "Collocational",
+      "translation": "他们的感情建立在点滴的特别时刻，而非宏大的表白。",
+      "translated_word": "特别",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some silences are special: they say more than words ever could.",
+      "style": "Poetic",
+      "translation": "有些沉默是特别的：它们比言语更有力量。",
+      "translated_word": "特别",
+      "display_order": 4
+    }
+  ]
+}

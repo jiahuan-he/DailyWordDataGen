@@ -1,0 +1,40 @@
+{
+  "word": "massacre",
+  "phonetic": "/ˈmæsəkər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "大屠杀；惨案；屠戮",
+  "examples": [
+    {
+      "sentence": "The memorial honors the victims of the 1937 massacre.",
+      "style": "Contextual",
+      "translation": "这座纪念碑是为1937年大屠杀的遇难者而建。",
+      "translated_word": "大屠杀",
+      "display_order": 1
+    },
+    {
+      "sentence": "Survivors of the massacre testified before the international tribunal.",
+      "style": "Formal",
+      "translation": "屠杀的幸存者在国际法庭上出庭作证。",
+      "translated_word": "屠杀",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every massacre begins with words that strip people of their humanity.",
+      "style": "Philosophical",
+      "translation": "每一场屠杀，都始于剥夺他人人性的言语。",
+      "translated_word": "屠杀",
+      "display_order": 3
+    },
+    {
+      "sentence": "The field grows wildflowers now, yet the earth still remembers the massacre.",
+      "style": "Poetic",
+      "translation": "如今野花遍野，而大地仍铭记着那场杀戮。",
+      "translated_word": "杀戮",
+      "display_order": 4
+    }
+  ]
+}

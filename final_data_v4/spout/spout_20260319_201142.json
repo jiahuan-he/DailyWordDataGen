@@ -1,0 +1,40 @@
+{
+  "word": "spout",
+  "phonetic": "/spaʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "喷出；涌出；滔滔不绝地说",
+  "examples": [
+    {
+      "sentence": "Water spouted from the broken pipe, flooding the basement within minutes.",
+      "style": "Contextual",
+      "translation": "水从破裂的管道中喷涌而出，几分钟内便淹没了地下室。",
+      "translated_word": "喷涌",
+      "display_order": 2
+    },
+    {
+      "sentence": "The whale spouted once, a silver plume against the gray horizon.",
+      "style": "Poetic",
+      "translation": "鲸鱼喷出一道水柱，银色的羽状水雾映衬着灰蒙蒙的天际。",
+      "translated_word": "喷出",
+      "display_order": 1
+    },
+    {
+      "sentence": "He loves to spout statistics without checking their source.",
+      "style": "Collocational",
+      "translation": "他总爱滔滔不绝地引用数据，却从不核实来源。",
+      "translated_word": "滔滔不绝",
+      "display_order": 3
+    },
+    {
+      "sentence": "Those who spout wisdom rarely pause to live by it.",
+      "style": "Philosophical",
+      "translation": "高谈阔论者，往往未曾躬身践行。",
+      "translated_word": "高谈阔论",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "pageant",
+  "phonetic": "/ˈpædʒənt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "盛会；选美比赛；华丽的游行表演",
+  "examples": [
+    {
+      "sentence": "Her daughter competed in the school pageant last spring.",
+      "style": "Contextual",
+      "translation": "她女儿去年春天参加了学校的选美比赛。",
+      "translated_word": "选美比赛",
+      "display_order": 1
+    },
+    {
+      "sentence": "The historic pageant commemorating the city's founding drew record crowds.",
+      "style": "Formal",
+      "translation": "纪念建城的历史盛会吸引了创纪录的人潮。",
+      "translated_word": "盛会",
+      "display_order": 2
+    },
+    {
+      "sentence": "Autumn stages its pageant across the valley: gold, amber, rust.",
+      "style": "Poetic",
+      "translation": "秋在山谷间上演盛典：金黄、琥珀、铁锈红。",
+      "translated_word": "盛典",
+      "display_order": 4
+    },
+    {
+      "sentence": "A pageant reveals who we wish to be, not who we are.",
+      "style": "Philosophical",
+      "translation": "盛会展示的是我们渴望成为的人，而非真实的自己。",
+      "translated_word": "盛会",
+      "display_order": 3
+    }
+  ]
+}

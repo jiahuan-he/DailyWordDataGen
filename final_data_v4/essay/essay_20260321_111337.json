@@ -1,0 +1,40 @@
+{
+  "word": "essay",
+  "phonetic": "/ˈeseɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "文章；散文；论文；随笔",
+  "examples": [
+    {
+      "sentence": "Her essay won first place in the national writing competition.",
+      "style": "Contextual",
+      "translation": "她的文章在全国写作比赛中荣获一等奖。",
+      "translated_word": "文章",
+      "display_order": 1
+    },
+    {
+      "sentence": "The journal published a landmark essay on digital ethics.",
+      "style": "Formal",
+      "translation": "该期刊刊发了一篇关于数字伦理的里程碑式文章。",
+      "translated_word": "文章",
+      "display_order": 3
+    },
+    {
+      "sentence": "An essay reveals the writer more than its subject.",
+      "style": "Philosophical",
+      "translation": "文章所揭示的，往往是作者本身，而非主题。",
+      "translated_word": "文章",
+      "display_order": 4
+    },
+    {
+      "sentence": "Writing that essay at sixteen, I found my voice for the first time.",
+      "style": "Intimate",
+      "translation": "十六岁那年写下那篇文章，我第一次找到了自己的声音。",
+      "translated_word": "文章",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "nicely",
+  "phonetic": "/ˈnaɪsli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "好好地；得体地；恰到好处",
+  "examples": [
+    {
+      "sentence": "The soup has been simmering nicely; it should be ready soon.",
+      "style": "Contextual",
+      "translation": "汤炖得正好，应该快好了。",
+      "translated_word": "正好",
+      "display_order": 2
+    },
+    {
+      "sentence": "Everything is coming along nicely.",
+      "style": "Collocational",
+      "translation": "一切都进展顺利。",
+      "translated_word": "顺利",
+      "display_order": 1
+    },
+    {
+      "sentence": "She smiled and said I had put it nicely.",
+      "style": "Intimate",
+      "translation": "她笑了笑，说我表达得很得体。",
+      "translated_word": "得体",
+      "display_order": 3
+    },
+    {
+      "sentence": "The new framework aligns nicely with our long-term objectives.",
+      "style": "Formal",
+      "translation": "新框架与我们的长期目标契合良好。",
+      "translated_word": "良好",
+      "display_order": 4
+    }
+  ]
+}

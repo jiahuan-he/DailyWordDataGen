@@ -1,0 +1,40 @@
+{
+  "word": "effect",
+  "phonetic": "/ɪˈfekt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "效果；影响；作用",
+  "examples": [
+    {
+      "sentence": "The medication showed no effect after two weeks.",
+      "style": "Contextual",
+      "translation": "药物服用两周后，毫无效果。",
+      "translated_word": "效果",
+      "display_order": 2
+    },
+    {
+      "sentence": "New regulations will take effect at midnight.",
+      "style": "Formal",
+      "translation": "新规将于午夜生效。",
+      "translated_word": "生效",
+      "display_order": 3
+    },
+    {
+      "sentence": "Music has a strange effect on memory.",
+      "style": "Collocational",
+      "translation": "音乐对记忆有种奇妙的作用。",
+      "translated_word": "作用",
+      "display_order": 1
+    },
+    {
+      "sentence": "Small acts ripple into effects we never witness.",
+      "style": "Philosophical",
+      "translation": "微小的举动泛起涟漪，化作我们永远看不到的影响。",
+      "translated_word": "影响",
+      "display_order": 4
+    }
+  ]
+}

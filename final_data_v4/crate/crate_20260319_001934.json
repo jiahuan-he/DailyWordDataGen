@@ -1,0 +1,40 @@
+{
+  "word": "crate",
+  "phonetic": "/kreɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "板条箱；木箱；货箱",
+  "examples": [
+    {
+      "sentence": "The farmer stacked crates of apples by the roadside stand.",
+      "style": "Contextual",
+      "translation": "农夫将一箱箱苹果码放在路边摊位旁。",
+      "translated_word": "箱",
+      "display_order": 1
+    },
+    {
+      "sentence": "A wooden crate arrived at the doorstep, its contents still a mystery.",
+      "style": "Collocational",
+      "translation": "一只木箱出现在门口，里面装着未知之物。",
+      "translated_word": "木箱",
+      "display_order": 2
+    },
+    {
+      "sentence": "We packed our belongings into crates, leaving behind everything that didn't fit.",
+      "style": "Intimate",
+      "translation": "我们把家当装进板条箱，留下那些放不下的一切。",
+      "translated_word": "板条箱",
+      "display_order": 3
+    },
+    {
+      "sentence": "Crates of oranges glowed like small suns in the morning market.",
+      "style": "Poetic",
+      "translation": "晨曦集市上，成箱的橙子如小小的太阳般熠熠生辉。",
+      "translated_word": "箱",
+      "display_order": 4
+    }
+  ]
+}
