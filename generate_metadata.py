@@ -1,7 +1,9 @@
 """Generate app metadata files (word_order.json, word_levels.json) from vocabulary CSV."""
 
 import argparse
+import csv
 import json
+from collections import Counter
 from pathlib import Path
 
 import config
@@ -56,6 +58,32 @@ def main() -> None:
     with open(word_levels_path, "w") as f:
         json.dump(levels, f, ensure_ascii=False, separators=(",", ":"))
     print(f"Wrote {len(levels)} levels to {word_levels_path}")
+
+    # word_frequencies_metadata_v4.csv: per-frequency counts
+    total_by_freq: Counter[int] = Counter()
+    output_file_by_freq: Counter[int] = Counter()
+    for w in all_words:
+        total_by_freq[w.frequency] += 1
+        if w.output_file:
+            output_file_by_freq[w.frequency] += 1
+
+    starting_index_by_freq: dict[int, int] = {}
+    for i, w in enumerate(words):
+        if w.frequency not in starting_index_by_freq:
+            starting_index_by_freq[w.frequency] = i
+
+    metadata_path = config.VOCABULARY_CSV.parent / "word_frequencies_metadata_v4.csv"
+    with open(metadata_path, "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=["frequency", "count", "output_file_count", "starting_word_index"])
+        writer.writeheader()
+        for freq in sorted(total_by_freq, reverse=True):
+            writer.writerow({
+                "frequency": freq,
+                "count": total_by_freq[freq],
+                "output_file_count": output_file_by_freq[freq],
+                "starting_word_index": starting_index_by_freq.get(freq, ""),
+            })
+    print(f"Wrote frequency metadata to {metadata_path}")
 
 
 if __name__ == "__main__":
