@@ -1,0 +1,40 @@
+{
+  "word": "coin",
+  "phonetic": "/kɔɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "硬币；钱币；铸币",
+  "examples": [
+    {
+      "sentence": "She tossed a coin into the fountain without looking back.",
+      "style": "Contextual",
+      "translation": "她把一枚硬币抛入喷泉，头也不回。",
+      "translated_word": "硬币",
+      "display_order": 1
+    },
+    {
+      "sentence": "He flipped a coin to settle the matter once and for all.",
+      "style": "Collocational",
+      "translation": "他掷了枚硬币，一劳永逸地解决了这件事。",
+      "translated_word": "硬币",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every coin carries two faces; so does every choice we make.",
+      "style": "Philosophical",
+      "translation": "每枚硬币都有两面；我们做的每个选择亦然。",
+      "translated_word": "硬币",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father's coin, worn thin from years in his pocket, now rests in mine.",
+      "style": "Intimate",
+      "translation": "父亲那枚在口袋里磨了多年的硬币，如今安放在我的口袋里。",
+      "translated_word": "硬币",
+      "display_order": 4
+    }
+  ]
+}

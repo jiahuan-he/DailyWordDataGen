@@ -1,0 +1,41 @@
+{
+  "word": "standing",
+  "phonetic": "/ˈstændɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "地位；名望；声誉；资历",
+  "examples": [
+    {
+      "sentence": "His standing in the community made him the natural choice for mayor.",
+      "style": "Contextual",
+      "translation": "他在社区的声望使他成为市长的不二人选。",
+      "translated_word": "声望",
+      "display_order": 1
+    },
+    {
+      "sentence": "The scandal severely damaged the firm's international standing.",
+      "style": "Formal",
+      "translation": "这桩丑闻严重损害了公司的国际声誉。",
+      "translated_word": "声誉",
+      "display_order": 2
+    },
+    {
+      "sentence": "We inherit our name, but our standing we must earn.",
+      "style": "Philosophical",
+      "translation": "姓名可以继承，地位却须自己挣得。",
+      "translated_word": "地位",
+      "display_order": 3
+    },
+    {
+      "sentence": "Wealth can be borrowed; standing must be built.",
+      "style": "Contrastive",
+      "translation": "财富可以借来，声望只能积累。",
+      "translated_word": "声望",
+      "display_order": 4
+    }
+  ]
+}

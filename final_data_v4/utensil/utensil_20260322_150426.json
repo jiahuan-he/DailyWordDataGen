@@ -1,0 +1,39 @@
+{
+  "word": "utensil",
+  "phonetic": "/juːˈtensɪl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "器具；用具；餐具",
+  "examples": [
+    {
+      "sentence": "The drawer held every utensil a cook could need: whisks, ladles, tongs.",
+      "style": "Contextual",
+      "translation": "抽屉里放满了厨师所需的各种器具：打蛋器、汤勺、夹子。",
+      "translated_word": "器具",
+      "display_order": 1
+    },
+    {
+      "sentence": "She organized the kitchen utensils by frequency of use.",
+      "style": "Collocational",
+      "translation": "她按使用频率整理了厨房用具。",
+      "translated_word": "用具",
+      "display_order": 4
+    },
+    {
+      "sentence": "Plastic utensils are convenient; wooden ones age with grace.",
+      "style": "Contrastive",
+      "translation": "塑料餐具胜在方便，木质餐具贵在岁月沉淀的韵味。",
+      "translated_word": "餐具",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother's dented ladle was the only utensil she brought from the old country.",
+      "style": "Intimate",
+      "translation": "祖母从故乡带来的唯一器具，是那把凹了边的旧汤勺。",
+      "translated_word": "器具",
+      "display_order": 2
+    }
+  ]
+}

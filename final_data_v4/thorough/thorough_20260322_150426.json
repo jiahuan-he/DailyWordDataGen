@@ -1,0 +1,41 @@
+{
+  "word": "thorough",
+  "phonetic": "/ˈθʌrə/",
+  "pos": [
+    "adjective",
+    "noun",
+    "preposition"
+  ],
+  "selected_pos": "adjective",
+  "definition": "彻底的；全面的；细致的；周密的",
+  "examples": [
+    {
+      "sentence": "The detective's thorough search uncovered what others had missed.",
+      "style": "Contextual",
+      "translation": "侦探细致的搜查发现了他人遗漏之处。",
+      "translated_word": "细致",
+      "display_order": 1
+    },
+    {
+      "sentence": "Following a thorough review, the committee approved the proposal unanimously.",
+      "style": "Formal",
+      "translation": "经过全面审查，委员会一致通过了该提案。",
+      "translated_word": "全面",
+      "display_order": 2
+    },
+    {
+      "sentence": "A thorough understanding of the basics makes mastery possible.",
+      "style": "Collocational",
+      "translation": "对基础的透彻理解，让精通成为可能。",
+      "translated_word": "透彻",
+      "display_order": 3
+    },
+    {
+      "sentence": "Half-measures leave room for doubt; only thorough work brings peace of mind.",
+      "style": "Philosophical",
+      "translation": "敷衍留有隐患，唯有彻底方能心安。",
+      "translated_word": "彻底",
+      "display_order": 4
+    }
+  ]
+}

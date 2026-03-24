@@ -1,0 +1,39 @@
+{
+  "word": "pertain",
+  "phonetic": "/pərˈteɪn/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "关于；涉及；属于",
+  "examples": [
+    {
+      "sentence": "These files pertain to the merger; handle them with discretion.",
+      "style": "Contextual",
+      "translation": "这些文件涉及并购事宜，请谨慎处理。",
+      "translated_word": "涉及",
+      "display_order": 1
+    },
+    {
+      "sentence": "All matters pertaining to the investigation remain classified.",
+      "style": "Formal",
+      "translation": "一切与调查相关的事项均属机密。",
+      "translated_word": "相关",
+      "display_order": 3
+    },
+    {
+      "sentence": "The clause pertains specifically to cross-border transactions.",
+      "style": "Collocational",
+      "translation": "该条款专门针对跨境交易。",
+      "translated_word": "针对",
+      "display_order": 2
+    },
+    {
+      "sentence": "History pertains to everyone, yet only a few choose to learn from it.",
+      "style": "Philosophical",
+      "translation": "历史与每个人息息相关，却鲜有人愿意从中汲取教训。",
+      "translated_word": "息息相关",
+      "display_order": 4
+    }
+  ]
+}

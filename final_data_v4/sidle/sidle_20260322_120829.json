@@ -1,0 +1,40 @@
+{
+  "word": "sidle",
+  "phonetic": "/ˈsaɪdl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "悄悄靠近；侧身移动；蹭过去",
+  "examples": [
+    {
+      "sentence": "He sidled through the crowded room, careful not to brush against anyone.",
+      "style": "Contextual",
+      "translation": "他侧身穿过拥挤的房间，小心翼翼地避开每一个人。",
+      "translated_word": "侧身",
+      "display_order": 1
+    },
+    {
+      "sentence": "The cat sidled along the fence, a shadow tracing moonlight.",
+      "style": "Poetic",
+      "translation": "猫沿着篱笆悄然游走，似影子在追逐月光。",
+      "translated_word": "悄然游走",
+      "display_order": 4
+    },
+    {
+      "sentence": "At parties, I tend to sidle toward the bookshelf rather than the crowd.",
+      "style": "Intimate",
+      "translation": "聚会上，我总是不自觉地蹭向书架，而非人群。",
+      "translated_word": "蹭向",
+      "display_order": 3
+    },
+    {
+      "sentence": "She sidled up to the counter and placed her order in a whisper.",
+      "style": "Collocational",
+      "translation": "她悄悄凑到柜台前，低声点了单。",
+      "translated_word": "凑到",
+      "display_order": 2
+    }
+  ]
+}

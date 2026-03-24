@@ -1,0 +1,40 @@
+{
+  "word": "measure",
+  "phonetic": "/ˈmeʒər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "测量；衡量；估量",
+  "examples": [
+    {
+      "sentence": "She measured the window frame twice before ordering curtains.",
+      "style": "Contextual",
+      "translation": "她量了两遍窗框尺寸，才下单买窗帘。",
+      "translated_word": "量",
+      "display_order": 1
+    },
+    {
+      "sentence": "We measure others by their actions, ourselves by our intentions.",
+      "style": "Philosophical",
+      "translation": "我们以行动衡量他人，却以动机宽恕自己。",
+      "translated_word": "衡量",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father taught me to measure progress in effort, not results.",
+      "style": "Intimate",
+      "translation": "父亲教我用努力衡量进步，而非结果。",
+      "translated_word": "衡量",
+      "display_order": 2
+    },
+    {
+      "sentence": "No test can truly measure creativity.",
+      "style": "Collocational",
+      "translation": "没有任何测试能真正衡量创造力。",
+      "translated_word": "衡量",
+      "display_order": 3
+    }
+  ]
+}

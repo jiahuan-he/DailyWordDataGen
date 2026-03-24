@@ -1,0 +1,39 @@
+{
+  "word": "node",
+  "phonetic": "/noʊd/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "节点；结；交汇处",
+  "examples": [
+    {
+      "sentence": "This server acts as the central node in our network.",
+      "style": "Contextual",
+      "translation": "这台服务器是我们网络的中央节点。",
+      "translated_word": "节点",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new transit node will connect three major railway lines.",
+      "style": "Formal",
+      "translation": "新的交通枢纽将连接三条主要铁路线。",
+      "translated_word": "枢纽",
+      "display_order": 3
+    },
+    {
+      "sentence": "The doctor examined the swollen lymph node carefully.",
+      "style": "Collocational",
+      "translation": "医生仔细检查了那处肿大的淋巴结。",
+      "translated_word": "结",
+      "display_order": 2
+    },
+    {
+      "sentence": "Remove one node, and you see how everything connects.",
+      "style": "Philosophical",
+      "translation": "移除一个节点，便能看见万物如何相连。",
+      "translated_word": "节点",
+      "display_order": 4
+    }
+  ]
+}

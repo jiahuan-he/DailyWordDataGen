@@ -1,0 +1,39 @@
+{
+  "word": "plaza",
+  "phonetic": "/ˈplæzə/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "广场；购物中心；露天集会场所",
+  "examples": [
+    {
+      "sentence": "Musicians filled the plaza with jazz as tourists lingered over coffee.",
+      "style": "Contextual",
+      "translation": "爵士乐声漫过广场，游客在咖啡香中流连。",
+      "translated_word": "广场",
+      "display_order": 2
+    },
+    {
+      "sentence": "The town plaza hosts a farmers' market every Saturday morning.",
+      "style": "Collocational",
+      "translation": "小镇广场每周六上午都会举办农夫市集。",
+      "translated_word": "广场",
+      "display_order": 1
+    },
+    {
+      "sentence": "At dusk, the plaza empties; only echoes of children's laughter remain.",
+      "style": "Poetic",
+      "translation": "黄昏时分，广场渐空；唯有孩童的笑声回响未散。",
+      "translated_word": "广场",
+      "display_order": 3
+    },
+    {
+      "sentence": "We sat in that plaza for hours, saying nothing, needing nothing.",
+      "style": "Intimate",
+      "translation": "我们在那广场坐了几个小时，无话，也无需言语。",
+      "translated_word": "广场",
+      "display_order": 4
+    }
+  ]
+}

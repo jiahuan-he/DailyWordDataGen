@@ -1,0 +1,40 @@
+{
+  "word": "bandit",
+  "phonetic": "/ˈbændɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "强盗；土匪；盗贼",
+  "examples": [
+    {
+      "sentence": "The mountain pass was notorious for bandits who preyed on merchant caravans.",
+      "style": "Contextual",
+      "translation": "那条山隘因强盗劫掠商队而臭名昭著。",
+      "translated_word": "强盗",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities arrested the bandit linked to a series of rural bank heists.",
+      "style": "Formal",
+      "translation": "当局逮捕了与多起乡村银行劫案有关的盗匪。",
+      "translated_word": "盗匪",
+      "display_order": 2
+    },
+    {
+      "sentence": "Dust swallowed the bandit's silhouette as he vanished into the red canyon.",
+      "style": "Poetic",
+      "translation": "黄沙吞没了盗匪的身影，他消失在赤红的峡谷深处。",
+      "translated_word": "盗匪",
+      "display_order": 3
+    },
+    {
+      "sentence": "We tied bandanas over our faces and became backyard bandits until dinner.",
+      "style": "Intimate",
+      "translation": "我们用头巾蒙住脸，化身后院的小土匪，直到晚饭时分。",
+      "translated_word": "土匪",
+      "display_order": 4
+    }
+  ]
+}

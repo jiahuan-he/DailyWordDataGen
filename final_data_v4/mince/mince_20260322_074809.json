@@ -1,0 +1,40 @@
+{
+  "word": "mince",
+  "phonetic": "/mɪns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "切碎；剁碎；碎步走",
+  "examples": [
+    {
+      "sentence": "She minced the garlic before tossing it into the sizzling pan.",
+      "style": "Contextual",
+      "translation": "她把蒜切碎，撒入滋滋作响的热锅中。",
+      "translated_word": "切碎",
+      "display_order": 1
+    },
+    {
+      "sentence": "The critic didn't mince words: the film was a disaster.",
+      "style": "Collocational",
+      "translation": "评论家直言不讳：这部电影简直是场灾难。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "He minced across the stage, drawing laughter from the crowd.",
+      "style": "Contextual",
+      "translation": "他迈着碎步扭过舞台，引得观众哄堂大笑。",
+      "translated_word": "碎步",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother minced pork by hand; the rhythm of her blade was a Sunday morning song.",
+      "style": "Intimate",
+      "translation": "祖母总是手工剁肉馅，刀落案板的节奏是周日清晨的歌。",
+      "translated_word": "剁",
+      "display_order": 2
+    }
+  ]
+}

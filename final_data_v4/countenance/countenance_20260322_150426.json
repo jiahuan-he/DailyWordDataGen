@@ -1,0 +1,40 @@
+{
+  "word": "countenance",
+  "phonetic": "/ˈkaʊntənəns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "面容；神情；镇定",
+  "examples": [
+    {
+      "sentence": "Her calm countenance revealed nothing of the storm within.",
+      "style": "Poetic",
+      "translation": "她平静的面容下，暗藏风暴。",
+      "translated_word": "面容",
+      "display_order": 3
+    },
+    {
+      "sentence": "A leader's countenance can steady an entire room.",
+      "style": "Philosophical",
+      "translation": "领袖的神情，能安定满室人心。",
+      "translated_word": "神情",
+      "display_order": 4
+    },
+    {
+      "sentence": "The diplomat maintained a neutral countenance throughout the tense negotiations.",
+      "style": "Formal",
+      "translation": "整场紧张的谈判中，外交官始终神色如常。",
+      "translated_word": "神色",
+      "display_order": 1
+    },
+    {
+      "sentence": "One glance at his countenance told me the interview had gone badly.",
+      "style": "Contextual",
+      "translation": "只消看他一眼神情，我便知道面试砸了。",
+      "translated_word": "神情",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "kernel",
+  "phonetic": "/ˈkɜːrnəl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "果仁；核心；内核",
+  "examples": [
+    {
+      "sentence": "The squirrel cracked the shell and carried the kernel away.",
+      "style": "Contextual",
+      "translation": "松鼠敲开外壳，叼走了里面的果仁。",
+      "translated_word": "果仁",
+      "display_order": 1
+    },
+    {
+      "sentence": "Even his wildest stories contained a kernel of truth.",
+      "style": "Collocational",
+      "translation": "即便是他最夸张的故事，也藏着一丝真实。",
+      "translated_word": "一丝",
+      "display_order": 3
+    },
+    {
+      "sentence": "Strip away the noise; what remains is the kernel.",
+      "style": "Philosophical",
+      "translation": "剥去喧嚣，留下的便是核心。",
+      "translated_word": "核心",
+      "display_order": 4
+    },
+    {
+      "sentence": "Inside the husk, a golden kernel waits to become bread.",
+      "style": "Poetic",
+      "translation": "谷壳之中，金黄的籽粒静待化作面包。",
+      "translated_word": "籽粒",
+      "display_order": 2
+    }
+  ]
+}

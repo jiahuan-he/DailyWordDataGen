@@ -1,0 +1,40 @@
+{
+  "word": "menace",
+  "phonetic": "/ˈmenəs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "威胁；隐患；祸害",
+  "examples": [
+    {
+      "sentence": "Mosquitoes were a constant menace during our hike.",
+      "style": "Contextual",
+      "translation": "蚊虫在徒步途中不断侵扰着我们。",
+      "translated_word": "侵扰",
+      "display_order": 2
+    },
+    {
+      "sentence": "Experts warn that misinformation remains a growing menace.",
+      "style": "Formal",
+      "translation": "专家警告，虚假信息仍是日益增长的威胁。",
+      "translated_word": "威胁",
+      "display_order": 1
+    },
+    {
+      "sentence": "Fog rolled in, a quiet menace erasing the shoreline.",
+      "style": "Poetic",
+      "translation": "浓雾涌来，悄然吞噬了海岸线。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "What we ignore becomes the menace we cannot escape.",
+      "style": "Philosophical",
+      "translation": "我们忽视的，终将成为无法逃避的威胁。",
+      "translated_word": "威胁",
+      "display_order": 3
+    }
+  ]
+}

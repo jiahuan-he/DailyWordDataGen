@@ -1,0 +1,40 @@
+{
+  "word": "harsh",
+  "phonetic": "/hɑːrʃ/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "严厉；刺耳；恶劣；粗糙",
+  "examples": [
+    {
+      "sentence": "The winter here is harsh; even locals stay indoors for weeks.",
+      "style": "Contextual",
+      "translation": "这里的冬天很严酷，连本地人都会闭门数周。",
+      "translated_word": "严酷",
+      "display_order": 1
+    },
+    {
+      "sentence": "His harsh words lingered long after he left the room.",
+      "style": "Collocational",
+      "translation": "他离开房间后，那些刻薄的话语久久萦绕。",
+      "translated_word": "刻薄",
+      "display_order": 2
+    },
+    {
+      "sentence": "She was gentle with students but harsh on excuses.",
+      "style": "Contrastive",
+      "translation": "她对学生温和，对借口却毫不留情。",
+      "translated_word": "毫不留情",
+      "display_order": 3
+    },
+    {
+      "sentence": "Growth often wears a harsh disguise.",
+      "style": "Philosophical",
+      "translation": "成长往往戴着严酷的面具。",
+      "translated_word": "严酷",
+      "display_order": 4
+    }
+  ]
+}

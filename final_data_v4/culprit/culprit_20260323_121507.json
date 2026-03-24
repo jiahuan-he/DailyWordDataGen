@@ -1,0 +1,39 @@
+{
+  "word": "culprit",
+  "phonetic": "/ˈkʌlprɪt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "罪犯；肇事者；元凶",
+  "examples": [
+    {
+      "sentence": "The window shattered. Everyone turned to the culprit: a stray baseball.",
+      "style": "Contextual",
+      "translation": "窗户碎了。众人望向罪魁祸首：一颗飞来的棒球。",
+      "translated_word": "罪魁祸首",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities have identified the culprit in the recent data breach.",
+      "style": "Formal",
+      "translation": "当局已确认此次数据泄露事件的肇事者。",
+      "translated_word": "肇事者",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sugar is often the main culprit behind afternoon fatigue.",
+      "style": "Collocational",
+      "translation": "糖分往往是午后疲倦的元凶。",
+      "translated_word": "元凶",
+      "display_order": 4
+    },
+    {
+      "sentence": "When cookies vanished from the jar, my dog was always the culprit.",
+      "style": "Intimate",
+      "translation": "每当饼干不翼而飞，我的狗总是那个嫌疑犯。",
+      "translated_word": "嫌疑犯",
+      "display_order": 2
+    }
+  ]
+}

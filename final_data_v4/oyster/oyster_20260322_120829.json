@@ -1,0 +1,41 @@
+{
+  "word": "oyster",
+  "phonetic": "/ˈɔɪstər/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "牡蛎；蚝；寡言者",
+  "examples": [
+    {
+      "sentence": "The chef shucked each oyster with practiced ease.",
+      "style": "Contextual",
+      "translation": "厨师熟练地撬开每一只牡蛎。",
+      "translated_word": "牡蛎",
+      "display_order": 2
+    },
+    {
+      "sentence": "We ordered a dozen oysters with lemon and mignonette.",
+      "style": "Collocational",
+      "translation": "我们点了一打生蚝，配柠檬和红葱醋汁。",
+      "translated_word": "生蚝",
+      "display_order": 1
+    },
+    {
+      "sentence": "The oyster guards its softness with a roughness the tide cannot wear away.",
+      "style": "Poetic",
+      "translation": "蚝以粗粝守护柔软，潮汐也无法将其磨平。",
+      "translated_word": "蚝",
+      "display_order": 4
+    },
+    {
+      "sentence": "An oyster turns its wound into a pearl; not every defense is a wall.",
+      "style": "Philosophical",
+      "translation": "牡蛎将伤口化为珍珠；并非所有防御都是壁垒。",
+      "translated_word": "牡蛎",
+      "display_order": 3
+    }
+  ]
+}

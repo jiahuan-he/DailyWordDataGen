@@ -1,0 +1,39 @@
+{
+  "word": "greenhorn",
+  "phonetic": "/ˈɡriːnhɔːrn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "新手；生手；菜鸟",
+  "examples": [
+    {
+      "sentence": "The greenhorn asked for the WiFi password three times.",
+      "style": "Contextual",
+      "translation": "那个新手问了三遍WiFi密码。",
+      "translated_word": "新手",
+      "display_order": 2
+    },
+    {
+      "sentence": "Veterans can spot a greenhorn from across the trading floor.",
+      "style": "Contrastive",
+      "translation": "老手隔着整个交易大厅就能认出菜鸟。",
+      "translated_word": "菜鸟",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every greenhorn needs a patient mentor to show them the ropes.",
+      "style": "Collocational",
+      "translation": "每个新手都需要一位耐心的导师带他入门。",
+      "translated_word": "新手",
+      "display_order": 1
+    },
+    {
+      "sentence": "Grandpa laughed when I couldn't bait the hook: his greenhorn, learning the water.",
+      "style": "Intimate",
+      "translation": "我不会挂鱼饵时，爷爷笑了：他的小新手，正在学着与水相处。",
+      "translated_word": "小新手",
+      "display_order": 4
+    }
+  ]
+}

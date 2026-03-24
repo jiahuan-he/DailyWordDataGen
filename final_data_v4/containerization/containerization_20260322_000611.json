@@ -1,0 +1,37 @@
+{
+  "word": "containerization",
+  "phonetic": "/kənˌteɪnəraɪˈzeɪʃən/",
+  "pos": [],
+  "selected_pos": "noun",
+  "definition": "集装箱化；容器化；标准化封装",
+  "examples": [
+    {
+      "sentence": "Containerization reshaped global shipping, cutting costs by over sixty percent.",
+      "style": "Formal",
+      "translation": "集装箱化重塑了全球航运业，使成本降低了六成以上。",
+      "translated_word": "集装箱化",
+      "display_order": 2
+    },
+    {
+      "sentence": "Before containerization, dock workers spent days unloading cargo by hand.",
+      "style": "Contextual",
+      "translation": "在集装箱化出现之前，码头工人需要花费数日手工卸货。",
+      "translated_word": "集装箱化",
+      "display_order": 1
+    },
+    {
+      "sentence": "Unlike virtual machines, containerization shares the host's operating system.",
+      "style": "Contrastive",
+      "translation": "与虚拟机不同，容器化技术共享宿主机的操作系统。",
+      "translated_word": "容器化",
+      "display_order": 4
+    },
+    {
+      "sentence": "Most cloud platforms now support containerization out of the box.",
+      "style": "Collocational",
+      "translation": "如今大多数云平台都原生支持容器化部署。",
+      "translated_word": "容器化",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "hull",
+  "phonetic": "/hʌl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "船身；外壳；果蒂",
+  "examples": [
+    {
+      "sentence": "The hull of the old fishing boat was painted a faded blue.",
+      "style": "Contextual",
+      "translation": "那艘老旧渔船的船身漆着褪色的蓝。",
+      "translated_word": "船身",
+      "display_order": 1
+    },
+    {
+      "sentence": "Maritime authorities reported a crack in the vessel's hull during routine inspection.",
+      "style": "Formal",
+      "translation": "海事部门在例行检查中发现船体出现裂缝。",
+      "translated_word": "船体",
+      "display_order": 3
+    },
+    {
+      "sentence": "Barnacles mapped the hull with years of silent voyages.",
+      "style": "Poetic",
+      "translation": "藤壶在船身上刻下多年静默航行的印记。",
+      "translated_word": "船身",
+      "display_order": 4
+    },
+    {
+      "sentence": "A reinforced hull is essential for icebreaker ships.",
+      "style": "Collocational",
+      "translation": "加固船身对破冰船而言不可或缺。",
+      "translated_word": "船身",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "herd",
+  "phonetic": "/hɜːd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "兽群；牛群；人群",
+  "examples": [
+    {
+      "sentence": "A herd of bison appeared on the ridge, silent and still.",
+      "style": "Contextual",
+      "translation": "一群野牛出现在山脊上，静默无声。",
+      "translated_word": "一群",
+      "display_order": 2
+    },
+    {
+      "sentence": "The herd moved as one, a river of dust and thunder.",
+      "style": "Poetic",
+      "translation": "兽群如一体移动，是尘土与雷鸣交汇的河流。",
+      "translated_word": "兽群",
+      "display_order": 4
+    },
+    {
+      "sentence": "Most people join the herd without asking where it leads.",
+      "style": "Philosophical",
+      "translation": "多数人随群而行，却不问去向何方。",
+      "translated_word": "群",
+      "display_order": 3
+    },
+    {
+      "sentence": "He spotted a herd of wild horses grazing in the valley.",
+      "style": "Collocational",
+      "translation": "他看见一群野马在山谷中吃草。",
+      "translated_word": "一群",
+      "display_order": 1
+    }
+  ]
+}

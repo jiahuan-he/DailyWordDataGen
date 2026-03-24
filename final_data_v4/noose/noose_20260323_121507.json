@@ -1,0 +1,40 @@
+{
+  "word": "noose",
+  "phonetic": "/nuːs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "绞索；套索；圈套",
+  "examples": [
+    {
+      "sentence": "The cowboy swung the noose overhead, ready to catch the runaway calf.",
+      "style": "Contextual",
+      "translation": "牛仔将套索在头顶挥舞，准备套住那头逃跑的小牛。",
+      "translated_word": "套索",
+      "display_order": 1
+    },
+    {
+      "sentence": "Economic sanctions have tightened like a noose around the isolated regime.",
+      "style": "Formal",
+      "translation": "经济制裁如绞索一般，在这个孤立的政权周围越收越紧。",
+      "translated_word": "绞索",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every compromise we make for comfort can become a noose of our own weaving.",
+      "style": "Philosophical",
+      "translation": "我们为安逸所做的每一次妥协，都可能成为亲手编织的绞索。",
+      "translated_word": "绞索",
+      "display_order": 3
+    },
+    {
+      "sentence": "Debt coiled its patient noose around him, loop by silent loop.",
+      "style": "Poetic",
+      "translation": "债务悄然盘成绞索，一圈又一圈，无声地收紧。",
+      "translated_word": "绞索",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "catalog",
+  "phonetic": "/ˈkætəlɔːɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "目录；清单；一系列",
+  "examples": [
+    {
+      "sentence": "The museum's catalog lists over three thousand artifacts from ancient Egypt.",
+      "style": "Contextual",
+      "translation": "博物馆的目录收录了三千余件古埃及文物。",
+      "translated_word": "目录",
+      "display_order": 2
+    },
+    {
+      "sentence": "She flipped through the spring catalog, marking pages with folded corners.",
+      "style": "Collocational",
+      "translation": "她翻阅春季商品目录，用折角标记心仪的页面。",
+      "translated_word": "目录",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every scar is an entry in the body's quiet catalog of survival.",
+      "style": "Philosophical",
+      "translation": "每道伤疤，都是身体在生存簿册中的无声一笔。",
+      "translated_word": "簿册",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her laughter held a catalog of seasons: rain, bloom, and tender frost.",
+      "style": "Poetic",
+      "translation": "她的笑声盛着四季的清单：细雨、繁花与薄霜。",
+      "translated_word": "清单",
+      "display_order": 4
+    }
+  ]
+}

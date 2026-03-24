@@ -1,0 +1,40 @@
+{
+  "word": "disrespect",
+  "phonetic": "/ˌdɪsrɪˈspekt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "不尊重；轻视；冒犯",
+  "examples": [
+    {
+      "sentence": "He cut her off mid-sentence, openly disrespecting her expertise.",
+      "style": "Contextual",
+      "translation": "他打断了她的话，公然轻视她的专业能力。",
+      "translated_word": "轻视",
+      "display_order": 1
+    },
+    {
+      "sentence": "Disrespecting someone's boundaries erodes trust faster than any lie.",
+      "style": "Collocational",
+      "translation": "不尊重他人的边界，比任何谎言都更快地侵蚀信任。",
+      "translated_word": "不尊重",
+      "display_order": 3
+    },
+    {
+      "sentence": "We disrespect most easily what we fail to understand.",
+      "style": "Philosophical",
+      "translation": "我们最容易轻视的，往往是我们不曾理解的事物。",
+      "translated_word": "轻视",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father's silence when I disrespected my mother taught me more than any lecture.",
+      "style": "Intimate",
+      "translation": "当我顶撞母亲时，父亲的沉默比任何说教都更令我铭记。",
+      "translated_word": "顶撞",
+      "display_order": 2
+    }
+  ]
+}

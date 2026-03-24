@@ -1,0 +1,40 @@
+{
+  "word": "undercharge",
+  "phonetic": "/ˌʌndərˈtʃɑːrdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "少收费；收费过低",
+  "examples": [
+    {
+      "sentence": "The waiter undercharged us by twenty dollars, so we left the difference as a tip.",
+      "style": "Contextual",
+      "translation": "服务员少收了我们二十美元，我们便把差额留作了小费。",
+      "translated_word": "少收了",
+      "display_order": 1
+    },
+    {
+      "sentence": "Small businesses often undercharge for their services, undervaluing their own expertise.",
+      "style": "Formal",
+      "translation": "小企业常常收费过低，低估了自身的专业价值。",
+      "translated_word": "收费过低",
+      "display_order": 4
+    },
+    {
+      "sentence": "To undercharge a client is to teach them your work is worth less.",
+      "style": "Contrastive",
+      "translation": "对客户少收费，就是在教他们你的工作不值钱。",
+      "translated_word": "少收费",
+      "display_order": 3
+    },
+    {
+      "sentence": "The old bookshop owner always undercharged regulars; he called it loyalty, not loss.",
+      "style": "Intimate",
+      "translation": "那位老书店店主总对熟客少收几块钱；他说这叫情分，不叫亏本。",
+      "translated_word": "少收",
+      "display_order": 2
+    }
+  ]
+}

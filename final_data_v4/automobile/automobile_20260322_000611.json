@@ -1,0 +1,41 @@
+{
+  "word": "automobile",
+  "phonetic": "/ˈɔːtəmoʊˌbiːl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "汽车；轿车；机动车",
+  "examples": [
+    {
+      "sentence": "The automobile in the driveway has been idling for ten minutes.",
+      "style": "Contextual",
+      "translation": "车道上那辆汽车已经怠速了十分钟。",
+      "translated_word": "汽车",
+      "display_order": 1
+    },
+    {
+      "sentence": "Global automobile sales reached a record high despite supply chain disruptions.",
+      "style": "Formal",
+      "translation": "尽管供应链受阻，全球汽车销量仍创历史新高。",
+      "translated_word": "汽车",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every automobile carries not just passengers, but the restless need to be elsewhere.",
+      "style": "Philosophical",
+      "translation": "每一辆汽车承载的不只是乘客，还有那颗渴望远方的心。",
+      "translated_word": "汽车",
+      "display_order": 4
+    },
+    {
+      "sentence": "That old automobile broke down twice on our first road trip; we laughed until we cried.",
+      "style": "Intimate",
+      "translation": "那辆老汽车在我们第一次公路旅行时抛锚了两次；我们笑到流泪。",
+      "translated_word": "汽车",
+      "display_order": 2
+    }
+  ]
+}

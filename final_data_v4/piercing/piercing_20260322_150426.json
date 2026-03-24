@@ -1,0 +1,41 @@
+{
+  "word": "piercing",
+  "phonetic": "/ˈpɪrsɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "刺骨的；锐利的；刺耳的",
+  "examples": [
+    {
+      "sentence": "She gave me a piercing look; I knew the conversation was over.",
+      "style": "Contextual",
+      "translation": "她目光如炬，我便知道，话已说尽。",
+      "translated_word": "如炬",
+      "display_order": 3
+    },
+    {
+      "sentence": "A single piercing note held the concert hall breathless.",
+      "style": "Poetic",
+      "translation": "一声穿透的音符，令整座音乐厅屏息。",
+      "translated_word": "穿透",
+      "display_order": 2
+    },
+    {
+      "sentence": "The piercing wind drove everyone indoors before noon.",
+      "style": "Collocational",
+      "translation": "凛冽的寒风在正午前，便将所有人驱入室内。",
+      "translated_word": "凛冽",
+      "display_order": 1
+    },
+    {
+      "sentence": "Years later, his piercing question still echoes: what do you actually want?",
+      "style": "Intimate",
+      "translation": "多年后，他那犀利的追问仍在耳边回响：你究竟想要什么？",
+      "translated_word": "犀利",
+      "display_order": 4
+    }
+  ]
+}

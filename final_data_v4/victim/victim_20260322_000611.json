@@ -1,0 +1,39 @@
+{
+  "word": "victim",
+  "phonetic": "/ˈvɪktɪm/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "受害者；牺牲品；遇难者",
+  "examples": [
+    {
+      "sentence": "She became a victim of identity theft last spring.",
+      "style": "Contextual",
+      "translation": "她在去年春天成了身份盗窃的受害者。",
+      "translated_word": "受害者",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities have identified all victims of the train derailment.",
+      "style": "Formal",
+      "translation": "当局已确认列车脱轨事故中所有遇难者的身份。",
+      "translated_word": "遇难者",
+      "display_order": 4
+    },
+    {
+      "sentence": "We often become victims of expectations we never chose.",
+      "style": "Philosophical",
+      "translation": "我们常常沦为那些从未选择过的期望的牺牲品。",
+      "translated_word": "牺牲品",
+      "display_order": 3
+    },
+    {
+      "sentence": "She refused to stay a victim; she chose to become a survivor.",
+      "style": "Contrastive",
+      "translation": "她拒绝继续做受害者；她选择成为幸存者。",
+      "translated_word": "受害者",
+      "display_order": 2
+    }
+  ]
+}

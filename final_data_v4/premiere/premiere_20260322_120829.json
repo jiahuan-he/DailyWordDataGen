@@ -1,0 +1,40 @@
+{
+  "word": "premiere",
+  "phonetic": "/prɪˈmɪr/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "首映；首演；首次公演",
+  "examples": [
+    {
+      "sentence": "The director held his breath as the credits rolled at the premiere.",
+      "style": "Contextual",
+      "translation": "首映式上，片尾字幕滚动时，导演屏住了呼吸。",
+      "translated_word": "首映式",
+      "display_order": 3
+    },
+    {
+      "sentence": "The film's world premiere will be held at the Cannes Film Festival.",
+      "style": "Formal",
+      "translation": "该片全球首映将在戛纳电影节举行。",
+      "translated_word": "首映",
+      "display_order": 1
+    },
+    {
+      "sentence": "Stars gathered on the red carpet for the premiere.",
+      "style": "Collocational",
+      "translation": "明星们齐聚红毯，出席首映礼。",
+      "translated_word": "首映礼",
+      "display_order": 2
+    },
+    {
+      "sentence": "At the premiere of my first short film, only my mother applauded.",
+      "style": "Intimate",
+      "translation": "我第一部短片的首映式上，只有母亲在鼓掌。",
+      "translated_word": "首映式",
+      "display_order": 4
+    }
+  ]
+}

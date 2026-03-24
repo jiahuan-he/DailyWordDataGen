@@ -1,0 +1,39 @@
+{
+  "word": "blackout",
+  "phonetic": "/ˈblækaʊt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "停电；昏厥；断片；信息封锁",
+  "examples": [
+    {
+      "sentence": "The storm caused a citywide blackout that lasted three hours.",
+      "style": "Contextual",
+      "translation": "暴风雨导致全城停电，持续了三个小时。",
+      "translated_word": "停电",
+      "display_order": 1
+    },
+    {
+      "sentence": "In the blackout, the stars returned to the city sky.",
+      "style": "Poetic",
+      "translation": "停电之夜，星星重新回到了城市的上空。",
+      "translated_word": "停电",
+      "display_order": 3
+    },
+    {
+      "sentence": "That blackout brought our whole neighborhood into the courtyard with candles.",
+      "style": "Intimate",
+      "translation": "那次停电，整个小区的人都拿着蜡烛聚到了院子里。",
+      "translated_word": "停电",
+      "display_order": 2
+    },
+    {
+      "sentence": "A blackout reveals how much of modern life runs on borrowed light.",
+      "style": "Philosophical",
+      "translation": "停电让人意识到，现代生活多么依赖于借来的光。",
+      "translated_word": "停电",
+      "display_order": 4
+    }
+  ]
+}

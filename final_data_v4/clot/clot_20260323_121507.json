@@ -1,0 +1,40 @@
+{
+  "word": "clot",
+  "phonetic": "/klɒt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "血块；凝块；笨蛋",
+  "examples": [
+    {
+      "sentence": "The wound stopped bleeding once a clot formed over the cut.",
+      "style": "Contextual",
+      "translation": "伤口上结了血块，血便止住了。",
+      "translated_word": "血块",
+      "display_order": 1
+    },
+    {
+      "sentence": "Surgeons removed a dangerous clot from the patient's artery.",
+      "style": "Formal",
+      "translation": "外科医生从患者动脉中取出了一块危险的血栓。",
+      "translated_word": "血栓",
+      "display_order": 2
+    },
+    {
+      "sentence": "Long-haul flights can increase the risk of blood clots.",
+      "style": "Collocational",
+      "translation": "长途飞行会增加血栓形成的风险。",
+      "translated_word": "血栓",
+      "display_order": 3
+    },
+    {
+      "sentence": "The word 'clot' on the scan made everything go silent.",
+      "style": "Intimate",
+      "translation": "扫描报告上的\"血栓\"二字，让一切陷入沉寂。",
+      "translated_word": "血栓",
+      "display_order": 4
+    }
+  ]
+}

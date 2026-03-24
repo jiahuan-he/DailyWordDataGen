@@ -1,0 +1,41 @@
+{
+  "word": "cork",
+  "phonetic": "/kɔːrk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "软木塞；木栓；软木",
+  "examples": [
+    {
+      "sentence": "She twisted the cork free, and the scent of aged Bordeaux filled the room.",
+      "style": "Contextual",
+      "translation": "她旋开瓶塞，陈年波尔多的香气顿时弥漫了整个房间。",
+      "translated_word": "瓶塞",
+      "display_order": 1
+    },
+    {
+      "sentence": "The pop of a cork signals that the wait is over.",
+      "style": "Collocational",
+      "translation": "瓶塞弹开的声响，宣告等待已经结束。",
+      "translated_word": "瓶塞",
+      "display_order": 2
+    },
+    {
+      "sentence": "A cork holds the vineyard's sun and the cellar's silence.",
+      "style": "Poetic",
+      "translation": "一枚木塞，封存着葡萄园的阳光与酒窖的静默。",
+      "translated_word": "木塞",
+      "display_order": 3
+    },
+    {
+      "sentence": "We kept the cork from that night; it outlasted the relationship.",
+      "style": "Intimate",
+      "translation": "我们留着那晚的瓶塞；它比那段感情更长久。",
+      "translated_word": "瓶塞",
+      "display_order": 4
+    }
+  ]
+}

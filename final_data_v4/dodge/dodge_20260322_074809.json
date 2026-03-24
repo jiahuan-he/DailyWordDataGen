@@ -1,0 +1,41 @@
+{
+  "word": "dodge",
+  "phonetic": "/dɑdʒ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "躲避；闪避；回避；规避",
+  "examples": [
+    {
+      "sentence": "The cyclist dodged a pothole without breaking stride.",
+      "style": "Contextual",
+      "translation": "骑行者轻巧地避开一处坑洼，步伐未乱。",
+      "translated_word": "避开",
+      "display_order": 1
+    },
+    {
+      "sentence": "He dodged the question with a practiced smile.",
+      "style": "Collocational",
+      "translation": "他以惯常的微笑避开了那个问题。",
+      "translated_word": "避开",
+      "display_order": 3
+    },
+    {
+      "sentence": "We dodge discomfort so often we forget how to sit with it.",
+      "style": "Philosophical",
+      "translation": "我们太习惯回避不适，以致忘了如何与之共处。",
+      "translated_word": "回避",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father taught me to dodge raindrops; he never owned an umbrella.",
+      "style": "Intimate",
+      "translation": "父亲教我躲雨，他一生从未撑过伞。",
+      "translated_word": "躲",
+      "display_order": 2
+    }
+  ]
+}

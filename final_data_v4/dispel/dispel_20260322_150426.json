@@ -1,0 +1,40 @@
+{
+  "word": "dispel",
+  "phonetic": "/dɪˈspel/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "驱散；消除；打消",
+  "examples": [
+    {
+      "sentence": "Her calm explanation dispelled all my concerns.",
+      "style": "Contextual",
+      "translation": "她平静的解释驱散了我所有的顾虑。",
+      "translated_word": "驱散",
+      "display_order": 1
+    },
+    {
+      "sentence": "Morning light dispelled the last shadows clinging to the valley.",
+      "style": "Poetic",
+      "translation": "晨光驱散了山谷间最后一缕残影。",
+      "translated_word": "驱散",
+      "display_order": 2
+    },
+    {
+      "sentence": "Truth does not always dispel fear; sometimes it deepens it.",
+      "style": "Philosophical",
+      "translation": "真相未必消除恐惧；有时反而加深它。",
+      "translated_word": "消除",
+      "display_order": 3
+    },
+    {
+      "sentence": "One act of courage can dispel a lifetime of doubt.",
+      "style": "Inspirational",
+      "translation": "一次勇敢的行动，足以打消一生的疑虑。",
+      "translated_word": "打消",
+      "display_order": 4
+    }
+  ]
+}

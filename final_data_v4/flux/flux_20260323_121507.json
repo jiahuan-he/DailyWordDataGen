@@ -1,0 +1,41 @@
+{
+  "word": "flux",
+  "phonetic": "/flʌks/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "变化；流动；不断变动",
+  "examples": [
+    {
+      "sentence": "The team remains in flux after three resignations this month.",
+      "style": "Contextual",
+      "translation": "这个月三人离职后，团队仍处于动荡之中。",
+      "translated_word": "动荡",
+      "display_order": 1
+    },
+    {
+      "sentence": "Global markets are in flux amid shifting trade policies.",
+      "style": "Formal",
+      "translation": "在贸易政策变动之际，全球市场持续波动。",
+      "translated_word": "波动",
+      "display_order": 2
+    },
+    {
+      "sentence": "Nothing rests; even stone exists in slow flux.",
+      "style": "Philosophical",
+      "translation": "万物皆动；即便顽石，也在缓缓流变。",
+      "translated_word": "流变",
+      "display_order": 4
+    },
+    {
+      "sentence": "The river holds no shape, only flux.",
+      "style": "Poetic",
+      "translation": "河流无形，唯有流转。",
+      "translated_word": "流转",
+      "display_order": 3
+    }
+  ]
+}

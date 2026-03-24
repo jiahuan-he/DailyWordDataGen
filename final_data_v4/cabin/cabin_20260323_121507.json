@@ -1,0 +1,40 @@
+{
+  "word": "cabin",
+  "phonetic": "/ˈkæbɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "小木屋；船舱；机舱",
+  "examples": [
+    {
+      "sentence": "We booked a cabin in the mountains to escape the city noise.",
+      "style": "Contextual",
+      "translation": "我们在山中订了一间小木屋，逃离城市的喧嚣。",
+      "translated_word": "小木屋",
+      "display_order": 1
+    },
+    {
+      "sentence": "The cabin stood quiet among the pines, smoke curling from its chimney.",
+      "style": "Poetic",
+      "translation": "小木屋静静伫立于松林间，炊烟从烟囱袅袅升起。",
+      "translated_word": "小木屋",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandfather built that cabin with his own hands; it still smells of cedar.",
+      "style": "Intimate",
+      "translation": "祖父亲手建造了那间小屋；至今仍弥漫着雪松的香气。",
+      "translated_word": "小屋",
+      "display_order": 3
+    },
+    {
+      "sentence": "They saved for years to buy a log cabin by the river.",
+      "style": "Collocational",
+      "translation": "他们攒了多年的钱，只为在河畔买一间原木小屋。",
+      "translated_word": "小屋",
+      "display_order": 4
+    }
+  ]
+}

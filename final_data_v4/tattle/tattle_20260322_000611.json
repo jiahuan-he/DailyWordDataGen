@@ -1,0 +1,40 @@
+{
+  "word": "tattle",
+  "phonetic": "/ˈtætəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "告密；打小报告；搬弄是非",
+  "examples": [
+    {
+      "sentence": "She tattled to the teacher about the note passing.",
+      "style": "Contextual",
+      "translation": "她向老师告发了传纸条的事。",
+      "translated_word": "告发",
+      "display_order": 1
+    },
+    {
+      "sentence": "Kids who tattle on their friends rarely stay popular for long.",
+      "style": "Collocational",
+      "translation": "爱打小报告的孩子很难长久地受人欢迎。",
+      "translated_word": "打小报告",
+      "display_order": 2
+    },
+    {
+      "sentence": "There's a difference between tattling and reporting genuine danger.",
+      "style": "Contrastive",
+      "translation": "打小报告和报告真正的危险是两码事。",
+      "translated_word": "打小报告",
+      "display_order": 3
+    },
+    {
+      "sentence": "My brother tattled about the stolen cookies; decades later, I still bring it up at dinner.",
+      "style": "Intimate",
+      "translation": "弟弟告发了我偷饼干的事；几十年后，我仍会在饭桌上旧事重提。",
+      "translated_word": "告发",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "yaw",
+  "phonetic": "/jɔː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "偏航；摇摆；偏转",
+  "examples": [
+    {
+      "sentence": "The small boat began to yaw in the rising swells.",
+      "style": "Contextual",
+      "translation": "小船在渐涌的波浪中开始摇摆偏转。",
+      "translated_word": "偏转",
+      "display_order": 2
+    },
+    {
+      "sentence": "Investigators confirmed the aircraft yawed sharply seconds before impact.",
+      "style": "Formal",
+      "translation": "调查人员证实，飞机在撞击前几秒曾剧烈偏航。",
+      "translated_word": "偏航",
+      "display_order": 3
+    },
+    {
+      "sentence": "Strong crosswinds caused the helicopter to yaw hard to the left.",
+      "style": "Collocational",
+      "translation": "强劲的侧风使直升机猛然向左偏转。",
+      "translated_word": "偏转",
+      "display_order": 1
+    },
+    {
+      "sentence": "The vessel yawed between fog and starlight, tracing an uncertain path.",
+      "style": "Poetic",
+      "translation": "船在雾霭与星光间摇曳偏行，划出一道迷茫的航迹。",
+      "translated_word": "偏行",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "intermediate",
+  "phonetic": "/ˌɪntərˈmiːdiət/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "中等的；中间的；过渡的",
+  "examples": [
+    {
+      "sentence": "The course is designed for intermediate learners who already grasp the basics.",
+      "style": "Contextual",
+      "translation": "这门课程专为已掌握基础知识的中等水平学习者设计。",
+      "translated_word": "中等水平",
+      "display_order": 1
+    },
+    {
+      "sentence": "She moved from beginner to intermediate in just three months.",
+      "style": "Contrastive",
+      "translation": "她仅用三个月便从初级跃升至中级。",
+      "translated_word": "中级",
+      "display_order": 2
+    },
+    {
+      "sentence": "His intermediate Spanish was enough to navigate the markets of Barcelona.",
+      "style": "Collocational",
+      "translation": "他中等水平的西班牙语足以让他在巴塞罗那的市场间游刃有余。",
+      "translated_word": "中等水平",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every expert was once an intermediate; the plateau is where persistence is tested.",
+      "style": "Inspirational",
+      "translation": "每位专家都曾是中等水平；瓶颈期正是考验毅力之处。",
+      "translated_word": "中等水平",
+      "display_order": 4
+    }
+  ]
+}

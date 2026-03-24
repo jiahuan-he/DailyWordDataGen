@@ -1,0 +1,40 @@
+{
+  "word": "rig",
+  "phonetic": "/rɪɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "操纵；操控；暗中做手脚",
+  "examples": [
+    {
+      "sentence": "Three workers were fired for trying to rig the safety inspection.",
+      "style": "Contextual",
+      "translation": "三名员工因试图操纵安全检查而被解雇。",
+      "translated_word": "操纵",
+      "display_order": 1
+    },
+    {
+      "sentence": "Prosecutors allege the executives conspired to rig fuel prices.",
+      "style": "Formal",
+      "translation": "检方指控高管合谋操纵燃油价格。",
+      "translated_word": "操纵",
+      "display_order": 2
+    },
+    {
+      "sentence": "Those who rig the game never learn to play it.",
+      "style": "Philosophical",
+      "translation": "操纵游戏的人，永远学不会真正的玩法。",
+      "translated_word": "操纵",
+      "display_order": 3
+    },
+    {
+      "sentence": "A novice cheats; a master rigs the rules before the game begins.",
+      "style": "Contrastive",
+      "translation": "新手作弊；高手在游戏开始前就操纵了规则。",
+      "translated_word": "操纵",
+      "display_order": 4
+    }
+  ]
+}

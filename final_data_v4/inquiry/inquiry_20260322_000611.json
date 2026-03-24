@@ -1,0 +1,39 @@
+{
+  "word": "inquiry",
+  "phonetic": "/ɪnˈkwaɪəri/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "询问；调查；探究",
+  "examples": [
+    {
+      "sentence": "The committee opened an inquiry into allegations of misconduct.",
+      "style": "Formal",
+      "translation": "委员会就不当行为的指控展开了调查。",
+      "translated_word": "调查",
+      "display_order": 3
+    },
+    {
+      "sentence": "One quick inquiry at reception solved the booking mix-up.",
+      "style": "Contextual",
+      "translation": "在前台简单一问，订房的误会便迎刃而解。",
+      "translated_word": "问",
+      "display_order": 1
+    },
+    {
+      "sentence": "She made a discreet inquiry about returning the gift.",
+      "style": "Collocational",
+      "translation": "她不动声色地询问了退礼的事宜。",
+      "translated_word": "询问",
+      "display_order": 2
+    },
+    {
+      "sentence": "Behind every answer lies an earlier inquiry.",
+      "style": "Philosophical",
+      "translation": "每一个答案背后，都藏着一个更早的追问。",
+      "translated_word": "追问",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "cease",
+  "phonetic": "/siːs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "停止；终止；结束",
+  "examples": [
+    {
+      "sentence": "The factory will cease operations by year's end.",
+      "style": "Formal",
+      "translation": "工厂将于年底停止运营。",
+      "translated_word": "停止",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some questions never cease; they simply change shape.",
+      "style": "Philosophical",
+      "translation": "有些问题从未停止，只是换了形态。",
+      "translated_word": "停止",
+      "display_order": 4
+    },
+    {
+      "sentence": "The rain ceased, and the world held its breath.",
+      "style": "Poetic",
+      "translation": "雨停了，天地屏息以待。",
+      "translated_word": "停",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her kindness never ceased to amaze me.",
+      "style": "Collocational",
+      "translation": "她的善良总让我惊叹不已。",
+      "translated_word": null,
+      "display_order": 3
+    }
+  ]
+}

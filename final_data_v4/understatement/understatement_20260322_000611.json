@@ -1,0 +1,39 @@
+{
+  "word": "understatement",
+  "phonetic": "/ˌʌndərˈsteɪtmənt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "轻描淡写；低调陈述；保守说法",
+  "examples": [
+    {
+      "sentence": "Calling the hurricane 'a bit of wind' was an understatement.",
+      "style": "Contextual",
+      "translation": "把那场飓风说成'有点风'，实在是轻描淡写了。",
+      "translated_word": "轻描淡写",
+      "display_order": 1
+    },
+    {
+      "sentence": "To say she's talented is an understatement.",
+      "style": "Collocational",
+      "translation": "说她有天赋，都太保守了。",
+      "translated_word": "保守",
+      "display_order": 2
+    },
+    {
+      "sentence": "The British say 'not bad' when they mean brilliant; they have perfected understatement.",
+      "style": "Philosophical",
+      "translation": "英国人说'还不错'时，心里想的是'太棒了'；他们把轻描淡写修炼成了艺术。",
+      "translated_word": "轻描淡写",
+      "display_order": 4
+    },
+    {
+      "sentence": "He said goodbye was 'a little hard'; I knew that was an understatement.",
+      "style": "Intimate",
+      "translation": "他说告别'有点难'；我知道，那是他能说出口的最轻的话了。",
+      "translated_word": "最轻的话",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "wade",
+  "phonetic": "/weɪd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "涉水；蹚过；艰难跋涉",
+  "examples": [
+    {
+      "sentence": "The children waded into the creek, shrieking at the cold.",
+      "style": "Contextual",
+      "translation": "孩子们蹚进小溪，被冰凉的水激得尖叫。",
+      "translated_word": "蹚进",
+      "display_order": 1
+    },
+    {
+      "sentence": "Herons wade through the shallows at dusk, unhurried and precise.",
+      "style": "Poetic",
+      "translation": "黄昏时分，苍鹭涉水而行，从容而笃定。",
+      "translated_word": "涉水",
+      "display_order": 3
+    },
+    {
+      "sentence": "She waded through three hundred emails before finding the one that mattered.",
+      "style": "Collocational",
+      "translation": "她翻遍三百封邮件，才找到那封重要的。",
+      "translated_word": "翻遍",
+      "display_order": 4
+    },
+    {
+      "sentence": "We waded into the sea at midnight, the water warm against our skin.",
+      "style": "Intimate",
+      "translation": "午夜，我们涉入海中，温热的海水轻拂肌肤。",
+      "translated_word": "涉入",
+      "display_order": 2
+    }
+  ]
+}

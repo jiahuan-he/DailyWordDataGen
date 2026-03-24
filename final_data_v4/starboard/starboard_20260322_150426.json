@@ -1,0 +1,40 @@
+{
+  "word": "starboard",
+  "phonetic": "/ˈstɑːrbərd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "右舷；船的右侧",
+  "examples": [
+    {
+      "sentence": "The captain pointed to starboard, where a pod of dolphins surfaced.",
+      "style": "Contextual",
+      "translation": "船长指向右舷，一群海豚正浮出水面。",
+      "translated_word": "右舷",
+      "display_order": 1
+    },
+    {
+      "sentence": "The vessel listed dangerously to starboard after taking on water.",
+      "style": "Formal",
+      "translation": "船只进水后，船身危险地向右舷倾斜。",
+      "translated_word": "右舷",
+      "display_order": 3
+    },
+    {
+      "sentence": "\"Hard to starboard!\" the helmsman shouted through the storm.",
+      "style": "Collocational",
+      "translation": "\"右满舵！\"舵手在风暴中高喊。",
+      "translated_word": "右",
+      "display_order": 2
+    },
+    {
+      "sentence": "To starboard, the coastline emerged from the morning mist like a whispered secret.",
+      "style": "Poetic",
+      "translation": "右舷之外，海岸线从晨雾中浮现，宛如一个低语的秘密。",
+      "translated_word": "右舷",
+      "display_order": 4
+    }
+  ]
+}

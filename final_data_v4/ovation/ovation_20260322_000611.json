@@ -1,0 +1,40 @@
+{
+  "word": "ovation",
+  "phonetic": "/oʊˈveɪʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "热烈鼓掌；喝彩；欢呼",
+  "examples": [
+    {
+      "sentence": "The final chord faded, and a standing ovation filled the concert hall.",
+      "style": "Contextual",
+      "translation": "余音散尽，全场起立，掌声如潮。",
+      "translated_word": "掌声",
+      "display_order": 1
+    },
+    {
+      "sentence": "The senator received a rare bipartisan ovation following her speech on unity.",
+      "style": "Formal",
+      "translation": "这位参议员就团结议题发表演讲后，获得了两党罕见的一致喝彩。",
+      "translated_word": "喝彩",
+      "display_order": 3
+    },
+    {
+      "sentence": "The ovation swelled through the theater; sound made solid, made shelter.",
+      "style": "Poetic",
+      "translation": "掌声在剧院中涌动，化为实质，化为庇护。",
+      "translated_word": "掌声",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her parents sat in the third row, and their ovation was the only one she heard.",
+      "style": "Intimate",
+      "translation": "父母坐在第三排，他们的掌声是她唯一听见的喝彩。",
+      "translated_word": "掌声",
+      "display_order": 2
+    }
+  ]
+}

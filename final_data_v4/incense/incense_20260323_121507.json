@@ -1,0 +1,40 @@
+{
+  "word": "incense",
+  "phonetic": "/ˈɪnsens/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "香；熏香；焚香",
+  "examples": [
+    {
+      "sentence": "The temple air was thick with incense and hushed voices.",
+      "style": "Contextual",
+      "translation": "寺庙中香烟缭绕，人声低语。",
+      "translated_word": "香烟",
+      "display_order": 1
+    },
+    {
+      "sentence": "Incense smoke rose in slow spirals, dissolving into light.",
+      "style": "Poetic",
+      "translation": "香烟袅袅升起，缓缓消融于光影之中。",
+      "translated_word": "香烟",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother lit incense every morning; I never asked why until she was gone.",
+      "style": "Intimate",
+      "translation": "祖母每晨焚香，我从未问过缘由，直到她离去。",
+      "translated_word": "香",
+      "display_order": 2
+    },
+    {
+      "sentence": "A single stick of incense transformed the room into a sanctuary.",
+      "style": "Collocational",
+      "translation": "一炷香，便将斗室化作静室。",
+      "translated_word": "香",
+      "display_order": 3
+    }
+  ]
+}

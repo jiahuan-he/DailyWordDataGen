@@ -1,0 +1,40 @@
+{
+  "word": "primitive",
+  "phonetic": "/ˈprɪmɪtɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "原始的；简陋的；古老的",
+  "examples": [
+    {
+      "sentence": "Archaeologists uncovered primitive stone tools near the riverbed.",
+      "style": "Contextual",
+      "translation": "考古学家在河床附近发掘出原始的石器。",
+      "translated_word": "原始",
+      "display_order": 1
+    },
+    {
+      "sentence": "What we call primitive, they called innovation.",
+      "style": "Contrastive",
+      "translation": "我们所谓的原始，是他们眼中的创新。",
+      "translated_word": "原始",
+      "display_order": 4
+    },
+    {
+      "sentence": "Our primitive instincts outlast every upgrade civilization makes.",
+      "style": "Philosophical",
+      "translation": "我们的原始本能，比文明的每一次升级都更持久。",
+      "translated_word": "原始",
+      "display_order": 3
+    },
+    {
+      "sentence": "Fire was primitive: wild, warm, and utterly alive.",
+      "style": "Poetic",
+      "translation": "火是原始的：狂野、温暖，充满生命力。",
+      "translated_word": "原始",
+      "display_order": 2
+    }
+  ]
+}

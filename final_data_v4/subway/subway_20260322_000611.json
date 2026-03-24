@@ -1,0 +1,40 @@
+{
+  "word": "subway",
+  "phonetic": "/ˈsʌbweɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "地铁；地下通道",
+  "examples": [
+    {
+      "sentence": "The subway runs every four minutes during rush hour.",
+      "style": "Contextual",
+      "translation": "高峰时段，地铁每四分钟一班。",
+      "translated_word": "地铁",
+      "display_order": 1
+    },
+    {
+      "sentence": "She missed the last subway home.",
+      "style": "Collocational",
+      "translation": "她错过了回家的末班地铁。",
+      "translated_word": "地铁",
+      "display_order": 2
+    },
+    {
+      "sentence": "On a crowded subway, a stranger was reading my favorite book.",
+      "style": "Intimate",
+      "translation": "拥挤的地铁上，一个陌生人正读着我最爱的书。",
+      "translated_word": "地铁",
+      "display_order": 3
+    },
+    {
+      "sentence": "In the subway, strangers share silence like an unspoken pact.",
+      "style": "Philosophical",
+      "translation": "地铁里，陌生人分享着沉默，像一种无声的契约。",
+      "translated_word": "地铁",
+      "display_order": 4
+    }
+  ]
+}

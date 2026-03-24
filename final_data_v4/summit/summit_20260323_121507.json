@@ -1,0 +1,41 @@
+{
+  "word": "summit",
+  "phonetic": "/ˈsʌmɪt/",
+  "pos": [
+    "noun",
+    "pronoun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "顶峰；峰会；巅峰",
+  "examples": [
+    {
+      "sentence": "From the summit, the world below looked impossibly small.",
+      "style": "Contextual",
+      "translation": "从山顶望去，脚下的世界小得不可思议。",
+      "translated_word": "山顶",
+      "display_order": 1
+    },
+    {
+      "sentence": "The economic summit concluded with a historic trade agreement.",
+      "style": "Formal",
+      "translation": "经济峰会以一项历史性贸易协定落幕。",
+      "translated_word": "峰会",
+      "display_order": 2
+    },
+    {
+      "sentence": "At the summit, wind is the only voice that remains.",
+      "style": "Poetic",
+      "translation": "在峰顶，唯有风声长存。",
+      "translated_word": "峰顶",
+      "display_order": 3
+    },
+    {
+      "sentence": "The summit is not the end; it is where the view finally makes sense.",
+      "style": "Inspirational",
+      "translation": "顶峰不是终点，而是风景终于清晰的地方。",
+      "translated_word": "顶峰",
+      "display_order": 4
+    }
+  ]
+}

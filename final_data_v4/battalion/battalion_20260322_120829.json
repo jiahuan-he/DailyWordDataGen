@@ -1,0 +1,40 @@
+{
+  "word": "battalion",
+  "phonetic": "/bəˈtæljən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "营；部队；大批",
+  "examples": [
+    {
+      "sentence": "The battalion marched through the valley at dawn.",
+      "style": "Contextual",
+      "translation": "营队在黎明时分穿过山谷。",
+      "translated_word": "营队",
+      "display_order": 1
+    },
+    {
+      "sentence": "Three battalions were deployed to secure the northern border.",
+      "style": "Formal",
+      "translation": "三个营被调派至北部边境执行警戒任务。",
+      "translated_word": "营",
+      "display_order": 2
+    },
+    {
+      "sentence": "She faced a battalion of reporters outside the courthouse.",
+      "style": "Collocational",
+      "translation": "她在法院外面对一大群记者的围堵。",
+      "translated_word": "一大群",
+      "display_order": 3
+    },
+    {
+      "sentence": "A battalion of clouds gathered, silent soldiers before the storm.",
+      "style": "Poetic",
+      "translation": "云层如列阵的士兵，在暴风雨前静默集结。",
+      "translated_word": "列阵",
+      "display_order": 4
+    }
+  ]
+}

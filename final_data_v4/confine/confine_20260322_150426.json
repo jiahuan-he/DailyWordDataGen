@@ -1,0 +1,40 @@
+{
+  "word": "confine",
+  "phonetic": "/kənˈfaɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "限制；禁闭；局限",
+  "examples": [
+    {
+      "sentence": "The doctor confined her to bed rest for the final weeks of pregnancy.",
+      "style": "Contextual",
+      "translation": "医生要求她在孕期最后几周卧床静养。",
+      "translated_word": "卧床",
+      "display_order": 1
+    },
+    {
+      "sentence": "We confine ourselves more often than circumstance ever could.",
+      "style": "Philosophical",
+      "translation": "我们对自己的禁锢，往往远甚于命运。",
+      "translated_word": "禁锢",
+      "display_order": 3
+    },
+    {
+      "sentence": "Snow confines the valley in silence; even the river forgets how to speak.",
+      "style": "Poetic",
+      "translation": "大雪将山谷封入静默，连河流都忘了如何言语。",
+      "translated_word": "封入",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother never left her village, yet she never felt confined.",
+      "style": "Intimate",
+      "translation": "祖母一生未曾离开小村，却从不觉得受困。",
+      "translated_word": "受困",
+      "display_order": 2
+    }
+  ]
+}

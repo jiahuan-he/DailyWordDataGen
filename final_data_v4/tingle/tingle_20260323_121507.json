@@ -1,0 +1,40 @@
+{
+  "word": "tingle",
+  "phonetic": "/ˈtɪŋɡl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "刺痛；发麻；酥麻",
+  "examples": [
+    {
+      "sentence": "My fingers tingled after I came in from the snow.",
+      "style": "Contextual",
+      "translation": "从雪地里回来后，我的手指阵阵发麻。",
+      "translated_word": "发麻",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her whisper made the silence tingle.",
+      "style": "Poetic",
+      "translation": "她的低语让寂静也微微颤动。",
+      "translated_word": "颤动",
+      "display_order": 4
+    },
+    {
+      "sentence": "That first sip of hot cocoa tingles all the way down.",
+      "style": "Intimate",
+      "translation": "第一口热可可，一路酥麻到心底。",
+      "translated_word": "酥麻",
+      "display_order": 3
+    },
+    {
+      "sentence": "His scalp tingled with anticipation as the envelope was opened.",
+      "style": "Collocational",
+      "translation": "信封被拆开的瞬间，他的头皮因期待而微微发麻。",
+      "translated_word": "发麻",
+      "display_order": 2
+    }
+  ]
+}

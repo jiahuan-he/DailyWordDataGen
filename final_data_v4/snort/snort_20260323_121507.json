@@ -1,0 +1,40 @@
+{
+  "word": "snort",
+  "phonetic": "/snɔːrt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "哼；嗤；喷鼻息",
+  "examples": [
+    {
+      "sentence": "She snorted at the absurd excuse, crossing her arms.",
+      "style": "Contextual",
+      "translation": "她对这荒唐的借口嗤之以鼻，双臂交叉。",
+      "translated_word": "嗤之以鼻",
+      "display_order": 4
+    },
+    {
+      "sentence": "He snorted with laughter at the unexpected punchline.",
+      "style": "Collocational",
+      "translation": "听到那意外的笑点，他忍不住喷笑出声。",
+      "translated_word": "喷笑",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother would snort softly whenever she caught me lying.",
+      "style": "Intimate",
+      "translation": "每当我撒谎被识破，外婆总会轻轻哼一声。",
+      "translated_word": "哼",
+      "display_order": 2
+    },
+    {
+      "sentence": "The horse snorted into the cold morning air, breath rising like smoke.",
+      "style": "Poetic",
+      "translation": "马在清冷的晨光中喷出鼻息，呼气如烟雾般升腾。",
+      "translated_word": "喷出鼻息",
+      "display_order": 1
+    }
+  ]
+}

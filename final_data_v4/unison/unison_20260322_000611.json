@@ -1,0 +1,39 @@
+{
+  "word": "unison",
+  "phonetic": "/ˈjuːnɪsən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "齐声；一致；和谐",
+  "examples": [
+    {
+      "sentence": "The crowd chanted his name in unison, their voices shaking the stadium.",
+      "style": "Contextual",
+      "translation": "人群齐声高喊他的名字，声浪震动了整座球场。",
+      "translated_word": "齐声",
+      "display_order": 1
+    },
+    {
+      "sentence": "The rowers pulled in perfect unison, slicing through the morning mist.",
+      "style": "Collocational",
+      "translation": "桨手们动作整齐划一，破开晨雾疾驰向前。",
+      "translated_word": "整齐划一",
+      "display_order": 2
+    },
+    {
+      "sentence": "A thousand fireflies blinked in unison, and the meadow became a breathing constellation.",
+      "style": "Poetic",
+      "translation": "千只萤火虫同时明灭，草甸化作一片呼吸的星河。",
+      "translated_word": "同时",
+      "display_order": 3
+    },
+    {
+      "sentence": "True unison is not the silencing of individual voices, but their willing convergence.",
+      "style": "Philosophical",
+      "translation": "真正的一致，不是个体声音的消弭，而是它们心甘情愿的汇聚。",
+      "translated_word": "一致",
+      "display_order": 4
+    }
+  ]
+}

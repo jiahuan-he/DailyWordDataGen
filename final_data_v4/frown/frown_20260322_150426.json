@@ -1,0 +1,40 @@
+{
+  "word": "frown",
+  "phonetic": "/fraʊn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "皱眉；蹙额；不悦",
+  "examples": [
+    {
+      "sentence": "She frowned at the unfamiliar number before declining the call.",
+      "style": "Contextual",
+      "translation": "她皱眉看了一眼陌生号码，挂断了电话。",
+      "translated_word": "皱眉",
+      "display_order": 1
+    },
+    {
+      "sentence": "The old library frowns upon loud conversations.",
+      "style": "Collocational",
+      "translation": "这座老图书馆不允许大声交谈。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "The moon frowned through the clouds, pale and watchful.",
+      "style": "Poetic",
+      "translation": "月亮隐于云后，苍白而警觉地凝望着。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother never frowned at my failures; only at my excuses.",
+      "style": "Intimate",
+      "translation": "祖母从不因我的失败而蹙眉，只在我找借口时才会。",
+      "translated_word": "蹙眉",
+      "display_order": 2
+    }
+  ]
+}

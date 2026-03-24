@@ -1,0 +1,39 @@
+{
+  "word": "virus",
+  "phonetic": "/ˈvaɪrəs/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "病毒；病原体；祸害",
+  "examples": [
+    {
+      "sentence": "Health officials confirmed the virus had reached six countries within a single week.",
+      "style": "Formal",
+      "translation": "卫生官员证实，这一病毒在一周内已蔓延至六国。",
+      "translated_word": "病毒",
+      "display_order": 1
+    },
+    {
+      "sentence": "The attachment looked harmless, but it carried a virus that wiped his files.",
+      "style": "Contextual",
+      "translation": "那份附件看似无害，却携带了一个病毒，将他的文件悉数清空。",
+      "translated_word": "病毒",
+      "display_order": 3
+    },
+    {
+      "sentence": "Distrust spreads like a virus; one rumor can fracture years of goodwill.",
+      "style": "Philosophical",
+      "translation": "不信任如病毒般蔓延；一则谣言便能瓦解多年的情谊。",
+      "translated_word": "病毒",
+      "display_order": 4
+    },
+    {
+      "sentence": "The team worked around the clock to contain the virus before it mutated.",
+      "style": "Collocational",
+      "translation": "团队夜以继日地工作，力求在病毒变异前将其控制住。",
+      "translated_word": "病毒",
+      "display_order": 2
+    }
+  ]
+}

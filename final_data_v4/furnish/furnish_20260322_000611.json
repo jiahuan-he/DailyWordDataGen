@@ -1,0 +1,40 @@
+{
+  "word": "furnish",
+  "phonetic": "/ˈfɜːrnɪʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "布置家具；提供；供给",
+  "examples": [
+    {
+      "sentence": "They spent months furnishing the cottage with antiques found at local markets.",
+      "style": "Contextual",
+      "translation": "他们花了数月时间，用当地市集淘来的古董布置那间小屋。",
+      "translated_word": "布置",
+      "display_order": 1
+    },
+    {
+      "sentence": "The report furnishes compelling evidence for immediate policy reform.",
+      "style": "Formal",
+      "translation": "该报告为即刻推行政策改革提供了有力证据。",
+      "translated_word": "提供",
+      "display_order": 3
+    },
+    {
+      "sentence": "A fully furnished apartment; a room furnished with care.",
+      "style": "Collocational",
+      "translation": "精装公寓；用心布置的房间。",
+      "translated_word": "布置",
+      "display_order": 4
+    },
+    {
+      "sentence": "We furnished our first home with hand-me-downs and hope.",
+      "style": "Intimate",
+      "translation": "我们用旧物和期许，布置了第一个家。",
+      "translated_word": "布置",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "enduring",
+  "phonetic": "/ɪnˈdjʊərɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "持久的；永恒的；经久不衰的",
+  "examples": [
+    {
+      "sentence": "The enduring questions are the ones we never finish asking.",
+      "style": "Philosophical",
+      "translation": "永恒的问题，是我们永远问不完的问题。",
+      "translated_word": "永恒",
+      "display_order": 3
+    },
+    {
+      "sentence": "An enduring melody outlives the hands that played it.",
+      "style": "Poetic",
+      "translation": "不朽的旋律，比弹奏它的双手更为长久。",
+      "translated_word": "不朽",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her enduring patience shaped me more than any lesson could.",
+      "style": "Intimate",
+      "translation": "她持久的耐心，比任何教诲都更深刻地塑造了我。",
+      "translated_word": "持久",
+      "display_order": 2
+    },
+    {
+      "sentence": "The treaty established an enduring framework for regional cooperation.",
+      "style": "Formal",
+      "translation": "该条约为区域合作建立了持久的框架。",
+      "translated_word": "持久",
+      "display_order": 1
+    }
+  ]
+}

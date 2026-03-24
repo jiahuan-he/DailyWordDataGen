@@ -1,0 +1,40 @@
+{
+  "word": "complicate",
+  "phonetic": "/ˈkɑːmplɪkeɪt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使复杂化；使困难；使混乱",
+  "examples": [
+    {
+      "sentence": "His last-minute changes only complicate the project further.",
+      "style": "Contextual",
+      "translation": "他临时的改动只会让项目更加棘手。",
+      "translated_word": "棘手",
+      "display_order": 3
+    },
+    {
+      "sentence": "We complicate what we fear to understand.",
+      "style": "Philosophical",
+      "translation": "我们总把不敢理解的事物复杂化。",
+      "translated_word": "复杂化",
+      "display_order": 4
+    },
+    {
+      "sentence": "Don't complicate matters; just tell her the truth.",
+      "style": "Collocational",
+      "translation": "别把事情搞复杂了；直接告诉她真相。",
+      "translated_word": "搞复杂",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every answer I gave seemed to complicate things between us.",
+      "style": "Intimate",
+      "translation": "我的每一个回答，似乎都让我们之间变得更复杂。",
+      "translated_word": "复杂",
+      "display_order": 2
+    }
+  ]
+}

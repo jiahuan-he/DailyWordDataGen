@@ -1,0 +1,39 @@
+{
+  "word": "annul",
+  "phonetic": "/əˈnʌl/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "废除；宣告无效；取消",
+  "examples": [
+    {
+      "sentence": "The Supreme Court voted unanimously to annul the unconstitutional mandate.",
+      "style": "Formal",
+      "translation": "最高法院一致投票，废除了这项违宪的法令。",
+      "translated_word": "废除",
+      "display_order": 2
+    },
+    {
+      "sentence": "Upon discovering the forged signature, the judge annulled the contract.",
+      "style": "Contextual",
+      "translation": "发现伪造签名后，法官当即宣告合同无效。",
+      "translated_word": "无效",
+      "display_order": 1
+    },
+    {
+      "sentence": "Laws can annul a marriage; they cannot annul the years it held.",
+      "style": "Philosophical",
+      "translation": "法律可以废除一段婚姻，却无法抹去它承载的岁月。",
+      "translated_word": "废除",
+      "display_order": 3
+    },
+    {
+      "sentence": "Signing the papers to annul our union felt like erasing a name I once wrote in ink.",
+      "style": "Intimate",
+      "translation": "签下那份解除婚约的文书，像是擦去一个我曾用墨水写下的名字。",
+      "translated_word": "解除",
+      "display_order": 4
+    }
+  ]
+}

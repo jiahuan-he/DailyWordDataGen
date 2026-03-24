@@ -1,0 +1,39 @@
+{
+  "word": "herewith",
+  "phonetic": "/ˌhɪərˈwɪð/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "随函附上；特此；于此",
+  "examples": [
+    {
+      "sentence": "Please find the signed agreement herewith.",
+      "style": "Formal",
+      "translation": "随函附上已签署的协议，敬请查收。",
+      "translated_word": "随函",
+      "display_order": 1
+    },
+    {
+      "sentence": "I herewith submit my resignation, effective next month.",
+      "style": "Contextual",
+      "translation": "本人特此提交辞呈，下月起生效。",
+      "translated_word": "特此",
+      "display_order": 2
+    },
+    {
+      "sentence": "Enclosed herewith are the receipts for your records.",
+      "style": "Collocational",
+      "translation": "随函附上收据，以供存档。",
+      "translated_word": "随函",
+      "display_order": 4
+    },
+    {
+      "sentence": "We herewith confirm your reservation; no further action is required.",
+      "style": "Contrastive",
+      "translation": "我们特此确认您的预订；无需其他操作。",
+      "translated_word": "特此",
+      "display_order": 3
+    }
+  ]
+}

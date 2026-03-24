@@ -1,0 +1,40 @@
+{
+  "word": "sow",
+  "phonetic": "/soʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "播种；散布；引起",
+  "examples": [
+    {
+      "sentence": "The farmer sowed wheat across the field before the rains came.",
+      "style": "Contextual",
+      "translation": "农夫赶在雨季前将麦种撒遍田野。",
+      "translated_word": "撒",
+      "display_order": 1
+    },
+    {
+      "sentence": "We sow habits; we harvest character.",
+      "style": "Philosophical",
+      "translation": "播下习惯，收获品格。",
+      "translated_word": "播下",
+      "display_order": 4
+    },
+    {
+      "sentence": "Spring arrived, and she sowed wildflowers into the quiet earth.",
+      "style": "Poetic",
+      "translation": "春至，她将野花的种子托付给静默的大地。",
+      "translated_word": "托付",
+      "display_order": 2
+    },
+    {
+      "sentence": "Careless words can sow doubt in even the strongest bonds.",
+      "style": "Collocational",
+      "translation": "轻率之言，能在最牢固的情谊中埋下猜疑。",
+      "translated_word": "埋下",
+      "display_order": 3
+    }
+  ]
+}

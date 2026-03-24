@@ -1,0 +1,39 @@
+{
+  "word": "explicable",
+  "phonetic": "/ɪkˈsplɪkəbl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "可解释的；能说明的",
+  "examples": [
+    {
+      "sentence": "Her sudden silence became explicable once we learned the truth.",
+      "style": "Contextual",
+      "translation": "得知真相后，她突然的沉默便有了解释。",
+      "translated_word": "解释",
+      "display_order": 2
+    },
+    {
+      "sentence": "The surge in demand is explicable given the recent policy shift.",
+      "style": "Formal",
+      "translation": "考虑到近期政策变动，需求激增是可以解释的。",
+      "translated_word": "可以解释",
+      "display_order": 1
+    },
+    {
+      "sentence": "Most failures are explicable; success often defies logic.",
+      "style": "Contrastive",
+      "translation": "多数失败可寻因由；成功却常不合逻辑。",
+      "translated_word": "可寻因由",
+      "display_order": 3
+    },
+    {
+      "sentence": "We crave the explicable, yet live for the moments that leave us speechless.",
+      "style": "Philosophical",
+      "translation": "我们渴求可解释之事，却为那些让人哑然的瞬间而活。",
+      "translated_word": "可解释",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "eyewitness",
+  "phonetic": "/ˈaɪˌwɪtnəs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "目击者；见证人；亲历者",
+  "examples": [
+    {
+      "sentence": "The police interviewed every eyewitness at the scene.",
+      "style": "Contextual",
+      "translation": "警方询问了现场的每一位目击者。",
+      "translated_word": "目击者",
+      "display_order": 1
+    },
+    {
+      "sentence": "Eyewitness accounts often diverge, yet each believes in their own truth.",
+      "style": "Philosophical",
+      "translation": "目击者的陈述常常相左，然而每个人都深信自己的真相。",
+      "translated_word": "目击者",
+      "display_order": 4
+    },
+    {
+      "sentence": "As the sole eyewitness, her testimony shaped the verdict.",
+      "style": "Formal",
+      "translation": "作为唯一的目击者，她的证词左右了判决。",
+      "translated_word": "目击者",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother was an eyewitness to the city's liberation in 1945.",
+      "style": "Intimate",
+      "translation": "我的祖母曾亲眼见证1945年这座城市的解放。",
+      "translated_word": "亲眼见证",
+      "display_order": 3
+    }
+  ]
+}

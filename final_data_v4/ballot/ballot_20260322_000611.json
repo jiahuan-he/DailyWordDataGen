@@ -1,0 +1,40 @@
+{
+  "word": "ballot",
+  "phonetic": "/ˈbælət/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "选票；投票；表决",
+  "examples": [
+    {
+      "sentence": "She folded her ballot twice before placing it in the box.",
+      "style": "Contextual",
+      "translation": "她将选票对折两次，轻轻放入票箱。",
+      "translated_word": "选票",
+      "display_order": 1
+    },
+    {
+      "sentence": "Election officials began counting ballots shortly after polls closed.",
+      "style": "Formal",
+      "translation": "投票站关闭后，选举官员随即开始计票。",
+      "translated_word": "票",
+      "display_order": 2
+    },
+    {
+      "sentence": "A single ballot is a whisper; together, they become a verdict.",
+      "style": "Philosophical",
+      "translation": "一张选票是低语；汇聚起来，便成了裁决。",
+      "translated_word": "选票",
+      "display_order": 4
+    },
+    {
+      "sentence": "At seventy, my grandmother cast her first ballot, her hands steady with purpose.",
+      "style": "Intimate",
+      "translation": "七十岁那年，祖母投下了人生第一张选票，双手沉稳而坚定。",
+      "translated_word": "选票",
+      "display_order": 3
+    }
+  ]
+}

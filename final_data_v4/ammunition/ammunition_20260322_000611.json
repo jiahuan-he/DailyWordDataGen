@@ -1,0 +1,40 @@
+{
+  "word": "ammunition",
+  "phonetic": "/ˌæmjuˈnɪʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "弹药；军火；论据",
+  "examples": [
+    {
+      "sentence": "The soldiers counted their ammunition twice before crossing the border.",
+      "style": "Contextual",
+      "translation": "士兵们在越境前将弹药清点了两遍。",
+      "translated_word": "弹药",
+      "display_order": 1
+    },
+    {
+      "sentence": "The leaked documents gave opposition leaders fresh ammunition against the policy.",
+      "style": "Formal",
+      "translation": "泄露的文件为反对派领袖提供了攻击该政策的新把柄。",
+      "translated_word": "把柄",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her calm composure left the critics without ammunition.",
+      "style": "Collocational",
+      "translation": "她从容淡定的姿态让批评者无话可说。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "In arguments, listening often yields more ammunition than speaking.",
+      "style": "Philosophical",
+      "translation": "争论中，倾听往往比言说更能找到突破口。",
+      "translated_word": "突破口",
+      "display_order": 4
+    }
+  ]
+}

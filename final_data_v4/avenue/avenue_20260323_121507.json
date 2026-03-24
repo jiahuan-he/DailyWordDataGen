@@ -1,0 +1,39 @@
+{
+  "word": "avenue",
+  "phonetic": "/ˈævənjuː/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "大道；林荫道；途径",
+  "examples": [
+    {
+      "sentence": "Oak trees lined the avenue, their branches forming a canopy overhead.",
+      "style": "Contextual",
+      "translation": "橡树夹道而立，枝叶在头顶交织成荫。",
+      "translated_word": "道",
+      "display_order": 1
+    },
+    {
+      "sentence": "The committee is exploring every avenue to resolve the crisis.",
+      "style": "Formal",
+      "translation": "委员会正在探索一切途径以解决这场危机。",
+      "translated_word": "途径",
+      "display_order": 3
+    },
+    {
+      "sentence": "This partnership opens new avenues for collaboration.",
+      "style": "Collocational",
+      "translation": "这一合作为双方开辟了新的协作途径。",
+      "translated_word": "途径",
+      "display_order": 4
+    },
+    {
+      "sentence": "Autumn paints the avenue gold, leaf by falling leaf.",
+      "style": "Poetic",
+      "translation": "秋日将林荫道染成金色，落叶一片一片飘然而下。",
+      "translated_word": "林荫道",
+      "display_order": 2
+    }
+  ]
+}

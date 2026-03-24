@@ -1,0 +1,40 @@
+{
+  "word": "hormone",
+  "phonetic": "/ˈhɔːrmoʊn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "激素；荷尔蒙",
+  "examples": [
+    {
+      "sentence": "Her doctor explained that the hormone imbalance was causing her fatigue.",
+      "style": "Contextual",
+      "translation": "医生解释说，激素失调正是她疲惫的根源。",
+      "translated_word": "激素",
+      "display_order": 1
+    },
+    {
+      "sentence": "New research links elevated stress hormones to increased risk of heart disease.",
+      "style": "Formal",
+      "translation": "最新研究表明，应激激素水平升高与心脏病风险增加密切相关。",
+      "translated_word": "激素",
+      "display_order": 3
+    },
+    {
+      "sentence": "Cortisol, often called the stress hormone, spikes when we feel threatened.",
+      "style": "Collocational",
+      "translation": "皮质醇常被称为压力激素，在我们感到威胁时会急剧上升。",
+      "translated_word": "激素",
+      "display_order": 2
+    },
+    {
+      "sentence": "At sixteen, my hormones were a storm I could not name.",
+      "style": "Intimate",
+      "translation": "十六岁那年，体内的荷尔蒙如风暴般翻涌，我却无从言说。",
+      "translated_word": "荷尔蒙",
+      "display_order": 4
+    }
+  ]
+}

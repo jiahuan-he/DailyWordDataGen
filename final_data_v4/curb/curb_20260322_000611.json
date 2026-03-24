@@ -1,0 +1,40 @@
+{
+  "word": "curb",
+  "phonetic": "/kɜːrb/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "抑制；遏制；控制；约束",
+  "examples": [
+    {
+      "sentence": "The new legislation seeks to curb urban sprawl.",
+      "style": "Formal",
+      "translation": "新立法旨在遏制城市无序扩张。",
+      "translated_word": "遏制",
+      "display_order": 2
+    },
+    {
+      "sentence": "A short walk helps curb my afternoon cravings.",
+      "style": "Collocational",
+      "translation": "散个步能帮我抑制下午的嘴馋。",
+      "translated_word": "抑制",
+      "display_order": 1
+    },
+    {
+      "sentence": "Wisdom begins when we learn to curb reaction and choose response.",
+      "style": "Philosophical",
+      "translation": "智慧始于学会克制本能反应，转而主动回应。",
+      "translated_word": "克制",
+      "display_order": 4
+    },
+    {
+      "sentence": "At thirty, I finally learned to curb my need to be right.",
+      "style": "Intimate",
+      "translation": "三十岁那年，我终于学会了不再执着于争对错。",
+      "translated_word": "不再执着",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "jot",
+  "phonetic": "/dʒɒt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "匆匆记下；草草写下；速记",
+  "examples": [
+    {
+      "sentence": "She jotted the address on her palm before the battery died.",
+      "style": "Contextual",
+      "translation": "手机没电前，她把地址匆匆写在掌心。",
+      "translated_word": "匆匆写",
+      "display_order": 2
+    },
+    {
+      "sentence": "Jot it down now; your mind will betray you by morning.",
+      "style": "Inspirational",
+      "translation": "现在就记下来吧；到了早晨，记忆会背叛你。",
+      "translated_word": "记下来",
+      "display_order": 3
+    },
+    {
+      "sentence": "He jotted a few words on a napkin and slid it across the table.",
+      "style": "Collocational",
+      "translation": "他在餐巾纸上草草写了几个字，推到桌子对面。",
+      "translated_word": "草草写",
+      "display_order": 1
+    },
+    {
+      "sentence": "The best lines come at 3 a.m.; I jot them half-asleep, trusting the ink.",
+      "style": "Intimate",
+      "translation": "最好的句子总在凌晨三点降临；我半梦半醒地记下，把一切交给墨水。",
+      "translated_word": "记下",
+      "display_order": 4
+    }
+  ]
+}

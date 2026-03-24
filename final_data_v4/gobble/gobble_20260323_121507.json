@@ -1,0 +1,40 @@
+{
+  "word": "gobble",
+  "phonetic": "/ˈɡɑːbl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "狼吞虎咽；大口吃；吞并",
+  "examples": [
+    {
+      "sentence": "The kids gobbled their breakfast and rushed out the door.",
+      "style": "Contextual",
+      "translation": "孩子们狼吞虎咽地吃完早餐，冲出了门。",
+      "translated_word": "狼吞虎咽",
+      "display_order": 1
+    },
+    {
+      "sentence": "The tech giant gobbled up three competitors in a single quarter.",
+      "style": "Collocational",
+      "translation": "这家科技巨头在一个季度内吞并了三家竞争对手。",
+      "translated_word": "吞并",
+      "display_order": 3
+    },
+    {
+      "sentence": "My little brother gobbled his birthday cake so fast he got frosting on his nose.",
+      "style": "Intimate",
+      "translation": "弟弟大口吃着生日蛋糕，奶油蹭到了鼻尖上。",
+      "translated_word": "大口吃",
+      "display_order": 2
+    },
+    {
+      "sentence": "Cities gobble the forests that once held birdsong.",
+      "style": "Poetic",
+      "translation": "城市吞噬了曾经回响着鸟鸣的森林。",
+      "translated_word": "吞噬",
+      "display_order": 4
+    }
+  ]
+}

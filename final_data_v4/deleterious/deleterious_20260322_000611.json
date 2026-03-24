@@ -1,0 +1,39 @@
+{
+  "word": "deleterious",
+  "phonetic": "/ˌdelɪˈtɪəriəs/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有害的；损害的；有毒的",
+  "examples": [
+    {
+      "sentence": "The committee cited deleterious effects on local wildlife as grounds for denial.",
+      "style": "Formal",
+      "translation": "委员会以对本地野生动物的有害影响为由，驳回了该申请。",
+      "translated_word": "有害",
+      "display_order": 4
+    },
+    {
+      "sentence": "Chronic sleep deprivation is deleterious to both memory and mood.",
+      "style": "Contextual",
+      "translation": "长期睡眠不足对记忆力和情绪都有损害。",
+      "translated_word": "损害",
+      "display_order": 1
+    },
+    {
+      "sentence": "Scientists documented the deleterious impact of noise pollution on whale communication.",
+      "style": "Collocational",
+      "translation": "科学家记录了噪音污染对鲸类交流的有害影响。",
+      "translated_word": "有害",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sugar offers quick energy, yet its long-term effects are deleterious.",
+      "style": "Contrastive",
+      "translation": "糖能迅速提供能量，但长期影响却有害健康。",
+      "translated_word": "有害",
+      "display_order": 2
+    }
+  ]
+}

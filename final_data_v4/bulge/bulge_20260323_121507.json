@@ -1,0 +1,40 @@
+{
+  "word": "bulge",
+  "phonetic": "/bʌldʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "凸起；鼓包；隆起",
+  "examples": [
+    {
+      "sentence": "The keys left a noticeable bulge in his coat pocket.",
+      "style": "Contextual",
+      "translation": "钥匙在他外套口袋里留下一个明显的凸起。",
+      "translated_word": "凸起",
+      "display_order": 1
+    },
+    {
+      "sentence": "A suspicious bulge in his jacket caught the guard's attention.",
+      "style": "Collocational",
+      "translation": "他夹克上可疑的鼓包引起了保安的注意。",
+      "translated_word": "鼓包",
+      "display_order": 3
+    },
+    {
+      "sentence": "Clouds gathered in soft bulges along the evening horizon.",
+      "style": "Poetic",
+      "translation": "云朵沿着暮色天际柔柔地隆起。",
+      "translated_word": "隆起",
+      "display_order": 4
+    },
+    {
+      "sentence": "That small bulge in Grandma's apron pocket always held candies for me.",
+      "style": "Intimate",
+      "translation": "奶奶围裙口袋里那个小鼓包，总是藏着给我的糖果。",
+      "translated_word": "鼓包",
+      "display_order": 2
+    }
+  ]
+}

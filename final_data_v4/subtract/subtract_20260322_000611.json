@@ -1,0 +1,39 @@
+{
+  "word": "subtract",
+  "phonetic": "/səbˈtrækt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "减去；扣除；削减",
+  "examples": [
+    {
+      "sentence": "Subtract the deposit, and you owe sixty dollars.",
+      "style": "Contextual",
+      "translation": "扣除押金后，你还欠六十美元。",
+      "translated_word": "扣除",
+      "display_order": 2
+    },
+    {
+      "sentence": "The fee will be subtracted from your final payout.",
+      "style": "Collocational",
+      "translation": "这笔费用将从你的最终款项中扣除。",
+      "translated_word": "扣除",
+      "display_order": 1
+    },
+    {
+      "sentence": "Subtract the noise, and what remains is the truth.",
+      "style": "Philosophical",
+      "translation": "删去喧嚣，留下的便是真相。",
+      "translated_word": "删去",
+      "display_order": 4
+    },
+    {
+      "sentence": "Growth often begins when we subtract, not add.",
+      "style": "Inspirational",
+      "translation": "成长往往始于做减法，而非加法。",
+      "translated_word": "减法",
+      "display_order": 3
+    }
+  ]
+}

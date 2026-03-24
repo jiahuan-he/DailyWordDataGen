@@ -1,0 +1,39 @@
+{
+  "word": "anatomy",
+  "phonetic": "/əˈnætəmi/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "解剖学；身体结构；剖析",
+  "examples": [
+    {
+      "sentence": "In medical school, anatomy was the first language we learned to speak.",
+      "style": "Contextual",
+      "translation": "医学院里，解剖学是我们学会的第一门语言。",
+      "translated_word": "解剖学",
+      "display_order": 2
+    },
+    {
+      "sentence": "The report examines the anatomy of the data breach that exposed millions.",
+      "style": "Formal",
+      "translation": "该报告剖析了这起波及数百万人的数据泄露事件。",
+      "translated_word": "剖析",
+      "display_order": 4
+    },
+    {
+      "sentence": "Understanding the anatomy of fear is the first step toward conquering it.",
+      "style": "Philosophical",
+      "translation": "理解恐惧的构造，是战胜它的第一步。",
+      "translated_word": "构造",
+      "display_order": 3
+    },
+    {
+      "sentence": "Artists study anatomy not to replicate the body, but to breathe life into it.",
+      "style": "Collocational",
+      "translation": "艺术家研习解剖，不是为了复刻躯体，而是为了赋予它生命。",
+      "translated_word": "解剖",
+      "display_order": 1
+    }
+  ]
+}

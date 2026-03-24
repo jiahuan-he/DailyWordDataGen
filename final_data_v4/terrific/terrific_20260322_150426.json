@@ -1,0 +1,39 @@
+{
+  "word": "terrific",
+  "phonetic": "/təˈrɪfɪk/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "极好的；了不起的；惊人的",
+  "examples": [
+    {
+      "sentence": "The band played a terrific set; the crowd wouldn't stop cheering.",
+      "style": "Contextual",
+      "translation": "乐队演出精彩绝伦，观众欢呼不止。",
+      "translated_word": "精彩",
+      "display_order": 2
+    },
+    {
+      "sentence": "She has a terrific sense of humor.",
+      "style": "Collocational",
+      "translation": "她的幽默感非常出色。",
+      "translated_word": "出色",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother made terrific dumplings; no restaurant has matched them since.",
+      "style": "Intimate",
+      "translation": "外婆包的饺子绝顶美味，此后再无餐厅能及。",
+      "translated_word": "美味",
+      "display_order": 3
+    },
+    {
+      "sentence": "Small steps, taken daily, lead to terrific change.",
+      "style": "Inspirational",
+      "translation": "日积跬步，终成惊人之变。",
+      "translated_word": "惊人",
+      "display_order": 4
+    }
+  ]
+}

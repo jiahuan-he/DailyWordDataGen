@@ -1,0 +1,40 @@
+{
+  "word": "hut",
+  "phonetic": "/hʌt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "小屋；棚屋；简陋住所",
+  "examples": [
+    {
+      "sentence": "The fishermen stored their nets in a weathered hut by the shore.",
+      "style": "Contextual",
+      "translation": "渔民们把渔网存放在岸边一间饱经风霜的小屋里。",
+      "translated_word": "小屋",
+      "display_order": 1
+    },
+    {
+      "sentence": "Smoke rose from the hut's chimney, stitching earth to sky.",
+      "style": "Poetic",
+      "translation": "炊烟从小屋的烟囱升起，将大地与天空缝合。",
+      "translated_word": "小屋",
+      "display_order": 4
+    },
+    {
+      "sentence": "We rented a ski hut for the weekend, just steps from the slopes.",
+      "style": "Collocational",
+      "translation": "我们租了一间滑雪小屋过周末，距雪道仅几步之遥。",
+      "translated_word": "小屋",
+      "display_order": 3
+    },
+    {
+      "sentence": "That beach hut held our whole summer: sandy floors, salt-streaked windows, and endless laughter.",
+      "style": "Intimate",
+      "translation": "那间海边小屋承载了我们整个夏天：沙粒铺地，盐渍斑窗，笑声不断。",
+      "translated_word": "小屋",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "flank",
+  "phonetic": "/flæŋk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "侧面；侧腹；翼侧",
+  "examples": [
+    {
+      "sentence": "The horse's flank glistened with sweat after the race.",
+      "style": "Contextual",
+      "translation": "赛后，马匹的侧腹闪着汗光。",
+      "translated_word": "侧腹",
+      "display_order": 1
+    },
+    {
+      "sentence": "Enemy forces advanced on the regiment's exposed flank.",
+      "style": "Formal",
+      "translation": "敌军向该团暴露的侧翼发起进攻。",
+      "translated_word": "侧翼",
+      "display_order": 3
+    },
+    {
+      "sentence": "She ordered the flank steak, seared rare with chimichurri.",
+      "style": "Collocational",
+      "translation": "她点了牛腹肉，三分熟，配阿根廷青酱。",
+      "translated_word": "腹肉",
+      "display_order": 2
+    },
+    {
+      "sentence": "Morning mist clung to the mountain's flank, veiling the pines below.",
+      "style": "Poetic",
+      "translation": "晨雾缠绕山侧，遮掩了山下的松林。",
+      "translated_word": "侧",
+      "display_order": 4
+    }
+  ]
+}

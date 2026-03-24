@@ -1,0 +1,40 @@
+{
+  "word": "careen",
+  "phonetic": "/kəˈriːn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "急冲；摇摆；倾斜",
+  "examples": [
+    {
+      "sentence": "The shopping cart careened across the lot, out of anyone's reach.",
+      "style": "Contextual",
+      "translation": "购物车在停车场里横冲直撞，谁也够不着。",
+      "translated_word": "横冲直撞",
+      "display_order": 2
+    },
+    {
+      "sentence": "Autumn leaves careen through empty alleys, restless and free.",
+      "style": "Poetic",
+      "translation": "落叶在空巷中翻涌，躁动而自由。",
+      "translated_word": "翻涌",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her laugh careened through the kitchen; she had found my hidden notes.",
+      "style": "Intimate",
+      "translation": "她的笑声冲进厨房；她发现了我藏的小纸条。",
+      "translated_word": "冲进",
+      "display_order": 3
+    },
+    {
+      "sentence": "The bus careened around the bend, passengers gripping their seats.",
+      "style": "Collocational",
+      "translation": "大巴在弯道处猛然侧倾，乘客们紧抓座椅。",
+      "translated_word": "侧倾",
+      "display_order": 1
+    }
+  ]
+}

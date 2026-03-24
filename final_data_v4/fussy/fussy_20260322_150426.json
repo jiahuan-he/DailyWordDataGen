@@ -1,0 +1,39 @@
+{
+  "word": "fussy",
+  "phonetic": "/ˈfʌsi/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "挑剔；难伺候；过于讲究",
+  "examples": [
+    {
+      "sentence": "The fussy customer examined every seam before accepting the dress.",
+      "style": "Contextual",
+      "translation": "挑剔的顾客逐条检查接缝后，才肯收下那件裙子。",
+      "translated_word": "挑剔",
+      "display_order": 1
+    },
+    {
+      "sentence": "My nephew is a fussy eater; vegetables never stood a chance.",
+      "style": "Collocational",
+      "translation": "我侄子是个挑食的孩子；蔬菜在他那儿从来没戏。",
+      "translated_word": "挑食",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother was fussy about her tea: the water, the timing, the cup.",
+      "style": "Intimate",
+      "translation": "外婆对喝茶极为讲究：水温、时间、杯子，样样都有她的规矩。",
+      "translated_word": "讲究",
+      "display_order": 2
+    },
+    {
+      "sentence": "He isn't difficult; he's simply fussy about things that matter to him.",
+      "style": "Contrastive",
+      "translation": "他不是难相处，只是对在意的事情格外讲究。",
+      "translated_word": "讲究",
+      "display_order": 4
+    }
+  ]
+}

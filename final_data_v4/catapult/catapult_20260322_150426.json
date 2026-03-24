@@ -1,0 +1,40 @@
+{
+  "word": "catapult",
+  "phonetic": "/ˈkætəpʌlt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "弹射；猛抛；使一跃成名",
+  "examples": [
+    {
+      "sentence": "One viral video catapulted her from obscurity to millions of followers.",
+      "style": "Contextual",
+      "translation": "一条爆款视频让她从默默无闻一跃成为百万博主。",
+      "translated_word": "一跃",
+      "display_order": 2
+    },
+    {
+      "sentence": "The scandal catapulted the small-town mayor onto the national stage.",
+      "style": "Formal",
+      "translation": "这桩丑闻将小镇市长推上了全国舞台。",
+      "translated_word": "推上",
+      "display_order": 1
+    },
+    {
+      "sentence": "Spring arrived, and the wind catapulted cherry petals into the morning light.",
+      "style": "Poetic",
+      "translation": "春至，风将樱瓣抛向晨光。",
+      "translated_word": "抛",
+      "display_order": 4
+    },
+    {
+      "sentence": "Fear held me back for years; one leap of faith catapulted me forward.",
+      "style": "Inspirational",
+      "translation": "恐惧曾困住我多年；一次纵身一跃，将我推向前方。",
+      "translated_word": "推向",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "assembly",
+  "phonetic": "/əˈsembli/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "集会；议会；组装；装配",
+  "examples": [
+    {
+      "sentence": "The morning assembly quieted as the principal approached the microphone.",
+      "style": "Contextual",
+      "translation": "晨会安静下来，校长走向了麦克风。",
+      "translated_word": "会",
+      "display_order": 1
+    },
+    {
+      "sentence": "The General Assembly convened to address the escalating refugee crisis.",
+      "style": "Formal",
+      "translation": "联合国大会召开会议，商讨日益严峻的难民危机。",
+      "translated_word": "大会",
+      "display_order": 2
+    },
+    {
+      "sentence": "Each car moved through the assembly line in exactly forty-seven seconds.",
+      "style": "Collocational",
+      "translation": "每辆汽车在流水线上的停留时间恰好四十七秒。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "An assembly is strangers choosing, for a moment, to become something larger.",
+      "style": "Philosophical",
+      "translation": "集会，是陌生人在某一刻选择成为更大的整体。",
+      "translated_word": "集会",
+      "display_order": 3
+    }
+  ]
+}

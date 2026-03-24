@@ -1,0 +1,40 @@
+{
+  "word": "fantastic",
+  "phonetic": "/fænˈtæstɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "极好的；奇妙的；不可思议的",
+  "examples": [
+    {
+      "sentence": "The view from the summit was fantastic; we stood there speechless.",
+      "style": "Contextual",
+      "translation": "山顶的景色美得惊人，我们久久无言。",
+      "translated_word": "惊人",
+      "display_order": 1
+    },
+    {
+      "sentence": "She has a fantastic eye for detail.",
+      "style": "Collocational",
+      "translation": "她对细节有着极好的洞察力。",
+      "translated_word": "极好",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every setback holds a fantastic chance to rebuild stronger.",
+      "style": "Inspirational",
+      "translation": "每一次挫折都蕴含着重塑自我的绝佳契机。",
+      "translated_word": "绝佳",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother made fantastic dumplings; her recipe lives on in my kitchen.",
+      "style": "Intimate",
+      "translation": "外婆的饺子好吃极了；如今那份味道在我的厨房里延续。",
+      "translated_word": "好吃极了",
+      "display_order": 2
+    }
+  ]
+}

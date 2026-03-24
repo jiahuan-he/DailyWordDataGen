@@ -1,0 +1,41 @@
+{
+  "word": "harrow",
+  "phonetic": "/ˈhæroʊ/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使痛苦；折磨；使苦恼",
+  "examples": [
+    {
+      "sentence": "The documentary harrowed viewers with footage of the aftermath.",
+      "style": "Contextual",
+      "translation": "那部纪录片用灾后的影像深深刺痛了观众。",
+      "translated_word": "刺痛",
+      "display_order": 1
+    },
+    {
+      "sentence": "What harrows us most is not the loss, but the silence that follows.",
+      "style": "Philosophical",
+      "translation": "最令人痛苦的不是失去本身，而是随之而来的沉默。",
+      "translated_word": "痛苦",
+      "display_order": 3
+    },
+    {
+      "sentence": "His voice harrowed the quiet room like winter through cracked glass.",
+      "style": "Poetic",
+      "translation": "他的声音撕裂了寂静的房间，如寒风穿透碎裂的玻璃。",
+      "translated_word": "撕裂",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her letter harrowed me for weeks; I could not unread her goodbye.",
+      "style": "Intimate",
+      "translation": "她的信折磨了我数周；那句告别，我再也无法忘却。",
+      "translated_word": "折磨",
+      "display_order": 2
+    }
+  ]
+}

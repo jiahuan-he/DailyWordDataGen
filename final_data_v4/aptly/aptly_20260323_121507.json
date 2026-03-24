@@ -1,0 +1,39 @@
+{
+  "word": "aptly",
+  "phonetic": "/ˈæptli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "恰当地；贴切地；适时地",
+  "examples": [
+    {
+      "sentence": "The café is aptly named Refuge; it feels like an escape from the city.",
+      "style": "Contextual",
+      "translation": "这家咖啡馆名为「避风港」，确实恰如其名，让人暂离城市喧嚣。",
+      "translated_word": "恰如其名",
+      "display_order": 2
+    },
+    {
+      "sentence": "The report aptly summarized a decade of climate research in three pages.",
+      "style": "Formal",
+      "translation": "这份报告用三页篇幅精准概括了十年的气候研究成果。",
+      "translated_word": "精准",
+      "display_order": 1
+    },
+    {
+      "sentence": "She aptly described their friendship as a slow-burning fire.",
+      "style": "Collocational",
+      "translation": "她将两人的友谊贴切地形容为一团文火，缓慢而持久。",
+      "translated_word": "贴切地",
+      "display_order": 3
+    },
+    {
+      "sentence": "We rarely notice when words aptly capture what we feel until we hear them spoken.",
+      "style": "Philosophical",
+      "translation": "唯有听到那些话被说出口，我们才惊觉它们恰好道出了心中所想。",
+      "translated_word": "恰好",
+      "display_order": 4
+    }
+  ]
+}

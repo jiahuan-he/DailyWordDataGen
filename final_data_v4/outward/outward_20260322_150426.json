@@ -1,0 +1,42 @@
+{
+  "word": "outward",
+  "phonetic": "/ˈaʊtwərd/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "外在的；外表的；向外的",
+  "examples": [
+    {
+      "sentence": "Her outward calm never wavered during the interview.",
+      "style": "Contextual",
+      "translation": "面试全程，她外在的镇定从未动摇。",
+      "translated_word": "外在的",
+      "display_order": 1
+    },
+    {
+      "sentence": "Outward charm fades; character endures.",
+      "style": "Contrastive",
+      "translation": "外在的魅力会消退，品格却能长存。",
+      "translated_word": "外在的",
+      "display_order": 2
+    },
+    {
+      "sentence": "Children read outward expressions before they learn words.",
+      "style": "Philosophical",
+      "translation": "孩子在学会语言之前，先读懂了人的神情。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "That winter, my outward composure was the only armor I had.",
+      "style": "Intimate",
+      "translation": "那年冬天，表面的从容是我仅有的铠甲。",
+      "translated_word": "表面的",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "demonstrative",
+  "phonetic": "/dɪˈmɑːnstrətɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "感情外露的；善于表达情感的；表明的",
+  "examples": [
+    {
+      "sentence": "He wasn't demonstrative, but his quiet presence said everything.",
+      "style": "Contextual",
+      "translation": "他不善言辞，但沉默的陪伴已胜过千言万语。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Some families are demonstrative; others speak love through action alone.",
+      "style": "Contrastive",
+      "translation": "有些家庭热情外放，有些则仅以行动诉说爱意。",
+      "translated_word": "热情外放",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother was never demonstrative, yet I felt her love in every folded blanket.",
+      "style": "Intimate",
+      "translation": "外婆从不表露情感，但每一床叠好的被子里都藏着她的爱。",
+      "translated_word": "表露",
+      "display_order": 2
+    },
+    {
+      "sentence": "The least demonstrative people often carry the deepest wells of feeling.",
+      "style": "Philosophical",
+      "translation": "最不外露的人，往往内心藏着最深的情感。",
+      "translated_word": "外露",
+      "display_order": 3
+    }
+  ]
+}

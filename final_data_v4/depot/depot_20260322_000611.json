@@ -1,0 +1,39 @@
+{
+  "word": "depot",
+  "phonetic": "/ˈdiːpoʊ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "仓库；车站；补给站",
+  "examples": [
+    {
+      "sentence": "The buses return to the depot each night for inspection.",
+      "style": "Contextual",
+      "translation": "每晚，公交车都会返回车库接受检修。",
+      "translated_word": "车库",
+      "display_order": 1
+    },
+    {
+      "sentence": "City officials announced plans to restore the historic train depot.",
+      "style": "Formal",
+      "translation": "市政官员宣布将修复这座历史悠久的火车站。",
+      "translated_word": "站",
+      "display_order": 2
+    },
+    {
+      "sentence": "The supply depot was strategically located near the front lines.",
+      "style": "Collocational",
+      "translation": "补给站被战略性地设置在前线附近。",
+      "translated_word": "站",
+      "display_order": 3
+    },
+    {
+      "sentence": "That old bus depot still smells of diesel and my father's work coat.",
+      "style": "Intimate",
+      "translation": "那座旧车站至今仍弥漫着柴油味，和父亲工装上的气息。",
+      "translated_word": "车站",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "word": "tautological",
+  "phonetic": "/ˌtɔːtəˈlɒdʒɪkəl/",
+  "pos": [],
+  "selected_pos": "adjective",
+  "definition": "同义反复的；赘述的；循环论证的",
+  "examples": [
+    {
+      "sentence": "Saying 'free gift' is tautological; all gifts are free by definition.",
+      "style": "Contextual",
+      "translation": "\"免费礼物\"是同义反复；礼物本就无需付费。",
+      "translated_word": "同义反复",
+      "display_order": 1
+    },
+    {
+      "sentence": "Critics dismissed the proposal as tautological, restating its premise as proof.",
+      "style": "Formal",
+      "translation": "批评者认为该提案不过是循环论证，将前提本身当作了证据。",
+      "translated_word": "循环论证",
+      "display_order": 3
+    },
+    {
+      "sentence": "Precision demands more than tautological truths; it demands insight.",
+      "style": "Contrastive",
+      "translation": "精确不止于同义反复的正确，更在于洞见。",
+      "translated_word": "同义反复",
+      "display_order": 4
+    },
+    {
+      "sentence": "The safest arguments are often the most tautological: true, yet empty.",
+      "style": "Philosophical",
+      "translation": "最安全的论点往往最空洞：正确，却无所言说。",
+      "translated_word": "空洞",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "sharply",
+  "phonetic": "/ˈʃɑːrpli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "急剧地；尖锐地；鲜明地；陡然",
+  "examples": [
+    {
+      "sentence": "The temperature dropped sharply after sunset.",
+      "style": "Contextual",
+      "translation": "日落之后，气温骤降。",
+      "translated_word": "骤",
+      "display_order": 1
+    },
+    {
+      "sentence": "Stock prices fell sharply amid growing economic uncertainty.",
+      "style": "Formal",
+      "translation": "在经济不确定性加剧之际，股价大幅下跌。",
+      "translated_word": "大幅",
+      "display_order": 4
+    },
+    {
+      "sentence": "She spoke sharply, not softly as I had expected.",
+      "style": "Contrastive",
+      "translation": "她说话尖刻，并非我预想中的温柔。",
+      "translated_word": "尖刻",
+      "display_order": 3
+    },
+    {
+      "sentence": "The mountain rose sharply against the pale morning sky.",
+      "style": "Poetic",
+      "translation": "山峰陡然耸立，映衬着苍白的晨空。",
+      "translated_word": "陡然",
+      "display_order": 2
+    }
+  ]
+}

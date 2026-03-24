@@ -1,0 +1,40 @@
+{
+  "word": "leftover",
+  "phonetic": "/ˈleftˌoʊvər/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "剩余的；吃剩的；残留的",
+  "examples": [
+    {
+      "sentence": "She packed the leftover pasta for tomorrow's lunch.",
+      "style": "Contextual",
+      "translation": "她把剩下的意面打包，留作明天的午餐。",
+      "translated_word": "剩下的",
+      "display_order": 1
+    },
+    {
+      "sentence": "Leftover rice makes the best fried rice.",
+      "style": "Collocational",
+      "translation": "剩饭炒出来的炒饭最香。",
+      "translated_word": "剩",
+      "display_order": 2
+    },
+    {
+      "sentence": "My father always finished the leftover food so nothing would go to waste.",
+      "style": "Intimate",
+      "translation": "父亲总会把剩菜吃完，从不浪费一粒粮食。",
+      "translated_word": "剩",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some leftover dreams are worth revisiting.",
+      "style": "Philosophical",
+      "translation": "有些搁置的梦想，值得重新拾起。",
+      "translated_word": "搁置的",
+      "display_order": 4
+    }
+  ]
+}

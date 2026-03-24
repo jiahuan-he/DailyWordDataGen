@@ -1,0 +1,40 @@
+{
+  "word": "disgust",
+  "phonetic": "/dɪsˈɡʌst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "厌恶；反感；憎恶",
+  "examples": [
+    {
+      "sentence": "He pushed the plate away, disgust written across his face.",
+      "style": "Contextual",
+      "translation": "他推开盘子，满脸厌恶。",
+      "translated_word": "厌恶",
+      "display_order": 1
+    },
+    {
+      "sentence": "Public disgust over the scandal led to swift resignations.",
+      "style": "Formal",
+      "translation": "公众对丑闻的强烈反感迫使多名高管迅速辞职。",
+      "translated_word": "反感",
+      "display_order": 3
+    },
+    {
+      "sentence": "Disgust shows us where our values end and our instincts begin.",
+      "style": "Philosophical",
+      "translation": "厌恶揭示了价值观的边界，与本能的起点。",
+      "translated_word": "厌恶",
+      "display_order": 4
+    },
+    {
+      "sentence": "The disgust in her silence cut deeper than any words.",
+      "style": "Intimate",
+      "translation": "她沉默中的厌恶，比任何言语都更刺痛人心。",
+      "translated_word": "厌恶",
+      "display_order": 2
+    }
+  ]
+}

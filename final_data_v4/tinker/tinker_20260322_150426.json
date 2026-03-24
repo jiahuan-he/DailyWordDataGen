@@ -1,0 +1,40 @@
+{
+  "word": "tinker",
+  "phonetic": "/ˈtɪŋkər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "修补；摆弄；小修小改",
+  "examples": [
+    {
+      "sentence": "He spent the afternoon tinkering with his old motorcycle in the garage.",
+      "style": "Contextual",
+      "translation": "他在车库里摆弄那辆旧摩托车，一待就是一下午。",
+      "translated_word": "摆弄",
+      "display_order": 1
+    },
+    {
+      "sentence": "Don't tinker with the settings; they're already optimized.",
+      "style": "Collocational",
+      "translation": "别乱动那些设置；它们已经调到最佳状态了。",
+      "translated_word": "乱动",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father's hands were never idle; he would tinker with anything broken until it worked again.",
+      "style": "Intimate",
+      "translation": "父亲的双手从不闲着；凡是坏了的东西，他都要修修补补，直到它重新运转。",
+      "translated_word": "修修补补",
+      "display_order": 2
+    },
+    {
+      "sentence": "Great inventions often begin with those who tinker out of pure curiosity.",
+      "style": "Philosophical",
+      "translation": "伟大的发明往往始于那些出于纯粹好奇心而不断捣鼓的人。",
+      "translated_word": "捣鼓",
+      "display_order": 4
+    }
+  ]
+}

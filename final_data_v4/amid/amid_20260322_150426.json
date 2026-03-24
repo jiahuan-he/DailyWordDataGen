@@ -1,0 +1,39 @@
+{
+  "word": "amid",
+  "phonetic": "/əˈmɪd/",
+  "pos": [
+    "preposition"
+  ],
+  "selected_pos": "preposition",
+  "definition": "在…之中；在…期间",
+  "examples": [
+    {
+      "sentence": "She found him amid the crowded market stalls.",
+      "style": "Contextual",
+      "translation": "她在熙攘的市集摊位间找到了他。",
+      "translated_word": "间",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company announced layoffs amid declining profits.",
+      "style": "Formal",
+      "translation": "公司在利润下滑之际宣布裁员。",
+      "translated_word": "之际",
+      "display_order": 3
+    },
+    {
+      "sentence": "Amid autumn leaves, a child's laughter echoed.",
+      "style": "Poetic",
+      "translation": "秋叶纷飞中，孩子的笑声回荡。",
+      "translated_word": "中",
+      "display_order": 2
+    },
+    {
+      "sentence": "Amid noise, stillness becomes a choice.",
+      "style": "Philosophical",
+      "translation": "喧嚣之中，宁静成为一种选择。",
+      "translated_word": "之中",
+      "display_order": 4
+    }
+  ]
+}

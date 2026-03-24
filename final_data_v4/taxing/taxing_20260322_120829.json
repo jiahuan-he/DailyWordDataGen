@@ -1,0 +1,41 @@
+{
+  "word": "taxing",
+  "phonetic": "/ˈtæksɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "费力的；耗神的；繁重的",
+  "examples": [
+    {
+      "sentence": "Caring for newborn twins proved far more taxing than she had imagined.",
+      "style": "Contextual",
+      "translation": "照顾一对新生双胞胎，比她想象中要累得多。",
+      "translated_word": "累",
+      "display_order": 1
+    },
+    {
+      "sentence": "The prolonged investigation has been taxing for all parties involved.",
+      "style": "Formal",
+      "translation": "旷日持久的调查令所有相关方都疲惫不堪。",
+      "translated_word": "疲惫不堪",
+      "display_order": 4
+    },
+    {
+      "sentence": "Emotionally taxing conversations require time to recover from.",
+      "style": "Collocational",
+      "translation": "情感上消耗巨大的对话，需要时间来复原。",
+      "translated_word": "消耗巨大",
+      "display_order": 3
+    },
+    {
+      "sentence": "That final semester was taxing, but it revealed a resilience I didn't know I had.",
+      "style": "Intimate",
+      "translation": "最后那个学期很艰难，却让我发现了自己不曾知晓的韧性。",
+      "translated_word": "艰难",
+      "display_order": 2
+    }
+  ]
+}

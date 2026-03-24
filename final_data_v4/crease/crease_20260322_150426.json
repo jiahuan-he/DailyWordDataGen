@@ -1,0 +1,40 @@
+{
+  "word": "crease",
+  "phonetic": "/kriːs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "折痕；皱纹；褶线",
+  "examples": [
+    {
+      "sentence": "She ran her thumb along the crease in the old letter.",
+      "style": "Contextual",
+      "translation": "她用拇指轻轻抚过那封旧信上的折痕。",
+      "translated_word": "折痕",
+      "display_order": 1
+    },
+    {
+      "sentence": "He always keeps a sharp crease in his trousers.",
+      "style": "Collocational",
+      "translation": "他的裤子总是熨出一道笔挺的裤线。",
+      "translated_word": "裤线",
+      "display_order": 3
+    },
+    {
+      "sentence": "Time writes in creases what memory cannot hold.",
+      "style": "Poetic",
+      "translation": "时光将记忆无法承载的，都写进了皱纹里。",
+      "translated_word": "皱纹",
+      "display_order": 4
+    },
+    {
+      "sentence": "That crease in my grandmother's photograph tells me it was loved.",
+      "style": "Intimate",
+      "translation": "外婆照片上的那道折痕，告诉我它曾被珍重。",
+      "translated_word": "折痕",
+      "display_order": 2
+    }
+  ]
+}

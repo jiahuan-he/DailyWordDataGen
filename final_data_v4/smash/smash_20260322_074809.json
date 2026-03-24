@@ -1,0 +1,40 @@
+{
+  "word": "smash",
+  "phonetic": "/smæʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "打碎；猛击；粉碎；撞毁",
+  "examples": [
+    {
+      "sentence": "The vase slipped from her hands and smashed on the tile floor.",
+      "style": "Contextual",
+      "translation": "花瓶从她手中滑落，在瓷砖地上摔得粉碎。",
+      "translated_word": "粉碎",
+      "display_order": 1
+    },
+    {
+      "sentence": "She trained for a decade to smash the national record.",
+      "style": "Collocational",
+      "translation": "她苦练十年，只为打破全国纪录。",
+      "translated_word": "打破",
+      "display_order": 2
+    },
+    {
+      "sentence": "Waves smash against the cliffs, patient as centuries.",
+      "style": "Poetic",
+      "translation": "海浪拍击崖壁，耐心如岁月。",
+      "translated_word": "拍击",
+      "display_order": 3
+    },
+    {
+      "sentence": "Smash the barrier before it learns your name.",
+      "style": "Inspirational",
+      "translation": "趁障碍还不认识你，先将它击碎。",
+      "translated_word": "击碎",
+      "display_order": 4
+    }
+  ]
+}

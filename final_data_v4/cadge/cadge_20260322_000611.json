@@ -1,0 +1,40 @@
+{
+  "word": "cadge",
+  "phonetic": "/kædʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "蹭；讨要；乞讨",
+  "examples": [
+    {
+      "sentence": "He cadged a cigarette from a stranger outside the bar.",
+      "style": "Contextual",
+      "translation": "他在酒吧外向陌生人蹭了根烟。",
+      "translated_word": "蹭",
+      "display_order": 1
+    },
+    {
+      "sentence": "She cadges a lift to work every morning.",
+      "style": "Collocational",
+      "translation": "她每天早上都蹭顺风车去上班。",
+      "translated_word": "蹭",
+      "display_order": 2
+    },
+    {
+      "sentence": "Back then, we cadged spare change to buy our first guitar.",
+      "style": "Intimate",
+      "translation": "那时候，我们四处讨零钱，攒下来买了第一把吉他。",
+      "translated_word": "讨",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some borrow with gratitude; others simply cadge.",
+      "style": "Contrastive",
+      "translation": "有人借时心怀感激，有人不过是白拿。",
+      "translated_word": "白拿",
+      "display_order": 4
+    }
+  ]
+}

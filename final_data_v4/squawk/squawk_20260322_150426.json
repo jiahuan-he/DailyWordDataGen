@@ -1,0 +1,40 @@
+{
+  "word": "squawk",
+  "phonetic": "/skwɔːk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "嘎嘎叫；尖声抗议；大声抱怨",
+  "examples": [
+    {
+      "sentence": "The parrot squawked the moment a stranger entered the room.",
+      "style": "Contextual",
+      "translation": "陌生人一进门，鹦鹉便尖声叫了起来。",
+      "translated_word": "尖声叫",
+      "display_order": 1
+    },
+    {
+      "sentence": "Seagulls squawked overhead, circling the fishing boats at dusk.",
+      "style": "Collocational",
+      "translation": "海鸥在头顶盘旋嘎叫，追随着黄昏里的渔船。",
+      "translated_word": "嘎叫",
+      "display_order": 3
+    },
+    {
+      "sentence": "Herons squawked across the lagoon; the silence before had been too perfect.",
+      "style": "Poetic",
+      "translation": "苍鹭的叫声划过泻湖；此前的宁静，美得近乎虚幻。",
+      "translated_word": "叫声",
+      "display_order": 4
+    },
+    {
+      "sentence": "Grandma's old cockatoo would squawk every time I opened the fridge.",
+      "style": "Intimate",
+      "translation": "外婆那只老凤头鹦鹉，每次我一开冰箱就会嘎嘎大叫。",
+      "translated_word": "嘎嘎大叫",
+      "display_order": 2
+    }
+  ]
+}

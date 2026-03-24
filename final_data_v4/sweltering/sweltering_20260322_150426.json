@@ -1,0 +1,41 @@
+{
+  "word": "sweltering",
+  "phonetic": "/ˈsweltərɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "酷热的；闷热的；炙热难耐的",
+  "examples": [
+    {
+      "sentence": "By noon, the sweltering sun had emptied the plaza.",
+      "style": "Contextual",
+      "translation": "正午时分，酷热的烈日已将广场上的人群驱散殆尽。",
+      "translated_word": "酷热",
+      "display_order": 3
+    },
+    {
+      "sentence": "We fled the sweltering city for a weekend by the sea.",
+      "style": "Collocational",
+      "translation": "我们逃离闷热的城市，去海边度过了一个周末。",
+      "translated_word": "闷热",
+      "display_order": 1
+    },
+    {
+      "sentence": "The sweltering air hung still, bending light above the asphalt.",
+      "style": "Poetic",
+      "translation": "炙热的空气静止不动，柏油路面上光影扭曲。",
+      "translated_word": "炙热",
+      "display_order": 4
+    },
+    {
+      "sentence": "That sweltering July, we ate cold watermelon on the fire escape and called it dinner.",
+      "style": "Intimate",
+      "translation": "那个闷热的七月，我们坐在消防梯上吃着冰西瓜，权当晚餐。",
+      "translated_word": "闷热",
+      "display_order": 2
+    }
+  ]
+}

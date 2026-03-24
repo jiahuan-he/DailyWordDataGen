@@ -1,0 +1,39 @@
+{
+  "word": "relevance",
+  "phonetic": "/ˈreləvəns/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "相关性；关联；切合；意义",
+  "examples": [
+    {
+      "sentence": "The textbook was published in 1990; students questioned its relevance.",
+      "style": "Contextual",
+      "translation": "这本教材出版于1990年；学生们质疑它的时效性。",
+      "translated_word": "时效性",
+      "display_order": 1
+    },
+    {
+      "sentence": "Analysts debate the relevance of GDP growth to individual prosperity.",
+      "style": "Formal",
+      "translation": "分析师们争论GDP增长与个人富裕程度的关联。",
+      "translated_word": "关联",
+      "display_order": 2
+    },
+    {
+      "sentence": "We seek relevance in the eyes of others, yet peace lives in obscurity.",
+      "style": "Philosophical",
+      "translation": "我们在他人眼中寻求存在感，而平静却栖息于无名之中。",
+      "translated_word": "存在感",
+      "display_order": 4
+    },
+    {
+      "sentence": "Trends measure attention; relevance measures lasting impact.",
+      "style": "Contrastive",
+      "translation": "潮流衡量关注度；相关性衡量持久影响。",
+      "translated_word": "相关性",
+      "display_order": 3
+    }
+  ]
+}

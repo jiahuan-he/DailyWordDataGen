@@ -1,0 +1,39 @@
+{
+  "word": "descend",
+  "phonetic": "/dɪˈsend/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "下降；降落；传承",
+  "examples": [
+    {
+      "sentence": "The hikers descended the trail before nightfall.",
+      "style": "Contextual",
+      "translation": "徒步者们在夜幕降临前走下了山径。",
+      "translated_word": "走下",
+      "display_order": 2
+    },
+    {
+      "sentence": "Dusk descended softly, folding the valley in shadow.",
+      "style": "Poetic",
+      "translation": "暮色轻柔降下，将山谷裹入阴影。",
+      "translated_word": "降下",
+      "display_order": 3
+    },
+    {
+      "sentence": "We descend from countless strangers who chose to love.",
+      "style": "Philosophical",
+      "translation": "我们传承自无数选择去爱的陌生人。",
+      "translated_word": "传承",
+      "display_order": 4
+    },
+    {
+      "sentence": "The aircraft began to descend through heavy cloud cover.",
+      "style": "Formal",
+      "translation": "飞机开始穿过厚重的云层下降。",
+      "translated_word": "下降",
+      "display_order": 1
+    }
+  ]
+}

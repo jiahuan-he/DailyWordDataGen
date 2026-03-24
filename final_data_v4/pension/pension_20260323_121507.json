@@ -1,0 +1,40 @@
+{
+  "word": "pension",
+  "phonetic": "/ˈpenʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "养老金；退休金；抚恤金",
+  "examples": [
+    {
+      "sentence": "His modest pension covers rent, groceries, and little else.",
+      "style": "Contextual",
+      "translation": "他微薄的养老金只够付房租和买菜，别无其他。",
+      "translated_word": "养老金",
+      "display_order": 1
+    },
+    {
+      "sentence": "The pension fund reported a twelve percent return this quarter.",
+      "style": "Formal",
+      "translation": "该养老基金本季度录得百分之十二的回报。",
+      "translated_word": "养老",
+      "display_order": 4
+    },
+    {
+      "sentence": "A pension is a promise from your younger self to your older one.",
+      "style": "Philosophical",
+      "translation": "养老金是年轻的自己对年老的自己的承诺。",
+      "translated_word": "养老金",
+      "display_order": 3
+    },
+    {
+      "sentence": "She retired last spring; now her pension and her garden are enough.",
+      "style": "Intimate",
+      "translation": "她去年春天退休了；如今，养老金和菜园便是全部。",
+      "translated_word": "养老金",
+      "display_order": 2
+    }
+  ]
+}

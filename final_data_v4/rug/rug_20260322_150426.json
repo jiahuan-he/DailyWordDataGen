@@ -1,0 +1,41 @@
+{
+  "word": "rug",
+  "phonetic": "/rʌɡ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "小地毯；毛毯",
+  "examples": [
+    {
+      "sentence": "She placed a soft rug beside the bed for cold mornings.",
+      "style": "Contextual",
+      "translation": "她在床边铺了一块柔软的地毯，方便冬日清晨落脚。",
+      "translated_word": "地毯",
+      "display_order": 1
+    },
+    {
+      "sentence": "The funding cut pulled the rug out from under the whole team.",
+      "style": "Collocational",
+      "translation": "资金削减让整个团队瞬间失去了依靠。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "That faded rug held every story my grandmother told by firelight.",
+      "style": "Intimate",
+      "translation": "那块褪色的地毯，承载着外婆在炉火旁讲过的每一个故事。",
+      "translated_word": "地毯",
+      "display_order": 2
+    },
+    {
+      "sentence": "Sunlight pooled on the rug like honey spilled from a jar.",
+      "style": "Poetic",
+      "translation": "阳光倾洒在地毯上，如蜜糖从罐中流溢。",
+      "translated_word": "地毯",
+      "display_order": 3
+    }
+  ]
+}

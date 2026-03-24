@@ -1,0 +1,39 @@
+{
+  "word": "duo",
+  "phonetic": "/ˈduːoʊ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "二人组；搭档；一对",
+  "examples": [
+    {
+      "sentence": "The jazz duo performed every Friday at the corner café.",
+      "style": "Contextual",
+      "translation": "这对爵士搭档每周五都在街角咖啡馆演出。",
+      "translated_word": "搭档",
+      "display_order": 1
+    },
+    {
+      "sentence": "They made an unlikely duo: a poet and a programmer.",
+      "style": "Collocational",
+      "translation": "他们是一对不寻常的搭档：一位诗人，一位程序员。",
+      "translated_word": "搭档",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother and I were a kitchen duo; her hands steadied mine over every rolling pin.",
+      "style": "Intimate",
+      "translation": "外婆和我是厨房里的黄金搭档；她的手扶着我的手，稳稳握住每一根擀面杖。",
+      "translated_word": "搭档",
+      "display_order": 2
+    },
+    {
+      "sentence": "A great duo isn't two halves making a whole; it's two wholes choosing to walk together.",
+      "style": "Philosophical",
+      "translation": "好的搭档不是两个半圆拼成一个圆，而是两个完整的人选择并肩同行。",
+      "translated_word": "搭档",
+      "display_order": 4
+    }
+  ]
+}

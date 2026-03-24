@@ -1,0 +1,40 @@
+{
+  "word": "rural",
+  "phonetic": "/ˈrʊrəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "乡村的；农村的；田园的",
+  "examples": [
+    {
+      "sentence": "The rural clinic serves three villages with one tireless doctor.",
+      "style": "Contextual",
+      "translation": "乡村诊所仅有一位医生，却守护着三个村庄。",
+      "translated_word": "乡村",
+      "display_order": 4
+    },
+    {
+      "sentence": "Morning mist clings to the rural hills as the first rooster crows.",
+      "style": "Poetic",
+      "translation": "晨雾缭绕乡野山丘，第一声鸡鸣划破黎明。",
+      "translated_word": "乡野",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rural quiet can feel deafening after years of city noise.",
+      "style": "Contrastive",
+      "translation": "习惯了城市的喧嚣，乡村的宁静反而震耳欲聋。",
+      "translated_word": "乡村",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother's rural kitchen always smelled of fresh herbs and slow time.",
+      "style": "Intimate",
+      "translation": "外婆乡下的厨房，总弥漫着香草与慢时光的气息。",
+      "translated_word": "乡下",
+      "display_order": 2
+    }
+  ]
+}

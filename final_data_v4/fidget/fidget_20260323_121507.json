@@ -1,0 +1,40 @@
+{
+  "word": "fidget",
+  "phonetic": "/ˈfɪdʒɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "坐立不安；烦躁不宁；摆弄",
+  "examples": [
+    {
+      "sentence": "He started to fidget as the speech dragged into its second hour.",
+      "style": "Contextual",
+      "translation": "演讲进入第二个小时，他开始坐立不安。",
+      "translated_word": "坐立不安",
+      "display_order": 2
+    },
+    {
+      "sentence": "She fidgeted with her ring, waiting for the results.",
+      "style": "Collocational",
+      "translation": "等待结果时，她不停地摆弄着戒指。",
+      "translated_word": "摆弄",
+      "display_order": 1
+    },
+    {
+      "sentence": "Nervous fingers fidget, folding the ticket into smaller and smaller squares.",
+      "style": "Poetic",
+      "translation": "紧张的手指无处安放，把票根折成越来越小的方块。",
+      "translated_word": "无处安放",
+      "display_order": 4
+    },
+    {
+      "sentence": "My hands always fidget when there's too much I want to say.",
+      "style": "Intimate",
+      "translation": "每当心中有太多话想说，我的双手便不自觉地动个不停。",
+      "translated_word": "动个不停",
+      "display_order": 3
+    }
+  ]
+}

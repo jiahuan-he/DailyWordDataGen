@@ -1,0 +1,41 @@
+{
+  "word": "ape",
+  "phonetic": "/eɪp/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "猿；类人猿",
+  "examples": [
+    {
+      "sentence": "The ape paused mid-swing, studying us with unsettling familiarity.",
+      "style": "Contextual",
+      "translation": "那只猿猴在半空中停住，用一种令人不安的熟悉目光打量着我们。",
+      "translated_word": "猿猴",
+      "display_order": 1
+    },
+    {
+      "sentence": "Great apes demonstrate tool use and long-term memory once thought uniquely human.",
+      "style": "Formal",
+      "translation": "类人猿展现出的工具使用能力与长期记忆，曾被认为是人类独有的特征。",
+      "translated_word": "类人猿",
+      "display_order": 3
+    },
+    {
+      "sentence": "An ape builds no monuments, yet leaves the forest intact for its young.",
+      "style": "Philosophical",
+      "translation": "猿猴不建造纪念碑，却将完整的森林留给了后代。",
+      "translated_word": "猿猴",
+      "display_order": 2
+    },
+    {
+      "sentence": "In the ape's stillness: a mirror; in its gaze, ten million years.",
+      "style": "Poetic",
+      "translation": "猿猴静默处，是一面镜子；它的凝视里，藏着千万年。",
+      "translated_word": "猿猴",
+      "display_order": 4
+    }
+  ]
+}

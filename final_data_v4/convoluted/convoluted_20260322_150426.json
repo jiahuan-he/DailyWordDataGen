@@ -1,0 +1,40 @@
+{
+  "word": "convoluted",
+  "phonetic": "/ˈkɒnvəˌluːtɪd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "错综复杂的；迂回的；费解的",
+  "examples": [
+    {
+      "sentence": "The instructions were so convoluted that even the technician paused to reread them.",
+      "style": "Contextual",
+      "translation": "说明书晦涩难懂，连技术员都停下来反复研读。",
+      "translated_word": "晦涩难懂",
+      "display_order": 1
+    },
+    {
+      "sentence": "Critics condemned the new policy as convoluted and impractical.",
+      "style": "Formal",
+      "translation": "批评人士指责新政策繁复冗杂，难以施行。",
+      "translated_word": "繁复冗杂",
+      "display_order": 4
+    },
+    {
+      "sentence": "A clear answer would help; a convoluted one only deepens doubt.",
+      "style": "Contrastive",
+      "translation": "清晰的回答能解惑，迂回的措辞只会加深疑虑。",
+      "translated_word": "迂回",
+      "display_order": 3
+    },
+    {
+      "sentence": "She traced the convoluted plot twist by twist until it finally made sense.",
+      "style": "Collocational",
+      "translation": "她顺着层层反转，将这错综复杂的情节理出了头绪。",
+      "translated_word": "错综复杂",
+      "display_order": 2
+    }
+  ]
+}

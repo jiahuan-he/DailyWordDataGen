@@ -1,0 +1,40 @@
+{
+  "word": "mosaic",
+  "phonetic": "/moʊˈzeɪ.ɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "马赛克；镶嵌画；拼合物",
+  "examples": [
+    {
+      "sentence": "The cathedral floor is a Byzantine mosaic of golden tiles.",
+      "style": "Contextual",
+      "translation": "教堂地面铺着拜占庭风格的金色马赛克。",
+      "translated_word": "马赛克",
+      "display_order": 1
+    },
+    {
+      "sentence": "Autumn leaves gather on the pond: a mosaic of fire and amber.",
+      "style": "Poetic",
+      "translation": "秋叶落满池塘，拼成一片火焰与琥珀。",
+      "translated_word": "拼成",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every city is a mosaic; the beauty lies in the seams.",
+      "style": "Philosophical",
+      "translation": "每座城市都是一幅拼图；美，藏于缝隙之间。",
+      "translated_word": "拼图",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her letters formed a mosaic of the woman I never met.",
+      "style": "Intimate",
+      "translation": "她的信件拼凑出一个我素未谋面的女人。",
+      "translated_word": "拼凑",
+      "display_order": 4
+    }
+  ]
+}

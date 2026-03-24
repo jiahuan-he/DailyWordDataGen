@@ -1,0 +1,40 @@
+{
+  "word": "neutral",
+  "phonetic": "/ˈnjuːtrəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "中立的；中性的；不偏不倚的",
+  "examples": [
+    {
+      "sentence": "Switzerland remained neutral during both world wars.",
+      "style": "Contextual",
+      "translation": "瑞士在两次世界大战中保持中立。",
+      "translated_word": "中立",
+      "display_order": 1
+    },
+    {
+      "sentence": "The mediator maintained a neutral stance throughout the negotiations.",
+      "style": "Formal",
+      "translation": "调解人在整个谈判过程中保持中立立场。",
+      "translated_word": "中立",
+      "display_order": 2
+    },
+    {
+      "sentence": "Silence is rarely neutral; it often speaks for the powerful.",
+      "style": "Philosophical",
+      "translation": "沉默很少是中立的；它往往为强者代言。",
+      "translated_word": "中立",
+      "display_order": 4
+    },
+    {
+      "sentence": "She painted the walls in neutral tones: soft beige and warm gray.",
+      "style": "Collocational",
+      "translation": "她把墙壁刷成中性色调：柔和的米色与温暖的灰。",
+      "translated_word": "中性",
+      "display_order": 3
+    }
+  ]
+}

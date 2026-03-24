@@ -1,0 +1,40 @@
+{
+  "word": "untimely",
+  "phonetic": "/ʌnˈtaɪmli/",
+  "pos": [
+    "adjective",
+    "adverb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "过早的；不合时宜的；突然的",
+  "examples": [
+    {
+      "sentence": "His untimely resignation left the team scrambling for answers.",
+      "style": "Contextual",
+      "translation": "他的突然辞职让整个团队措手不及。",
+      "translated_word": "突然",
+      "display_order": 1
+    },
+    {
+      "sentence": "The untimely collapse of negotiations dashed hopes for a ceasefire.",
+      "style": "Formal",
+      "translation": "谈判的骤然破裂令停火的希望化为泡影。",
+      "translated_word": "骤然",
+      "display_order": 2
+    },
+    {
+      "sentence": "Untimely blossoms never learn; they bloom before the frost retreats.",
+      "style": "Poetic",
+      "translation": "早开的花从不吸取教训，总在霜寒未退时便绽放。",
+      "translated_word": "早开",
+      "display_order": 3
+    },
+    {
+      "sentence": "What feels untimely often reveals perfect timing in hindsight.",
+      "style": "Philosophical",
+      "translation": "那些看似不合时宜的事，回首时往往恰逢其时。",
+      "translated_word": "不合时宜",
+      "display_order": 4
+    }
+  ]
+}

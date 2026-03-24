@@ -1,0 +1,40 @@
+{
+  "word": "rhyme",
+  "phonetic": "/raɪm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "韵；押韵；韵文；童谣",
+  "examples": [
+    {
+      "sentence": "The children clapped along to a rhyme about the moon.",
+      "style": "Contextual",
+      "translation": "孩子们跟着一首关于月亮的童谣拍手。",
+      "translated_word": "童谣",
+      "display_order": 2
+    },
+    {
+      "sentence": "She taught her daughter a nursery rhyme before bed.",
+      "style": "Collocational",
+      "translation": "她在睡前教女儿一首童谣。",
+      "translated_word": "童谣",
+      "display_order": 1
+    },
+    {
+      "sentence": "Each rhyme she wrote carried the echo of an unspoken wish.",
+      "style": "Poetic",
+      "translation": "她写下的每一行韵文，都藏着一个未曾说出的心愿。",
+      "translated_word": "韵文",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's rhymes were the first music I ever knew.",
+      "style": "Intimate",
+      "translation": "外婆的歌谣，是我最初认识的音乐。",
+      "translated_word": "歌谣",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "immense",
+  "phonetic": "/ɪˈmens/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "巨大；广阔；浩瀚；极大",
+  "examples": [
+    {
+      "sentence": "Twilight spread its immense wings over the valley.",
+      "style": "Poetic",
+      "translation": "暮色在山谷上空展开广袤的羽翼。",
+      "translated_word": "广袤",
+      "display_order": 2
+    },
+    {
+      "sentence": "The immense success of the film surprised even its creators.",
+      "style": "Contextual",
+      "translation": "这部电影的巨大成功连创作者自己都始料未及。",
+      "translated_word": "巨大",
+      "display_order": 1
+    },
+    {
+      "sentence": "His quiet faith in me felt immense, a gift I never thanked him for.",
+      "style": "Intimate",
+      "translation": "他对我无声的信任如此厚重，是我从未道谢的馈赠。",
+      "translated_word": "厚重",
+      "display_order": 3
+    },
+    {
+      "sentence": "Small steps, taken daily, cover immense distances over time.",
+      "style": "Inspirational",
+      "translation": "每日一小步，日积月累，跨越万里。",
+      "translated_word": "万里",
+      "display_order": 4
+    }
+  ]
+}

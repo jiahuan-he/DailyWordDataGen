@@ -1,0 +1,39 @@
+{
+  "word": "perceive",
+  "phonetic": "/pəˈsiːv/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "感知；察觉；理解；认为",
+  "examples": [
+    {
+      "sentence": "The colorblind artist perceives reds and greens as the same shade.",
+      "style": "Contextual",
+      "translation": "那位色盲画家将红色与绿色视为同一色调。",
+      "translated_word": "视为",
+      "display_order": 1
+    },
+    {
+      "sentence": "The same rain: one perceives a ruined afternoon, another a needed blessing.",
+      "style": "Philosophical",
+      "translation": "同一场雨：有人视之为败兴，有人视之为甘霖。",
+      "translated_word": "视之为",
+      "display_order": 3
+    },
+    {
+      "sentence": "In silence, she perceived the forest breathing.",
+      "style": "Poetic",
+      "translation": "寂静中，她感知到森林的呼吸。",
+      "translated_word": "感知",
+      "display_order": 2
+    },
+    {
+      "sentence": "At twenty, I perceived his strictness as cruelty; at forty, as love.",
+      "style": "Intimate",
+      "translation": "二十岁时，我把他的严厉视为冷酷；四十岁时，方知那是深爱。",
+      "translated_word": "视为",
+      "display_order": 4
+    }
+  ]
+}

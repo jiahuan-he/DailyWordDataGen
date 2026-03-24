@@ -1,0 +1,40 @@
+{
+  "word": "bawl",
+  "phonetic": "/bɔːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "嚎啕大哭；放声大喊",
+  "examples": [
+    {
+      "sentence": "The toddler bawled until his mother finally picked him up.",
+      "style": "Contextual",
+      "translation": "小男孩嚎啕大哭，直到妈妈终于把他抱起来。",
+      "translated_word": "嚎啕大哭",
+      "display_order": 1
+    },
+    {
+      "sentence": "She didn't weep quietly; she bawled, loud and unashamed.",
+      "style": "Contrastive",
+      "translation": "她没有默默流泪，而是放声大哭，毫无顾忌。",
+      "translated_word": "放声大哭",
+      "display_order": 3
+    },
+    {
+      "sentence": "Rain drums on the roof; somewhere a child bawls into the night.",
+      "style": "Poetic",
+      "translation": "雨打屋檐，夜色深处传来孩童的哭喊。",
+      "translated_word": "哭喊",
+      "display_order": 4
+    },
+    {
+      "sentence": "At his wedding, my father bawled like a child, and no one looked away.",
+      "style": "Intimate",
+      "translation": "父亲在我婚礼上哭得像个孩子，没人移开目光。",
+      "translated_word": "哭",
+      "display_order": 2
+    }
+  ]
+}

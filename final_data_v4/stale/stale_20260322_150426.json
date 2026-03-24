@@ -1,0 +1,41 @@
+{
+  "word": "stale",
+  "phonetic": "/steɪl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "不新鲜的；陈腐的；乏味的",
+  "examples": [
+    {
+      "sentence": "The bread had been sitting out for days; it was stale and crumbled at the touch.",
+      "style": "Contextual",
+      "translation": "面包已经放了好几天，又干又硬，一碰就碎。",
+      "translated_word": "又干又硬",
+      "display_order": 1
+    },
+    {
+      "sentence": "The comedian recycled stale jokes the audience had heard a hundred times.",
+      "style": "Collocational",
+      "translation": "那位喜剧演员翻来覆去讲着老掉牙的笑话，观众早已听腻。",
+      "translated_word": "老掉牙",
+      "display_order": 2
+    },
+    {
+      "sentence": "Fresh ideas draw crowds; stale ones empty rooms.",
+      "style": "Contrastive",
+      "translation": "新颖的想法让人趋之若鹜；陈腐的想法使人四散而去。",
+      "translated_word": "陈腐",
+      "display_order": 4
+    },
+    {
+      "sentence": "We kept choosing the same restaurant, the same table, until even our conversations felt stale.",
+      "style": "Intimate",
+      "translation": "我们总是选同一家餐厅、同一张桌子，直到连对话都变得索然无味。",
+      "translated_word": "索然无味",
+      "display_order": 3
+    }
+  ]
+}

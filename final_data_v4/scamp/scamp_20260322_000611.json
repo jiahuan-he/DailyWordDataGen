@@ -1,0 +1,40 @@
+{
+  "word": "scamp",
+  "phonetic": "/skæmp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "小淘气；顽童；小捣蛋",
+  "examples": [
+    {
+      "sentence": "The little scamp had hidden all the car keys again.",
+      "style": "Contextual",
+      "translation": "那个小淘气又把车钥匙全藏起来了。",
+      "translated_word": "小淘气",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandfather called me his favorite scamp, a title I wore with pride.",
+      "style": "Intimate",
+      "translation": "爷爷叫我他最爱的小捣蛋，我一直把这当作荣耀。",
+      "translated_word": "小捣蛋",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every family needs one lovable scamp to keep things interesting.",
+      "style": "Collocational",
+      "translation": "每个家庭都需要一个可爱的小淘气来增添乐趣。",
+      "translated_word": "小淘气",
+      "display_order": 3
+    },
+    {
+      "sentence": "Behind every gray hair, a scamp once ran barefoot through summer.",
+      "style": "Poetic",
+      "translation": "每一根白发背后，都曾有个顽童赤脚奔跑在夏日里。",
+      "translated_word": "顽童",
+      "display_order": 4
+    }
+  ]
+}

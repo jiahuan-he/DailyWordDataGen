@@ -1,0 +1,39 @@
+{
+  "word": "lexis",
+  "phonetic": "/ˈleksɪs/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "词汇；语汇；词库",
+  "examples": [
+    {
+      "sentence": "Her poetry draws from the lexis of the sea: tides, salt, horizons.",
+      "style": "Contextual",
+      "translation": "她的诗歌取材于大海的词汇：潮汐、盐分、天际线。",
+      "translated_word": "词汇",
+      "display_order": 2
+    },
+    {
+      "sentence": "The study analyzed the specialized lexis of medical journals from three decades.",
+      "style": "Formal",
+      "translation": "该研究分析了三十年来医学期刊的专业词汇。",
+      "translated_word": "词汇",
+      "display_order": 1
+    },
+    {
+      "sentence": "A language dies not when its last speaker falls silent, but when its lexis loses meaning.",
+      "style": "Philosophical",
+      "translation": "一门语言的消亡，不在于最后一位使用者沉默，而在于其词汇失去意义。",
+      "translated_word": "词汇",
+      "display_order": 3
+    },
+    {
+      "sentence": "Autumn has its own lexis: rustle, amber, letting go.",
+      "style": "Poetic",
+      "translation": "秋天有它独有的语汇：沙沙声、琥珀色、放手。",
+      "translated_word": "语汇",
+      "display_order": 4
+    }
+  ]
+}

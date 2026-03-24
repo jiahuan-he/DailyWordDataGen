@@ -1,0 +1,39 @@
+{
+  "word": "signify",
+  "phonetic": "/ˈsɪɡnɪfaɪ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "表示；意味着；象征",
+  "examples": [
+    {
+      "sentence": "A red sky at morning signifies rain ahead.",
+      "style": "Contextual",
+      "translation": "朝霞漫天，预示着雨将至。",
+      "translated_word": "预示",
+      "display_order": 1
+    },
+    {
+      "sentence": "The treaty signifies a historic shift in diplomatic relations.",
+      "style": "Formal",
+      "translation": "该条约标志着外交关系的历史性转折。",
+      "translated_word": "标志",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we choose to keep signifies who we are becoming.",
+      "style": "Philosophical",
+      "translation": "我们选择留下的，昭示着我们正在成为的自己。",
+      "translated_word": "昭示",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her silence signified more than any words could carry.",
+      "style": "Poetic",
+      "translation": "她的沉默，胜过千言万语。",
+      "translated_word": null,
+      "display_order": 2
+    }
+  ]
+}

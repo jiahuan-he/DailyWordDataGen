@@ -1,0 +1,40 @@
+{
+  "word": "atomic",
+  "phonetic": "/əˈtɒmɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "原子的；极小的；不可分割的",
+  "examples": [
+    {
+      "sentence": "At the atomic level, solids are mostly empty space.",
+      "style": "Contextual",
+      "translation": "在原子层面，固体几乎尽是虚空。",
+      "translated_word": "原子",
+      "display_order": 2
+    },
+    {
+      "sentence": "The atomic clock aboard the satellite ensures global positioning accuracy.",
+      "style": "Formal",
+      "translation": "卫星上的原子钟确保了全球定位的精度。",
+      "translated_word": "原子",
+      "display_order": 1
+    },
+    {
+      "sentence": "Atomic clocks measure time; quartz watches merely approximate it.",
+      "style": "Contrastive",
+      "translation": "原子钟测量时间；石英表只是近似估算。",
+      "translated_word": "原子",
+      "display_order": 3
+    },
+    {
+      "sentence": "Habits are built from atomic actions repeated until they become invisible.",
+      "style": "Philosophical",
+      "translation": "习惯由微小的行为堆砌而成，重复至无形。",
+      "translated_word": "微小",
+      "display_order": 4
+    }
+  ]
+}

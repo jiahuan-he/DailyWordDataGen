@@ -1,0 +1,40 @@
+{
+  "word": "abort",
+  "phonetic": "/əˈbɔːrt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "中止；终止；流产",
+  "examples": [
+    {
+      "sentence": "Fog rolled in; the pilot had no choice but to abort the landing.",
+      "style": "Contextual",
+      "translation": "大雾弥漫，飞行员别无选择，只能中止降落。",
+      "translated_word": "中止",
+      "display_order": 2
+    },
+    {
+      "sentence": "Officials aborted the rescue operation as conditions deteriorated.",
+      "style": "Formal",
+      "translation": "随着情况恶化，官员们中止了救援行动。",
+      "translated_word": "中止",
+      "display_order": 1
+    },
+    {
+      "sentence": "Mission control gave the order: abort immediately.",
+      "style": "Collocational",
+      "translation": "任务控制中心下达指令：立即中止。",
+      "translated_word": "中止",
+      "display_order": 3
+    },
+    {
+      "sentence": "Knowing when to abort a failing plan is its own kind of wisdom.",
+      "style": "Philosophical",
+      "translation": "懂得何时终止一个注定失败的计划，本身就是一种智慧。",
+      "translated_word": "终止",
+      "display_order": 4
+    }
+  ]
+}

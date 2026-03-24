@@ -1,0 +1,40 @@
+{
+  "word": "gutter",
+  "phonetic": "/ˈɡʌtər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "排水沟；水槽；贫民窟",
+  "examples": [
+    {
+      "sentence": "Autumn leaves clogged the gutter, and rainwater pooled on the sidewalk.",
+      "style": "Contextual",
+      "translation": "落叶堵住了排水沟，雨水在人行道上积成水洼。",
+      "translated_word": "排水沟",
+      "display_order": 1
+    },
+    {
+      "sentence": "He rose from the gutter to the boardroom, never forgetting where he started.",
+      "style": "Contrastive",
+      "translation": "他从贫民窟走进董事会，却从未忘记自己的出身。",
+      "translated_word": "贫民窟",
+      "display_order": 3
+    },
+    {
+      "sentence": "Rain drums on the roof, then whispers down the gutter into the dark.",
+      "style": "Poetic",
+      "translation": "雨打屋檐，而后沿着水槽低语，流入夜色深处。",
+      "translated_word": "水槽",
+      "display_order": 2
+    },
+    {
+      "sentence": "The gutter sees everything: coins tossed in haste, love letters never sent.",
+      "style": "Philosophical",
+      "translation": "街沟见证一切：匆匆丢下的硬币，从未寄出的情书。",
+      "translated_word": "街沟",
+      "display_order": 4
+    }
+  ]
+}

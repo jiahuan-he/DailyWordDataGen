@@ -1,0 +1,40 @@
+{
+  "word": "pivot",
+  "phonetic": "/ˈpɪvət/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "转向；转动；调整方向",
+  "examples": [
+    {
+      "sentence": "The dancer pivoted on one foot, her dress blooming outward.",
+      "style": "Contextual",
+      "translation": "舞者单脚旋转，裙摆如花绽放。",
+      "translated_word": "旋转",
+      "display_order": 1
+    },
+    {
+      "sentence": "The startup pivoted to cloud services after investor feedback.",
+      "style": "Formal",
+      "translation": "在投资人反馈后，这家初创公司转型至云服务领域。",
+      "translated_word": "转型",
+      "display_order": 2
+    },
+    {
+      "sentence": "We rarely pivot by choice; discomfort moves us.",
+      "style": "Philosophical",
+      "translation": "我们鲜少主动转向；是不适推着我们前行。",
+      "translated_word": "转向",
+      "display_order": 3
+    },
+    {
+      "sentence": "When the path narrows, pivot; a new one will open.",
+      "style": "Inspirational",
+      "translation": "当路变窄时，转身吧；新的路会出现。",
+      "translated_word": "转身",
+      "display_order": 4
+    }
+  ]
+}

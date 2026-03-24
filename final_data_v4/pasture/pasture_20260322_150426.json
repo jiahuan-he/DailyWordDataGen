@@ -1,0 +1,40 @@
+{
+  "word": "pasture",
+  "phonetic": "/ˈpæstʃər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "牧场；草地；牧草",
+  "examples": [
+    {
+      "sentence": "The sheep grazed quietly in the pasture beyond the old stone wall.",
+      "style": "Contextual",
+      "translation": "羊群在石墙外的牧场上静静吃草。",
+      "translated_word": "牧场",
+      "display_order": 1
+    },
+    {
+      "sentence": "Morning mist clung to the pasture, softening the world into watercolor.",
+      "style": "Poetic",
+      "translation": "晨雾缠绕着牧场，将世界晕染成水彩。",
+      "translated_word": "牧场",
+      "display_order": 2
+    },
+    {
+      "sentence": "We build towers of glass, yet our souls still ache for open pasture.",
+      "style": "Philosophical",
+      "translation": "我们筑起玻璃高楼，灵魂却依然向往辽阔的牧场。",
+      "translated_word": "牧场",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather's pasture taught me stillness before any book could.",
+      "style": "Intimate",
+      "translation": "祖父的牧场教会我安静，远早于任何书本。",
+      "translated_word": "牧场",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "combat",
+  "phonetic": "/kəmˈbæt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "对抗；抵御；打击",
+  "examples": [
+    {
+      "sentence": "The new policy aims to combat misinformation on social media.",
+      "style": "Formal",
+      "translation": "新政策旨在打击社交媒体上的虚假信息。",
+      "translated_word": "打击",
+      "display_order": 1
+    },
+    {
+      "sentence": "Doctors worldwide are racing to combat the spread of the virus.",
+      "style": "Contextual",
+      "translation": "世界各地的医生正全力遏制病毒的蔓延。",
+      "translated_word": "遏制",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every small choice to combat your doubts is a victory worth claiming.",
+      "style": "Inspirational",
+      "translation": "每一次与自我怀疑的对抗，都是值得铭记的胜利。",
+      "translated_word": "对抗",
+      "display_order": 3
+    },
+    {
+      "sentence": "We cannot combat hatred with more hatred; only understanding breaks the cycle.",
+      "style": "Philosophical",
+      "translation": "以恨制恨终是徒劳；唯有理解方能打破循环。",
+      "translated_word": "制",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "ordnance",
+  "phonetic": "/ˈɔːrdnəns/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "军械；弹药；火炮",
+  "examples": [
+    {
+      "sentence": "The warehouse stored enough ordnance to supply an entire battalion.",
+      "style": "Contextual",
+      "translation": "这座仓库储存的军械足以装备一整个营。",
+      "translated_word": "军械",
+      "display_order": 1
+    },
+    {
+      "sentence": "Unexploded ordnance from the war still surfaces in farmers' fields each spring.",
+      "style": "Formal",
+      "translation": "战争遗留的未爆弹药，每年春天仍会在农田里被发现。",
+      "translated_word": "弹药",
+      "display_order": 2
+    },
+    {
+      "sentence": "The ordnance disposal team worked in silence, one wrong cut away from oblivion.",
+      "style": "Collocational",
+      "translation": "拆弹小组在沉默中作业，一刀之差便是生死。",
+      "translated_word": "弹",
+      "display_order": 3
+    },
+    {
+      "sentence": "We build ordnance to protect what we love, then watch it destroy what others love.",
+      "style": "Philosophical",
+      "translation": "我们制造军械来守护所爱，却眼睁睁看它摧毁别人的所爱。",
+      "translated_word": "军械",
+      "display_order": 4
+    }
+  ]
+}

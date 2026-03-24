@@ -1,0 +1,40 @@
+{
+  "word": "tremor",
+  "phonetic": "/ˈtremər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "颤抖；震颤；微震；战栗",
+  "examples": [
+    {
+      "sentence": "A tremor ran through the crowd when the lights went out.",
+      "style": "Contextual",
+      "translation": "灯光骤灭，人群中掠过一阵骚动。",
+      "translated_word": "骚动",
+      "display_order": 4
+    },
+    {
+      "sentence": "The 4.5 magnitude tremor caused no structural damage.",
+      "style": "Formal",
+      "translation": "这场4.5级的轻震未造成建筑损坏。",
+      "translated_word": "轻震",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her voice carried a tremor, thin as a held breath.",
+      "style": "Poetic",
+      "translation": "她的声音微微颤抖，细若屏息。",
+      "translated_word": "颤抖",
+      "display_order": 3
+    },
+    {
+      "sentence": "He reached for my hand, and I felt the tremor in his fingers.",
+      "style": "Intimate",
+      "translation": "他伸手握住我，指尖在轻轻发颤。",
+      "translated_word": "发颤",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "cephalic",
+  "phonetic": "/sɪˈfælɪk/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "头部的；颅的；头端的",
+  "examples": [
+    {
+      "sentence": "The nurse drew blood from the cephalic vein in his forearm.",
+      "style": "Contextual",
+      "translation": "护士从他前臂的头静脉处抽血。",
+      "translated_word": "头",
+      "display_order": 4
+    },
+    {
+      "sentence": "Ultrasound confirmed a cephalic presentation, ideal for natural delivery.",
+      "style": "Formal",
+      "translation": "超声检查确认胎儿为头位，适合自然分娩。",
+      "translated_word": "头",
+      "display_order": 1
+    },
+    {
+      "sentence": "The cephalic index measures skull width relative to length.",
+      "style": "Collocational",
+      "translation": "头颅指数用于测量颅骨宽度与长度的比值。",
+      "translated_word": "头颅",
+      "display_order": 2
+    },
+    {
+      "sentence": "Unlike caudal nerves, cephalic nerves govern the senses.",
+      "style": "Contrastive",
+      "translation": "与尾端神经不同，头端神经主管感觉功能。",
+      "translated_word": "头端",
+      "display_order": 3
+    }
+  ]
+}

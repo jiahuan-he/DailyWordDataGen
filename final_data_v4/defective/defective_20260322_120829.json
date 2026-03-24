@@ -1,0 +1,40 @@
+{
+  "word": "defective",
+  "phonetic": "/dɪˈfektɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有缺陷的；有瑕疵的；不完善的",
+  "examples": [
+    {
+      "sentence": "The store refunded my money after I returned the defective toaster.",
+      "style": "Contextual",
+      "translation": "我退回那台有问题的烤面包机后，商店给我退了款。",
+      "translated_word": "有问题的",
+      "display_order": 1
+    },
+    {
+      "sentence": "The automaker recalled 50,000 vehicles due to defective airbags.",
+      "style": "Formal",
+      "translation": "该汽车制造商因安全气囊存在缺陷，召回了五万辆汽车。",
+      "translated_word": "缺陷",
+      "display_order": 3
+    },
+    {
+      "sentence": "We discovered defective wiring behind the kitchen wall.",
+      "style": "Collocational",
+      "translation": "我们发现厨房墙壁后面的电线有问题。",
+      "translated_word": "有问题",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother kept every defective teacup; she said cracks hold stories.",
+      "style": "Intimate",
+      "translation": "外婆留着每一只有瑕疵的茶杯，她说裂纹里藏着故事。",
+      "translated_word": "瑕疵",
+      "display_order": 4
+    }
+  ]
+}

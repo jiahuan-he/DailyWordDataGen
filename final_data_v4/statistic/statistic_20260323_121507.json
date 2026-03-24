@@ -1,0 +1,40 @@
+{
+  "word": "statistic",
+  "phonetic": "/stəˈtɪstɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "统计数据；数字；统计量",
+  "examples": [
+    {
+      "sentence": "That statistic changed the entire direction of our campaign.",
+      "style": "Contextual",
+      "translation": "那个数据改变了我们整个宣传活动的方向。",
+      "translated_word": "数据",
+      "display_order": 2
+    },
+    {
+      "sentence": "The report cited a troubling statistic: one in four adults lives alone.",
+      "style": "Formal",
+      "translation": "报告援引了一项令人担忧的数据：四分之一的成年人独居。",
+      "translated_word": "数据",
+      "display_order": 1
+    },
+    {
+      "sentence": "A statistic measures what happened; it never asks why.",
+      "style": "Philosophical",
+      "translation": "统计数据衡量已发生之事，却从不追问缘由。",
+      "translated_word": "统计数据",
+      "display_order": 3
+    },
+    {
+      "sentence": "To the analyst, she was a statistic; to her daughter, she was everything.",
+      "style": "Contrastive",
+      "translation": "对分析师而言，她只是一个数字；对她女儿而言，她是全部。",
+      "translated_word": "数字",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "frequent",
+  "phonetic": "/ˈfriːkwənt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "频繁的；经常的；常见的",
+  "examples": [
+    {
+      "sentence": "Her frequent glances at the clock betrayed her impatience.",
+      "style": "Contextual",
+      "translation": "她频频看向时钟，焦躁已然外露。",
+      "translated_word": "频频",
+      "display_order": 2
+    },
+    {
+      "sentence": "Frequent flyers learn to sleep anywhere.",
+      "style": "Collocational",
+      "translation": "常飞的旅客学会了在任何地方入睡。",
+      "translated_word": "常",
+      "display_order": 4
+    },
+    {
+      "sentence": "Frequent cyberattacks have forced companies to rethink security protocols.",
+      "style": "Formal",
+      "translation": "频繁的网络攻击迫使企业重新审视安全策略。",
+      "translated_word": "频繁",
+      "display_order": 1
+    },
+    {
+      "sentence": "Those frequent midnight calls kept us close when distance tried to pull us apart.",
+      "style": "Intimate",
+      "translation": "那些频繁的深夜通话，让我们在距离试图拉开彼此时依然亲近。",
+      "translated_word": "频繁",
+      "display_order": 3
+    }
+  ]
+}

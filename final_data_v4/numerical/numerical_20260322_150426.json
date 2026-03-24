@@ -1,0 +1,39 @@
+{
+  "word": "numerical",
+  "phonetic": "/njuːˈmerɪkəl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "数字的；数值的；用数字表示的",
+  "examples": [
+    {
+      "sentence": "Without numerical proof, the theory remained speculation.",
+      "style": "Contextual",
+      "translation": "没有数字证据，这个理论仍是推测。",
+      "translated_word": "数字",
+      "display_order": 3
+    },
+    {
+      "sentence": "The committee requires numerical data before approving the proposal.",
+      "style": "Formal",
+      "translation": "委员会需要数值数据方可批准该提案。",
+      "translated_word": "数值",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her strong numerical ability set her apart in finance.",
+      "style": "Collocational",
+      "translation": "出色的数字能力让她在金融领域脱颖而出。",
+      "translated_word": "数字",
+      "display_order": 2
+    },
+    {
+      "sentence": "Numbers simplify; life resists numerical reduction.",
+      "style": "Philosophical",
+      "translation": "数字简化一切；生活却拒绝被量化。",
+      "translated_word": "量化",
+      "display_order": 4
+    }
+  ]
+}

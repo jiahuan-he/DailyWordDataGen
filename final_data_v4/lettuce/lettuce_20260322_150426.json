@@ -1,0 +1,39 @@
+{
+  "word": "lettuce",
+  "phonetic": "/ˈletɪs/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "生菜；莴苣",
+  "examples": [
+    {
+      "sentence": "The lettuce in her garden had wilted overnight from the unexpected frost.",
+      "style": "Contextual",
+      "translation": "一场突如其来的霜冻，让她园中的生菜一夜间蔫了。",
+      "translated_word": "生菜",
+      "display_order": 3
+    },
+    {
+      "sentence": "He wrapped the grilled meat in crisp lettuce instead of bread.",
+      "style": "Collocational",
+      "translation": "他用脆生生的生菜裹住烤肉，取代了面包。",
+      "translated_word": "生菜",
+      "display_order": 1
+    },
+    {
+      "sentence": "Romaine holds up to heat; butter lettuce bruises at a glance.",
+      "style": "Contrastive",
+      "translation": "罗马生菜耐得住高温，奶油生菜却一碰就伤。",
+      "translated_word": "生菜",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother always saved the outer lettuce leaves for her rabbits.",
+      "style": "Intimate",
+      "translation": "外婆总把生菜的外层叶子留给她的兔子们。",
+      "translated_word": "生菜",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "hangdog",
+  "phonetic": "/ˈhæŋdɒɡ/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "羞愧的；垂头丧气的；自惭形秽的",
+  "examples": [
+    {
+      "sentence": "He returned with a hangdog expression, the broken vase still in his hands.",
+      "style": "Contextual",
+      "translation": "他满脸愧色地回来，手里还捧着那只碎花瓶。",
+      "translated_word": "愧色",
+      "display_order": 1
+    },
+    {
+      "sentence": "The old dog wore the same hangdog look as his master.",
+      "style": "Poetic",
+      "translation": "老狗和主人挂着同样的落寞神情。",
+      "translated_word": "落寞",
+      "display_order": 4
+    },
+    {
+      "sentence": "That hangdog look in the mirror told me I already knew the answer.",
+      "style": "Intimate",
+      "translation": "镜中那副垂头丧气的模样告诉我，答案我早已知晓。",
+      "translated_word": "垂头丧气",
+      "display_order": 3
+    },
+    {
+      "sentence": "He shuffled in with a hangdog look, avoiding everyone's eyes.",
+      "style": "Collocational",
+      "translation": "他拖着步子走进来，一脸羞愧，不敢与人对视。",
+      "translated_word": "羞愧",
+      "display_order": 2
+    }
+  ]
+}

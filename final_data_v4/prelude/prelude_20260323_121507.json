@@ -1,0 +1,40 @@
+{
+  "word": "prelude",
+  "phonetic": "/ˈpreljuːd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "序曲；前奏；序幕；开端",
+  "examples": [
+    {
+      "sentence": "The awkward silence was a prelude to a long overdue conversation.",
+      "style": "Contextual",
+      "translation": "尴尬的沉默，是一场迟来对话的前奏。",
+      "translated_word": "前奏",
+      "display_order": 3
+    },
+    {
+      "sentence": "Rain tapped the window, a gentle prelude to the coming storm.",
+      "style": "Poetic",
+      "translation": "雨点轻敲窗棂，是暴风雨将至的序曲。",
+      "translated_word": "序曲",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every ending is simply a prelude in disguise.",
+      "style": "Philosophical",
+      "translation": "每一个结局，不过是乔装的序幕。",
+      "translated_word": "序幕",
+      "display_order": 4
+    },
+    {
+      "sentence": "That first coffee together was the prelude to everything.",
+      "style": "Intimate",
+      "translation": "那杯共饮的咖啡，是我们一切的开端。",
+      "translated_word": "开端",
+      "display_order": 2
+    }
+  ]
+}

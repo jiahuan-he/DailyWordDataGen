@@ -1,0 +1,39 @@
+{
+  "word": "sentiment",
+  "phonetic": "/ˈsentɪmənt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "情感；情绪；心意；观点",
+  "examples": [
+    {
+      "sentence": "It wasn't the gift itself but the sentiment behind it that moved her.",
+      "style": "Contextual",
+      "translation": "打动她的不是礼物本身，而是其中的心意。",
+      "translated_word": "心意",
+      "display_order": 1
+    },
+    {
+      "sentence": "Public sentiment on the policy has shifted markedly since last year.",
+      "style": "Formal",
+      "translation": "公众对这项政策的态度自去年以来已明显转变。",
+      "translated_word": "态度",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every sentiment we bury eventually finds its voice.",
+      "style": "Philosophical",
+      "translation": "每一份被我们深埋的情感，终将找到出口。",
+      "translated_word": "情感",
+      "display_order": 3
+    },
+    {
+      "sentence": "Certain sentiments bloom only in silence.",
+      "style": "Poetic",
+      "translation": "有些情感，唯有在沉默中才能绽放。",
+      "translated_word": "情感",
+      "display_order": 4
+    }
+  ]
+}

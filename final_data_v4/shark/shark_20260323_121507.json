@@ -1,0 +1,40 @@
+{
+  "word": "shark",
+  "phonetic": "/ʃɑːrk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "鲨鱼；骗子；投机者",
+  "examples": [
+    {
+      "sentence": "A dark fin broke the surface; the shark was closing in.",
+      "style": "Contextual",
+      "translation": "黑色鱼鳍破水而出；鲨鱼正在逼近。",
+      "translated_word": "鲨鱼",
+      "display_order": 1
+    },
+    {
+      "sentence": "The shark moves in silence, a shadow older than memory.",
+      "style": "Poetic",
+      "translation": "鲨鱼无声游弋，古老如遗忘的暗影。",
+      "translated_word": "鲨鱼",
+      "display_order": 2
+    },
+    {
+      "sentence": "A loan shark never forgets a debt.",
+      "style": "Collocational",
+      "translation": "高利贷者从不忘记一笔欠债。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "In business, the sharks survive; the rest become prey.",
+      "style": "Philosophical",
+      "translation": "商海之中，鲨鱼幸存；余者皆为猎物。",
+      "translated_word": "鲨鱼",
+      "display_order": 3
+    }
+  ]
+}

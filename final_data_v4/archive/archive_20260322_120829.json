@@ -1,0 +1,40 @@
+{
+  "word": "archive",
+  "phonetic": "/ˈɑːrkaɪv/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "档案；档案馆；存档",
+  "examples": [
+    {
+      "sentence": "The museum's archive holds letters dating back three centuries.",
+      "style": "Contextual",
+      "translation": "博物馆的档案馆保存着三百年前的信件。",
+      "translated_word": "档案馆",
+      "display_order": 1
+    },
+    {
+      "sentence": "Journalists petitioned for access to the declassified archive.",
+      "style": "Formal",
+      "translation": "记者们请愿要求查阅已解密的档案。",
+      "translated_word": "档案",
+      "display_order": 3
+    },
+    {
+      "sentence": "An archive is a confession: it reveals what we chose to save.",
+      "style": "Philosophical",
+      "translation": "档案是一种坦白：它揭示了我们选择留存的一切。",
+      "translated_word": "档案",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her entire archive fit in a shoebox: three letters, one photograph, a dried flower.",
+      "style": "Intimate",
+      "translation": "她全部的珍藏只装满一个鞋盒：三封信，一张照片，一朵干花。",
+      "translated_word": "珍藏",
+      "display_order": 2
+    }
+  ]
+}

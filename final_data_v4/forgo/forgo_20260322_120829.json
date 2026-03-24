@@ -1,0 +1,39 @@
+{
+  "word": "forgo",
+  "phonetic": "/fɔːrˈɡoʊ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "放弃；舍弃；甘愿不要",
+  "examples": [
+    {
+      "sentence": "To forgo is not to lose; it is to choose.",
+      "style": "Philosophical",
+      "translation": "舍弃并非失去，而是选择。",
+      "translated_word": "舍弃",
+      "display_order": 4
+    },
+    {
+      "sentence": "She forgoes sleep to finish what she started.",
+      "style": "Inspirational",
+      "translation": "她宁可不眠，也要完成自己开始的事。",
+      "translated_word": "不眠",
+      "display_order": 2
+    },
+    {
+      "sentence": "My father forgoes his morning coffee to walk me to the bus stop.",
+      "style": "Intimate",
+      "translation": "父亲放弃了晨间的咖啡，只为送我去车站。",
+      "translated_word": "放弃",
+      "display_order": 1
+    },
+    {
+      "sentence": "He chose to forgo dessert, saving room for the birthday cake later.",
+      "style": "Contextual",
+      "translation": "他决定不吃甜点，好留着肚子吃晚些的生日蛋糕。",
+      "translated_word": "不吃",
+      "display_order": 3
+    }
+  ]
+}

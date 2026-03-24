@@ -1,0 +1,40 @@
+{
+  "word": "bowel",
+  "phonetic": "/ˈbaʊəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "肠；肠道；内部；深处",
+  "examples": [
+    {
+      "sentence": "The surgeon carefully examined the damaged bowel before proceeding.",
+      "style": "Contextual",
+      "translation": "外科医生仔细检查了受损的肠道，然后才继续手术。",
+      "translated_word": "肠道",
+      "display_order": 2
+    },
+    {
+      "sentence": "New research links gut bacteria to bowel health and immune function.",
+      "style": "Formal",
+      "translation": "新研究表明，肠道菌群与肠道健康及免疫功能密切相关。",
+      "translated_word": "肠道",
+      "display_order": 3
+    },
+    {
+      "sentence": "Fiber-rich foods promote regular bowel movements.",
+      "style": "Collocational",
+      "translation": "富含纤维的食物有助于维持正常的肠道蠕动。",
+      "translated_word": "肠道",
+      "display_order": 1
+    },
+    {
+      "sentence": "They ventured into the bowels of the ancient library, where forgotten manuscripts slept in dust.",
+      "style": "Poetic",
+      "translation": "他们步入古老图书馆的深处，那里沉睡着被遗忘的手稿，覆满尘埃。",
+      "translated_word": "深处",
+      "display_order": 4
+    }
+  ]
+}

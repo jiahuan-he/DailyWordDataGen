@@ -1,0 +1,40 @@
+{
+  "word": "mitten",
+  "phonetic": "/ˈmɪt.ən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "连指手套；棉手套",
+  "examples": [
+    {
+      "sentence": "She pulled on her mittens before stepping into the snow.",
+      "style": "Contextual",
+      "translation": "她戴上连指手套，踏入雪中。",
+      "translated_word": "连指手套",
+      "display_order": 1
+    },
+    {
+      "sentence": "The wool mittens kept her fingers warm all morning.",
+      "style": "Collocational",
+      "translation": "那副羊毛手套让她的手指整个上午都暖烘烘的。",
+      "translated_word": "手套",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother knitted these mittens the winter I turned five.",
+      "style": "Intimate",
+      "translation": "这副手套是我五岁那年冬天，奶奶亲手织的。",
+      "translated_word": "手套",
+      "display_order": 3
+    },
+    {
+      "sentence": "Snow fell softly on the red mittens of children chasing each other home.",
+      "style": "Poetic",
+      "translation": "雪花轻落在追逐回家的孩子们的红色手套上。",
+      "translated_word": "手套",
+      "display_order": 4
+    }
+  ]
+}

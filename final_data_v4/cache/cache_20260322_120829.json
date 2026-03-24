@@ -1,0 +1,40 @@
+{
+  "word": "cache",
+  "phonetic": "/kæʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "隐藏处；储藏物；缓存",
+  "examples": [
+    {
+      "sentence": "Archaeologists discovered a cache of ancient coins beneath the temple floor.",
+      "style": "Contextual",
+      "translation": "考古学家在神庙地板下发现了一批古币。",
+      "translated_word": "一批",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities seized a weapons cache linked to the smuggling network.",
+      "style": "Formal",
+      "translation": "当局查获了一处与走私网络有关的武器窝点。",
+      "translated_word": "窝点",
+      "display_order": 2
+    },
+    {
+      "sentence": "Clearing your browser cache can resolve most loading issues.",
+      "style": "Collocational",
+      "translation": "清除浏览器缓存通常能解决大部分加载问题。",
+      "translated_word": "缓存",
+      "display_order": 3
+    },
+    {
+      "sentence": "Memory is a cache we curate without realizing what we choose to keep.",
+      "style": "Philosophical",
+      "translation": "记忆是一座我们无意间整理的仓库，不知不觉中决定了留存与遗忘。",
+      "translated_word": "仓库",
+      "display_order": 4
+    }
+  ]
+}

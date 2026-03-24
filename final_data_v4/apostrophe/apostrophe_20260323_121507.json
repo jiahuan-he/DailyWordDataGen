@@ -1,0 +1,39 @@
+{
+  "word": "apostrophe",
+  "phonetic": "/əˈpɑːstrəfi/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "撇号；省略符号；所有格符号",
+  "examples": [
+    {
+      "sentence": "The missing apostrophe in \"its\" versus \"it's\" changes everything.",
+      "style": "Contextual",
+      "translation": "\"its\"与\"it's\"之间少了一个撇号，意思便截然不同。",
+      "translated_word": "撇号",
+      "display_order": 3
+    },
+    {
+      "sentence": "Editors flagged the misplaced apostrophe before the article went to print.",
+      "style": "Formal",
+      "translation": "编辑在文章付印前标出了那个放错位置的撇号。",
+      "translated_word": "撇号",
+      "display_order": 2
+    },
+    {
+      "sentence": "An apostrophe in \"don't\" marks the absent letter.",
+      "style": "Collocational",
+      "translation": "\"don't\"中的撇号标示着被省略的字母。",
+      "translated_word": "撇号",
+      "display_order": 1
+    },
+    {
+      "sentence": "A single apostrophe can claim ownership or erase what no longer belongs.",
+      "style": "Philosophical",
+      "translation": "一个小小的撇号，既能宣示所有，也能抹去已逝之物。",
+      "translated_word": "撇号",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "tout",
+  "phonetic": "/taʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "吹捧；大肆宣传；兜售",
+  "examples": [
+    {
+      "sentence": "Every startup touts itself as the next big thing.",
+      "style": "Contextual",
+      "translation": "每家初创公司都标榜自己是下一个风口。",
+      "translated_word": "标榜",
+      "display_order": 2
+    },
+    {
+      "sentence": "The policy was touted as a breakthrough by officials.",
+      "style": "Formal",
+      "translation": "该政策被官员们宣传为一项重大突破。",
+      "translated_word": "宣传",
+      "display_order": 1
+    },
+    {
+      "sentence": "They touted innovation, yet delivered imitation.",
+      "style": "Contrastive",
+      "translation": "他们吹嘘创新，交付的却是模仿。",
+      "translated_word": "吹嘘",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we tout often masks what we lack.",
+      "style": "Philosophical",
+      "translation": "我们所吹捧的，往往掩饰着我们所欠缺的。",
+      "translated_word": "吹捧",
+      "display_order": 4
+    }
+  ]
+}

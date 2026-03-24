@@ -1,0 +1,40 @@
+{
+  "word": "logistic",
+  "phonetic": "/ləˈdʒɪstɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "后勤的；物流的；组织运筹的",
+  "examples": [
+    {
+      "sentence": "The concert was canceled: a logistic nightmare of permits and equipment.",
+      "style": "Contextual",
+      "translation": "音乐会取消了：许可证和设备调度成了一场后勤噩梦。",
+      "translated_word": "后勤",
+      "display_order": 3
+    },
+    {
+      "sentence": "Global supply chains depend on sophisticated logistic networks.",
+      "style": "Formal",
+      "translation": "全球供应链依赖于精密的物流网络。",
+      "translated_word": "物流",
+      "display_order": 1
+    },
+    {
+      "sentence": "Without proper logistic support, even the best plans collapse.",
+      "style": "Collocational",
+      "translation": "没有妥善的后勤保障，再完美的计划也会功亏一篑。",
+      "translated_word": "后勤",
+      "display_order": 2
+    },
+    {
+      "sentence": "Creative ideas flow freely; logistic realities keep them grounded.",
+      "style": "Contrastive",
+      "translation": "创意可以天马行空；后勤现实让它们落地生根。",
+      "translated_word": "后勤",
+      "display_order": 4
+    }
+  ]
+}

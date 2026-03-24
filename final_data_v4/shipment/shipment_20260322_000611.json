@@ -1,0 +1,39 @@
+{
+  "word": "shipment",
+  "phonetic": "/ˈʃɪpmənt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "货物；运输品；装运；发货",
+  "examples": [
+    {
+      "sentence": "The warehouse received a large shipment of electronics this morning.",
+      "style": "Contextual",
+      "translation": "仓库今早收到了一大批电子产品。",
+      "translated_word": "批",
+      "display_order": 3
+    },
+    {
+      "sentence": "The company confirmed that the shipment would be delayed due to port congestion.",
+      "style": "Formal",
+      "translation": "公司确认，因港口拥堵，这批货物将延迟发运。",
+      "translated_word": "货物",
+      "display_order": 4
+    },
+    {
+      "sentence": "We're expecting a shipment of fresh produce by Friday.",
+      "style": "Collocational",
+      "translation": "我们预计周五前会收到一批新鲜农产品。",
+      "translated_word": "批",
+      "display_order": 1
+    },
+    {
+      "sentence": "That first shipment from overseas contained everything I owned at twenty-three.",
+      "style": "Intimate",
+      "translation": "那批从海外寄来的货物，装着我二十三岁时的全部家当。",
+      "translated_word": "货物",
+      "display_order": 2
+    }
+  ]
+}

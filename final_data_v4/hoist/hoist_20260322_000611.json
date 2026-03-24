@@ -1,0 +1,40 @@
+{
+  "word": "hoist",
+  "phonetic": "/hɔɪst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "吊起；升起；举起",
+  "examples": [
+    {
+      "sentence": "The crew hoisted the cargo onto the deck before the storm.",
+      "style": "Contextual",
+      "translation": "船员们在暴风雨前将货物吊上了甲板。",
+      "translated_word": "吊上",
+      "display_order": 1
+    },
+    {
+      "sentence": "The national flag was hoisted at dawn to mark independence.",
+      "style": "Formal",
+      "translation": "国旗于黎明升起，以纪念独立。",
+      "translated_word": "升起",
+      "display_order": 2
+    },
+    {
+      "sentence": "Sailors hoist the sails the moment the wind picks up.",
+      "style": "Collocational",
+      "translation": "风一起，水手便扬帆启航。",
+      "translated_word": "扬帆",
+      "display_order": 3
+    },
+    {
+      "sentence": "She hoisted the lantern high; the night softened around her.",
+      "style": "Poetic",
+      "translation": "她将灯笼高高举起，夜色在她身旁变得温柔。",
+      "translated_word": "举起",
+      "display_order": 4
+    }
+  ]
+}

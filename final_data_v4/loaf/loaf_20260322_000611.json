@@ -1,0 +1,40 @@
+{
+  "word": "loaf",
+  "phonetic": "/loʊf/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "一条面包；块状物",
+  "examples": [
+    {
+      "sentence": "She sliced the warm loaf and the kitchen filled with comfort.",
+      "style": "Contextual",
+      "translation": "她切开温热的面包，厨房里弥漫起慰藉的气息。",
+      "translated_word": "面包",
+      "display_order": 2
+    },
+    {
+      "sentence": "A crusty loaf, fresh from the oven, sat waiting on the wooden board.",
+      "style": "Collocational",
+      "translation": "一条外皮酥脆的面包刚出炉，静静摆在木板上。",
+      "translated_word": "面包",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every Sunday, her loaf waited on the counter: golden, patient, familiar.",
+      "style": "Intimate",
+      "translation": "每个周日，她烤的面包总守在台面上：金黄、安静、熟悉。",
+      "translated_word": "面包",
+      "display_order": 3
+    },
+    {
+      "sentence": "The loaf holds what hands cannot say: flour, labor, love.",
+      "style": "Poetic",
+      "translation": "面包承载着双手无法言说的一切：面粉、劳作、爱。",
+      "translated_word": "面包",
+      "display_order": 4
+    }
+  ]
+}

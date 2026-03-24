@@ -1,0 +1,41 @@
+{
+  "word": "infest",
+  "phonetic": "/ɪnˈfest/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "侵扰；滋生；大量出没",
+  "examples": [
+    {
+      "sentence": "Termites infest the old cabin; the floorboards creak with every step.",
+      "style": "Contextual",
+      "translation": "白蚁侵蚀了老木屋，地板每踩一步都嘎吱作响。",
+      "translated_word": "侵蚀",
+      "display_order": 2
+    },
+    {
+      "sentence": "Invasive species now infest nearly forty percent of the region's wetlands.",
+      "style": "Formal",
+      "translation": "入侵物种已在该地区近四成湿地大量滋生。",
+      "translated_word": "滋生",
+      "display_order": 3
+    },
+    {
+      "sentence": "Mosquitoes infest the pond each summer, driving neighbors indoors.",
+      "style": "Collocational",
+      "translation": "每到夏天，蚊虫便在池塘肆虐，逼得四邻紧闭门窗。",
+      "translated_word": "肆虐",
+      "display_order": 1
+    },
+    {
+      "sentence": "Doubts infest the mind far quicker than certainties can heal it.",
+      "style": "Philosophical",
+      "translation": "疑虑侵蚀心灵的速度，远快于确信修复它的速度。",
+      "translated_word": "侵蚀",
+      "display_order": 4
+    }
+  ]
+}

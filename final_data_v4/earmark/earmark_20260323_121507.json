@@ -1,0 +1,40 @@
+{
+  "word": "earmark",
+  "phonetic": "/ˈɪrˌmɑːrk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "指定；拨出；预留",
+  "examples": [
+    {
+      "sentence": "The city earmarked the old warehouse for an arts center.",
+      "style": "Contextual",
+      "translation": "市政府将那座旧仓库指定为艺术中心用地。",
+      "translated_word": "指定",
+      "display_order": 2
+    },
+    {
+      "sentence": "Congress earmarked $2 billion for wildfire prevention.",
+      "style": "Formal",
+      "translation": "国会拨出二十亿美元用于山火防治。",
+      "translated_word": "拨出",
+      "display_order": 1
+    },
+    {
+      "sentence": "She earmarks ten percent of each paycheck for travel.",
+      "style": "Collocational",
+      "translation": "她将每笔薪水的百分之十预留作旅行基金。",
+      "translated_word": "预留",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother earmarked her jade bracelet for me long before she spoke of leaving.",
+      "style": "Intimate",
+      "translation": "外婆早在提及离别之前，便已将那只玉镯留给了我。",
+      "translated_word": "留给",
+      "display_order": 4
+    }
+  ]
+}

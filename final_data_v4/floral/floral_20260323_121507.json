@@ -1,0 +1,40 @@
+{
+  "word": "floral",
+  "phonetic": "/ˈflɔːrəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "花的；花卉的；印花的",
+  "examples": [
+    {
+      "sentence": "The wallpaper had a delicate floral pattern of roses and lilies.",
+      "style": "Contextual",
+      "translation": "墙纸上印着玫瑰与百合的淡雅花纹。",
+      "translated_word": "花纹",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her perfume opened with bright floral notes of jasmine.",
+      "style": "Collocational",
+      "translation": "她的香水以茉莉的明亮花香开场。",
+      "translated_word": "花香",
+      "display_order": 3
+    },
+    {
+      "sentence": "Spring arrived in floral whispers across the meadow.",
+      "style": "Poetic",
+      "translation": "春天以花的絮语降临草地。",
+      "translated_word": "花",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's curtains were always floral, always sun-faded, always home.",
+      "style": "Intimate",
+      "translation": "外婆的窗帘永远是印花的，永远晒得褪色，永远是家的样子。",
+      "translated_word": "印花",
+      "display_order": 2
+    }
+  ]
+}

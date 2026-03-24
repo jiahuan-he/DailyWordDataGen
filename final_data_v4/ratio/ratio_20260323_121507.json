@@ -1,0 +1,40 @@
+{
+  "word": "ratio",
+  "phonetic": "/ˈreɪʃioʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "比率；比例；比值",
+  "examples": [
+    {
+      "sentence": "With a nurse-to-patient ratio of one to three, the care felt almost personal.",
+      "style": "Contextual",
+      "translation": "护患比一比三，照护近乎私人定制。",
+      "translated_word": "比",
+      "display_order": 2
+    },
+    {
+      "sentence": "The debt-to-income ratio has exceeded what regulators consider sustainable.",
+      "style": "Formal",
+      "translation": "债务收入比已超出监管机构认定的可持续水平。",
+      "translated_word": "比",
+      "display_order": 3
+    },
+    {
+      "sentence": "She cropped the thumbnail to a 16:9 ratio before uploading.",
+      "style": "Collocational",
+      "translation": "上传前，她将缩略图裁成了16:9的比例。",
+      "translated_word": "比例",
+      "display_order": 1
+    },
+    {
+      "sentence": "Happiness may be a ratio: what you have divided by what you expect.",
+      "style": "Philosophical",
+      "translation": "幸福或许是个比值：所得除以所期。",
+      "translated_word": "比值",
+      "display_order": 4
+    }
+  ]
+}

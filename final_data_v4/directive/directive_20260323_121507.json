@@ -1,0 +1,40 @@
+{
+  "word": "directive",
+  "phonetic": "/dɪˈrektɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "指令；指示；命令",
+  "examples": [
+    {
+      "sentence": "The new directive banned all personal devices in the lab.",
+      "style": "Contextual",
+      "translation": "新指令禁止在实验室内使用任何个人设备。",
+      "translated_word": "指令",
+      "display_order": 1
+    },
+    {
+      "sentence": "The ministry issued a directive requiring immediate compliance.",
+      "style": "Formal",
+      "translation": "该部门发布指令，要求立即执行。",
+      "translated_word": "指令",
+      "display_order": 3
+    },
+    {
+      "sentence": "A directive commands; a suggestion invites.",
+      "style": "Contrastive",
+      "translation": "指令是命令，建议是邀请。",
+      "translated_word": "指令",
+      "display_order": 4
+    },
+    {
+      "sentence": "He ignored the directive once, and once was enough.",
+      "style": "Collocational",
+      "translation": "他无视过一次指令，一次就够了。",
+      "translated_word": "指令",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "watermark",
+  "phonetic": "/ˈwɔːtəmɑːrk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "水印；水位线",
+  "examples": [
+    {
+      "sentence": "Hold the bill to the light; the watermark proves it's real.",
+      "style": "Contextual",
+      "translation": "把钞票对着光看，水印能证明它是真钞。",
+      "translated_word": "水印",
+      "display_order": 1
+    },
+    {
+      "sentence": "The leaked document bore no watermark, complicating efforts to trace its origin.",
+      "style": "Formal",
+      "translation": "泄露的文件没有水印，使追溯来源变得困难。",
+      "translated_word": "水印",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every photo in her portfolio carries a faint digital watermark.",
+      "style": "Collocational",
+      "translation": "她作品集里的每张照片都带有淡淡的数字水印。",
+      "translated_word": "水印",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some people leave watermarks on our lives: invisible until examined closely.",
+      "style": "Philosophical",
+      "translation": "有些人在我们生命中留下水印：不细看便察觉不到。",
+      "translated_word": "水印",
+      "display_order": 4
+    }
+  ]
+}

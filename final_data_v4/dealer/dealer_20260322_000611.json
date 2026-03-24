@@ -1,0 +1,39 @@
+{
+  "word": "dealer",
+  "phonetic": "/ˈdiːlər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "经销商；商人；交易商；发牌者",
+  "examples": [
+    {
+      "sentence": "The dealer handed me the keys to my first car.",
+      "style": "Contextual",
+      "translation": "经销商把我人生第一辆车的钥匙递到我手中。",
+      "translated_word": "经销商",
+      "display_order": 1
+    },
+    {
+      "sentence": "Licensed dealers must verify the authenticity of every piece they sell.",
+      "style": "Formal",
+      "translation": "持牌经销商须核实所售每件商品的真伪。",
+      "translated_word": "经销商",
+      "display_order": 3
+    },
+    {
+      "sentence": "She became a respected art dealer in her thirties.",
+      "style": "Collocational",
+      "translation": "三十多岁时，她已是一位备受尊敬的艺术品商人。",
+      "translated_word": "商人",
+      "display_order": 2
+    },
+    {
+      "sentence": "A dealer sells products; a partner solves problems.",
+      "style": "Contrastive",
+      "translation": "经销商售卖商品；合作伙伴解决问题。",
+      "translated_word": "经销商",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "hydrate",
+  "phonetic": "/ˈhaɪdreɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "补水；保湿；使水合",
+  "examples": [
+    {
+      "sentence": "The desert heat was brutal; we had to hydrate every hour.",
+      "style": "Contextual",
+      "translation": "沙漠酷热难耐，我们每小时都得补水。",
+      "translated_word": "补水",
+      "display_order": 2
+    },
+    {
+      "sentence": "Trainers remind athletes to hydrate before, during, and after workouts.",
+      "style": "Collocational",
+      "translation": "教练提醒运动员在训练前、中、后都要及时补水。",
+      "translated_word": "补水",
+      "display_order": 1
+    },
+    {
+      "sentence": "Health authorities urge citizens to hydrate frequently during the ongoing heatwave.",
+      "style": "Formal",
+      "translation": "卫生部门呼吁市民在持续高温期间勤加补水。",
+      "translated_word": "补水",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every night before bed, I hydrate my skin with the same lotion my mother used.",
+      "style": "Intimate",
+      "translation": "每晚睡前，我都用母亲当年用过的乳液为肌肤补水。",
+      "translated_word": "补水",
+      "display_order": 4
+    }
+  ]
+}

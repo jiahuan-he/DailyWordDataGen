@@ -1,0 +1,40 @@
+{
+  "word": "theorem",
+  "phonetic": "/ˈθɪərəm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "定理；命题；原理",
+  "examples": [
+    {
+      "sentence": "The professor spent three years proving a single theorem.",
+      "style": "Contextual",
+      "translation": "教授花了三年时间证明一条定理。",
+      "translated_word": "定理",
+      "display_order": 1
+    },
+    {
+      "sentence": "This theorem fundamentally reshaped our understanding of prime numbers.",
+      "style": "Formal",
+      "translation": "这一定理从根本上改变了我们对素数的理解。",
+      "translated_word": "定理",
+      "display_order": 3
+    },
+    {
+      "sentence": "A theorem is truth made visible through logic.",
+      "style": "Philosophical",
+      "translation": "定理是逻辑使真理变得可见。",
+      "translated_word": "定理",
+      "display_order": 4
+    },
+    {
+      "sentence": "The Pythagorean theorem remains a cornerstone of geometry.",
+      "style": "Collocational",
+      "translation": "勾股定理至今仍是几何学的基石。",
+      "translated_word": "定理",
+      "display_order": 2
+    }
+  ]
+}

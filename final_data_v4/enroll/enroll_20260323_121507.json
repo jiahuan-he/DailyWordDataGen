@@ -1,0 +1,39 @@
+{
+  "word": "enroll",
+  "phonetic": "/ɪnˈroʊl/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "注册；报名；登记；录取",
+  "examples": [
+    {
+      "sentence": "She enrolled in the morning yoga class to quiet her restless mind.",
+      "style": "Contextual",
+      "translation": "她报名参加了晨间瑜伽课，想让躁动的心安静下来。",
+      "translated_word": "报名",
+      "display_order": 3
+    },
+    {
+      "sentence": "The university enrolled a record number of international students this semester.",
+      "style": "Formal",
+      "translation": "本学期，该大学录取了创纪录数量的国际学生。",
+      "translated_word": "录取",
+      "display_order": 4
+    },
+    {
+      "sentence": "After years of delay, he finally enrolled in night school.",
+      "style": "Collocational",
+      "translation": "拖延多年后，他终于报名上了夜校。",
+      "translated_word": "报名",
+      "display_order": 1
+    },
+    {
+      "sentence": "The day I enrolled in art school, my father only nodded.",
+      "style": "Intimate",
+      "translation": "我报名艺术学院那天，父亲只是点了点头。",
+      "translated_word": "报名",
+      "display_order": 2
+    }
+  ]
+}

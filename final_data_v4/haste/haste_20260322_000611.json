@@ -1,0 +1,40 @@
+{
+  "word": "haste",
+  "phonetic": "/heɪst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "匆忙；仓促；急躁",
+  "examples": [
+    {
+      "sentence": "She left in haste, forgetting her keys on the counter.",
+      "style": "Contextual",
+      "translation": "她匆忙离开，把钥匙落在了台面上。",
+      "translated_word": "匆忙",
+      "display_order": 1
+    },
+    {
+      "sentence": "The note was scrawled in haste: 'Meet me at noon.'",
+      "style": "Collocational",
+      "translation": "纸条上仓促写着几个字：'正午见。'",
+      "translated_word": "仓促",
+      "display_order": 2
+    },
+    {
+      "sentence": "Haste borrows time it can never repay.",
+      "style": "Philosophical",
+      "translation": "匆忙借走的时间，从来无法偿还。",
+      "translated_word": "匆忙",
+      "display_order": 4
+    },
+    {
+      "sentence": "The station swirled with the haste of strangers brushing past.",
+      "style": "Poetic",
+      "translation": "车站里涌动着擦肩而过的匆忙身影。",
+      "translated_word": "匆忙",
+      "display_order": 3
+    }
+  ]
+}

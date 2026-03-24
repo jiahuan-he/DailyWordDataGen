@@ -1,0 +1,39 @@
+{
+  "word": "violate",
+  "phonetic": "/ˈvaɪəleɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "违反；侵犯；亵渎",
+  "examples": [
+    {
+      "sentence": "Internal documents show the firm violated data protection laws for years.",
+      "style": "Formal",
+      "translation": "内部文件显示，该公司多年来一直违反数据保护法。",
+      "translated_word": "违反",
+      "display_order": 3
+    },
+    {
+      "sentence": "Publishing this would violate our non-disclosure agreement.",
+      "style": "Contextual",
+      "translation": "公开此内容将违反我们的保密协议。",
+      "translated_word": "违反",
+      "display_order": 1
+    },
+    {
+      "sentence": "He violated her trust; no apology could undo that.",
+      "style": "Collocational",
+      "translation": "他辜负了她的信任；道歉已无法挽回。",
+      "translated_word": "辜负",
+      "display_order": 2
+    },
+    {
+      "sentence": "We violate our own principles far more often than we care to admit.",
+      "style": "Philosophical",
+      "translation": "我们违背自己原则的次数，远比我们愿意承认的要多。",
+      "translated_word": "违背",
+      "display_order": 4
+    }
+  ]
+}

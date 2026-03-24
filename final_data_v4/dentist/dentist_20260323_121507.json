@@ -1,0 +1,39 @@
+{
+  "word": "dentist",
+  "phonetic": "/ˈdentɪst/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "牙医；牙科医生",
+  "examples": [
+    {
+      "sentence": "The sharp ache in my molar meant only one thing: time to see a dentist.",
+      "style": "Contextual",
+      "translation": "臼齿的剧痛只意味着一件事：该去看牙医了。",
+      "translated_word": "牙医",
+      "display_order": 2
+    },
+    {
+      "sentence": "She books a dentist appointment every six months without fail.",
+      "style": "Collocational",
+      "translation": "她每半年准时预约一次牙医，从不间断。",
+      "translated_word": "牙医",
+      "display_order": 1
+    },
+    {
+      "sentence": "My childhood dentist kept lollipops by the door; the irony still makes me smile.",
+      "style": "Intimate",
+      "translation": "小时候的牙医总在门边放一罐棒棒糖；这份讽刺至今让我莞尔。",
+      "translated_word": "牙医",
+      "display_order": 4
+    },
+    {
+      "sentence": "The clinic recruited a dentist trained in treating patients with severe anxiety.",
+      "style": "Formal",
+      "translation": "诊所新聘了一位专门为重度焦虑患者提供治疗的牙医。",
+      "translated_word": "牙医",
+      "display_order": 3
+    }
+  ]
+}

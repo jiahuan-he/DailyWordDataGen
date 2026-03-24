@@ -1,0 +1,40 @@
+{
+  "word": "brigade",
+  "phonetic": "/brɪˈɡeɪd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "旅；队；小组",
+  "examples": [
+    {
+      "sentence": "The fire brigade arrived in minutes, sirens piercing the stillness.",
+      "style": "Contextual",
+      "translation": "消防队几分钟内赶到，警笛划破夜的寂静。",
+      "translated_word": "消防队",
+      "display_order": 1
+    },
+    {
+      "sentence": "The infantry brigade secured the northern perimeter at dawn.",
+      "style": "Formal",
+      "translation": "步兵旅于黎明时分控制了北部防线。",
+      "translated_word": "旅",
+      "display_order": 2
+    },
+    {
+      "sentence": "A bucket brigade formed along the riverbank to pass sandbags.",
+      "style": "Collocational",
+      "translation": "一条人链沿河岸排开，传递沙袋。",
+      "translated_word": "人链",
+      "display_order": 3
+    },
+    {
+      "sentence": "One person begins the work; a brigade completes it.",
+      "style": "Inspirational",
+      "translation": "一人起头，众人成事。",
+      "translated_word": "众人",
+      "display_order": 4
+    }
+  ]
+}

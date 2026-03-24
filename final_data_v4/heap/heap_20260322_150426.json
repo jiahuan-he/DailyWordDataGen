@@ -1,0 +1,41 @@
+{
+  "word": "heap",
+  "phonetic": "/hiːp/",
+  "pos": [
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "堆；大量；一大堆",
+  "examples": [
+    {
+      "sentence": "A heap of autumn leaves waited by the garden gate.",
+      "style": "Contextual",
+      "translation": "一堆秋叶静静堆在花园门旁。",
+      "translated_word": "堆",
+      "display_order": 1
+    },
+    {
+      "sentence": "She sorted through the heap of unread emails after vacation.",
+      "style": "Collocational",
+      "translation": "假期归来，她开始清理堆积如山的未读邮件。",
+      "translated_word": "堆积如山",
+      "display_order": 3
+    },
+    {
+      "sentence": "Books rose in gentle heaps, each spine a promise once made.",
+      "style": "Poetic",
+      "translation": "书籍层层堆叠，每一道书脊都是曾许下的诺言。",
+      "translated_word": "堆叠",
+      "display_order": 4
+    },
+    {
+      "sentence": "That heap of childhood drawings in the closet is the one box I can never throw away.",
+      "style": "Intimate",
+      "translation": "衣柜里那堆童年画作，是我唯一舍不得丢弃的箱子。",
+      "translated_word": "堆",
+      "display_order": 2
+    }
+  ]
+}

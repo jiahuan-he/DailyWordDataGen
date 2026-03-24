@@ -1,0 +1,40 @@
+{
+  "word": "reference",
+  "phonetic": "/ˈref.ər.əns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "参考；提及；推荐信；参照",
+  "examples": [
+    {
+      "sentence": "The footnotes led me to three excellent references.",
+      "style": "Contextual",
+      "translation": "脚注将我引向三份极佳的参考资料。",
+      "translated_word": "参考资料",
+      "display_order": 2
+    },
+    {
+      "sentence": "The committee requires written references from two previous employers.",
+      "style": "Formal",
+      "translation": "委员会要求提供两份前雇主的书面推荐信。",
+      "translated_word": "推荐信",
+      "display_order": 3
+    },
+    {
+      "sentence": "Keep this guide for future reference.",
+      "style": "Collocational",
+      "translation": "留好这份指南以备日后参考。",
+      "translated_word": "参考",
+      "display_order": 1
+    },
+    {
+      "sentence": "A single reference point can anchor an entire understanding.",
+      "style": "Philosophical",
+      "translation": "一个参照点，足以锚定全部的认知。",
+      "translated_word": "参照",
+      "display_order": 4
+    }
+  ]
+}

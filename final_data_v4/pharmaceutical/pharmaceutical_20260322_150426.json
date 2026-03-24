@@ -1,0 +1,40 @@
+{
+  "word": "pharmaceutical",
+  "phonetic": "/ˌfɑːrməˈsuːtɪkəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "制药的；药物的；药学的",
+  "examples": [
+    {
+      "sentence": "The pharmaceutical division now accounts for half the company's revenue.",
+      "style": "Contextual",
+      "translation": "制药部门如今贡献了公司一半的收入。",
+      "translated_word": "制药",
+      "display_order": 1
+    },
+    {
+      "sentence": "New pharmaceutical regulations will reshape the industry by 2030.",
+      "style": "Formal",
+      "translation": "新的制药法规将在2030年前重塑整个行业。",
+      "translated_word": "制药",
+      "display_order": 3
+    },
+    {
+      "sentence": "Pharmaceutical research requires patience; breakthroughs rarely happen overnight.",
+      "style": "Collocational",
+      "translation": "药物研发需要耐心；突破从来不会一夜之间发生。",
+      "translated_word": "药物",
+      "display_order": 2
+    },
+    {
+      "sentence": "Unlike cosmetic chemistry, pharmaceutical science must prove it heals.",
+      "style": "Contrastive",
+      "translation": "不同于化妆品化学，药学必须证明其疗效。",
+      "translated_word": "药学",
+      "display_order": 4
+    }
+  ]
+}

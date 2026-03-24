@@ -1,0 +1,39 @@
+{
+  "word": "detrimental",
+  "phonetic": "/ˌdetrɪˈmentl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有害的；不利的；损害的",
+  "examples": [
+    {
+      "sentence": "Skipping breakfast proved detrimental to her focus throughout the morning.",
+      "style": "Contextual",
+      "translation": "不吃早餐让她整个上午都难以集中注意力。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "The report found prolonged screen exposure detrimental to adolescent sleep patterns.",
+      "style": "Formal",
+      "translation": "报告指出，长时间使用电子屏幕对青少年的睡眠规律造成损害。",
+      "translated_word": "损害",
+      "display_order": 3
+    },
+    {
+      "sentence": "What feels productive in the short term can be detrimental in the long run.",
+      "style": "Contrastive",
+      "translation": "短期内看似高效的事，长远来看可能适得其反。",
+      "translated_word": "适得其反",
+      "display_order": 4
+    },
+    {
+      "sentence": "Chronic stress has detrimental effects on both the heart and the mind.",
+      "style": "Collocational",
+      "translation": "长期压力对身心健康都有损害。",
+      "translated_word": "损害",
+      "display_order": 1
+    }
+  ]
+}

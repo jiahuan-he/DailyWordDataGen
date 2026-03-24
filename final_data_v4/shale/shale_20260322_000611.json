@@ -1,0 +1,40 @@
+{
+  "word": "shale",
+  "phonetic": "/ʃeɪl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "页岩；油页岩",
+  "examples": [
+    {
+      "sentence": "The cliff face revealed layers of dark shale, each one a chapter of ancient seas.",
+      "style": "Contextual",
+      "translation": "悬崖断面露出层层深色页岩，每一层都是远古海洋的篇章。",
+      "translated_word": "页岩",
+      "display_order": 2
+    },
+    {
+      "sentence": "The shale boom transformed North Dakota into one of America's top oil-producing states.",
+      "style": "Formal",
+      "translation": "页岩革命将北达科他州推上了美国产油大州的前列。",
+      "translated_word": "页岩",
+      "display_order": 3
+    },
+    {
+      "sentence": "Unlike limestone, shale splits easily along its thin, compressed layers.",
+      "style": "Contrastive",
+      "translation": "与石灰岩不同，页岩沿其薄而致密的层理极易剥离。",
+      "translated_word": "页岩",
+      "display_order": 1
+    },
+    {
+      "sentence": "Millions of years pressed into shale; we extract it in seconds.",
+      "style": "Philosophical",
+      "translation": "亿万年沉积成岩，须臾之间便被开采殆尽。",
+      "translated_word": "岩",
+      "display_order": 4
+    }
+  ]
+}

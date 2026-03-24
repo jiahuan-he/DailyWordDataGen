@@ -1,0 +1,41 @@
+{
+  "word": "prior",
+  "phonetic": "/ˈpraɪər/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "先前的；在前的；优先的",
+  "examples": [
+    {
+      "sentence": "No prior experience required; we train from scratch.",
+      "style": "Contextual",
+      "translation": "无需先前经验，我们从零培训。",
+      "translated_word": "先前",
+      "display_order": 1
+    },
+    {
+      "sentence": "The board reviewed all prior rulings before reaching its verdict.",
+      "style": "Formal",
+      "translation": "董事会在作出裁决前审阅了所有先前的判例。",
+      "translated_word": "先前的",
+      "display_order": 3
+    },
+    {
+      "sentence": "Prior knowledge of the terrain saved the expedition.",
+      "style": "Collocational",
+      "translation": "对地形的预先了解拯救了这支探险队。",
+      "translated_word": "预先",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her prior silence made the confession land like thunder.",
+      "style": "Contrastive",
+      "translation": "她此前的沉默，让这番坦白如雷鸣般震撼。",
+      "translated_word": "此前的",
+      "display_order": 4
+    }
+  ]
+}

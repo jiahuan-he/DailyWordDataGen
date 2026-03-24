@@ -1,0 +1,41 @@
+{
+  "word": "scald",
+  "phonetic": "/skɔːld/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "烫伤；烫；灼伤",
+  "examples": [
+    {
+      "sentence": "The coffee was so hot it nearly scalded my tongue.",
+      "style": "Contextual",
+      "translation": "咖啡烫得差点灼伤了我的舌头。",
+      "translated_word": "灼伤",
+      "display_order": 1
+    },
+    {
+      "sentence": "Be careful not to scald yourself with the steam from the pot.",
+      "style": "Collocational",
+      "translation": "小心别被锅里的蒸汽烫到。",
+      "translated_word": "烫到",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother always tested the bathwater first, afraid she might scald my skin.",
+      "style": "Intimate",
+      "translation": "外婆总会先试试洗澡水的温度，生怕烫着我的皮肤。",
+      "translated_word": "烫着",
+      "display_order": 2
+    },
+    {
+      "sentence": "Summer pavement scalds bare feet into a dance.",
+      "style": "Poetic",
+      "translation": "盛夏的路面滚烫，赤足踏上，便成了一场即兴舞蹈。",
+      "translated_word": "滚烫",
+      "display_order": 4
+    }
+  ]
+}

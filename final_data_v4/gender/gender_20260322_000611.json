@@ -1,0 +1,40 @@
+{
+  "word": "gender",
+  "phonetic": "/ˈdʒendər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "性别；社会性别",
+  "examples": [
+    {
+      "sentence": "The application form listed three options for gender.",
+      "style": "Contextual",
+      "translation": "申请表上列出了三个性别选项。",
+      "translated_word": "性别",
+      "display_order": 1
+    },
+    {
+      "sentence": "The report revealed a persistent gender gap in executive compensation.",
+      "style": "Formal",
+      "translation": "报告揭示了高管薪酬中持续存在的性别差距。",
+      "translated_word": "性别",
+      "display_order": 3
+    },
+    {
+      "sentence": "Gender is the first story others write about us.",
+      "style": "Philosophical",
+      "translation": "性别是他人为我们书写的第一个故事。",
+      "translated_word": "性别",
+      "display_order": 4
+    },
+    {
+      "sentence": "My daughter asked why gender decides who wears pink.",
+      "style": "Intimate",
+      "translation": "女儿问我，为什么性别能决定谁穿粉色。",
+      "translated_word": "性别",
+      "display_order": 2
+    }
+  ]
+}

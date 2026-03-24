@@ -1,0 +1,39 @@
+{
+  "word": "deceptive",
+  "phonetic": "/dɪˈseptɪv/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "欺骗性的；误导的；虚假的",
+  "examples": [
+    {
+      "sentence": "The trail looked short on the map, but mountain distances are deceptive.",
+      "style": "Contextual",
+      "translation": "地图上看着挺近，但山路的距离往往骗人。",
+      "translated_word": "骗人",
+      "display_order": 2
+    },
+    {
+      "sentence": "Regulators issued fines for the company's deceptive advertising practices.",
+      "style": "Formal",
+      "translation": "监管部门就该公司的虚假广告行为开出了罚单。",
+      "translated_word": "虚假",
+      "display_order": 1
+    },
+    {
+      "sentence": "First impressions are often deceptive; truth reveals itself slowly.",
+      "style": "Philosophical",
+      "translation": "第一印象往往靠不住；真相总是姗姗来迟。",
+      "translated_word": "靠不住",
+      "display_order": 3
+    },
+    {
+      "sentence": "His deceptive calm hid a mind racing through every possibility.",
+      "style": "Collocational",
+      "translation": "他表面平静，内心却早已千回百转。",
+      "translated_word": "表面",
+      "display_order": 4
+    }
+  ]
+}

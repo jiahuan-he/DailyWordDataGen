@@ -1,0 +1,41 @@
+{
+  "word": "foreboding",
+  "phonetic": "/fɔːrˈboʊdɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "不祥预感；凶兆；隐忧",
+  "examples": [
+    {
+      "sentence": "The sky darkened, and a deep foreboding settled over the village.",
+      "style": "Contextual",
+      "translation": "天色骤暗，一股不祥的预感笼罩了整个村庄。",
+      "translated_word": "预感",
+      "display_order": 1
+    },
+    {
+      "sentence": "She moved through the empty house, foreboding clinging to her like mist.",
+      "style": "Poetic",
+      "translation": "她穿行于空荡的屋中，不安如薄雾般缠身不散。",
+      "translated_word": "不安",
+      "display_order": 3
+    },
+    {
+      "sentence": "We often dismiss foreboding as irrational, only to wish we had listened.",
+      "style": "Philosophical",
+      "translation": "我们常将预感斥为无稽之谈，事后却悔不当初。",
+      "translated_word": "预感",
+      "display_order": 4
+    },
+    {
+      "sentence": "That last phone call left me with a foreboding I couldn't shake for days.",
+      "style": "Intimate",
+      "translation": "那通电话之后，某种隐忧在心头盘桓数日，挥之不去。",
+      "translated_word": "隐忧",
+      "display_order": 2
+    }
+  ]
+}

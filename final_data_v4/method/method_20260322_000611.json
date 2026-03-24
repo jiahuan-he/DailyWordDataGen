@@ -1,0 +1,40 @@
+{
+  "word": "method",
+  "phonetic": "/ˈmeθəd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "方法；办法；手段；条理",
+  "examples": [
+    {
+      "sentence": "Her method was simple: listen first, speak second.",
+      "style": "Contextual",
+      "translation": "她的方法很简单：先倾听，后发言。",
+      "translated_word": "方法",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new research method has reduced testing time by forty percent.",
+      "style": "Formal",
+      "translation": "新的研究方法使测试时间缩短了百分之四十。",
+      "translated_word": "方法",
+      "display_order": 4
+    },
+    {
+      "sentence": "The method matters less than the patience behind it.",
+      "style": "Philosophical",
+      "translation": "方法本身不重要，重要的是背后的耐心。",
+      "translated_word": "方法",
+      "display_order": 3
+    },
+    {
+      "sentence": "She questioned his teaching method but never his intention.",
+      "style": "Collocational",
+      "translation": "她质疑他的教学方法，但从不怀疑他的初衷。",
+      "translated_word": "方法",
+      "display_order": 2
+    }
+  ]
+}

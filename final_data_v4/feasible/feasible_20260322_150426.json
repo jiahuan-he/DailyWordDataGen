@@ -1,0 +1,39 @@
+{
+  "word": "feasible",
+  "phonetic": "/ˈfiːzəbl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "可行的；切实可行的；可实现的",
+  "examples": [
+    {
+      "sentence": "With limited resources, only three of the ten proposals were feasible.",
+      "style": "Contextual",
+      "translation": "资源有限，十个方案中只有三个可行。",
+      "translated_word": "可行",
+      "display_order": 2
+    },
+    {
+      "sentence": "The committee concluded that the merger was financially feasible.",
+      "style": "Formal",
+      "translation": "委员会认定，此次合并在财务上切实可行。",
+      "translated_word": "可行",
+      "display_order": 4
+    },
+    {
+      "sentence": "The idea sounds ambitious, but is it actually feasible?",
+      "style": "Contrastive",
+      "translation": "这个想法听起来雄心勃勃，但它真的可行吗？",
+      "translated_word": "可行",
+      "display_order": 3
+    },
+    {
+      "sentence": "We need a feasible solution before the deadline.",
+      "style": "Collocational",
+      "translation": "我们需要在截止日期前找到一个可行的方案。",
+      "translated_word": "可行",
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "relay",
+  "phonetic": "/rɪˈleɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "转达；传递；转播",
+  "examples": [
+    {
+      "sentence": "She missed the meeting, so I relayed the key points afterward.",
+      "style": "Contextual",
+      "translation": "她错过了会议，我事后把要点转达给了她。",
+      "translated_word": "转达",
+      "display_order": 3
+    },
+    {
+      "sentence": "The spokesperson relayed the company's official statement to the press.",
+      "style": "Formal",
+      "translation": "发言人向媒体转达了公司的官方声明。",
+      "translated_word": "转达",
+      "display_order": 1
+    },
+    {
+      "sentence": "Please relay my gratitude to everyone who helped.",
+      "style": "Collocational",
+      "translation": "请代我向所有帮忙的人转达谢意。",
+      "translated_word": "转达",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every summer, my grandmother relayed stories from her village.",
+      "style": "Intimate",
+      "translation": "每年夏天，奶奶都会讲述她村庄里的往事。",
+      "translated_word": "讲述",
+      "display_order": 4
+    }
+  ]
+}

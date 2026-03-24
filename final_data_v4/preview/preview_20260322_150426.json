@@ -1,0 +1,40 @@
+{
+  "word": "preview",
+  "phonetic": "/ˈpriːvjuː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "预览；预告片；先睹为快",
+  "examples": [
+    {
+      "sentence": "The gallery offered a private preview before opening night.",
+      "style": "Contextual",
+      "translation": "画廊在开幕之夜前提供了私人预展。",
+      "translated_word": "预展",
+      "display_order": 1
+    },
+    {
+      "sentence": "She scored tickets to a sneak preview of the summer's biggest film.",
+      "style": "Collocational",
+      "translation": "她拿到了这部夏季大片的抢先场门票。",
+      "translated_word": "抢先场",
+      "display_order": 2
+    },
+    {
+      "sentence": "That first chapter was merely a preview; by the end, the book had changed me.",
+      "style": "Intimate",
+      "translation": "那第一章不过是序曲；读到最后，整本书已将我彻底改变。",
+      "translated_word": "序曲",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every first meeting is a preview, hinting at stories yet to unfold.",
+      "style": "Philosophical",
+      "translation": "每一次初遇都是预告，暗示着尚未展开的故事。",
+      "translated_word": "预告",
+      "display_order": 4
+    }
+  ]
+}

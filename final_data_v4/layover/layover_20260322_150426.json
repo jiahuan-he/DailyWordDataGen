@@ -1,0 +1,39 @@
+{
+  "word": "layover",
+  "phonetic": "/ˈleɪˌoʊvər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "中转停留；转机等候；短暂逗留",
+  "examples": [
+    {
+      "sentence": "Our flight to Tokyo has a three-hour layover in Seoul.",
+      "style": "Contextual",
+      "translation": "我们飞东京的航班在首尔有三小时的转机停留。",
+      "translated_word": "转机停留",
+      "display_order": 1
+    },
+    {
+      "sentence": "She made the most of her layover: a quick bowl of ramen and a walk through the terminal gardens.",
+      "style": "Collocational",
+      "translation": "她充分利用了转机时间：一碗拉面，一趟航站楼花园漫步。",
+      "translated_word": "转机时间",
+      "display_order": 2
+    },
+    {
+      "sentence": "That layover in Lisbon became the trip itself; we never rebooked the connecting flight.",
+      "style": "Intimate",
+      "translation": "那次里斯本的中转，最后成了旅途本身；我们再也没改签后续的航班。",
+      "translated_word": "中转",
+      "display_order": 3
+    },
+    {
+      "sentence": "A layover is a strange country: you belong to no city, and every clock shows a different truth.",
+      "style": "Philosophical",
+      "translation": "转机是一片奇异的国度：你不属于任何城市，每一座时钟都显示着不同的真相。",
+      "translated_word": "转机",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "rally",
+  "phonetic": "/ˈræli/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "召集；振作；团结",
+  "examples": [
+    {
+      "sentence": "The coach rallied the team after a brutal first half.",
+      "style": "Contextual",
+      "translation": "上半场惨败后，教练重新凝聚了全队的斗志。",
+      "translated_word": "凝聚",
+      "display_order": 1
+    },
+    {
+      "sentence": "Markets rallied sharply on news of the rate cut.",
+      "style": "Formal",
+      "translation": "降息消息传出后，市场强势反弹。",
+      "translated_word": "反弹",
+      "display_order": 3
+    },
+    {
+      "sentence": "When doubt surrounds you, rally your own belief.",
+      "style": "Inspirational",
+      "translation": "当质疑四起时，唤醒你内心的信念。",
+      "translated_word": "唤醒",
+      "display_order": 4
+    },
+    {
+      "sentence": "After her diagnosis, our family rallied in ways we never knew possible.",
+      "style": "Intimate",
+      "translation": "她确诊后，全家人以从未想象过的方式紧紧团结在一起。",
+      "translated_word": "团结",
+      "display_order": 2
+    }
+  ]
+}

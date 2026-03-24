@@ -1,0 +1,41 @@
+{
+  "word": "state",
+  "phonetic": "/steɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "状态；国家；州；情形",
+  "examples": [
+    {
+      "sentence": "The house fell into a state of disrepair after years of neglect.",
+      "style": "Contextual",
+      "translation": "多年无人照管，老宅已是一片破败。",
+      "translated_word": "一片",
+      "display_order": 2
+    },
+    {
+      "sentence": "The minister outlined the current state of the economy.",
+      "style": "Formal",
+      "translation": "部长概述了当前的经济形势。",
+      "translated_word": "形势",
+      "display_order": 1
+    },
+    {
+      "sentence": "Happiness is less a destination than a state we practice.",
+      "style": "Philosophical",
+      "translation": "幸福与其说是终点，不如说是一种修行。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "There's a fragile state right after heartbreak when even kindness feels unbearable.",
+      "style": "Intimate",
+      "translation": "心碎之后有一段脆弱的时光，连善意都让人难以承受。",
+      "translated_word": "时光",
+      "display_order": 3
+    }
+  ]
+}

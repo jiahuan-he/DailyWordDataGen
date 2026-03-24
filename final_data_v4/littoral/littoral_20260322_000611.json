@@ -1,0 +1,40 @@
+{
+  "word": "littoral",
+  "phonetic": "/ˈlɪtərəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "滨海的；沿岸的；近岸的",
+  "examples": [
+    {
+      "sentence": "The littoral zone teems with life where tide meets land.",
+      "style": "Contextual",
+      "translation": "潮水与陆地交汇的滨海地带，生机盎然。",
+      "translated_word": "滨海",
+      "display_order": 1
+    },
+    {
+      "sentence": "Climate change threatens littoral communities across Southeast Asia.",
+      "style": "Formal",
+      "translation": "气候变化正威胁着东南亚各地的沿海社区。",
+      "translated_word": "沿海",
+      "display_order": 3
+    },
+    {
+      "sentence": "Herons stalk the littoral shallows at dusk, patient as stone.",
+      "style": "Poetic",
+      "translation": "苍鹭于暮色中踱步浅滩，静默如石。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "Every edge is a littoral: something ending, something beginning.",
+      "style": "Philosophical",
+      "translation": "每一道边缘都是海岸线：有所终结，有所萌生。",
+      "translated_word": "海岸线",
+      "display_order": 4
+    }
+  ]
+}

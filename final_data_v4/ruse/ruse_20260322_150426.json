@@ -1,0 +1,40 @@
+{
+  "word": "ruse",
+  "phonetic": "/ruːz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "诡计；策略；花招",
+  "examples": [
+    {
+      "sentence": "The fake phone call was just a ruse to get him out of the room.",
+      "style": "Contextual",
+      "translation": "那通假电话不过是把他支开的借口。",
+      "translated_word": "借口",
+      "display_order": 1
+    },
+    {
+      "sentence": "Investigators uncovered the elaborate ruse behind the charity's facade.",
+      "style": "Formal",
+      "translation": "调查人员揭开了这家慈善机构表象下精心设计的骗局。",
+      "translated_word": "骗局",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every polite excuse is a small ruse we grant each other.",
+      "style": "Philosophical",
+      "translation": "每一个客套的借口，都是我们彼此默许的小把戏。",
+      "translated_word": "把戏",
+      "display_order": 3
+    },
+    {
+      "sentence": "She planned a weekend trip as a ruse; the real surprise was the ring in his pocket.",
+      "style": "Intimate",
+      "translation": "她策划了一场周末旅行作为幌子；真正的惊喜，是他口袋里的戒指。",
+      "translated_word": "幌子",
+      "display_order": 2
+    }
+  ]
+}

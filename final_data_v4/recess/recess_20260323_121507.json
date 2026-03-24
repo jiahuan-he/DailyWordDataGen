@@ -1,0 +1,41 @@
+{
+  "word": "recess",
+  "phonetic": "/ˈriːsɛs/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "休息；课间；休会；凹处",
+  "examples": [
+    {
+      "sentence": "The judge called a brief recess to review the new evidence.",
+      "style": "Contextual",
+      "translation": "法官宣布短暂休庭以审阅新证据。",
+      "translated_word": "休庭",
+      "display_order": 1
+    },
+    {
+      "sentence": "Those recesses spent trading cards shaped friendships that lasted decades.",
+      "style": "Intimate",
+      "translation": "那些交换卡片的课间时光，铸就了延续数十年的友谊。",
+      "translated_word": "课间",
+      "display_order": 2
+    },
+    {
+      "sentence": "Congress will enter a two-week recess before reconvening to address the budget.",
+      "style": "Formal",
+      "translation": "国会将休会两周，届时再次召开会议讨论预算问题。",
+      "translated_word": "休会",
+      "display_order": 3
+    },
+    {
+      "sentence": "Childhood lives in the recess of memory, bright and untouchable.",
+      "style": "Poetic",
+      "translation": "童年栖居在记忆的深处，明亮而不可触及。",
+      "translated_word": "深处",
+      "display_order": 4
+    }
+  ]
+}

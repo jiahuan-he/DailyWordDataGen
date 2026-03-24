@@ -1,0 +1,40 @@
+{
+  "word": "rickshaw",
+  "phonetic": "/ˈrɪkʃɔː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "人力车；黄包车",
+  "examples": [
+    {
+      "sentence": "The alley was too narrow for cars, so we hired a rickshaw to reach the temple.",
+      "style": "Contextual",
+      "translation": "小巷狭窄，车辆难行，我们便雇了辆人力车前往寺庙。",
+      "translated_word": "人力车",
+      "display_order": 1
+    },
+    {
+      "sentence": "A rickshaw ride through the old quarter costs less than a cup of coffee.",
+      "style": "Collocational",
+      "translation": "乘人力车穿越老城区，花费不过一杯咖啡的价钱。",
+      "translated_word": "人力车",
+      "display_order": 4
+    },
+    {
+      "sentence": "The rickshaw survives not as transport, but as a thread to slower times.",
+      "style": "Philosophical",
+      "translation": "人力车留存至今，不在于代步，而在于它连着那段从容的旧时光。",
+      "translated_word": "人力车",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother described her wedding day: a red rickshaw, paper lanterns, and a city holding its breath.",
+      "style": "Intimate",
+      "translation": "祖母曾说起她出嫁那天：红色人力车、纸灯笼，整座城屏息以待。",
+      "translated_word": "人力车",
+      "display_order": 2
+    }
+  ]
+}

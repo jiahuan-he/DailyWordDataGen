@@ -1,0 +1,41 @@
+{
+  "word": "hereafter",
+  "phonetic": "/ˌhɪrˈæftər/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adverb",
+  "definition": "此后；今后；从此以后",
+  "examples": [
+    {
+      "sentence": "The document shall hereafter be referred to as the Agreement.",
+      "style": "Formal",
+      "translation": "该文件此后将简称为《协议》。",
+      "translated_word": "此后",
+      "display_order": 4
+    },
+    {
+      "sentence": "She quit the job and vowed to follow her instincts hereafter.",
+      "style": "Contextual",
+      "translation": "她辞去工作，发誓此后要追随自己的直觉。",
+      "translated_word": "此后",
+      "display_order": 1
+    },
+    {
+      "sentence": "We cannot unlive our mistakes; we can only live differently hereafter.",
+      "style": "Philosophical",
+      "translation": "错误无法重来，唯有此后活出不同。",
+      "translated_word": "此后",
+      "display_order": 3
+    },
+    {
+      "sentence": "The storm passed, and hereafter the hills wore a softer green.",
+      "style": "Poetic",
+      "translation": "风暴过后，山峦此后披上了更柔和的绿。",
+      "translated_word": "此后",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "rotor",
+  "phonetic": "/ˈroʊtər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "转子；旋翼",
+  "examples": [
+    {
+      "sentence": "The helicopter couldn't take off; one of its rotors was damaged.",
+      "style": "Contextual",
+      "translation": "直升机无法起飞；一片旋翼受损了。",
+      "translated_word": "旋翼",
+      "display_order": 2
+    },
+    {
+      "sentence": "Engineers detected a hairline fracture in the turbine rotor during inspection.",
+      "style": "Formal",
+      "translation": "工程师在检修中发现涡轮转子上有一道细微裂纹。",
+      "translated_word": "转子",
+      "display_order": 3
+    },
+    {
+      "sentence": "The main rotor hummed steadily as the pilot awaited clearance.",
+      "style": "Collocational",
+      "translation": "飞行员等待放行时，主旋翼平稳地嗡鸣着。",
+      "translated_word": "旋翼",
+      "display_order": 1
+    },
+    {
+      "sentence": "Above the jungle canopy, rotor blades sliced slow circles through humid air.",
+      "style": "Poetic",
+      "translation": "丛林树冠之上，旋翼在潮湿的空气中缓缓划出圆弧。",
+      "translated_word": "旋翼",
+      "display_order": 4
+    }
+  ]
+}

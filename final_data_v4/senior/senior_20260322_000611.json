@@ -1,0 +1,40 @@
+{
+  "word": "senior",
+  "phonetic": "/ˈsiːniər/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "资深的；年长的；高级的",
+  "examples": [
+    {
+      "sentence": "After a decade at the firm, she became the most senior architect on the floor.",
+      "style": "Contextual",
+      "translation": "在事务所工作十年后，她成为了这一层最资深的建筑师。",
+      "translated_word": "资深",
+      "display_order": 1
+    },
+    {
+      "sentence": "The senior executives convened to address the merger's final terms.",
+      "style": "Formal",
+      "translation": "高管们齐聚一堂，敲定并购的最终条款。",
+      "translated_word": "高管",
+      "display_order": 3
+    },
+    {
+      "sentence": "As a senior partner, he still arrives first and leaves last.",
+      "style": "Collocational",
+      "translation": "作为资深合伙人，他依然来得最早，走得最晚。",
+      "translated_word": "资深",
+      "display_order": 2
+    },
+    {
+      "sentence": "My senior colleague once told me: mastery looks effortless because it has already paid the price.",
+      "style": "Intimate",
+      "translation": "我的前辈曾对我说：炉火纯青看似轻松，是因为代价早已付过。",
+      "translated_word": "前辈",
+      "display_order": 4
+    }
+  ]
+}

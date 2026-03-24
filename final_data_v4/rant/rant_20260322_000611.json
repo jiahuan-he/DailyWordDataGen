@@ -1,0 +1,40 @@
+{
+  "word": "rant",
+  "phonetic": "/rænt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "咆哮；怒斥；大发牢骚",
+  "examples": [
+    {
+      "sentence": "He ranted about the slow wifi for ten minutes.",
+      "style": "Contextual",
+      "translation": "他对着龟速的网络抱怨了整整十分钟。",
+      "translated_word": "抱怨",
+      "display_order": 1
+    },
+    {
+      "sentence": "We rant not to change minds, but to feel heard.",
+      "style": "Philosophical",
+      "translation": "我们咆哮，不为改变他人，只为被人听见。",
+      "translated_word": "咆哮",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father would rant about politics at every holiday dinner.",
+      "style": "Intimate",
+      "translation": "每逢节日家宴，父亲必大谈政治。",
+      "translated_word": "大谈",
+      "display_order": 2
+    },
+    {
+      "sentence": "She tends to rant and rave when deadlines loom.",
+      "style": "Collocational",
+      "translation": "截止日期将近时，她便会大发雷霆。",
+      "translated_word": "大发雷霆",
+      "display_order": 3
+    }
+  ]
+}

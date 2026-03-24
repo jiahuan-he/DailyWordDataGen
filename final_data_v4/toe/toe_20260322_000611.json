@@ -1,0 +1,40 @@
+{
+  "word": "toe",
+  "phonetic": "/təʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "脚趾；脚尖；趾部",
+  "examples": [
+    {
+      "sentence": "She examined herself in the mirror from head to toe.",
+      "style": "Collocational",
+      "translation": "她对着镜子从头到脚打量自己。",
+      "translated_word": "脚",
+      "display_order": 4
+    },
+    {
+      "sentence": "The cold tiles beneath my toes reminded me I was finally home.",
+      "style": "Intimate",
+      "translation": "脚趾触及冰凉的地砖，我终于确信自己到家了。",
+      "translated_word": "脚趾",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sand slipped between her toes as the tide retreated.",
+      "style": "Poetic",
+      "translation": "潮水退去，细沙从她的脚趾间滑落。",
+      "translated_word": "脚趾",
+      "display_order": 1
+    },
+    {
+      "sentence": "He stubbed his toe on the chair leg in the dark.",
+      "style": "Contextual",
+      "translation": "他在黑暗中踢到椅子腿，脚趾撞得生疼。",
+      "translated_word": "脚趾",
+      "display_order": 2
+    }
+  ]
+}

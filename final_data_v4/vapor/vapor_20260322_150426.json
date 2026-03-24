@@ -1,0 +1,40 @@
+{
+  "word": "vapor",
+  "phonetic": "/ˈveɪpər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "蒸汽；水汽；雾气",
+  "examples": [
+    {
+      "sentence": "Morning vapor clings to the lake, softening the world's edges.",
+      "style": "Poetic",
+      "translation": "晨雾依偎着湖面，柔化了世界的轮廓。",
+      "translated_word": "雾",
+      "display_order": 3
+    },
+    {
+      "sentence": "Hot tea sent thin vapor spiraling into the cold air.",
+      "style": "Contextual",
+      "translation": "热茶袅袅升起白汽，消散在冷空气中。",
+      "translated_word": "汽",
+      "display_order": 2
+    },
+    {
+      "sentence": "Ambition, unacted upon, becomes vapor.",
+      "style": "Philosophical",
+      "translation": "野心若不付诸行动，终将化为虚无。",
+      "translated_word": "虚无",
+      "display_order": 4
+    },
+    {
+      "sentence": "Water vapor from the kettle fogged the kitchen window.",
+      "style": "Collocational",
+      "translation": "水壶的蒸汽模糊了厨房的玻璃窗。",
+      "translated_word": "蒸汽",
+      "display_order": 1
+    }
+  ]
+}

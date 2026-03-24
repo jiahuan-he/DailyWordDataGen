@@ -1,0 +1,40 @@
+{
+  "word": "pod",
+  "phonetic": "/pɑːd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "豆荚；舱；群（鲸豚等）",
+  "examples": [
+    {
+      "sentence": "We spotted a pod of dolphins breaking the surface near the boat.",
+      "style": "Contextual",
+      "translation": "我们看到一群海豚在船边跃出水面。",
+      "translated_word": "群",
+      "display_order": 3
+    },
+    {
+      "sentence": "She split the pea pod open and let the seeds roll into the bowl.",
+      "style": "Collocational",
+      "translation": "她掰开豆荚，让豆子滚落进碗里。",
+      "translated_word": "豆荚",
+      "display_order": 1
+    },
+    {
+      "sentence": "The sleeping pod floated through silence, a seed adrift in endless black.",
+      "style": "Poetic",
+      "translation": "休眠舱在寂静中漂浮，如种子飘向无尽的黑暗。",
+      "translated_word": "舱",
+      "display_order": 4
+    },
+    {
+      "sentence": "On summer afternoons, we'd sit shelling pods on the porch, fingers stained green.",
+      "style": "Intimate",
+      "translation": "夏日午后，我们坐在门廊剥着豆荚，指尖染成青绿。",
+      "translated_word": "豆荚",
+      "display_order": 2
+    }
+  ]
+}

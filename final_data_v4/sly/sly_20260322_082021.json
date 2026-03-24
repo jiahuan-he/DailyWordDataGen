@@ -1,0 +1,40 @@
+{
+  "word": "sly",
+  "phonetic": "/slaɪ/",
+  "pos": [
+    "adjective",
+    "adverb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "狡猾的；诡诈的；会意的",
+  "examples": [
+    {
+      "sentence": "The deal sounded generous, but his sly tone gave away the hidden terms.",
+      "style": "Contextual",
+      "translation": "这笔交易听来慷慨，但他那狡猾的语气泄露了暗藏的条款。",
+      "translated_word": "狡猾",
+      "display_order": 3
+    },
+    {
+      "sentence": "She shot him a sly glance across the crowded room.",
+      "style": "Collocational",
+      "translation": "她隔着熙攘的人群，向他投去一个会意的眼神。",
+      "translated_word": "会意",
+      "display_order": 2
+    },
+    {
+      "sentence": "The sly know when to speak and when silence speaks louder.",
+      "style": "Philosophical",
+      "translation": "狡猾的人懂得何时开口，何时沉默更有力量。",
+      "translated_word": "狡猾",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather's sly wink always meant dessert before dinner.",
+      "style": "Intimate",
+      "translation": "外公那狡黠的眨眼，总意味着可以先吃甜点再吃饭。",
+      "translated_word": "狡黠",
+      "display_order": 1
+    }
+  ]
+}

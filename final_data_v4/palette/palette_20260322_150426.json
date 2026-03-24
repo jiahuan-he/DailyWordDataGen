@@ -1,0 +1,39 @@
+{
+  "word": "palette",
+  "phonetic": "/ˈpælət/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "调色板；色彩范围；配色方案",
+  "examples": [
+    {
+      "sentence": "The designer showed three palette options, ranging from earthy tones to ocean blues.",
+      "style": "Contextual",
+      "translation": "设计师展示了三组配色方案，从大地色系到海洋蓝调。",
+      "translated_word": "配色",
+      "display_order": 2
+    },
+    {
+      "sentence": "She settled on a muted palette for the living room.",
+      "style": "Collocational",
+      "translation": "她为客厅选定了一组柔和的配色。",
+      "translated_word": "配色",
+      "display_order": 1
+    },
+    {
+      "sentence": "Autumn unfolds its palette across the valley: amber, rust, gold.",
+      "style": "Poetic",
+      "translation": "秋天在山谷间铺展它的色盘：琥珀、铁锈、金黄。",
+      "translated_word": "色盘",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her studio window framed a palette I'll never forget: rooftops, sky, endless gray.",
+      "style": "Intimate",
+      "translation": "她画室的窗框住了一幅我永难忘怀的色调：屋顶、天空、无尽的灰。",
+      "translated_word": "色调",
+      "display_order": 4
+    }
+  ]
+}

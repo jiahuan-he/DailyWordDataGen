@@ -1,0 +1,40 @@
+{
+  "word": "narrative",
+  "phonetic": "/ˈnærətɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "叙事；故事；叙述方式",
+  "examples": [
+    {
+      "sentence": "Every family has its own narrative of how it came to be.",
+      "style": "Contextual",
+      "translation": "每个家庭都有属于自己的起源故事。",
+      "translated_word": "故事",
+      "display_order": 1
+    },
+    {
+      "sentence": "The documentary challenged the prevailing narrative about the crisis.",
+      "style": "Formal",
+      "translation": "这部纪录片挑战了关于这场危机的主流叙事。",
+      "translated_word": "叙事",
+      "display_order": 3
+    },
+    {
+      "sentence": "We don't merely live; we shape our days into narratives.",
+      "style": "Philosophical",
+      "translation": "我们不只是活着；我们把日子编织成故事。",
+      "translated_word": "故事",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her old journals gave me a narrative of my mother I had never known.",
+      "style": "Intimate",
+      "translation": "她的旧日记让我看见了一个从未了解过的母亲。",
+      "translated_word": null,
+      "display_order": 2
+    }
+  ]
+}

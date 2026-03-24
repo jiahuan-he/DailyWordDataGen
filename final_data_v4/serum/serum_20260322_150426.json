@@ -1,0 +1,39 @@
+{
+  "word": "serum",
+  "phonetic": "/ˈsɪrəm/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "血清；精华液；浆液",
+  "examples": [
+    {
+      "sentence": "The lab analyzed her serum for antibodies after the vaccination.",
+      "style": "Contextual",
+      "translation": "接种疫苗后，实验室检测了她血清中的抗体。",
+      "translated_word": "血清",
+      "display_order": 1
+    },
+    {
+      "sentence": "Researchers have developed a new serum that may slow cellular aging.",
+      "style": "Formal",
+      "translation": "研究人员研发出一种可能延缓细胞衰老的新型血清。",
+      "translated_word": "血清",
+      "display_order": 3
+    },
+    {
+      "sentence": "She applies vitamin C serum every morning before sunscreen.",
+      "style": "Collocational",
+      "translation": "她每天早晨在涂防晒霜前使用维生素C精华液。",
+      "translated_word": "精华液",
+      "display_order": 2
+    },
+    {
+      "sentence": "At thirty, my nightstand holds more serums than novels.",
+      "style": "Intimate",
+      "translation": "三十岁后，我的床头柜上精华液比小说还多。",
+      "translated_word": "精华液",
+      "display_order": 4
+    }
+  ]
+}

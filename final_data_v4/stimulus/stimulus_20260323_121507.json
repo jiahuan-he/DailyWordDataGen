@@ -1,0 +1,39 @@
+{
+  "word": "stimulus",
+  "phonetic": "/ˈstɪmjələs/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "刺激；激励；促进因素",
+  "examples": [
+    {
+      "sentence": "Coffee was the only stimulus that got her through Monday mornings.",
+      "style": "Contextual",
+      "translation": "咖啡是她熬过周一早晨的唯一提神剂。",
+      "translated_word": "提神剂",
+      "display_order": 1
+    },
+    {
+      "sentence": "The government unveiled a stimulus package to support struggling industries.",
+      "style": "Formal",
+      "translation": "政府出台了一项刺激方案，以扶持陷入困境的产业。",
+      "translated_word": "刺激",
+      "display_order": 2
+    },
+    {
+      "sentence": "Discomfort, not comfort, is the truest stimulus for growth.",
+      "style": "Philosophical",
+      "translation": "不适而非安逸，才是成长最真实的催化剂。",
+      "translated_word": "催化剂",
+      "display_order": 4
+    },
+    {
+      "sentence": "New places offer the best stimulus for a restless mind.",
+      "style": "Inspirational",
+      "translation": "新的地方，是不安灵魂最好的激励。",
+      "translated_word": "激励",
+      "display_order": 3
+    }
+  ]
+}

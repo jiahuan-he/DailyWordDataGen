@@ -1,0 +1,40 @@
+{
+  "word": "finance",
+  "phonetic": "/ˈfaɪnæns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "金融；财务；资金",
+  "examples": [
+    {
+      "sentence": "The investigation revealed systemic failures in corporate finance.",
+      "style": "Formal",
+      "translation": "调查揭露了企业财务中的系统性漏洞。",
+      "translated_word": "财务",
+      "display_order": 3
+    },
+    {
+      "sentence": "She majored in finance and now works at a hedge fund.",
+      "style": "Contextual",
+      "translation": "她主修金融，如今在一家对冲基金工作。",
+      "translated_word": "金融",
+      "display_order": 1
+    },
+    {
+      "sentence": "Personal finance should be taught in every high school.",
+      "style": "Collocational",
+      "translation": "个人理财应成为每所高中的必修课。",
+      "translated_word": "理财",
+      "display_order": 2
+    },
+    {
+      "sentence": "We study finance to afford freedom, then forget to enjoy it.",
+      "style": "Philosophical",
+      "translation": "我们学习理财是为了负担得起自由，却忘了去享受它。",
+      "translated_word": "理财",
+      "display_order": 4
+    }
+  ]
+}

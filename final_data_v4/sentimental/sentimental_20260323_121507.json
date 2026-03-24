@@ -1,0 +1,39 @@
+{
+  "word": "sentimental",
+  "phonetic": "/ˌsentɪˈmentl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "多愁善感；怀旧；伤感",
+  "examples": [
+    {
+      "sentence": "Rain on a windowpane turns the most stoic heart sentimental.",
+      "style": "Poetic",
+      "translation": "雨打窗棂，再坚硬的心也会变得柔软。",
+      "translated_word": "柔软",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father kept every birthday card I ever made; I never knew he was so sentimental.",
+      "style": "Intimate",
+      "translation": "父亲保存着我从小到大做的每一张生日卡片；我从未想到他如此念旧。",
+      "translated_word": "念旧",
+      "display_order": 1
+    },
+    {
+      "sentence": "The watch is worthless to collectors, but it holds immense sentimental value to me.",
+      "style": "Collocational",
+      "translation": "这块表对收藏家来说一文不值，但对我而言，它承载着无价的情感。",
+      "translated_word": "情感",
+      "display_order": 2
+    },
+    {
+      "sentence": "Being sentimental is not weakness; it is proof that something mattered.",
+      "style": "Philosophical",
+      "translation": "多愁善感不是软弱；它证明有些事曾经重要。",
+      "translated_word": "多愁善感",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "quotient",
+  "phonetic": "/ˈkwoʊʃənt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "商；指数；程度",
+  "examples": [
+    {
+      "sentence": "Divide twenty by four; the quotient is five.",
+      "style": "Contextual",
+      "translation": "二十除以四，商是五。",
+      "translated_word": "商",
+      "display_order": 1
+    },
+    {
+      "sentence": "Emotional quotient, studies suggest, predicts leadership success more reliably than IQ.",
+      "style": "Formal",
+      "translation": "研究表明，情商比智商更能预测领导力的成就。",
+      "translated_word": "商",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her curiosity quotient makes her an exceptional researcher.",
+      "style": "Collocational",
+      "translation": "她极高的好奇指数使她成为出色的研究者。",
+      "translated_word": "指数",
+      "display_order": 3
+    },
+    {
+      "sentence": "We quantify intelligence quotients yet leave wisdom unmeasured.",
+      "style": "Philosophical",
+      "translation": "我们热衷于量化智商，却从不丈量智慧。",
+      "translated_word": "商",
+      "display_order": 4
+    }
+  ]
+}

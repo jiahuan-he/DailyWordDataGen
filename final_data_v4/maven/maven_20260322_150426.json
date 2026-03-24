@@ -1,0 +1,39 @@
+{
+  "word": "maven",
+  "phonetic": "/ˈmeɪvən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "专家；行家；内行",
+  "examples": [
+    {
+      "sentence": "She knew every vineyard in Burgundy: a true wine maven.",
+      "style": "Contextual",
+      "translation": "她熟知勃艮第每一座葡萄园，是真正的品酒行家。",
+      "translated_word": "行家",
+      "display_order": 3
+    },
+    {
+      "sentence": "The tech maven predicted the smartphone revolution a decade early.",
+      "style": "Formal",
+      "translation": "这位科技专家提前十年预见了智能手机的变革。",
+      "translated_word": "专家",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every neighborhood has its food maven, the one who knows the best hidden spots.",
+      "style": "Collocational",
+      "translation": "每个街区都有一位美食行家，熟知所有隐秘的好去处。",
+      "translated_word": "行家",
+      "display_order": 1
+    },
+    {
+      "sentence": "My father became a garden maven after retirement; now strangers stop to photograph his roses.",
+      "style": "Intimate",
+      "translation": "父亲退休后成了园艺专家，如今常有路人驻足拍他的玫瑰。",
+      "translated_word": "专家",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "sterilize",
+  "phonetic": "/ˈsterəlaɪz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "消毒；灭菌；使绝育；使丧失活力",
+  "examples": [
+    {
+      "sentence": "The nurse sterilized the needle before giving the shot.",
+      "style": "Contextual",
+      "translation": "护士在注射前对针头进行了消毒。",
+      "translated_word": "消毒",
+      "display_order": 2
+    },
+    {
+      "sentence": "All surgical instruments must be sterilized between procedures.",
+      "style": "Formal",
+      "translation": "所有手术器械必须在两次手术之间进行灭菌处理。",
+      "translated_word": "灭菌",
+      "display_order": 3
+    },
+    {
+      "sentence": "She sterilized the baby bottles in boiling water.",
+      "style": "Collocational",
+      "translation": "她把婴儿奶瓶放进沸水中消毒。",
+      "translated_word": "消毒",
+      "display_order": 1
+    },
+    {
+      "sentence": "Too much editing can sterilize a writer's voice.",
+      "style": "Philosophical",
+      "translation": "过度修改会让作家的文字失去生命力。",
+      "translated_word": "失去生命力",
+      "display_order": 4
+    }
+  ]
+}

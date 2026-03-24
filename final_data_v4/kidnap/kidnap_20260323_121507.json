@@ -1,0 +1,40 @@
+{
+  "word": "kidnap",
+  "phonetic": "/ˈkɪdnæp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "绑架；劫持；诱拐",
+  "examples": [
+    {
+      "sentence": "The masked men tried to kidnap her outside the school.",
+      "style": "Contextual",
+      "translation": "蒙面男子试图在校门外绑架她。",
+      "translated_word": "绑架",
+      "display_order": 1
+    },
+    {
+      "sentence": "Militants kidnapped three journalists near the contested border.",
+      "style": "Formal",
+      "translation": "武装分子在争议边境附近绑架了三名记者。",
+      "translated_word": "绑架",
+      "display_order": 2
+    },
+    {
+      "sentence": "They kidnapped him for ransom and vanished across state lines.",
+      "style": "Collocational",
+      "translation": "他们绑架他索取赎金，随后消失在州界之外。",
+      "translated_word": "绑架",
+      "display_order": 3
+    },
+    {
+      "sentence": "To kidnap someone is to steal their tomorrow before it arrives.",
+      "style": "Philosophical",
+      "translation": "绑架一个人，是在明天到来之前将它窃走。",
+      "translated_word": "绑架",
+      "display_order": 4
+    }
+  ]
+}

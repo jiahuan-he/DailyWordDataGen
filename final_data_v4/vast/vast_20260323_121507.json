@@ -1,0 +1,40 @@
+{
+  "word": "vast",
+  "phonetic": "/væst/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "广阔；辽阔；浩瀚；巨大",
+  "examples": [
+    {
+      "sentence": "Stars scattered across the vast night, each one a secret kept for millennia.",
+      "style": "Poetic",
+      "translation": "繁星散落在浩瀚夜空，每一颗都是千年的秘密。",
+      "translated_word": "浩瀚",
+      "display_order": 3
+    },
+    {
+      "sentence": "The distance between knowing and understanding is vast.",
+      "style": "Philosophical",
+      "translation": "知道与理解之间，隔着一片辽阔的距离。",
+      "translated_word": "辽阔",
+      "display_order": 4
+    },
+    {
+      "sentence": "The ranch is vast; driving across takes three hours.",
+      "style": "Contextual",
+      "translation": "这片牧场极为广阔，驱车横穿需要三个小时。",
+      "translated_word": "广阔",
+      "display_order": 1
+    },
+    {
+      "sentence": "Your potential is vast. Don't let small thinking contain it.",
+      "style": "Inspirational",
+      "translation": "你的潜力无比巨大，别让狭隘的思维禁锢了它。",
+      "translated_word": "巨大",
+      "display_order": 2
+    }
+  ]
+}

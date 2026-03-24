@@ -1,0 +1,40 @@
+{
+  "word": "lens",
+  "phonetic": "/lenz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "镜头；透镜；视角",
+  "examples": [
+    {
+      "sentence": "She wiped the lens clean before the sunset shoot.",
+      "style": "Contextual",
+      "translation": "她在日落拍摄前擦净了镜头。",
+      "translated_word": "镜头",
+      "display_order": 1
+    },
+    {
+      "sentence": "The documentary examines history through a feminist lens.",
+      "style": "Collocational",
+      "translation": "这部纪录片以女性主义视角审视历史。",
+      "translated_word": "视角",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every lens distorts; choose your distortion wisely.",
+      "style": "Philosophical",
+      "translation": "每一面透镜都会扭曲；关键在于选择怎样的扭曲。",
+      "translated_word": "透镜",
+      "display_order": 4
+    },
+    {
+      "sentence": "This cracked lens has traveled with me to fourteen countries.",
+      "style": "Intimate",
+      "translation": "这枚裂纹镜头陪我走过了十四个国家。",
+      "translated_word": "镜头",
+      "display_order": 2
+    }
+  ]
+}

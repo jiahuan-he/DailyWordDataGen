@@ -1,0 +1,41 @@
+{
+  "word": "spinning",
+  "phonetic": "/ˈspɪnɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "旋转；纺纱；眩晕",
+  "examples": [
+    {
+      "sentence": "The potter's wheel kept spinning as her hands shaped the clay.",
+      "style": "Contextual",
+      "translation": "陶轮不停旋转，她的双手将黏土塑成形状。",
+      "translated_word": "旋转",
+      "display_order": 1
+    },
+    {
+      "sentence": "Autumn leaves spinning down; the sky writes its farewell in gold.",
+      "style": "Poetic",
+      "translation": "秋叶旋落；天空以金色书写告别。",
+      "translated_word": "旋",
+      "display_order": 4
+    },
+    {
+      "sentence": "After the announcement, rumors started spinning out of control.",
+      "style": "Collocational",
+      "translation": "消息宣布后，谣言开始失控蔓延。",
+      "translated_word": "蔓延",
+      "display_order": 3
+    },
+    {
+      "sentence": "She found me in the backyard, spinning with arms wide open, chasing the clouds.",
+      "style": "Intimate",
+      "translation": "她在后院找到我，我正张开双臂旋转，追逐着云朵。",
+      "translated_word": "旋转",
+      "display_order": 2
+    }
+  ]
+}

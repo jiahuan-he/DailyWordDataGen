@@ -1,0 +1,40 @@
+{
+  "word": "vogue",
+  "phonetic": "/voʊɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "时尚；风尚；流行；风靡",
+  "examples": [
+    {
+      "sentence": "Minimalist design is in vogue this season.",
+      "style": "Contextual",
+      "translation": "极简设计本季正当红。",
+      "translated_word": "正当红",
+      "display_order": 1
+    },
+    {
+      "sentence": "Vinyl records have come back into vogue.",
+      "style": "Collocational",
+      "translation": "黑胶唱片重新流行起来。",
+      "translated_word": "流行",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every vogue reveals what a generation quietly longs for.",
+      "style": "Philosophical",
+      "translation": "每一种风尚，都映照着一代人内心深处的渴望。",
+      "translated_word": "风尚",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's pearl earrings are suddenly in vogue again.",
+      "style": "Intimate",
+      "translation": "外婆的珍珠耳环，忽然又时兴起来了。",
+      "translated_word": "时兴",
+      "display_order": 2
+    }
+  ]
+}

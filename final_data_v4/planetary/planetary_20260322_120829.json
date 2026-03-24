@@ -1,0 +1,40 @@
+{
+  "word": "planetary",
+  "phonetic": "/ˈplænɪteri/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "行星的；全球的；大规模的",
+  "examples": [
+    {
+      "sentence": "The telescope revealed planetary rings in stunning detail.",
+      "style": "Contextual",
+      "translation": "望远镜以惊人的清晰度揭示了行星环的细节。",
+      "translated_word": "行星",
+      "display_order": 1
+    },
+    {
+      "sentence": "Climate change demands planetary cooperation, not national rivalry.",
+      "style": "Formal",
+      "translation": "气候变化需要全球协作，而非国家间的角力。",
+      "translated_word": "全球",
+      "display_order": 2
+    },
+    {
+      "sentence": "From orbit, borders dissolve; only planetary wholeness remains.",
+      "style": "Philosophical",
+      "translation": "从轨道俯瞰，边界消融；唯余星球的浑然一体。",
+      "translated_word": "星球",
+      "display_order": 3
+    },
+    {
+      "sentence": "At midnight, she felt the slow planetary spin beneath her bare feet.",
+      "style": "Poetic",
+      "translation": "午夜时分，她赤足感受着脚下星球缓缓的转动。",
+      "translated_word": "星球",
+      "display_order": 4
+    }
+  ]
+}

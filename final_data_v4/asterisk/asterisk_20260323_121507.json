@@ -1,0 +1,40 @@
+{
+  "word": "asterisk",
+  "phonetic": "/ˈæstərɪsk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "星号；注释符号；附带条件",
+  "examples": [
+    {
+      "sentence": "An asterisk marked the items requiring assembly.",
+      "style": "Contextual",
+      "translation": "需要组装的物品旁标有星号。",
+      "translated_word": "星号",
+      "display_order": 1
+    },
+    {
+      "sentence": "The championship title carries an asterisk following the doping investigation.",
+      "style": "Formal",
+      "translation": "这一冠军头衔在兴奋剂调查后被打上了星号。",
+      "translated_word": "星号",
+      "display_order": 3
+    },
+    {
+      "sentence": "Read the asterisks; they hold what the headlines leave unsaid.",
+      "style": "Philosophical",
+      "translation": "读一读那些星号吧；标题没说的，都藏在那里。",
+      "translated_word": "星号",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her recipe cards were covered in asterisks: tiny secrets she never fully explained.",
+      "style": "Intimate",
+      "translation": "她的菜谱卡片上满是星号：那些她从未道尽的小秘密。",
+      "translated_word": "星号",
+      "display_order": 2
+    }
+  ]
+}

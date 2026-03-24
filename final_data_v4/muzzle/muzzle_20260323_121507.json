@@ -1,0 +1,40 @@
+{
+  "word": "muzzle",
+  "phonetic": "/ˈmʌzəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "口套；口鼻部；枪口",
+  "examples": [
+    {
+      "sentence": "The dog pressed its cold muzzle against my palm, seeking comfort.",
+      "style": "Contextual",
+      "translation": "狗将冰凉的口鼻贴在我的掌心，寻求慰藉。",
+      "translated_word": "口鼻",
+      "display_order": 1
+    },
+    {
+      "sentence": "Smoke curled slowly from the muzzle of the rifle.",
+      "style": "Collocational",
+      "translation": "青烟从枪口袅袅升起。",
+      "translated_word": "枪口",
+      "display_order": 3
+    },
+    {
+      "sentence": "A fawn's muzzle, still wet with milk, nuzzled into its mother's flank.",
+      "style": "Poetic",
+      "translation": "小鹿的口鼻还沾着奶渍，依偎进母亲的腹侧。",
+      "translated_word": "口鼻",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every muzzle placed on truth only delays its howl.",
+      "style": "Philosophical",
+      "translation": "套在真相上的每一个口套，不过是推迟了它的嘶吼。",
+      "translated_word": "口套",
+      "display_order": 4
+    }
+  ]
+}

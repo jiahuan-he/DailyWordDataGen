@@ -1,0 +1,40 @@
+{
+  "word": "yawn",
+  "phonetic": "/jɔːn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "打哈欠；张口",
+  "examples": [
+    {
+      "sentence": "The lecture dragged on, and half the room began to yawn.",
+      "style": "Contextual",
+      "translation": "讲座冗长乏味，半个教室的人开始打起哈欠。",
+      "translated_word": "哈欠",
+      "display_order": 1
+    },
+    {
+      "sentence": "She tried to stifle a yawn during the meeting but failed.",
+      "style": "Collocational",
+      "translation": "她试图在会议中忍住哈欠，却没能成功。",
+      "translated_word": "哈欠",
+      "display_order": 3
+    },
+    {
+      "sentence": "My dog yawned beside me as the credits rolled, both of us too cozy to move.",
+      "style": "Intimate",
+      "translation": "片尾字幕滚动时，狗在我身旁打了个哈欠，我们都舒服得不想动弹。",
+      "translated_word": "哈欠",
+      "display_order": 2
+    },
+    {
+      "sentence": "The old cat yawned at the fading sun, unhurried by time.",
+      "style": "Poetic",
+      "translation": "老猫对着落日打了个哈欠，不为时光所扰。",
+      "translated_word": "哈欠",
+      "display_order": 4
+    }
+  ]
+}

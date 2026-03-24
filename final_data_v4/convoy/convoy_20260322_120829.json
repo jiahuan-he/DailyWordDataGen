@@ -1,0 +1,40 @@
+{
+  "word": "convoy",
+  "phonetic": "/ˈkɒnvɔɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "护卫队；车队；船队",
+  "examples": [
+    {
+      "sentence": "The aid convoy crossed the border at dawn, trucks loaded with medicine and food.",
+      "style": "Contextual",
+      "translation": "援助车队在黎明时分越过边境，卡车上满载药品与食物。",
+      "translated_word": "车队",
+      "display_order": 1
+    },
+    {
+      "sentence": "A military convoy transported essential supplies through the contested region.",
+      "style": "Formal",
+      "translation": "一支军事车队穿越争议地区，运送重要物资。",
+      "translated_word": "车队",
+      "display_order": 2
+    },
+    {
+      "sentence": "The fishing convoy returned at dusk, lanterns swaying together across the darkening sea.",
+      "style": "Poetic",
+      "translation": "渔船队伍在暮色中归来，灯笼在渐暗的海面上齐齐摇曳。",
+      "translated_word": "队伍",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some journeys demand a convoy; solitude cannot carry every weight.",
+      "style": "Philosophical",
+      "translation": "有些旅途需要结队同行；孤身一人无法承载所有重量。",
+      "translated_word": "结队同行",
+      "display_order": 4
+    }
+  ]
+}

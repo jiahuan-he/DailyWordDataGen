@@ -1,0 +1,40 @@
+{
+  "word": "marine",
+  "phonetic": "/məˈriːn/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "海洋的；海生的；航海的",
+  "examples": [
+    {
+      "sentence": "The marine ecosystem holds secrets we have barely begun to uncover.",
+      "style": "Contextual",
+      "translation": "海洋生态系统蕴藏着我们尚未揭开的秘密。",
+      "translated_word": "海洋",
+      "display_order": 2
+    },
+    {
+      "sentence": "Marine light rippled through the water, turning the reef to gold.",
+      "style": "Poetic",
+      "translation": "海光在水中荡漾，将礁石染成金色。",
+      "translated_word": "海",
+      "display_order": 4
+    },
+    {
+      "sentence": "She studied marine biology, drawn to the silence beneath the waves.",
+      "style": "Collocational",
+      "translation": "她研习海洋生物学，痴迷于波涛之下的寂静。",
+      "translated_word": "海洋",
+      "display_order": 1
+    },
+    {
+      "sentence": "New regulations aim to protect marine habitats from industrial pollution.",
+      "style": "Formal",
+      "translation": "新法规旨在保护海洋栖息地免受工业污染。",
+      "translated_word": "海洋",
+      "display_order": 3
+    }
+  ]
+}

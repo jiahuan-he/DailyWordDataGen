@@ -1,0 +1,40 @@
+{
+  "word": "constituent",
+  "phonetic": "/kənˈstɪtʃuənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "选民；成分；组成部分",
+  "examples": [
+    {
+      "sentence": "The senator spent her weekend meeting constituents at local diners.",
+      "style": "Contextual",
+      "translation": "参议员周末在当地餐馆与选民会面。",
+      "translated_word": "选民",
+      "display_order": 1
+    },
+    {
+      "sentence": "Elected officials must remain accountable to their constituents.",
+      "style": "Formal",
+      "translation": "民选官员必须对选民负责。",
+      "translated_word": "选民",
+      "display_order": 2
+    },
+    {
+      "sentence": "Water's constituents: hydrogen and oxygen, bound in perfect simplicity.",
+      "style": "Collocational",
+      "translation": "水的组成成分：氢与氧，以最简洁的方式结合。",
+      "translated_word": "组成成分",
+      "display_order": 3
+    },
+    {
+      "sentence": "A leader who ignores constituents serves only the title, not the people.",
+      "style": "Contrastive",
+      "translation": "无视选民的领导者，效忠的是头衔，而非人民。",
+      "translated_word": "选民",
+      "display_order": 4
+    }
+  ]
+}

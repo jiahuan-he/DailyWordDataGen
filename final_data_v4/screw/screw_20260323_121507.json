@@ -1,0 +1,40 @@
+{
+  "word": "screw",
+  "phonetic": "/skruː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "拧；旋紧；搞砸",
+  "examples": [
+    {
+      "sentence": "He screwed the lightbulb in until it clicked.",
+      "style": "Contextual",
+      "translation": "他把灯泡拧进去，直到听见咔嗒一声。",
+      "translated_word": "拧",
+      "display_order": 3
+    },
+    {
+      "sentence": "Screw the lid on tight before you shake.",
+      "style": "Collocational",
+      "translation": "摇晃之前，先把盖子拧紧。",
+      "translated_word": "拧",
+      "display_order": 1
+    },
+    {
+      "sentence": "At ten, my father handed me a screwdriver and let me screw the hinges myself.",
+      "style": "Intimate",
+      "translation": "十岁那年，父亲递给我一把螺丝刀，让我自己拧上合页。",
+      "translated_word": "拧",
+      "display_order": 2
+    },
+    {
+      "sentence": "Technicians must screw each panel securely to prevent malfunction.",
+      "style": "Formal",
+      "translation": "技术人员须将每块面板牢固拧紧，以防止故障。",
+      "translated_word": "拧",
+      "display_order": 4
+    }
+  ]
+}

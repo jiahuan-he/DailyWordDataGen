@@ -1,0 +1,40 @@
+{
+  "word": "maximum",
+  "phonetic": "/ˈmæksɪməm/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "最大的；最高的；极限的",
+  "examples": [
+    {
+      "sentence": "The elevator holds a maximum of twelve passengers.",
+      "style": "Contextual",
+      "translation": "电梯最多可容纳十二人。",
+      "translated_word": "最多",
+      "display_order": 1
+    },
+    {
+      "sentence": "Airlines are operating at maximum capacity this holiday season.",
+      "style": "Formal",
+      "translation": "假日期间，各航空公司均以最大运力运营。",
+      "translated_word": "最大",
+      "display_order": 2
+    },
+    {
+      "sentence": "He gave maximum effort until the final whistle.",
+      "style": "Collocational",
+      "translation": "他竭尽全力，直到终场哨响。",
+      "translated_word": "全力",
+      "display_order": 3
+    },
+    {
+      "sentence": "Growth begins where your comfort zone reaches its maximum.",
+      "style": "Inspirational",
+      "translation": "成长，始于舒适区的边界。",
+      "translated_word": "边界",
+      "display_order": 4
+    }
+  ]
+}

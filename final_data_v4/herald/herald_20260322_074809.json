@@ -1,0 +1,40 @@
+{
+  "word": "herald",
+  "phonetic": "/ˈherəld/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "预示；宣告；标志着",
+  "examples": [
+    {
+      "sentence": "The first crocuses pushed through snow, heralding spring.",
+      "style": "Contextual",
+      "translation": "第一株番红花破雪而出，预示着春天的来临。",
+      "translated_word": "预示",
+      "display_order": 1
+    },
+    {
+      "sentence": "This breakthrough heralds a new era in quantum computing.",
+      "style": "Formal",
+      "translation": "这一突破标志着量子计算新时代的开启。",
+      "translated_word": "标志",
+      "display_order": 2
+    },
+    {
+      "sentence": "Dawn heralds the day in silence, asking nothing.",
+      "style": "Poetic",
+      "translation": "黎明无声地宣告白昼，不求分毫。",
+      "translated_word": "宣告",
+      "display_order": 3
+    },
+    {
+      "sentence": "We seldom recognize what heralds change until it has begun.",
+      "style": "Philosophical",
+      "translation": "变革的先兆，往往在它降临之后才被看见。",
+      "translated_word": "先兆",
+      "display_order": 4
+    }
+  ]
+}

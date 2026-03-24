@@ -1,0 +1,40 @@
+{
+  "word": "mat",
+  "phonetic": "/mæt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "垫子；席子；地垫",
+  "examples": [
+    {
+      "sentence": "Leave your shoes on the mat; the floors were just cleaned.",
+      "style": "Contextual",
+      "translation": "把鞋留在垫子上；地板刚擦过。",
+      "translated_word": "垫子",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her yoga mat traveled with her to three different countries.",
+      "style": "Collocational",
+      "translation": "她的瑜伽垫随她去过三个国家。",
+      "translated_word": "垫",
+      "display_order": 4
+    },
+    {
+      "sentence": "That worn prayer mat still holds my grandmother's scent.",
+      "style": "Intimate",
+      "translation": "那块旧祈祷垫上，还留着祖母的气息。",
+      "translated_word": "垫",
+      "display_order": 2
+    },
+    {
+      "sentence": "On the mat, she learned to fall and rise again.",
+      "style": "Inspirational",
+      "translation": "在垫子上，她学会了跌倒，也学会了重新站起。",
+      "translated_word": "垫子",
+      "display_order": 3
+    }
+  ]
+}

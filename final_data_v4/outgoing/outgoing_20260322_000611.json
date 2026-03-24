@@ -1,0 +1,41 @@
+{
+  "word": "outgoing",
+  "phonetic": "/ˌaʊtˈɡoʊɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "外向的；开朗的；即将离任的",
+  "examples": [
+    {
+      "sentence": "Her outgoing warmth made strangers feel like old friends.",
+      "style": "Contextual",
+      "translation": "她外向的热情让陌生人也觉得像老友一般。",
+      "translated_word": "外向",
+      "display_order": 2
+    },
+    {
+      "sentence": "Quiet at home, outgoing at work: we contain multitudes.",
+      "style": "Contrastive",
+      "translation": "在家沉默，在外开朗；我们本就包罗万象。",
+      "translated_word": "开朗",
+      "display_order": 4
+    },
+    {
+      "sentence": "An outgoing personality opens doors that skills alone cannot.",
+      "style": "Collocational",
+      "translation": "外向的性格能打开仅凭技能无法开启的门。",
+      "translated_word": "外向",
+      "display_order": 1
+    },
+    {
+      "sentence": "Watching her work the room, I wondered if I could ever be that outgoing.",
+      "style": "Intimate",
+      "translation": "看着她在人群中游刃有余，我想自己是否也能那般自如。",
+      "translated_word": "自如",
+      "display_order": 3
+    }
+  ]
+}

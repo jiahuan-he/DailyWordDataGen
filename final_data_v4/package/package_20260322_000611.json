@@ -1,0 +1,40 @@
+{
+  "word": "package",
+  "phonetic": "/ˈpækɪdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "包裹；套餐；整套方案",
+  "examples": [
+    {
+      "sentence": "A small package sat on the doorstep, unlabeled and unexpected.",
+      "style": "Contextual",
+      "translation": "一个小包裹静静躺在门阶上，没有标签，也没有预兆。",
+      "translated_word": "包裹",
+      "display_order": 1
+    },
+    {
+      "sentence": "She sent him a care package filled with homemade cookies and handwritten notes.",
+      "style": "Collocational",
+      "translation": "她寄给他一个爱心包裹，里面装满了自制饼干和手写便条。",
+      "translated_word": "包裹",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every birthday, my grandmother mailed a package that smelled of lavender and home.",
+      "style": "Intimate",
+      "translation": "每年生日，祖母都会寄来一个包裹，带着薰衣草的香气和家的味道。",
+      "translated_word": "包裹",
+      "display_order": 3
+    },
+    {
+      "sentence": "The company unveiled a comprehensive benefits package to attract top talent.",
+      "style": "Formal",
+      "translation": "公司推出了全面的福利方案，以吸引顶尖人才。",
+      "translated_word": "方案",
+      "display_order": 4
+    }
+  ]
+}

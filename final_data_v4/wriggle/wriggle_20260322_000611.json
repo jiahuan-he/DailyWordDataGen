@@ -1,0 +1,40 @@
+{
+  "word": "wriggle",
+  "phonetic": "/ˈrɪɡəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "扭动；蠕动；挣脱",
+  "examples": [
+    {
+      "sentence": "The toddler wriggled out of her mother's arms and ran toward the puppy.",
+      "style": "Contextual",
+      "translation": "小女孩从母亲怀里扭动着挣脱出来，朝小狗跑去。",
+      "translated_word": "扭动",
+      "display_order": 2
+    },
+    {
+      "sentence": "He tried to wriggle free, but the seatbelt held him tight.",
+      "style": "Collocational",
+      "translation": "他试图挣脱，但安全带紧紧束缚着他。",
+      "translated_word": "挣脱",
+      "display_order": 3
+    },
+    {
+      "sentence": "My daughter wriggled with excitement when she saw the birthday cake.",
+      "style": "Intimate",
+      "translation": "女儿看到生日蛋糕时，兴奋得浑身扭动。",
+      "translated_word": "扭动",
+      "display_order": 1
+    },
+    {
+      "sentence": "A fish wriggled silver in the morning light, then slipped back into the stream.",
+      "style": "Poetic",
+      "translation": "一尾银鱼在晨光中翻腾扭动，旋即滑入溪流。",
+      "translated_word": "扭动",
+      "display_order": 4
+    }
+  ]
+}

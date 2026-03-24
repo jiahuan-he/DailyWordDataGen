@@ -1,0 +1,40 @@
+{
+  "word": "botanical",
+  "phonetic": "/bəˈtænɪkl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "植物的；植物学的",
+  "examples": [
+    {
+      "sentence": "The botanical illustrations in that old journal are exquisite.",
+      "style": "Contextual",
+      "translation": "那本旧期刊里的植物插图精美绝伦。",
+      "translated_word": "植物",
+      "display_order": 2
+    },
+    {
+      "sentence": "Researchers published a botanical survey documenting three hundred native species.",
+      "style": "Formal",
+      "translation": "研究人员发表了一份植物学调查报告，记录了三百种本土物种。",
+      "translated_word": "植物学",
+      "display_order": 3
+    },
+    {
+      "sentence": "She wandered through the botanical garden, tracing the veins of unfamiliar leaves.",
+      "style": "Poetic",
+      "translation": "她漫步于植物园中，指尖轻抚陌生叶片的脉络。",
+      "translated_word": "植物",
+      "display_order": 1
+    },
+    {
+      "sentence": "His cologne carries a botanical note: cedar, sage, wild moss.",
+      "style": "Collocational",
+      "translation": "他的古龙水带着植物香调：雪松、鼠尾草与野生苔藓。",
+      "translated_word": "植物",
+      "display_order": 4
+    }
+  ]
+}

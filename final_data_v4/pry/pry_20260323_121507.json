@@ -1,0 +1,40 @@
+{
+  "word": "pry",
+  "phonetic": "/praɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "窥探；打听；撬开",
+  "examples": [
+    {
+      "sentence": "She never pries, even when silence begs for questions.",
+      "style": "Contextual",
+      "translation": "她从不追问，即便沉默本身就在恳求一个问题。",
+      "translated_word": "追问",
+      "display_order": 3
+    },
+    {
+      "sentence": "Neighbors who pry into your life seldom offer a hand.",
+      "style": "Collocational",
+      "translation": "爱打探你生活的邻居，很少会伸出援手。",
+      "translated_word": "打探",
+      "display_order": 1
+    },
+    {
+      "sentence": "Curiosity listens; nosiness pries.",
+      "style": "Philosophical",
+      "translation": "好奇心倾听；八卦心窥探。",
+      "translated_word": "窥探",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother never pried; she just waited until I was ready.",
+      "style": "Intimate",
+      "translation": "外婆从不追问；她只是等，等我准备好开口。",
+      "translated_word": "追问",
+      "display_order": 2
+    }
+  ]
+}

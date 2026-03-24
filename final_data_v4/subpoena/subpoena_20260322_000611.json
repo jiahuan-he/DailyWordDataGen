@@ -1,0 +1,40 @@
+{
+  "word": "subpoena",
+  "phonetic": "/səˈpiːnə/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "传票；法院传唤令",
+  "examples": [
+    {
+      "sentence": "The envelope contained a subpoena; she was required to testify next month.",
+      "style": "Contextual",
+      "translation": "信封里是一张传票；她必须在下个月出庭作证。",
+      "translated_word": "传票",
+      "display_order": 1
+    },
+    {
+      "sentence": "The committee issued subpoenas to five former executives as part of the investigation.",
+      "style": "Formal",
+      "translation": "委员会向五名前高管发出传票，作为调查的一部分。",
+      "translated_word": "传票",
+      "display_order": 4
+    },
+    {
+      "sentence": "Ignoring a subpoena can result in contempt of court charges.",
+      "style": "Collocational",
+      "translation": "无视传票可能会被判藐视法庭罪。",
+      "translated_word": "传票",
+      "display_order": 3
+    },
+    {
+      "sentence": "When the subpoena arrived, my father sat quietly for an hour before speaking.",
+      "style": "Intimate",
+      "translation": "传票寄到那天，父亲沉默地坐了一个小时才开口说话。",
+      "translated_word": "传票",
+      "display_order": 2
+    }
+  ]
+}

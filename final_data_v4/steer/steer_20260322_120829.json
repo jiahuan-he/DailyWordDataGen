@@ -1,0 +1,40 @@
+{
+  "word": "steer",
+  "phonetic": "/stɪr/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "驾驶；引导；操控",
+  "examples": [
+    {
+      "sentence": "He steered the boat toward the quiet cove.",
+      "style": "Contextual",
+      "translation": "他将小船驶向那片宁静的海湾。",
+      "translated_word": "驶向",
+      "display_order": 1
+    },
+    {
+      "sentence": "She gently steered the conversation away from politics.",
+      "style": "Collocational",
+      "translation": "她巧妙地将话题从政治上引开。",
+      "translated_word": "引开",
+      "display_order": 2
+    },
+    {
+      "sentence": "We cannot control the wind, only steer the sails.",
+      "style": "Philosophical",
+      "translation": "风向不由我们掌控，但风帆可以。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "Steer your own course; the crowd has no destination.",
+      "style": "Inspirational",
+      "translation": "把握自己的航向吧；人群并无去处。",
+      "translated_word": "把握",
+      "display_order": 4
+    }
+  ]
+}

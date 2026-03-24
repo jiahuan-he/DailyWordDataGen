@@ -1,0 +1,40 @@
+{
+  "word": "mob",
+  "phonetic": "/mɒb/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "暴民；人群；乌合之众",
+  "examples": [
+    {
+      "sentence": "The mob surged toward the gates, chanting in unison.",
+      "style": "Contextual",
+      "translation": "人群涌向大门，齐声高呼。",
+      "translated_word": "人群",
+      "display_order": 1
+    },
+    {
+      "sentence": "Police deployed reinforcements after the mob breached the security perimeter.",
+      "style": "Formal",
+      "translation": "暴民突破安全防线后，警方紧急增援。",
+      "translated_word": "暴民",
+      "display_order": 2
+    },
+    {
+      "sentence": "In a mob, individuals vanish; only the collective impulse remains.",
+      "style": "Philosophical",
+      "translation": "置身人群，个体消隐；唯余集体的冲动。",
+      "translated_word": "人群",
+      "display_order": 3
+    },
+    {
+      "sentence": "The mob rolled through the square like a wave, faceless under the summer sun.",
+      "style": "Poetic",
+      "translation": "人潮如浪涌过广场，夏日骄阳下，面目皆无。",
+      "translated_word": "人潮",
+      "display_order": 4
+    }
+  ]
+}

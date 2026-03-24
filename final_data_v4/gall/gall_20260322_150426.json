@@ -1,0 +1,40 @@
+{
+  "word": "gall",
+  "phonetic": "/ɡɔːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "厚颜；胆量；冒犯",
+  "examples": [
+    {
+      "sentence": "She borrowed my dress without asking, then complained it didn't fit. The gall.",
+      "style": "Contextual",
+      "translation": "她不问自取借了我的裙子，还嫌不合身。真是厚颜。",
+      "translated_word": "厚颜",
+      "display_order": 2
+    },
+    {
+      "sentence": "He had the gall to arrive late and demand the best seat.",
+      "style": "Collocational",
+      "translation": "他竟有脸迟到，还理直气壮地要求坐最好的位置。",
+      "translated_word": "有脸",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sometimes gall gets the promotion, while humility waits in line.",
+      "style": "Philosophical",
+      "translation": "有时厚颜者平步青云，谦逊者只能默默排队。",
+      "translated_word": "厚颜",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her gall left me speechless at the dinner table.",
+      "style": "Intimate",
+      "translation": "她的放肆让我在餐桌上一时语塞。",
+      "translated_word": "放肆",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "plumb",
+  "phonetic": "/plʌm/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "探测；深究；彻底了解",
+  "examples": [
+    {
+      "sentence": "The documentary plumbed the hidden world of deep-sea volcanoes.",
+      "style": "Contextual",
+      "translation": "这部纪录片深入探索了深海火山的隐秘世界。",
+      "translated_word": "深入探索",
+      "display_order": 1
+    },
+    {
+      "sentence": "Investigators plumbed the company's accounts for signs of fraud.",
+      "style": "Formal",
+      "translation": "调查人员彻查公司账目，寻找欺诈迹象。",
+      "translated_word": "彻查",
+      "display_order": 2
+    },
+    {
+      "sentence": "To know yourself, plumb the silences between your thoughts.",
+      "style": "Philosophical",
+      "translation": "若要认识自己，须探入思绪间的静默。",
+      "translated_word": "探入",
+      "display_order": 3
+    },
+    {
+      "sentence": "She plumbed her grief and surfaced holding a pearl.",
+      "style": "Poetic",
+      "translation": "她潜入悲伤深处，浮出时手握一颗珍珠。",
+      "translated_word": "潜入",
+      "display_order": 4
+    }
+  ]
+}

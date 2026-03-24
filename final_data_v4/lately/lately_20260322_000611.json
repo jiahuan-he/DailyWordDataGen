@@ -1,0 +1,39 @@
+{
+  "word": "lately",
+  "phonetic": "/ˈleɪtli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "最近；近来；近日",
+  "examples": [
+    {
+      "sentence": "She hasn't called lately; I wonder if everything's okay.",
+      "style": "Contextual",
+      "translation": "她最近都没打电话，不知道是否一切安好。",
+      "translated_word": "最近",
+      "display_order": 3
+    },
+    {
+      "sentence": "Lately, I find myself pausing to watch the sunset.",
+      "style": "Intimate",
+      "translation": "最近，我总会停下脚步看一看日落。",
+      "translated_word": "最近",
+      "display_order": 2
+    },
+    {
+      "sentence": "We only notice change when we say 'lately' out loud.",
+      "style": "Philosophical",
+      "translation": "唯有说出「最近」二字，我们才察觉变化已然发生。",
+      "translated_word": "最近",
+      "display_order": 4
+    },
+    {
+      "sentence": "Have you read anything good lately?",
+      "style": "Collocational",
+      "translation": "最近有读到什么好书吗？",
+      "translated_word": "最近",
+      "display_order": 1
+    }
+  ]
+}

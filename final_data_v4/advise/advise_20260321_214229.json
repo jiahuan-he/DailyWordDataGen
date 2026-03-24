@@ -1,0 +1,39 @@
+{
+  "word": "advise",
+  "phonetic": "/ədˈvaɪz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "建议；劝告；忠告",
+  "examples": [
+    {
+      "sentence": "The doctor advised rest and plenty of fluids.",
+      "style": "Contextual",
+      "translation": "医生建议多休息，多喝水。",
+      "translated_word": "建议",
+      "display_order": 1
+    },
+    {
+      "sentence": "Analysts advise caution as markets enter uncertain terrain.",
+      "style": "Formal",
+      "translation": "分析师建议谨慎行事，市场正步入未知领域。",
+      "translated_word": "建议",
+      "display_order": 3
+    },
+    {
+      "sentence": "To advise is easy; to listen is where wisdom begins.",
+      "style": "Philosophical",
+      "translation": "给出建议很容易，懂得倾听才是智慧的开端。",
+      "translated_word": "建议",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather never advised me to be successful; he advised me to be kind.",
+      "style": "Intimate",
+      "translation": "祖父从未劝我追求成功，他只劝我待人以善。",
+      "translated_word": "劝",
+      "display_order": 2
+    }
+  ]
+}

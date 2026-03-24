@@ -1,0 +1,39 @@
+{
+  "word": "meteorite",
+  "phonetic": "/ˈmiːtiəraɪt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "陨石；天外来石",
+  "examples": [
+    {
+      "sentence": "The meteorite left a crater the size of a swimming pool.",
+      "style": "Contextual",
+      "translation": "这块陨石砸出了一个游泳池大小的坑。",
+      "translated_word": "陨石",
+      "display_order": 1
+    },
+    {
+      "sentence": "Scientists confirmed the meteorite originated from an asteroid between Mars and Jupiter.",
+      "style": "Formal",
+      "translation": "科学家证实，该陨石来自火星与木星之间的小行星带。",
+      "translated_word": "陨石",
+      "display_order": 2
+    },
+    {
+      "sentence": "A meteorite travels millions of years in silence; we happen to be here when it lands.",
+      "style": "Philosophical",
+      "translation": "一颗陨石在寂静中穿行数百万年；而我们恰好在它落地时在场。",
+      "translated_word": "陨石",
+      "display_order": 4
+    },
+    {
+      "sentence": "The meteorite rested in the sand, still holding warmth from a vanished star.",
+      "style": "Poetic",
+      "translation": "陨石静卧沙中，仍携带着一颗消逝恒星的余温。",
+      "translated_word": "陨石",
+      "display_order": 3
+    }
+  ]
+}

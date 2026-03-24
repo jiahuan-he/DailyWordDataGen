@@ -1,0 +1,40 @@
+{
+  "word": "sewer",
+  "phonetic": "/ˈsuːər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "下水道；排污管；污水系统",
+  "examples": [
+    {
+      "sentence": "Heavy rain overwhelmed the sewer, flooding the streets within minutes.",
+      "style": "Contextual",
+      "translation": "暴雨淹没了下水道，几分钟内街道便积水成河。",
+      "translated_word": "下水道",
+      "display_order": 1
+    },
+    {
+      "sentence": "City officials announced a major investment to modernize the aging sewer infrastructure.",
+      "style": "Formal",
+      "translation": "市政官员宣布将大力投资，改造老旧的下水道基础设施。",
+      "translated_word": "下水道",
+      "display_order": 3
+    },
+    {
+      "sentence": "A city's true character lies not in its skyline, but in its sewer.",
+      "style": "Philosophical",
+      "translation": "一座城市的真正品格，不在天际线，而在下水道。",
+      "translated_word": "下水道",
+      "display_order": 4
+    },
+    {
+      "sentence": "The crew found a cracked sewer pipe buried beneath the foundation.",
+      "style": "Collocational",
+      "translation": "工人们在地基下发现了一根破裂的污水管道。",
+      "translated_word": "污水管道",
+      "display_order": 2
+    }
+  ]
+}

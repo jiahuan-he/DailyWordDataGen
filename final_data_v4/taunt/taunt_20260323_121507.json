@@ -1,0 +1,41 @@
+{
+  "word": "taunt",
+  "phonetic": "/tɔːnt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "嘲讽；讥笑；奚落",
+  "examples": [
+    {
+      "sentence": "The kids taunted him for wearing second-hand clothes.",
+      "style": "Contextual",
+      "translation": "孩子们嘲笑他穿二手衣服。",
+      "translated_word": "嘲笑",
+      "display_order": 1
+    },
+    {
+      "sentence": "The referee penalized the player for taunting the opposing team.",
+      "style": "Formal",
+      "translation": "裁判因该球员挑衅对方球队而对其处以判罚。",
+      "translated_word": "挑衅",
+      "display_order": 3
+    },
+    {
+      "sentence": "We taunt what threatens our certainties.",
+      "style": "Philosophical",
+      "translation": "我们嘲讽的，往往是动摇我们信念的事物。",
+      "translated_word": "嘲讽",
+      "display_order": 4
+    },
+    {
+      "sentence": "She taunted my ambitions for years; I became every one of them.",
+      "style": "Intimate",
+      "translation": "她曾嘲笑我的野心多年；如今，我一一将其实现。",
+      "translated_word": "嘲笑",
+      "display_order": 2
+    }
+  ]
+}

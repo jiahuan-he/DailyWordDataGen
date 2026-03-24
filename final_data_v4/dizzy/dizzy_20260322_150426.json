@@ -1,0 +1,40 @@
+{
+  "word": "dizzy",
+  "phonetic": "/ˈdɪzi/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "头晕的；眩晕的；迷糊的",
+  "examples": [
+    {
+      "sentence": "She stood too quickly and went dizzy.",
+      "style": "Contextual",
+      "translation": "她站得太快，一阵头晕。",
+      "translated_word": "头晕",
+      "display_order": 1
+    },
+    {
+      "sentence": "Autumn leaves waltzed in a dizzy spiral down the empty street.",
+      "style": "Poetic",
+      "translation": "秋叶在空旷的街道上旋成眩晕的涡，翩然起舞。",
+      "translated_word": "眩晕",
+      "display_order": 4
+    },
+    {
+      "sentence": "After she said yes, I walked home dizzy with joy.",
+      "style": "Intimate",
+      "translation": "她答应后，我一路晕乎乎地走回了家。",
+      "translated_word": "晕乎乎",
+      "display_order": 3
+    },
+    {
+      "sentence": "A sudden dizzy spell made her grip the railing.",
+      "style": "Collocational",
+      "translation": "一阵突如其来的眩晕让她紧紧抓住了栏杆。",
+      "translated_word": "眩晕",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "choppy",
+  "phonetic": "/ˈtʃɑːpi/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "波涛汹涌的；断断续续的；不连贯的",
+  "examples": [
+    {
+      "sentence": "The ferry was cancelled; the waters were too choppy for safe crossing.",
+      "style": "Contextual",
+      "translation": "渡轮停航了；海面风浪太大，无法安全通行。",
+      "translated_word": "风浪",
+      "display_order": 2
+    },
+    {
+      "sentence": "We sailed through choppy seas to reach the island before nightfall.",
+      "style": "Collocational",
+      "translation": "我们穿越汹涌的海面，赶在夜幕降临前抵达小岛。",
+      "translated_word": "汹涌",
+      "display_order": 1
+    },
+    {
+      "sentence": "The harbor stirred with choppy waves, scattering the last light of evening.",
+      "style": "Poetic",
+      "translation": "港湾泛起层层碎浪，将暮色的余晖揉散。",
+      "translated_word": "碎浪",
+      "display_order": 3
+    },
+    {
+      "sentence": "Our early conversations were choppy and hesitant; now silence between us feels easy.",
+      "style": "Intimate",
+      "translation": "起初我们的对话磕磕绊绊；如今，沉默也变得自在。",
+      "translated_word": "磕磕绊绊",
+      "display_order": 4
+    }
+  ]
+}

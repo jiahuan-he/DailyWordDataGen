@@ -1,0 +1,41 @@
+{
+  "word": "square",
+  "phonetic": "/skweə(r)/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "广场；正方形；平方",
+  "examples": [
+    {
+      "sentence": "The old town square filled with music every Sunday morning.",
+      "style": "Contextual",
+      "translation": "每个周日清晨，古老的城镇广场都会响起音乐。",
+      "translated_word": "广场",
+      "display_order": 1
+    },
+    {
+      "sentence": "We agreed to meet at the market square by noon.",
+      "style": "Collocational",
+      "translation": "我们约好正午在集市广场见面。",
+      "translated_word": "广场",
+      "display_order": 4
+    },
+    {
+      "sentence": "In the empty square, a single leaf spiraled down like a secret.",
+      "style": "Poetic",
+      "translation": "空旷的广场上，一片落叶盘旋而下，像一个无人知晓的秘密。",
+      "translated_word": "广场",
+      "display_order": 3
+    },
+    {
+      "sentence": "That summer, we danced in the square until the streetlights flickered on.",
+      "style": "Intimate",
+      "translation": "那年夏天，我们在广场上起舞，直到路灯次第亮起。",
+      "translated_word": "广场",
+      "display_order": 2
+    }
+  ]
+}

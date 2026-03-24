@@ -1,0 +1,40 @@
+{
+  "word": "clog",
+  "phonetic": "/klɒɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "堵塞；阻塞；妨碍",
+  "examples": [
+    {
+      "sentence": "Hair and soap had clogged the drain again.",
+      "style": "Contextual",
+      "translation": "头发和肥皂又把下水道堵住了。",
+      "translated_word": "堵住",
+      "display_order": 1
+    },
+    {
+      "sentence": "Fatty foods clog arteries over time.",
+      "style": "Collocational",
+      "translation": "高脂食物会逐渐堵塞动脉。",
+      "translated_word": "堵塞",
+      "display_order": 2
+    },
+    {
+      "sentence": "Rush-hour traffic clogged the city's main arteries for hours.",
+      "style": "Formal",
+      "translation": "早高峰车流使城市主干道堵塞了数小时。",
+      "translated_word": "堵塞",
+      "display_order": 3
+    },
+    {
+      "sentence": "Resentment clogs the heart; forgiveness clears it.",
+      "style": "Philosophical",
+      "translation": "怨恨堵塞心扉，宽恕使之畅通。",
+      "translated_word": "堵塞",
+      "display_order": 4
+    }
+  ]
+}

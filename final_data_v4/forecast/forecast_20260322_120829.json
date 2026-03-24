@@ -1,0 +1,40 @@
+{
+  "word": "forecast",
+  "phonetic": "/ˈfɔːrkæst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "预测；预报；预见",
+  "examples": [
+    {
+      "sentence": "The app forecasts clear skies, so we planned a hike.",
+      "style": "Contextual",
+      "translation": "应用预报晴天，我们便计划去远足。",
+      "translated_word": "预报",
+      "display_order": 1
+    },
+    {
+      "sentence": "Industry leaders forecast a surge in renewable energy investments.",
+      "style": "Formal",
+      "translation": "业界领袖预测可再生能源投资将大幅增长。",
+      "translated_word": "预测",
+      "display_order": 2
+    },
+    {
+      "sentence": "No algorithm could have forecast such rapid change.",
+      "style": "Collocational",
+      "translation": "没有任何算法能预见如此剧烈的变化。",
+      "translated_word": "预见",
+      "display_order": 3
+    },
+    {
+      "sentence": "We forecast because uncertainty is harder to bear than being wrong.",
+      "style": "Philosophical",
+      "translation": "我们执着于预测，因为未知比犯错更难承受。",
+      "translated_word": "预测",
+      "display_order": 4
+    }
+  ]
+}

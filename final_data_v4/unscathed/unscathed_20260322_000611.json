@@ -1,0 +1,39 @@
+{
+  "word": "unscathed",
+  "phonetic": "/ʌnˈskeɪðd/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "毫发无损；安然无恙；完好无伤",
+  "examples": [
+    {
+      "sentence": "The car was totaled, but she walked away unscathed.",
+      "style": "Contextual",
+      "translation": "车子全毁了，她却毫发无损地走了出来。",
+      "translated_word": "毫发无损",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company emerged unscathed from the regulatory probe.",
+      "style": "Formal",
+      "translation": "该公司在监管调查中全身而退。",
+      "translated_word": "全身而退",
+      "display_order": 3
+    },
+    {
+      "sentence": "The storm raged all night; the old lighthouse stood unscathed at dawn.",
+      "style": "Poetic",
+      "translation": "风暴肆虐整夜；黎明时分，老灯塔依然屹立。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "To leave any great love unscathed is to have never truly entered it.",
+      "style": "Philosophical",
+      "translation": "若能全身而退，便不曾真正深爱。",
+      "translated_word": "全身而退",
+      "display_order": 4
+    }
+  ]
+}

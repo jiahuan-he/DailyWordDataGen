@@ -1,0 +1,42 @@
+{
+  "word": "fell",
+  "phonetic": "/fel/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "落下；跌倒；下降；降临",
+  "examples": [
+    {
+      "sentence": "The temperature fell sharply after sunset.",
+      "style": "Contextual",
+      "translation": "日落后气温骤降。",
+      "translated_word": "降",
+      "display_order": 2
+    },
+    {
+      "sentence": "Petals fell through the afternoon light, unhurried and silent.",
+      "style": "Poetic",
+      "translation": "花瓣穿过午后的光，从容而无声地飘落。",
+      "translated_word": "飘落",
+      "display_order": 1
+    },
+    {
+      "sentence": "Great things fell apart not with a crash, but a whisper.",
+      "style": "Philosophical",
+      "translation": "伟大之物的崩塌，不是轰然倒塌，而是悄然瓦解。",
+      "translated_word": "崩塌",
+      "display_order": 4
+    },
+    {
+      "sentence": "My gaze fell on an old photograph, and suddenly I was ten again.",
+      "style": "Intimate",
+      "translation": "目光落在一张旧照片上，我瞬间回到了十岁。",
+      "translated_word": "落",
+      "display_order": 3
+    }
+  ]
+}

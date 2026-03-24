@@ -1,0 +1,41 @@
+{
+  "word": "fudge",
+  "phonetic": "/fʌdʒ/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "含糊其辞；篡改；敷衍",
+  "examples": [
+    {
+      "sentence": "He didn't lie; he just fudged a few details.",
+      "style": "Contextual",
+      "translation": "他没有撒谎，只是把几处细节含糊过去了。",
+      "translated_word": "含糊过去",
+      "display_order": 1
+    },
+    {
+      "sentence": "The audit revealed that executives had fudged quarterly earnings for years.",
+      "style": "Formal",
+      "translation": "审计显示，高管们多年来一直在篡改季度收益。",
+      "translated_word": "篡改",
+      "display_order": 3
+    },
+    {
+      "sentence": "When the data looked bad, they fudged the numbers.",
+      "style": "Collocational",
+      "translation": "数据不好看时，他们就篡改了数字。",
+      "translated_word": "篡改",
+      "display_order": 2
+    },
+    {
+      "sentence": "We fudge small truths daily, believing vagueness is kinder than honesty.",
+      "style": "Philosophical",
+      "translation": "我们每天都在模糊小小的真相，以为含糊比诚实更仁慈。",
+      "translated_word": "模糊",
+      "display_order": 4
+    }
+  ]
+}

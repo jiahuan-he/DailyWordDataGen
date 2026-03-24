@@ -1,0 +1,40 @@
+{
+  "word": "chic",
+  "phonetic": "/ʃiːk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "时髦的；别致的；优雅的",
+  "examples": [
+    {
+      "sentence": "A simple black dress and a single strand of pearls: effortlessly chic.",
+      "style": "Contextual",
+      "translation": "一袭黑裙，一串珍珠：不费力气的优雅。",
+      "translated_word": "优雅",
+      "display_order": 2
+    },
+    {
+      "sentence": "The chic café on the corner draws poets and daydreamers alike.",
+      "style": "Collocational",
+      "translation": "街角那家别致的咖啡馆，吸引着诗人与白日梦想家。",
+      "translated_word": "别致",
+      "display_order": 1
+    },
+    {
+      "sentence": "Trendy fades with the season; chic endures.",
+      "style": "Contrastive",
+      "translation": "潮流随季更迭，别致历久弥新。",
+      "translated_word": "别致",
+      "display_order": 4
+    },
+    {
+      "sentence": "She moved through the crowded room with a chic quietness that turned every head.",
+      "style": "Poetic",
+      "translation": "她穿过喧嚣的人群，带着一种时髦的静谧，引得众人回眸。",
+      "translated_word": "时髦",
+      "display_order": 3
+    }
+  ]
+}

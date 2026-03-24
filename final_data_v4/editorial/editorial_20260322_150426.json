@@ -1,0 +1,40 @@
+{
+  "word": "editorial",
+  "phonetic": "/ˌedɪˈtɔːriəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "社论；评论文章；编者按",
+  "examples": [
+    {
+      "sentence": "The editorial sparked a citywide debate on housing.",
+      "style": "Contextual",
+      "translation": "那篇社论引发了全城关于住房问题的讨论。",
+      "translated_word": "社论",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her editorial on healthcare reform reached millions before noon.",
+      "style": "Formal",
+      "translation": "她那篇关于医改的社论，午前便触及了数百万读者。",
+      "translated_word": "社论",
+      "display_order": 3
+    },
+    {
+      "sentence": "He writes a weekly editorial for the Sunday paper.",
+      "style": "Collocational",
+      "translation": "他为周日报纸撰写每周社论。",
+      "translated_word": "社论",
+      "display_order": 1
+    },
+    {
+      "sentence": "An editorial is conviction seeking the weight of ink.",
+      "style": "Philosophical",
+      "translation": "社论，是信念在寻求墨迹的分量。",
+      "translated_word": "社论",
+      "display_order": 4
+    }
+  ]
+}

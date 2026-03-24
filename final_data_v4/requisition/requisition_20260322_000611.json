@@ -1,0 +1,40 @@
+{
+  "word": "requisition",
+  "phonetic": "/ˌrekwɪˈzɪʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "征用令；申请单；调拨",
+  "examples": [
+    {
+      "sentence": "The hospital submitted a requisition for ventilators as cases surged.",
+      "style": "Contextual",
+      "translation": "病例激增，医院提交了呼吸机的调拨申请。",
+      "translated_word": "调拨申请",
+      "display_order": 2
+    },
+    {
+      "sentence": "The government's requisition of private warehouses drew immediate protest.",
+      "style": "Formal",
+      "translation": "政府对私人仓库的征用令即刻引发抗议。",
+      "translated_word": "征用令",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every purchase over five hundred dollars requires a signed requisition.",
+      "style": "Collocational",
+      "translation": "超过五百美元的采购都需要一份签字的申请单。",
+      "translated_word": "申请单",
+      "display_order": 1
+    },
+    {
+      "sentence": "A polite request can be ignored; a requisition cannot.",
+      "style": "Contrastive",
+      "translation": "客气的请求可以被忽略；征用令则不能。",
+      "translated_word": "征用令",
+      "display_order": 4
+    }
+  ]
+}

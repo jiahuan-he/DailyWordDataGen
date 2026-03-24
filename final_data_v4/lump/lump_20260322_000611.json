@@ -1,0 +1,40 @@
+{
+  "word": "lump",
+  "phonetic": "/lʌmp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "块；肿块；团",
+  "examples": [
+    {
+      "sentence": "The sculptor pressed her thumb into the cold lump of clay.",
+      "style": "Contextual",
+      "translation": "雕塑家将拇指按入冰冷的泥块。",
+      "translated_word": "块",
+      "display_order": 1
+    },
+    {
+      "sentence": "A lump formed in her throat as the plane lifted off.",
+      "style": "Collocational",
+      "translation": "飞机起飞的瞬间，她喉头一紧。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "Holding her letter, I felt that familiar lump rise in my chest.",
+      "style": "Intimate",
+      "translation": "握着她的信，那熟悉的哽咽感又涌上心头。",
+      "translated_word": "哽咽感",
+      "display_order": 3
+    },
+    {
+      "sentence": "Snow settles in quiet lumps, forgetting it was ever sky.",
+      "style": "Poetic",
+      "translation": "雪簇簇落定，遗忘了自己曾是天空。",
+      "translated_word": "簇簇",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "canopy",
+  "phonetic": "/ˈkænəpi/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "华盖；顶篷；树冠",
+  "examples": [
+    {
+      "sentence": "Beneath the rainforest canopy, little sunlight reaches the floor.",
+      "style": "Contextual",
+      "translation": "雨林树冠之下，几乎没有阳光能抵达地面。",
+      "translated_word": "树冠",
+      "display_order": 1
+    },
+    {
+      "sentence": "Autumn painted the canopy in fire, each leaf a final act of brilliance.",
+      "style": "Poetic",
+      "translation": "秋日将树冠染成火焰，每片叶子都是最后的璀璨。",
+      "translated_word": "树冠",
+      "display_order": 2
+    },
+    {
+      "sentence": "We build cities beneath steel canopies, forgetting we once slept under stars.",
+      "style": "Philosophical",
+      "translation": "我们在钢铁穹顶下建造城市，却忘了曾在星空下安眠。",
+      "translated_word": "穹顶",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's garden had a canopy of wisteria where we shared every secret.",
+      "style": "Intimate",
+      "translation": "外婆的花园有一片紫藤华盖，那里珍藏着我们所有的秘密。",
+      "translated_word": "华盖",
+      "display_order": 3
+    }
+  ]
+}

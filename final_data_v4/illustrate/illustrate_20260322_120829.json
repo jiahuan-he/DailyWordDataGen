@@ -1,0 +1,39 @@
+{
+  "word": "illustrate",
+  "phonetic": "/ˈɪləstreɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "说明；阐释；举例；配图",
+  "examples": [
+    {
+      "sentence": "A single diagram illustrated what hours of explanation could not.",
+      "style": "Contextual",
+      "translation": "一张图，胜过千言万语的解释。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "The report illustrates a widening gap between policy and practice.",
+      "style": "Formal",
+      "translation": "该报告揭示了政策与实践之间日益扩大的鸿沟。",
+      "translated_word": "揭示",
+      "display_order": 1
+    },
+    {
+      "sentence": "His journey illustrates a simple truth: talent means nothing without discipline.",
+      "style": "Collocational",
+      "translation": "他的经历印证了一个朴素的道理：没有自律，天赋一文不值。",
+      "translated_word": "印证",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some lessons cannot be taught; they must be illustrated by living.",
+      "style": "Philosophical",
+      "translation": "有些道理无法言传，唯有亲历方能领悟。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

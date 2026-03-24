@@ -1,0 +1,40 @@
+{
+  "word": "moist",
+  "phonetic": "/mɔɪst/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "潮湿的；湿润的；多汁的",
+  "examples": [
+    {
+      "sentence": "The cake was perfectly moist, not dry at all.",
+      "style": "Contextual",
+      "translation": "蛋糕湿润适口，一点也不干。",
+      "translated_word": "湿润",
+      "display_order": 1
+    },
+    {
+      "sentence": "She applied the cream to keep her skin soft and moist.",
+      "style": "Collocational",
+      "translation": "她涂上面霜，保持肌肤柔软润泽。",
+      "translated_word": "润泽",
+      "display_order": 3
+    },
+    {
+      "sentence": "Morning left the grass moist with dew.",
+      "style": "Poetic",
+      "translation": "清晨在草叶上留下了湿润的露珠。",
+      "translated_word": "湿润",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's banana bread was always impossibly moist.",
+      "style": "Intimate",
+      "translation": "外婆做的香蕉面包，总是湿润得恰到好处。",
+      "translated_word": "湿润",
+      "display_order": 2
+    }
+  ]
+}

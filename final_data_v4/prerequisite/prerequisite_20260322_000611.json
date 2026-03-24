@@ -1,0 +1,40 @@
+{
+  "word": "prerequisite",
+  "phonetic": "/ˌpriːˈrekwəzɪt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "先决条件；前提；必备条件",
+  "examples": [
+    {
+      "sentence": "Calculus is a prerequisite for this engineering course.",
+      "style": "Contextual",
+      "translation": "微积分是这门工程课的先修条件。",
+      "translated_word": "先修条件",
+      "display_order": 1
+    },
+    {
+      "sentence": "Financial transparency remains a prerequisite for international investment.",
+      "style": "Formal",
+      "translation": "财务透明度仍是吸引国际投资的先决条件。",
+      "translated_word": "先决条件",
+      "display_order": 3
+    },
+    {
+      "sentence": "Failure is often a quiet prerequisite for wisdom.",
+      "style": "Philosophical",
+      "translation": "失败往往是智慧的无声前提。",
+      "translated_word": "前提",
+      "display_order": 4
+    },
+    {
+      "sentence": "Courage is the prerequisite for every meaningful change.",
+      "style": "Inspirational",
+      "translation": "勇气是一切有意义变革的先决条件。",
+      "translated_word": "先决条件",
+      "display_order": 2
+    }
+  ]
+}

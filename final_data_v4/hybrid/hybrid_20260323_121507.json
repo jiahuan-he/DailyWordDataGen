@@ -1,0 +1,40 @@
+{
+  "word": "hybrid",
+  "phonetic": "/ˈhaɪbrɪd/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "混合物；杂交品种；混合体",
+  "examples": [
+    {
+      "sentence": "The car runs on both electricity and gasoline: a true hybrid.",
+      "style": "Contextual",
+      "translation": "这辆车既用电也用油：一款真正的混合动力车。",
+      "translated_word": "混合动力车",
+      "display_order": 1
+    },
+    {
+      "sentence": "Most companies now operate as hybrids of remote and in-office work.",
+      "style": "Formal",
+      "translation": "如今大多数公司都采用远程与到岗相结合的混合模式。",
+      "translated_word": "混合模式",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her cooking style is a hybrid of French technique and Sichuan spice.",
+      "style": "Collocational",
+      "translation": "她的烹饪风格融合了法式技法与川味辛香。",
+      "translated_word": "融合",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every city is a hybrid; its streets hold the fingerprints of all who passed through.",
+      "style": "Philosophical",
+      "translation": "每座城市都是混合体；街道上留有所有过客的痕迹。",
+      "translated_word": "混合体",
+      "display_order": 4
+    }
+  ]
+}

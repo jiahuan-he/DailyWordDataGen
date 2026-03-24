@@ -1,0 +1,40 @@
+{
+  "word": "pattern",
+  "phonetic": "/ˈpætərn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "图案；模式；规律",
+  "examples": [
+    {
+      "sentence": "The carpet's geometric pattern caught her eye immediately.",
+      "style": "Contextual",
+      "translation": "地毯上的几何图案一下子吸引了她的目光。",
+      "translated_word": "图案",
+      "display_order": 1
+    },
+    {
+      "sentence": "His sleep pattern shifted after years of night shifts.",
+      "style": "Collocational",
+      "translation": "多年夜班后，他的睡眠规律彻底改变了。",
+      "translated_word": "规律",
+      "display_order": 3
+    },
+    {
+      "sentence": "We search for patterns because randomness terrifies us.",
+      "style": "Philosophical",
+      "translation": "我们寻找规律，因为随机让人恐惧。",
+      "translated_word": "规律",
+      "display_order": 4
+    },
+    {
+      "sentence": "Frost traced its delicate pattern across the morning glass.",
+      "style": "Poetic",
+      "translation": "晨霜在玻璃上描绘出细腻的纹路。",
+      "translated_word": "纹路",
+      "display_order": 2
+    }
+  ]
+}

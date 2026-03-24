@@ -1,0 +1,39 @@
+{
+  "word": "ruckus",
+  "phonetic": "/ˈrʌkəs/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "喧闹；骚动；吵闹",
+  "examples": [
+    {
+      "sentence": "The neighbors called about the ruckus from our rooftop party.",
+      "style": "Contextual",
+      "translation": "邻居打电话投诉我们天台派对的吵闹声。",
+      "translated_word": "吵闹声",
+      "display_order": 2
+    },
+    {
+      "sentence": "The children caused quite a ruckus in the library.",
+      "style": "Collocational",
+      "translation": "孩子们在图书馆里闹出了不小的动静。",
+      "translated_word": "动静",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sunday mornings meant the joyful ruckus of siblings fighting over cartoons.",
+      "style": "Intimate",
+      "translation": "周日的早晨，总是兄弟姐妹争看动画片的欢闹声。",
+      "translated_word": "欢闹声",
+      "display_order": 3
+    },
+    {
+      "sentence": "After the city's ruckus, the mountain cabin felt almost too still.",
+      "style": "Contrastive",
+      "translation": "离开城市的喧嚣后，山间小屋静得让人有些不适。",
+      "translated_word": "喧嚣",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "prologue",
+  "phonetic": "/ˈproʊlɔːɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "序幕；开场白；前奏",
+  "examples": [
+    {
+      "sentence": "The novel's prologue hints at a tragedy no reader expects.",
+      "style": "Contextual",
+      "translation": "小说的序幕暗示了一场无人预料的悲剧。",
+      "translated_word": "序幕",
+      "display_order": 1
+    },
+    {
+      "sentence": "Spring is merely the prologue; summer writes the story in full bloom.",
+      "style": "Poetic",
+      "translation": "春天不过是序章；夏日才以繁花写就全篇。",
+      "translated_word": "序章",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every ending is a prologue in disguise.",
+      "style": "Philosophical",
+      "translation": "每一个结局，都是伪装的序幕。",
+      "translated_word": "序幕",
+      "display_order": 4
+    },
+    {
+      "sentence": "Analysts view the early protests as a prologue to the broader movement.",
+      "style": "Formal",
+      "translation": "分析人士将早期抗议视为更大规模运动的前奏。",
+      "translated_word": "前奏",
+      "display_order": 2
+    }
+  ]
+}

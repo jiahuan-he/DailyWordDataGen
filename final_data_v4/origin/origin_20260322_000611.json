@@ -1,0 +1,39 @@
+{
+  "word": "origin",
+  "phonetic": "/ˈɒrɪdʒɪn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "起源；来源；出身",
+  "examples": [
+    {
+      "sentence": "The coffee's origin: a small farm in the Ethiopian highlands.",
+      "style": "Contextual",
+      "translation": "这咖啡的产地：埃塞俄比亚高原上的一座小农场。",
+      "translated_word": "产地",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every hero needs an origin story.",
+      "style": "Collocational",
+      "translation": "每位英雄都需要一个起源故事。",
+      "translated_word": "起源",
+      "display_order": 1
+    },
+    {
+      "sentence": "We spend years escaping our origins, only to realize they never left us.",
+      "style": "Philosophical",
+      "translation": "我们花数年逃离自己的来处，最终才发现它从未离开。",
+      "translated_word": "来处",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her accent betrays her origin; she wears it like a quiet badge of honor.",
+      "style": "Intimate",
+      "translation": "她的口音泄露了她的出身；她将它视作无声的荣耀徽章。",
+      "translated_word": "出身",
+      "display_order": 3
+    }
+  ]
+}

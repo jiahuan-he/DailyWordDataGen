@@ -1,0 +1,40 @@
+{
+  "word": "herbal",
+  "phonetic": "/ˈɜːrbəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "草本的；草药的；植物性的",
+  "examples": [
+    {
+      "sentence": "She replaced her morning coffee with an herbal blend.",
+      "style": "Contextual",
+      "translation": "她用草本茶替代了早晨的咖啡。",
+      "translated_word": "草本",
+      "display_order": 1
+    },
+    {
+      "sentence": "The spa offers herbal treatments sourced from local farms.",
+      "style": "Collocational",
+      "translation": "这家水疗中心提供来自本地农场的草本护理。",
+      "translated_word": "草本",
+      "display_order": 2
+    },
+    {
+      "sentence": "In the apothecary's window, herbal bundles hung like quiet promises of healing.",
+      "style": "Poetic",
+      "translation": "药房的窗前，草药束悬挂着，像无声的疗愈之约。",
+      "translated_word": "草药",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's kitchen always smelled of herbal broth; now I make it for my own children.",
+      "style": "Intimate",
+      "translation": "祖母的厨房总弥漫着草药汤的香气；如今我也为自己的孩子熬制。",
+      "translated_word": "草药",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "sledgehammer",
+  "phonetic": "/ˈsledʒˌhæmər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "大锤；长柄重锤",
+  "examples": [
+    {
+      "sentence": "The old wall came down in three swings of the sledgehammer.",
+      "style": "Contextual",
+      "translation": "那面旧墙在大锤的三次挥击下轰然倒塌。",
+      "translated_word": "大锤",
+      "display_order": 2
+    },
+    {
+      "sentence": "He grabbed the sledgehammer and drove the stake deep into the ground.",
+      "style": "Collocational",
+      "translation": "他抄起大锤，将木桩深深钉入地里。",
+      "translated_word": "大锤",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some problems require a scalpel; others, a sledgehammer.",
+      "style": "Philosophical",
+      "translation": "有些问题需要手术刀，有些则需要大锤。",
+      "translated_word": "大锤",
+      "display_order": 4
+    },
+    {
+      "sentence": "A regular hammer couldn't crack the concrete, but the sledgehammer split it cleanly.",
+      "style": "Contrastive",
+      "translation": "普通锤子敲不开那块水泥，大锤却能将它一击而裂。",
+      "translated_word": "大锤",
+      "display_order": 3
+    }
+  ]
+}

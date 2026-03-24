@@ -1,0 +1,41 @@
+{
+  "word": "draft",
+  "phonetic": "/dræft/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "草稿；初稿；穿堂风",
+  "examples": [
+    {
+      "sentence": "This is just a draft; I'll polish it before the meeting.",
+      "style": "Contextual",
+      "translation": "这只是草稿，会议前我会润色的。",
+      "translated_word": "草稿",
+      "display_order": 1
+    },
+    {
+      "sentence": "She printed her rough draft and marked it with red ink.",
+      "style": "Collocational",
+      "translation": "她打印出初稿，用红笔逐处标注。",
+      "translated_word": "初稿",
+      "display_order": 2
+    },
+    {
+      "sentence": "Found an old draft in my drawer: a letter I never sent.",
+      "style": "Intimate",
+      "translation": "在抽屉里翻出一份旧草稿：一封从未寄出的信。",
+      "translated_word": "草稿",
+      "display_order": 3
+    },
+    {
+      "sentence": "Don't wait for the perfect words. Start with a draft.",
+      "style": "Inspirational",
+      "translation": "别苦等完美的措辞。先写草稿。",
+      "translated_word": "草稿",
+      "display_order": 4
+    }
+  ]
+}

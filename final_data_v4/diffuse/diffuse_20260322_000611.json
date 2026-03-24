@@ -1,0 +1,40 @@
+{
+  "word": "diffuse",
+  "phonetic": "/dɪˈfjuːz/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "散布；扩散；传播",
+  "examples": [
+    {
+      "sentence": "Sheer curtains diffuse the morning light into a gentle glow.",
+      "style": "Contextual",
+      "translation": "轻纱窗帘将晨光化作柔和的微芒。",
+      "translated_word": "化作",
+      "display_order": 2
+    },
+    {
+      "sentence": "Fog diffused through the valley, softening every edge.",
+      "style": "Poetic",
+      "translation": "雾气漫入山谷，抚平了一切棱角。",
+      "translated_word": "漫入",
+      "display_order": 1
+    },
+    {
+      "sentence": "A well-timed joke can diffuse tension in any room.",
+      "style": "Collocational",
+      "translation": "一个适时的玩笑能化解满室的紧张。",
+      "translated_word": "化解",
+      "display_order": 3
+    },
+    {
+      "sentence": "Kindness, once given, diffuses in ways we never witness.",
+      "style": "Philosophical",
+      "translation": "善意一经给出，便以我们看不见的方式四处蔓延。",
+      "translated_word": "蔓延",
+      "display_order": 4
+    }
+  ]
+}

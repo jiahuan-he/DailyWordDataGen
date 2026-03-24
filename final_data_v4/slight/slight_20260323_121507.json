@@ -1,0 +1,41 @@
+{
+  "word": "slight",
+  "phonetic": "/slaɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "轻微的；纤细的；微小的",
+  "examples": [
+    {
+      "sentence": "A slight headache lingered through the afternoon, easily ignored.",
+      "style": "Contextual",
+      "translation": "一阵隐隐的头痛持续了整个下午，不足为意。",
+      "translated_word": "隐隐的",
+      "display_order": 1
+    },
+    {
+      "sentence": "There's a slight chance of rain this evening.",
+      "style": "Collocational",
+      "translation": "今晚可能会下点小雨。",
+      "translated_word": "点",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her slight frame cast no shadow in the fading light.",
+      "style": "Poetic",
+      "translation": "她纤细的身影在暮色中几乎不留痕迹。",
+      "translated_word": "纤细的",
+      "display_order": 3
+    },
+    {
+      "sentence": "That slight pause before she answered changed everything.",
+      "style": "Intimate",
+      "translation": "她回答前那短暂的迟疑，改变了一切。",
+      "translated_word": "短暂的",
+      "display_order": 2
+    }
+  ]
+}

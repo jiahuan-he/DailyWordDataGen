@@ -1,0 +1,40 @@
+{
+  "word": "goody",
+  "phonetic": "/ˈɡʊdi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "好吃的东西；甜点；小礼物",
+  "examples": [
+    {
+      "sentence": "She handed me a foil-wrapped goody: a homemade caramel.",
+      "style": "Contextual",
+      "translation": "她递给我一颗锡纸包着的小零嘴：一块自制焦糖。",
+      "translated_word": "小零嘴",
+      "display_order": 1
+    },
+    {
+      "sentence": "Each guest received a goody bag filled with chocolate and stickers.",
+      "style": "Collocational",
+      "translation": "每位客人都收到一袋装满巧克力和贴纸的伴手礼。",
+      "translated_word": "伴手礼",
+      "display_order": 3
+    },
+    {
+      "sentence": "The cookie jar always held one last goody, saved just for me.",
+      "style": "Intimate",
+      "translation": "饼干罐里总留着最后一块点心，专门为我准备的。",
+      "translated_word": "点心",
+      "display_order": 2
+    },
+    {
+      "sentence": "A single goody can turn a gray afternoon golden.",
+      "style": "Poetic",
+      "translation": "一颗小小的糖果，便能将灰蒙蒙的午后染成金色。",
+      "translated_word": "糖果",
+      "display_order": 4
+    }
+  ]
+}

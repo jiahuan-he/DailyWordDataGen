@@ -1,0 +1,40 @@
+{
+  "word": "notable",
+  "phonetic": "/ˈnoʊtəbl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "显著的；值得注意的；著名的",
+  "examples": [
+    {
+      "sentence": "Among dozens of candidates, only two had notable experience.",
+      "style": "Contextual",
+      "translation": "数十位候选人中，只有两人经历出众。",
+      "translated_word": "出众",
+      "display_order": 2
+    },
+    {
+      "sentence": "The report cited a notable rise in renewable energy adoption.",
+      "style": "Formal",
+      "translation": "报告指出，可再生能源的采用率显著上升。",
+      "translated_word": "显著",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her calm was a notable exception in the crowded room.",
+      "style": "Collocational",
+      "translation": "在喧闹的人群中，她的从容格外醒目。",
+      "translated_word": "醒目",
+      "display_order": 3
+    },
+    {
+      "sentence": "Good work is common; notable work changes how people think.",
+      "style": "Contrastive",
+      "translation": "好的作品常见；卓越的作品改变人们的思维。",
+      "translated_word": "卓越",
+      "display_order": 4
+    }
+  ]
+}

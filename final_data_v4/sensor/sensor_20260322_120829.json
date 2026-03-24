@@ -1,0 +1,39 @@
+{
+  "word": "sensor",
+  "phonetic": "/ˈsensər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "传感器；感应器；探测器",
+  "examples": [
+    {
+      "sentence": "A tiny sensor in the doorframe knew I was there before I knocked.",
+      "style": "Contextual",
+      "translation": "门框里的微型传感器在我敲门前就察觉到了我的存在。",
+      "translated_word": "传感器",
+      "display_order": 4
+    },
+    {
+      "sentence": "New sensors across the city will monitor air quality in real time.",
+      "style": "Formal",
+      "translation": "全市新安装的传感器将实时监测空气质量。",
+      "translated_word": "传感器",
+      "display_order": 1
+    },
+    {
+      "sentence": "The motion sensor triggered the alarm when a shadow crossed the window.",
+      "style": "Collocational",
+      "translation": "一道影子掠过窗户，触发了移动传感器的警报。",
+      "translated_word": "传感器",
+      "display_order": 3
+    },
+    {
+      "sentence": "The smoke sensor beeped at 3 a.m. for a low battery; I lay awake until dawn.",
+      "style": "Intimate",
+      "translation": "凌晨三点，烟雾传感器因电量不足而鸣响；我辗转难眠直到天明。",
+      "translated_word": "传感器",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "sulk",
+  "phonetic": "/sʌlk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "生闷气；闹别扭；赌气",
+  "examples": [
+    {
+      "sentence": "He didn't get his way, so he sulked in his room all afternoon.",
+      "style": "Contextual",
+      "translation": "他没能如愿，于是整个下午都在房间里生闷气。",
+      "translated_word": "生闷气",
+      "display_order": 1
+    },
+    {
+      "sentence": "She tends to sulk in silence rather than voice her frustration.",
+      "style": "Collocational",
+      "translation": "她习惯默默赌气，而非说出心中的不满。",
+      "translated_word": "赌气",
+      "display_order": 3
+    },
+    {
+      "sentence": "To sulk is to demand attention through absence.",
+      "style": "Philosophical",
+      "translation": "生闷气，是以沉默索取关注。",
+      "translated_word": "生闷气",
+      "display_order": 4
+    },
+    {
+      "sentence": "My sister used to sulk for hours over the smallest things; now I miss even that.",
+      "style": "Intimate",
+      "translation": "妹妹从前会为小事闹别扭好几个小时；如今我连这都想念。",
+      "translated_word": "闹别扭",
+      "display_order": 2
+    }
+  ]
+}

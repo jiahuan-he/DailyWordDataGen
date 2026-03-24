@@ -1,0 +1,39 @@
+{
+  "word": "insurance",
+  "phonetic": "/ɪnˈʃʊərəns/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "保险；保障；防范",
+  "examples": [
+    {
+      "sentence": "After the flood, their insurance covered the full cost of rebuilding.",
+      "style": "Contextual",
+      "translation": "洪水过后，保险承担了重建的全部费用。",
+      "translated_word": "保险",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company mandates health insurance for all full-time employees.",
+      "style": "Formal",
+      "translation": "公司规定所有全职员工必须享有医疗保险。",
+      "translated_word": "保险",
+      "display_order": 2
+    },
+    {
+      "sentence": "She renewed her travel insurance before the trip abroad.",
+      "style": "Collocational",
+      "translation": "出国前，她续保了旅行险。",
+      "translated_word": "险",
+      "display_order": 3
+    },
+    {
+      "sentence": "We pay for insurance hoping never to use it; that is the price of peace.",
+      "style": "Philosophical",
+      "translation": "我们买保险，却盼着永远用不上；这便是安心的代价。",
+      "translated_word": "保险",
+      "display_order": 4
+    }
+  ]
+}

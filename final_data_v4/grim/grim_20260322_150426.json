@@ -1,0 +1,41 @@
+{
+  "word": "grim",
+  "phonetic": "/ɡrɪm/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "严峻；冷酷；阴森；惨淡",
+  "examples": [
+    {
+      "sentence": "The doctor's grim expression told us everything before he spoke.",
+      "style": "Contextual",
+      "translation": "医生凝重的神情，在他开口之前已说明了一切。",
+      "translated_word": "凝重",
+      "display_order": 1
+    },
+    {
+      "sentence": "Climate reports paint a grim picture of the decade ahead.",
+      "style": "Collocational",
+      "translation": "气候报告为未来十年描绘了一幅惨淡的图景。",
+      "translated_word": "惨淡",
+      "display_order": 3
+    },
+    {
+      "sentence": "Winter held the village in its grim, gray silence.",
+      "style": "Poetic",
+      "translation": "冬日以阴沉的灰色静默，笼罩着整座村庄。",
+      "translated_word": "阴沉",
+      "display_order": 2
+    },
+    {
+      "sentence": "Hope shines brightest against a grim backdrop.",
+      "style": "Philosophical",
+      "translation": "希望在暗淡的底色前，才最为耀眼。",
+      "translated_word": "暗淡",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "fanfare",
+  "phonetic": "/ˈfænfeər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "号角声；喧嚣；大张旗鼓",
+  "examples": [
+    {
+      "sentence": "The album dropped without fanfare and topped the charts within a week.",
+      "style": "Contextual",
+      "translation": "专辑悄然发布，一周内便登顶榜单。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "The new policy was introduced with considerable fanfare by the administration.",
+      "style": "Formal",
+      "translation": "新政策在政府的大力宣传下隆重推出。",
+      "translated_word": "大力宣传",
+      "display_order": 1
+    },
+    {
+      "sentence": "He craved fanfare; she preferred results.",
+      "style": "Contrastive",
+      "translation": "他渴望喧嚣；她只要结果。",
+      "translated_word": "喧嚣",
+      "display_order": 4
+    },
+    {
+      "sentence": "True kindness often arrives without fanfare.",
+      "style": "Philosophical",
+      "translation": "真正的善意往往悄然而至。",
+      "translated_word": null,
+      "display_order": 3
+    }
+  ]
+}

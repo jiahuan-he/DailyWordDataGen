@@ -1,0 +1,41 @@
+{
+  "word": "journal",
+  "phonetic": "/ˈdʒɜːrnəl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "日记；期刊；日志",
+  "examples": [
+    {
+      "sentence": "She submitted her research to a peer-reviewed journal.",
+      "style": "Contextual",
+      "translation": "她将研究成果投稿至一家同行评审期刊。",
+      "translated_word": "期刊",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother left behind a leather journal filled with recipes and quiet confessions.",
+      "style": "Intimate",
+      "translation": "祖母留下一本皮面日记，里面记满了食谱与低声的心事。",
+      "translated_word": "日记",
+      "display_order": 2
+    },
+    {
+      "sentence": "Keeping a gratitude journal shifted how I start each morning.",
+      "style": "Collocational",
+      "translation": "坚持写感恩日记，改变了我开启每个清晨的方式。",
+      "translated_word": "日记",
+      "display_order": 1
+    },
+    {
+      "sentence": "A journal holds not the events themselves, but who you were when you lived them.",
+      "style": "Philosophical",
+      "translation": "日记留住的不是事件本身，而是经历它们时的那个你。",
+      "translated_word": "日记",
+      "display_order": 4
+    }
+  ]
+}

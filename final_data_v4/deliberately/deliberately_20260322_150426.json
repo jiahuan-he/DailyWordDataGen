@@ -1,0 +1,39 @@
+{
+  "word": "deliberately",
+  "phonetic": "/dɪˈlɪbərətli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "故意地；蓄意；从容；审慎",
+  "examples": [
+    {
+      "sentence": "He spoke slowly, deliberately, letting each word land before the next.",
+      "style": "Contextual",
+      "translation": "他说得很慢，字斟句酌，让每个字都落地生根后，才说下一个。",
+      "translated_word": "字斟句酌",
+      "display_order": 3
+    },
+    {
+      "sentence": "It wasn't an accident; she had deliberately stepped into his path.",
+      "style": "Contrastive",
+      "translation": "那不是偶然；她是故意走进他的轨迹。",
+      "translated_word": "故意",
+      "display_order": 1
+    },
+    {
+      "sentence": "To live deliberately is to reclaim time from routine.",
+      "style": "Philosophical",
+      "translation": "审慎地活着，是从日常中夺回时间的主权。",
+      "translated_word": "审慎地",
+      "display_order": 4
+    },
+    {
+      "sentence": "That year, I deliberately chose the harder path; it made all the difference.",
+      "style": "Intimate",
+      "translation": "那一年，我刻意选了更难走的路；这改变了一切。",
+      "translated_word": "刻意",
+      "display_order": 2
+    }
+  ]
+}

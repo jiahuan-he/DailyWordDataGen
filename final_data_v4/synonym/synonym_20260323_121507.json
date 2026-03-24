@@ -1,0 +1,39 @@
+{
+  "word": "synonym",
+  "phonetic": "/ˈsɪnənɪm/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "同义词；近义词",
+  "examples": [
+    {
+      "sentence": "Joy, bliss, delight: synonyms that paint the same feeling in different light.",
+      "style": "Contextual",
+      "translation": "欢欣、幸福、愉悦：这些同义词以不同的光泽描绘同一种情感。",
+      "translated_word": "同义词",
+      "display_order": 3
+    },
+    {
+      "sentence": "A synonym shares meaning; a homophone shares only sound.",
+      "style": "Contrastive",
+      "translation": "同义词共享含义；同音词仅共享声音。",
+      "translated_word": "同义词",
+      "display_order": 1
+    },
+    {
+      "sentence": "She reached for a synonym to keep the paragraph from growing stale.",
+      "style": "Collocational",
+      "translation": "她寻找一个同义词，以免段落变得乏味。",
+      "translated_word": "同义词",
+      "display_order": 2
+    },
+    {
+      "sentence": "No perfect synonym exists; every word carries the weight of its own history.",
+      "style": "Philosophical",
+      "translation": "世上没有完美的同义词；每个词都背负着自己的历史。",
+      "translated_word": "同义词",
+      "display_order": 4
+    }
+  ]
+}

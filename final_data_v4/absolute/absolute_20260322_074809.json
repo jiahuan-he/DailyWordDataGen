@@ -1,0 +1,40 @@
+{
+  "word": "absolute",
+  "phonetic": "/ˈæbsəluːt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "绝对的；完全的；无条件的",
+  "examples": [
+    {
+      "sentence": "The hall fell into absolute silence as the verdict was read.",
+      "style": "Contextual",
+      "translation": "宣读判决时，大厅陷入了绝对的寂静。",
+      "translated_word": "绝对的",
+      "display_order": 2
+    },
+    {
+      "sentence": "The investigation yielded absolute proof of financial misconduct.",
+      "style": "Formal",
+      "translation": "调查获得了财务不当行为的确凿证据。",
+      "translated_word": "确凿",
+      "display_order": 3
+    },
+    {
+      "sentence": "Absolute power reveals character; it does not create it.",
+      "style": "Philosophical",
+      "translation": "绝对的权力揭示人性，而非塑造人性。",
+      "translated_word": "绝对的",
+      "display_order": 4
+    },
+    {
+      "sentence": "She demanded absolute honesty from everyone in her circle.",
+      "style": "Collocational",
+      "translation": "她要求身边的每个人都绝对坦诚。",
+      "translated_word": "绝对",
+      "display_order": 1
+    }
+  ]
+}

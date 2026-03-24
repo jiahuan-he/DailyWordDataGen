@@ -1,0 +1,40 @@
+{
+  "word": "hamper",
+  "phonetic": "/ˈhæmpər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "阻碍；妨碍；束缚",
+  "examples": [
+    {
+      "sentence": "Heavy rain hampered the rescue efforts for hours.",
+      "style": "Contextual",
+      "translation": "暴雨持续数小时，阻碍了救援行动。",
+      "translated_word": "阻碍",
+      "display_order": 1
+    },
+    {
+      "sentence": "Outdated regulations continue to hamper innovation in the sector.",
+      "style": "Formal",
+      "translation": "过时的法规持续妨碍着该行业的创新发展。",
+      "translated_word": "妨碍",
+      "display_order": 2
+    },
+    {
+      "sentence": "Don't let fear hamper your growth.",
+      "style": "Collocational",
+      "translation": "别让恐惧束缚你的成长。",
+      "translated_word": "束缚",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sometimes the weight we carry is not what hampers us; it is the refusal to set it down.",
+      "style": "Philosophical",
+      "translation": "有时真正束缚我们的，不是肩上的重担，而是不肯放手的执念。",
+      "translated_word": "束缚",
+      "display_order": 4
+    }
+  ]
+}

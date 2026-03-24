@@ -1,0 +1,41 @@
+{
+  "word": "slurry",
+  "phonetic": "/ˈslʌri/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "泥浆；浆料；浆液",
+  "examples": [
+    {
+      "sentence": "The mixer churned water and cement into a smooth slurry.",
+      "style": "Contextual",
+      "translation": "搅拌机将水和水泥搅成细腻的浆料。",
+      "translated_word": "浆料",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities ordered the plant closed after slurry leaked into local groundwater.",
+      "style": "Formal",
+      "translation": "浆液渗入地下水后，当局下令关闭了工厂。",
+      "translated_word": "浆液",
+      "display_order": 3
+    },
+    {
+      "sentence": "Coal slurry pipelines stretch hundreds of miles across the region.",
+      "style": "Collocational",
+      "translation": "煤浆管道在该地区绵延数百英里。",
+      "translated_word": "煤浆",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every spring, the fields behind our house turned to slurry under the rain.",
+      "style": "Intimate",
+      "translation": "每年春天，屋后的田野在雨中化为一片泥浆。",
+      "translated_word": "泥浆",
+      "display_order": 2
+    }
+  ]
+}

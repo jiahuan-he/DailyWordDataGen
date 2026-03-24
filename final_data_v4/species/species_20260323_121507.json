@@ -1,0 +1,39 @@
+{
+  "word": "species",
+  "phonetic": "/ˈspiːʃiːz/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "物种；种类；类型",
+  "examples": [
+    {
+      "sentence": "Scientists discovered a new species of butterfly deep in the Amazon.",
+      "style": "Contextual",
+      "translation": "科学家在亚马逊深处发现了一种新的蝴蝶物种。",
+      "translated_word": "物种",
+      "display_order": 1
+    },
+    {
+      "sentence": "Climate change now threatens over one million species with extinction.",
+      "style": "Formal",
+      "translation": "气候变化正使超过一百万个物种面临灭绝威胁。",
+      "translated_word": "物种",
+      "display_order": 2
+    },
+    {
+      "sentence": "We are the only species that buries its dead with flowers.",
+      "style": "Philosophical",
+      "translation": "我们是唯一会用鲜花安葬逝者的物种。",
+      "translated_word": "物种",
+      "display_order": 4
+    },
+    {
+      "sentence": "Unlike solitary species, wolves find strength in the bonds of a pack.",
+      "style": "Contrastive",
+      "translation": "不同于独居物种，狼群在彼此的羁绊中汲取力量。",
+      "translated_word": "物种",
+      "display_order": 3
+    }
+  ]
+}

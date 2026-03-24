@@ -1,0 +1,40 @@
+{
+  "word": "waive",
+  "phonetic": "/weɪv/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "放弃；免除；搁置",
+  "examples": [
+    {
+      "sentence": "The university agreed to waive tuition for students affected by the flood.",
+      "style": "Formal",
+      "translation": "大学同意为受洪灾影响的学生免除学费。",
+      "translated_word": "免除",
+      "display_order": 2
+    },
+    {
+      "sentence": "She waived her right to an attorney and spoke directly to the police.",
+      "style": "Collocational",
+      "translation": "她放弃了聘请律师的权利，直接与警方对话。",
+      "translated_word": "放弃",
+      "display_order": 3
+    },
+    {
+      "sentence": "The landlord waived the late fee after hearing about the medical emergency.",
+      "style": "Contextual",
+      "translation": "房东在得知紧急医疗状况后，免除了滞纳金。",
+      "translated_word": "免除",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sometimes the bravest thing is to waive your pride and ask for help.",
+      "style": "Inspirational",
+      "translation": "有时，最勇敢的事是放下骄傲，开口求助。",
+      "translated_word": "放下",
+      "display_order": 4
+    }
+  ]
+}

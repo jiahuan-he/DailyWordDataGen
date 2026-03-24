@@ -1,0 +1,40 @@
+{
+  "word": "risk",
+  "phonetic": "/rɪsk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "风险；危险；冒险",
+  "examples": [
+    {
+      "sentence": "The investors weighed the risk before committing their capital.",
+      "style": "Contextual",
+      "translation": "投资者在投入资金前仔细权衡了风险。",
+      "translated_word": "风险",
+      "display_order": 1
+    },
+    {
+      "sentence": "Growth begins where comfort ends; risk is the price of becoming.",
+      "style": "Philosophical",
+      "translation": "成长始于舒适的边界之外；风险是蜕变的代价。",
+      "translated_word": "风险",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every great story started with someone willing to take a risk.",
+      "style": "Inspirational",
+      "translation": "每个伟大的故事，都始于某人愿意放手一搏。",
+      "translated_word": "一搏",
+      "display_order": 2
+    },
+    {
+      "sentence": "At twenty-three, I bought a one-way ticket; the risk felt lighter than regret.",
+      "style": "Intimate",
+      "translation": "二十三岁那年，我买了一张单程票；冒险的重量，终究轻于遗憾。",
+      "translated_word": "冒险",
+      "display_order": 4
+    }
+  ]
+}

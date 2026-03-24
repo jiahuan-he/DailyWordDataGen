@@ -1,0 +1,40 @@
+{
+  "word": "scoop",
+  "phonetic": "/skuːp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "勺；一勺；独家新闻",
+  "examples": [
+    {
+      "sentence": "The barista added one more scoop of espresso powder to my drink.",
+      "style": "Contextual",
+      "translation": "咖啡师往我的饮品里又加了一勺浓缩咖啡粉。",
+      "translated_word": "勺",
+      "display_order": 3
+    },
+    {
+      "sentence": "On summer evenings, nothing beats a double scoop of mint chocolate chip.",
+      "style": "Collocational",
+      "translation": "夏日傍晚，没有什么比两球薄荷巧克力冰淇淋更美好的了。",
+      "translated_word": "球",
+      "display_order": 1
+    },
+    {
+      "sentence": "The journalist landed the scoop that changed the entire election narrative.",
+      "style": "Formal",
+      "translation": "那位记者获得的独家新闻改变了整场选举的走向。",
+      "translated_word": "独家新闻",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother always gave me an extra scoop when my parents weren't looking.",
+      "style": "Intimate",
+      "translation": "每当父母不注意时，奶奶总会偷偷多给我一勺。",
+      "translated_word": "勺",
+      "display_order": 2
+    }
+  ]
+}

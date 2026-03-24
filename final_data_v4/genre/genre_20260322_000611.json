@@ -1,0 +1,39 @@
+{
+  "word": "genre",
+  "phonetic": "/ˈʒɑːnrə/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "类型；体裁；风格",
+  "examples": [
+    {
+      "sentence": "The bookstore sorted its shelves by genre: mystery, romance, science fiction.",
+      "style": "Contextual",
+      "translation": "书店按类型整理书架：悬疑、言情、科幻。",
+      "translated_word": "类型",
+      "display_order": 1
+    },
+    {
+      "sentence": "The film defies genre, blending horror with dark comedy.",
+      "style": "Formal",
+      "translation": "这部电影打破类型边界，将恐怖与黑色喜剧融为一体。",
+      "translated_word": "类型",
+      "display_order": 3
+    },
+    {
+      "sentence": "She writes genre fiction, specializing in psychological thrillers.",
+      "style": "Collocational",
+      "translation": "她专写类型小说，尤其擅长心理惊悚。",
+      "translated_word": "类型",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every genre is a conversation; each new work answers what came before.",
+      "style": "Philosophical",
+      "translation": "每种类型都是一场对话；每部新作都在回应前人。",
+      "translated_word": "类型",
+      "display_order": 4
+    }
+  ]
+}

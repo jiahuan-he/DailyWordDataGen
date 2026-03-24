@@ -1,0 +1,40 @@
+{
+  "word": "suitcase",
+  "phonetic": "/ˈsuːtkeɪs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "行李箱；手提箱；旅行箱",
+  "examples": [
+    {
+      "sentence": "Her suitcase sat by the door, already packed for tomorrow's flight.",
+      "style": "Contextual",
+      "translation": "她的行李箱已收拾妥当，静静靠在门边，等待明日的航班。",
+      "translated_word": "行李箱",
+      "display_order": 2
+    },
+    {
+      "sentence": "He rolled his suitcase through the crowded terminal, searching for Gate 12.",
+      "style": "Collocational",
+      "translation": "他拖着行李箱穿过拥挤的航站楼，寻找十二号登机口。",
+      "translated_word": "行李箱",
+      "display_order": 1
+    },
+    {
+      "sentence": "That old suitcase in the attic still holds my grandmother's wedding dress.",
+      "style": "Intimate",
+      "translation": "阁楼上那只旧行李箱里，至今还收着祖母的婚纱。",
+      "translated_word": "行李箱",
+      "display_order": 3
+    },
+    {
+      "sentence": "A suitcase holds more than clothes; it carries the weight of goodbyes.",
+      "style": "Poetic",
+      "translation": "行李箱装的不只是衣物，更是告别的分量。",
+      "translated_word": "行李箱",
+      "display_order": 4
+    }
+  ]
+}

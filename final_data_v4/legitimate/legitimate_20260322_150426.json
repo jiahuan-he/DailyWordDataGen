@@ -1,0 +1,41 @@
+{
+  "word": "legitimate",
+  "phonetic": "/lɪˈdʒɪtɪmət/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "合法的；正当的；合理的；正统的",
+  "examples": [
+    {
+      "sentence": "The court recognized his claim to the inheritance as legitimate.",
+      "style": "Formal",
+      "translation": "法院认定他对遗产的主张合法有效。",
+      "translated_word": "合法",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her frustration was legitimate; the project had been delayed three times.",
+      "style": "Contextual",
+      "translation": "她的不满情有可原；项目已被推迟了三次。",
+      "translated_word": "情有可原",
+      "display_order": 2
+    },
+    {
+      "sentence": "Not every loud voice carries a legitimate argument.",
+      "style": "Contrastive",
+      "translation": "并非每个高亢的声音都承载着正当的论点。",
+      "translated_word": "正当",
+      "display_order": 3
+    },
+    {
+      "sentence": "The hardest truth to accept: your own needs are legitimate.",
+      "style": "Philosophical",
+      "translation": "最难接受的真相是：你自己的需求同样正当。",
+      "translated_word": "正当",
+      "display_order": 4
+    }
+  ]
+}

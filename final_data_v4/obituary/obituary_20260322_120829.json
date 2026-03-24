@@ -1,0 +1,40 @@
+{
+  "word": "obituary",
+  "phonetic": "/əˈbɪtʃueri/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "讣告；讣文；悼念文章",
+  "examples": [
+    {
+      "sentence": "Her obituary mentioned three grandchildren and a lifelong love of gardening.",
+      "style": "Contextual",
+      "translation": "她的讣告提及三个孙辈，以及她毕生对园艺的热爱。",
+      "translated_word": "讣告",
+      "display_order": 1
+    },
+    {
+      "sentence": "The newspaper devoted its entire front page to his obituary.",
+      "style": "Formal",
+      "translation": "报纸以整个头版刊登了他的讣告。",
+      "translated_word": "讣告",
+      "display_order": 2
+    },
+    {
+      "sentence": "An obituary distills a lifetime into a few quiet paragraphs.",
+      "style": "Philosophical",
+      "translation": "讣告将一生浓缩为寥寥数段文字。",
+      "translated_word": "讣告",
+      "display_order": 3
+    },
+    {
+      "sentence": "Reading his obituary aloud, my voice broke at the word 'beloved.'",
+      "style": "Intimate",
+      "translation": "念到\"挚爱\"二字时，我的声音哽咽了。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

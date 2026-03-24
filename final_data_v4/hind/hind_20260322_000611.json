@@ -1,0 +1,40 @@
+{
+  "word": "hind",
+  "phonetic": "/haɪnd/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "后面的；后部的",
+  "examples": [
+    {
+      "sentence": "The rabbit pushed off with its hind legs and vanished into the brush.",
+      "style": "Contextual",
+      "translation": "兔子后腿一蹬，便消失在灌木丛中。",
+      "translated_word": "后",
+      "display_order": 1
+    },
+    {
+      "sentence": "A healthy horse carries most of its power in the hind quarters.",
+      "style": "Collocational",
+      "translation": "一匹健康的马，力量大多蕴藏在后躯。",
+      "translated_word": "后",
+      "display_order": 3
+    },
+    {
+      "sentence": "The fawn rose on trembling hind legs, finding its balance under an indifferent sky.",
+      "style": "Poetic",
+      "translation": "小鹿用颤抖的后腿站起，在冷漠的天空下寻找平衡。",
+      "translated_word": "后",
+      "display_order": 2
+    },
+    {
+      "sentence": "Veterinary scans revealed early arthritis in the retriever's hind joints.",
+      "style": "Formal",
+      "translation": "兽医扫描显示，这只金毛犬的后腿关节已有早期关节炎。",
+      "translated_word": "后",
+      "display_order": 4
+    }
+  ]
+}

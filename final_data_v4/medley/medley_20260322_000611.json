@@ -1,0 +1,40 @@
+{
+  "word": "medley",
+  "phonetic": "/ˈmedli/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "混合；集锦；组曲",
+  "examples": [
+    {
+      "sentence": "The street market was a medley of spices, voices, and color.",
+      "style": "Contextual",
+      "translation": "街头市集是香料、人声与色彩的混合体。",
+      "translated_word": "混合体",
+      "display_order": 1
+    },
+    {
+      "sentence": "She closed the concert with a medley of her greatest hits.",
+      "style": "Collocational",
+      "translation": "她以一首经典金曲串烧为演唱会收尾。",
+      "translated_word": "串烧",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every conversation with him is a medley: half confession, half contradiction.",
+      "style": "Poetic",
+      "translation": "与他的每次交谈都是一场杂糅：一半坦白，一半矛盾。",
+      "translated_word": "杂糅",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's kitchen always smelled like a medley of herbs I could never name.",
+      "style": "Intimate",
+      "translation": "外婆的厨房里总弥漫着一种混合香草的气息，我从未叫得出它们的名字。",
+      "translated_word": "混合",
+      "display_order": 3
+    }
+  ]
+}

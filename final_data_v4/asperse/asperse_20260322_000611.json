@@ -1,0 +1,39 @@
+{
+  "word": "asperse",
+  "phonetic": "/əˈspɜːs/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "诽谤；中伤；诋毁",
+  "examples": [
+    {
+      "sentence": "The report sought to asperse her integrity with unverified claims.",
+      "style": "Formal",
+      "translation": "该报告试图以未经证实的指控诋毁她的人格。",
+      "translated_word": "诋毁",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rivals aspersed his character, but the accusations never held.",
+      "style": "Contextual",
+      "translation": "对手中伤他的品行，但指控始终站不住脚。",
+      "translated_word": "中伤",
+      "display_order": 3
+    },
+    {
+      "sentence": "They could not refute her work, so they aspersed her motives instead.",
+      "style": "Contrastive",
+      "translation": "他们无法驳倒她的研究，只好转而诋毁她的动机。",
+      "translated_word": "诋毁",
+      "display_order": 2
+    },
+    {
+      "sentence": "Those who asperse others rarely escape the stain themselves.",
+      "style": "Philosophical",
+      "translation": "诋毁他人者，自身也难逃污名。",
+      "translated_word": "诋毁",
+      "display_order": 4
+    }
+  ]
+}

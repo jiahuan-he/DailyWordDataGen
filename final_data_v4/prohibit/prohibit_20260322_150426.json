@@ -1,0 +1,39 @@
+{
+  "word": "prohibit",
+  "phonetic": "/prəˈhɪbɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "禁止；阻止；不允许",
+  "examples": [
+    {
+      "sentence": "Federal law prohibits the sale of tobacco to minors.",
+      "style": "Formal",
+      "translation": "联邦法律禁止向未成年人出售烟草。",
+      "translated_word": "禁止",
+      "display_order": 2
+    },
+    {
+      "sentence": "The museum prohibits flash photography to preserve the paintings.",
+      "style": "Contextual",
+      "translation": "为保护画作，博物馆禁止使用闪光灯拍照。",
+      "translated_word": "禁止",
+      "display_order": 1
+    },
+    {
+      "sentence": "The building strictly prohibits smoking in all common areas.",
+      "style": "Collocational",
+      "translation": "大楼严禁在所有公共区域吸烟。",
+      "translated_word": "严禁",
+      "display_order": 3
+    },
+    {
+      "sentence": "Laws prohibit actions, not the thoughts that inspire them.",
+      "style": "Philosophical",
+      "translation": "法律禁止的是行为，而非催生行为的念想。",
+      "translated_word": "禁止",
+      "display_order": 4
+    }
+  ]
+}

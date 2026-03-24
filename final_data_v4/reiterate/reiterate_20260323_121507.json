@@ -1,0 +1,41 @@
+{
+  "word": "reiterate",
+  "phonetic": "/riːˈɪtəreɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "重申；反复强调；再次声明",
+  "examples": [
+    {
+      "sentence": "The ambassador reiterated her country's stance on the treaty.",
+      "style": "Formal",
+      "translation": "大使重申了本国对该条约的立场。",
+      "translated_word": "重申",
+      "display_order": 2
+    },
+    {
+      "sentence": "He had explained it twice, but she asked him to reiterate.",
+      "style": "Contextual",
+      "translation": "他已经解释了两遍，但她仍请他再说一次。",
+      "translated_word": "再说一次",
+      "display_order": 3
+    },
+    {
+      "sentence": "Let me reiterate the key point before we proceed.",
+      "style": "Collocational",
+      "translation": "在继续之前，请允许我重申一下要点。",
+      "translated_word": "重申",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother never lectured; she simply reiterated her love through warm meals and quiet presence.",
+      "style": "Intimate",
+      "translation": "祖母从不说教；她只是用热腾腾的饭菜和静静的陪伴，一遍遍诉说着爱。",
+      "translated_word": "一遍遍诉说",
+      "display_order": 4
+    }
+  ]
+}

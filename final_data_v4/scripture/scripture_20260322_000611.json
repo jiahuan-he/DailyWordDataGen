@@ -1,0 +1,39 @@
+{
+  "word": "scripture",
+  "phonetic": "/ˈskrɪptʃər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "经文；圣典；经书",
+  "examples": [
+    {
+      "sentence": "The monk began each morning by reciting scripture in the temple courtyard.",
+      "style": "Contextual",
+      "translation": "僧人每日清晨在寺院庭中诵念经文。",
+      "translated_word": "经文",
+      "display_order": 1
+    },
+    {
+      "sentence": "Scholars have debated the origins of this scripture for over a century.",
+      "style": "Formal",
+      "translation": "学者们对这部经典的起源争论了一个多世纪。",
+      "translated_word": "经典",
+      "display_order": 2
+    },
+    {
+      "sentence": "Scripture offers questions as often as it offers answers.",
+      "style": "Philosophical",
+      "translation": "经书给出的疑问，与它给出的答案一样多。",
+      "translated_word": "经书",
+      "display_order": 3
+    },
+    {
+      "sentence": "Dust settled on the scripture, but its words remained untouched by time.",
+      "style": "Poetic",
+      "translation": "尘埃落于经卷之上，文字却不染岁月。",
+      "translated_word": "经卷",
+      "display_order": 4
+    }
+  ]
+}

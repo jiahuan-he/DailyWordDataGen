@@ -1,0 +1,42 @@
+{
+  "word": "zip",
+  "phonetic": "/zɪp/",
+  "pos": [
+    "interjection",
+    "noun",
+    "pronoun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "拉拉链；飞速移动；压缩",
+  "examples": [
+    {
+      "sentence": "She zipped her bag and rushed out the door.",
+      "style": "Contextual",
+      "translation": "她拉上包的拉链，匆匆出了门。",
+      "translated_word": "拉上",
+      "display_order": 1
+    },
+    {
+      "sentence": "He zipped through the paperwork before lunch.",
+      "style": "Collocational",
+      "translation": "他午饭前飞快地处理完了文件。",
+      "translated_word": "飞快",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every cold morning, she zipped my coat with quiet care.",
+      "style": "Intimate",
+      "translation": "每个寒冷的早晨，她都轻轻为我拉好外套的拉链。",
+      "translated_word": "拉好",
+      "display_order": 2
+    },
+    {
+      "sentence": "The express train zips between the two cities in under an hour.",
+      "style": "Formal",
+      "translation": "特快列车穿行于两座城市之间，全程不到一小时。",
+      "translated_word": "穿行",
+      "display_order": 3
+    }
+  ]
+}

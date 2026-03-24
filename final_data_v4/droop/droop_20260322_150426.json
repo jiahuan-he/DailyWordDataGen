@@ -1,0 +1,40 @@
+{
+  "word": "droop",
+  "phonetic": "/druːp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "下垂；低垂；萎靡；凋萎",
+  "examples": [
+    {
+      "sentence": "The sunflowers began to droop after three days without water.",
+      "style": "Contextual",
+      "translation": "三天没浇水，向日葵开始耷拉下来。",
+      "translated_word": "耷拉",
+      "display_order": 1
+    },
+    {
+      "sentence": "Willows droop toward the river, listening to its quiet flow.",
+      "style": "Poetic",
+      "translation": "柳枝低垂向河面，倾听流水的细语。",
+      "translated_word": "低垂",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her shoulders drooped the moment she read the rejection letter.",
+      "style": "Collocational",
+      "translation": "看到拒信的那一刻，她的双肩垮了下来。",
+      "translated_word": "垮",
+      "display_order": 2
+    },
+    {
+      "sentence": "When his ears droop like that, I know my dog is waiting by the door.",
+      "style": "Intimate",
+      "translation": "每当他的耳朵那样耷拉着，我便知道小狗正守在门边等我。",
+      "translated_word": "耷拉",
+      "display_order": 3
+    }
+  ]
+}

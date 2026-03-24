@@ -1,0 +1,40 @@
+{
+  "word": "labored",
+  "phonetic": "/ˈleɪbərd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "费力的；不自然的；吃力的",
+  "examples": [
+    {
+      "sentence": "His labored breathing filled the quiet room.",
+      "style": "Contextual",
+      "translation": "他吃力的呼吸声充满了安静的房间。",
+      "translated_word": "吃力的",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her first draft felt labored; the revision read effortlessly.",
+      "style": "Contrastive",
+      "translation": "初稿读来生涩，修改后却流畅自如。",
+      "translated_word": "生涩",
+      "display_order": 4
+    },
+    {
+      "sentence": "The comedian's labored punchlines met only awkward silence.",
+      "style": "Collocational",
+      "translation": "喜剧演员刻意的笑点只换来一阵尴尬的沉默。",
+      "translated_word": "刻意的",
+      "display_order": 3
+    },
+    {
+      "sentence": "Each step up the mountain grew more labored than the last.",
+      "style": "Intimate",
+      "translation": "登山途中，每一步都比上一步更加艰难。",
+      "translated_word": "艰难",
+      "display_order": 2
+    }
+  ]
+}

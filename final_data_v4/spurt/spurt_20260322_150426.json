@@ -1,0 +1,40 @@
+{
+  "word": "spurt",
+  "phonetic": "/spɜːrt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "喷出；涌出；突然加速",
+  "examples": [
+    {
+      "sentence": "Coffee spurted from the machine when he pressed the wrong button.",
+      "style": "Contextual",
+      "translation": "他按错按钮，咖啡从机器里喷溅而出。",
+      "translated_word": "喷溅",
+      "display_order": 1
+    },
+    {
+      "sentence": "She spurted ahead in the final lap and won the race.",
+      "style": "Collocational",
+      "translation": "她在最后一圈突然加速，赢得了比赛。",
+      "translated_word": "加速",
+      "display_order": 2
+    },
+    {
+      "sentence": "Light spurted through the cracks, painting the dusty room in gold.",
+      "style": "Poetic",
+      "translation": "光线从缝隙间涌入，为尘封的房间镀上金色。",
+      "translated_word": "涌入",
+      "display_order": 3
+    },
+    {
+      "sentence": "Creativity doesn't trickle; it spurts when you stop overthinking.",
+      "style": "Inspirational",
+      "translation": "创意不会涓涓细流；当你停止过度思考时，它便喷涌而出。",
+      "translated_word": "喷涌",
+      "display_order": 4
+    }
+  ]
+}

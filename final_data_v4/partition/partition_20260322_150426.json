@@ -1,0 +1,40 @@
+{
+  "word": "partition",
+  "phonetic": "/pɑːrˈtɪʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "隔板；隔墙；分区；分割",
+  "examples": [
+    {
+      "sentence": "The glass partition between our desks couldn't muffle our whispered jokes.",
+      "style": "Contextual",
+      "translation": "我们工位间的玻璃隔板，挡不住那些窃窃私语的笑话。",
+      "translated_word": "隔板",
+      "display_order": 2
+    },
+    {
+      "sentence": "Office partitions are being redesigned to balance privacy with collaboration.",
+      "style": "Formal",
+      "translation": "办公隔断正在重新设计，以平衡隐私需求与协作空间。",
+      "translated_word": "隔断",
+      "display_order": 3
+    },
+    {
+      "sentence": "We build partitions to define space, yet they often define us.",
+      "style": "Philosophical",
+      "translation": "我们筑起隔墙来界定空间，到头来却被它们界定了自己。",
+      "translated_word": "隔墙",
+      "display_order": 4
+    },
+    {
+      "sentence": "Behind the wooden partition, my grandfather kept his radio and unfinished letters.",
+      "style": "Intimate",
+      "translation": "木隔板后面，外公放着他的收音机和那些未写完的信。",
+      "translated_word": "隔板",
+      "display_order": 1
+    }
+  ]
+}

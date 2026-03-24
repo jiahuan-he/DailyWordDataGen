@@ -1,0 +1,40 @@
+{
+  "word": "senile",
+  "phonetic": "/ˈsiːnaɪl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "衰老的；老迈的；老糊涂的",
+  "examples": [
+    {
+      "sentence": "The doctor noted senile changes in her memory tests.",
+      "style": "Contextual",
+      "translation": "医生在她的记忆测试中发现了衰老的迹象。",
+      "translated_word": "衰老",
+      "display_order": 3
+    },
+    {
+      "sentence": "He is elderly, not senile; age slowed his body, not his brilliance.",
+      "style": "Contrastive",
+      "translation": "他是年迈，而非老糊涂；岁月拖慢了他的身体，却未减他的睿智。",
+      "translated_word": "老糊涂",
+      "display_order": 1
+    },
+    {
+      "sentence": "We fear senile decay more than death: losing ourselves before losing life.",
+      "style": "Philosophical",
+      "translation": "比起死亡，我们更惧怕衰老的消退：在失去生命之前，先失去自我。",
+      "translated_word": "衰老",
+      "display_order": 4
+    },
+    {
+      "sentence": "Grandpa still hums the old lullabies, though his senile mind has forgotten my name.",
+      "style": "Intimate",
+      "translation": "爷爷依然哼着旧日的摇篮曲，尽管他衰老的心智已忘记了我的名字。",
+      "translated_word": "衰老",
+      "display_order": 2
+    }
+  ]
+}

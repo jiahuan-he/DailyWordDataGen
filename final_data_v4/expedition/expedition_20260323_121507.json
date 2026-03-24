@@ -1,0 +1,40 @@
+{
+  "word": "expedition",
+  "phonetic": "/ˌekspɪˈdɪʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "远征；探险；考察队",
+  "examples": [
+    {
+      "sentence": "Their expedition into the rainforest lasted six weeks.",
+      "style": "Contextual",
+      "translation": "他们的雨林探险持续了六周。",
+      "translated_word": "探险",
+      "display_order": 1
+    },
+    {
+      "sentence": "The research expedition confirmed three new species in the deep Atlantic.",
+      "style": "Formal",
+      "translation": "此次科考在大西洋深处确认了三个新物种。",
+      "translated_word": "科考",
+      "display_order": 2
+    },
+    {
+      "sentence": "An expedition leaves footprints where maps once showed only white.",
+      "style": "Poetic",
+      "translation": "探险者的足迹，落在地图曾经空白的地方。",
+      "translated_word": "探险",
+      "display_order": 3
+    },
+    {
+      "sentence": "The greatest expedition is the one you almost talked yourself out of.",
+      "style": "Inspirational",
+      "translation": "最伟大的远征，往往是你差点说服自己放弃的那一次。",
+      "translated_word": "远征",
+      "display_order": 4
+    }
+  ]
+}

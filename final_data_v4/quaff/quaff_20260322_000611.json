@@ -1,0 +1,40 @@
+{
+  "word": "quaff",
+  "phonetic": "/kwɒf/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "痛饮；畅饮；大口喝",
+  "examples": [
+    {
+      "sentence": "After the victory, they quaffed champagne straight from the bottle.",
+      "style": "Contextual",
+      "translation": "胜利之后，他们抱起香槟，对着瓶口痛饮。",
+      "translated_word": "痛饮",
+      "display_order": 2
+    },
+    {
+      "sentence": "He quaffed the cold lager in three long gulps.",
+      "style": "Collocational",
+      "translation": "他三口便将那杯冰镇啤酒一饮而尽。",
+      "translated_word": "一饮而尽",
+      "display_order": 1
+    },
+    {
+      "sentence": "Under the vine-draped pergola, we quaffed red wine until the stars emerged.",
+      "style": "Poetic",
+      "translation": "藤蔓垂落的凉棚下，我们畅饮红酒，直至繁星初现。",
+      "translated_word": "畅饮",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father quaffs his morning espresso as if it were a daily ritual.",
+      "style": "Intimate",
+      "translation": "父亲每日清晨痛饮一杯浓缩咖啡，仿佛在进行某种神圣的仪式。",
+      "translated_word": "痛饮",
+      "display_order": 4
+    }
+  ]
+}

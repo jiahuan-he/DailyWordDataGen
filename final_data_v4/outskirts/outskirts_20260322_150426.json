@@ -1,0 +1,40 @@
+{
+  "word": "outskirts",
+  "phonetic": "/ˈaʊtskɜːrts/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "郊区；市郊；边缘地带",
+  "examples": [
+    {
+      "sentence": "The factory relocated to the outskirts where rent was more affordable.",
+      "style": "Contextual",
+      "translation": "工厂搬到了租金更便宜的郊区。",
+      "translated_word": "郊区",
+      "display_order": 3
+    },
+    {
+      "sentence": "On the outskirts, streetlights give way to fireflies.",
+      "style": "Poetic",
+      "translation": "在城市边缘，路灯渐隐，萤火登场。",
+      "translated_word": "边缘",
+      "display_order": 4
+    },
+    {
+      "sentence": "Growing up on the outskirts meant long bus rides but wide open skies.",
+      "style": "Intimate",
+      "translation": "在郊区长大，意味着漫长的公交车程，也意味着无垠的天空。",
+      "translated_word": "郊区",
+      "display_order": 2
+    },
+    {
+      "sentence": "They found a quiet café on the outskirts of town.",
+      "style": "Collocational",
+      "translation": "他们在小镇边缘找到一家安静的咖啡馆。",
+      "translated_word": "边缘",
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "autocracy",
+  "phonetic": "/ɔːˈtɑːkrəsi/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "独裁；专制；专制政体",
+  "examples": [
+    {
+      "sentence": "Under the autocracy, newspapers printed only what the state approved.",
+      "style": "Contextual",
+      "translation": "在专制统治下，报纸只能刊登国家批准的内容。",
+      "translated_word": "专制统治",
+      "display_order": 1
+    },
+    {
+      "sentence": "The nation's slow drift into autocracy alarmed neighboring democracies.",
+      "style": "Formal",
+      "translation": "该国逐步滑向独裁，令邻近的民主国家深感忧虑。",
+      "translated_word": "独裁",
+      "display_order": 2
+    },
+    {
+      "sentence": "Democracy scatters power; autocracy hoards it.",
+      "style": "Contrastive",
+      "translation": "民主分散权力；专制将其据为己有。",
+      "translated_word": "专制",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every autocracy begins with a promise of order.",
+      "style": "Philosophical",
+      "translation": "每一种专制都始于对秩序的承诺。",
+      "translated_word": "专制",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "oxide",
+  "phonetic": "/ˈɒksaɪd/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "氧化物",
+  "examples": [
+    {
+      "sentence": "The orange tint on old railings is iron oxide forming over decades.",
+      "style": "Contextual",
+      "translation": "老旧栏杆上的橙色锈迹，是数十年间形成的氧化铁。",
+      "translated_word": "氧化",
+      "display_order": 2
+    },
+    {
+      "sentence": "A new titanium oxide coating promises to reduce urban air pollution significantly.",
+      "style": "Formal",
+      "translation": "一种新型二氧化钛涂层有望显著降低城市空气污染。",
+      "translated_word": "氧化",
+      "display_order": 3
+    },
+    {
+      "sentence": "Zinc oxide remains the gold standard in mineral sunscreens.",
+      "style": "Collocational",
+      "translation": "氧化锌至今仍是物理防晒的黄金成分。",
+      "translated_word": "氧化",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rust is just oxide: time etching its signature onto forgotten metal.",
+      "style": "Poetic",
+      "translation": "锈不过是氧化物：时间在被遗忘的金属上刻下的签名。",
+      "translated_word": "氧化物",
+      "display_order": 4
+    }
+  ]
+}

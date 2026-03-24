@@ -1,0 +1,40 @@
+{
+  "word": "matte",
+  "phonetic": "/mæt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "哑光的；无光泽的；磨砂的",
+  "examples": [
+    {
+      "sentence": "Her matte red lipstick became her quiet signature.",
+      "style": "Collocational",
+      "translation": "那支哑光红唇膏，成了她无声的标志。",
+      "translated_word": "哑光",
+      "display_order": 2
+    },
+    {
+      "sentence": "Glossy surfaces reflect; matte ones absorb.",
+      "style": "Contrastive",
+      "translation": "亮面反射光线，哑光将其吸纳。",
+      "translated_word": "哑光",
+      "display_order": 3
+    },
+    {
+      "sentence": "The photographer preferred matte prints for their subdued elegance.",
+      "style": "Contextual",
+      "translation": "摄影师偏爱哑光相纸，因其沉静内敛。",
+      "translated_word": "哑光",
+      "display_order": 1
+    },
+    {
+      "sentence": "A matte finish speaks in whispers, not glare.",
+      "style": "Poetic",
+      "translation": "哑光的质地以低语代替锋芒。",
+      "translated_word": "哑光",
+      "display_order": 4
+    }
+  ]
+}

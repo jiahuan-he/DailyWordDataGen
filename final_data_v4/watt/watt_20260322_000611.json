@@ -1,0 +1,39 @@
+{
+  "word": "watt",
+  "phonetic": "/wɒt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "瓦特；瓦；功率单位",
+  "examples": [
+    {
+      "sentence": "The old lamp used a 100-watt bulb; the new one needs only 15.",
+      "style": "Contextual",
+      "translation": "旧台灯用的是100瓦的灯泡，新的只需要15瓦。",
+      "translated_word": "瓦",
+      "display_order": 1
+    },
+    {
+      "sentence": "The solar farm generates two million watts at peak capacity.",
+      "style": "Formal",
+      "translation": "该太阳能发电场在峰值时可产出两百万瓦的电力。",
+      "translated_word": "瓦",
+      "display_order": 4
+    },
+    {
+      "sentence": "She unscrewed the dim 40-watt bulb and reached for a brighter one.",
+      "style": "Collocational",
+      "translation": "她拧下那只昏暗的40瓦灯泡，换上一只更亮的。",
+      "translated_word": "瓦",
+      "display_order": 3
+    },
+    {
+      "sentence": "A phone charger draws five watts; a hairdryer, over a thousand.",
+      "style": "Contrastive",
+      "translation": "手机充电器耗电五瓦，而吹风机则超过一千瓦。",
+      "translated_word": "瓦",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "sickbay",
+  "phonetic": "/ˈsɪkˌbeɪ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "医务室；船上病房",
+  "examples": [
+    {
+      "sentence": "The injured sailor was carried to the sickbay below deck.",
+      "style": "Contextual",
+      "translation": "受伤的水手被抬到甲板下的医务室。",
+      "translated_word": "医务室",
+      "display_order": 1
+    },
+    {
+      "sentence": "The vessel's sickbay was equipped to handle minor surgical procedures.",
+      "style": "Formal",
+      "translation": "该船的医务室配备了进行小型手术的设备。",
+      "translated_word": "医务室",
+      "display_order": 3
+    },
+    {
+      "sentence": "Three crew members reported to the sickbay with symptoms of seasickness.",
+      "style": "Collocational",
+      "translation": "三名船员因晕船症状前往医务室就诊。",
+      "translated_word": "医务室",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandfather turned twenty in a warship's sickbay, listening to waves through steel walls.",
+      "style": "Intimate",
+      "translation": "祖父的二十岁生日是在军舰医务室里度过的，隔着钢铁舱壁倾听海浪的声音。",
+      "translated_word": "医务室",
+      "display_order": 4
+    }
+  ]
+}

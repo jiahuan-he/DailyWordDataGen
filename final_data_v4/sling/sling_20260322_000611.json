@@ -1,0 +1,40 @@
+{
+  "word": "sling",
+  "phonetic": "/slɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "悬挂；投掷；吊起",
+  "examples": [
+    {
+      "sentence": "She slung her jacket over one shoulder and walked into the rain.",
+      "style": "Contextual",
+      "translation": "她把外套往肩上一搭，走进了雨中。",
+      "translated_word": "搭",
+      "display_order": 1
+    },
+    {
+      "sentence": "Fishermen sling their nets at dawn, trusting the tide.",
+      "style": "Collocational",
+      "translation": "渔民在黎明时分撒下渔网，将一切交付潮汐。",
+      "translated_word": "撒下",
+      "display_order": 3
+    },
+    {
+      "sentence": "He slung his guitar across his back and left without a word.",
+      "style": "Intimate",
+      "translation": "他把吉他往背上一挎，一言不发地离开了。",
+      "translated_word": "挎",
+      "display_order": 2
+    },
+    {
+      "sentence": "The crane slung the steel beam skyward, slow as a breath held.",
+      "style": "Poetic",
+      "translation": "起重机将钢梁吊向天空，缓慢得像一口屏住的呼吸。",
+      "translated_word": "吊",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "word": "presumable",
+  "phonetic": "/prɪˈzuːməbl/",
+  "pos": [],
+  "selected_pos": "adjective",
+  "definition": "可推定的；可假定的；大概的",
+  "examples": [
+    {
+      "sentence": "The presumable cause of the outage was a server overload.",
+      "style": "Formal",
+      "translation": "此次故障的推定原因是服务器过载。",
+      "translated_word": "推定",
+      "display_order": 1
+    },
+    {
+      "sentence": "Given the empty driveway, his presumable absence made sense.",
+      "style": "Contextual",
+      "translation": "车道空空如也，他大概不在家。",
+      "translated_word": "大概",
+      "display_order": 2
+    },
+    {
+      "sentence": "A presumable truth still requires evidence to become certain.",
+      "style": "Contrastive",
+      "translation": "可推定的事实仍需证据方能成为定论。",
+      "translated_word": "可推定的",
+      "display_order": 4
+    },
+    {
+      "sentence": "The presumable heir has yet to claim the estate.",
+      "style": "Collocational",
+      "translation": "推定继承人尚未认领这笔遗产。",
+      "translated_word": "推定",
+      "display_order": 3
+    }
+  ]
+}

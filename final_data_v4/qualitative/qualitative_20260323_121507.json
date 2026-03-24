@@ -1,0 +1,40 @@
+{
+  "word": "qualitative",
+  "phonetic": "/ˈkwɑːlɪteɪtɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "定性的；性质上的；质的",
+  "examples": [
+    {
+      "sentence": "Her feedback was qualitative: detailed notes on tone, pacing, and emotion.",
+      "style": "Contextual",
+      "translation": "她的反馈是定性的：关于语调、节奏和情感的详细笔记。",
+      "translated_word": "定性的",
+      "display_order": 2
+    },
+    {
+      "sentence": "The report emphasizes qualitative indicators over raw statistics.",
+      "style": "Formal",
+      "translation": "该报告侧重于定性指标，而非单纯的统计数据。",
+      "translated_word": "定性",
+      "display_order": 1
+    },
+    {
+      "sentence": "Numbers reveal how much; qualitative insights reveal why.",
+      "style": "Contrastive",
+      "translation": "数字揭示多少；定性洞察揭示缘由。",
+      "translated_word": "定性",
+      "display_order": 3
+    },
+    {
+      "sentence": "The qualitative leap from competence to mastery defies measurement.",
+      "style": "Philosophical",
+      "translation": "从胜任到精通的质变，无法用尺度衡量。",
+      "translated_word": "质变",
+      "display_order": 4
+    }
+  ]
+}

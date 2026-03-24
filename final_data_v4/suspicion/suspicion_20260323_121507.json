@@ -1,0 +1,40 @@
+{
+  "word": "suspicion",
+  "phonetic": "/səˈspɪʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "怀疑；猜疑；嫌疑",
+  "examples": [
+    {
+      "sentence": "Her silence only deepened his suspicion.",
+      "style": "Contextual",
+      "translation": "她的沉默只让他的怀疑更深了一层。",
+      "translated_word": "怀疑",
+      "display_order": 1
+    },
+    {
+      "sentence": "Trust breaks once; suspicion lingers forever.",
+      "style": "Philosophical",
+      "translation": "信任一旦破碎，猜疑便挥之不去。",
+      "translated_word": "猜疑",
+      "display_order": 4
+    },
+    {
+      "sentence": "Suspicion settled in her chest, heavy and still.",
+      "style": "Poetic",
+      "translation": "猜疑沉入她的胸口，沉重而静默。",
+      "translated_word": "猜疑",
+      "display_order": 3
+    },
+    {
+      "sentence": "That single unanswered call planted a suspicion I couldn't shake for weeks.",
+      "style": "Intimate",
+      "translation": "那通无人接听的电话，在我心里种下了数周都无法释怀的疑虑。",
+      "translated_word": "疑虑",
+      "display_order": 2
+    }
+  ]
+}

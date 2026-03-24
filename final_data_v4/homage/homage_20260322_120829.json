@@ -1,0 +1,40 @@
+{
+  "word": "homage",
+  "phonetic": "/ˈhɑːmɪdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "致敬；敬意；崇敬",
+  "examples": [
+    {
+      "sentence": "The museum's new exhibit pays homage to local artists who shaped the city.",
+      "style": "Contextual",
+      "translation": "博物馆的新展览向塑造这座城市的本地艺术家们致敬。",
+      "translated_word": "致敬",
+      "display_order": 1
+    },
+    {
+      "sentence": "The ceremony served as a solemn homage to the victims of the disaster.",
+      "style": "Formal",
+      "translation": "仪式庄严肃穆，以悼念灾难中的罹难者。",
+      "translated_word": "悼念",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every brushstroke was a quiet homage to the masters before him.",
+      "style": "Poetic",
+      "translation": "每一笔触都是对先辈大师的无声致意。",
+      "translated_word": "致意",
+      "display_order": 3
+    },
+    {
+      "sentence": "I wore her pearls that day: my small homage to everything she taught me.",
+      "style": "Intimate",
+      "translation": "那天我戴上了她的珍珠项链，那是我对她全部教诲的一点心意。",
+      "translated_word": "心意",
+      "display_order": 2
+    }
+  ]
+}

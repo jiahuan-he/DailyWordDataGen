@@ -1,0 +1,39 @@
+{
+  "word": "elaboration",
+  "phonetic": "/ɪˌlæbəˈreɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "详述；阐述；细节补充",
+  "examples": [
+    {
+      "sentence": "The proposal was rejected for lack of elaboration on the budget.",
+      "style": "Contextual",
+      "translation": "提案因预算部分缺乏详细说明而被驳回。",
+      "translated_word": "详细说明",
+      "display_order": 2
+    },
+    {
+      "sentence": "The minister declined to provide further elaboration on the policy changes.",
+      "style": "Formal",
+      "translation": "部长拒绝就政策变动作进一步阐述。",
+      "translated_word": "阐述",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her brief answer left no room for elaboration.",
+      "style": "Collocational",
+      "translation": "她简短的回答没有留下任何展开的余地。",
+      "translated_word": "展开",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some truths lose their power through elaboration.",
+      "style": "Philosophical",
+      "translation": "有些真理一经阐释，便失去了力量。",
+      "translated_word": "阐释",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "serviceable",
+  "phonetic": "/ˈsɜːrvɪsəbl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "实用的；耐用的；尚可的",
+  "examples": [
+    {
+      "sentence": "The old laptop is still serviceable for emails and light browsing.",
+      "style": "Contextual",
+      "translation": "这台旧笔记本用来收发邮件、简单浏览，仍然够用。",
+      "translated_word": "够用",
+      "display_order": 1
+    },
+    {
+      "sentence": "It won't dazzle anyone, but the jacket is serviceable for daily wear.",
+      "style": "Contrastive",
+      "translation": "这件外套不惊艳，但日常穿着足矣。",
+      "translated_word": "足矣",
+      "display_order": 2
+    },
+    {
+      "sentence": "With minor repairs, the bicycle became serviceable once more.",
+      "style": "Collocational",
+      "translation": "稍加修理，自行车便又能骑了。",
+      "translated_word": "能骑",
+      "display_order": 3
+    },
+    {
+      "sentence": "There is dignity in being serviceable: not brilliant, but never failing.",
+      "style": "Philosophical",
+      "translation": "实用自有其尊严：不出众，却从不令人失望。",
+      "translated_word": "实用",
+      "display_order": 4
+    }
+  ]
+}

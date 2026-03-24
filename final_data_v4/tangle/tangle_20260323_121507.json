@@ -1,0 +1,40 @@
+{
+  "word": "tangle",
+  "phonetic": "/ˈtæŋɡl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "缠绕；纠缠；争吵",
+  "examples": [
+    {
+      "sentence": "The kite strings tangled in the wind; we spent the afternoon unknotting them.",
+      "style": "Contextual",
+      "translation": "风筝线在风中缠绕在一起；我们花了一整个下午才解开。",
+      "translated_word": "缠绕",
+      "display_order": 1
+    },
+    {
+      "sentence": "I wouldn't tangle with her; she never loses an argument.",
+      "style": "Collocational",
+      "translation": "我劝你别跟她争辩；她从不认输。",
+      "translated_word": "争辩",
+      "display_order": 4
+    },
+    {
+      "sentence": "Grief and gratitude tangle in the hearts of those who have loved deeply.",
+      "style": "Poetic",
+      "translation": "悲伤与感激交织在每一个深爱过的人心中。",
+      "translated_word": "交织",
+      "display_order": 3
+    },
+    {
+      "sentence": "Our lives tangled together that summer, and neither of us tried to pull away.",
+      "style": "Intimate",
+      "translation": "那个夏天，我们的生活缠绕在一起，谁也没有试图挣脱。",
+      "translated_word": "缠绕",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "bull",
+  "phonetic": "/bʊl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "公牛；多头；废话",
+  "examples": [
+    {
+      "sentence": "The bull grazed alone at the far edge of the field.",
+      "style": "Contextual",
+      "translation": "公牛独自在田野边缘吃草。",
+      "translated_word": "公牛",
+      "display_order": 1
+    },
+    {
+      "sentence": "The bull market has now extended into its third consecutive year.",
+      "style": "Formal",
+      "translation": "牛市已延续至第三个年头。",
+      "translated_word": "牛",
+      "display_order": 3
+    },
+    {
+      "sentence": "She took the bull by the horns and asked for a raise.",
+      "style": "Collocational",
+      "translation": "她当机立断，开口要求加薪。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Dust rose with every breath; the bull stood unmoved, ancient and proud.",
+      "style": "Poetic",
+      "translation": "尘土随呼吸扬起；公牛岿然不动，苍劲而骄傲。",
+      "translated_word": "公牛",
+      "display_order": 2
+    }
+  ]
+}

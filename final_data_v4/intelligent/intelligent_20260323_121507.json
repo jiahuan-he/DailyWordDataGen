@@ -1,0 +1,39 @@
+{
+  "word": "intelligent",
+  "phonetic": "/ɪnˈtelɪdʒənt/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "聪明；智慧；机敏",
+  "examples": [
+    {
+      "sentence": "The dog tilted its head, watching with intelligent eyes.",
+      "style": "Contextual",
+      "translation": "狗歪着头，用灵慧的眼神注视着。",
+      "translated_word": "灵慧",
+      "display_order": 1
+    },
+    {
+      "sentence": "Truly intelligent people know the limits of their knowledge.",
+      "style": "Philosophical",
+      "translation": "真正聪明的人懂得自己知识的边界。",
+      "translated_word": "聪明",
+      "display_order": 3
+    },
+    {
+      "sentence": "An intelligent conversation can shift how you see the world.",
+      "style": "Collocational",
+      "translation": "一场有深度的对话能改变你看世界的方式。",
+      "translated_word": "有深度",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother never finished school, yet she was the most intelligent person in any room.",
+      "style": "Intimate",
+      "translation": "祖母从未念完书，却总是房间里最睿智的人。",
+      "translated_word": "睿智",
+      "display_order": 2
+    }
+  ]
+}

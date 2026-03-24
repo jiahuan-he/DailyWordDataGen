@@ -1,0 +1,41 @@
+{
+  "word": "ultimate",
+  "phonetic": "/ˈʌltɪmət/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "最终的；极致的；根本的",
+  "examples": [
+    {
+      "sentence": "The ultimate test came not in the competition, but in the months of solitary training.",
+      "style": "Contextual",
+      "translation": "最终的考验不在赛场，而在那数月的独自苦练。",
+      "translated_word": "最终的",
+      "display_order": 2
+    },
+    {
+      "sentence": "His ultimate goal was elegantly simple: leave the world a little kinder.",
+      "style": "Collocational",
+      "translation": "他的终极目标优雅而简单：让世界多一点善意。",
+      "translated_word": "终极",
+      "display_order": 1
+    },
+    {
+      "sentence": "The ultimate victory belongs to those who refuse to quit.",
+      "style": "Inspirational",
+      "translation": "极致的胜利，属于那些拒绝放弃的人。",
+      "translated_word": "极致的",
+      "display_order": 3
+    },
+    {
+      "sentence": "Perhaps the ultimate wisdom is knowing what not to pursue.",
+      "style": "Philosophical",
+      "translation": "也许，根本的智慧在于知道什么不必追求。",
+      "translated_word": "根本的",
+      "display_order": 4
+    }
+  ]
+}

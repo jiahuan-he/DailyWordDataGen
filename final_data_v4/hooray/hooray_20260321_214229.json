@@ -1,0 +1,41 @@
+{
+  "word": "hooray",
+  "phonetic": "/hʊˈreɪ/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "interjection",
+  "definition": "万岁；好哇；太棒了",
+  "examples": [
+    {
+      "sentence": "Hooray, the test results came back negative.",
+      "style": "Contextual",
+      "translation": "太好了，检查结果是阴性。",
+      "translated_word": "太好了",
+      "display_order": 1
+    },
+    {
+      "sentence": "Hip hip hooray for the graduate!",
+      "style": "Collocational",
+      "translation": "为毕业生欢呼三声！",
+      "translated_word": "欢呼",
+      "display_order": 4
+    },
+    {
+      "sentence": "Hooray: small wins still deserve celebration.",
+      "style": "Inspirational",
+      "translation": "好哇：再小的胜利也值得庆祝。",
+      "translated_word": "好哇",
+      "display_order": 3
+    },
+    {
+      "sentence": "She whispered hooray when the acceptance letter arrived.",
+      "style": "Intimate",
+      "translation": "录取通知书寄到时，她轻声欢呼了一句。",
+      "translated_word": "欢呼",
+      "display_order": 2
+    }
+  ]
+}

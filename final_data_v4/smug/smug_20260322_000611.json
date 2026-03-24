@@ -1,0 +1,40 @@
+{
+  "word": "smug",
+  "phonetic": "/smʌɡ/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "自鸣得意的；沾沾自喜；自满",
+  "examples": [
+    {
+      "sentence": "He leaned back with a smug smile, already counting his winnings.",
+      "style": "Contextual",
+      "translation": "他往后一靠，脸上挂着得意的笑，心里早已在盘算赢了多少。",
+      "translated_word": "得意",
+      "display_order": 1
+    },
+    {
+      "sentence": "Confidence invites; smugness repels.",
+      "style": "Contrastive",
+      "translation": "自信使人亲近；自满令人疏远。",
+      "translated_word": "自满",
+      "display_order": 4
+    },
+    {
+      "sentence": "The smug never notice the silence that follows their boasting.",
+      "style": "Philosophical",
+      "translation": "沾沾自喜的人，听不见自夸之后的沉默。",
+      "translated_word": "沾沾自喜",
+      "display_order": 3
+    },
+    {
+      "sentence": "His smug tone reminded me why I stopped asking for his advice.",
+      "style": "Intimate",
+      "translation": "他那副自鸣得意的语气，让我想起自己为何不再向他请教。",
+      "translated_word": "自鸣得意",
+      "display_order": 2
+    }
+  ]
+}

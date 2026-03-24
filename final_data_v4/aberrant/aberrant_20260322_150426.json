@@ -1,0 +1,40 @@
+{
+  "word": "aberrant",
+  "phonetic": "/əˈberənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "异常的；反常的；越轨的",
+  "examples": [
+    {
+      "sentence": "The system flagged one aberrant signal among thousands of normal readings.",
+      "style": "Contextual",
+      "translation": "系统在数千条正常读数中标记出一个异常信号。",
+      "translated_word": "异常",
+      "display_order": 1
+    },
+    {
+      "sentence": "Investigators are examining aberrant trading patterns before the crash.",
+      "style": "Formal",
+      "translation": "调查人员正在审查崩盘前的异常交易模式。",
+      "translated_word": "异常",
+      "display_order": 3
+    },
+    {
+      "sentence": "What society labels aberrant often simply lacks a name yet.",
+      "style": "Philosophical",
+      "translation": "社会所谓的反常，往往只是尚未被命名的事物。",
+      "translated_word": "反常",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her methods seemed aberrant at first; now they set the standard.",
+      "style": "Contrastive",
+      "translation": "她的方法起初显得离经叛道，如今却成了标杆。",
+      "translated_word": "离经叛道",
+      "display_order": 2
+    }
+  ]
+}

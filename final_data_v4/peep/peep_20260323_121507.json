@@ -1,0 +1,40 @@
+{
+  "word": "peep",
+  "phonetic": "/piːp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "偷看；窥视；探出",
+  "examples": [
+    {
+      "sentence": "She peeped through the keyhole, holding her breath.",
+      "style": "Contextual",
+      "translation": "她屏住呼吸，从钥匙孔里偷看。",
+      "translated_word": "偷看",
+      "display_order": 2
+    },
+    {
+      "sentence": "Sunlight peeped through the curtains, waking the dust.",
+      "style": "Poetic",
+      "translation": "阳光从帘缝探入，惊醒了沉睡的浮尘。",
+      "translated_word": "探入",
+      "display_order": 3
+    },
+    {
+      "sentence": "As a child, I loved to peep at the gifts hidden in the closet.",
+      "style": "Intimate",
+      "translation": "小时候，我总爱偷看藏在衣柜里的礼物。",
+      "translated_word": "偷看",
+      "display_order": 1
+    },
+    {
+      "sentence": "The first snowdrops peeped out from the frozen ground.",
+      "style": "Collocational",
+      "translation": "第一朵雪花莲从冻土中探出头来。",
+      "translated_word": "探出头来",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "ranger",
+  "phonetic": "/ˈreɪndʒər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "护林员；巡逻员；突击队员",
+  "examples": [
+    {
+      "sentence": "The ranger warned us about bears on the northern trail.",
+      "style": "Contextual",
+      "translation": "护林员提醒我们，北边的小径有熊出没。",
+      "translated_word": "护林员",
+      "display_order": 1
+    },
+    {
+      "sentence": "At dawn, the ranger walks where only deer have been.",
+      "style": "Poetic",
+      "translation": "黎明时分，护林员踏入只有鹿群走过的地方。",
+      "translated_word": "护林员",
+      "display_order": 3
+    },
+    {
+      "sentence": "A ranger protects what cannot speak for itself.",
+      "style": "Inspirational",
+      "translation": "护林员守护的，是那些无法为自己发声的生灵。",
+      "translated_word": "护林员",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather was a ranger; the forest was his church.",
+      "style": "Intimate",
+      "translation": "我的祖父是一名护林员；森林便是他的教堂。",
+      "translated_word": "护林员",
+      "display_order": 2
+    }
+  ]
+}

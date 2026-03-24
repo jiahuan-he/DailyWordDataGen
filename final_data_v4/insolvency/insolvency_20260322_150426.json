@@ -1,0 +1,39 @@
+{
+  "word": "insolvency",
+  "phonetic": "/ɪnˈsɒlvənsi/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "破产；无力偿债；资不抵债",
+  "examples": [
+    {
+      "sentence": "The company filed for insolvency after three consecutive quarters of losses.",
+      "style": "Formal",
+      "translation": "在连续三个季度亏损后，该公司申请了破产。",
+      "translated_word": "破产",
+      "display_order": 1
+    },
+    {
+      "sentence": "Insolvency differs from bankruptcy: one is a state, the other a legal process.",
+      "style": "Contrastive",
+      "translation": "资不抵债与破产不同：前者是一种状态，后者是一项法律程序。",
+      "translated_word": "资不抵债",
+      "display_order": 3
+    },
+    {
+      "sentence": "The insolvency proceedings lasted eighteen months.",
+      "style": "Collocational",
+      "translation": "破产清算程序持续了十八个月。",
+      "translated_word": "破产",
+      "display_order": 2
+    },
+    {
+      "sentence": "Insolvency strips away pretense; only then do you see who stays.",
+      "style": "Philosophical",
+      "translation": "破产剥去一切伪装；唯有此刻，方知谁会留下。",
+      "translated_word": "破产",
+      "display_order": 4
+    }
+  ]
+}

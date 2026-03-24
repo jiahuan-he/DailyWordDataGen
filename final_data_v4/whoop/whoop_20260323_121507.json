@@ -1,0 +1,40 @@
+{
+  "word": "whoop",
+  "phonetic": "/wuːp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "欢呼；高喊；大叫",
+  "examples": [
+    {
+      "sentence": "The crowd whooped as the final goal sailed into the net.",
+      "style": "Contextual",
+      "translation": "决胜球入网的瞬间，人群爆发出阵阵欢呼。",
+      "translated_word": "欢呼",
+      "display_order": 2
+    },
+    {
+      "sentence": "Children whooped with delight when the piñata burst open.",
+      "style": "Collocational",
+      "translation": "彩罐被敲破的刹那，孩子们欢天喜地地叫了起来。",
+      "translated_word": "叫",
+      "display_order": 1
+    },
+    {
+      "sentence": "We whooped all the way home after passing the bar exam.",
+      "style": "Intimate",
+      "translation": "通过律考那天，我们一路欢呼着回了家。",
+      "translated_word": "欢呼",
+      "display_order": 3
+    },
+    {
+      "sentence": "One voice whooped in the dark stadium; then thousands followed.",
+      "style": "Poetic",
+      "translation": "黑暗的球场中，一声欢呼响起，万人随之呼应。",
+      "translated_word": "欢呼",
+      "display_order": 4
+    }
+  ]
+}

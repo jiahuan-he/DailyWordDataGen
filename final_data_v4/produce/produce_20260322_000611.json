@@ -1,0 +1,40 @@
+{
+  "word": "produce",
+  "phonetic": "/prəˈdjuːs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "生产；产生；出示；制作",
+  "examples": [
+    {
+      "sentence": "This region produces some of the finest olive oil in the world.",
+      "style": "Contextual",
+      "translation": "这个地区出产世界上最优质的橄榄油。",
+      "translated_word": "出产",
+      "display_order": 1
+    },
+    {
+      "sentence": "The committee is expected to produce its final report by Friday.",
+      "style": "Formal",
+      "translation": "委员会预计将于周五提交最终报告。",
+      "translated_word": "提交",
+      "display_order": 3
+    },
+    {
+      "sentence": "A single conversation can produce more ideas than hours of solitary thinking.",
+      "style": "Collocational",
+      "translation": "一次对话产生的想法，可能胜过数小时的独自思考。",
+      "translated_word": "产生",
+      "display_order": 2
+    },
+    {
+      "sentence": "Pressure does not break you; it produces diamonds.",
+      "style": "Inspirational",
+      "translation": "压力不会击垮你；它会炼出钻石。",
+      "translated_word": "炼出",
+      "display_order": 4
+    }
+  ]
+}

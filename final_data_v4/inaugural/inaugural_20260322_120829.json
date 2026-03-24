@@ -1,0 +1,40 @@
+{
+  "word": "inaugural",
+  "phonetic": "/ɪˈnɔːɡjərəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "就职的；首次的；开创的",
+  "examples": [
+    {
+      "sentence": "The president's inaugural address called for unity above division.",
+      "style": "Formal",
+      "translation": "总统的就职演讲呼吁团结，摒弃分裂。",
+      "translated_word": "就职",
+      "display_order": 1
+    },
+    {
+      "sentence": "The airline's inaugural flight to Paris sold out in minutes.",
+      "style": "Collocational",
+      "translation": "这家航空公司飞往巴黎的首航航班在几分钟内便已售罄。",
+      "translated_word": "首航",
+      "display_order": 2
+    },
+    {
+      "sentence": "She delivered the inaugural lecture of the series on climate science.",
+      "style": "Contextual",
+      "translation": "她发表了这一气候科学系列讲座的开篇演讲。",
+      "translated_word": "开篇",
+      "display_order": 3
+    },
+    {
+      "sentence": "The inaugural spark matters less than the fire you choose to keep.",
+      "style": "Inspirational",
+      "translation": "开创的火花并不重要，重要的是你选择守护的火焰。",
+      "translated_word": "开创",
+      "display_order": 4
+    }
+  ]
+}

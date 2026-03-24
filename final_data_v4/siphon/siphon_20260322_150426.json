@@ -1,0 +1,40 @@
+{
+  "word": "siphon",
+  "phonetic": "/ˈsaɪfən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "虹吸；抽取；转移；挪用",
+  "examples": [
+    {
+      "sentence": "He used a rubber hose to siphon gas from the tank.",
+      "style": "Contextual",
+      "translation": "他用橡皮管从油箱里抽取汽油。",
+      "translated_word": "抽取",
+      "display_order": 1
+    },
+    {
+      "sentence": "The audit revealed funds had been siphoned into offshore accounts.",
+      "style": "Formal",
+      "translation": "审计显示资金已被转移至离岸账户。",
+      "translated_word": "转移",
+      "display_order": 2
+    },
+    {
+      "sentence": "Bureaucracy siphons off energy that could fuel real progress.",
+      "style": "Collocational",
+      "translation": "官僚主义消耗了本可推动真正进步的精力。",
+      "translated_word": "消耗",
+      "display_order": 3
+    },
+    {
+      "sentence": "Resentment siphons more from the bearer than the blamed.",
+      "style": "Philosophical",
+      "translation": "怨恨从怀恨者身上榨取的，远多于被怨者。",
+      "translated_word": "榨取",
+      "display_order": 4
+    }
+  ]
+}

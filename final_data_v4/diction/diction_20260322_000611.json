@@ -1,0 +1,39 @@
+{
+  "word": "diction",
+  "phonetic": "/ˈdɪkʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "措辞；用词；吐字",
+  "examples": [
+    {
+      "sentence": "The playwright's diction shifts between characters: raw slang for the son, polished phrases for the father.",
+      "style": "Contextual",
+      "translation": "剧作家的用词随角色转换：儿子用粗粝的俚语，父亲用考究的措辞。",
+      "translated_word": "用词",
+      "display_order": 2
+    },
+    {
+      "sentence": "Critics praised the senator's precise diction throughout the three-hour testimony.",
+      "style": "Formal",
+      "translation": "评论家称赞了这位参议员在三小时听证会中精准的措辞。",
+      "translated_word": "措辞",
+      "display_order": 1
+    },
+    {
+      "sentence": "Years of stage training gave her impeccable diction.",
+      "style": "Collocational",
+      "translation": "多年的舞台训练赋予她无可挑剔的吐字功底。",
+      "translated_word": "吐字",
+      "display_order": 3
+    },
+    {
+      "sentence": "Diction is a mirror; it reflects the books we've read and the silences we've kept.",
+      "style": "Philosophical",
+      "translation": "措辞是一面镜子，映照出我们读过的书和守住的沉默。",
+      "translated_word": "措辞",
+      "display_order": 4
+    }
+  ]
+}

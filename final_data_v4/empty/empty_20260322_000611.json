@@ -1,0 +1,41 @@
+{
+  "word": "empty",
+  "phonetic": "/ˈempti/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "空的；空虚的；空洞的",
+  "examples": [
+    {
+      "sentence": "She opened the mailbox to find it empty again.",
+      "style": "Contextual",
+      "translation": "她打开信箱，又是空的。",
+      "translated_word": "空的",
+      "display_order": 1
+    },
+    {
+      "sentence": "The empty pier stretched into morning fog, waiting.",
+      "style": "Poetic",
+      "translation": "空寂的栈桥伸入晨雾，静静等候。",
+      "translated_word": "空寂",
+      "display_order": 3
+    },
+    {
+      "sentence": "Only an empty mind can truly listen.",
+      "style": "Philosophical",
+      "translation": "唯有空明之心，方能真正倾听。",
+      "translated_word": "空明",
+      "display_order": 4
+    },
+    {
+      "sentence": "The kitchen feels empty without her humming.",
+      "style": "Intimate",
+      "translation": "没有她的哼唱，厨房空落落的。",
+      "translated_word": "空落落",
+      "display_order": 2
+    }
+  ]
+}

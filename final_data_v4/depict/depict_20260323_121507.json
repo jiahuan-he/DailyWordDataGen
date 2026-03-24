@@ -1,0 +1,40 @@
+{
+  "word": "depict",
+  "phonetic": "/dɪˈpɪkt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "描绘；刻画；描述",
+  "examples": [
+    {
+      "sentence": "The mural depicts the town's founding: farmers clearing the first fields.",
+      "style": "Contextual",
+      "translation": "这幅壁画描绘了小镇的创建：农民们正在开垦第一片田地。",
+      "translated_word": "描绘",
+      "display_order": 1
+    },
+    {
+      "sentence": "The documentary depicts the daily struggles of migrant workers with unflinching honesty.",
+      "style": "Formal",
+      "translation": "这部纪录片以毫不回避的真实，刻画了农民工的日常艰辛。",
+      "translated_word": "刻画",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her brushstrokes depict not the garden itself, but the ache of leaving it behind.",
+      "style": "Poetic",
+      "translation": "她的笔触描绘的不是花园本身，而是离开它的怅惘。",
+      "translated_word": "描绘",
+      "display_order": 3
+    },
+    {
+      "sentence": "We depict what we cannot hold: time, memory, the faces of those now gone.",
+      "style": "Philosophical",
+      "translation": "我们描绘那些无法握住的事物：时间、记忆，以及逝者的面容。",
+      "translated_word": "描绘",
+      "display_order": 4
+    }
+  ]
+}

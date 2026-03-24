@@ -1,0 +1,40 @@
+{
+  "word": "raisin",
+  "phonetic": "/ˈreɪzən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "葡萄干",
+  "examples": [
+    {
+      "sentence": "She stirred raisins into the warm oatmeal.",
+      "style": "Contextual",
+      "translation": "她把葡萄干拌进热腾腾的燕麦粥里。",
+      "translated_word": "葡萄干",
+      "display_order": 1
+    },
+    {
+      "sentence": "Oatmeal raisin cookies cooled on the counter.",
+      "style": "Collocational",
+      "translation": "燕麦葡萄干饼干在台面上晾凉。",
+      "translated_word": "葡萄干",
+      "display_order": 3
+    },
+    {
+      "sentence": "Grandma's kitchen always smelled of cinnamon and raisins.",
+      "style": "Intimate",
+      "translation": "奶奶的厨房总是弥漫着肉桂和葡萄干的香气。",
+      "translated_word": "葡萄干",
+      "display_order": 2
+    },
+    {
+      "sentence": "A raisin is summer condensed: sweetness stored in wrinkled gold.",
+      "style": "Poetic",
+      "translation": "葡萄干是浓缩的夏日：皱褶金黄中藏着甜蜜。",
+      "translated_word": "葡萄干",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "grease",
+  "phonetic": "/ɡriːs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "油脂；润滑油；油污",
+  "examples": [
+    {
+      "sentence": "The mechanic wiped the grease from his hands before shaking mine.",
+      "style": "Contextual",
+      "translation": "技师擦净手上的油污，才与我握手。",
+      "translated_word": "油污",
+      "display_order": 1
+    },
+    {
+      "sentence": "A little elbow grease and the old bike ran like new.",
+      "style": "Collocational",
+      "translation": "费些力气，那辆旧自行车便焕然一新。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Excess grease in processed foods has become a growing public health concern.",
+      "style": "Formal",
+      "translation": "加工食品中过量的油脂已成为日益严峻的公共健康问题。",
+      "translated_word": "油脂",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her kitchen always carried the warm smell of grease and garlic.",
+      "style": "Intimate",
+      "translation": "她的厨房里总弥漫着油香与蒜香交织的温暖气息。",
+      "translated_word": "油",
+      "display_order": 2
+    }
+  ]
+}

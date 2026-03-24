@@ -1,0 +1,40 @@
+{
+  "word": "doodle",
+  "phonetic": "/ˈduːdl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "涂鸦；随手画；信笔涂写",
+  "examples": [
+    {
+      "sentence": "She doodled flowers in the margins while the lecture droned on.",
+      "style": "Contextual",
+      "translation": "讲座冗长乏味，她在页边随手画起了花朵。",
+      "translated_word": "随手画",
+      "display_order": 1
+    },
+    {
+      "sentence": "He likes to doodle on napkins whenever inspiration strikes.",
+      "style": "Collocational",
+      "translation": "灵感乍现时，他总爱在餐巾纸上涂涂画画。",
+      "translated_word": "涂涂画画",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather doodled little birds on my homework; I never erased them.",
+      "style": "Intimate",
+      "translation": "祖父曾在我的作业本上画过小鸟；我从未舍得擦去。",
+      "translated_word": "画过",
+      "display_order": 2
+    },
+    {
+      "sentence": "To doodle is to let your hand finish the thoughts your mind cannot.",
+      "style": "Philosophical",
+      "translation": "涂鸦，是让双手替心灵说完未尽之语。",
+      "translated_word": "涂鸦",
+      "display_order": 4
+    }
+  ]
+}

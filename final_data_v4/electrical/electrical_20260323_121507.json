@@ -1,0 +1,40 @@
+{
+  "word": "electrical",
+  "phonetic": "/ɪˈlektrɪkl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "电的；电气的；与电学有关的",
+  "examples": [
+    {
+      "sentence": "The electrical panel sparked twice before going silent.",
+      "style": "Contextual",
+      "translation": "配电箱闪了两次火花，随后归于沉寂。",
+      "translated_word": "电",
+      "display_order": 2
+    },
+    {
+      "sentence": "New safety codes require annual electrical inspections for all commercial buildings.",
+      "style": "Formal",
+      "translation": "新安全法规要求所有商业建筑每年进行电气检查。",
+      "translated_word": "电气",
+      "display_order": 4
+    },
+    {
+      "sentence": "She studied electrical engineering, captivated by the elegance of circuits.",
+      "style": "Collocational",
+      "translation": "她攻读电气工程，为电路的精妙深深着迷。",
+      "translated_word": "电气",
+      "display_order": 1
+    },
+    {
+      "sentence": "The mechanical gears survived; the electrical systems did not.",
+      "style": "Contrastive",
+      "translation": "机械齿轮安然无恙；电气系统却未能幸免。",
+      "translated_word": "电气",
+      "display_order": 3
+    }
+  ]
+}

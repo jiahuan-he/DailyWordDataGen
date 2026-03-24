@@ -1,0 +1,40 @@
+{
+  "word": "critic",
+  "phonetic": "/ˈkrɪtɪk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "批评家；评论家；批评者",
+  "examples": [
+    {
+      "sentence": "The film critic gave it four stars, praising the bold cinematography.",
+      "style": "Contextual",
+      "translation": "那位影评人给了四星好评，盛赞其大胆的摄影风格。",
+      "translated_word": "影评人",
+      "display_order": 1
+    },
+    {
+      "sentence": "Leading critics have called this exhibition the most significant of the decade.",
+      "style": "Formal",
+      "translation": "权威评论家称此次展览为十年来最具影响力的一次。",
+      "translated_word": "评论家",
+      "display_order": 2
+    },
+    {
+      "sentence": "Your harshest critic often lives in the mirror.",
+      "style": "Philosophical",
+      "translation": "最苛刻的批评者，往往就住在镜中。",
+      "translated_word": "批评者",
+      "display_order": 4
+    },
+    {
+      "sentence": "A true critic offers insight, not just opinion.",
+      "style": "Contrastive",
+      "translation": "真正的批评家给出的是洞见，而非仅仅是意见。",
+      "translated_word": "批评家",
+      "display_order": 3
+    }
+  ]
+}

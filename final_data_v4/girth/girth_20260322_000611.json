@@ -1,0 +1,40 @@
+{
+  "word": "girth",
+  "phonetic": "/ɡɜːθ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "周长；腰围；围度",
+  "examples": [
+    {
+      "sentence": "The ancient oak's girth required four people to encircle it.",
+      "style": "Contextual",
+      "translation": "那棵古橡树的周长需要四个人才能合抱。",
+      "translated_word": "周长",
+      "display_order": 2
+    },
+    {
+      "sentence": "Researchers measured the girth of each redwood to estimate its age.",
+      "style": "Formal",
+      "translation": "研究人员测量每棵红杉的围度以估算其树龄。",
+      "translated_word": "围度",
+      "display_order": 1
+    },
+    {
+      "sentence": "He adjusted his belt, quietly aware of the new girth at his waist.",
+      "style": "Collocational",
+      "translation": "他调整着腰带，默默察觉到腰间新添的围度。",
+      "translated_word": "围度",
+      "display_order": 3
+    },
+    {
+      "sentence": "Snow clung to the pine's girth like a pale embrace.",
+      "style": "Poetic",
+      "translation": "白雪依附在松树的躯干上，如同苍白的拥抱。",
+      "translated_word": "躯干",
+      "display_order": 4
+    }
+  ]
+}

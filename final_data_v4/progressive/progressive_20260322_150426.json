@@ -1,0 +1,40 @@
+{
+  "word": "progressive",
+  "phonetic": "/prəˈɡresɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "进步的；渐进的；先进的",
+  "examples": [
+    {
+      "sentence": "The clinic uses progressive treatments that other hospitals haven't adopted yet.",
+      "style": "Contextual",
+      "translation": "这家诊所采用了其他医院尚未引进的先进疗法。",
+      "translated_word": "先进",
+      "display_order": 2
+    },
+    {
+      "sentence": "The report praised the company's progressive stance on parental leave.",
+      "style": "Formal",
+      "translation": "报告赞扬了该公司在育儿假方面的进步立场。",
+      "translated_word": "进步",
+      "display_order": 1
+    },
+    {
+      "sentence": "Where tradition resists, a progressive mind adapts.",
+      "style": "Contrastive",
+      "translation": "传统抗拒之处，进步的头脑选择适应。",
+      "translated_word": "进步的",
+      "display_order": 3
+    },
+    {
+      "sentence": "Most meaningful change is progressive: imperceptible until undeniable.",
+      "style": "Philosophical",
+      "translation": "大多数有意义的改变都是渐进的：察觉不到，直到无可否认。",
+      "translated_word": "渐进的",
+      "display_order": 4
+    }
+  ]
+}

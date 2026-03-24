@@ -1,0 +1,40 @@
+{
+  "word": "butter",
+  "phonetic": "/ˈbʌtər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "黄油；奶油",
+  "examples": [
+    {
+      "sentence": "The toast was still warm; the butter melted on contact.",
+      "style": "Contextual",
+      "translation": "烤面包还热着，黄油一触即融。",
+      "translated_word": "黄油",
+      "display_order": 1
+    },
+    {
+      "sentence": "Bread and butter: the simplest comfort, endlessly satisfying.",
+      "style": "Collocational",
+      "translation": "面包与黄油：最简单的慰藉，百吃不厌。",
+      "translated_word": "黄油",
+      "display_order": 3
+    },
+    {
+      "sentence": "Grandma's kitchen always smelled of butter and brown sugar.",
+      "style": "Intimate",
+      "translation": "外婆的厨房，总弥漫着黄油与红糖的香气。",
+      "translated_word": "黄油",
+      "display_order": 2
+    },
+    {
+      "sentence": "The butter softened slowly, its edges glowing gold in the warm pan.",
+      "style": "Poetic",
+      "translation": "黄油缓缓融化，边缘在温热的锅中泛起金光。",
+      "translated_word": "黄油",
+      "display_order": 4
+    }
+  ]
+}

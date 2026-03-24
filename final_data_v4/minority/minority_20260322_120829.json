@@ -1,0 +1,40 @@
+{
+  "word": "minority",
+  "phonetic": "/maɪˈnɒrɪti/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "少数；少数派；少数民族",
+  "examples": [
+    {
+      "sentence": "Only a minority of attendees voted against the plan.",
+      "style": "Contextual",
+      "translation": "只有少数与会者投了反对票。",
+      "translated_word": "少数",
+      "display_order": 1
+    },
+    {
+      "sentence": "The report examines barriers faced by minorities in higher education.",
+      "style": "Formal",
+      "translation": "该报告探讨了少数族裔在高等教育中面临的障碍。",
+      "translated_word": "少数族裔",
+      "display_order": 2
+    },
+    {
+      "sentence": "The minority who question loudly often shape what the majority quietly accepts.",
+      "style": "Philosophical",
+      "translation": "高声质疑的少数人，往往塑造了多数人默然接受的一切。",
+      "translated_word": "少数人",
+      "display_order": 3
+    },
+    {
+      "sentence": "Being in the minority doesn't mean being wrong; it means seeing first.",
+      "style": "Inspirational",
+      "translation": "身处少数不意味着错误；而是先于众人看见。",
+      "translated_word": "少数",
+      "display_order": 4
+    }
+  ]
+}

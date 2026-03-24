@@ -1,0 +1,40 @@
+{
+  "word": "chord",
+  "phonetic": "/kɔːrd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "和弦；共鸣；弦",
+  "examples": [
+    {
+      "sentence": "She played a minor chord, and the conversation stopped.",
+      "style": "Contextual",
+      "translation": "她弹下一个小调和弦，谈话戛然而止。",
+      "translated_word": "和弦",
+      "display_order": 1
+    },
+    {
+      "sentence": "The final chord hung in the air, unwilling to fade.",
+      "style": "Poetic",
+      "translation": "最后一个和弦悬在空中，久久不愿散去。",
+      "translated_word": "和弦",
+      "display_order": 3
+    },
+    {
+      "sentence": "That opening chord pulls me back to the summer we spent by the lake.",
+      "style": "Intimate",
+      "translation": "那个开场和弦，总把我拉回我们在湖边度过的那个夏天。",
+      "translated_word": "和弦",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her story struck a chord with millions.",
+      "style": "Collocational",
+      "translation": "她的故事在千万人心中引起了共鸣。",
+      "translated_word": "共鸣",
+      "display_order": 4
+    }
+  ]
+}

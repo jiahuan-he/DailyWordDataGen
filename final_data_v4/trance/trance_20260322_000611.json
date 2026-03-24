@@ -1,0 +1,40 @@
+{
+  "word": "trance",
+  "phonetic": "/træns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "恍惚；出神；入迷",
+  "examples": [
+    {
+      "sentence": "She stood in a trance, oblivious to the crowd rushing past.",
+      "style": "Contextual",
+      "translation": "她怔怔地站着，对身旁匆匆的人群浑然不觉。",
+      "translated_word": "怔怔",
+      "display_order": 1
+    },
+    {
+      "sentence": "Music pulled him into a trance deep as still water.",
+      "style": "Poetic",
+      "translation": "音乐将他拽入出神的深处，如静水般幽邃。",
+      "translated_word": "出神",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every trance is a quiet defection from the present.",
+      "style": "Philosophical",
+      "translation": "每一次恍惚，都是对当下的悄然出逃。",
+      "translated_word": "恍惚",
+      "display_order": 4
+    },
+    {
+      "sentence": "The old photograph held me in a trance until the kettle screamed.",
+      "style": "Intimate",
+      "translation": "那张旧照片让我久久出神，直到水壶尖叫起来。",
+      "translated_word": "出神",
+      "display_order": 2
+    }
+  ]
+}

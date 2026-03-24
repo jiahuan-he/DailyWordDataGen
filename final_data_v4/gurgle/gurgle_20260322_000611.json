@@ -1,0 +1,40 @@
+{
+  "word": "gurgle",
+  "phonetic": "/ˈɡɜːrɡl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "汩汩流淌；咯咯笑；潺潺作响",
+  "examples": [
+    {
+      "sentence": "The stream gurgled over smooth stones, cool and unhurried.",
+      "style": "Contextual",
+      "translation": "溪水潺潺流过光滑的石子，清凉而从容。",
+      "translated_word": "潺潺",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rain gurgled through the drainpipe, singing the roof to sleep.",
+      "style": "Poetic",
+      "translation": "雨水在排水管中汩汩低吟，将屋顶哄入梦乡。",
+      "translated_word": "汩汩",
+      "display_order": 4
+    },
+    {
+      "sentence": "She gurgled with laughter the moment I lifted her from the crib.",
+      "style": "Intimate",
+      "translation": "我把她从婴儿床抱起的瞬间，她便咯咯笑出了声。",
+      "translated_word": "咯咯",
+      "display_order": 2
+    },
+    {
+      "sentence": "Coffee gurgled in the pot; the kitchen filled with warmth.",
+      "style": "Collocational",
+      "translation": "咖啡在壶中咕嘟作响，厨房弥漫着温暖。",
+      "translated_word": "咕嘟",
+      "display_order": 3
+    }
+  ]
+}

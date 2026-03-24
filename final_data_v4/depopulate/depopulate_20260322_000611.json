@@ -1,0 +1,40 @@
+{
+  "word": "depopulate",
+  "phonetic": "/diːˈpɒpjʊleɪt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使人口减少；使荒芜；使人烟稀少",
+  "examples": [
+    {
+      "sentence": "The plague depopulated entire provinces within a single decade.",
+      "style": "Formal",
+      "translation": "瘟疫在短短十年内使整片省份人烟断绝。",
+      "translated_word": "人烟断绝",
+      "display_order": 1
+    },
+    {
+      "sentence": "War and drought depopulated the valley; only stone walls remained.",
+      "style": "Contextual",
+      "translation": "战争与旱灾使山谷人去楼空，唯余断壁残垣。",
+      "translated_word": "人去楼空",
+      "display_order": 2
+    },
+    {
+      "sentence": "Factories once filled these streets with workers; automation has quietly depopulated them.",
+      "style": "Contrastive",
+      "translation": "工厂曾让这些街道工人如织；自动化却悄然将它们搬空。",
+      "translated_word": "搬空",
+      "display_order": 3
+    },
+    {
+      "sentence": "To depopulate a land is to erase its memory, one family at a time.",
+      "style": "Philosophical",
+      "translation": "使一片土地荒芜，便是一户一户地抹去它的记忆。",
+      "translated_word": "荒芜",
+      "display_order": 4
+    }
+  ]
+}

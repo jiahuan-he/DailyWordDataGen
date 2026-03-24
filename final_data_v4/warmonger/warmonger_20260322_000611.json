@@ -1,0 +1,40 @@
+{
+  "word": "warmonger",
+  "phonetic": "/ˈwɔːrˌmʌŋɡər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "战争贩子；好战者；主战派",
+  "examples": [
+    {
+      "sentence": "The general dismissed diplomats and surrounded himself with warmongers.",
+      "style": "Contextual",
+      "translation": "将军遣散了外交官，身边只留下战争贩子。",
+      "translated_word": "战争贩子",
+      "display_order": 2
+    },
+    {
+      "sentence": "Critics labeled the defense secretary a warmonger after his speech on preemptive strikes.",
+      "style": "Formal",
+      "translation": "国防部长发表先发制人演讲后，批评者斥其为好战分子。",
+      "translated_word": "好战分子",
+      "display_order": 1
+    },
+    {
+      "sentence": "History honors its peacemakers; it merely records its warmongers.",
+      "style": "Contrastive",
+      "translation": "历史铭记缔造和平者，却只记录那些好战之人。",
+      "translated_word": "好战之人",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every warmonger cloaks ambition in the language of necessity.",
+      "style": "Philosophical",
+      "translation": "每个战争贩子都用必要之辞粉饰野心。",
+      "translated_word": "战争贩子",
+      "display_order": 4
+    }
+  ]
+}

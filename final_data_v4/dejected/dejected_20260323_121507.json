@@ -1,0 +1,40 @@
+{
+  "word": "dejected",
+  "phonetic": "/dɪˈdʒektɪd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "沮丧的；颓丧的；灰心的",
+  "examples": [
+    {
+      "sentence": "She returned the ring and walked away, dejected.",
+      "style": "Contextual",
+      "translation": "她归还了戒指，沮丧地转身离去。",
+      "translated_word": "沮丧",
+      "display_order": 1
+    },
+    {
+      "sentence": "The dejected flowers bowed toward the earth after the frost.",
+      "style": "Poetic",
+      "translation": "霜降之后，花儿颓然垂首，俯向大地。",
+      "translated_word": "颓然",
+      "display_order": 4
+    },
+    {
+      "sentence": "He arrived hopeful; he left dejected.",
+      "style": "Contrastive",
+      "translation": "他满怀希望而来，却黯然神伤而归。",
+      "translated_word": "黯然神伤",
+      "display_order": 2
+    },
+    {
+      "sentence": "That whole summer, I wandered the city dejected, unsure what I was searching for.",
+      "style": "Intimate",
+      "translation": "那整个夏天，我神情落寞地游荡在城市里，不知自己在寻找什么。",
+      "translated_word": "落寞",
+      "display_order": 3
+    }
+  ]
+}

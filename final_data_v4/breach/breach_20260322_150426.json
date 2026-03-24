@@ -1,0 +1,40 @@
+{
+  "word": "breach",
+  "phonetic": "/briːtʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "违反；缺口；破裂",
+  "examples": [
+    {
+      "sentence": "The data breach prompted an immediate federal investigation.",
+      "style": "Formal",
+      "translation": "这起数据泄露事件引发了联邦政府的即刻调查。",
+      "translated_word": "泄露",
+      "display_order": 1
+    },
+    {
+      "sentence": "A breach of protocol nearly derailed the entire negotiation.",
+      "style": "Collocational",
+      "translation": "一次违反程序的行为险些令整场谈判功亏一篑。",
+      "translated_word": "违反",
+      "display_order": 2
+    },
+    {
+      "sentence": "Trust, once it finds a breach, remembers the shape of every crack.",
+      "style": "Philosophical",
+      "translation": "信任一旦出现裂痕，便会记住每一道缝隙的形状。",
+      "translated_word": "裂痕",
+      "display_order": 3
+    },
+    {
+      "sentence": "That small breach in our silence became a door neither of us could close.",
+      "style": "Intimate",
+      "translation": "沉默中那道小小的缺口，成了我们都无法关上的门。",
+      "translated_word": "缺口",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "stereo",
+  "phonetic": "/ˈsterioʊ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "立体声音响；音响设备",
+  "examples": [
+    {
+      "sentence": "The old stereo in the corner still plays vinyl better than any modern speaker.",
+      "style": "Contextual",
+      "translation": "角落里那台老音响播放黑胶唱片的效果，至今胜过任何现代音箱。",
+      "translated_word": "音响",
+      "display_order": 2
+    },
+    {
+      "sentence": "She turned on the stereo and let the room fill with soft piano.",
+      "style": "Collocational",
+      "translation": "她打开音响，让轻柔的钢琴声盈满整个房间。",
+      "translated_word": "音响",
+      "display_order": 1
+    },
+    {
+      "sentence": "That scratched stereo followed me through three apartments and two heartbreaks.",
+      "style": "Intimate",
+      "translation": "那台有划痕的音响陪我搬过三次家，熬过两段心碎。",
+      "translated_word": "音响",
+      "display_order": 3
+    },
+    {
+      "sentence": "The stereo hummed to life, and the empty kitchen found its pulse.",
+      "style": "Poetic",
+      "translation": "音响低吟苏醒，空寂的厨房有了心跳。",
+      "translated_word": "音响",
+      "display_order": 4
+    }
+  ]
+}

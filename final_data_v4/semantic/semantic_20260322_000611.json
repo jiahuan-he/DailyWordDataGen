@@ -1,0 +1,40 @@
+{
+  "word": "semantic",
+  "phonetic": "/sɪˈmæntɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "语义的；意义的；语义学的",
+  "examples": [
+    {
+      "sentence": "The word 'bank' requires semantic context: river or finance?",
+      "style": "Contextual",
+      "translation": "\"bank\"一词需要语义语境：河岸，还是银行？",
+      "translated_word": "语义",
+      "display_order": 1
+    },
+    {
+      "sentence": "Semantic analysis of the contract revealed critical ambiguities.",
+      "style": "Formal",
+      "translation": "对合同的语义分析揭示了关键的歧义之处。",
+      "translated_word": "语义",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every argument is, at its core, a semantic negotiation.",
+      "style": "Philosophical",
+      "translation": "每场争论，归根结底，都是一场语义的博弈。",
+      "translated_word": "语义",
+      "display_order": 4
+    },
+    {
+      "sentence": "She caught the semantic shift in his apology: regret, not remorse.",
+      "style": "Contrastive",
+      "translation": "她捕捉到他道歉中的语义转变：遗憾，而非悔恨。",
+      "translated_word": "语义",
+      "display_order": 3
+    }
+  ]
+}

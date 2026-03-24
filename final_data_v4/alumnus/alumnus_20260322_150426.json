@@ -1,0 +1,39 @@
+{
+  "word": "alumnus",
+  "phonetic": "/əˈlʌmnəs/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "校友；毕业生",
+  "examples": [
+    {
+      "sentence": "The university awarded its most generous alumnus an honorary doctorate.",
+      "style": "Formal",
+      "translation": "大学授予其最慷慨的校友荣誉博士学位。",
+      "translated_word": "校友",
+      "display_order": 2
+    },
+    {
+      "sentence": "He returned to campus as an alumnus, not a student, for the first time.",
+      "style": "Contextual",
+      "translation": "他第一次以校友而非学生的身份重返校园。",
+      "translated_word": "校友",
+      "display_order": 1
+    },
+    {
+      "sentence": "A fellow alumnus introduced him to his future business partner.",
+      "style": "Collocational",
+      "translation": "一位校友将他引荐给了未来的商业伙伴。",
+      "translated_word": "校友",
+      "display_order": 3
+    },
+    {
+      "sentence": "Walking through those gates again, I felt less a visitor than an alumnus coming home.",
+      "style": "Intimate",
+      "translation": "再次穿过那扇门，我不像访客，更像是归家的校友。",
+      "translated_word": "校友",
+      "display_order": 4
+    }
+  ]
+}

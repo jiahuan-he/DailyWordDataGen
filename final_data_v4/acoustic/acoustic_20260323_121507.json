@@ -1,0 +1,40 @@
+{
+  "word": "acoustic",
+  "phonetic": "/əˈkuːstɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "原声的；声学的；不插电的",
+  "examples": [
+    {
+      "sentence": "The acoustic panels absorbed every echo in the recording studio.",
+      "style": "Contextual",
+      "translation": "声学面板吸收了录音室里的每一丝回响。",
+      "translated_word": "声学",
+      "display_order": 1
+    },
+    {
+      "sentence": "She traded her electric for an acoustic guitar, craving something raw.",
+      "style": "Collocational",
+      "translation": "她把电吉他换成了木吉他，渴望更原始的声音。",
+      "translated_word": "木",
+      "display_order": 3
+    },
+    {
+      "sentence": "That café's acoustic nights taught me what it means to truly listen.",
+      "style": "Intimate",
+      "translation": "那家咖啡馆的原声之夜，教会了我何为真正的聆听。",
+      "translated_word": "原声",
+      "display_order": 2
+    },
+    {
+      "sentence": "In the acoustic hush before dawn, even a whisper carries weight.",
+      "style": "Poetic",
+      "translation": "在黎明前的寂静中，连低语都掷地有声。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "malfunction",
+  "phonetic": "/mælˈfʌŋkʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "故障；失灵；功能障碍",
+  "examples": [
+    {
+      "sentence": "The elevator stopped between floors: a malfunction.",
+      "style": "Contextual",
+      "translation": "电梯停在了两层之间：故障了。",
+      "translated_word": "故障",
+      "display_order": 1
+    },
+    {
+      "sentence": "Investigators attributed the blackout to a malfunction in the central grid.",
+      "style": "Formal",
+      "translation": "调查人员将此次停电归因于中央电网的故障。",
+      "translated_word": "故障",
+      "display_order": 4
+    },
+    {
+      "sentence": "A software malfunction grounded the entire fleet for six hours.",
+      "style": "Collocational",
+      "translation": "一次软件故障导致整个机队停飞了六个小时。",
+      "translated_word": "故障",
+      "display_order": 3
+    },
+    {
+      "sentence": "The projector malfunction at our wedding became the story we tell most.",
+      "style": "Intimate",
+      "translation": "婚礼上投影仪的那次故障，成了我们讲得最多的故事。",
+      "translated_word": "故障",
+      "display_order": 2
+    }
+  ]
+}

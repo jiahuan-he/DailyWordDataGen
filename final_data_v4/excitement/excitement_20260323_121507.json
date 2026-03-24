@@ -1,0 +1,39 @@
+{
+  "word": "excitement",
+  "phonetic": "/ɪkˈsaɪtmənt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "兴奋；激动；刺激",
+  "examples": [
+    {
+      "sentence": "The room buzzed with excitement when the results were announced.",
+      "style": "Contextual",
+      "translation": "结果公布的那一刻，整个房间沸腾了。",
+      "translated_word": "沸腾",
+      "display_order": 2
+    },
+    {
+      "sentence": "A ripple of excitement passed through the crowd.",
+      "style": "Collocational",
+      "translation": "一阵激动的涟漪在人群中蔓延开来。",
+      "translated_word": "激动",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her voice carried the quiet excitement of a secret kept too long.",
+      "style": "Poetic",
+      "translation": "她的声音里藏着一种隐秘的激动，像久藏的秘密终于有了出口。",
+      "translated_word": "激动",
+      "display_order": 4
+    },
+    {
+      "sentence": "That first morning in the new city, excitement replaced my fear.",
+      "style": "Intimate",
+      "translation": "在新城市的第一个清晨，兴奋取代了我的恐惧。",
+      "translated_word": "兴奋",
+      "display_order": 1
+    }
+  ]
+}

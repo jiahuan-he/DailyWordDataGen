@@ -1,0 +1,39 @@
+{
+  "word": "commodity",
+  "phonetic": "/kəˈmɑːdəti/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "商品；大宗货物；日用品",
+  "examples": [
+    {
+      "sentence": "Coffee became a global commodity centuries before the internet connected us.",
+      "style": "Contextual",
+      "translation": "早在互联网将我们连接之前，咖啡就已是全球流通的商品。",
+      "translated_word": "商品",
+      "display_order": 1
+    },
+    {
+      "sentence": "Analysts predict copper will remain the most traded commodity this quarter.",
+      "style": "Formal",
+      "translation": "分析师预测，铜将在本季度继续成为交易量最大的大宗商品。",
+      "translated_word": "大宗商品",
+      "display_order": 2
+    },
+    {
+      "sentence": "Time is the one commodity you cannot buy back.",
+      "style": "Philosophical",
+      "translation": "时间是唯一无法买回的东西。",
+      "translated_word": "东西",
+      "display_order": 4
+    },
+    {
+      "sentence": "Art loses its soul when treated as a commodity rather than a conversation.",
+      "style": "Contrastive",
+      "translation": "当艺术被视为商品而非对话时，便失去了灵魂。",
+      "translated_word": "商品",
+      "display_order": 3
+    }
+  ]
+}

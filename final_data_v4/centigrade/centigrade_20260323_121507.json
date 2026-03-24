@@ -1,0 +1,40 @@
+{
+  "word": "centigrade",
+  "phonetic": "/ˈsentɪɡreɪd/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "摄氏的；百分度的",
+  "examples": [
+    {
+      "sentence": "Water boils at one hundred degrees centigrade.",
+      "style": "Contextual",
+      "translation": "水在一百摄氏度时沸腾。",
+      "translated_word": "摄氏",
+      "display_order": 1
+    },
+    {
+      "sentence": "The lab maintains a constant twenty-two centigrade environment for optimal results.",
+      "style": "Formal",
+      "translation": "实验室恒定保持在二十二摄氏度，以确保最佳实验效果。",
+      "translated_word": "摄氏",
+      "display_order": 4
+    },
+    {
+      "sentence": "Europeans use the centigrade scale; Americans prefer Fahrenheit.",
+      "style": "Contrastive",
+      "translation": "欧洲人使用摄氏温标；美国人偏爱华氏温标。",
+      "translated_word": "摄氏",
+      "display_order": 2
+    },
+    {
+      "sentence": "The recipe calls for an oven at one hundred eighty centigrade.",
+      "style": "Collocational",
+      "translation": "这道食谱要求烤箱温度设为一百八十摄氏度。",
+      "translated_word": "摄氏",
+      "display_order": 3
+    }
+  ]
+}

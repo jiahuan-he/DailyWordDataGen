@@ -1,0 +1,40 @@
+{
+  "word": "verge",
+  "phonetic": "/vɜːrdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "边缘；临界点；濒临之际",
+  "examples": [
+    {
+      "sentence": "She stood on the verge of leaving when he finally spoke.",
+      "style": "Contextual",
+      "translation": "她正要离开时，他终于开口了。",
+      "translated_word": "正要",
+      "display_order": 2
+    },
+    {
+      "sentence": "The horizon is where sea and sky share a single verge.",
+      "style": "Poetic",
+      "translation": "地平线是海与天共享的那道边缘。",
+      "translated_word": "边缘",
+      "display_order": 1
+    },
+    {
+      "sentence": "Courage often lives on the verge of fear.",
+      "style": "Philosophical",
+      "translation": "勇气常栖息于恐惧的边缘。",
+      "translated_word": "边缘",
+      "display_order": 3
+    },
+    {
+      "sentence": "That summer, we danced on the verge of something unspoken.",
+      "style": "Intimate",
+      "translation": "那年夏天，我们在某种未言明的边界上起舞。",
+      "translated_word": "边界",
+      "display_order": 4
+    }
+  ]
+}

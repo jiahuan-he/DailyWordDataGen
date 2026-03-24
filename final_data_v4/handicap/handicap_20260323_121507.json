@@ -1,0 +1,40 @@
+{
+  "word": "handicap",
+  "phonetic": "/ˈhændikæp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "障碍；残疾；不利条件",
+  "examples": [
+    {
+      "sentence": "His hearing handicap went unnoticed until the teacher moved him to the front row.",
+      "style": "Contextual",
+      "translation": "直到老师把他调到前排，他的听力障碍才被人察觉。",
+      "translated_word": "障碍",
+      "display_order": 1
+    },
+    {
+      "sentence": "The report examines how economic handicap affects educational outcomes.",
+      "style": "Formal",
+      "translation": "该报告探讨了经济劣势如何影响教育成果。",
+      "translated_word": "劣势",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we call a handicap is often just a different way of navigating the world.",
+      "style": "Philosophical",
+      "translation": "我们所谓的障碍，往往只是另一种与世界相处的方式。",
+      "translated_word": "障碍",
+      "display_order": 4
+    },
+    {
+      "sentence": "She turned her handicap into her greatest credential.",
+      "style": "Inspirational",
+      "translation": "她将自己的劣势化作了最有力的资历。",
+      "translated_word": "劣势",
+      "display_order": 2
+    }
+  ]
+}

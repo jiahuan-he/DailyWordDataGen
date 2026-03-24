@@ -1,0 +1,40 @@
+{
+  "word": "saccharine",
+  "phonetic": "/ˈsækərɪn/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "甜腻的；矫情的；虚情假意的",
+  "examples": [
+    {
+      "sentence": "The greeting card's saccharine message felt hollow, not heartfelt.",
+      "style": "Contextual",
+      "translation": "贺卡上甜腻的祝词读来空洞，毫无真情。",
+      "translated_word": "甜腻",
+      "display_order": 1
+    },
+    {
+      "sentence": "Critics dismissed the film's saccharine ending as emotionally manipulative.",
+      "style": "Formal",
+      "translation": "影评人批评该片结局过于煽情，有操控观众情绪之嫌。",
+      "translated_word": "煽情",
+      "display_order": 2
+    },
+    {
+      "sentence": "Genuine warmth invites; saccharine charm repels.",
+      "style": "Contrastive",
+      "translation": "真诚的温暖令人亲近，甜腻的殷勤惹人生厌。",
+      "translated_word": "甜腻",
+      "display_order": 4
+    },
+    {
+      "sentence": "We learn to sense saccharine words the way the tongue detects artificial sweetener.",
+      "style": "Philosophical",
+      "translation": "我们学会辨别矫情的言辞，正如舌尖能尝出代糖的假甜。",
+      "translated_word": "矫情",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "catching",
+  "phonetic": "/ˈkætʃɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有感染力的；迷人的；易传染的",
+  "examples": [
+    {
+      "sentence": "Her laughter was catching; soon the whole room joined in.",
+      "style": "Contextual",
+      "translation": "她的笑声极具感染力，很快整个房间都跟着笑了起来。",
+      "translated_word": "感染力",
+      "display_order": 1
+    },
+    {
+      "sentence": "He hummed a catching tune all the way home.",
+      "style": "Collocational",
+      "translation": "他一路哼着一首洗脑的旋律回家。",
+      "translated_word": "洗脑",
+      "display_order": 3
+    },
+    {
+      "sentence": "Joy, unlike sorrow, is endlessly catching.",
+      "style": "Poetic",
+      "translation": "快乐不似悲伤，它可以无限蔓延。",
+      "translated_word": "蔓延",
+      "display_order": 4
+    },
+    {
+      "sentence": "Your enthusiasm for small things is quietly catching.",
+      "style": "Intimate",
+      "translation": "你对小事的热忱，悄然感染着我。",
+      "translated_word": "感染",
+      "display_order": 2
+    }
+  ]
+}

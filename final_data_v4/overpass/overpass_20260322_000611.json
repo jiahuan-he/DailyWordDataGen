@@ -1,0 +1,40 @@
+{
+  "word": "overpass",
+  "phonetic": "/ˈoʊvərpæs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "立交桥；天桥；高架桥",
+  "examples": [
+    {
+      "sentence": "Take the overpass to avoid the intersection; it's much faster.",
+      "style": "Contextual",
+      "translation": "走立交桥绕开路口，会快很多。",
+      "translated_word": "立交桥",
+      "display_order": 1
+    },
+    {
+      "sentence": "The overpass will undergo structural inspections following reports of cracks.",
+      "style": "Formal",
+      "translation": "在接到裂缝报告后，该立交桥将进行结构检测。",
+      "translated_word": "立交桥",
+      "display_order": 4
+    },
+    {
+      "sentence": "Rain drums on the overpass while the city sleeps below.",
+      "style": "Poetic",
+      "translation": "雨点敲打着立交桥，城市在桥下沉睡。",
+      "translated_word": "立交桥",
+      "display_order": 3
+    },
+    {
+      "sentence": "From the overpass, I watched my hometown shrink in the rearview mirror.",
+      "style": "Intimate",
+      "translation": "从立交桥上，我看着故乡在后视镜里越缩越小。",
+      "translated_word": "立交桥",
+      "display_order": 2
+    }
+  ]
+}

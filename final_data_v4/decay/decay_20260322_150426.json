@@ -1,0 +1,40 @@
+{
+  "word": "decay",
+  "phonetic": "/dɪˈkeɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "腐烂；衰败；衰退",
+  "examples": [
+    {
+      "sentence": "The fruit left on the counter began to decay within days.",
+      "style": "Contextual",
+      "translation": "放在台面上的水果几天内就开始腐烂。",
+      "translated_word": "腐烂",
+      "display_order": 1
+    },
+    {
+      "sentence": "Without proper care, even the strongest teeth will decay.",
+      "style": "Collocational",
+      "translation": "若不悉心护理，再坚固的牙齿也会龋坏。",
+      "translated_word": "龋坏",
+      "display_order": 2
+    },
+    {
+      "sentence": "Autumn leaves decay into the soil, feeding next spring's green.",
+      "style": "Poetic",
+      "translation": "秋叶化入泥土，滋养来年的新绿。",
+      "translated_word": "化入",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we neglect will eventually decay.",
+      "style": "Philosophical",
+      "translation": "我们忽视的，终将衰败。",
+      "translated_word": "衰败",
+      "display_order": 4
+    }
+  ]
+}

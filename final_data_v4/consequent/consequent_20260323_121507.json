@@ -1,0 +1,40 @@
+{
+  "word": "consequent",
+  "phonetic": "/ˈkɑːnsəkwənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "随之而来的；因此产生的；作为结果的",
+  "examples": [
+    {
+      "sentence": "The factory closed, and the consequent job losses devastated the small town.",
+      "style": "Contextual",
+      "translation": "工厂关闭，随之而来的失业潮重创了这座小镇。",
+      "translated_word": "随之而来的",
+      "display_order": 1
+    },
+    {
+      "sentence": "The merger and its consequent restructuring will take effect next quarter.",
+      "style": "Formal",
+      "translation": "合并及由此引发的重组将于下季度生效。",
+      "translated_word": "由此引发的",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every silence carries a consequent echo in the listener's mind.",
+      "style": "Philosophical",
+      "translation": "每一次沉默都会在听者心中激起回响。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Rising sea levels bring consequent shifts in coastal wildlife.",
+      "style": "Collocational",
+      "translation": "海平面上升带来了沿海野生动物的连锁变化。",
+      "translated_word": "连锁",
+      "display_order": 2
+    }
+  ]
+}

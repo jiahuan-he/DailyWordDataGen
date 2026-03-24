@@ -1,0 +1,40 @@
+{
+  "word": "considerable",
+  "phonetic": "/kənˈsɪdərəbl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "相当大的；可观的；值得重视的",
+  "examples": [
+    {
+      "sentence": "The storm caused considerable damage; schools remained closed for a week.",
+      "style": "Contextual",
+      "translation": "风暴造成了相当大的破坏，学校停课一周。",
+      "translated_word": "相当大的",
+      "display_order": 1
+    },
+    {
+      "sentence": "The merger is expected to yield considerable savings.",
+      "style": "Formal",
+      "translation": "此次合并预计将带来可观的成本节省。",
+      "translated_word": "可观的",
+      "display_order": 2
+    },
+    {
+      "sentence": "She devoted considerable thought to the decision before signing.",
+      "style": "Collocational",
+      "translation": "签字前，她对这个决定进行了深思熟虑。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "What seems like a minor choice often carries considerable weight.",
+      "style": "Philosophical",
+      "translation": "看似微小的选择，往往承载着不可忽视的分量。",
+      "translated_word": "不可忽视的",
+      "display_order": 4
+    }
+  ]
+}

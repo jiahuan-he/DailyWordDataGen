@@ -1,0 +1,40 @@
+{
+  "word": "buggy",
+  "phonetic": "/ˈbʌɡi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有缺陷的；多故障的；多虫的",
+  "examples": [
+    {
+      "sentence": "The app kept crashing; it was too buggy to use.",
+      "style": "Contextual",
+      "translation": "这个应用总是闪退，问题太多，根本没法用。",
+      "translated_word": "问题",
+      "display_order": 2
+    },
+    {
+      "sentence": "The update was pulled after users reported buggy performance.",
+      "style": "Formal",
+      "translation": "由于用户反馈频繁出错，该更新已被撤回。",
+      "translated_word": "出错",
+      "display_order": 3
+    },
+    {
+      "sentence": "A polished interface means nothing if the backend is buggy.",
+      "style": "Contrastive",
+      "translation": "界面再精致，后端漏洞百出也是白搭。",
+      "translated_word": "漏洞百出",
+      "display_order": 4
+    },
+    {
+      "sentence": "We fixed the buggy code before the demo.",
+      "style": "Collocational",
+      "translation": "我们在演示前修复了那段有问题的代码。",
+      "translated_word": "有问题的",
+      "display_order": 1
+    }
+  ]
+}

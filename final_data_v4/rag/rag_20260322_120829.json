@@ -1,0 +1,40 @@
+{
+  "word": "rag",
+  "phonetic": "/ræɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "破布；抹布；碎布",
+  "examples": [
+    {
+      "sentence": "She wiped the counter with a damp rag and tossed it in the bucket.",
+      "style": "Contextual",
+      "translation": "她用一块湿布擦了擦台面，随手扔进桶里。",
+      "translated_word": "布",
+      "display_order": 1
+    },
+    {
+      "sentence": "He kept an oily rag in the toolbox for polishing the old motorcycle.",
+      "style": "Collocational",
+      "translation": "他在工具箱里放着一块油布，专用来擦拭那辆老摩托。",
+      "translated_word": "布",
+      "display_order": 3
+    },
+    {
+      "sentence": "Grandma's hands, worn and gentle, always seemed to hold a rag.",
+      "style": "Intimate",
+      "translation": "奶奶那双粗糙而温柔的手，似乎总握着一块抹布。",
+      "translated_word": "抹布",
+      "display_order": 2
+    },
+    {
+      "sentence": "What the world discards as a rag, a resourceful hand makes useful again.",
+      "style": "Philosophical",
+      "translation": "世人弃之如敝履的碎布，巧手却能化废为宝。",
+      "translated_word": "碎布",
+      "display_order": 4
+    }
+  ]
+}

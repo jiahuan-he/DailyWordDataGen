@@ -1,0 +1,41 @@
+{
+  "word": "leer",
+  "phonetic": "/lɪr/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "色眯眯地看；斜睨；恶意地盯",
+  "examples": [
+    {
+      "sentence": "The man at the bus stop leered at every woman who passed.",
+      "style": "Contextual",
+      "translation": "公交站的那个男人色眯眯地盯着每一个路过的女人。",
+      "translated_word": "色眯眯地盯着",
+      "display_order": 1
+    },
+    {
+      "sentence": "Security footage shows the suspect leering moments before the incident.",
+      "style": "Formal",
+      "translation": "监控录像显示，嫌疑人在案发前几秒目光阴沉地盯着受害者。",
+      "translated_word": "目光阴沉地盯着",
+      "display_order": 4
+    },
+    {
+      "sentence": "To glance is to notice; to leer is to intrude.",
+      "style": "Contrastive",
+      "translation": "瞥一眼是注意，色眯眯地盯着是冒犯。",
+      "translated_word": "色眯眯地盯着",
+      "display_order": 3
+    },
+    {
+      "sentence": "He leered from the corner, his gaze heavy with intent.",
+      "style": "Poetic",
+      "translation": "他在角落里斜睨着，目光沉沉，满是企图。",
+      "translated_word": "斜睨着",
+      "display_order": 2
+    }
+  ]
+}

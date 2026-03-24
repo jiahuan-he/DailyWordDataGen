@@ -1,0 +1,40 @@
+{
+  "word": "buzz",
+  "phonetic": "/bʌz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "嗡嗡声；兴奋；传闻",
+  "examples": [
+    {
+      "sentence": "The buzz in the office grew louder as the CEO walked in.",
+      "style": "Contextual",
+      "translation": "CEO走进来时，办公室里的议论声愈发嘈杂。",
+      "translated_word": "议论声",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her debut novel created quite a buzz among literary critics.",
+      "style": "Collocational",
+      "translation": "她的处女作在文学评论界引起了不小的轰动。",
+      "translated_word": "轰动",
+      "display_order": 1
+    },
+    {
+      "sentence": "Summer evenings hum with the buzz of cicadas and distant laughter.",
+      "style": "Poetic",
+      "translation": "夏夜里，蝉鸣与远处的笑声交织低吟。",
+      "translated_word": "鸣",
+      "display_order": 3
+    },
+    {
+      "sentence": "That first morning in New York, the city's buzz woke something restless in me.",
+      "style": "Intimate",
+      "translation": "初到纽约的那个清晨，城市的喧嚣唤醒了我心底某种躁动。",
+      "translated_word": "喧嚣",
+      "display_order": 4
+    }
+  ]
+}

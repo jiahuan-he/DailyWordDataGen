@@ -1,0 +1,40 @@
+{
+  "word": "footle",
+  "phonetic": "/ˈfuːt(ə)l/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "瞎混；闲荡；虚耗时间",
+  "examples": [
+    {
+      "sentence": "He footled with the broken watch for hours, accomplishing nothing.",
+      "style": "Contextual",
+      "translation": "他摆弄那只坏表好几个小时，毫无进展。",
+      "translated_word": "摆弄",
+      "display_order": 1
+    },
+    {
+      "sentence": "Stop footling about and pack your bags.",
+      "style": "Collocational",
+      "translation": "别磨蹭了，快去收拾行李。",
+      "translated_word": "磨蹭",
+      "display_order": 2
+    },
+    {
+      "sentence": "She could prepare or she could footle; the interview was in three hours.",
+      "style": "Contrastive",
+      "translation": "她可以好好准备，也可以继续瞎晃；面试就在三小时后。",
+      "translated_word": "瞎晃",
+      "display_order": 4
+    },
+    {
+      "sentence": "On rainy Saturdays, we footle around the kitchen, baking whatever we fancy.",
+      "style": "Intimate",
+      "translation": "下雨的周六，我们在厨房里闲晃，想烤什么就烤什么。",
+      "translated_word": "闲晃",
+      "display_order": 3
+    }
+  ]
+}

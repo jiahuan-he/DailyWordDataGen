@@ -1,0 +1,40 @@
+{
+  "word": "terminate",
+  "phonetic": "/ˈtɜːrmɪneɪt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "终止；结束；解雇",
+  "examples": [
+    {
+      "sentence": "The board voted to terminate the partnership effective immediately.",
+      "style": "Formal",
+      "translation": "董事会投票决定立即终止合作关系。",
+      "translated_word": "终止",
+      "display_order": 1
+    },
+    {
+      "sentence": "Due to budget cuts, the research program was terminated last month.",
+      "style": "Contextual",
+      "translation": "由于预算削减，该研究项目已于上月终止。",
+      "translated_word": "终止",
+      "display_order": 2
+    },
+    {
+      "sentence": "Friendships end; contracts terminate.",
+      "style": "Contrastive",
+      "translation": "友谊会结束；合同则是终止。",
+      "translated_word": "终止",
+      "display_order": 3
+    },
+    {
+      "sentence": "The courage to terminate is often greater than the courage to begin.",
+      "style": "Philosophical",
+      "translation": "终止的勇气，往往比开始的勇气更难得。",
+      "translated_word": "终止",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "holding",
+  "phonetic": "/ˈhoʊldɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "持股；资产；持有物",
+  "examples": [
+    {
+      "sentence": "Her most valuable holding is a vineyard in Napa.",
+      "style": "Contextual",
+      "translation": "她最值钱的资产是纳帕的一座葡萄园。",
+      "translated_word": "资产",
+      "display_order": 1
+    },
+    {
+      "sentence": "The fund disclosed its holdings in three major tech firms.",
+      "style": "Formal",
+      "translation": "该基金披露了其在三家大型科技公司的持股情况。",
+      "translated_word": "持股",
+      "display_order": 2
+    },
+    {
+      "sentence": "A majority holding grants controlling power over key decisions.",
+      "style": "Collocational",
+      "translation": "多数股权赋予对重大决策的控制权。",
+      "translated_word": "股权",
+      "display_order": 3
+    },
+    {
+      "sentence": "We acquire holdings; eventually, they acquire us.",
+      "style": "Philosophical",
+      "translation": "我们积累资产；终有一日，资产反过来支配我们。",
+      "translated_word": "资产",
+      "display_order": 4
+    }
+  ]
+}

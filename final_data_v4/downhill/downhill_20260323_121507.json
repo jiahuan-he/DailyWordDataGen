@@ -1,0 +1,42 @@
+{
+  "word": "downhill",
+  "phonetic": "/ˌdaʊnˈhɪl/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "向下坡地；走下坡路；每况愈下",
+  "examples": [
+    {
+      "sentence": "The trail goes downhill from here; watch your step.",
+      "style": "Contextual",
+      "translation": "从这里开始下坡，小心脚下。",
+      "translated_word": "下坡",
+      "display_order": 1
+    },
+    {
+      "sentence": "After she left, everything went downhill.",
+      "style": "Collocational",
+      "translation": "她离开后，一切都走了下坡路。",
+      "translated_word": "下坡路",
+      "display_order": 2
+    },
+    {
+      "sentence": "Climbing reveals ambition; walking downhill reveals character.",
+      "style": "Philosophical",
+      "translation": "攀登见雄心，下坡见品格。",
+      "translated_word": "下坡",
+      "display_order": 4
+    },
+    {
+      "sentence": "That year, my health slid downhill, and I finally learned to rest.",
+      "style": "Intimate",
+      "translation": "那一年，身体每况愈下，我终于学会了休息。",
+      "translated_word": "每况愈下",
+      "display_order": 3
+    }
+  ]
+}

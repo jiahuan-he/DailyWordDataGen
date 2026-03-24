@@ -1,0 +1,39 @@
+{
+  "word": "tactful",
+  "phonetic": "/ˈtæktfəl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "得体；委婉；有分寸",
+  "examples": [
+    {
+      "sentence": "Her tactful suggestion let him save face.",
+      "style": "Contextual",
+      "translation": "她得体的建议让他保住了面子。",
+      "translated_word": "得体的",
+      "display_order": 1
+    },
+    {
+      "sentence": "A tactful reply turned the argument into a conversation.",
+      "style": "Collocational",
+      "translation": "一句委婉的回应，将争吵化为了对话。",
+      "translated_word": "委婉的",
+      "display_order": 2
+    },
+    {
+      "sentence": "To be tactful is not weakness; it is strength dressed in gentleness.",
+      "style": "Philosophical",
+      "translation": "圆滑并非软弱；那是披着温柔外衣的力量。",
+      "translated_word": "圆滑",
+      "display_order": 4
+    },
+    {
+      "sentence": "My mother's advice was always tactful: questions, never commands.",
+      "style": "Intimate",
+      "translation": "母亲的忠告总是很委婉：只有提问，从无命令。",
+      "translated_word": "委婉",
+      "display_order": 3
+    }
+  ]
+}

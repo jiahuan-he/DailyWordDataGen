@@ -1,0 +1,41 @@
+{
+  "word": "upset",
+  "phonetic": "/ʌpˈset/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "不安的；难过的；心烦意乱的",
+  "examples": [
+    {
+      "sentence": "She went quiet after the call, visibly upset.",
+      "style": "Contextual",
+      "translation": "那通电话之后，她沉默了，明显心神不宁。",
+      "translated_word": "心神不宁",
+      "display_order": 2
+    },
+    {
+      "sentence": "He wasn't angry; he was upset, which felt worse.",
+      "style": "Contrastive",
+      "translation": "他不是生气，而是难过；那感觉反而更糟。",
+      "translated_word": "难过",
+      "display_order": 3
+    },
+    {
+      "sentence": "The children were upset about the cancelled trip.",
+      "style": "Collocational",
+      "translation": "孩子们因为旅行取消而闷闷不乐。",
+      "translated_word": "闷闷不乐",
+      "display_order": 1
+    },
+    {
+      "sentence": "My father never raised his voice when upset; he just grew distant.",
+      "style": "Intimate",
+      "translation": "父亲难过时从不提高嗓门，只是变得疏远。",
+      "translated_word": "难过",
+      "display_order": 4
+    }
+  ]
+}

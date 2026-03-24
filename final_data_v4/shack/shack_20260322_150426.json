@@ -1,0 +1,40 @@
+{
+  "word": "shack",
+  "phonetic": "/ʃæk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "棚屋；简陋小屋；窝棚",
+  "examples": [
+    {
+      "sentence": "The fisherman stored his nets in a weathered shack by the pier.",
+      "style": "Contextual",
+      "translation": "渔夫把渔网存放在码头边一间破旧的棚屋里。",
+      "translated_word": "棚屋",
+      "display_order": 1
+    },
+    {
+      "sentence": "Smoke curled from the shack's chimney, a thin thread against the winter sky.",
+      "style": "Poetic",
+      "translation": "炊烟从小屋烟囱袅袅升起，如一缕细丝融入冬日苍穹。",
+      "translated_word": "小屋",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather built his first business from a roadside shack.",
+      "style": "Intimate",
+      "translation": "祖父的第一份生意，始于路边一间简陋的小屋。",
+      "translated_word": "小屋",
+      "display_order": 2
+    },
+    {
+      "sentence": "She traded her city apartment for a shack in the mountains.",
+      "style": "Contrastive",
+      "translation": "她用城里的公寓换了山间的一间木屋。",
+      "translated_word": "木屋",
+      "display_order": 3
+    }
+  ]
+}

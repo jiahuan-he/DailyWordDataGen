@@ -1,0 +1,40 @@
+{
+  "word": "invest",
+  "phonetic": "/ɪnˈvest/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "投资；投入；赋予",
+  "examples": [
+    {
+      "sentence": "He chose to invest in art rather than stocks.",
+      "style": "Contextual",
+      "translation": "他选择投资艺术而非股票。",
+      "translated_word": "投资",
+      "display_order": 1
+    },
+    {
+      "sentence": "The firm will invest billions in semiconductor manufacturing.",
+      "style": "Formal",
+      "translation": "该公司将斥资数十亿投资半导体制造。",
+      "translated_word": "投资",
+      "display_order": 2
+    },
+    {
+      "sentence": "To invest in others is to believe in what they might become.",
+      "style": "Philosophical",
+      "translation": "投资于他人，是相信他们可能成为的样子。",
+      "translated_word": "投资",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother taught me to invest not just money, but attention.",
+      "style": "Intimate",
+      "translation": "祖母教会我投入的不只是金钱，还有专注。",
+      "translated_word": "投入",
+      "display_order": 4
+    }
+  ]
+}

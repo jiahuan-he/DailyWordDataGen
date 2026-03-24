@@ -1,0 +1,40 @@
+{
+  "word": "surmise",
+  "phonetic": "/sərˈmaɪz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "推测；猜想；揣度",
+  "examples": [
+    {
+      "sentence": "From her packed suitcase by the door, I surmised she had already made her decision.",
+      "style": "Contextual",
+      "translation": "看到门边那只收拾好的行李箱，我猜她早已做了决定。",
+      "translated_word": "猜",
+      "display_order": 1
+    },
+    {
+      "sentence": "Analysts surmise that the merger will be finalized by the end of the quarter.",
+      "style": "Formal",
+      "translation": "分析人士推测，此次合并将于本季度末完成。",
+      "translated_word": "推测",
+      "display_order": 2
+    },
+    {
+      "sentence": "We surmise truths about others while remaining strangers to ourselves.",
+      "style": "Philosophical",
+      "translation": "我们揣度他人的真相，却对自己一无所知。",
+      "translated_word": "揣度",
+      "display_order": 4
+    },
+    {
+      "sentence": "He never said he was proud of me, but I surmised it from the way he kept my drawings.",
+      "style": "Intimate",
+      "translation": "他从未说过为我骄傲，但他珍藏我画作的方式，让我读懂了一切。",
+      "translated_word": "读懂",
+      "display_order": 3
+    }
+  ]
+}

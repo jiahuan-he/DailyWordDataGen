@@ -1,0 +1,39 @@
+{
+  "word": "documentation",
+  "phonetic": "/ˌdɒkjʊmenˈteɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "文件；资料；文档记录",
+  "examples": [
+    {
+      "sentence": "Without proper documentation, the refund was denied.",
+      "style": "Contextual",
+      "translation": "因缺少完整的证明材料，退款申请被驳回。",
+      "translated_word": "证明材料",
+      "display_order": 2
+    },
+    {
+      "sentence": "The investigation stalled due to incomplete documentation.",
+      "style": "Formal",
+      "translation": "调查因文件资料不全而陷入停滞。",
+      "translated_word": "文件资料",
+      "display_order": 3
+    },
+    {
+      "sentence": "Clear documentation saves hours of confusion later.",
+      "style": "Collocational",
+      "translation": "清晰的文档记录能省去日后数小时的困惑。",
+      "translated_word": "文档记录",
+      "display_order": 1
+    },
+    {
+      "sentence": "Verbal promises fade; documentation endures.",
+      "style": "Contrastive",
+      "translation": "口头承诺会消散，书面记录却长存。",
+      "translated_word": "书面记录",
+      "display_order": 4
+    }
+  ]
+}

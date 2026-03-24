@@ -1,0 +1,40 @@
+{
+  "word": "flask",
+  "phonetic": "/flæsk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "烧瓶；酒壶；细颈瓶",
+  "examples": [
+    {
+      "sentence": "She swirled the flask gently, watching the chemicals react.",
+      "style": "Contextual",
+      "translation": "她轻轻摇晃烧瓶，注视着化学反应的发生。",
+      "translated_word": "烧瓶",
+      "display_order": 1
+    },
+    {
+      "sentence": "He carried a leather-wrapped flask on every hiking trip.",
+      "style": "Collocational",
+      "translation": "每次徒步旅行，他都会带上那只皮套酒壶。",
+      "translated_word": "酒壶",
+      "display_order": 2
+    },
+    {
+      "sentence": "My father's flask: dented, empty, yet impossible to discard.",
+      "style": "Intimate",
+      "translation": "父亲的酒壶：凹陷、空空如也，却怎么也舍不得丢弃。",
+      "translated_word": "酒壶",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sunlight struck the glass flask and scattered into a hundred tiny suns.",
+      "style": "Poetic",
+      "translation": "阳光落在玻璃烧瓶上，碎成了一百颗小小的太阳。",
+      "translated_word": "烧瓶",
+      "display_order": 4
+    }
+  ]
+}

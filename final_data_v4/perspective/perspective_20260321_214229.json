@@ -1,0 +1,40 @@
+{
+  "word": "perspective",
+  "phonetic": "/pərˈspektɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "视角；观点；看法；透视",
+  "examples": [
+    {
+      "sentence": "From her perspective, failure was data; from his, it was defeat.",
+      "style": "Contrastive",
+      "translation": "在她看来，失败是数据；在他看来，失败是溃败。",
+      "translated_word": "看来",
+      "display_order": 2
+    },
+    {
+      "sentence": "A single shift in perspective can turn an obstacle into a doorway.",
+      "style": "Inspirational",
+      "translation": "视角一转，障碍便成了入口。",
+      "translated_word": "视角",
+      "display_order": 3
+    },
+    {
+      "sentence": "Grief has a way of sharpening perspective.",
+      "style": "Philosophical",
+      "translation": "悲伤总能让人看得更清。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "That summer abroad gave me a perspective no classroom ever could.",
+      "style": "Intimate",
+      "translation": "那个夏天的异国之旅，给了我课堂永远无法给予的视角。",
+      "translated_word": "视角",
+      "display_order": 1
+    }
+  ]
+}

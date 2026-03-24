@@ -1,0 +1,40 @@
+{
+  "word": "snag",
+  "phonetic": "/snæɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "障碍；小问题；意外阻碍",
+  "examples": [
+    {
+      "sentence": "The project hit a snag when the supplier went silent.",
+      "style": "Contextual",
+      "translation": "供应商突然失联，项目遇到了麻烦。",
+      "translated_word": "麻烦",
+      "display_order": 2
+    },
+    {
+      "sentence": "Budget negotiations encountered a last-minute snag over pension reforms.",
+      "style": "Formal",
+      "translation": "预算谈判在养老金改革问题上临时受阻。",
+      "translated_word": "受阻",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every renovation hits a snag; ours was the plumbing.",
+      "style": "Collocational",
+      "translation": "每场装修都会遇到问题；我们的麻烦出在水管上。",
+      "translated_word": "问题",
+      "display_order": 1
+    },
+    {
+      "sentence": "We had planned the perfect proposal, but the ring box hit a snag in my coat pocket.",
+      "style": "Intimate",
+      "translation": "求婚计划完美无缺，偏偏戒指盒卡在了大衣口袋里。",
+      "translated_word": "卡在",
+      "display_order": 4
+    }
+  ]
+}

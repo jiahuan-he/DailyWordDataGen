@@ -1,0 +1,39 @@
+{
+  "word": "claimant",
+  "phonetic": "/ˈkleɪmənt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "索赔人；申请人；原告",
+  "examples": [
+    {
+      "sentence": "Each claimant submitted documentation before the hearing.",
+      "style": "Contextual",
+      "translation": "每位索赔人在听证会前提交了相关材料。",
+      "translated_word": "索赔人",
+      "display_order": 3
+    },
+    {
+      "sentence": "The court will hear from three claimants this morning.",
+      "style": "Formal",
+      "translation": "法庭将于今晨听取三位原告的陈述。",
+      "translated_word": "原告",
+      "display_order": 1
+    },
+    {
+      "sentence": "As the sole claimant to the estate, she signed the papers quietly.",
+      "style": "Collocational",
+      "translation": "作为遗产的唯一继承人，她静静地签下了文件。",
+      "translated_word": "继承人",
+      "display_order": 2
+    },
+    {
+      "sentence": "The claimant carries the burden; the defendant awaits.",
+      "style": "Contrastive",
+      "translation": "原告负举证之责；被告静候其变。",
+      "translated_word": "原告",
+      "display_order": 4
+    }
+  ]
+}

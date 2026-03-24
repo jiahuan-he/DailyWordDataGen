@@ -1,0 +1,40 @@
+{
+  "word": "spike",
+  "phonetic": "/spaɪk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "猛增；飙升；暗中掺入",
+  "examples": [
+    {
+      "sentence": "Her pulse spiked when his name lit up her phone.",
+      "style": "Contextual",
+      "translation": "他的名字亮起的瞬间，她的心跳骤然加速。",
+      "translated_word": "加速",
+      "display_order": 4
+    },
+    {
+      "sentence": "Oil prices spiked overnight after the supply disruption.",
+      "style": "Formal",
+      "translation": "供应中断后，油价一夜之间飙升。",
+      "translated_word": "飙升",
+      "display_order": 2
+    },
+    {
+      "sentence": "Demand for masks spiked during flu season.",
+      "style": "Collocational",
+      "translation": "流感季节，口罩需求激增。",
+      "translated_word": "激增",
+      "display_order": 1
+    },
+    {
+      "sentence": "My anxiety spikes every time I check my exam results.",
+      "style": "Intimate",
+      "translation": "每次查成绩，我的焦虑感都会飙升。",
+      "translated_word": "飙升",
+      "display_order": 3
+    }
+  ]
+}

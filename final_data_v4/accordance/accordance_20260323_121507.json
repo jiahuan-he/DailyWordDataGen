@@ -1,0 +1,39 @@
+{
+  "word": "accordance",
+  "phonetic": "/əˈkɔːrdəns/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "一致；符合；依照",
+  "examples": [
+    {
+      "sentence": "The project was completed in strict accordance with safety regulations.",
+      "style": "Formal",
+      "translation": "该项目严格依照安全法规完成。",
+      "translated_word": "依照",
+      "display_order": 3
+    },
+    {
+      "sentence": "She dressed in accordance with the invitation's dress code.",
+      "style": "Contextual",
+      "translation": "她按照请柬上的着装要求穿戴整齐。",
+      "translated_word": "按照",
+      "display_order": 2
+    },
+    {
+      "sentence": "In accordance with tradition, the eldest son lit the first candle.",
+      "style": "Collocational",
+      "translation": "按照传统，长子点燃了第一支蜡烛。",
+      "translated_word": "按照",
+      "display_order": 1
+    },
+    {
+      "sentence": "Living in accordance with your beliefs is quieter than defending them.",
+      "style": "Philosophical",
+      "translation": "言行合一，胜过千言万语的辩护。",
+      "translated_word": "合一",
+      "display_order": 4
+    }
+  ]
+}

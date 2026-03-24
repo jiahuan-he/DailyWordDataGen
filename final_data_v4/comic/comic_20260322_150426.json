@@ -1,0 +1,40 @@
+{
+  "word": "comic",
+  "phonetic": "/ˈkɑːmɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "滑稽的；喜剧的；可笑的",
+  "examples": [
+    {
+      "sentence": "His comic timing turned an awkward pause into roaring laughter.",
+      "style": "Contextual",
+      "translation": "他滑稽的时机把握，将尴尬的停顿化作满堂大笑。",
+      "translated_word": "滑稽",
+      "display_order": 2
+    },
+    {
+      "sentence": "The film balances tragedy with moments of comic relief.",
+      "style": "Collocational",
+      "translation": "这部电影在悲剧中穿插了喜剧性的调剂。",
+      "translated_word": "喜剧性",
+      "display_order": 1
+    },
+    {
+      "sentence": "The most comic failures are the ones we rehearsed a hundred times.",
+      "style": "Philosophical",
+      "translation": "最滑稽的失败，往往是我们排练了上百遍的那些。",
+      "translated_word": "滑稽",
+      "display_order": 3
+    },
+    {
+      "sentence": "Grandpa's comic retelling of his army days made even the cat seem to listen.",
+      "style": "Intimate",
+      "translation": "外公绘声绘色地讲述军旅往事，连猫都像在侧耳倾听。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

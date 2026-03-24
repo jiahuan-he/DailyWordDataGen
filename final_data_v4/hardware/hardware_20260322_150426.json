@@ -1,0 +1,39 @@
+{
+  "word": "hardware",
+  "phonetic": "/ˈhɑːrdwer/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "硬件；五金；器材",
+  "examples": [
+    {
+      "sentence": "The shop sells hammers, nails, and other hardware.",
+      "style": "Contextual",
+      "translation": "这家店出售锤子、钉子和其他五金器具。",
+      "translated_word": "五金器具",
+      "display_order": 1
+    },
+    {
+      "sentence": "Tech giants are investing heavily in custom hardware to power their AI systems.",
+      "style": "Formal",
+      "translation": "科技巨头正斥巨资研发定制硬件，以驱动其人工智能系统。",
+      "translated_word": "硬件",
+      "display_order": 4
+    },
+    {
+      "sentence": "Brilliant software means nothing on failing hardware.",
+      "style": "Contrastive",
+      "translation": "再出色的软件，在故障的硬件上也毫无意义。",
+      "translated_word": "硬件",
+      "display_order": 3
+    },
+    {
+      "sentence": "He wandered the hardware store aisles, planning his weekend project.",
+      "style": "Collocational",
+      "translation": "他在五金店的货架间徘徊，盘算着周末的小工程。",
+      "translated_word": "五金",
+      "display_order": 2
+    }
+  ]
+}

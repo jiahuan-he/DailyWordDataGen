@@ -1,0 +1,41 @@
+{
+  "word": "snug",
+  "phonetic": "/snʌɡ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "舒适的；温暖的；紧贴的",
+  "examples": [
+    {
+      "sentence": "The cabin stayed snug even as the storm raged outside.",
+      "style": "Contextual",
+      "translation": "小屋温暖如故，任凭风雪在外肆虐。",
+      "translated_word": "温暖",
+      "display_order": 2
+    },
+    {
+      "sentence": "Frost crept up the window; the room held us snug.",
+      "style": "Poetic",
+      "translation": "霜花爬上窗沿；屋内，温暖将我们拥入怀中。",
+      "translated_word": "温暖",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her kitchen was always snug, thick with the smell of baking bread.",
+      "style": "Intimate",
+      "translation": "她的厨房总是那么暖融融的，弥漫着烘焙面包的香气。",
+      "translated_word": "暖融融",
+      "display_order": 1
+    },
+    {
+      "sentence": "He pulled on a snug sweater and stepped into the cold.",
+      "style": "Collocational",
+      "translation": "他套上一件贴身的毛衣，迈入寒风中。",
+      "translated_word": "贴身",
+      "display_order": 4
+    }
+  ]
+}

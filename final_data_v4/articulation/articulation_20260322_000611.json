@@ -1,0 +1,39 @@
+{
+  "word": "articulation",
+  "phonetic": "/ɑːrˌtɪkjəˈleɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "表达；发音；关节",
+  "examples": [
+    {
+      "sentence": "Her articulation was so precise that even the back row caught every word.",
+      "style": "Contextual",
+      "translation": "她吐字清晰，连最后一排都能听清每个字。",
+      "translated_word": "吐字",
+      "display_order": 1
+    },
+    {
+      "sentence": "The diplomat's articulation of the ceasefire terms left no room for ambiguity.",
+      "style": "Formal",
+      "translation": "外交官对停火条款的表述不留丝毫歧义。",
+      "translated_word": "表述",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some feelings precede articulation; they are known before they are named.",
+      "style": "Philosophical",
+      "translation": "有些情感先于语言而存在；未曾命名，却早已知晓。",
+      "translated_word": "语言",
+      "display_order": 3
+    },
+    {
+      "sentence": "In grief, articulation falters; the throat holds what the mouth cannot release.",
+      "style": "Poetic",
+      "translation": "悲伤时语塞；喉间压着嘴唇无法释放的一切。",
+      "translated_word": "语",
+      "display_order": 4
+    }
+  ]
+}

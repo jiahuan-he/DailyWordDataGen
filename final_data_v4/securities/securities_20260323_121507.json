@@ -1,0 +1,39 @@
+{
+  "word": "securities",
+  "phonetic": "/sɪˈkjʊərɪtiz/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "证券；有价证券；担保物",
+  "examples": [
+    {
+      "sentence": "After retirement, she converted most of her securities into stable bonds.",
+      "style": "Contextual",
+      "translation": "退休后，她将大部分证券转为稳健的债券。",
+      "translated_word": "证券",
+      "display_order": 2
+    },
+    {
+      "sentence": "The commission suspended trading of the company's securities pending investigation.",
+      "style": "Formal",
+      "translation": "委员会在调查期间暂停了该公司证券的交易。",
+      "translated_word": "证券",
+      "display_order": 1
+    },
+    {
+      "sentence": "Government securities remain a cornerstone of conservative portfolios.",
+      "style": "Collocational",
+      "translation": "政府债券始终是保守型投资组合的基石。",
+      "translated_word": "债券",
+      "display_order": 3
+    },
+    {
+      "sentence": "We buy securities seeking certainty, yet markets teach us to embrace the opposite.",
+      "style": "Philosophical",
+      "translation": "我们购入证券以求安稳，市场却教会我们拥抱无常。",
+      "translated_word": "证券",
+      "display_order": 4
+    }
+  ]
+}

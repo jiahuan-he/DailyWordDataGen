@@ -1,0 +1,40 @@
+{
+  "word": "pit",
+  "phonetic": "/pɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "坑；深洞；果核；矿井",
+  "examples": [
+    {
+      "sentence": "Rain pooled at the bottom of the pit.",
+      "style": "Contextual",
+      "translation": "雨水积在坑底。",
+      "translated_word": "坑",
+      "display_order": 1
+    },
+    {
+      "sentence": "She saved the avocado pit to grow a plant.",
+      "style": "Collocational",
+      "translation": "她留下牛油果核，想种一株植物。",
+      "translated_word": "核",
+      "display_order": 2
+    },
+    {
+      "sentence": "The pit we fear most is often the one we dig ourselves.",
+      "style": "Philosophical",
+      "translation": "我们最恐惧的深坑，往往是自己挖的。",
+      "translated_word": "深坑",
+      "display_order": 3
+    },
+    {
+      "sentence": "Light finds its way even to the deepest pit.",
+      "style": "Poetic",
+      "translation": "光，总能找到通往最深处的路。",
+      "translated_word": "深处",
+      "display_order": 4
+    }
+  ]
+}

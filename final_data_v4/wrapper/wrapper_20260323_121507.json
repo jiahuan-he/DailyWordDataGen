@@ -1,0 +1,39 @@
+{
+  "word": "wrapper",
+  "phonetic": "/ˈræpər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "包装纸；封皮；外包装",
+  "examples": [
+    {
+      "sentence": "She crumpled the candy wrapper and slipped it into her pocket.",
+      "style": "Contextual",
+      "translation": "她把糖纸揉成一团，塞进了口袋。",
+      "translated_word": "糖纸",
+      "display_order": 2
+    },
+    {
+      "sentence": "The foil wrapper glinted under the kitchen light.",
+      "style": "Collocational",
+      "translation": "锡箔包装纸在厨房灯光下闪闪发亮。",
+      "translated_word": "包装纸",
+      "display_order": 1
+    },
+    {
+      "sentence": "The wrapper promised luxury; the contents delivered disappointment.",
+      "style": "Contrastive",
+      "translation": "包装许诺奢华，内容却令人失望。",
+      "translated_word": "包装",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother stored old letters in a worn silk wrapper.",
+      "style": "Intimate",
+      "translation": "祖母把旧信件收在一个磨损的丝绸封套里。",
+      "translated_word": "封套",
+      "display_order": 4
+    }
+  ]
+}

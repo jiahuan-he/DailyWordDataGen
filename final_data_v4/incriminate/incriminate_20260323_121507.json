@@ -1,0 +1,39 @@
+{
+  "word": "incriminate",
+  "phonetic": "/ɪnˈkrɪmɪneɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使负罪；牵连；归咎",
+  "examples": [
+    {
+      "sentence": "The deleted emails could incriminate several executives.",
+      "style": "Contextual",
+      "translation": "那些被删除的邮件可能会牵连多位高管。",
+      "translated_word": "牵连",
+      "display_order": 2
+    },
+    {
+      "sentence": "Forensic evidence continues to incriminate the prime suspect.",
+      "style": "Formal",
+      "translation": "法医证据持续指向这名主要嫌疑人。",
+      "translated_word": "指向",
+      "display_order": 1
+    },
+    {
+      "sentence": "Silence can incriminate as powerfully as a confession.",
+      "style": "Contrastive",
+      "translation": "沉默有时与认罪一样，足以定人之罪。",
+      "translated_word": "定人之罪",
+      "display_order": 3
+    },
+    {
+      "sentence": "We incriminate others most fiercely when we fear our own guilt.",
+      "style": "Philosophical",
+      "translation": "我们越是惧怕自身的罪咎，便越猛烈地归咎于人。",
+      "translated_word": "归咎于人",
+      "display_order": 4
+    }
+  ]
+}

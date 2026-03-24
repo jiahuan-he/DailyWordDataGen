@@ -1,0 +1,39 @@
+{
+  "word": "vacant",
+  "phonetic": "/ˈveɪkənt/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "空的；空置的；茫然的；空缺的",
+  "examples": [
+    {
+      "sentence": "We found the perfect spot: a vacant bench overlooking the harbor.",
+      "style": "Contextual",
+      "translation": "我们找到了理想的位置：一张面朝港湾的空长椅。",
+      "translated_word": "空",
+      "display_order": 1
+    },
+    {
+      "sentence": "His eyes went vacant, lost in some distant thought.",
+      "style": "Collocational",
+      "translation": "他的眼神变得空洞，陷入了某个遥远的念头。",
+      "translated_word": "空洞",
+      "display_order": 3
+    },
+    {
+      "sentence": "Snow fell through the vacant windows of the old chapel.",
+      "style": "Poetic",
+      "translation": "雪花飘落，穿过老教堂空寂的窗棂。",
+      "translated_word": "空寂",
+      "display_order": 4
+    },
+    {
+      "sentence": "The chair across from me has been vacant for three winters now.",
+      "style": "Intimate",
+      "translation": "对面的那把椅子，已空置了三个冬天。",
+      "translated_word": "空置",
+      "display_order": 2
+    }
+  ]
+}

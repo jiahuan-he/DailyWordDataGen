@@ -1,0 +1,40 @@
+{
+  "word": "sermon",
+  "phonetic": "/ˈsɜːrmən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "布道；讲道；说教",
+  "examples": [
+    {
+      "sentence": "The congregation fell silent as the Sunday sermon began.",
+      "style": "Contextual",
+      "translation": "主日布道开始时，会众安静下来。",
+      "translated_word": "布道",
+      "display_order": 1
+    },
+    {
+      "sentence": "The most powerful sermon is a life well lived.",
+      "style": "Philosophical",
+      "translation": "最有力的布道，是活出美好的人生。",
+      "translated_word": "布道",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother always closed her eyes during the sermon, her lips moving in quiet prayer.",
+      "style": "Intimate",
+      "translation": "祖母听道时总是闭着眼，嘴唇轻轻翕动，默默祈祷。",
+      "translated_word": "道",
+      "display_order": 2
+    },
+    {
+      "sentence": "His voice wove through the sermon like light through stained glass.",
+      "style": "Poetic",
+      "translation": "他的声音在布道中流转，如光穿透彩窗。",
+      "translated_word": "布道",
+      "display_order": 3
+    }
+  ]
+}

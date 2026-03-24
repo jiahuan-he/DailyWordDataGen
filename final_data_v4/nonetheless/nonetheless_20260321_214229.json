@@ -1,0 +1,39 @@
+{
+  "word": "nonetheless",
+  "phonetic": "/ˌnʌnðəˈles/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "尽管如此；然而；仍然",
+  "examples": [
+    {
+      "sentence": "The data was incomplete; the researchers nonetheless published their findings.",
+      "style": "Formal",
+      "translation": "数据尚不完整，研究人员仍发表了他们的发现。",
+      "translated_word": "仍",
+      "display_order": 3
+    },
+    {
+      "sentence": "He knew the odds. He tried nonetheless.",
+      "style": "Contrastive",
+      "translation": "他深知胜算渺茫，却依然放手一试。",
+      "translated_word": "依然",
+      "display_order": 1
+    },
+    {
+      "sentence": "We build walls for safety, yet nonetheless long for someone to climb over.",
+      "style": "Philosophical",
+      "translation": "我们筑起高墙以求安全，却仍渴望有人翻越而来。",
+      "translated_word": "仍",
+      "display_order": 4
+    },
+    {
+      "sentence": "The world said no. She moved forward nonetheless.",
+      "style": "Inspirational",
+      "translation": "世界说不可能，她仍径直前行。",
+      "translated_word": "仍",
+      "display_order": 2
+    }
+  ]
+}

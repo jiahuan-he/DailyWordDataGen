@@ -1,0 +1,41 @@
+{
+  "word": "sneak",
+  "phonetic": "/sniːk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "偷偷地走；潜行；悄悄做",
+  "examples": [
+    {
+      "sentence": "He sneaked a glance at his phone during the lecture.",
+      "style": "Collocational",
+      "translation": "他在讲座间隙偷偷瞥了一眼手机。",
+      "translated_word": "偷偷",
+      "display_order": 3
+    },
+    {
+      "sentence": "As a child, I would sneak into my father's study just to smell the old books.",
+      "style": "Intimate",
+      "translation": "小时候，我常偷偷溜进父亲的书房，只为闻那旧书的气息。",
+      "translated_word": "溜",
+      "display_order": 1
+    },
+    {
+      "sentence": "Autumn sneaks in through the cracks, one cool breeze at a time.",
+      "style": "Poetic",
+      "translation": "秋意从缝隙间悄然潜入，一缕凉风，又一缕凉风。",
+      "translated_word": "潜入",
+      "display_order": 4
+    },
+    {
+      "sentence": "She sneaked out before the applause, uncomfortable with praise.",
+      "style": "Contextual",
+      "translation": "她在掌声响起前悄然离开，不习惯被赞美。",
+      "translated_word": "悄然",
+      "display_order": 2
+    }
+  ]
+}

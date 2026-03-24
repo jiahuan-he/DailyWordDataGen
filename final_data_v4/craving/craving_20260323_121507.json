@@ -1,0 +1,40 @@
+{
+  "word": "craving",
+  "phonetic": "/ˈkreɪvɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "渴望；强烈欲望；瘾",
+  "examples": [
+    {
+      "sentence": "The craving hit her at midnight: salty, crunchy, unreasonable.",
+      "style": "Contextual",
+      "translation": "午夜时分，那股馋劲突然袭来：想吃咸的、脆的，毫无道理可言。",
+      "translated_word": "馋劲",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every craving carries a question we refuse to ask.",
+      "style": "Philosophical",
+      "translation": "每一种渴望背后，都藏着一个我们不愿面对的问题。",
+      "translated_word": "渴望",
+      "display_order": 4
+    },
+    {
+      "sentence": "The ocean has a scent that stirs an old craving for elsewhere.",
+      "style": "Poetic",
+      "translation": "海风的气息，总能唤醒心底对远方的旧念。",
+      "translated_word": "旧念",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother's kitchen cured every craving before I could name it.",
+      "style": "Intimate",
+      "translation": "在我说出口之前，外婆的厨房早已治愈了我所有的馋。",
+      "translated_word": "馋",
+      "display_order": 2
+    }
+  ]
+}

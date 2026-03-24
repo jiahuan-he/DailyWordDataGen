@@ -1,0 +1,40 @@
+{
+  "word": "apposite",
+  "phonetic": "/ˈæpəzɪt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "恰当；切题；贴切",
+  "examples": [
+    {
+      "sentence": "Her remark was so apposite that everyone paused to consider it.",
+      "style": "Contextual",
+      "translation": "她的评论恰如其分，众人不禁陷入沉思。",
+      "translated_word": "恰如其分",
+      "display_order": 2
+    },
+    {
+      "sentence": "The ambassador's apposite response defused the tension immediately.",
+      "style": "Formal",
+      "translation": "大使的回应切中要害，紧张气氛顿时化解。",
+      "translated_word": "切中要害",
+      "display_order": 3
+    },
+    {
+      "sentence": "An apposite quotation can transform an ordinary speech.",
+      "style": "Collocational",
+      "translation": "一句贴切的引言，足以让平凡的演讲焕然一新。",
+      "translated_word": "贴切",
+      "display_order": 1
+    },
+    {
+      "sentence": "The most apposite words often arrive after the moment has passed.",
+      "style": "Philosophical",
+      "translation": "最恰当的话语，往往在时机过后才姗姗来迟。",
+      "translated_word": "恰当",
+      "display_order": 4
+    }
+  ]
+}

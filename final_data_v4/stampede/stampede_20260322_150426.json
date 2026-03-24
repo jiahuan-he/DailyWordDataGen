@@ -1,0 +1,40 @@
+{
+  "word": "stampede",
+  "phonetic": "/stæmˈpiːd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "惊逃；踩踏；蜂拥",
+  "examples": [
+    {
+      "sentence": "One gunshot, and the herd became a stampede.",
+      "style": "Contextual",
+      "translation": "一声枪响，牛群瞬间四散奔逃。",
+      "translated_word": "奔逃",
+      "display_order": 1
+    },
+    {
+      "sentence": "The festival stampede left dozens injured and prompted an immediate inquiry.",
+      "style": "Formal",
+      "translation": "节日踩踏事故造成数十人受伤，当局随即展开调查。",
+      "translated_word": "踩踏",
+      "display_order": 4
+    },
+    {
+      "sentence": "Black Friday always triggers a stampede at the store entrance.",
+      "style": "Collocational",
+      "translation": "黑色星期五总会在商店门口引发一阵蜂拥。",
+      "translated_word": "蜂拥",
+      "display_order": 3
+    },
+    {
+      "sentence": "Dust rose like a veil; somewhere beneath it, a stampede of wild horses.",
+      "style": "Poetic",
+      "translation": "尘烟如幕升腾，幕下是野马惊逃的洪流。",
+      "translated_word": "惊逃",
+      "display_order": 2
+    }
+  ]
+}

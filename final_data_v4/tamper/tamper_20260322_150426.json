@@ -1,0 +1,40 @@
+{
+  "word": "tamper",
+  "phonetic": "/ˈtæmpər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "篡改；擅自改动；干预",
+  "examples": [
+    {
+      "sentence": "Someone had tampered with the lock; the scratches were fresh.",
+      "style": "Contextual",
+      "translation": "有人动过这把锁；划痕是新的。",
+      "translated_word": "动过",
+      "display_order": 1
+    },
+    {
+      "sentence": "The investigation confirmed that key evidence had been tampered with.",
+      "style": "Formal",
+      "translation": "调查证实，关键证据曾遭篡改。",
+      "translated_word": "篡改",
+      "display_order": 2
+    },
+    {
+      "sentence": "Never tamper with the smoke detector, even when the beeping drives you mad.",
+      "style": "Collocational",
+      "translation": "即使烟雾探测器响得让人抓狂，也切勿擅自拆卸。",
+      "translated_word": "擅自拆卸",
+      "display_order": 3
+    },
+    {
+      "sentence": "We tamper with nature, then resent it for becoming unrecognizable.",
+      "style": "Philosophical",
+      "translation": "我们干预自然，却怨它面目全非。",
+      "translated_word": "干预",
+      "display_order": 4
+    }
+  ]
+}

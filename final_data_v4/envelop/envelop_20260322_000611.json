@@ -1,0 +1,39 @@
+{
+  "word": "envelop",
+  "phonetic": "/ɪnˈveləp/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "包围；笼罩；覆盖",
+  "examples": [
+    {
+      "sentence": "Fog enveloped the harbor; the boats became ghosts.",
+      "style": "Poetic",
+      "translation": "浓雾笼罩港湾，船只化作幽灵。",
+      "translated_word": "笼罩",
+      "display_order": 2
+    },
+    {
+      "sentence": "Darkness enveloped the city as the storm rolled in.",
+      "style": "Contextual",
+      "translation": "暴风雨来袭，黑暗将整座城市吞没。",
+      "translated_word": "吞没",
+      "display_order": 3
+    },
+    {
+      "sentence": "The scent of pine enveloped us as we entered the forest.",
+      "style": "Collocational",
+      "translation": "踏入森林，松香便将我们包围。",
+      "translated_word": "包围",
+      "display_order": 1
+    },
+    {
+      "sentence": "His voice enveloped me, and for a moment, I was home.",
+      "style": "Intimate",
+      "translation": "他的声音将我环绕，那一刻，我找到了归属。",
+      "translated_word": "环绕",
+      "display_order": 4
+    }
+  ]
+}

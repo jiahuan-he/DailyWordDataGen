@@ -1,0 +1,40 @@
+{
+  "word": "yummy",
+  "phonetic": "/ˈjʌmi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "美味的；好吃的；可口的",
+  "examples": [
+    {
+      "sentence": "The pie smelled so yummy that the kids rushed into the kitchen.",
+      "style": "Contextual",
+      "translation": "派的香气太诱人了，孩子们纷纷涌进厨房。",
+      "translated_word": "诱人",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her yummy homemade cookies vanished within minutes.",
+      "style": "Collocational",
+      "translation": "她自制的美味饼干几分钟内便被一扫而空。",
+      "translated_word": "美味",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every birthday, my father baked that same yummy carrot cake.",
+      "style": "Intimate",
+      "translation": "每年生日，父亲都会烤那款熟悉的胡萝卜蛋糕。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Sun-ripened peaches, yummy and fragrant, rest in the wooden bowl.",
+      "style": "Poetic",
+      "translation": "阳光催熟的蜜桃，甜美芬芳，静卧于木碗之中。",
+      "translated_word": "甜美",
+      "display_order": 3
+    }
+  ]
+}

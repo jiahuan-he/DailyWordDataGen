@@ -1,0 +1,41 @@
+{
+  "word": "proof",
+  "phonetic": "/pruːf/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "证据；证明；凭证",
+  "examples": [
+    {
+      "sentence": "Fingerprints on the glass were proof enough.",
+      "style": "Contextual",
+      "translation": "玻璃上的指纹便是铁证。",
+      "translated_word": "铁证",
+      "display_order": 2
+    },
+    {
+      "sentence": "The court required proof beyond reasonable doubt.",
+      "style": "Formal",
+      "translation": "法庭要求排除合理怀疑的证据。",
+      "translated_word": "证据",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sometimes silence is the only proof of understanding.",
+      "style": "Philosophical",
+      "translation": "有时沉默是理解唯一的证明。",
+      "translated_word": "证明",
+      "display_order": 4
+    },
+    {
+      "sentence": "She kept his last letter as proof that she had once been loved.",
+      "style": "Intimate",
+      "translation": "她留着他最后一封信，作为自己曾被深爱的凭证。",
+      "translated_word": "凭证",
+      "display_order": 3
+    }
+  ]
+}

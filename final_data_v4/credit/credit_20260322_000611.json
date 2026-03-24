@@ -1,0 +1,40 @@
+{
+  "word": "credit",
+  "phonetic": "/ˈkredɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "信用；功劳；学分；贷款",
+  "examples": [
+    {
+      "sentence": "The store refused her credit until she cleared her balance.",
+      "style": "Contextual",
+      "translation": "在她付清余额之前，商店拒绝赊账。",
+      "translated_word": "赊账",
+      "display_order": 3
+    },
+    {
+      "sentence": "The team received full credit for the breakthrough.",
+      "style": "Formal",
+      "translation": "团队因这一突破获得了全部荣誉。",
+      "translated_word": "荣誉",
+      "display_order": 1
+    },
+    {
+      "sentence": "Give credit where it's due.",
+      "style": "Collocational",
+      "translation": "功劳该给谁，就给谁。",
+      "translated_word": "功劳",
+      "display_order": 2
+    },
+    {
+      "sentence": "Credit is trust, quantified.",
+      "style": "Philosophical",
+      "translation": "信用，是被量化的信任。",
+      "translated_word": "信用",
+      "display_order": 4
+    }
+  ]
+}

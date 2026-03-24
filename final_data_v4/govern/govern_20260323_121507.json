@@ -1,0 +1,40 @@
+{
+  "word": "govern",
+  "phonetic": "/ˈɡʌvərn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "统治；管理；支配；约束",
+  "examples": [
+    {
+      "sentence": "The same rules govern all players, regardless of rank.",
+      "style": "Contextual",
+      "translation": "同样的规则约束着所有人，无论地位高低。",
+      "translated_word": "约束",
+      "display_order": 2
+    },
+    {
+      "sentence": "She will govern during a period of unprecedented change.",
+      "style": "Formal",
+      "translation": "她将在一个前所未有的变革时期执政。",
+      "translated_word": "执政",
+      "display_order": 1
+    },
+    {
+      "sentence": "Before governing others, learn to govern yourself.",
+      "style": "Philosophical",
+      "translation": "治人者，先治己。",
+      "translated_word": "治",
+      "display_order": 4
+    },
+    {
+      "sentence": "Simple principles govern every decision we make here.",
+      "style": "Collocational",
+      "translation": "简单的原则支配着我们在这里做出的每一个决定。",
+      "translated_word": "支配",
+      "display_order": 3
+    }
+  ]
+}

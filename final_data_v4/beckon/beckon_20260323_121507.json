@@ -1,0 +1,40 @@
+{
+  "word": "beckon",
+  "phonetic": "/ˈbekən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "招手；示意；召唤；吸引",
+  "examples": [
+    {
+      "sentence": "She beckoned from across the crowded room, and he understood.",
+      "style": "Contextual",
+      "translation": "她在拥挤的房间那头向他招手，他心领神会。",
+      "translated_word": "招手",
+      "display_order": 1
+    },
+    {
+      "sentence": "The open road beckons when the seasons turn.",
+      "style": "Poetic",
+      "translation": "季节更迭时，远方的路轻声召唤。",
+      "translated_word": "召唤",
+      "display_order": 3
+    },
+    {
+      "sentence": "What beckons us often reveals what we lack.",
+      "style": "Philosophical",
+      "translation": "吸引我们的事物，往往揭示了我们的匮乏。",
+      "translated_word": "吸引",
+      "display_order": 4
+    },
+    {
+      "sentence": "That small bookshop on the corner always beckoned me after school.",
+      "style": "Intimate",
+      "translation": "放学后，街角那家小书店总在向我招手。",
+      "translated_word": "招手",
+      "display_order": 2
+    }
+  ]
+}

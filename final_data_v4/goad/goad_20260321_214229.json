@@ -1,0 +1,40 @@
+{
+  "word": "goad",
+  "phonetic": "/ɡoʊd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "刺激；激怒；驱使",
+  "examples": [
+    {
+      "sentence": "His silence only goaded her to press harder.",
+      "style": "Contextual",
+      "translation": "他的沉默反而刺激她更加追问。",
+      "translated_word": "刺激",
+      "display_order": 1
+    },
+    {
+      "sentence": "Critics goaded the CEO into addressing the scandal publicly.",
+      "style": "Formal",
+      "translation": "批评者迫使首席执行官公开回应丑闻。",
+      "translated_word": "迫使",
+      "display_order": 4
+    },
+    {
+      "sentence": "The voice that goads us forward is often our own unfinished self.",
+      "style": "Philosophical",
+      "translation": "驱策我们前行的声音，往往是尚未完成的自己。",
+      "translated_word": "驱策",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father's quiet disappointment goaded me more than any lecture.",
+      "style": "Intimate",
+      "translation": "父亲无声的失望，比任何说教都更能激励我。",
+      "translated_word": "激励",
+      "display_order": 2
+    }
+  ]
+}

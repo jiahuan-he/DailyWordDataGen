@@ -1,0 +1,40 @@
+{
+  "word": "peery",
+  "phonetic": "/ˈpɪəri/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "多疑的；警觉的；窥探的",
+  "examples": [
+    {
+      "sentence": "The shopkeeper grew peery when the stranger kept circling the display case.",
+      "style": "Contextual",
+      "translation": "那陌生人不断在展柜旁徘徊，店主开始警觉起来。",
+      "translated_word": "警觉",
+      "display_order": 2
+    },
+    {
+      "sentence": "She cast a peery glance at the unopened letter.",
+      "style": "Collocational",
+      "translation": "她警惕地瞥了一眼那封未拆的信。",
+      "translated_word": "警惕",
+      "display_order": 1
+    },
+    {
+      "sentence": "His peery eyes held the caution of one who had trusted too easily before.",
+      "style": "Poetic",
+      "translation": "他多疑的目光里，藏着曾轻信他人者的谨慎。",
+      "translated_word": "多疑",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother was peery of easy compliments; she said kindness without cause often carried a price.",
+      "style": "Intimate",
+      "translation": "祖母对无端的夸赞总存戒心；她说无缘无故的好意往往是有代价的。",
+      "translated_word": "戒心",
+      "display_order": 4
+    }
+  ]
+}

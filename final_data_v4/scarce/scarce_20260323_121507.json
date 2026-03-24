@@ -1,0 +1,40 @@
+{
+  "word": "scarce",
+  "phonetic": "/skeəs/",
+  "pos": [
+    "adjective",
+    "adverb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "稀缺的；稀少的；罕见的",
+  "examples": [
+    {
+      "sentence": "Water grew scarce as the drought entered its third month.",
+      "style": "Contextual",
+      "translation": "干旱进入第三个月，水源日渐稀缺。",
+      "translated_word": "稀缺",
+      "display_order": 1
+    },
+    {
+      "sentence": "Affordable housing remains scarce in major cities worldwide.",
+      "style": "Formal",
+      "translation": "在全球各大城市，经济适用房依然稀缺。",
+      "translated_word": "稀缺",
+      "display_order": 2
+    },
+    {
+      "sentence": "We treasure what is scarce and overlook what is abundant.",
+      "style": "Philosophical",
+      "translation": "稀缺之物，我们珍视；丰足之物，我们忽视。",
+      "translated_word": "稀缺",
+      "display_order": 4
+    },
+    {
+      "sentence": "Time with her children felt scarce, so she guarded every weekend.",
+      "style": "Intimate",
+      "translation": "陪伴孩子的时间太少，她把每个周末都看得无比珍贵。",
+      "translated_word": "太少",
+      "display_order": 3
+    }
+  ]
+}

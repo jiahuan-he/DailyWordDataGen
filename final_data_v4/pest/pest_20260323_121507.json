@@ -1,0 +1,39 @@
+{
+  "word": "pest",
+  "phonetic": "/pest/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "害虫；害兽；讨厌鬼",
+  "examples": [
+    {
+      "sentence": "Aphids had become the garden's most stubborn pest.",
+      "style": "Contextual",
+      "translation": "蚜虫成了花园里最顽固的害虫。",
+      "translated_word": "害虫",
+      "display_order": 1
+    },
+    {
+      "sentence": "We called pest control after finding droppings in the pantry.",
+      "style": "Collocational",
+      "translation": "在储藏室发现粪便后，我们叫了灭虫公司。",
+      "translated_word": "虫",
+      "display_order": 3
+    },
+    {
+      "sentence": "The county declared a state of emergency as the locust pest spread.",
+      "style": "Formal",
+      "translation": "蝗灾蔓延，该县宣布进入紧急状态。",
+      "translated_word": "灾",
+      "display_order": 4
+    },
+    {
+      "sentence": "My little sister was such a pest, always barging in during my phone calls.",
+      "style": "Intimate",
+      "translation": "我妹妹真是个小烦人精，每次我打电话她都要闯进来。",
+      "translated_word": "烦人精",
+      "display_order": 2
+    }
+  ]
+}

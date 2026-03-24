@@ -1,0 +1,40 @@
+{
+  "word": "gallop",
+  "phonetic": "/ˈɡæləp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "飞奔；疾驰；飞速进行",
+  "examples": [
+    {
+      "sentence": "Wild horses gallop through the morning mist, hooves barely touching the earth.",
+      "style": "Poetic",
+      "translation": "野马在晨雾中飞奔，马蹄轻盈如踏虚空。",
+      "translated_word": "飞奔",
+      "display_order": 1
+    },
+    {
+      "sentence": "The children galloped across the yard, waving invisible swords.",
+      "style": "Contextual",
+      "translation": "孩子们挥舞着无形的剑，在院子里飞奔。",
+      "translated_word": "飞奔",
+      "display_order": 2
+    },
+    {
+      "sentence": "Rumors galloped through the office faster than any email could.",
+      "style": "Collocational",
+      "translation": "流言在办公室里蔓延的速度，比任何邮件都快。",
+      "translated_word": "蔓延",
+      "display_order": 4
+    },
+    {
+      "sentence": "My heart galloped the moment she walked into the room.",
+      "style": "Intimate",
+      "translation": "她走进房间的那一刻，我的心狂跳不止。",
+      "translated_word": "狂跳",
+      "display_order": 3
+    }
+  ]
+}

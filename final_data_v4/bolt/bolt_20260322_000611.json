@@ -1,0 +1,41 @@
+{
+  "word": "bolt",
+  "phonetic": "/boʊlt/",
+  "pos": [
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "螺栓；闪电；门闩",
+  "examples": [
+    {
+      "sentence": "The mechanic tightened each bolt before the final inspection.",
+      "style": "Contextual",
+      "translation": "技师在最后检查前拧紧了每一颗螺栓。",
+      "translated_word": "螺栓",
+      "display_order": 2
+    },
+    {
+      "sentence": "A bolt of lightning cracked across the evening sky.",
+      "style": "Collocational",
+      "translation": "一道闪电划破傍晚的天空。",
+      "translated_word": "闪电",
+      "display_order": 1
+    },
+    {
+      "sentence": "The bolt wrote fire across the clouds, then silence.",
+      "style": "Poetic",
+      "translation": "闪电在云间写下火焰，随后归于沉寂。",
+      "translated_word": "闪电",
+      "display_order": 4
+    },
+    {
+      "sentence": "As children, we counted seconds between the bolt and the thunder.",
+      "style": "Intimate",
+      "translation": "儿时，我们总数着闪电与雷声之间的秒数。",
+      "translated_word": "闪电",
+      "display_order": 3
+    }
+  ]
+}

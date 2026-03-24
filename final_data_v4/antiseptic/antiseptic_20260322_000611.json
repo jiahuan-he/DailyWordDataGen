@@ -1,0 +1,40 @@
+{
+  "word": "antiseptic",
+  "phonetic": "/ˌæntɪˈseptɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "抗菌的；消毒的；冷淡乏味的",
+  "examples": [
+    {
+      "sentence": "She dabbed antiseptic solution on the scrape before reaching for a bandage.",
+      "style": "Contextual",
+      "translation": "她在擦伤处涂上消毒液，然后取出绷带。",
+      "translated_word": "消毒",
+      "display_order": 1
+    },
+    {
+      "sentence": "The surgical ward maintains strict antiseptic protocols to minimize infection risk.",
+      "style": "Formal",
+      "translation": "手术病房严格执行消毒规程，以降低感染风险。",
+      "translated_word": "消毒",
+      "display_order": 3
+    },
+    {
+      "sentence": "The antiseptic smell of the clinic brought back childhood memories.",
+      "style": "Collocational",
+      "translation": "诊所的消毒水味勾起了童年的记忆。",
+      "translated_word": "消毒水",
+      "display_order": 2
+    },
+    {
+      "sentence": "Their home was spotless but antiseptic; mine was cluttered but alive.",
+      "style": "Contrastive",
+      "translation": "他们的家一尘不染却冷淡乏味；我的家虽凌乱却充满生气。",
+      "translated_word": "冷淡乏味",
+      "display_order": 4
+    }
+  ]
+}

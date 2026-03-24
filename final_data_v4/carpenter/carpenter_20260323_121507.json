@@ -1,0 +1,40 @@
+{
+  "word": "carpenter",
+  "phonetic": "/ˈkɑːrpəntər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "木匠；木工",
+  "examples": [
+    {
+      "sentence": "The carpenter ran his hand along the grain, checking for imperfections.",
+      "style": "Contextual",
+      "translation": "木匠用手沿着木纹抚过，检查是否有瑕疵。",
+      "translated_word": "木匠",
+      "display_order": 1
+    },
+    {
+      "sentence": "A skilled carpenter can transform raw lumber into heirlooms.",
+      "style": "Collocational",
+      "translation": "一位技艺精湛的木匠能将原木化为传家之宝。",
+      "translated_word": "木匠",
+      "display_order": 4
+    },
+    {
+      "sentence": "The carpenter builds what the architect can only imagine.",
+      "style": "Philosophical",
+      "translation": "建筑师止于构想，木匠却能将其化为现实。",
+      "translated_word": "木匠",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather was a carpenter; his hands told stories his voice never did.",
+      "style": "Intimate",
+      "translation": "我的祖父是个木匠；他的双手诉说着他从未言说的故事。",
+      "translated_word": "木匠",
+      "display_order": 2
+    }
+  ]
+}

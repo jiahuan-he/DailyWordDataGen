@@ -1,0 +1,41 @@
+{
+  "word": "cosy",
+  "phonetic": "/ˈkəʊzi/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "舒适的；温馨的；惬意的",
+  "examples": [
+    {
+      "sentence": "The cafe was small but cosy, with soft lighting and worn leather chairs.",
+      "style": "Contextual",
+      "translation": "咖啡馆不大，却很温馨，柔和的灯光映着磨旧的皮椅。",
+      "translated_word": "温馨",
+      "display_order": 1
+    },
+    {
+      "sentence": "She curled up in a cosy corner with her book and tea.",
+      "style": "Collocational",
+      "translation": "她蜷在一个舒适的角落，捧着书，啜着茶。",
+      "translated_word": "舒适",
+      "display_order": 3
+    },
+    {
+      "sentence": "Winter arrived, and the house folded into its cosy silence.",
+      "style": "Poetic",
+      "translation": "冬日来临，老屋便收拢成一团温软的静谧。",
+      "translated_word": "温软",
+      "display_order": 4
+    },
+    {
+      "sentence": "Our kitchen is tiny, but it feels cosy when we cook together.",
+      "style": "Intimate",
+      "translation": "我们的厨房很小，但一起做饭时，便觉得格外温馨。",
+      "translated_word": "温馨",
+      "display_order": 2
+    }
+  ]
+}

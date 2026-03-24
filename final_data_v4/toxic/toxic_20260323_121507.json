@@ -1,0 +1,39 @@
+{
+  "word": "toxic",
+  "phonetic": "/ˈtɑːksɪk/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有毒的；有害的；负面的",
+  "examples": [
+    {
+      "sentence": "The spill was labeled toxic; the building emptied in minutes.",
+      "style": "Contextual",
+      "translation": "泄漏物被标记为有毒；整栋楼在几分钟内撤离一空。",
+      "translated_word": "有毒",
+      "display_order": 1
+    },
+    {
+      "sentence": "A toxic workplace drains your passion before your paycheck.",
+      "style": "Collocational",
+      "translation": "一个有毒的职场会在耗尽薪水之前，先耗尽你的热情。",
+      "translated_word": "有毒",
+      "display_order": 3
+    },
+    {
+      "sentence": "Familiar harm feels safer than unfamiliar freedom; this is how toxic bonds survive.",
+      "style": "Philosophical",
+      "translation": "熟悉的伤害比陌生的自由更令人安心；有害的关系正是如此存续。",
+      "translated_word": "有害",
+      "display_order": 4
+    },
+    {
+      "sentence": "Ending that toxic friendship felt like grief and relief, intertwined.",
+      "style": "Intimate",
+      "translation": "结束那段有毒的友谊，像是悲伤与释然交织在一起。",
+      "translated_word": "有毒",
+      "display_order": 2
+    }
+  ]
+}

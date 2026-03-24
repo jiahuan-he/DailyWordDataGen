@@ -1,0 +1,39 @@
+{
+  "word": "constrain",
+  "phonetic": "/kənˈstreɪn/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "限制；约束；束缚；抑制",
+  "examples": [
+    {
+      "sentence": "The tight deadline constrained the team to a single solution.",
+      "style": "Contextual",
+      "translation": "紧迫的截止日期迫使团队只能选择唯一的方案。",
+      "translated_word": "迫使",
+      "display_order": 2
+    },
+    {
+      "sentence": "Environmental policies constrain industrial emissions to sustainable levels.",
+      "style": "Formal",
+      "translation": "环境政策将工业排放限制在可持续水平。",
+      "translated_word": "限制",
+      "display_order": 1
+    },
+    {
+      "sentence": "What constrains us often shapes us.",
+      "style": "Philosophical",
+      "translation": "束缚我们的，往往也在塑造我们。",
+      "translated_word": "束缚",
+      "display_order": 4
+    },
+    {
+      "sentence": "For years, fear of failure constrained my ambitions to safe, small dreams.",
+      "style": "Intimate",
+      "translation": "多年来，对失败的恐惧将我的抱负局限在安全而渺小的梦想里。",
+      "translated_word": "局限",
+      "display_order": 3
+    }
+  ]
+}

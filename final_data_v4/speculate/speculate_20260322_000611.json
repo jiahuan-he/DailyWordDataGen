@@ -1,0 +1,39 @@
+{
+  "word": "speculate",
+  "phonetic": "/ˈspekjəleɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "推测；猜想；投机",
+  "examples": [
+    {
+      "sentence": "Without concrete evidence, we can only speculate.",
+      "style": "Contextual",
+      "translation": "没有确凿的证据，我们只能推测。",
+      "translated_word": "推测",
+      "display_order": 1
+    },
+    {
+      "sentence": "Analysts speculate that interest rates will rise by year's end.",
+      "style": "Formal",
+      "translation": "分析人士推测，利率将在年底前上调。",
+      "translated_word": "推测",
+      "display_order": 2
+    },
+    {
+      "sentence": "To speculate is human; to know is rare.",
+      "style": "Philosophical",
+      "translation": "猜测是人之常情；确知则弥足珍贵。",
+      "translated_word": "猜测",
+      "display_order": 3
+    },
+    {
+      "sentence": "Those who speculate on volatile markets often learn expensive lessons.",
+      "style": "Collocational",
+      "translation": "在动荡的市场中投机的人，往往要付出昂贵的代价。",
+      "translated_word": "投机",
+      "display_order": 4
+    }
+  ]
+}

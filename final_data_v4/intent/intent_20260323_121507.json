@@ -1,0 +1,40 @@
+{
+  "word": "intent",
+  "phonetic": "/ɪnˈtent/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "意图；目的；意向",
+  "examples": [
+    {
+      "sentence": "His intent was clear from the start: to win, not to compete.",
+      "style": "Contextual",
+      "translation": "他的意图从一开始就很明确：是为了赢，而非仅仅参与。",
+      "translated_word": "意图",
+      "display_order": 1
+    },
+    {
+      "sentence": "The court must establish criminal intent before issuing a verdict.",
+      "style": "Formal",
+      "translation": "法院必须在作出判决前确认犯罪意图。",
+      "translated_word": "意图",
+      "display_order": 3
+    },
+    {
+      "sentence": "She walked in with the intent of apologizing, but the words never came.",
+      "style": "Collocational",
+      "translation": "她走进来本想道歉，话却始终没能出口。",
+      "translated_word": "本想",
+      "display_order": 2
+    },
+    {
+      "sentence": "Action reveals intent; words only decorate it.",
+      "style": "Philosophical",
+      "translation": "行动揭示意图；言语不过是修饰。",
+      "translated_word": "意图",
+      "display_order": 4
+    }
+  ]
+}

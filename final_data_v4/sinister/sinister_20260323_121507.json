@@ -1,0 +1,39 @@
+{
+  "word": "sinister",
+  "phonetic": "/ˈsɪnɪstər/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "邪恶的；阴险的；不祥的",
+  "examples": [
+    {
+      "sentence": "His sinister smile made the room fall silent.",
+      "style": "Contextual",
+      "translation": "他阴险的微笑让整个房间陷入沉默。",
+      "translated_word": "阴险",
+      "display_order": 1
+    },
+    {
+      "sentence": "Fog crept through the alley, sinister and slow, swallowing every sound.",
+      "style": "Poetic",
+      "translation": "浓雾缓缓潜入小巷，阴森而迟滞，吞没了一切声响。",
+      "translated_word": "阴森",
+      "display_order": 3
+    },
+    {
+      "sentence": "Investigators uncovered a sinister plot to manipulate election results.",
+      "style": "Formal",
+      "translation": "调查人员揭露了一个操纵选举结果的邪恶阴谋。",
+      "translated_word": "邪恶",
+      "display_order": 2
+    },
+    {
+      "sentence": "Something sinister hid behind his kindness; I sensed it before I could name it.",
+      "style": "Intimate",
+      "translation": "他的善意背后藏着某种不祥；我在说出口之前就已感受到了。",
+      "translated_word": "不祥",
+      "display_order": 4
+    }
+  ]
+}

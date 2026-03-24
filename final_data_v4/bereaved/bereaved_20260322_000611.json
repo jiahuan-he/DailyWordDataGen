@@ -1,0 +1,40 @@
+{
+  "word": "bereaved",
+  "phonetic": "/bɪˈriːvd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "丧亲的；痛失亲人的；悲恸的",
+  "examples": [
+    {
+      "sentence": "The bereaved father kept setting a place at the dinner table for months.",
+      "style": "Contextual",
+      "translation": "那位丧子的父亲在餐桌上多摆了一副碗筷，一摆就是好几个月。",
+      "translated_word": "丧子",
+      "display_order": 2
+    },
+    {
+      "sentence": "The hospital provides dedicated counselors for bereaved families.",
+      "style": "Formal",
+      "translation": "医院为丧亲家属提供专门的心理辅导服务。",
+      "translated_word": "丧亲",
+      "display_order": 1
+    },
+    {
+      "sentence": "Even the piano sounds bereaved without her fingers.",
+      "style": "Poetic",
+      "translation": "没有她的手指，连钢琴的声音都带着悲恸。",
+      "translated_word": "悲恸",
+      "display_order": 4
+    },
+    {
+      "sentence": "Two winters bereaved, my mother finally smiled at his photograph.",
+      "style": "Intimate",
+      "translation": "父亲走后的第二个冬天，母亲终于对着他的照片露出了笑容。",
+      "translated_word": null,
+      "display_order": 3
+    }
+  ]
+}

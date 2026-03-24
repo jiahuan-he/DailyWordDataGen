@@ -1,0 +1,40 @@
+{
+  "word": "penthouse",
+  "phonetic": "/ˈpenthaʊs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "顶层公寓；豪华套房；阁楼",
+  "examples": [
+    {
+      "sentence": "The elevator opened directly into the penthouse, revealing floor-to-ceiling glass and an endless skyline.",
+      "style": "Contextual",
+      "translation": "电梯直达顶层公寓，落地玻璃窗外是无尽的天际线。",
+      "translated_word": "顶层公寓",
+      "display_order": 1
+    },
+    {
+      "sentence": "They booked the penthouse suite for their tenth anniversary.",
+      "style": "Collocational",
+      "translation": "他们为结婚十周年预订了顶层套房。",
+      "translated_word": "顶层套房",
+      "display_order": 2
+    },
+    {
+      "sentence": "From a penthouse, every struggle below looks distant; perhaps that's both the appeal and the danger.",
+      "style": "Philosophical",
+      "translation": "从顶层俯瞰，脚下的挣扎都显得遥远；这或许既是诱惑，也是危险。",
+      "translated_word": "顶层",
+      "display_order": 4
+    },
+    {
+      "sentence": "We toured the penthouse in silence, knowing we couldn't afford it, yet unwilling to leave.",
+      "style": "Intimate",
+      "translation": "我们默默地参观那间顶层公寓，明知买不起，却迟迟不愿离去。",
+      "translated_word": "顶层公寓",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "hostile",
+  "phonetic": "/ˈhɑːstaɪl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "敌对的；怀有敌意的；不友好的",
+  "examples": [
+    {
+      "sentence": "No one spoke to the new manager; the atmosphere was hostile from day one.",
+      "style": "Contextual",
+      "translation": "没人与新经理交谈；从第一天起，气氛就充满敌意。",
+      "translated_word": "敌意",
+      "display_order": 2
+    },
+    {
+      "sentence": "Shareholders voted unanimously to reject the hostile takeover bid.",
+      "style": "Formal",
+      "translation": "股东一致投票否决了这次恶意收购。",
+      "translated_word": "恶意",
+      "display_order": 3
+    },
+    {
+      "sentence": "We grow hostile toward what we refuse to understand.",
+      "style": "Philosophical",
+      "translation": "对于拒绝理解的事物，我们会心生敌意。",
+      "translated_word": "敌意",
+      "display_order": 4
+    },
+    {
+      "sentence": "The moment I disagreed, his eyes turned cold and hostile.",
+      "style": "Intimate",
+      "translation": "我一表示异议，他的目光便变得冷漠而充满敌意。",
+      "translated_word": "敌意",
+      "display_order": 1
+    }
+  ]
+}

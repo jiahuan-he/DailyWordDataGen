@@ -1,0 +1,40 @@
+{
+  "word": "exit",
+  "phonetic": "/ˈeksɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "出口；离开；退场",
+  "examples": [
+    {
+      "sentence": "Follow the green signs to find the nearest exit.",
+      "style": "Contextual",
+      "translation": "沿绿色标志找到最近的出口。",
+      "translated_word": "出口",
+      "display_order": 1
+    },
+    {
+      "sentence": "The firm announced its exit from the European market.",
+      "style": "Formal",
+      "translation": "该公司宣布退出欧洲市场。",
+      "translated_word": "退出",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every exit is an entrance elsewhere.",
+      "style": "Philosophical",
+      "translation": "每一个出口，都是另一处入口。",
+      "translated_word": "出口",
+      "display_order": 4
+    },
+    {
+      "sentence": "The exit sign flickered, a red heartbeat in the dark theater.",
+      "style": "Poetic",
+      "translation": "出口灯牌在黑暗的剧院里闪烁，是暗夜中的一抹心跳。",
+      "translated_word": "出口",
+      "display_order": 2
+    }
+  ]
+}

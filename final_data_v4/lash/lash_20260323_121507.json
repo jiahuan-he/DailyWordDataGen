@@ -1,0 +1,41 @@
+{
+  "word": "lash",
+  "phonetic": "/læʃ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "鞭打；猛烈拍打；捆绑；抨击",
+  "examples": [
+    {
+      "sentence": "Rain lashed the windows all night.",
+      "style": "Contextual",
+      "translation": "雨整夜猛烈地拍打着窗户。",
+      "translated_word": "拍打",
+      "display_order": 1
+    },
+    {
+      "sentence": "The sea lashed the cliffs, carving time into stone.",
+      "style": "Poetic",
+      "translation": "海浪鞭打着悬崖，将时光刻入岩石。",
+      "translated_word": "鞭打",
+      "display_order": 2
+    },
+    {
+      "sentence": "Critics lashed the proposal as reckless and short-sighted.",
+      "style": "Formal",
+      "translation": "批评人士猛烈抨击该提案，称其鲁莽且目光短浅。",
+      "translated_word": "抨击",
+      "display_order": 3
+    },
+    {
+      "sentence": "He lashed out in frustration, then fell silent with shame.",
+      "style": "Collocational",
+      "translation": "他愤然发作，随即羞愧地沉默了。",
+      "translated_word": "发作",
+      "display_order": 4
+    }
+  ]
+}

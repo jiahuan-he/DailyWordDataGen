@@ -1,0 +1,40 @@
+{
+  "word": "cryptic",
+  "phonetic": "/ˈkrɪptɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "神秘的；隐晦的；费解的",
+  "examples": [
+    {
+      "sentence": "Her reply was cryptic: just a single question mark.",
+      "style": "Contextual",
+      "translation": "她的回复很隐晦：只有一个问号。",
+      "translated_word": "隐晦",
+      "display_order": 1
+    },
+    {
+      "sentence": "The official's cryptic remarks fueled speculation across the industry.",
+      "style": "Formal",
+      "translation": "官员隐晦的言论在业界引发了诸多猜测。",
+      "translated_word": "隐晦",
+      "display_order": 3
+    },
+    {
+      "sentence": "Stars spell cryptic verses only the sleepless can decipher.",
+      "style": "Poetic",
+      "translation": "星辰写下神秘的诗句，唯有失眠者能解读。",
+      "translated_word": "神秘",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father's advice always sounded cryptic until life made it clear.",
+      "style": "Intimate",
+      "translation": "父亲的忠告总是听起来费解，直到生活让我明白。",
+      "translated_word": "费解",
+      "display_order": 2
+    }
+  ]
+}

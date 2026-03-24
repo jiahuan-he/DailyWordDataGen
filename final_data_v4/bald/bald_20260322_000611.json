@@ -1,0 +1,41 @@
+{
+  "word": "bald",
+  "phonetic": "/bɔːld/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "秃的；光秃的；直白的",
+  "examples": [
+    {
+      "sentence": "He went bald young, so he learned to own the look early.",
+      "style": "Contextual",
+      "translation": "他年纪轻轻就秃了，于是早早学会了坦然接受。",
+      "translated_word": "秃",
+      "display_order": 1
+    },
+    {
+      "sentence": "The report offered a bald summary: profits down, morale lower.",
+      "style": "Collocational",
+      "translation": "报告给出了直白的总结：利润下滑，士气更低。",
+      "translated_word": "直白的",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father went bald at thirty; now I trace the same thinning at my temples.",
+      "style": "Intimate",
+      "translation": "父亲三十岁就秃了顶，如今我在鬓角也发现了同样的稀疏。",
+      "translated_word": "秃",
+      "display_order": 2
+    },
+    {
+      "sentence": "A bald truth needs no decoration to be understood.",
+      "style": "Philosophical",
+      "translation": "直白的真相无需修饰，便能被理解。",
+      "translated_word": "直白的",
+      "display_order": 4
+    }
+  ]
+}

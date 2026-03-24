@@ -1,0 +1,40 @@
+{
+  "word": "namesake",
+  "phonetic": "/ˈneɪmseɪk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "同名者；得名者",
+  "examples": [
+    {
+      "sentence": "Chef Marco, the restaurant's namesake, still visits every Sunday.",
+      "style": "Contextual",
+      "translation": "马可主厨是这家餐厅的命名者，至今仍每周日到访。",
+      "translated_word": "命名者",
+      "display_order": 1
+    },
+    {
+      "sentence": "The foundation's namesake was honored posthumously at last night's gala.",
+      "style": "Formal",
+      "translation": "该基金会的命名者在昨晚的晚宴上获追授荣誉。",
+      "translated_word": "命名者",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every namesake carries forward a story already begun.",
+      "style": "Philosophical",
+      "translation": "每一个承名者，都在延续一个早已开始的故事。",
+      "translated_word": "承名者",
+      "display_order": 4
+    },
+    {
+      "sentence": "My daughter, her grandmother's namesake, sometimes wears that same stubborn smile.",
+      "style": "Intimate",
+      "translation": "女儿继承了祖母的名字，有时也会露出同样倔强的微笑。",
+      "translated_word": null,
+      "display_order": 2
+    }
+  ]
+}

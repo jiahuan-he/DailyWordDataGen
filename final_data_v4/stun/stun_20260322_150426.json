@@ -1,0 +1,40 @@
+{
+  "word": "stun",
+  "phonetic": "/stʌn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使震惊；使惊愕；击晕",
+  "examples": [
+    {
+      "sentence": "The sudden resignation stunned the entire department.",
+      "style": "Contextual",
+      "translation": "突如其来的辞职让整个部门震惊不已。",
+      "translated_word": "震惊",
+      "display_order": 1
+    },
+    {
+      "sentence": "Autumn light stunned the lake into silence.",
+      "style": "Poetic",
+      "translation": "秋光倾泻，湖面惊艳成一片静默。",
+      "translated_word": "惊艳",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her quiet forgiveness stunned me more than anger ever could.",
+      "style": "Intimate",
+      "translation": "她平静的原谅比任何愤怒都更让我震撼。",
+      "translated_word": "震撼",
+      "display_order": 2
+    },
+    {
+      "sentence": "The ruling stunned legal experts and market analysts alike.",
+      "style": "Formal",
+      "translation": "这一裁决令法律专家与市场分析师皆为之震惊。",
+      "translated_word": "震惊",
+      "display_order": 3
+    }
+  ]
+}

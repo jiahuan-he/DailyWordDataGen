@@ -1,0 +1,40 @@
+{
+  "word": "racing",
+  "phonetic": "/ˈreɪsɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "赛车；竞速运动；赛跑",
+  "examples": [
+    {
+      "sentence": "The racing begins at dawn, when the track is still cool.",
+      "style": "Contextual",
+      "translation": "比赛在黎明开始，那时赛道尚未升温。",
+      "translated_word": "比赛",
+      "display_order": 1
+    },
+    {
+      "sentence": "International racing regulations now mandate stricter safety protocols.",
+      "style": "Formal",
+      "translation": "国际赛车条例现已强制实施更严格的安全规程。",
+      "translated_word": "赛车",
+      "display_order": 4
+    },
+    {
+      "sentence": "There is music in racing: the roar of engines, the hush before the start.",
+      "style": "Poetic",
+      "translation": "赛车自有韵律：引擎的轰鸣，起跑前的静默。",
+      "translated_word": "赛车",
+      "display_order": 3
+    },
+    {
+      "sentence": "Horse racing remains one of the world's oldest competitive sports.",
+      "style": "Collocational",
+      "translation": "赛马至今仍是世界上最古老的竞技运动之一。",
+      "translated_word": "赛马",
+      "display_order": 2
+    }
+  ]
+}

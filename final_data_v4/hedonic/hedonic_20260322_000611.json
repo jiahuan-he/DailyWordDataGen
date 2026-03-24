@@ -1,0 +1,39 @@
+{
+  "word": "hedonic",
+  "phonetic": "/hiˈdɒnɪk/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "享乐的；感官愉悦的；快感的",
+  "examples": [
+    {
+      "sentence": "The hedonic pleasure of chocolate fades; the joy of creating lingers.",
+      "style": "Contrastive",
+      "translation": "巧克力带来的感官愉悦转瞬即逝，而创造的喜悦却绵延不绝。",
+      "translated_word": "感官",
+      "display_order": 2
+    },
+    {
+      "sentence": "Psychologists distinguish hedonic well-being from a deeper sense of purpose.",
+      "style": "Contextual",
+      "translation": "心理学家将享乐型幸福与更深层的意义感区分开来。",
+      "translated_word": "享乐型",
+      "display_order": 1
+    },
+    {
+      "sentence": "We chase hedonic highs, forgetting that stillness holds its own sweetness.",
+      "style": "Philosophical",
+      "translation": "我们追逐感官的巅峰，却忘了静谧本身亦有其甘美。",
+      "translated_word": "感官",
+      "display_order": 3
+    },
+    {
+      "sentence": "Summer rain on bare skin: a hedonic gift the city rarely offers.",
+      "style": "Poetic",
+      "translation": "夏雨落在裸露的肌肤上：这是城市难得馈赠的感官之礼。",
+      "translated_word": "感官",
+      "display_order": 4
+    }
+  ]
+}

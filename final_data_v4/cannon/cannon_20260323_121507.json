@@ -1,0 +1,40 @@
+{
+  "word": "cannon",
+  "phonetic": "/ˈkænən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "大炮；加农炮；火炮",
+  "examples": [
+    {
+      "sentence": "The old cannon on the hill still points toward the sea.",
+      "style": "Contextual",
+      "translation": "山丘上那门老炮，炮口依然朝向大海。",
+      "translated_word": "炮",
+      "display_order": 2
+    },
+    {
+      "sentence": "Archaeologists uncovered a bronze cannon from the 16th-century shipwreck.",
+      "style": "Formal",
+      "translation": "考古学家从十六世纪的沉船中发掘出一门青铜大炮。",
+      "translated_word": "大炮",
+      "display_order": 1
+    },
+    {
+      "sentence": "Cannon fire echoed across the valley as dawn broke.",
+      "style": "Collocational",
+      "translation": "破晓时分，炮火声回荡山谷。",
+      "translated_word": "炮",
+      "display_order": 3
+    },
+    {
+      "sentence": "Rust now silences the cannon that once shook the earth.",
+      "style": "Poetic",
+      "translation": "锈迹封缄了那门曾撼动大地的炮。",
+      "translated_word": "炮",
+      "display_order": 4
+    }
+  ]
+}

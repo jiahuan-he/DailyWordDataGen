@@ -1,0 +1,40 @@
+{
+  "word": "ambush",
+  "phonetic": "/ˈæm.bʊʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "埋伏；伏击；伏兵",
+  "examples": [
+    {
+      "sentence": "The convoy rolled straight into an ambush.",
+      "style": "Contextual",
+      "translation": "车队径直驶入了埋伏圈。",
+      "translated_word": "埋伏",
+      "display_order": 2
+    },
+    {
+      "sentence": "Two soldiers were killed in a predawn ambush near the border.",
+      "style": "Formal",
+      "translation": "两名士兵在边境附近的黎明伏击中丧生。",
+      "translated_word": "伏击",
+      "display_order": 3
+    },
+    {
+      "sentence": "They laid an ambush at the river crossing.",
+      "style": "Collocational",
+      "translation": "他们在渡口设下埋伏。",
+      "translated_word": "埋伏",
+      "display_order": 1
+    },
+    {
+      "sentence": "The fog lifted, revealing an ambush dressed in silence.",
+      "style": "Poetic",
+      "translation": "浓雾散去，一场以静默伪装的伏击显露无遗。",
+      "translated_word": "伏击",
+      "display_order": 4
+    }
+  ]
+}

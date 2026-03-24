@@ -1,0 +1,39 @@
+{
+  "word": "descry",
+  "phonetic": "/dɪˈskraɪ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "望见；辨认出；发现",
+  "examples": [
+    {
+      "sentence": "Through the morning mist, she descried the faint outline of a ship.",
+      "style": "Poetic",
+      "translation": "透过晨雾，她望见了一艘船隐约的轮廓。",
+      "translated_word": "望见",
+      "display_order": 1
+    },
+    {
+      "sentence": "From the hilltop, we could barely descry the village below.",
+      "style": "Contextual",
+      "translation": "从山顶望去，我们勉强能辨认出山下的村庄。",
+      "translated_word": "辨认出",
+      "display_order": 3
+    },
+    {
+      "sentence": "The lookout descried enemy forces advancing from the north.",
+      "style": "Formal",
+      "translation": "瞭望员发现敌军正从北方逼近。",
+      "translated_word": "发现",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some truths can only be descried from a distance.",
+      "style": "Philosophical",
+      "translation": "有些真相，唯有拉开距离方能看清。",
+      "translated_word": "看清",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "energize",
+  "phonetic": "/ˈenərˌdʒaɪz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "激励；使充满活力；激活",
+  "examples": [
+    {
+      "sentence": "A brisk morning walk energizes me more than any cup of coffee.",
+      "style": "Contextual",
+      "translation": "清晨的快步走，比任何咖啡都更能唤醒我。",
+      "translated_word": "唤醒",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her keynote energized the crowd before the product launch.",
+      "style": "Collocational",
+      "translation": "她的主题演讲在产品发布前点燃了全场。",
+      "translated_word": "点燃",
+      "display_order": 3
+    },
+    {
+      "sentence": "Find what energizes you; let it shape your days.",
+      "style": "Inspirational",
+      "translation": "找到激励你的源泉，让它塑造你的每一天。",
+      "translated_word": "激励",
+      "display_order": 4
+    },
+    {
+      "sentence": "Cooking for my family energizes me after the longest workdays.",
+      "style": "Intimate",
+      "translation": "为家人下厨，是漫长工作后最能让我恢复元气的事。",
+      "translated_word": "恢复元气",
+      "display_order": 2
+    }
+  ]
+}

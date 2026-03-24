@@ -1,0 +1,39 @@
+{
+  "word": "stagnant",
+  "phonetic": "/ˈstæɡnənt/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "停滞的；不流动的；死气沉沉的",
+  "examples": [
+    {
+      "sentence": "The pond had grown stagnant, its surface thick with algae.",
+      "style": "Contextual",
+      "translation": "池塘变得死寂，水面覆满了青苔。",
+      "translated_word": "死寂",
+      "display_order": 1
+    },
+    {
+      "sentence": "The housing market remained stagnant despite repeated interest rate cuts.",
+      "style": "Formal",
+      "translation": "尽管多次降息，房地产市场依然低迷不振。",
+      "translated_word": "低迷",
+      "display_order": 2
+    },
+    {
+      "sentence": "Comfort, left unchallenged, becomes stagnant.",
+      "style": "Philosophical",
+      "translation": "安逸若无挑战，终将化为停滞。",
+      "translated_word": "停滞",
+      "display_order": 4
+    },
+    {
+      "sentence": "In stagnant water, even the moon's reflection grows murky.",
+      "style": "Poetic",
+      "translation": "死水之中，连月影也蒙上浑浊。",
+      "translated_word": "死水",
+      "display_order": 3
+    }
+  ]
+}

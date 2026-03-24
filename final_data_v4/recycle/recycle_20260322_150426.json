@@ -1,0 +1,40 @@
+{
+  "word": "recycle",
+  "phonetic": "/ˌriːˈsaɪkəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "回收利用；再循环；重复使用",
+  "examples": [
+    {
+      "sentence": "Sort the bottles into the green bin; we recycle glass here.",
+      "style": "Contextual",
+      "translation": "把瓶子分到绿色垃圾桶里；我们这里回收玻璃。",
+      "translated_word": "回收",
+      "display_order": 2
+    },
+    {
+      "sentence": "The new policy requires businesses to recycle at least 60% of packaging waste.",
+      "style": "Formal",
+      "translation": "新政策要求企业回收至少60%的包装废弃物。",
+      "translated_word": "回收",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every Sunday, she recycles cardboard, cans, and old magazines.",
+      "style": "Collocational",
+      "translation": "每个周日，她都会回收纸板、易拉罐和旧杂志。",
+      "translated_word": "回收",
+      "display_order": 1
+    },
+    {
+      "sentence": "To recycle is to believe that endings can still become beginnings.",
+      "style": "Philosophical",
+      "translation": "回收，是相信结束仍能成为开始。",
+      "translated_word": "回收",
+      "display_order": 4
+    }
+  ]
+}

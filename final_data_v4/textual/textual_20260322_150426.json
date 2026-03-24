@@ -1,0 +1,39 @@
+{
+  "word": "textual",
+  "phonetic": "/ˈtekstʃuəl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "文本的；文字的；原文的",
+  "examples": [
+    {
+      "sentence": "The scholar discovered a textual error hidden for centuries.",
+      "style": "Contextual",
+      "translation": "学者发现了一处隐藏数百年的文本错误。",
+      "translated_word": "文本",
+      "display_order": 2
+    },
+    {
+      "sentence": "Textual analysis of the contract revealed several ambiguous clauses.",
+      "style": "Formal",
+      "translation": "对合同的文本分析揭示了若干模糊条款。",
+      "translated_word": "文本",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her thesis rests on solid textual evidence from the original letters.",
+      "style": "Collocational",
+      "translation": "她的论点建立在原始信件的确凿文本证据之上。",
+      "translated_word": "文本",
+      "display_order": 3
+    },
+    {
+      "sentence": "No textual meaning is complete until a reader brings it to life.",
+      "style": "Philosophical",
+      "translation": "文字的意义，唯有经读者唤醒，方才完整。",
+      "translated_word": "文字",
+      "display_order": 4
+    }
+  ]
+}

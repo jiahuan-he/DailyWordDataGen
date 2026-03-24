@@ -1,0 +1,39 @@
+{
+  "word": "eminent",
+  "phonetic": "/ˈemɪnənt/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "杰出的；卓越的；著名的",
+  "examples": [
+    {
+      "sentence": "Her professor was eminent in the field; students traveled far to attend his lectures.",
+      "style": "Contextual",
+      "translation": "她的教授在业内声名卓著；学生们不远千里前来听课。",
+      "translated_word": "声名卓著",
+      "display_order": 2
+    },
+    {
+      "sentence": "The summit convened eminent diplomats to address the growing crisis.",
+      "style": "Formal",
+      "translation": "峰会召集了各国杰出外交官，共商危机应对之策。",
+      "translated_word": "杰出",
+      "display_order": 3
+    },
+    {
+      "sentence": "An eminent cardiologist led the groundbreaking transplant.",
+      "style": "Collocational",
+      "translation": "一位著名的心脏病专家主刀了这场开创性的移植手术。",
+      "translated_word": "著名的",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every eminent figure once stood at the beginning, uncertain and unproven.",
+      "style": "Philosophical",
+      "translation": "每位杰出人物都曾站在起点，迷茫而无名。",
+      "translated_word": "杰出",
+      "display_order": 4
+    }
+  ]
+}

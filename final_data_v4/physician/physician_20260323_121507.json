@@ -1,0 +1,39 @@
+{
+  "word": "physician",
+  "phonetic": "/fɪˈzɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "医生；内科医生；医师",
+  "examples": [
+    {
+      "sentence": "The attending physician confirmed that surgery would not be necessary.",
+      "style": "Formal",
+      "translation": "主治医生确认无需手术。",
+      "translated_word": "医生",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her family physician has treated three generations of the same household.",
+      "style": "Collocational",
+      "translation": "她的家庭医生已为这户人家三代人看过病。",
+      "translated_word": "医生",
+      "display_order": 2
+    },
+    {
+      "sentence": "A wise physician knows when to heal and when to simply hold space.",
+      "style": "Philosophical",
+      "translation": "明智的医者知道何时该治愈，何时只需静静陪伴。",
+      "translated_word": "医者",
+      "display_order": 3
+    },
+    {
+      "sentence": "The physician who saved my father's life sent flowers to his funeral twenty years later.",
+      "style": "Intimate",
+      "translation": "二十年后，那位救过父亲性命的医生为他的葬礼送来了花。",
+      "translated_word": "医生",
+      "display_order": 4
+    }
+  ]
+}

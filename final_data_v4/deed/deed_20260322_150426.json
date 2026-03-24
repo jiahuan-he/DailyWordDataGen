@@ -1,0 +1,40 @@
+{
+  "word": "deed",
+  "phonetic": "/diːd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "行为；事迹；契约",
+  "examples": [
+    {
+      "sentence": "His brave deed saved three lives that night.",
+      "style": "Contextual",
+      "translation": "他那晚的英勇之举救了三条命。",
+      "translated_word": "之举",
+      "display_order": 1
+    },
+    {
+      "sentence": "The foundation honored her lifetime of charitable deeds.",
+      "style": "Formal",
+      "translation": "基金会表彰了她一生的慈善义举。",
+      "translated_word": "义举",
+      "display_order": 2
+    },
+    {
+      "sentence": "Words reveal intention; deeds reveal character.",
+      "style": "Philosophical",
+      "translation": "言语显露意图；行为彰显品性。",
+      "translated_word": "行为",
+      "display_order": 3
+    },
+    {
+      "sentence": "One kind deed can echo further than a thousand promises.",
+      "style": "Inspirational",
+      "translation": "一件善行，胜过千句承诺。",
+      "translated_word": "善行",
+      "display_order": 4
+    }
+  ]
+}

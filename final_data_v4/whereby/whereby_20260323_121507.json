@@ -1,0 +1,39 @@
+{
+  "word": "whereby",
+  "phonetic": "/weərˈbaɪ/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "借此；凭此；由此",
+  "examples": [
+    {
+      "sentence": "The treaty established a framework whereby nations share climate data freely.",
+      "style": "Formal",
+      "translation": "该条约建立了一套框架，各国借此自由共享气候数据。",
+      "translated_word": "借此",
+      "display_order": 2
+    },
+    {
+      "sentence": "She built a system whereby complaints reach the CEO within hours.",
+      "style": "Contextual",
+      "translation": "她建立了一套系统，投诉可在数小时内直达首席执行官。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "Every culture has rituals whereby strangers become family.",
+      "style": "Philosophical",
+      "translation": "每种文化都有仪式，陌生人由此成为家人。",
+      "translated_word": "由此",
+      "display_order": 1
+    },
+    {
+      "sentence": "The scholarship provides a path whereby talent, not wealth, opens doors.",
+      "style": "Inspirational",
+      "translation": "这项奖学金开辟了一条路径：凭才华而非财富，便能叩开机遇之门。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

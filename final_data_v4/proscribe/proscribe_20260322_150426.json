@@ -1,0 +1,39 @@
+{
+  "word": "proscribe",
+  "phonetic": "/proʊˈskraɪb/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "禁止；取缔；谴责",
+  "examples": [
+    {
+      "sentence": "The new constitution proscribes all forms of public assembly without permit.",
+      "style": "Formal",
+      "translation": "新宪法禁止一切未经许可的公共集会。",
+      "translated_word": "禁止",
+      "display_order": 1
+    },
+    {
+      "sentence": "Doctors prescribe remedies; tyrants proscribe freedoms.",
+      "style": "Contrastive",
+      "translation": "医者开方疗疾，暴君立法禁声。",
+      "translated_word": "禁声",
+      "display_order": 4
+    },
+    {
+      "sentence": "What a society chooses to proscribe reveals the shape of its fears.",
+      "style": "Philosophical",
+      "translation": "一个社会选择禁止什么，便勾勒出它恐惧的轮廓。",
+      "translated_word": "禁止",
+      "display_order": 3
+    },
+    {
+      "sentence": "The treaty proscribed chemical weapons, yet silence cannot undo what labs had already built.",
+      "style": "Contextual",
+      "translation": "条约取缔了化学武器，但沉默无法抹去实验室早已铸成之物。",
+      "translated_word": "取缔",
+      "display_order": 2
+    }
+  ]
+}

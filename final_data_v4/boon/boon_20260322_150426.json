@@ -1,0 +1,40 @@
+{
+  "word": "boon",
+  "phonetic": "/buːn/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "恩惠；福音；好处",
+  "examples": [
+    {
+      "sentence": "The new subway line has been a boon for commuters.",
+      "style": "Contextual",
+      "translation": "新地铁线路对通勤者而言是一大福音。",
+      "translated_word": "福音",
+      "display_order": 1
+    },
+    {
+      "sentence": "Analysts hailed the policy as a boon to renewable energy.",
+      "style": "Formal",
+      "translation": "分析人士称该政策为可再生能源带来重大利好。",
+      "translated_word": "利好",
+      "display_order": 4
+    },
+    {
+      "sentence": "Solitude can be a burden or a boon; it depends on what you bring to it.",
+      "style": "Philosophical",
+      "translation": "独处是负担还是恩赐，取决于你以何种心态面对。",
+      "translated_word": "恩赐",
+      "display_order": 3
+    },
+    {
+      "sentence": "That summer job turned out to be a boon: it showed me who I wanted to become.",
+      "style": "Intimate",
+      "translation": "那份暑期工作成了意外的馈赠，让我看清了自己想成为的模样。",
+      "translated_word": "馈赠",
+      "display_order": 2
+    }
+  ]
+}

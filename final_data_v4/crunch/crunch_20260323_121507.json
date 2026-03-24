@@ -1,0 +1,40 @@
+{
+  "word": "crunch",
+  "phonetic": "/krʌntʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "嘎吱咬碎；碾压；处理（数据）",
+  "examples": [
+    {
+      "sentence": "Gravel crunched beneath the bicycle wheels on the quiet country road.",
+      "style": "Contextual",
+      "translation": "寂静的乡间小路上，砾石在自行车轮下嘎吱作响。",
+      "translated_word": "嘎吱作响",
+      "display_order": 1
+    },
+    {
+      "sentence": "The team crunched the numbers and found a critical error in the forecast.",
+      "style": "Collocational",
+      "translation": "团队反复核算数据，在预测中发现了一个关键错误。",
+      "translated_word": "核算",
+      "display_order": 4
+    },
+    {
+      "sentence": "Frost crunches at dawn; the garden holds its breath.",
+      "style": "Poetic",
+      "translation": "清晨的霜在脚下碎裂；花园屏息以待。",
+      "translated_word": "碎裂",
+      "display_order": 3
+    },
+    {
+      "sentence": "She crunched through fallen leaves on her first walk after the hospital; the world felt new.",
+      "style": "Intimate",
+      "translation": "出院后的第一次散步，她踩着落叶嘎吱前行；世界焕然一新。",
+      "translated_word": "嘎吱",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "segregate",
+  "phonetic": "/ˈseɡrɪɡeɪt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "隔离；分开；使分离",
+  "examples": [
+    {
+      "sentence": "The recycling center asks residents to segregate plastic from paper.",
+      "style": "Contextual",
+      "translation": "回收中心要求居民将塑料与纸张分开。",
+      "translated_word": "分开",
+      "display_order": 1
+    },
+    {
+      "sentence": "New regulations require hospitals to segregate infectious waste.",
+      "style": "Formal",
+      "translation": "新规定要求医院隔离处理感染性废物。",
+      "translated_word": "隔离",
+      "display_order": 2
+    },
+    {
+      "sentence": "To segregate is to draw lines; to integrate is to erase them.",
+      "style": "Contrastive",
+      "translation": "隔离是划下界限；融合是将其抹去。",
+      "translated_word": "隔离",
+      "display_order": 3
+    },
+    {
+      "sentence": "We segregate our sorrows, as if solitude could shrink them.",
+      "style": "Philosophical",
+      "translation": "我们将悲伤隔离，仿佛孤独能使其消减。",
+      "translated_word": "隔离",
+      "display_order": 4
+    }
+  ]
+}

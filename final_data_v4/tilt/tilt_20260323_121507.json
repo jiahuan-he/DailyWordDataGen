@@ -1,0 +1,40 @@
+{
+  "word": "tilt",
+  "phonetic": "/tɪlt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "倾斜；使倾斜；偏向",
+  "examples": [
+    {
+      "sentence": "He tilted his chair back, lost in thought.",
+      "style": "Contextual",
+      "translation": "他把椅子向后一仰，陷入沉思。",
+      "translated_word": "仰",
+      "display_order": 2
+    },
+    {
+      "sentence": "The dog tilted its head at the unfamiliar sound.",
+      "style": "Collocational",
+      "translation": "狗听到陌生的声音，歪了歪脑袋。",
+      "translated_word": "歪",
+      "display_order": 1
+    },
+    {
+      "sentence": "Afternoon light tilted through the shutters, gilding the dust.",
+      "style": "Poetic",
+      "translation": "午后的光斜斜穿过百叶窗，为浮尘镀上一层金。",
+      "translated_word": "斜斜",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother always tilted her reading glasses to the tip of her nose.",
+      "style": "Intimate",
+      "translation": "奶奶看书时，总爱把眼镜推到鼻尖上。",
+      "translated_word": "推",
+      "display_order": 3
+    }
+  ]
+}

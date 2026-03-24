@@ -1,0 +1,40 @@
+{
+  "word": "defect",
+  "phonetic": "/ˈdiːfekt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "缺陷；瑕疵；缺点",
+  "examples": [
+    {
+      "sentence": "The inspector spotted a hairline defect in the windshield.",
+      "style": "Contextual",
+      "translation": "检查员发现挡风玻璃上有一道细微的缺陷。",
+      "translated_word": "缺陷",
+      "display_order": 1
+    },
+    {
+      "sentence": "The recall affects 12,000 units due to a battery defect.",
+      "style": "Formal",
+      "translation": "此次召回涉及一万两千台存在电池缺陷的产品。",
+      "translated_word": "缺陷",
+      "display_order": 2
+    },
+    {
+      "sentence": "A defect reveals what we fear most: being seen as incomplete.",
+      "style": "Philosophical",
+      "translation": "缺陷暴露的是我们最深的恐惧：害怕被视为不完整。",
+      "translated_word": "缺陷",
+      "display_order": 4
+    },
+    {
+      "sentence": "She traced the small defect on my cheek and called it a constellation.",
+      "style": "Intimate",
+      "translation": "她轻抚我脸颊上那处小小的缺陷，唤它作星辰。",
+      "translated_word": "缺陷",
+      "display_order": 3
+    }
+  ]
+}

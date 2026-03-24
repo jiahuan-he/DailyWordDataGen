@@ -1,0 +1,41 @@
+{
+  "word": "hinder",
+  "phonetic": "/ˈhɪndər/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "阻碍；妨碍；阻挠",
+  "examples": [
+    {
+      "sentence": "Heavy rain hindered rescue efforts for hours.",
+      "style": "Contextual",
+      "translation": "大雨使救援工作停滞了数小时。",
+      "translated_word": "停滞",
+      "display_order": 1
+    },
+    {
+      "sentence": "Bureaucratic delays continue to hinder economic recovery.",
+      "style": "Formal",
+      "translation": "繁冗的行政程序持续阻碍着经济复苏。",
+      "translated_word": "阻碍",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we fear might hinder us often redirects us.",
+      "style": "Philosophical",
+      "translation": "我们惧怕的阻碍，往往是命运的转向。",
+      "translated_word": "阻碍",
+      "display_order": 4
+    },
+    {
+      "sentence": "Let nothing hinder you from becoming who you were meant to be.",
+      "style": "Inspirational",
+      "translation": "别让任何事物阻挡你成为注定的自己。",
+      "translated_word": "阻挡",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "didactic",
+  "phonetic": "/daɪˈdæktɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "说教的；教诲的；教导性的",
+  "examples": [
+    {
+      "sentence": "The novel's heavy-handed moral lessons felt too didactic for modern readers.",
+      "style": "Contextual",
+      "translation": "小说中生硬的道德说教让现代读者难以接受。",
+      "translated_word": "说教",
+      "display_order": 2
+    },
+    {
+      "sentence": "Critics praised the documentary for being informative without becoming didactic.",
+      "style": "Formal",
+      "translation": "评论家称赞这部纪录片既有深度，又不流于说教。",
+      "translated_word": "说教",
+      "display_order": 1
+    },
+    {
+      "sentence": "Great teachers inspire curiosity; mediocre ones turn didactic.",
+      "style": "Contrastive",
+      "translation": "优秀的老师点燃好奇心，平庸的老师只会照本宣科。",
+      "translated_word": "照本宣科",
+      "display_order": 3
+    },
+    {
+      "sentence": "The best stories let truth surface on its own, never didactic, always alive.",
+      "style": "Philosophical",
+      "translation": "最好的故事让真理自然浮现：从不说教，却始终鲜活。",
+      "translated_word": "说教",
+      "display_order": 4
+    }
+  ]
+}

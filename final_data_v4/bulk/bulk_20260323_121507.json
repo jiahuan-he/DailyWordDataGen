@@ -1,0 +1,41 @@
+{
+  "word": "bulk",
+  "phonetic": "/bʌlk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "大量；体积；主体；散装",
+  "examples": [
+    {
+      "sentence": "The bulk of the work was finished before noon.",
+      "style": "Contextual",
+      "translation": "大部分工作在中午前就已完成。",
+      "translated_word": "大部分",
+      "display_order": 1
+    },
+    {
+      "sentence": "Buying in bulk saves money but tests your pantry space.",
+      "style": "Collocational",
+      "translation": "批量采购省钱，却考验储物空间。",
+      "translated_word": "批量",
+      "display_order": 2
+    },
+    {
+      "sentence": "The freighter's bulk cast a shadow over the entire dock.",
+      "style": "Formal",
+      "translation": "货轮庞大的身躯将整个码头笼罩在阴影中。",
+      "translated_word": "庞大",
+      "display_order": 3
+    },
+    {
+      "sentence": "Retail flatters impulse; bulk rewards the patient.",
+      "style": "Contrastive",
+      "translation": "零售迎合冲动，批发奖励耐心。",
+      "translated_word": "批发",
+      "display_order": 4
+    }
+  ]
+}

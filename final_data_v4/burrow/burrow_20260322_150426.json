@@ -1,0 +1,40 @@
+{
+  "word": "burrow",
+  "phonetic": "/ˈbʌroʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "挖掘；钻入；蜷缩；深究",
+  "examples": [
+    {
+      "sentence": "The rabbit burrowed beneath the fence and vanished.",
+      "style": "Contextual",
+      "translation": "兔子钻入篱笆下，转眼消失不见。",
+      "translated_word": "钻入",
+      "display_order": 1
+    },
+    {
+      "sentence": "Cold mornings mean burrowing deeper into the blankets, stealing a few more minutes.",
+      "style": "Intimate",
+      "translation": "寒冷的清晨，就该往被窝里再钻一钻，偷得几分钟温存。",
+      "translated_word": "钻",
+      "display_order": 2
+    },
+    {
+      "sentence": "Roots burrow through darkness, seeking water they cannot see.",
+      "style": "Poetic",
+      "translation": "根须在黑暗中掘进，寻找着看不见的水源。",
+      "translated_word": "掘进",
+      "display_order": 3
+    },
+    {
+      "sentence": "Understanding requires burrowing past the surface.",
+      "style": "Philosophical",
+      "translation": "理解，需要深入表象之下。",
+      "translated_word": "深入",
+      "display_order": 4
+    }
+  ]
+}

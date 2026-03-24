@@ -1,0 +1,40 @@
+{
+  "word": "beam",
+  "phonetic": "/biːm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "绽笑；发光；照射；传送",
+  "examples": [
+    {
+      "sentence": "She beamed when she saw the acceptance letter.",
+      "style": "Contextual",
+      "translation": "看到录取通知书时，她笑容绽放。",
+      "translated_word": "笑容绽放",
+      "display_order": 1
+    },
+    {
+      "sentence": "The lighthouse beamed through the fog, patient and unwavering.",
+      "style": "Poetic",
+      "translation": "灯塔的光芒穿透迷雾，耐心而坚定。",
+      "translated_word": "光芒",
+      "display_order": 4
+    },
+    {
+      "sentence": "He beamed with pride watching his daughter graduate.",
+      "style": "Collocational",
+      "translation": "看着女儿毕业，他满面自豪地微笑。",
+      "translated_word": "微笑",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandfather beamed every time he told that old story.",
+      "style": "Intimate",
+      "translation": "每次讲起那个老故事，爷爷都笑得满面光彩。",
+      "translated_word": "满面光彩",
+      "display_order": 3
+    }
+  ]
+}

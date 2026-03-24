@@ -1,0 +1,39 @@
+{
+  "word": "bewitch",
+  "phonetic": "/bɪˈwɪtʃ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "迷住；使着迷；施魔法于",
+  "examples": [
+    {
+      "sentence": "Moonlight bewitched the garden, turning every shadow to silver.",
+      "style": "Poetic",
+      "translation": "月光迷住了花园，将每道暗影都染成银色。",
+      "translated_word": "迷住",
+      "display_order": 3
+    },
+    {
+      "sentence": "That city bewitched me the moment I stepped off the train.",
+      "style": "Intimate",
+      "translation": "走下火车的那一刻，那座城市便将我深深迷住。",
+      "translated_word": "迷住",
+      "display_order": 1
+    },
+    {
+      "sentence": "The sorceress bewitched the prince into forgetting his homeland.",
+      "style": "Contextual",
+      "translation": "女巫对王子施了魔法，使他遗忘了自己的故土。",
+      "translated_word": "施了魔法",
+      "display_order": 2
+    },
+    {
+      "sentence": "We are often bewitched by what we cannot fully understand.",
+      "style": "Philosophical",
+      "translation": "我们常常被自己无法参透的事物所迷惑。",
+      "translated_word": "迷惑",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "potent",
+  "phonetic": "/ˈpoʊtənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "强效；有力；强烈",
+  "examples": [
+    {
+      "sentence": "The espresso was too potent; she couldn't sleep until dawn.",
+      "style": "Contextual",
+      "translation": "浓缩咖啡太烈，她辗转至天明。",
+      "translated_word": "烈",
+      "display_order": 1
+    },
+    {
+      "sentence": "Public opinion remains a potent force in modern governance.",
+      "style": "Formal",
+      "translation": "公众舆论在现代治理中仍是一股不可忽视的力量。",
+      "translated_word": "不可忽视",
+      "display_order": 3
+    },
+    {
+      "sentence": "The photograph served as a potent reminder of home.",
+      "style": "Collocational",
+      "translation": "那张照片是对故乡最有力的提醒。",
+      "translated_word": "有力",
+      "display_order": 2
+    },
+    {
+      "sentence": "Grief arrived in small, potent waves that year.",
+      "style": "Poetic",
+      "translation": "那年的悲伤，以细密而强烈的波纹袭来。",
+      "translated_word": "强烈",
+      "display_order": 4
+    }
+  ]
+}

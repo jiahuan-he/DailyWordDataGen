@@ -1,0 +1,40 @@
+{
+  "word": "flyer",
+  "phonetic": "/ˈflaɪər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "传单；飞行员；常旅客",
+  "examples": [
+    {
+      "sentence": "A crumpled flyer on the sidewalk advertised a concert that had already passed.",
+      "style": "Contextual",
+      "translation": "人行道上一张皱巴巴的传单，宣传着一场早已落幕的演唱会。",
+      "translated_word": "传单",
+      "display_order": 3
+    },
+    {
+      "sentence": "She handed out flyers at the subway entrance, hoping someone would notice.",
+      "style": "Collocational",
+      "translation": "她在地铁口分发传单，期盼有人会驻足留意。",
+      "translated_word": "传单",
+      "display_order": 1
+    },
+    {
+      "sentence": "The airline rewarded frequent flyers with complimentary lounge access.",
+      "style": "Formal",
+      "translation": "航空公司向常旅客赠送贵宾休息室使用权。",
+      "translated_word": "旅客",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother kept every flyer from my school plays in a shoebox.",
+      "style": "Intimate",
+      "translation": "祖母把我每一场校园演出的传单都收进了鞋盒里。",
+      "translated_word": "传单",
+      "display_order": 2
+    }
+  ]
+}

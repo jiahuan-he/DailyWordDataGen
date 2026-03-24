@@ -1,0 +1,39 @@
+{
+  "word": "negligence",
+  "phonetic": "/ˈneɡlɪdʒəns/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "疏忽；过失；玩忽职守",
+  "examples": [
+    {
+      "sentence": "The bridge collapse was traced back to years of negligence.",
+      "style": "Formal",
+      "translation": "桥梁坍塌的根源，可追溯至多年的疏于维护。",
+      "translated_word": "疏于维护",
+      "display_order": 2
+    },
+    {
+      "sentence": "One moment of negligence cost the surgeon his entire career.",
+      "style": "Contextual",
+      "translation": "一次疏忽，葬送了那位外科医生的整个职业生涯。",
+      "translated_word": "疏忽",
+      "display_order": 1
+    },
+    {
+      "sentence": "Criminal negligence carries heavier penalties than simple oversight.",
+      "style": "Collocational",
+      "translation": "刑事过失所受的惩罚，远比一般疏漏更为严厉。",
+      "translated_word": "过失",
+      "display_order": 3
+    },
+    {
+      "sentence": "Negligence is not the absence of care; it is care deferred until too late.",
+      "style": "Philosophical",
+      "translation": "疏忽并非不在意，而是将在意推迟到了太晚。",
+      "translated_word": "疏忽",
+      "display_order": 4
+    }
+  ]
+}

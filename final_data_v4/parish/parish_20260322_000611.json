@@ -1,0 +1,40 @@
+{
+  "word": "parish",
+  "phonetic": "/ˈpærɪʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "教区；堂区；本堂区",
+  "examples": [
+    {
+      "sentence": "The old stone church has served this parish for over two centuries.",
+      "style": "Contextual",
+      "translation": "那座古老的石砌教堂已守护这片教区逾两百年。",
+      "translated_word": "教区",
+      "display_order": 2
+    },
+    {
+      "sentence": "Residents gathered at the parish hall to discuss the proposed changes.",
+      "style": "Formal",
+      "translation": "居民们聚集在教区礼堂，商讨拟议中的变更方案。",
+      "translated_word": "教区",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother knew every family in her parish by name.",
+      "style": "Intimate",
+      "translation": "祖母认得教区里每一户人家的姓氏。",
+      "translated_word": "教区",
+      "display_order": 1
+    },
+    {
+      "sentence": "Church bells echo across the parish at dusk, calling the scattered home.",
+      "style": "Poetic",
+      "translation": "暮色中，钟声回荡在教区上空，唤四散的人们归家。",
+      "translated_word": "教区",
+      "display_order": 4
+    }
+  ]
+}

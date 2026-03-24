@@ -1,0 +1,40 @@
+{
+  "word": "countermand",
+  "phonetic": "/ˌkaʊntərˈmænd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "撤销；取消；撤回",
+  "examples": [
+    {
+      "sentence": "The general countermanded the retreat just minutes before execution.",
+      "style": "Formal",
+      "translation": "将军在撤退令执行前几分钟将其撤销。",
+      "translated_word": "撤销",
+      "display_order": 1
+    },
+    {
+      "sentence": "New evidence emerged, and she quietly countermanded her own directive.",
+      "style": "Contextual",
+      "translation": "新证据浮出水面，她悄然撤回了自己的指令。",
+      "translated_word": "撤回",
+      "display_order": 2
+    },
+    {
+      "sentence": "Issuing orders is easy; countermanding them takes courage.",
+      "style": "Contrastive",
+      "translation": "发号施令容易，收回成命需要勇气。",
+      "translated_word": "收回成命",
+      "display_order": 3
+    },
+    {
+      "sentence": "Wisdom is knowing which of yesterday's decisions to countermand today.",
+      "style": "Philosophical",
+      "translation": "智慧在于知道今日该推翻昨日的哪些决定。",
+      "translated_word": "推翻",
+      "display_order": 4
+    }
+  ]
+}

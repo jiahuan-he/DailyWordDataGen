@@ -1,0 +1,40 @@
+{
+  "word": "dyspeptic",
+  "phonetic": "/dɪsˈpeptɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "消化不良的；易怒的；暴躁的",
+  "examples": [
+    {
+      "sentence": "The professor's dyspeptic reply silenced the eager student.",
+      "style": "Contextual",
+      "translation": "教授暴躁的回应让那位热切的学生顿时噤声。",
+      "translated_word": "暴躁",
+      "display_order": 1
+    },
+    {
+      "sentence": "Critics have grown dyspeptic over the administration's repeated delays.",
+      "style": "Formal",
+      "translation": "评论人士对政府一再拖延愈发不满。",
+      "translated_word": "不满",
+      "display_order": 3
+    },
+    {
+      "sentence": "His dyspeptic mood lifted only after his morning coffee.",
+      "style": "Collocational",
+      "translation": "只有喝完晨间咖啡，他的坏脾气才会消散。",
+      "translated_word": "坏脾气",
+      "display_order": 2
+    },
+    {
+      "sentence": "Age either softens us or leaves us dyspeptic; the choice is partly ours.",
+      "style": "Philosophical",
+      "translation": "岁月或使人温润，或令人乖戾；这选择，有一半在我们自己。",
+      "translated_word": "乖戾",
+      "display_order": 4
+    }
+  ]
+}

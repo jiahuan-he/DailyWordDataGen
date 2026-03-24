@@ -1,0 +1,40 @@
+{
+  "word": "haunt",
+  "phonetic": "/hɔːnt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "萦绕；困扰；出没；常去",
+  "examples": [
+    {
+      "sentence": "Certain choices haunt us for years.",
+      "style": "Contextual",
+      "translation": "某些选择会萦绕心头多年。",
+      "translated_word": "萦绕",
+      "display_order": 2
+    },
+    {
+      "sentence": "Silence haunts the house where children once played.",
+      "style": "Poetic",
+      "translation": "寂静萦绕在孩童曾嬉戏的屋中。",
+      "translated_word": "萦绕",
+      "display_order": 3
+    },
+    {
+      "sentence": "Paris haunts me; I left a piece of myself there.",
+      "style": "Intimate",
+      "translation": "巴黎于我是挥之不去的执念；我把一部分自己留在了那里。",
+      "translated_word": "挥之不去",
+      "display_order": 4
+    },
+    {
+      "sentence": "His last words haunt my thoughts.",
+      "style": "Collocational",
+      "translation": "他最后的话语萦绕在我脑海。",
+      "translated_word": "萦绕",
+      "display_order": 1
+    }
+  ]
+}

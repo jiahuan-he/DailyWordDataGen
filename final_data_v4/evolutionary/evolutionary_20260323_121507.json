@@ -1,0 +1,39 @@
+{
+  "word": "evolutionary",
+  "phonetic": "/ˌiːvəˈluːʃəneri/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "进化的；演变的；渐进的",
+  "examples": [
+    {
+      "sentence": "The evolutionary leap from ape to human remains a subject of wonder.",
+      "style": "Contextual",
+      "translation": "从猿到人的进化飞跃，至今仍令人惊叹。",
+      "translated_word": "进化",
+      "display_order": 2
+    },
+    {
+      "sentence": "Researchers have mapped the evolutionary pathway from dinosaurs to modern birds.",
+      "style": "Formal",
+      "translation": "研究人员已绘制出从恐龙到现代鸟类的进化路径。",
+      "translated_word": "进化",
+      "display_order": 1
+    },
+    {
+      "sentence": "Progress is rarely revolutionary; most breakthroughs are evolutionary.",
+      "style": "Contrastive",
+      "translation": "进步鲜有革命性的；大多数突破都是渐进式的。",
+      "translated_word": "渐进式的",
+      "display_order": 3
+    },
+    {
+      "sentence": "Growth is evolutionary: today's small steps become tomorrow's leaps.",
+      "style": "Philosophical",
+      "translation": "成长是渐进的：今日的小步终将化为明日的飞跃。",
+      "translated_word": "渐进的",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "swagger",
+  "phonetic": "/ˈswæɡər/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "大摇大摆；趾高气扬；炫耀",
+  "examples": [
+    {
+      "sentence": "He swaggered into the room like he owned the place.",
+      "style": "Contextual",
+      "translation": "他大摇大摆地走进房间，仿佛那是他的地盘。",
+      "translated_word": "大摇大摆",
+      "display_order": 1
+    },
+    {
+      "sentence": "The CEO swaggered past reporters, offering no comment.",
+      "style": "Formal",
+      "translation": "那位CEO趾高气扬地走过记者群，不发一言。",
+      "translated_word": "趾高气扬",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some walk; others stride; he swaggered.",
+      "style": "Contrastive",
+      "translation": "有人走路，有人阔步，而他，昂首阔步。",
+      "translated_word": "昂首阔步",
+      "display_order": 4
+    },
+    {
+      "sentence": "Even at eighty, my grandmother swaggered through the ballroom.",
+      "style": "Intimate",
+      "translation": "即便八十岁了，奶奶穿过舞厅时依然步伐张扬。",
+      "translated_word": "步伐张扬",
+      "display_order": 3
+    }
+  ]
+}

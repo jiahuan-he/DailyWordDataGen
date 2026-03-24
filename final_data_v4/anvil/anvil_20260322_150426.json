@@ -1,0 +1,40 @@
+{
+  "word": "anvil",
+  "phonetic": "/ˈænvɪl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "铁砧；砧骨",
+  "examples": [
+    {
+      "sentence": "The blacksmith placed the glowing iron on the anvil.",
+      "style": "Contextual",
+      "translation": "铁匠将烧红的铁块放在铁砧上。",
+      "translated_word": "铁砧",
+      "display_order": 1
+    },
+    {
+      "sentence": "Caught between hammer and anvil, he had no easy choice.",
+      "style": "Collocational",
+      "translation": "腹背受敌，他别无良策。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Sparks scattered like stars across the old anvil's face.",
+      "style": "Poetic",
+      "translation": "火星四溅，落满古老的砧面，宛若繁星。",
+      "translated_word": "砧",
+      "display_order": 2
+    },
+    {
+      "sentence": "Character is forged on the anvil of hardship.",
+      "style": "Philosophical",
+      "translation": "品格在苦难的砧上锤炼而成。",
+      "translated_word": "砧",
+      "display_order": 3
+    }
+  ]
+}

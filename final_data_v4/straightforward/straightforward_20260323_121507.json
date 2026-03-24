@@ -1,0 +1,40 @@
+{
+  "word": "straightforward",
+  "phonetic": "/ˌstreɪtˈfɔːrwərd/",
+  "pos": [
+    "adjective",
+    "adverb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "坦率的；直接的；简单明了的",
+  "examples": [
+    {
+      "sentence": "The assembly was straightforward: no tools, just snap and click.",
+      "style": "Contextual",
+      "translation": "组装很简单：无需工具，扣合即可。",
+      "translated_word": "简单",
+      "display_order": 3
+    },
+    {
+      "sentence": "A straightforward explanation saved us hours of confusion.",
+      "style": "Collocational",
+      "translation": "一个直截了当的解释为我们省去了数小时的困惑。",
+      "translated_word": "直截了当的",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new policy is straightforward, unlike the labyrinthine rules it replaced.",
+      "style": "Contrastive",
+      "translation": "新政策简单明了，与它所取代的繁复规则截然不同。",
+      "translated_word": "简单明了",
+      "display_order": 4
+    },
+    {
+      "sentence": "His proposal held no rehearsed lines; it was straightforward and honest.",
+      "style": "Intimate",
+      "translation": "他的求婚没有排练过的台词；直接而真诚。",
+      "translated_word": "直接",
+      "display_order": 2
+    }
+  ]
+}

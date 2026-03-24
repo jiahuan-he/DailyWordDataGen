@@ -1,0 +1,40 @@
+{
+  "word": "slew",
+  "phonetic": "/sluː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "大量；许多",
+  "examples": [
+    {
+      "sentence": "A slew of emails awaited her after the long weekend.",
+      "style": "Contextual",
+      "translation": "长周末过后，一大堆邮件正等着她处理。",
+      "translated_word": "一大堆",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company faces a slew of lawsuits following the data breach.",
+      "style": "Formal",
+      "translation": "数据泄露事件后，该公司面临大量诉讼。",
+      "translated_word": "大量",
+      "display_order": 3
+    },
+    {
+      "sentence": "One good mentor outweighs a slew of generic advice.",
+      "style": "Contrastive",
+      "translation": "一位良师胜过无数泛泛之言。",
+      "translated_word": "无数",
+      "display_order": 4
+    },
+    {
+      "sentence": "New restaurants, a slew of them, have opened on this street.",
+      "style": "Collocational",
+      "translation": "这条街新开了一大批餐厅。",
+      "translated_word": "一大批",
+      "display_order": 2
+    }
+  ]
+}

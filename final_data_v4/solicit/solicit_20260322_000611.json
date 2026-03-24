@@ -1,0 +1,40 @@
+{
+  "word": "solicit",
+  "phonetic": "/səˈlɪsɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "征求；恳求；招揽",
+  "examples": [
+    {
+      "sentence": "The nonprofit solicited donations to rebuild the flooded village.",
+      "style": "Formal",
+      "translation": "该非营利组织募集捐款，重建被洪水淹没的村庄。",
+      "translated_word": "募集",
+      "display_order": 2
+    },
+    {
+      "sentence": "She solicited opinions from her team before presenting the proposal.",
+      "style": "Contextual",
+      "translation": "她在提交方案前，征询了团队的意见。",
+      "translated_word": "征询",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company actively solicits customer feedback through quarterly surveys.",
+      "style": "Collocational",
+      "translation": "公司通过季度问卷积极征集客户反馈。",
+      "translated_word": "征集",
+      "display_order": 3
+    },
+    {
+      "sentence": "We solicit truth, yet flinch when it arrives unvarnished.",
+      "style": "Philosophical",
+      "translation": "我们渴求真相，却在它赤裸呈现时退缩。",
+      "translated_word": "渴求",
+      "display_order": 4
+    }
+  ]
+}

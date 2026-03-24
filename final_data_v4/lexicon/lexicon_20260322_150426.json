@@ -1,0 +1,39 @@
+{
+  "word": "lexicon",
+  "phonetic": "/ˈleksɪkən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "词汇；词典；术语集",
+  "examples": [
+    {
+      "sentence": "Learning coding means learning an entirely new lexicon.",
+      "style": "Contextual",
+      "translation": "学习编程，便是学习一套全新的词汇。",
+      "translated_word": "词汇",
+      "display_order": 1
+    },
+    {
+      "sentence": "The tech industry's lexicon evolves faster than any dictionary can track.",
+      "style": "Formal",
+      "translation": "科技行业的术语更迭之快，任何词典都难以追记。",
+      "translated_word": "术语",
+      "display_order": 2
+    },
+    {
+      "sentence": "The boundaries of your lexicon shape the boundaries of your thought.",
+      "style": "Philosophical",
+      "translation": "词汇的边界，亦是思想的边界。",
+      "translated_word": "词汇",
+      "display_order": 3
+    },
+    {
+      "sentence": "He built a private lexicon for her: sunrise meant hope, rain meant missing you.",
+      "style": "Poetic",
+      "translation": "他为她造了一本私人词典：日出是希望，落雨是想你。",
+      "translated_word": "词典",
+      "display_order": 4
+    }
+  ]
+}

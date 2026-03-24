@@ -1,0 +1,40 @@
+{
+  "word": "regress",
+  "phonetic": "/rɪˈɡres/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "倒退；退化；退步",
+  "examples": [
+    {
+      "sentence": "Without regular practice, his piano skills began to regress.",
+      "style": "Contextual",
+      "translation": "缺少规律练习，他的琴艺渐渐退步。",
+      "translated_word": "退步",
+      "display_order": 1
+    },
+    {
+      "sentence": "Growth is not linear; sometimes we regress to gather strength.",
+      "style": "Philosophical",
+      "translation": "成长并非直线；有时退步，是为积蓄力量。",
+      "translated_word": "退步",
+      "display_order": 4
+    },
+    {
+      "sentence": "Under pressure, I regress to old habits: comfort food and silence.",
+      "style": "Intimate",
+      "translation": "压力之下，我退回旧习：安慰食物与沉默。",
+      "translated_word": "退回",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some heal and evolve; others regress, repeating the same patterns.",
+      "style": "Contrastive",
+      "translation": "有人疗愈成长，有人倒退，重复着相同的轨迹。",
+      "translated_word": "倒退",
+      "display_order": 3
+    }
+  ]
+}

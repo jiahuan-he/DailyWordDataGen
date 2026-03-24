@@ -1,0 +1,40 @@
+{
+  "word": "perennial",
+  "phonetic": "/pəˈreniəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "长久的；反复出现的；经久不衰的",
+  "examples": [
+    {
+      "sentence": "The perennial debate over work-life balance resurfaces every generation.",
+      "style": "Contextual",
+      "translation": "关于工作与生活平衡的老话题，每一代人都会重新提起。",
+      "translated_word": "老话题",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some questions are perennial because answers alone cannot satisfy us.",
+      "style": "Philosophical",
+      "translation": "有些问题之所以永恒，是因为答案本身无法令人满足。",
+      "translated_word": "永恒",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her garden held only perennials: flowers that understood the art of return.",
+      "style": "Poetic",
+      "translation": "她的花园只种多年生植物：那些深谙归来之道的花。",
+      "translated_word": "多年生",
+      "display_order": 3
+    },
+    {
+      "sentence": "Jazz remains a perennial favorite at the downtown café.",
+      "style": "Collocational",
+      "translation": "爵士乐始终是那家市中心咖啡馆的常青之选。",
+      "translated_word": "常青",
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "attendance",
+  "phonetic": "/əˈtendəns/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "出席；到场；出勤率",
+  "examples": [
+    {
+      "sentence": "Her attendance never wavered, even during the harshest winter.",
+      "style": "Contextual",
+      "translation": "即便在最严酷的寒冬，她也从未缺席。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Museum attendance has doubled since the new exhibit opened.",
+      "style": "Formal",
+      "translation": "自新展览开幕以来，博物馆的参观人数翻了一番。",
+      "translated_word": "人数",
+      "display_order": 2
+    },
+    {
+      "sentence": "The coach took attendance before practice began.",
+      "style": "Collocational",
+      "translation": "教练在训练开始前点了名。",
+      "translated_word": "名",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her attendance at my graduation meant more than the diploma itself.",
+      "style": "Intimate",
+      "translation": "她出席我的毕业典礼，比那张文凭本身更珍贵。",
+      "translated_word": "出席",
+      "display_order": 3
+    }
+  ]
+}

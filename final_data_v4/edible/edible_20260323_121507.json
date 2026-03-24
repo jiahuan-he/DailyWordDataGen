@@ -1,0 +1,40 @@
+{
+  "word": "edible",
+  "phonetic": "/ˈedɪbl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "可食用的；能吃的",
+  "examples": [
+    {
+      "sentence": "Not all wild mushrooms are edible; some can be deadly.",
+      "style": "Contextual",
+      "translation": "并非所有野生蘑菇都可食用；有些甚至致命。",
+      "translated_word": "可食用",
+      "display_order": 3
+    },
+    {
+      "sentence": "The chef garnished the plate with edible flowers.",
+      "style": "Collocational",
+      "translation": "主厨用食用花卉点缀盘中佳肴。",
+      "translated_word": "食用",
+      "display_order": 1
+    },
+    {
+      "sentence": "These berries look tempting but aren't edible.",
+      "style": "Contrastive",
+      "translation": "这些浆果看似诱人，却不能食用。",
+      "translated_word": "食用",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother knew which weeds in our garden were edible.",
+      "style": "Intimate",
+      "translation": "祖母知道园子里哪些野草可以入口。",
+      "translated_word": "入口",
+      "display_order": 2
+    }
+  ]
+}

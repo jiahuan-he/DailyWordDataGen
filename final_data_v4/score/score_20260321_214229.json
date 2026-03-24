@@ -1,0 +1,41 @@
+{
+  "word": "score",
+  "phonetic": "/skɔːr/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "分数；得分；乐谱",
+  "examples": [
+    {
+      "sentence": "The final score was 3-2, and the stadium erupted.",
+      "style": "Contextual",
+      "translation": "终场比分3比2，全场沸腾。",
+      "translated_word": "比分",
+      "display_order": 1
+    },
+    {
+      "sentence": "She achieved a perfect score on the proficiency exam.",
+      "style": "Collocational",
+      "translation": "她在能力测试中取得了满分。",
+      "translated_word": "满分",
+      "display_order": 2
+    },
+    {
+      "sentence": "One test score at seventeen determined the next four years of my life.",
+      "style": "Intimate",
+      "translation": "十七岁的一次考试分数，决定了我此后四年的人生。",
+      "translated_word": "分数",
+      "display_order": 3
+    },
+    {
+      "sentence": "The score reveals who won; it says nothing of who grew.",
+      "style": "Philosophical",
+      "translation": "比分揭示谁赢了，却未言谁成长了。",
+      "translated_word": "比分",
+      "display_order": 4
+    }
+  ]
+}

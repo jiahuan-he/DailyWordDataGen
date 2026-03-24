@@ -1,0 +1,40 @@
+{
+  "word": "sortie",
+  "phonetic": "/ˈsɔːrti/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "出击；突袭；空袭任务",
+  "examples": [
+    {
+      "sentence": "The pilots completed their sortie and returned before nightfall.",
+      "style": "Contextual",
+      "translation": "飞行员完成出击任务，在夜幕降临前返航。",
+      "translated_word": "出击",
+      "display_order": 1
+    },
+    {
+      "sentence": "Allied aircraft flew over three hundred sorties during the first week of operations.",
+      "style": "Formal",
+      "translation": "盟军飞机在行动首周执行了三百余次空袭任务。",
+      "translated_word": "空袭任务",
+      "display_order": 2
+    },
+    {
+      "sentence": "He logged his final combat sortie in the squadron's weathered logbook.",
+      "style": "Collocational",
+      "translation": "他在中队那本饱经风霜的飞行日志上记录了最后一次战斗出击。",
+      "translated_word": "出击",
+      "display_order": 3
+    },
+    {
+      "sentence": "Each sortie begins in silence; only some end the same way.",
+      "style": "Philosophical",
+      "translation": "每次出击都始于沉默；却并非每次都能以沉默收场。",
+      "translated_word": "出击",
+      "display_order": 4
+    }
+  ]
+}

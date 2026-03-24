@@ -1,0 +1,39 @@
+{
+  "word": "dinosaur",
+  "phonetic": "/ˈdaɪnəsɔːr/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "恐龙；过时之物",
+  "examples": [
+    {
+      "sentence": "The museum unveiled a rare dinosaur skeleton last week.",
+      "style": "Contextual",
+      "translation": "博物馆上周展出了一具罕见的恐龙骨架。",
+      "translated_word": "恐龙",
+      "display_order": 1
+    },
+    {
+      "sentence": "Dinosaur fossils tell stories older than any civilization.",
+      "style": "Collocational",
+      "translation": "恐龙化石诉说着比任何文明都古老的故事。",
+      "translated_word": "恐龙",
+      "display_order": 3
+    },
+    {
+      "sentence": "At six, I knew every dinosaur by name before I could spell my own.",
+      "style": "Intimate",
+      "translation": "六岁时，我能叫出每种恐龙的名字，却还不会拼写自己的名字。",
+      "translated_word": "恐龙",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every empire fears becoming a dinosaur: mighty once, then fossilized.",
+      "style": "Philosophical",
+      "translation": "每个帝国都害怕成为恐龙：曾经强盛，最终石化。",
+      "translated_word": "恐龙",
+      "display_order": 4
+    }
+  ]
+}

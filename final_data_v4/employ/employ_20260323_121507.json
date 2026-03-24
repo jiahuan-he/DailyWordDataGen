@@ -1,0 +1,40 @@
+{
+  "word": "employ",
+  "phonetic": "/ɪmˈplɔɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "雇用；使用；采用",
+  "examples": [
+    {
+      "sentence": "The clinic employs three nurses and two specialists.",
+      "style": "Contextual",
+      "translation": "这家诊所雇用了三名护士和两名专科医生。",
+      "translated_word": "雇用",
+      "display_order": 1
+    },
+    {
+      "sentence": "The ministry will employ additional resources to accelerate the project.",
+      "style": "Formal",
+      "translation": "该部门将投入更多资源以加速项目进程。",
+      "translated_word": "投入",
+      "display_order": 2
+    },
+    {
+      "sentence": "She employs a gentle persistence that few can resist.",
+      "style": "Collocational",
+      "translation": "她善用一种温和的坚持，鲜有人能抵挡。",
+      "translated_word": "善用",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some employ silence as a shield; others, as a weapon.",
+      "style": "Philosophical",
+      "translation": "有人以沉默为盾，有人以沉默为剑。",
+      "translated_word": "以",
+      "display_order": 4
+    }
+  ]
+}

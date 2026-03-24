@@ -1,0 +1,40 @@
+{
+  "word": "advert",
+  "phonetic": "/ˈædvɜːt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "广告；宣传",
+  "examples": [
+    {
+      "sentence": "She muted the telly during the advert break.",
+      "style": "Contextual",
+      "translation": "广告时段一到，她便把电视调成了静音。",
+      "translated_word": "广告",
+      "display_order": 2
+    },
+    {
+      "sentence": "The company pulled the advert after public backlash.",
+      "style": "Formal",
+      "translation": "在公众舆论的压力下，该公司撤下了这则广告。",
+      "translated_word": "广告",
+      "display_order": 1
+    },
+    {
+      "sentence": "A clever advert sticks in your mind long after the product is forgotten.",
+      "style": "Philosophical",
+      "translation": "一则巧妙的广告，往往比产品本身更令人难忘。",
+      "translated_word": "广告",
+      "display_order": 4
+    },
+    {
+      "sentence": "He scrolled past job adverts until one finally caught his eye.",
+      "style": "Collocational",
+      "translation": "他一路滑过招聘广告，直到有一则终于吸引了他的目光。",
+      "translated_word": "广告",
+      "display_order": 3
+    }
+  ]
+}

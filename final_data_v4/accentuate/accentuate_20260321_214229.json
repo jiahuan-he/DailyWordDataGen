@@ -1,0 +1,39 @@
+{
+  "word": "accentuate",
+  "phonetic": "/əkˈsen.tʃu.eɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "强调；突出；凸显",
+  "examples": [
+    {
+      "sentence": "The dark frame accentuates the brightness of the painting.",
+      "style": "Contextual",
+      "translation": "深色画框衬托出画作的明亮。",
+      "translated_word": "衬托",
+      "display_order": 1
+    },
+    {
+      "sentence": "A simple necklace can accentuate your best features.",
+      "style": "Collocational",
+      "translation": "一条简约的项链便能突显你的优点。",
+      "translated_word": "突显",
+      "display_order": 2
+    },
+    {
+      "sentence": "Silence accentuates the final note, letting it linger.",
+      "style": "Poetic",
+      "translation": "寂静衬托着最后一个音符，任其悠然回荡。",
+      "translated_word": "衬托",
+      "display_order": 3
+    },
+    {
+      "sentence": "The findings accentuate the urgent need for policy reform.",
+      "style": "Formal",
+      "translation": "研究结果凸显了政策改革的紧迫性。",
+      "translated_word": "凸显",
+      "display_order": 4
+    }
+  ]
+}

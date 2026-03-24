@@ -1,0 +1,40 @@
+{
+  "word": "filthy",
+  "phonetic": "/ˈfɪlθi/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "肮脏的；污秽的；下流的",
+  "examples": [
+    {
+      "sentence": "The kids ran inside filthy, tracking mud across the clean floor.",
+      "style": "Contextual",
+      "translation": "孩子们浑身脏兮兮地跑进屋，把泥印满了刚拖过的地板。",
+      "translated_word": "脏兮兮",
+      "display_order": 1
+    },
+    {
+      "sentence": "He became filthy rich but dined alone every night.",
+      "style": "Collocational",
+      "translation": "他腰缠万贯，却夜夜独自用餐。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Rain pooled in filthy gutters, carrying the city's forgotten stories downstream.",
+      "style": "Poetic",
+      "translation": "雨水汇入污浊的沟渠，裹挟着城市被遗忘的故事流向远方。",
+      "translated_word": "污浊",
+      "display_order": 3
+    },
+    {
+      "sentence": "My hands were filthy from repotting the orchid; it bloomed a week later.",
+      "style": "Intimate",
+      "translation": "给兰花换盆弄得满手泥土；一周后，它开花了。",
+      "translated_word": null,
+      "display_order": 2
+    }
+  ]
+}

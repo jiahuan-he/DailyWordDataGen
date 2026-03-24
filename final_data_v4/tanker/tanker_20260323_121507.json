@@ -1,0 +1,40 @@
+{
+  "word": "tanker",
+  "phonetic": "/ˈtæŋkər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "油轮；槽车；运输船",
+  "examples": [
+    {
+      "sentence": "The tanker rode low in the harbor, its hull heavy with crude oil.",
+      "style": "Contextual",
+      "translation": "油轮低伏于港湾，船身因满载原油而沉重。",
+      "translated_word": "油轮",
+      "display_order": 3
+    },
+    {
+      "sentence": "The tanker spilled over 200,000 gallons of fuel into the bay.",
+      "style": "Formal",
+      "translation": "该油轮向海湾泄漏了超过二十万加仑燃油。",
+      "translated_word": "油轮",
+      "display_order": 2
+    },
+    {
+      "sentence": "An oil tanker of that size takes nearly a mile to stop.",
+      "style": "Collocational",
+      "translation": "那样大的油轮需要近一英里才能完全停下。",
+      "translated_word": "油轮",
+      "display_order": 1
+    },
+    {
+      "sentence": "At dusk, a lone tanker traced its path across the gilded sea.",
+      "style": "Poetic",
+      "translation": "暮色中，一艘孤独的油轮在金色海面上缓缓划出航迹。",
+      "translated_word": "油轮",
+      "display_order": 4
+    }
+  ]
+}

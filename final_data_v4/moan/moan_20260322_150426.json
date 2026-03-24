@@ -1,0 +1,40 @@
+{
+  "word": "moan",
+  "phonetic": "/moʊn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "呻吟；抱怨；哀叹",
+  "examples": [
+    {
+      "sentence": "The patient moaned softly as the nurse changed the bandage.",
+      "style": "Contextual",
+      "translation": "护士更换绷带时，病人轻轻呻吟了一声。",
+      "translated_word": "呻吟",
+      "display_order": 1
+    },
+    {
+      "sentence": "The wind moaned through the empty halls, a voice without a body.",
+      "style": "Poetic",
+      "translation": "风穿过空旷的厅堂，低声呜咽，是无形的悲鸣。",
+      "translated_word": "呜咽",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother used to moan about the cold every winter; now I finally understand why.",
+      "style": "Intimate",
+      "translation": "外婆生前总抱怨冬天太冷；如今我终于懂了。",
+      "translated_word": "抱怨",
+      "display_order": 3
+    },
+    {
+      "sentence": "He moans about the traffic every morning, yet never leaves earlier.",
+      "style": "Collocational",
+      "translation": "他每天早上都抱怨堵车，却从不肯早点出门。",
+      "translated_word": "抱怨",
+      "display_order": 2
+    }
+  ]
+}

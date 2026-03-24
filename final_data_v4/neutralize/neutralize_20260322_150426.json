@@ -1,0 +1,39 @@
+{
+  "word": "neutralize",
+  "phonetic": "/ˈnuːtrəlaɪz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "中和；抵消；消除；使无效",
+  "examples": [
+    {
+      "sentence": "The antidote worked quickly to neutralize the venom.",
+      "style": "Contextual",
+      "translation": "解药迅速中和了毒液。",
+      "translated_word": "中和",
+      "display_order": 2
+    },
+    {
+      "sentence": "Security teams were deployed to neutralize the threat before it escalated.",
+      "style": "Formal",
+      "translation": "安保团队已部署到位，以在事态升级前消除威胁。",
+      "translated_word": "消除",
+      "display_order": 3
+    },
+    {
+      "sentence": "A spoonful of baking soda can neutralize the acid in tomato sauce.",
+      "style": "Collocational",
+      "translation": "一勺小苏打就能中和番茄酱的酸味。",
+      "translated_word": "中和",
+      "display_order": 1
+    },
+    {
+      "sentence": "Listening, truly listening, can neutralize anger faster than any apology.",
+      "style": "Philosophical",
+      "translation": "真正的倾听，比任何道歉都能更快地化解愤怒。",
+      "translated_word": "化解",
+      "display_order": 4
+    }
+  ]
+}

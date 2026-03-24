@@ -1,0 +1,39 @@
+{
+  "word": "predecessor",
+  "phonetic": "/ˈpredəˌsesər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "前任；前辈；前身",
+  "examples": [
+    {
+      "sentence": "The incoming director quietly reviewed every policy her predecessor had signed.",
+      "style": "Formal",
+      "translation": "新任总监默默审阅了前任签署的每一项政策。",
+      "translated_word": "前任",
+      "display_order": 1
+    },
+    {
+      "sentence": "Where his predecessor favored caution, he chose bold reinvention.",
+      "style": "Contrastive",
+      "translation": "前任崇尚审慎，他则选择大胆革新。",
+      "translated_word": "前任",
+      "display_order": 3
+    },
+    {
+      "sentence": "We inherit not just the titles of our predecessors, but their unfinished questions.",
+      "style": "Philosophical",
+      "translation": "我们继承的不只是前人的头衔，还有他们未竟的追问。",
+      "translated_word": "前人",
+      "display_order": 4
+    },
+    {
+      "sentence": "This phone's immediate predecessor lacked a decent camera.",
+      "style": "Collocational",
+      "translation": "这款手机的前代机型相机表现平平。",
+      "translated_word": "前代",
+      "display_order": 2
+    }
+  ]
+}

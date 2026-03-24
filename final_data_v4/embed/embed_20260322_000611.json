@@ -1,0 +1,40 @@
+{
+  "word": "embed",
+  "phonetic": "/ɪmˈbed/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "嵌入；植入；使融入",
+  "examples": [
+    {
+      "sentence": "The diamond was embedded in the ring's platinum band.",
+      "style": "Contextual",
+      "translation": "那颗钻石镶嵌在戒指的铂金带上。",
+      "translated_word": "镶嵌",
+      "display_order": 1
+    },
+    {
+      "sentence": "The network embedded a correspondent with frontline troops.",
+      "style": "Formal",
+      "translation": "该新闻网派驻了一名记者随前线部队采访。",
+      "translated_word": "派驻",
+      "display_order": 4
+    },
+    {
+      "sentence": "Beliefs embedded in childhood often outlast our reasons for holding them.",
+      "style": "Philosophical",
+      "translation": "根植于童年的信念，往往比我们坚持它的理由更为长久。",
+      "translated_word": "根植",
+      "display_order": 3
+    },
+    {
+      "sentence": "The video is embedded in the article; just scroll down.",
+      "style": "Collocational",
+      "translation": "视频已嵌入文章中，往下滑即可观看。",
+      "translated_word": "嵌入",
+      "display_order": 2
+    }
+  ]
+}

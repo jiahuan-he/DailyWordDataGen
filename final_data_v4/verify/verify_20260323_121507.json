@@ -1,0 +1,39 @@
+{
+  "word": "verify",
+  "phonetic": "/ˈverɪfaɪ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "核实；验证；证实",
+  "examples": [
+    {
+      "sentence": "She checked her phone to verify the appointment time.",
+      "style": "Contextual",
+      "translation": "她看了眼手机，核实预约的时间。",
+      "translated_word": "核实",
+      "display_order": 2
+    },
+    {
+      "sentence": "All claims were independently verified before publication.",
+      "style": "Formal",
+      "translation": "所有声明在发布前均经独立核实。",
+      "translated_word": "核实",
+      "display_order": 3
+    },
+    {
+      "sentence": "Please verify your identity at the front desk.",
+      "style": "Collocational",
+      "translation": "请在前台验证您的身份。",
+      "translated_word": "验证",
+      "display_order": 1
+    },
+    {
+      "sentence": "The wise verify what they wish to believe most.",
+      "style": "Philosophical",
+      "translation": "智者会验证自己最想相信的事。",
+      "translated_word": "验证",
+      "display_order": 4
+    }
+  ]
+}

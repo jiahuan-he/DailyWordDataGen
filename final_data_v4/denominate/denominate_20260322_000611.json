@@ -1,0 +1,39 @@
+{
+  "word": "denominate",
+  "phonetic": "/dɪˈnɒmɪneɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "命名；称为；以…计价",
+  "examples": [
+    {
+      "sentence": "The contract was denominated in Swiss francs for stability.",
+      "style": "Formal",
+      "translation": "为求稳定，合同以瑞士法郎计价。",
+      "translated_word": "计价",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her savings, denominated in a weakening currency, lost half their value overnight.",
+      "style": "Contextual",
+      "translation": "她的积蓄以一种疲软的货币计价，一夜之间缩水了一半。",
+      "translated_word": "计价",
+      "display_order": 2
+    },
+    {
+      "sentence": "Assets denominated in foreign currencies carry hidden risks.",
+      "style": "Collocational",
+      "translation": "以外币计价的资产暗藏风险。",
+      "translated_word": "计价",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some debts are denominated in dollars; others, in trust.",
+      "style": "Contrastive",
+      "translation": "有些债务以美元计价；有些，则以信任。",
+      "translated_word": "计价",
+      "display_order": 4
+    }
+  ]
+}

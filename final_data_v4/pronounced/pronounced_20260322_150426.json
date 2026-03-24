@@ -1,0 +1,40 @@
+{
+  "word": "pronounced",
+  "phonetic": "/prəˈnaʊnst/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "明显的；显著的；突出的",
+  "examples": [
+    {
+      "sentence": "The café's silence had a pronounced quality; even whispers felt intrusive.",
+      "style": "Contextual",
+      "translation": "咖啡馆的静谧格外分明，连低语都显得唐突。",
+      "translated_word": "分明",
+      "display_order": 3
+    },
+    {
+      "sentence": "His accent grew less pronounced after years abroad, though never fully gone.",
+      "style": "Contrastive",
+      "translation": "多年旅居后，他的口音淡了许多，却从未完全消失。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "The wine carried a pronounced oakiness that lingered on the tongue.",
+      "style": "Collocational",
+      "translation": "这款酒有着明显的橡木香，在舌尖久久不散。",
+      "translated_word": "明显",
+      "display_order": 1
+    },
+    {
+      "sentence": "Growth is most pronounced in the seasons we resist.",
+      "style": "Philosophical",
+      "translation": "成长往往在我们最抗拒的时节里最为显著。",
+      "translated_word": "显著",
+      "display_order": 4
+    }
+  ]
+}

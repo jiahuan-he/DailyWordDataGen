@@ -1,0 +1,40 @@
+{
+  "word": "sibilant",
+  "phonetic": "/ˈsɪbɪlənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "嘶嘶作响的；咝音的；齿擦音的",
+  "examples": [
+    {
+      "sentence": "The grass held sibilant secrets as the wind passed through.",
+      "style": "Poetic",
+      "translation": "风穿过时，草丛低语着窸窣的秘密。",
+      "translated_word": "窸窣",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her sibilant whisper cut through the silence of the library.",
+      "style": "Contextual",
+      "translation": "她嘶嘶的低语划破了图书馆的寂静。",
+      "translated_word": "嘶嘶的",
+      "display_order": 1
+    },
+    {
+      "sentence": "The espresso machine released a sibilant hiss before the first drop fell.",
+      "style": "Collocational",
+      "translation": "咖啡机发出一声咝响，第一滴浓缩才缓缓落下。",
+      "translated_word": "咝响",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother spoke with a sibilant softness that made every word feel like a lullaby.",
+      "style": "Intimate",
+      "translation": "祖母说话时带着轻柔的嘶音，每个字都像摇篮曲。",
+      "translated_word": "嘶音",
+      "display_order": 2
+    }
+  ]
+}

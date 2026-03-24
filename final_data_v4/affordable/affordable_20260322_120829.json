@@ -1,0 +1,39 @@
+{
+  "word": "affordable",
+  "phonetic": "/əˈfɔːrdəbl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "实惠的；负担得起的；平价的",
+  "examples": [
+    {
+      "sentence": "The rent here is surprisingly affordable for downtown.",
+      "style": "Contextual",
+      "translation": "这里的房租就市中心而言，出乎意料地实惠。",
+      "translated_word": "实惠",
+      "display_order": 1
+    },
+    {
+      "sentence": "Affordable housing has become the city's most urgent debate.",
+      "style": "Collocational",
+      "translation": "经济适用房已成为这座城市最紧迫的议题。",
+      "translated_word": "经济适用",
+      "display_order": 3
+    },
+    {
+      "sentence": "The affordable model lacked bells and whistles, but it worked perfectly.",
+      "style": "Contrastive",
+      "translation": "那款平价型号没有花哨功能，却用起来完美无缺。",
+      "translated_word": "平价",
+      "display_order": 4
+    },
+    {
+      "sentence": "Quality education should be affordable to every curious mind.",
+      "style": "Inspirational",
+      "translation": "优质教育应当让每一颗求知的心都负担得起。",
+      "translated_word": "负担得起",
+      "display_order": 2
+    }
+  ]
+}

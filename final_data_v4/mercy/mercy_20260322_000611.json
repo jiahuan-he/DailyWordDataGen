@@ -1,0 +1,41 @@
+{
+  "word": "mercy",
+  "phonetic": "/ˈmɜːrsi/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "仁慈；宽恕；怜悯",
+  "examples": [
+    {
+      "sentence": "The judge showed mercy and reduced her sentence.",
+      "style": "Contextual",
+      "translation": "法官开恩，减轻了她的刑罚。",
+      "translated_word": "开恩",
+      "display_order": 1
+    },
+    {
+      "sentence": "International observers are calling for mercy in the controversial sentencing.",
+      "style": "Formal",
+      "translation": "国际观察人士呼吁在这起争议判决中施以宽大。",
+      "translated_word": "宽大",
+      "display_order": 3
+    },
+    {
+      "sentence": "Mercy is not weakness; it is power choosing restraint.",
+      "style": "Philosophical",
+      "translation": "仁慈不是软弱；是力量选择克制。",
+      "translated_word": "仁慈",
+      "display_order": 2
+    },
+    {
+      "sentence": "In the quiet after forgiveness, mercy blooms.",
+      "style": "Poetic",
+      "translation": "在宽恕后的静默里，仁慈悄然绽放。",
+      "translated_word": "仁慈",
+      "display_order": 4
+    }
+  ]
+}

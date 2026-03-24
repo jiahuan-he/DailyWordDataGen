@@ -1,0 +1,39 @@
+{
+  "word": "peculate",
+  "phonetic": "/ˈpekjʊleɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "挪用；贪污；侵吞",
+  "examples": [
+    {
+      "sentence": "The treasurer peculated funds meant for disaster relief.",
+      "style": "Formal",
+      "translation": "财务主管挪用了本应用于赈灾的款项。",
+      "translated_word": "挪用",
+      "display_order": 1
+    },
+    {
+      "sentence": "He did not steal from strangers; he peculated from those who trusted him most.",
+      "style": "Contrastive",
+      "translation": "他并非偷窃陌路人的财物，而是侵吞了最信任他之人的钱款。",
+      "translated_word": "侵吞",
+      "display_order": 3
+    },
+    {
+      "sentence": "After years of unquestioned access, she began to peculate small amounts.",
+      "style": "Contextual",
+      "translation": "多年来无人过问的权限，让她开始悄然挪用小额资金。",
+      "translated_word": "挪用",
+      "display_order": 2
+    },
+    {
+      "sentence": "Power does not corrupt; it reveals who was willing to peculate all along.",
+      "style": "Philosophical",
+      "translation": "权力并不使人腐化，它只是揭示了谁早已心存贪念。",
+      "translated_word": "贪念",
+      "display_order": 4
+    }
+  ]
+}

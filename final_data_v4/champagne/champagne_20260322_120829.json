@@ -1,0 +1,41 @@
+{
+  "word": "champagne",
+  "phonetic": "/ʃæmˈpeɪn/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "香槟酒；起泡酒",
+  "examples": [
+    {
+      "sentence": "She ordered champagne the moment the promotion came through.",
+      "style": "Contextual",
+      "translation": "升职消息一到，她便点了香槟。",
+      "translated_word": "香槟",
+      "display_order": 2
+    },
+    {
+      "sentence": "We raised our champagne to toast the newlyweds.",
+      "style": "Collocational",
+      "translation": "我们举起香槟，为新人祝福。",
+      "translated_word": "香槟",
+      "display_order": 1
+    },
+    {
+      "sentence": "On that rooftop, we split a bottle of cheap champagne and mapped out our futures.",
+      "style": "Intimate",
+      "translation": "在那个天台上，我们分了一瓶廉价香槟，畅想着各自的未来。",
+      "translated_word": "香槟",
+      "display_order": 3
+    },
+    {
+      "sentence": "Champagne holds light like liquid gold studded with tiny stars.",
+      "style": "Poetic",
+      "translation": "香槟承载着光，宛若缀满繁星的流金。",
+      "translated_word": "香槟",
+      "display_order": 4
+    }
+  ]
+}

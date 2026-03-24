@@ -1,0 +1,39 @@
+{
+  "word": "doctrine",
+  "phonetic": "/ˈdɑːktrɪn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "教义；学说；信条；原则",
+  "examples": [
+    {
+      "sentence": "The church's doctrine on forgiveness drew thousands to its doors.",
+      "style": "Contextual",
+      "translation": "教会关于宽恕的教义吸引了无数信众前来。",
+      "translated_word": "教义",
+      "display_order": 1
+    },
+    {
+      "sentence": "The administration's foreign policy doctrine prioritizes diplomacy over intervention.",
+      "style": "Formal",
+      "translation": "本届政府的外交政策学说将外交手段置于军事干预之上。",
+      "translated_word": "学说",
+      "display_order": 2
+    },
+    {
+      "sentence": "His doctrine was carved in stone; hers grew with every question.",
+      "style": "Contrastive",
+      "translation": "他的信条刻于顽石；她的则随每一次追问而生长。",
+      "translated_word": "信条",
+      "display_order": 3
+    },
+    {
+      "sentence": "A doctrine that cannot bear scrutiny was never truly believed.",
+      "style": "Philosophical",
+      "translation": "经不起审视的信条，从未被真正信仰过。",
+      "translated_word": "信条",
+      "display_order": 4
+    }
+  ]
+}

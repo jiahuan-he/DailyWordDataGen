@@ -1,0 +1,40 @@
+{
+  "word": "crowd",
+  "phonetic": "/kraʊd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "人群；群众；一伙人",
+  "examples": [
+    {
+      "sentence": "The crowd outside the stadium swelled as kickoff approached.",
+      "style": "Contextual",
+      "translation": "开球时间临近，体育场外的人群愈发拥挤。",
+      "translated_word": "人群",
+      "display_order": 1
+    },
+    {
+      "sentence": "You can feel most alone standing in the center of a crowd.",
+      "style": "Philosophical",
+      "translation": "置身人群中央，你反而可能感到最孤独。",
+      "translated_word": "人群",
+      "display_order": 4
+    },
+    {
+      "sentence": "The crowd moved like water through the station, each face a fleeting story.",
+      "style": "Poetic",
+      "translation": "人群如水流过车站，每张面孔都是转瞬即逝的故事。",
+      "translated_word": "人群",
+      "display_order": 3
+    },
+    {
+      "sentence": "Across that crowd of strangers, her eyes found mine.",
+      "style": "Intimate",
+      "translation": "在那片陌生的人群中，她的目光与我相遇。",
+      "translated_word": "人群",
+      "display_order": 2
+    }
+  ]
+}

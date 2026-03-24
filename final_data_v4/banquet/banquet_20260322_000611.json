@@ -1,0 +1,40 @@
+{
+  "word": "banquet",
+  "phonetic": "/ˈbæŋkwɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "宴会；盛宴；酒席",
+  "examples": [
+    {
+      "sentence": "The wedding banquet featured twelve courses and three vintages of wine.",
+      "style": "Contextual",
+      "translation": "婚宴上呈上了十二道菜肴与三款年份佳酿。",
+      "translated_word": "宴",
+      "display_order": 1
+    },
+    {
+      "sentence": "World leaders gathered at the state banquet to celebrate the historic accord.",
+      "style": "Formal",
+      "translation": "各国领导人齐聚国宴，共庆这一历史性协定的签署。",
+      "translated_word": "宴",
+      "display_order": 2
+    },
+    {
+      "sentence": "Crystal caught the candlelight; laughter rose and fell across the banquet.",
+      "style": "Poetic",
+      "translation": "水晶杯映着烛光，笑声在宴席间起落如潮。",
+      "translated_word": "宴席",
+      "display_order": 3
+    },
+    {
+      "sentence": "The banquet ends, but the conversations linger longer than any dish.",
+      "style": "Philosophical",
+      "translation": "盛宴终散，而席间的对话，比任何珍馐都更令人回味。",
+      "translated_word": "盛宴",
+      "display_order": 4
+    }
+  ]
+}

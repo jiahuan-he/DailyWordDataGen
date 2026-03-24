@@ -1,0 +1,39 @@
+{
+  "word": "satisfactory",
+  "phonetic": "/ˌsætɪsˈfæktəri/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "令人满意的；合格的；尚可的",
+  "examples": [
+    {
+      "sentence": "The repairs were satisfactory; no further work was needed.",
+      "style": "Contextual",
+      "translation": "维修结果令人满意，无需再做其他处理。",
+      "translated_word": "令人满意",
+      "display_order": 1
+    },
+    {
+      "sentence": "The committee deemed the proposal satisfactory for initial funding.",
+      "style": "Formal",
+      "translation": "委员会认定该提案符合初期拨款的标准。",
+      "translated_word": "符合",
+      "display_order": 3
+    },
+    {
+      "sentence": "Not perfect, but satisfactory: the only honest review he could give.",
+      "style": "Contrastive",
+      "translation": "称不上完美，但尚可：这是他唯一诚实的评价。",
+      "translated_word": "尚可",
+      "display_order": 2
+    },
+    {
+      "sentence": "Satisfactory is not a ceiling; it is stable ground.",
+      "style": "Philosophical",
+      "translation": "合格不是天花板，而是稳固的立足之地。",
+      "translated_word": "合格",
+      "display_order": 4
+    }
+  ]
+}

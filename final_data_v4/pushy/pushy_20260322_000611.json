@@ -1,0 +1,39 @@
+{
+  "word": "pushy",
+  "phonetic": "/ˈpʊʃi/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "强势；咄咄逼人；急切",
+  "examples": [
+    {
+      "sentence": "She resigned after her pushy manager demanded overtime for the third week.",
+      "style": "Contextual",
+      "translation": "强势的经理连续三周要求加班，她辞职了。",
+      "translated_word": "强势",
+      "display_order": 3
+    },
+    {
+      "sentence": "A pushy salesperson followed me through three aisles.",
+      "style": "Collocational",
+      "translation": "一个咄咄逼人的销售员跟着我穿过了三条过道。",
+      "translated_word": "咄咄逼人",
+      "display_order": 1
+    },
+    {
+      "sentence": "Confidence opens doors; being pushy slams them shut.",
+      "style": "Contrastive",
+      "translation": "自信能打开大门；强人所难只会将其关上。",
+      "translated_word": "强人所难",
+      "display_order": 4
+    },
+    {
+      "sentence": "My aunt means well, but her pushy questions about marriage exhaust me.",
+      "style": "Intimate",
+      "translation": "姨妈是好意，但她关于婚事的逼问让我疲惫不堪。",
+      "translated_word": "逼问",
+      "display_order": 2
+    }
+  ]
+}

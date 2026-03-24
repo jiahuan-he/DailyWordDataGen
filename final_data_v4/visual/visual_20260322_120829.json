@@ -1,0 +1,40 @@
+{
+  "word": "visual",
+  "phonetic": "/ˈvɪʒuəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "视觉的；可见的；形象的",
+  "examples": [
+    {
+      "sentence": "The gallery's visual impact stopped her mid-step.",
+      "style": "Contextual",
+      "translation": "画廊的视觉冲击力让她停下了脚步。",
+      "translated_word": "视觉",
+      "display_order": 2
+    },
+    {
+      "sentence": "He's a visual learner; charts work better than long explanations.",
+      "style": "Collocational",
+      "translation": "他是视觉型学习者，图表比长篇解释更有效。",
+      "translated_word": "视觉",
+      "display_order": 1
+    },
+    {
+      "sentence": "Snow softens the city into a visual hush.",
+      "style": "Poetic",
+      "translation": "雪将城市柔化成一片静谧的画卷。",
+      "translated_word": "画卷",
+      "display_order": 3
+    },
+    {
+      "sentence": "We crave visual proof, yet rarely question what the frame excludes.",
+      "style": "Philosophical",
+      "translation": "我们渴望眼见为实，却鲜少追问画框之外遗漏了什么。",
+      "translated_word": "眼见",
+      "display_order": 4
+    }
+  ]
+}

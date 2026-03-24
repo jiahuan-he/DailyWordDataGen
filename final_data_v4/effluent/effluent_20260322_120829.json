@@ -1,0 +1,40 @@
+{
+  "word": "effluent",
+  "phonetic": "/ˈefluənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "污水；废水；流出物",
+  "examples": [
+    {
+      "sentence": "The factory's effluent turned the river an unnatural gray.",
+      "style": "Contextual",
+      "translation": "工厂排出的污水将河流染成了诡异的灰色。",
+      "translated_word": "污水",
+      "display_order": 1
+    },
+    {
+      "sentence": "New regulations require companies to test their effluent before discharge.",
+      "style": "Formal",
+      "translation": "新规要求企业在排放前对废水进行检测。",
+      "translated_word": "废水",
+      "display_order": 3
+    },
+    {
+      "sentence": "Industrial effluent must be treated before entering public waterways.",
+      "style": "Collocational",
+      "translation": "工业废水须经处理方可排入公共水域。",
+      "translated_word": "废水",
+      "display_order": 2
+    },
+    {
+      "sentence": "Unlike stormwater, effluent carries concentrated pollutants from the source.",
+      "style": "Contrastive",
+      "translation": "与雨水不同，污水从源头便携带着高浓度污染物。",
+      "translated_word": "污水",
+      "display_order": 4
+    }
+  ]
+}

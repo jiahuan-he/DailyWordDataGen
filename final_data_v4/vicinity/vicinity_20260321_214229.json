@@ -1,0 +1,39 @@
+{
+  "word": "vicinity",
+  "phonetic": "/vɪˈsɪnɪti/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "附近；周边；邻近地区",
+  "examples": [
+    {
+      "sentence": "There's a great coffee shop somewhere in this vicinity.",
+      "style": "Contextual",
+      "translation": "这附近有一家很棒的咖啡店。",
+      "translated_word": "附近",
+      "display_order": 1
+    },
+    {
+      "sentence": "All residents in the vicinity have been advised to evacuate.",
+      "style": "Formal",
+      "translation": "周边所有居民已被建议撤离。",
+      "translated_word": "周边",
+      "display_order": 3
+    },
+    {
+      "sentence": "No taxis were available in the immediate vicinity.",
+      "style": "Collocational",
+      "translation": "附近没有出租车可用。",
+      "translated_word": "附近",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every street in the vicinity of my old school still feels like home.",
+      "style": "Intimate",
+      "translation": "母校周围的每条街道，至今仍有家的感觉。",
+      "translated_word": "周围",
+      "display_order": 2
+    }
+  ]
+}

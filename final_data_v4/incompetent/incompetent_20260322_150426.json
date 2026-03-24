@@ -1,0 +1,40 @@
+{
+  "word": "incompetent",
+  "phonetic": "/ɪnˈkɑːmpɪtənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "无能的；不称职的；不胜任的",
+  "examples": [
+    {
+      "sentence": "Three missed deadlines later, the team knew: their manager was incompetent.",
+      "style": "Contextual",
+      "translation": "三次错过截止日期后，团队心里有了答案：他们的经理根本不称职。",
+      "translated_word": "不称职",
+      "display_order": 1
+    },
+    {
+      "sentence": "The audit revealed years of incompetent oversight at the highest levels.",
+      "style": "Formal",
+      "translation": "审计揭露了最高层多年来的监管失职。",
+      "translated_word": "失职",
+      "display_order": 3
+    },
+    {
+      "sentence": "A busy leader may stumble; an incompetent one never learns from the fall.",
+      "style": "Contrastive",
+      "translation": "忙碌的领导或许会跌倒；无能的领导从不在跌倒中成长。",
+      "translated_word": "无能",
+      "display_order": 2
+    },
+    {
+      "sentence": "The truly incompetent never doubt themselves; certainty is their shield.",
+      "style": "Philosophical",
+      "translation": "真正无能的人从不自我怀疑；笃定是他们的护身符。",
+      "translated_word": "无能",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "container",
+  "phonetic": "/kənˈteɪnər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "容器；集装箱；货柜",
+  "examples": [
+    {
+      "sentence": "Store leftovers in an airtight container to keep them fresh.",
+      "style": "Contextual",
+      "translation": "将剩菜存放在密封容器中，以保持新鲜。",
+      "translated_word": "容器",
+      "display_order": 1
+    },
+    {
+      "sentence": "The shipping container crossed three oceans before reaching its destination.",
+      "style": "Collocational",
+      "translation": "那只集装箱跨越三片海洋，才抵达目的地。",
+      "translated_word": "集装箱",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we seal in containers, we hope to find unchanged.",
+      "style": "Philosophical",
+      "translation": "我们密封于容器中的，都是希望不曾改变的。",
+      "translated_word": "容器",
+      "display_order": 4
+    },
+    {
+      "sentence": "In that small container on her dresser, she kept every note he ever wrote.",
+      "style": "Intimate",
+      "translation": "在梳妆台上那只小盒子里，她珍藏着他写过的每一张字条。",
+      "translated_word": "盒子",
+      "display_order": 2
+    }
+  ]
+}

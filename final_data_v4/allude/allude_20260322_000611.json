@@ -1,0 +1,39 @@
+{
+  "word": "allude",
+  "phonetic": "/əˈluːd/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "暗指；影射；间接提及",
+  "examples": [
+    {
+      "sentence": "She never named him, but her poems clearly allude to a lost love.",
+      "style": "Contextual",
+      "translation": "她从未点明他的名字，但诗中分明暗指一段逝去的爱情。",
+      "translated_word": "暗指",
+      "display_order": 1
+    },
+    {
+      "sentence": "The report alludes to systemic failures without assigning blame.",
+      "style": "Formal",
+      "translation": "报告影射了制度性缺陷，却未追究具体责任。",
+      "translated_word": "影射",
+      "display_order": 2
+    },
+    {
+      "sentence": "We allude to what we cannot bring ourselves to say outright.",
+      "style": "Philosophical",
+      "translation": "我们总是旁敲侧击，说不出口的话只能借由暗示传递。",
+      "translated_word": "旁敲侧击",
+      "display_order": 3
+    },
+    {
+      "sentence": "Your eyes allude to a question your lips refuse to ask.",
+      "style": "Intimate",
+      "translation": "你的眼神暗藏疑问，嘴唇却始终不肯开口。",
+      "translated_word": "暗藏",
+      "display_order": 4
+    }
+  ]
+}

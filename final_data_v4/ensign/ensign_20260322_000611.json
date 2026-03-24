@@ -1,0 +1,40 @@
+{
+  "word": "ensign",
+  "phonetic": "/ˈensən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "旗帜；军旗；海军少尉",
+  "examples": [
+    {
+      "sentence": "The ensign snapped in the wind as the fleet departed at dawn.",
+      "style": "Contextual",
+      "translation": "舰队黎明启航时，军旗在风中猎猎作响。",
+      "translated_word": "军旗",
+      "display_order": 1
+    },
+    {
+      "sentence": "A newly commissioned ensign reported for duty aboard the carrier.",
+      "style": "Formal",
+      "translation": "一名新任海军少尉前往航母报到。",
+      "translated_word": "海军少尉",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every tattered ensign tells of storms survived.",
+      "style": "Poetic",
+      "translation": "每一面残破的旗帜，都诉说着劫后余生。",
+      "translated_word": "旗帜",
+      "display_order": 2
+    },
+    {
+      "sentence": "We follow an ensign not for the cloth, but for what it carries.",
+      "style": "Philosophical",
+      "translation": "我们追随旗帜，不为那布匹，而为它所承载之物。",
+      "translated_word": "旗帜",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "viand",
+  "phonetic": "/ˈvaɪ.ənd/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "佳肴；珍馐；美馔",
+  "examples": [
+    {
+      "sentence": "The banquet table overflowed with viands from distant lands.",
+      "style": "Contextual",
+      "translation": "宴席上摆满了来自远方的珍馐。",
+      "translated_word": "珍馐",
+      "display_order": 2
+    },
+    {
+      "sentence": "The state dinner featured viands prepared by three Michelin-starred chefs.",
+      "style": "Formal",
+      "translation": "国宴呈上了三位米其林星级主厨烹制的佳肴。",
+      "translated_word": "佳肴",
+      "display_order": 1
+    },
+    {
+      "sentence": "Silver platters of viands gleamed beneath the chandeliers.",
+      "style": "Poetic",
+      "translation": "银盘上的美馔在枝形吊灯下熠熠生辉。",
+      "translated_word": "美馔",
+      "display_order": 3
+    },
+    {
+      "sentence": "The wine cellar was stocked to complement every viand on the menu.",
+      "style": "Collocational",
+      "translation": "酒窖中备有佳酿，与菜单上每一道珍馐相得益彰。",
+      "translated_word": "珍馐",
+      "display_order": 4
+    }
+  ]
+}

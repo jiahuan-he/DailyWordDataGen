@@ -1,0 +1,40 @@
+{
+  "word": "flurry",
+  "phonetic": "/ˈflʌri/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "一阵；骚动；小雪",
+  "examples": [
+    {
+      "sentence": "A flurry of last-minute orders kept the kitchen running past midnight.",
+      "style": "Contextual",
+      "translation": "一阵临时订单让厨房忙到了深夜。",
+      "translated_word": "一阵",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her resignation sparked a flurry of speculation across the industry.",
+      "style": "Collocational",
+      "translation": "她的辞职在业界引发了一阵纷纷揣测。",
+      "translated_word": "一阵",
+      "display_order": 3
+    },
+    {
+      "sentence": "The first flurry of winter fell without a sound, settling on bare branches.",
+      "style": "Poetic",
+      "translation": "初冬的小雪悄然飘落，栖于枯枝之上。",
+      "translated_word": "小雪",
+      "display_order": 4
+    },
+    {
+      "sentence": "That flurry of late-night texts after we met became our quiet beginning.",
+      "style": "Intimate",
+      "translation": "相识后那一阵深夜短信，成了我们静静的开端。",
+      "translated_word": "一阵",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "exchange",
+  "phonetic": "/ɪksˈtʃeɪndʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "交换；兑换；交流",
+  "examples": [
+    {
+      "sentence": "They exchanged numbers at the café, promising to meet again.",
+      "style": "Contextual",
+      "translation": "咖啡馆里，他们交换了号码，约定再见。",
+      "translated_word": "交换",
+      "display_order": 1
+    },
+    {
+      "sentence": "We exchanged a glance that needed no words.",
+      "style": "Collocational",
+      "translation": "我们交换了一个眼神，无需言语。",
+      "translated_word": "交换",
+      "display_order": 2
+    },
+    {
+      "sentence": "The morning she left, we exchanged letters we'd written but never sent.",
+      "style": "Intimate",
+      "translation": "她离开的那个清晨，我们交换了彼此写了却从未寄出的信。",
+      "translated_word": "交换",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every conversation is an exchange; we leave with pieces of each other.",
+      "style": "Philosophical",
+      "translation": "每一场对话都是一次交换；我们带着彼此的一部分离开。",
+      "translated_word": "交换",
+      "display_order": 4
+    }
+  ]
+}

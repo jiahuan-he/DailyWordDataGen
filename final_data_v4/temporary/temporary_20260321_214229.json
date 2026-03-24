@@ -1,0 +1,40 @@
+{
+  "word": "temporary",
+  "phonetic": "/ˈtempəreri/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "暂时的；临时的；短暂的",
+  "examples": [
+    {
+      "sentence": "The café closed for repairs, so we met at a temporary location nearby.",
+      "style": "Contextual",
+      "translation": "咖啡馆闭店装修，我们便约在附近的临时地点见面。",
+      "translated_word": "临时",
+      "display_order": 2
+    },
+    {
+      "sentence": "She accepted a temporary position while searching for something permanent.",
+      "style": "Collocational",
+      "translation": "她接受了一份临时工作，同时寻找长期职位。",
+      "translated_word": "临时",
+      "display_order": 1
+    },
+    {
+      "sentence": "What feels permanent is often just temporary in slow motion.",
+      "style": "Philosophical",
+      "translation": "看似永恒之物，不过是缓慢行进的暂时。",
+      "translated_word": "暂时",
+      "display_order": 4
+    },
+    {
+      "sentence": "We called it a temporary arrangement; five years later, we are still here.",
+      "style": "Intimate",
+      "translation": "我们说这是临时安排，五年后却依然在此。",
+      "translated_word": "临时",
+      "display_order": 3
+    }
+  ]
+}

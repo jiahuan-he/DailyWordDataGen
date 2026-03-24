@@ -1,0 +1,39 @@
+{
+  "word": "evident",
+  "phonetic": "/ˈevɪdənt/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "明显的；显而易见的；清楚的",
+  "examples": [
+    {
+      "sentence": "Her talent was evident the moment she touched the piano.",
+      "style": "Contextual",
+      "translation": "她的才华在触碰琴键的瞬间便显而易见。",
+      "translated_word": "显而易见",
+      "display_order": 1
+    },
+    {
+      "sentence": "The report made it evident that early intervention improves outcomes.",
+      "style": "Formal",
+      "translation": "报告清楚表明，早期干预能有效改善结果。",
+      "translated_word": "清楚",
+      "display_order": 4
+    },
+    {
+      "sentence": "Some truths become evident only after we stop searching.",
+      "style": "Philosophical",
+      "translation": "有些真相，唯有在停止追寻后才会显现。",
+      "translated_word": "显现",
+      "display_order": 3
+    },
+    {
+      "sentence": "His love was never spoken, but evident in every packed lunch.",
+      "style": "Intimate",
+      "translation": "他的爱从未说出口，却藏在每一份亲手准备的便当里。",
+      "translated_word": null,
+      "display_order": 2
+    }
+  ]
+}

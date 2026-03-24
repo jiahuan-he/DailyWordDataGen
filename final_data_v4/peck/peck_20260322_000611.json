@@ -1,0 +1,40 @@
+{
+  "word": "peck",
+  "phonetic": "/pek/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "啄；轻吻；小口吃",
+  "examples": [
+    {
+      "sentence": "The sparrow pecked at the breadcrumbs scattered on the windowsill.",
+      "style": "Contextual",
+      "translation": "麻雀在窗台上啄食着散落的面包屑。",
+      "translated_word": "啄食",
+      "display_order": 1
+    },
+    {
+      "sentence": "She pecked him on the cheek and slipped out the door.",
+      "style": "Collocational",
+      "translation": "她在他脸颊上轻轻一吻，便悄然出门。",
+      "translated_word": "吻",
+      "display_order": 3
+    },
+    {
+      "sentence": "My daughter pecks my nose each night before sleep; it is her invented ritual.",
+      "style": "Intimate",
+      "translation": "女儿每晚入睡前都要轻啄我的鼻尖；这是她发明的小仪式。",
+      "translated_word": "轻啄",
+      "display_order": 2
+    },
+    {
+      "sentence": "Raindrops peck the still lake, each ripple a brief confession.",
+      "style": "Poetic",
+      "translation": "雨滴轻啄静湖，每一圈涟漪都是短暂的倾诉。",
+      "translated_word": "轻啄",
+      "display_order": 4
+    }
+  ]
+}

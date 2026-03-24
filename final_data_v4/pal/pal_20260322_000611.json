@@ -1,0 +1,40 @@
+{
+  "word": "pal",
+  "phonetic": "/pæl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "朋友；伙伴；哥们儿",
+  "examples": [
+    {
+      "sentence": "We became pals over shared coffee breaks.",
+      "style": "Contextual",
+      "translation": "我们因共同的咖啡时光成了朋友。",
+      "translated_word": "朋友",
+      "display_order": 2
+    },
+    {
+      "sentence": "My pen pal writes in blue ink; I recognize her letters before reading my name.",
+      "style": "Collocational",
+      "translation": "我的笔友总用蓝墨水；还没看到名字，我就认出了她的信。",
+      "translated_word": "笔友",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every birthday, the same pal calls first.",
+      "style": "Intimate",
+      "translation": "每年生日，总是同一个朋友最先打来电话。",
+      "translated_word": "朋友",
+      "display_order": 1
+    },
+    {
+      "sentence": "A pal remembers who you were and believes in who you're becoming.",
+      "style": "Philosophical",
+      "translation": "朋友记得你曾经的模样，也相信你正在成为的人。",
+      "translated_word": "朋友",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "disburse",
+  "phonetic": "/dɪsˈbɜːrs/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "支付；拨付；发放",
+  "examples": [
+    {
+      "sentence": "The foundation will disburse scholarship funds directly to each recipient's account.",
+      "style": "Contextual",
+      "translation": "基金会将把奖学金直接拨付至每位获奖者的账户。",
+      "translated_word": "拨付",
+      "display_order": 3
+    },
+    {
+      "sentence": "The government has pledged to disburse emergency relief within 48 hours.",
+      "style": "Formal",
+      "translation": "政府承诺将在48小时内发放紧急救援款项。",
+      "translated_word": "发放",
+      "display_order": 2
+    },
+    {
+      "sentence": "Once approved, the bank can disburse the loan to your account.",
+      "style": "Collocational",
+      "translation": "一经批准，银行即可将贷款拨入您的账户。",
+      "translated_word": "拨入",
+      "display_order": 1
+    },
+    {
+      "sentence": "They collect donations quickly but disburse them slowly.",
+      "style": "Contrastive",
+      "translation": "他们收款迅速，拨款却迟缓。",
+      "translated_word": "拨款",
+      "display_order": 4
+    }
+  ]
+}

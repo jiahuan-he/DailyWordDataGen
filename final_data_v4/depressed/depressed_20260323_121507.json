@@ -1,0 +1,40 @@
+{
+  "word": "depressed",
+  "phonetic": "/dɪˈprest/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "沮丧的；消沉的；萧条的",
+  "examples": [
+    {
+      "sentence": "She hadn't left her room in days; her mother knew she was deeply depressed.",
+      "style": "Contextual",
+      "translation": "她已数日未出房门，母亲知道她正深陷消沉。",
+      "translated_word": "消沉",
+      "display_order": 1
+    },
+    {
+      "sentence": "A depressed economy reveals what prosperity conceals: who truly matters.",
+      "style": "Philosophical",
+      "translation": "萧条的经济揭示了繁荣所遮蔽的真相：谁才真正重要。",
+      "translated_word": "萧条",
+      "display_order": 3
+    },
+    {
+      "sentence": "The garden lay depressed beneath winter's quiet weight.",
+      "style": "Poetic",
+      "translation": "花园在冬日无声的重压下沉寂着。",
+      "translated_word": "沉寂",
+      "display_order": 4
+    },
+    {
+      "sentence": "That year, I was too depressed to recognize kindness when it came.",
+      "style": "Intimate",
+      "translation": "那一年，我沉郁得无法辨认善意的到来。",
+      "translated_word": "沉郁",
+      "display_order": 2
+    }
+  ]
+}

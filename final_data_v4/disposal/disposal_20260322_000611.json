@@ -1,0 +1,39 @@
+{
+  "word": "disposal",
+  "phonetic": "/dɪˈspoʊzəl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "处理；丢弃；支配；处置",
+  "examples": [
+    {
+      "sentence": "The city installed new bins for the safe disposal of batteries.",
+      "style": "Contextual",
+      "translation": "市里安装了新的垃圾箱，专门用于电池的安全处理。",
+      "translated_word": "处理",
+      "display_order": 1
+    },
+    {
+      "sentence": "With a week at her disposal, she vanished into the mountains.",
+      "style": "Collocational",
+      "translation": "有一周时间可以支配，她消失在了山里。",
+      "translated_word": "支配",
+      "display_order": 2
+    },
+    {
+      "sentence": "The board authorized immediate disposal of outdated inventory.",
+      "style": "Formal",
+      "translation": "董事会批准立即处置过期库存。",
+      "translated_word": "处置",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we mark for disposal often says more than what we choose to keep.",
+      "style": "Philosophical",
+      "translation": "我们决定丢弃的东西，往往比我们选择保留的更能说明问题。",
+      "translated_word": "丢弃",
+      "display_order": 4
+    }
+  ]
+}

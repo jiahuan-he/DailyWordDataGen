@@ -1,0 +1,40 @@
+{
+  "word": "stammer",
+  "phonetic": "/ˈstæmər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "结巴；口吃；支支吾吾",
+  "examples": [
+    {
+      "sentence": "Under pressure, he stammered his response.",
+      "style": "Contextual",
+      "translation": "重压之下，他结结巴巴地作出回应。",
+      "translated_word": "结结巴巴",
+      "display_order": 1
+    },
+    {
+      "sentence": "The first time I said I loved her, I stammered every syllable.",
+      "style": "Intimate",
+      "translation": "第一次说爱她时，我每个字都说得磕磕绊绊。",
+      "translated_word": "磕磕绊绊",
+      "display_order": 3
+    },
+    {
+      "sentence": "His voice stammered at the edge of a confession.",
+      "style": "Poetic",
+      "translation": "他的声音在告白边缘支支吾吾。",
+      "translated_word": "支支吾吾",
+      "display_order": 4
+    },
+    {
+      "sentence": "She stammered in interviews but sang with perfect clarity.",
+      "style": "Contrastive",
+      "translation": "面试时她结结巴巴，歌唱时却字正腔圆。",
+      "translated_word": "结结巴巴",
+      "display_order": 2
+    }
+  ]
+}

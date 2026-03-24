@@ -1,0 +1,40 @@
+{
+  "word": "fret",
+  "phonetic": "/fret/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "担忧；烦恼；焦虑",
+  "examples": [
+    {
+      "sentence": "Don't fret; the flight is just delayed, not canceled.",
+      "style": "Contextual",
+      "translation": "别担心，航班只是延误了，并没有取消。",
+      "translated_word": "担心",
+      "display_order": 1
+    },
+    {
+      "sentence": "She frets over my health more than I ever do myself.",
+      "style": "Intimate",
+      "translation": "她比我自己更担忧我的身体。",
+      "translated_word": "担忧",
+      "display_order": 2
+    },
+    {
+      "sentence": "We fret about the future while the present slips away.",
+      "style": "Philosophical",
+      "translation": "我们为未来焦虑，却让当下悄然流逝。",
+      "translated_word": "焦虑",
+      "display_order": 3
+    },
+    {
+      "sentence": "Fret less, breathe more; clarity follows stillness.",
+      "style": "Inspirational",
+      "translation": "少些烦忧，多些呼吸；心静自明。",
+      "translated_word": "烦忧",
+      "display_order": 4
+    }
+  ]
+}

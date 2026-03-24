@@ -1,0 +1,40 @@
+{
+  "word": "nag",
+  "phonetic": "/næɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "唠叨；不断催促；困扰",
+  "examples": [
+    {
+      "sentence": "She nagged him about the leaky faucet for weeks.",
+      "style": "Contextual",
+      "translation": "她为那漏水的水龙头唠叨了他好几周。",
+      "translated_word": "唠叨",
+      "display_order": 1
+    },
+    {
+      "sentence": "The deadline nagged at her even during the holiday.",
+      "style": "Collocational",
+      "translation": "截止日期的压力即使在假期里也困扰着她。",
+      "translated_word": "困扰",
+      "display_order": 3
+    },
+    {
+      "sentence": "My mother used to nag me about breakfast; now I nag my own children.",
+      "style": "Intimate",
+      "translation": "母亲从前总催我吃早餐；如今我也这样催促自己的孩子。",
+      "translated_word": "催促",
+      "display_order": 2
+    },
+    {
+      "sentence": "We nag those we love most, mistaking worry for control.",
+      "style": "Philosophical",
+      "translation": "我们对最爱的人唠叨不休，误把担忧当作了掌控。",
+      "translated_word": "唠叨",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "leap",
+  "phonetic": "/liːp/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "跳跃；飞跃；猛增；扑向",
+  "examples": [
+    {
+      "sentence": "The deer leaped across the stream, barely disturbing the water.",
+      "style": "Contextual",
+      "translation": "那只鹿跃过溪流，几乎没有惊动水面。",
+      "translated_word": "跃",
+      "display_order": 1
+    },
+    {
+      "sentence": "She took a leap of faith and quit her job to write.",
+      "style": "Collocational",
+      "translation": "她孤注一掷，辞去工作专心写作。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Growth begins the moment you leap before feeling ready.",
+      "style": "Inspirational",
+      "translation": "成长始于那一刻：在准备好之前纵身一跃。",
+      "translated_word": "跃",
+      "display_order": 3
+    },
+    {
+      "sentence": "Salmon leap through the falls, silver against white water.",
+      "style": "Poetic",
+      "translation": "三文鱼跃过瀑布，银色身影映衬着白色水花。",
+      "translated_word": "跃",
+      "display_order": 2
+    }
+  ]
+}

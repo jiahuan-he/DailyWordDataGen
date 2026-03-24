@@ -1,0 +1,40 @@
+{
+  "word": "gulf",
+  "phonetic": "/ɡʌlf/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "海湾；鸿沟；深渊",
+  "examples": [
+    {
+      "sentence": "The fishing village overlooked the gulf, its waters calm at dawn.",
+      "style": "Contextual",
+      "translation": "渔村俯瞰海湾，晨光中水面平静如镜。",
+      "translated_word": "海湾",
+      "display_order": 1
+    },
+    {
+      "sentence": "A growing gulf between generations shapes modern workplace dynamics.",
+      "style": "Formal",
+      "translation": "代际之间日益扩大的鸿沟正在重塑现代职场生态。",
+      "translated_word": "鸿沟",
+      "display_order": 2
+    },
+    {
+      "sentence": "The gulf between who we are and who we pretend to be widens in silence.",
+      "style": "Philosophical",
+      "translation": "真实的自我与伪装的面具之间，鸿沟在沉默中悄然加深。",
+      "translated_word": "鸿沟",
+      "display_order": 3
+    },
+    {
+      "sentence": "Across the gulf of years, her voice still reaches me.",
+      "style": "Poetic",
+      "translation": "穿越岁月的深渊，她的声音依然抵达我心。",
+      "translated_word": "深渊",
+      "display_order": 4
+    }
+  ]
+}

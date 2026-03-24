@@ -1,0 +1,41 @@
+{
+  "word": "flop",
+  "phonetic": "/flɑːp/",
+  "pos": [
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "扑倒；失败；松垮地垂下",
+  "examples": [
+    {
+      "sentence": "After the twelve-hour flight, she flopped onto the hotel bed without unpacking.",
+      "style": "Contextual",
+      "translation": "十二小时的飞行后，她一头扑倒在酒店床上，行李都没打开。",
+      "translated_word": "扑倒",
+      "display_order": 2
+    },
+    {
+      "sentence": "He flopped down on the couch and reached for the remote.",
+      "style": "Collocational",
+      "translation": "他一下子瘫在沙发上，伸手去够遥控器。",
+      "translated_word": "瘫",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some nights, I flop into bed too tired to even dream.",
+      "style": "Intimate",
+      "translation": "有些夜晚，我倒头就睡，累得连梦都来不及做。",
+      "translated_word": "倒头",
+      "display_order": 3
+    },
+    {
+      "sentence": "The film didn't just underperform; it flopped spectacularly.",
+      "style": "Contrastive",
+      "translation": "那部电影不只是反响平平，而是彻底扑街了。",
+      "translated_word": "扑街",
+      "display_order": 4
+    }
+  ]
+}

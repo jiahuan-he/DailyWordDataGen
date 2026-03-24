@@ -1,0 +1,39 @@
+{
+  "word": "anecdotal",
+  "phonetic": "/ˌænɪkˈdoʊtəl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "轶事的；道听途说的；非实证的",
+  "examples": [
+    {
+      "sentence": "His recovery was remarkable but purely anecdotal.",
+      "style": "Contextual",
+      "translation": "他的康复堪称奇迹，但终究只是个例。",
+      "translated_word": "个例",
+      "display_order": 2
+    },
+    {
+      "sentence": "The report cautioned that the findings remained anecdotal.",
+      "style": "Formal",
+      "translation": "报告提醒，这些发现仍属轶闻性质。",
+      "translated_word": "轶闻",
+      "display_order": 1
+    },
+    {
+      "sentence": "Anecdotal claims may inspire, but only data can convince.",
+      "style": "Contrastive",
+      "translation": "轶事或能打动人心，唯有数据方能服众。",
+      "translated_word": "轶事",
+      "display_order": 3
+    },
+    {
+      "sentence": "Most of what we believe is anecdotal, passed down through stories we never questioned.",
+      "style": "Philosophical",
+      "translation": "我们所信奉的大多不过是口耳相传，来自那些从未被质疑的故事。",
+      "translated_word": "口耳相传",
+      "display_order": 4
+    }
+  ]
+}

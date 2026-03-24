@@ -1,0 +1,40 @@
+{
+  "word": "palliative",
+  "phonetic": "/ˈpæliətɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "缓解的；姑息的；治标的",
+  "examples": [
+    {
+      "sentence": "The medication was palliative, easing her pain while the family gathered.",
+      "style": "Contextual",
+      "translation": "这药只是姑息治疗，在家人聚齐的日子里缓解她的疼痛。",
+      "translated_word": "姑息治疗",
+      "display_order": 1
+    },
+    {
+      "sentence": "Critics argue the new policy is merely palliative, failing to address systemic inequality.",
+      "style": "Formal",
+      "translation": "批评人士认为，新政策不过是权宜之计，未能触及制度性不平等的根源。",
+      "translated_word": "权宜之计",
+      "display_order": 2
+    },
+    {
+      "sentence": "A cure transforms; a palliative measure only postpones the reckoning.",
+      "style": "Contrastive",
+      "translation": "治愈带来改变，而姑息之策只是推迟清算。",
+      "translated_word": "姑息之策",
+      "display_order": 3
+    },
+    {
+      "sentence": "We mistake comfort for progress, palliative gestures for genuine repair.",
+      "style": "Philosophical",
+      "translation": "我们将安慰误认为进步，将治标之举当作真正的修复。",
+      "translated_word": "治标之举",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "turning",
+  "phonetic": "/ˈtɜːrnɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "转折；转弯处；转变",
+  "examples": [
+    {
+      "sentence": "Miss the first turning and take the second on your left.",
+      "style": "Contextual",
+      "translation": "错过第一个路口，在第二个左转。",
+      "translated_word": "路口",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every turning conceals what lies beyond; that is both the risk and the wonder.",
+      "style": "Philosophical",
+      "translation": "每个转弯都隐藏着前方的未知；这既是风险，也是奇妙所在。",
+      "translated_word": "转弯",
+      "display_order": 4
+    },
+    {
+      "sentence": "The lane narrowed at the final turning, where light pooled like honey on the cobblestones.",
+      "style": "Poetic",
+      "translation": "小巷在最后的转角处收窄，光线如蜜般洒落在鹅卵石上。",
+      "translated_word": "转角",
+      "display_order": 3
+    },
+    {
+      "sentence": "That quiet turning by the bookshop is where he first reached for my hand.",
+      "style": "Intimate",
+      "translation": "书店旁那个静谧的拐角，是他第一次牵起我手的地方。",
+      "translated_word": "拐角",
+      "display_order": 2
+    }
+  ]
+}

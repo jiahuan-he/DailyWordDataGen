@@ -1,0 +1,40 @@
+{
+  "word": "legal",
+  "phonetic": "/ˈliːɡəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "合法的；法律的；法定的",
+  "examples": [
+    {
+      "sentence": "The contract wasn't legal without both signatures.",
+      "style": "Contextual",
+      "translation": "合同缺少双方签字，便不具法律效力。",
+      "translated_word": "法律",
+      "display_order": 3
+    },
+    {
+      "sentence": "The firm's legal team reviewed the merger documents overnight.",
+      "style": "Formal",
+      "translation": "公司法务团队连夜审阅了并购文件。",
+      "translated_word": "法务",
+      "display_order": 2
+    },
+    {
+      "sentence": "It may be legal, but that doesn't make it right.",
+      "style": "Contrastive",
+      "translation": "合法未必正当。",
+      "translated_word": "合法",
+      "display_order": 4
+    },
+    {
+      "sentence": "She sought legal advice before signing the lease.",
+      "style": "Collocational",
+      "translation": "她在签署租约前咨询了法律意见。",
+      "translated_word": "法律",
+      "display_order": 1
+    }
+  ]
+}

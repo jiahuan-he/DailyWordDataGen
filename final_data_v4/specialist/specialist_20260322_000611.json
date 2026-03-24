@@ -1,0 +1,40 @@
+{
+  "word": "specialist",
+  "phonetic": "/ˈspeʃəlɪst/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "专家；专科医生；专业人士",
+  "examples": [
+    {
+      "sentence": "The diagnosis was rare, so we were referred to a specialist.",
+      "style": "Contextual",
+      "translation": "诊断结果罕见，于是我们被转介给了专科医生。",
+      "translated_word": "专科医生",
+      "display_order": 2
+    },
+    {
+      "sentence": "The museum hired a specialist to authenticate the disputed painting.",
+      "style": "Formal",
+      "translation": "博物馆聘请了一位专家来鉴定这幅有争议的画作。",
+      "translated_word": "专家",
+      "display_order": 1
+    },
+    {
+      "sentence": "When in doubt, always consult a specialist.",
+      "style": "Collocational",
+      "translation": "有疑虑时，务必咨询专业人士。",
+      "translated_word": "专业人士",
+      "display_order": 3
+    },
+    {
+      "sentence": "A true specialist knows not just the answers, but which questions matter.",
+      "style": "Philosophical",
+      "translation": "真正的专家不仅知道答案，更明白哪些问题值得追问。",
+      "translated_word": "专家",
+      "display_order": 4
+    }
+  ]
+}

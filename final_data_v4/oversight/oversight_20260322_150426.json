@@ -1,0 +1,40 @@
+{
+  "word": "oversight",
+  "phonetic": "/ˈoʊvərˌsaɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "监督；疏忽；失察",
+  "examples": [
+    {
+      "sentence": "The missing signature was a simple oversight, quickly corrected.",
+      "style": "Contextual",
+      "translation": "漏签只是一时疏忽，很快便补上了。",
+      "translated_word": "疏忽",
+      "display_order": 1
+    },
+    {
+      "sentence": "Regulatory oversight of the tech sector has intensified globally.",
+      "style": "Formal",
+      "translation": "全球范围内，科技行业的监管力度日益加强。",
+      "translated_word": "监管",
+      "display_order": 3
+    },
+    {
+      "sentence": "A single oversight can unravel months of careful work.",
+      "style": "Contrastive",
+      "translation": "一次疏忽，足以瓦解数月的心血。",
+      "translated_word": "疏忽",
+      "display_order": 4
+    },
+    {
+      "sentence": "Under strict oversight, the funds reached those in need.",
+      "style": "Collocational",
+      "translation": "在严格监督下，善款如数送达需要的人手中。",
+      "translated_word": "监督",
+      "display_order": 2
+    }
+  ]
+}

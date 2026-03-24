@@ -1,0 +1,41 @@
+{
+  "word": "lay",
+  "phonetic": "/leɪ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "放置；铺设；奠定；下（蛋）",
+  "examples": [
+    {
+      "sentence": "The workers lay bricks from dawn until dusk.",
+      "style": "Contextual",
+      "translation": "工人们从黎明到黄昏不停地砌砖。",
+      "translated_word": "砌",
+      "display_order": 1
+    },
+    {
+      "sentence": "These early conversations lay the groundwork for lasting trust.",
+      "style": "Collocational",
+      "translation": "这些早期的对话为长久的信任奠定了基础。",
+      "translated_word": "奠定",
+      "display_order": 3
+    },
+    {
+      "sentence": "Each evening, we lay the table together; a quiet ritual passed down through generations.",
+      "style": "Intimate",
+      "translation": "每个傍晚，我们一起摆放餐具；这是代代相传的静谧仪式。",
+      "translated_word": "摆放",
+      "display_order": 2
+    },
+    {
+      "sentence": "We lay foundations for futures we may never witness.",
+      "style": "Philosophical",
+      "translation": "我们为自己或许永远看不到的未来奠基。",
+      "translated_word": "奠基",
+      "display_order": 4
+    }
+  ]
+}

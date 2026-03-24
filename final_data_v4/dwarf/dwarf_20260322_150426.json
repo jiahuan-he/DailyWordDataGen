@@ -1,0 +1,41 @@
+{
+  "word": "dwarf",
+  "phonetic": "/dwɔːrf/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使相形见绌；使显得渺小",
+  "examples": [
+    {
+      "sentence": "The ancient redwood dwarfs every tree in the forest.",
+      "style": "Contextual",
+      "translation": "那棵古老的红杉让林中其他树木都显得渺小。",
+      "translated_word": "渺小",
+      "display_order": 1
+    },
+    {
+      "sentence": "This year's budget deficit dwarfs all previous records.",
+      "style": "Formal",
+      "translation": "今年的预算赤字远超以往所有纪录。",
+      "translated_word": "远超",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her quiet courage dwarfs his loud bravado.",
+      "style": "Contrastive",
+      "translation": "她沉默的勇气，让他的高调逞强相形见绌。",
+      "translated_word": "相形见绌",
+      "display_order": 2
+    },
+    {
+      "sentence": "A single mountain can dwarf an empire's ambitions.",
+      "style": "Poetic",
+      "translation": "一座山峰，便能让帝国的雄心显得渺小。",
+      "translated_word": "渺小",
+      "display_order": 4
+    }
+  ]
+}

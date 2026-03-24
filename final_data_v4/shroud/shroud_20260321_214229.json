@@ -1,0 +1,40 @@
+{
+  "word": "shroud",
+  "phonetic": "/ʃraʊd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "裹尸布；覆盖物；遮蔽",
+  "examples": [
+    {
+      "sentence": "A thick shroud of mist hung over the harbor at dawn.",
+      "style": "Contextual",
+      "translation": "黎明时分，浓雾如帷，笼罩着港湾。",
+      "translated_word": "帷",
+      "display_order": 1
+    },
+    {
+      "sentence": "Winter draped its cold shroud over the sleeping fields.",
+      "style": "Poetic",
+      "translation": "寒冬为沉睡的田野披上冷寂的帷幕。",
+      "translated_word": "帷幕",
+      "display_order": 2
+    },
+    {
+      "sentence": "Truth often hides beneath a shroud we ourselves have woven.",
+      "style": "Philosophical",
+      "translation": "真相常藏于我们亲手织就的遮蔽之下。",
+      "translated_word": "遮蔽",
+      "display_order": 4
+    },
+    {
+      "sentence": "A shroud of secrecy surrounds the company's new project.",
+      "style": "Collocational",
+      "translation": "一层神秘的面纱笼罩着公司的新项目。",
+      "translated_word": "面纱",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "squeamish",
+  "phonetic": "/ˈskwiːmɪʃ/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "易反胃的；娇气的；过分敏感的",
+  "examples": [
+    {
+      "sentence": "She skipped the dissection lab; the mere thought of it made her squeamish.",
+      "style": "Contextual",
+      "translation": "她逃了解剖课；光是想想就让她浑身不自在。",
+      "translated_word": "浑身不自在",
+      "display_order": 2
+    },
+    {
+      "sentence": "He's squeamish about needles, so blood tests require deep breaths.",
+      "style": "Collocational",
+      "translation": "他怕针，每次抽血都要深呼吸好几次。",
+      "translated_word": "怕",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother cleaned fish with bare hands while I stood squeamish at the shore.",
+      "style": "Intimate",
+      "translation": "外婆徒手杀鱼，我却在岸边看得直皱眉。",
+      "translated_word": "皱眉",
+      "display_order": 3
+    },
+    {
+      "sentence": "Detectives can't be squeamish; crime scenes don't wait for the faint-hearted.",
+      "style": "Contrastive",
+      "translation": "侦探不能娇气；犯罪现场不等心软之人。",
+      "translated_word": "娇气",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "thermometer",
+  "phonetic": "/θərˈmɑːmɪtər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "温度计；体温计",
+  "examples": [
+    {
+      "sentence": "The thermometer on the porch read below zero for the third day straight.",
+      "style": "Contextual",
+      "translation": "门廊上的温度计连续第三天显示零下。",
+      "translated_word": "温度计",
+      "display_order": 3
+    },
+    {
+      "sentence": "She placed the digital thermometer under his tongue and waited for the beep.",
+      "style": "Collocational",
+      "translation": "她把电子体温计放在他舌下，等待提示音响起。",
+      "translated_word": "体温计",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother's hand on my forehead was more reassuring than any thermometer.",
+      "style": "Intimate",
+      "translation": "奶奶的手贴在我额头上，比任何体温计都更让人安心。",
+      "translated_word": "体温计",
+      "display_order": 2
+    },
+    {
+      "sentence": "Clinical thermometers must be calibrated regularly to ensure accurate readings.",
+      "style": "Formal",
+      "translation": "医用体温计须定期校准，以确保读数精确。",
+      "translated_word": "体温计",
+      "display_order": 4
+    }
+  ]
+}

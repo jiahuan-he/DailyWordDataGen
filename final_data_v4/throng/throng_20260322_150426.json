@@ -1,0 +1,41 @@
+{
+  "word": "throng",
+  "phonetic": "/θrɔːŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "人群；人潮；众人",
+  "examples": [
+    {
+      "sentence": "A throng of tourists waited at the museum entrance before dawn.",
+      "style": "Contextual",
+      "translation": "天还未亮，一大群游客已在博物馆门前等候。",
+      "translated_word": "一大群",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities estimated the throng at over fifty thousand.",
+      "style": "Formal",
+      "translation": "当局估计现场聚集人数超过五万。",
+      "translated_word": "聚集人数",
+      "display_order": 3
+    },
+    {
+      "sentence": "The throng swelled through the ancient square, voices rising as one.",
+      "style": "Poetic",
+      "translation": "人潮涌过古老的广场，万千声音汇成一片。",
+      "translated_word": "人潮",
+      "display_order": 2
+    },
+    {
+      "sentence": "In a throng, we are both invisible and infinite.",
+      "style": "Philosophical",
+      "translation": "置身人群之中，我们既渺小，又无限。",
+      "translated_word": "人群",
+      "display_order": 4
+    }
+  ]
+}

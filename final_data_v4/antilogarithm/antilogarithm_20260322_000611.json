@@ -1,0 +1,39 @@
+{
+  "word": "antilogarithm",
+  "phonetic": "/ˌæntɪˈlɒɡərɪðəm/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "反对数；逆对数",
+  "examples": [
+    {
+      "sentence": "To solve for x, find the antilogarithm of 2.5.",
+      "style": "Contextual",
+      "translation": "要求解x，需计算2.5的反对数。",
+      "translated_word": "反对数",
+      "display_order": 1
+    },
+    {
+      "sentence": "The antilogarithm function reverses logarithmic compression in signal processing.",
+      "style": "Formal",
+      "translation": "反对数函数用于逆转信号处理中的对数压缩。",
+      "translated_word": "反对数",
+      "display_order": 4
+    },
+    {
+      "sentence": "A logarithm shrinks; an antilogarithm expands.",
+      "style": "Contrastive",
+      "translation": "对数压缩，反对数展开。",
+      "translated_word": "反对数",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather taught me antilogarithms with a slide rule before calculators made them invisible.",
+      "style": "Intimate",
+      "translation": "在计算器让它们隐于无形之前，祖父曾用计算尺教我反对数。",
+      "translated_word": "反对数",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "infamous",
+  "phonetic": "/ˈɪnfəməs/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "臭名昭著；声名狼藉；恶名远扬",
+  "examples": [
+    {
+      "sentence": "The tour stopped at the infamous cliff where ships had wrecked for centuries.",
+      "style": "Contextual",
+      "translation": "旅行团在那处臭名昭著的悬崖前驻足；数百年来，无数船只在此触礁沉没。",
+      "translated_word": "臭名昭著",
+      "display_order": 1
+    },
+    {
+      "sentence": "The infamous data breach exposed millions of users to identity theft.",
+      "style": "Formal",
+      "translation": "这起臭名昭著的数据泄露事件使数百万用户面临身份盗窃风险。",
+      "translated_word": "臭名昭著",
+      "display_order": 2
+    },
+    {
+      "sentence": "History remembers the infamous longer than the merely forgotten.",
+      "style": "Philosophical",
+      "translation": "历史对恶名者的记忆，远胜于那些仅仅被遗忘的人。",
+      "translated_word": "恶名者",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her name echoed through the halls, infamous as a winter storm.",
+      "style": "Poetic",
+      "translation": "她的名字在厅堂间回荡，如冬日风暴般声名狼藉。",
+      "translated_word": "声名狼藉",
+      "display_order": 3
+    }
+  ]
+}

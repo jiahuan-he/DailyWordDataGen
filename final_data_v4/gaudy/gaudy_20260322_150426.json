@@ -1,0 +1,40 @@
+{
+  "word": "gaudy",
+  "phonetic": "/ˈɡɔːdi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "俗艳；花哨；华而不实",
+  "examples": [
+    {
+      "sentence": "The casino's lobby dripped with gold paint and neon: pure gaudy excess.",
+      "style": "Contextual",
+      "translation": "赌场大堂金漆淋漓、霓虹满目：尽是俗艳的奢靡。",
+      "translated_word": "俗艳",
+      "display_order": 2
+    },
+    {
+      "sentence": "True elegance whispers; gaudy style only knows how to shout.",
+      "style": "Contrastive",
+      "translation": "真正的优雅是低语；花哨只会喧哗。",
+      "translated_word": "花哨",
+      "display_order": 4
+    },
+    {
+      "sentence": "She slipped off her gaudy rings before the interview.",
+      "style": "Collocational",
+      "translation": "面试前，她悄悄摘下了那些艳俗的戒指。",
+      "translated_word": "艳俗",
+      "display_order": 1
+    },
+    {
+      "sentence": "What one generation calls gaudy, the next calls vintage.",
+      "style": "Philosophical",
+      "translation": "上一代人眼中的俗艳，下一代人称之为复古。",
+      "translated_word": "俗艳",
+      "display_order": 3
+    }
+  ]
+}

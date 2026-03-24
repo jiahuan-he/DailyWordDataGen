@@ -1,0 +1,39 @@
+{
+  "word": "negate",
+  "phonetic": "/nɪˈɡeɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "否定；使无效；抵消",
+  "examples": [
+    {
+      "sentence": "One careless remark can negate months of earned trust.",
+      "style": "Contextual",
+      "translation": "一句无心之言，足以抵消数月积攒的信任。",
+      "translated_word": "抵消",
+      "display_order": 2
+    },
+    {
+      "sentence": "The revised policy does not negate prior agreements.",
+      "style": "Formal",
+      "translation": "修订后的政策并不否定此前的协议。",
+      "translated_word": "否定",
+      "display_order": 1
+    },
+    {
+      "sentence": "What we rush to negate often reveals what we fear.",
+      "style": "Philosophical",
+      "translation": "我们急于否定的，往往正是内心所惧。",
+      "translated_word": "否定",
+      "display_order": 4
+    },
+    {
+      "sentence": "His apology acknowledged the hurt but could not negate it.",
+      "style": "Contrastive",
+      "translation": "他的道歉承认了伤害，却无法将其抹去。",
+      "translated_word": "抹去",
+      "display_order": 3
+    }
+  ]
+}

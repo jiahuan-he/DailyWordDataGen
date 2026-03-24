@@ -1,0 +1,39 @@
+{
+  "word": "negotiate",
+  "phonetic": "/nɪˈɡoʊʃieɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "谈判；协商；交涉；通过",
+  "examples": [
+    {
+      "sentence": "They sat across the table, ready to negotiate.",
+      "style": "Contextual",
+      "translation": "他们隔桌而坐，准备开始谈判。",
+      "translated_word": "谈判",
+      "display_order": 1
+    },
+    {
+      "sentence": "Both parties agreed to negotiate before escalating the dispute.",
+      "style": "Formal",
+      "translation": "双方同意先行协商，避免争端升级。",
+      "translated_word": "协商",
+      "display_order": 3
+    },
+    {
+      "sentence": "Learning to negotiate salary is a crucial career skill.",
+      "style": "Collocational",
+      "translation": "学会谈薪资是一项关键的职场技能。",
+      "translated_word": "谈",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every relationship asks us to negotiate between closeness and freedom.",
+      "style": "Philosophical",
+      "translation": "每段关系都要求我们在亲密与自由之间寻求平衡。",
+      "translated_word": "寻求平衡",
+      "display_order": 4
+    }
+  ]
+}

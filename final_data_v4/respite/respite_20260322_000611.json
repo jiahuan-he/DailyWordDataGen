@@ -1,0 +1,40 @@
+{
+  "word": "respite",
+  "phonetic": "/ˈrespɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "喘息；暂歇；片刻安宁",
+  "examples": [
+    {
+      "sentence": "The rain stopped, offering a brief respite before the next storm.",
+      "style": "Contextual",
+      "translation": "雨停了，在下一场暴风雨来临前，带来片刻喘息。",
+      "translated_word": "喘息",
+      "display_order": 1
+    },
+    {
+      "sentence": "A cup of tea at noon became her only respite from the chaos.",
+      "style": "Collocational",
+      "translation": "午间一杯茶，成了她在纷乱中唯一的暂歇。",
+      "translated_word": "暂歇",
+      "display_order": 2
+    },
+    {
+      "sentence": "In the silence between heartbeats, there is respite.",
+      "style": "Poetic",
+      "translation": "在心跳的间隙，藏着片刻安宁。",
+      "translated_word": "安宁",
+      "display_order": 4
+    },
+    {
+      "sentence": "That summer on the coast was my respite from a year of loss.",
+      "style": "Intimate",
+      "translation": "那年夏天的海边，是我从一整年失去中得到的喘息。",
+      "translated_word": "喘息",
+      "display_order": 3
+    }
+  ]
+}

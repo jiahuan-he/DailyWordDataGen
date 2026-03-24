@@ -1,0 +1,40 @@
+{
+  "word": "salamander",
+  "phonetic": "/ˈsæləˌmændər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "蝾螈；火蜥蜴；烤炙器",
+  "examples": [
+    {
+      "sentence": "A bright orange salamander darted beneath the wet leaves.",
+      "style": "Contextual",
+      "translation": "一只橙红色的蝾螈窜入湿润的落叶下。",
+      "translated_word": "蝾螈",
+      "display_order": 1
+    },
+    {
+      "sentence": "In old legends, the salamander danced through flames, untouched.",
+      "style": "Poetic",
+      "translation": "古老传说中，火蜥蜴穿行于烈焰，毫发无伤。",
+      "translated_word": "火蜥蜴",
+      "display_order": 3
+    },
+    {
+      "sentence": "The salamander regrows what it loses: survival as the art of beginning again.",
+      "style": "Philosophical",
+      "translation": "蝾螈能再生失去的部分：生存不过是重新开始的艺术。",
+      "translated_word": "蝾螈",
+      "display_order": 4
+    },
+    {
+      "sentence": "Fire salamanders were once believed to be born from flames.",
+      "style": "Collocational",
+      "translation": "火蝾螈曾被认为诞生于火焰之中。",
+      "translated_word": "火蝾螈",
+      "display_order": 2
+    }
+  ]
+}

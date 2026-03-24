@@ -1,0 +1,40 @@
+{
+  "word": "rhetoric",
+  "phonetic": "/ˈretərɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "修辞；雄辩；辞藻；空谈",
+  "examples": [
+    {
+      "sentence": "His speech was pure rhetoric: grand promises, zero plans.",
+      "style": "Contextual",
+      "translation": "他的演讲纯属空谈：承诺满满，计划全无。",
+      "translated_word": "空谈",
+      "display_order": 2
+    },
+    {
+      "sentence": "The senator's rhetoric on reform has sharpened ahead of the midterms.",
+      "style": "Formal",
+      "translation": "中期选举在即，这位参议员关于改革的措辞愈发激烈。",
+      "translated_word": "措辞",
+      "display_order": 3
+    },
+    {
+      "sentence": "They wanted action, not rhetoric.",
+      "style": "Contrastive",
+      "translation": "他们要的是行动，而非空话。",
+      "translated_word": "空话",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rhetoric moves hearts before reason reaches minds.",
+      "style": "Philosophical",
+      "translation": "修辞先于理性，动人心弦。",
+      "translated_word": "修辞",
+      "display_order": 4
+    }
+  ]
+}

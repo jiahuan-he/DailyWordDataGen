@@ -1,0 +1,40 @@
+{
+  "word": "underbid",
+  "phonetic": "/ˌʌndərˈbɪd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "出价低于；低价竞标；压价投标",
+  "examples": [
+    {
+      "sentence": "The new contractor underbid everyone and won the project.",
+      "style": "Contextual",
+      "translation": "那位新承包商报价最低，拿下了项目。",
+      "translated_word": "报价最低",
+      "display_order": 1
+    },
+    {
+      "sentence": "Several firms underbid the incumbent supplier, triggering a contract review.",
+      "style": "Formal",
+      "translation": "数家公司以更低报价挑战原供应商，合同进入重新评估程序。",
+      "translated_word": "更低报价",
+      "display_order": 3
+    },
+    {
+      "sentence": "He underbid his rival but sacrificed his margins in the process.",
+      "style": "Contrastive",
+      "translation": "他压过了对手的报价，却也牺牲了自己的利润空间。",
+      "translated_word": "压过",
+      "display_order": 2
+    },
+    {
+      "sentence": "To underbid competitors, they streamlined every stage of production.",
+      "style": "Collocational",
+      "translation": "为了在竞标中胜出，他们精简了生产的每一个环节。",
+      "translated_word": "竞标中胜出",
+      "display_order": 4
+    }
+  ]
+}

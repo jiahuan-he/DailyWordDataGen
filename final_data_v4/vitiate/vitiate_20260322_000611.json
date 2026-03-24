@@ -1,0 +1,39 @@
+{
+  "word": "vitiate",
+  "phonetic": "/ˈvɪʃieɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "损害；削弱；使无效；玷污",
+  "examples": [
+    {
+      "sentence": "A single procedural error can vitiate an entire contract.",
+      "style": "Formal",
+      "translation": "一个程序上的疏漏便可使整份合同失效。",
+      "translated_word": "失效",
+      "display_order": 1
+    },
+    {
+      "sentence": "Years of neglect had vitiated the once-pristine wetlands.",
+      "style": "Contextual",
+      "translation": "多年的疏于管理已使这片曾经纯净的湿地严重退化。",
+      "translated_word": "退化",
+      "display_order": 2
+    },
+    {
+      "sentence": "Small compromises don't refine integrity; they vitiate it.",
+      "style": "Contrastive",
+      "translation": "微小的妥协不会磨砺正直，只会将其侵蚀。",
+      "translated_word": "侵蚀",
+      "display_order": 3
+    },
+    {
+      "sentence": "We vitiate our own clarity by chasing too many answers at once.",
+      "style": "Philosophical",
+      "translation": "同时追逐太多答案，反而模糊了内心的清明。",
+      "translated_word": "模糊",
+      "display_order": 4
+    }
+  ]
+}

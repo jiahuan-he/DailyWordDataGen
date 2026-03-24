@@ -1,0 +1,40 @@
+{
+  "word": "sting",
+  "phonetic": "/stɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "刺痛；蜇；刺激；伤感情",
+  "examples": [
+    {
+      "sentence": "Salt water stung his eyes as he surfaced.",
+      "style": "Contextual",
+      "translation": "浮出水面时，海水刺痛了他的双眼。",
+      "translated_word": "刺痛",
+      "display_order": 2
+    },
+    {
+      "sentence": "Cold rain stings the skin awake.",
+      "style": "Poetic",
+      "translation": "冷雨刺痛肌肤，唤醒沉睡的感官。",
+      "translated_word": "刺痛",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her silence stung more than any accusation.",
+      "style": "Intimate",
+      "translation": "她的沉默比任何指责都更令人心痛。",
+      "translated_word": "心痛",
+      "display_order": 4
+    },
+    {
+      "sentence": "The winter wind stung her cheeks on the morning walk.",
+      "style": "Collocational",
+      "translation": "晨间漫步时，冬日寒风刺痛了她的脸颊。",
+      "translated_word": "刺痛",
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "intercede",
+  "phonetic": "/ˌɪntərˈsiːd/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "调解；说情；代为求情",
+  "examples": [
+    {
+      "sentence": "When the argument turned personal, she interceded before real damage was done.",
+      "style": "Contextual",
+      "translation": "争论变得针锋相对时，她及时介入，避免了无法挽回的伤害。",
+      "translated_word": "介入",
+      "display_order": 2
+    },
+    {
+      "sentence": "The ambassador interceded to secure the release of the detained journalists.",
+      "style": "Formal",
+      "translation": "大使出面斡旋，使被拘留的记者获释。",
+      "translated_word": "斡旋",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother interceded with my father the summer I refused to take over the family business.",
+      "style": "Intimate",
+      "translation": "那年夏天我不愿接手家业，是祖母替我向父亲说了情。",
+      "translated_word": "说了情",
+      "display_order": 3
+    },
+    {
+      "sentence": "To intercede is to stake your own credibility on someone else's cause.",
+      "style": "Philosophical",
+      "translation": "出面说情，是将自己的信誉押在他人的处境之上。",
+      "translated_word": "说情",
+      "display_order": 4
+    }
+  ]
+}

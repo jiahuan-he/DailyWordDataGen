@@ -1,0 +1,40 @@
+{
+  "word": "minion",
+  "phonetic": "/ˈmɪnjən/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "爪牙；走狗；随从",
+  "examples": [
+    {
+      "sentence": "The villain never acted alone; his minions handled the dirty work.",
+      "style": "Contextual",
+      "translation": "反派从不亲自动手，脏活累活都交给手下的爪牙。",
+      "translated_word": "爪牙",
+      "display_order": 2
+    },
+    {
+      "sentence": "The investigation revealed that the director's minions had suppressed complaints for years.",
+      "style": "Formal",
+      "translation": "调查显示，该主管的党羽多年来一直压制内部投诉。",
+      "translated_word": "党羽",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every tyrant fears the day his minions remember they have names.",
+      "style": "Philosophical",
+      "translation": "每个暴君都害怕这一天：他的走狗想起自己也有名字。",
+      "translated_word": "走狗",
+      "display_order": 4
+    },
+    {
+      "sentence": "She surrounded herself with loyal minions who never questioned her orders.",
+      "style": "Collocational",
+      "translation": "她身边围绕着一群忠心耿耿的随从，从不质疑她的命令。",
+      "translated_word": "随从",
+      "display_order": 1
+    }
+  ]
+}

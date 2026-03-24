@@ -1,0 +1,40 @@
+{
+  "word": "commerce",
+  "phonetic": "/ˈkɒmɜːs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "商业；贸易；交易",
+  "examples": [
+    {
+      "sentence": "The ancient silk route was a lifeline of commerce between East and West.",
+      "style": "Contextual",
+      "translation": "古老的丝绸之路是东西方贸易的命脉。",
+      "translated_word": "贸易",
+      "display_order": 2
+    },
+    {
+      "sentence": "International commerce has rebounded strongly following the policy reforms.",
+      "style": "Formal",
+      "translation": "政策改革后，国际贸易强劲复苏。",
+      "translated_word": "贸易",
+      "display_order": 1
+    },
+    {
+      "sentence": "At its core, commerce is trust made visible.",
+      "style": "Philosophical",
+      "translation": "商业的本质，是信任的具象化。",
+      "translated_word": "商业",
+      "display_order": 3
+    },
+    {
+      "sentence": "The Chamber of Commerce released its annual report on local businesses.",
+      "style": "Collocational",
+      "translation": "商会发布了本地企业年度报告。",
+      "translated_word": "商",
+      "display_order": 4
+    }
+  ]
+}

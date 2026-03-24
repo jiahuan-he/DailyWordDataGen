@@ -1,0 +1,41 @@
+{
+  "word": "shy",
+  "phonetic": "/ʃaɪ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "害羞；腼腆；胆怯；怕生",
+  "examples": [
+    {
+      "sentence": "The child hid behind her mother, too shy to greet the guests.",
+      "style": "Contextual",
+      "translation": "孩子躲在母亲身后，羞于向客人问好。",
+      "translated_word": "羞于",
+      "display_order": 1
+    },
+    {
+      "sentence": "At twelve, I was shy around everyone; now, only around those who matter.",
+      "style": "Intimate",
+      "translation": "十二岁时，我在所有人面前都很害羞；如今，只在重要的人面前如此。",
+      "translated_word": "害羞",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her shy smile flickered and vanished before I could return it.",
+      "style": "Poetic",
+      "translation": "她羞涩的微笑一闪而过，我还来不及回应。",
+      "translated_word": "羞涩",
+      "display_order": 2
+    },
+    {
+      "sentence": "The shy observe more than they reveal.",
+      "style": "Philosophical",
+      "translation": "害羞的人，观察多于表露。",
+      "translated_word": "害羞",
+      "display_order": 4
+    }
+  ]
+}

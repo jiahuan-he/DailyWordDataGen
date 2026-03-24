@@ -1,0 +1,40 @@
+{
+  "word": "aquatic",
+  "phonetic": "/əˈkwætɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "水生的；水栖的；水上的",
+  "examples": [
+    {
+      "sentence": "The aquatic plants swayed gently beneath the pond's surface.",
+      "style": "Contextual",
+      "translation": "水生植物在池塘水面下轻轻摇曳。",
+      "translated_word": "水生",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rising ocean temperatures are disrupting aquatic ecosystems at an alarming rate.",
+      "style": "Formal",
+      "translation": "海洋温度上升正以惊人的速度破坏水生生态系统。",
+      "translated_word": "水生",
+      "display_order": 3
+    },
+    {
+      "sentence": "In aquatic silence, even a heartbeat feels loud.",
+      "style": "Poetic",
+      "translation": "在水中的寂静里，连心跳都显得喧嚣。",
+      "translated_word": "水中的",
+      "display_order": 4
+    },
+    {
+      "sentence": "The rehab center recommended aquatic therapy for her injured knee.",
+      "style": "Collocational",
+      "translation": "康复中心建议她通过水疗来治疗膝伤。",
+      "translated_word": "水",
+      "display_order": 2
+    }
+  ]
+}

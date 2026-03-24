@@ -1,0 +1,39 @@
+{
+  "word": "falsify",
+  "phonetic": "/ˈfɔːlsɪfaɪ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "伪造；篡改；歪曲",
+  "examples": [
+    {
+      "sentence": "He altered the timestamps to falsify the transaction records.",
+      "style": "Contextual",
+      "translation": "他篡改了时间戳，伪造了交易记录。",
+      "translated_word": "伪造",
+      "display_order": 1
+    },
+    {
+      "sentence": "The executive was indicted for attempting to falsify financial statements.",
+      "style": "Formal",
+      "translation": "这位高管因涉嫌伪造财务报表被起诉。",
+      "translated_word": "伪造",
+      "display_order": 2
+    },
+    {
+      "sentence": "We falsify our past to make peace with who we've become.",
+      "style": "Philosophical",
+      "translation": "我们篡改过去，只为与现在的自己和解。",
+      "translated_word": "篡改",
+      "display_order": 4
+    },
+    {
+      "sentence": "Researchers who falsify data betray the foundation of science.",
+      "style": "Collocational",
+      "translation": "伪造数据的研究者，背叛了科学的根基。",
+      "translated_word": "伪造",
+      "display_order": 3
+    }
+  ]
+}

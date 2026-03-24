@@ -1,0 +1,39 @@
+{
+  "word": "scenario",
+  "phonetic": "/sɪˈnærioʊ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "场景；情景；设想；剧本",
+  "examples": [
+    {
+      "sentence": "The simulation tested pilots in every emergency scenario.",
+      "style": "Contextual",
+      "translation": "模拟训练让飞行员经历了各种紧急场景。",
+      "translated_word": "场景",
+      "display_order": 2
+    },
+    {
+      "sentence": "Analysts projected three scenarios for the economy's recovery.",
+      "style": "Formal",
+      "translation": "分析师预测了经济复苏的三种情景。",
+      "translated_word": "情景",
+      "display_order": 1
+    },
+    {
+      "sentence": "Even in the best-case scenario, repairs will take a month.",
+      "style": "Collocational",
+      "translation": "即便是最乐观的估计，修复也需要一个月。",
+      "translated_word": "估计",
+      "display_order": 3
+    },
+    {
+      "sentence": "We script scenarios endlessly; life improvises.",
+      "style": "Philosophical",
+      "translation": "我们无尽地设想未来；生活却在即兴发挥。",
+      "translated_word": "未来",
+      "display_order": 4
+    }
+  ]
+}

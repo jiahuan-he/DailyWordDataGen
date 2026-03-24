@@ -1,0 +1,40 @@
+{
+  "word": "canine",
+  "phonetic": "/ˈkeɪnaɪn/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "犬的；狗的；似犬的",
+  "examples": [
+    {
+      "sentence": "The shelter offers free canine vaccinations every Saturday.",
+      "style": "Contextual",
+      "translation": "收容所每周六提供免费犬类疫苗接种。",
+      "translated_word": "犬类",
+      "display_order": 1
+    },
+    {
+      "sentence": "Police deployed the canine unit after receiving an anonymous tip.",
+      "style": "Formal",
+      "translation": "警方在收到匿名线报后出动了警犬队。",
+      "translated_word": "犬",
+      "display_order": 3
+    },
+    {
+      "sentence": "Canine companions have been shown to reduce stress in hospital patients.",
+      "style": "Collocational",
+      "translation": "研究表明，犬类伙伴能有效缓解住院病人的压力。",
+      "translated_word": "犬类",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandfather's canine friends were the only ones who heard his wartime stories.",
+      "style": "Intimate",
+      "translation": "外公的那些狗朋友，是唯一听过他讲战时往事的。",
+      "translated_word": "狗",
+      "display_order": 4
+    }
+  ]
+}

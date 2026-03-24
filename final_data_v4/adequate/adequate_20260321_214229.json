@@ -1,0 +1,40 @@
+{
+  "word": "adequate",
+  "phonetic": "/ˈædɪkwət/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "足够的；充分的；尚可的",
+  "examples": [
+    {
+      "sentence": "The shelter was adequate for the night, though far from comfortable.",
+      "style": "Contextual",
+      "translation": "这个避难所足以过夜，虽然谈不上舒适。",
+      "translated_word": "足以",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her skills were adequate, but this role demanded excellence.",
+      "style": "Contrastive",
+      "translation": "她的能力尚可，但这个职位需要的是卓越。",
+      "translated_word": "尚可",
+      "display_order": 2
+    },
+    {
+      "sentence": "We spend our lives chasing more when adequate would bring us peace.",
+      "style": "Philosophical",
+      "translation": "我们穷尽一生追逐更多，殊不知足够本可带来安宁。",
+      "translated_word": "足够",
+      "display_order": 3
+    },
+    {
+      "sentence": "His apology felt adequate on paper; my heart knew otherwise.",
+      "style": "Intimate",
+      "translation": "他的道歉在纸面上足够了；我的心却不这么认为。",
+      "translated_word": "足够",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "thread",
+  "phonetic": "/θred/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "线；丝；线索；脉络",
+  "examples": [
+    {
+      "sentence": "A loose thread dangled from her coat; she pretended not to notice.",
+      "style": "Contextual",
+      "translation": "一根线头从她大衣上垂落；她假装没看见。",
+      "translated_word": "线头",
+      "display_order": 1
+    },
+    {
+      "sentence": "He lost the thread of conversation after one glance at his phone.",
+      "style": "Collocational",
+      "translation": "只瞥了一眼手机，他便接不上方才的话头。",
+      "translated_word": "话头",
+      "display_order": 2
+    },
+    {
+      "sentence": "We tug at memory's thread, hoping it holds.",
+      "style": "Poetic",
+      "translation": "我们轻扯记忆的丝线，祈愿它不会断裂。",
+      "translated_word": "丝线",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every stranger carries a thread that might one day weave into yours.",
+      "style": "Philosophical",
+      "translation": "每个陌生人都携带一根丝线，或许终有一日会织入你的生命。",
+      "translated_word": "丝线",
+      "display_order": 4
+    }
+  ]
+}

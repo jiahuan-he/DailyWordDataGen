@@ -1,0 +1,40 @@
+{
+  "word": "elbow",
+  "phonetic": "/ˈelboʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "肘；肘部；弯管",
+  "examples": [
+    {
+      "sentence": "He rested his elbow on the windowsill, watching the rain.",
+      "style": "Contextual",
+      "translation": "他把肘撑在窗台上，看着雨落。",
+      "translated_word": "肘",
+      "display_order": 1
+    },
+    {
+      "sentence": "In the crowded subway, there was barely elbow room to breathe.",
+      "style": "Collocational",
+      "translation": "拥挤的地铁里，连转身的空间都没有。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Your elbow brushed mine at the concert; I never told you I noticed.",
+      "style": "Intimate",
+      "translation": "演唱会上你的手肘轻轻碰到我的；我从未告诉你，我注意到了。",
+      "translated_word": "手肘",
+      "display_order": 2
+    },
+    {
+      "sentence": "She slept with her elbow curved around the empty space where he once lay.",
+      "style": "Poetic",
+      "translation": "她侧卧而眠，手肘弯曲，环绕着他曾躺过的空处。",
+      "translated_word": "手肘",
+      "display_order": 3
+    }
+  ]
+}

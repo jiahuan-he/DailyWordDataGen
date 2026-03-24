@@ -1,0 +1,40 @@
+{
+  "word": "nickname",
+  "phonetic": "/ˈnɪkneɪm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "绰号；昵称；外号",
+  "examples": [
+    {
+      "sentence": "Everyone at the office calls her Sunny; it's the only nickname she's ever loved.",
+      "style": "Contextual",
+      "translation": "办公室里所有人都叫她Sunny；这是她唯一喜欢的绰号。",
+      "translated_word": "绰号",
+      "display_order": 2
+    },
+    {
+      "sentence": "The nickname my brother gave me at five still surfaces in every birthday card.",
+      "style": "Intimate",
+      "translation": "哥哥五岁时给我起的昵称，至今仍出现在每一张生日贺卡上。",
+      "translated_word": "昵称",
+      "display_order": 3
+    },
+    {
+      "sentence": "He goes by a nickname at work, but his mother insists on his full name.",
+      "style": "Collocational",
+      "translation": "他在公司用昵称，但母亲坚持叫他全名。",
+      "translated_word": "昵称",
+      "display_order": 1
+    },
+    {
+      "sentence": "A nickname reveals what others see in us before we see it ourselves.",
+      "style": "Philosophical",
+      "translation": "绰号往往揭示了别人眼中的我们，比我们自己更早看见。",
+      "translated_word": "绰号",
+      "display_order": 4
+    }
+  ]
+}

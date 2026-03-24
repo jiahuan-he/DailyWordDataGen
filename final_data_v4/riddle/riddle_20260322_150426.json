@@ -1,0 +1,40 @@
+{
+  "word": "riddle",
+  "phonetic": "/ˈrɪdl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "谜语；谜团；难解之事",
+  "examples": [
+    {
+      "sentence": "The Sphinx posed a riddle to every traveler who sought passage.",
+      "style": "Contextual",
+      "translation": "斯芬克斯向每一位寻求通行的旅人出了一道谜语。",
+      "translated_word": "谜语",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every answered riddle only reveals a deeper one beneath.",
+      "style": "Philosophical",
+      "translation": "每一个被解开的谜，都只是揭开了更深处的另一个。",
+      "translated_word": "谜",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather's eyes would gleam whenever he had a new riddle for me.",
+      "style": "Intimate",
+      "translation": "每当祖父有新谜语要考我时，他的眼里便闪着光。",
+      "translated_word": "谜语",
+      "display_order": 1
+    },
+    {
+      "sentence": "She spoke in riddles, her meaning folded like origami.",
+      "style": "Poetic",
+      "translation": "她言辞如谜，话中之意层层折叠，宛若纸鹤。",
+      "translated_word": "谜",
+      "display_order": 4
+    }
+  ]
+}

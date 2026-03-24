@@ -1,0 +1,40 @@
+{
+  "word": "lout",
+  "phonetic": "/laʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "粗人；莽汉；无礼之徒",
+  "examples": [
+    {
+      "sentence": "The lout shoved past everyone without a single apology.",
+      "style": "Contextual",
+      "translation": "那个粗人推搡着挤过人群，连句道歉都没有。",
+      "translated_word": "粗人",
+      "display_order": 1
+    },
+    {
+      "sentence": "A drunken lout hurled insults at passersby.",
+      "style": "Collocational",
+      "translation": "一个醉酒的莽汉冲着路人破口大骂。",
+      "translated_word": "莽汉",
+      "display_order": 2
+    },
+    {
+      "sentence": "Security escorted the young lout out after he disrupted the ceremony.",
+      "style": "Formal",
+      "translation": "保安将那个搅乱仪式的年轻粗人带离了现场。",
+      "translated_word": "粗人",
+      "display_order": 3
+    },
+    {
+      "sentence": "He arrived a lout; he left a gentleman.",
+      "style": "Contrastive",
+      "translation": "他来时是个莽汉，离开时已是绅士。",
+      "translated_word": "莽汉",
+      "display_order": 4
+    }
+  ]
+}

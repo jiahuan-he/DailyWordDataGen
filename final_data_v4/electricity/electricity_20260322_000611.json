@@ -1,0 +1,39 @@
+{
+  "word": "electricity",
+  "phonetic": "/ɪˌlekˈtrɪsəti/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "电；电力；电流；激情",
+  "examples": [
+    {
+      "sentence": "The storm knocked out the electricity for three hours.",
+      "style": "Contextual",
+      "translation": "暴风雨让这里断电了三个小时。",
+      "translated_word": "电",
+      "display_order": 1
+    },
+    {
+      "sentence": "We installed solar panels to cut down on electricity costs.",
+      "style": "Collocational",
+      "translation": "我们装了太阳能板，以降低电费开支。",
+      "translated_word": "电",
+      "display_order": 4
+    },
+    {
+      "sentence": "There was electricity in the room the moment their eyes met.",
+      "style": "Poetic",
+      "translation": "四目相接的刹那，空气中仿佛有电流涌动。",
+      "translated_word": "电流",
+      "display_order": 3
+    },
+    {
+      "sentence": "Growing up, we saved electricity by reading under the same lamp, shoulder to shoulder.",
+      "style": "Intimate",
+      "translation": "小时候为了省电，我们总挤在同一盏灯下读书，肩膀挨着肩膀。",
+      "translated_word": "电",
+      "display_order": 2
+    }
+  ]
+}

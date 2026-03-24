@@ -1,0 +1,40 @@
+{
+  "word": "haul",
+  "phonetic": "/hɔːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "拖；拉；搬运",
+  "examples": [
+    {
+      "sentence": "The fishermen haul their nets ashore at first light.",
+      "style": "Contextual",
+      "translation": "渔民们在晨光初现时将渔网拖上岸。",
+      "translated_word": "拖",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rescue teams hauled survivors from the wreckage throughout the night.",
+      "style": "Formal",
+      "translation": "救援队彻夜从废墟中搬运出幸存者。",
+      "translated_word": "搬运",
+      "display_order": 3
+    },
+    {
+      "sentence": "She hauled her suitcase through the crowded terminal.",
+      "style": "Collocational",
+      "translation": "她拖着行李箱穿过拥挤的航站楼。",
+      "translated_word": "拖",
+      "display_order": 4
+    },
+    {
+      "sentence": "My back aches, but I haul the last moving box into our first home together.",
+      "style": "Intimate",
+      "translation": "我腰酸背痛，却仍把最后一个纸箱搬进我们共同的第一个家。",
+      "translated_word": "搬",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "warble",
+  "phonetic": "/ˈwɔːrbəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "啼啭；婉转地唱；颤声歌唱",
+  "examples": [
+    {
+      "sentence": "A robin warbled from the oak tree as dawn broke.",
+      "style": "Contextual",
+      "translation": "破晓时分，一只知更鸟在橡树上啼啭。",
+      "translated_word": "啼啭",
+      "display_order": 1
+    },
+    {
+      "sentence": "The nightingale warbled, stitching silver notes into the velvet dark.",
+      "style": "Poetic",
+      "translation": "夜莺啼啭，将银色音符缝入夜幕。",
+      "translated_word": "啼啭",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother used to warble old folk songs while kneading dough.",
+      "style": "Intimate",
+      "translation": "外婆揉面时，总爱婉转地哼唱老民谣。",
+      "translated_word": "婉转",
+      "display_order": 2
+    },
+    {
+      "sentence": "Finches warble sweetly in the hedgerow each spring.",
+      "style": "Collocational",
+      "translation": "每逢春日，雀鸟便在树篱间婉转啼鸣。",
+      "translated_word": "婉转啼鸣",
+      "display_order": 3
+    }
+  ]
+}

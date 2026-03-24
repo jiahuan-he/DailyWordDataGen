@@ -1,0 +1,40 @@
+{
+  "word": "fume",
+  "phonetic": "/fjuːm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "发怒；生闷气；冒烟",
+  "examples": [
+    {
+      "sentence": "She fumed in silence as he took credit for her work.",
+      "style": "Contextual",
+      "translation": "他将她的成果据为己有，她只能默默生闷气。",
+      "translated_word": "生闷气",
+      "display_order": 2
+    },
+    {
+      "sentence": "Commuters fumed after the third delay this week.",
+      "style": "Formal",
+      "translation": "本周第三次延误后，通勤者们怒不可遏。",
+      "translated_word": "怒不可遏",
+      "display_order": 1
+    },
+    {
+      "sentence": "He always fumes over small things but forgives the big ones.",
+      "style": "Collocational",
+      "translation": "他总为小事恼火，却对大事轻轻放过。",
+      "translated_word": "恼火",
+      "display_order": 3
+    },
+    {
+      "sentence": "Let them fume; your peace is not theirs to take.",
+      "style": "Inspirational",
+      "translation": "任他们怒火中烧；你的平静不由他们夺走。",
+      "translated_word": "怒火中烧",
+      "display_order": 4
+    }
+  ]
+}

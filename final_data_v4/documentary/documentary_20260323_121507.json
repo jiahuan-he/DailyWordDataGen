@@ -1,0 +1,40 @@
+{
+  "word": "documentary",
+  "phonetic": "/ˌdɑːkjuˈmentəri/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "纪录片；文献片",
+  "examples": [
+    {
+      "sentence": "The documentary followed a family of elephants across three seasons.",
+      "style": "Contextual",
+      "translation": "这部纪录片追踪了一个象群跨越三季的迁徙。",
+      "translated_word": "纪录片",
+      "display_order": 1
+    },
+    {
+      "sentence": "A documentary does not give answers; it teaches us how to look.",
+      "style": "Philosophical",
+      "translation": "纪录片不提供答案；它教会我们如何观看。",
+      "translated_word": "纪录片",
+      "display_order": 4
+    },
+    {
+      "sentence": "We stayed up watching documentaries about deep-sea creatures.",
+      "style": "Collocational",
+      "translation": "我们熬夜看了好几部深海生物的纪录片。",
+      "translated_word": "纪录片",
+      "display_order": 3
+    },
+    {
+      "sentence": "A documentary about her hometown brought my grandmother to tears.",
+      "style": "Intimate",
+      "translation": "一部关于故乡的纪录片让祖母潸然泪下。",
+      "translated_word": "纪录片",
+      "display_order": 2
+    }
+  ]
+}

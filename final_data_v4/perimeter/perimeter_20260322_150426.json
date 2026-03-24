@@ -1,0 +1,39 @@
+{
+  "word": "perimeter",
+  "phonetic": "/pəˈrɪmɪtər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "周长；边界；周边",
+  "examples": [
+    {
+      "sentence": "The dog traced the perimeter of the yard, sniffing at every corner.",
+      "style": "Contextual",
+      "translation": "那只狗沿着院子四周嗅来嗅去，不放过任何角落。",
+      "translated_word": "四周",
+      "display_order": 1
+    },
+    {
+      "sentence": "Security forces have established a strict perimeter around the summit venue.",
+      "style": "Formal",
+      "translation": "安保力量已在峰会会场周围建立了严密的警戒圈。",
+      "translated_word": "警戒圈",
+      "display_order": 4
+    },
+    {
+      "sentence": "Motion sensors monitor the entire perimeter of the compound.",
+      "style": "Collocational",
+      "translation": "动态传感器监控着整座建筑的周界。",
+      "translated_word": "周界",
+      "display_order": 3
+    },
+    {
+      "sentence": "At dusk, my father and I would walk the perimeter of the farm in silence.",
+      "style": "Intimate",
+      "translation": "黄昏时分，我和父亲总是默默地沿着农场边界散步。",
+      "translated_word": "边界",
+      "display_order": 2
+    }
+  ]
+}

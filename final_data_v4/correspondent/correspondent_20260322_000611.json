@@ -1,0 +1,40 @@
+{
+  "word": "correspondent",
+  "phonetic": "/ˌkɒrɪˈspɒndənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "记者；通讯员；通信者",
+  "examples": [
+    {
+      "sentence": "Our Beijing correspondent brings breaking news from the summit.",
+      "style": "Formal",
+      "translation": "本台驻北京记者从峰会现场发来最新消息。",
+      "translated_word": "记者",
+      "display_order": 1
+    },
+    {
+      "sentence": "She spent a decade as a war correspondent in the Middle East.",
+      "style": "Contextual",
+      "translation": "她在中东做了十年战地记者。",
+      "translated_word": "记者",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother kept every letter from her overseas correspondent for fifty years.",
+      "style": "Intimate",
+      "translation": "祖母将那位越洋通信者的每一封来信珍藏了五十年。",
+      "translated_word": "通信者",
+      "display_order": 4
+    },
+    {
+      "sentence": "A correspondent's duty is not to shape truth, but to carry it unbroken.",
+      "style": "Philosophical",
+      "translation": "记者的使命不是塑造真相，而是将它完整地传递。",
+      "translated_word": "记者",
+      "display_order": 3
+    }
+  ]
+}

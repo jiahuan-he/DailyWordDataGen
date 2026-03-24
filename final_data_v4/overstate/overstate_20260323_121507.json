@@ -1,0 +1,39 @@
+{
+  "word": "overstate",
+  "phonetic": "/ˌoʊvərˈsteɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "夸大；言过其实；过分强调",
+  "examples": [
+    {
+      "sentence": "The danger was overstated; we arrived home safely.",
+      "style": "Contextual",
+      "translation": "危险被夸大了；我们平安到家。",
+      "translated_word": "夸大",
+      "display_order": 2
+    },
+    {
+      "sentence": "Critics argue the report overstates the economic benefits.",
+      "style": "Formal",
+      "translation": "批评人士认为该报告夸大了经济效益。",
+      "translated_word": "夸大",
+      "display_order": 3
+    },
+    {
+      "sentence": "She didn't lie, but she did overstate her qualifications.",
+      "style": "Contrastive",
+      "translation": "她没有撒谎，但确实夸大了自己的资历。",
+      "translated_word": "夸大",
+      "display_order": 1
+    },
+    {
+      "sentence": "We overstate our certainties and understate our doubts.",
+      "style": "Philosophical",
+      "translation": "我们夸大确信，低估疑虑。",
+      "translated_word": "夸大",
+      "display_order": 4
+    }
+  ]
+}

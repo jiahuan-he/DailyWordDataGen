@@ -1,0 +1,39 @@
+{
+  "word": "hangman",
+  "phonetic": "/ˈhæŋmən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "刽子手；绞刑吏；猜字游戏",
+  "examples": [
+    {
+      "sentence": "We killed time with hangman while the storm raged outside.",
+      "style": "Contextual",
+      "translation": "暴风雨肆虐时，我们玩猜字游戏打发时间。",
+      "translated_word": "猜字游戏",
+      "display_order": 1
+    },
+    {
+      "sentence": "My father's hangman puzzles were impossible; he always picked words like 'rhythm.'",
+      "style": "Intimate",
+      "translation": "父亲出的猜字题总是无解；他专挑\"rhythm\"这样的词。",
+      "translated_word": "猜字",
+      "display_order": 2
+    },
+    {
+      "sentence": "The last hangman in the province retired in 1965, closing a grim chapter of local history.",
+      "style": "Formal",
+      "translation": "该省最后一位绞刑吏于1965年退休，为当地历史画上沉重的句号。",
+      "translated_word": "绞刑吏",
+      "display_order": 3
+    },
+    {
+      "sentence": "A hangman carries the conscience of a society that cannot bear to look.",
+      "style": "Philosophical",
+      "translation": "刽子手背负着一个不敢直视的社会的良心。",
+      "translated_word": "刽子手",
+      "display_order": 4
+    }
+  ]
+}

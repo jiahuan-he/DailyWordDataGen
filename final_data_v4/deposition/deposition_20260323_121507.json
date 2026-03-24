@@ -1,0 +1,39 @@
+{
+  "word": "deposition",
+  "phonetic": "/ˌdepəˈzɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "证词；罢免；沉积",
+  "examples": [
+    {
+      "sentence": "The lawyer scheduled her deposition for Monday morning.",
+      "style": "Contextual",
+      "translation": "律师将她的证词录取安排在周一上午。",
+      "translated_word": "证词录取",
+      "display_order": 2
+    },
+    {
+      "sentence": "His video deposition became the prosecution's most damaging evidence.",
+      "style": "Formal",
+      "translation": "他的录像证词成为控方最具杀伤力的证据。",
+      "translated_word": "证词",
+      "display_order": 1
+    },
+    {
+      "sentence": "Centuries of mineral deposition created these crystalline caverns.",
+      "style": "Collocational",
+      "translation": "数百年的矿物沉积造就了这些晶莹剔透的洞穴。",
+      "translated_word": "沉积",
+      "display_order": 3
+    },
+    {
+      "sentence": "A deposition preserves words, not intentions; the spaces between answers hold the real story.",
+      "style": "Philosophical",
+      "translation": "证词保存的是言辞，而非本意；真正的故事藏在回答的间隙里。",
+      "translated_word": "证词",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "natal",
+  "phonetic": "/ˈneɪtl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "出生的；诞生的；故乡的",
+  "examples": [
+    {
+      "sentence": "The natal ward was quiet that morning, filled only with the soft cries of newborns.",
+      "style": "Contextual",
+      "translation": "那天早晨，产科病房很安静，只有新生儿轻柔的啼哭声。",
+      "translated_word": "产科",
+      "display_order": 1
+    },
+    {
+      "sentence": "Improvements in natal care have dramatically reduced infant mortality rates.",
+      "style": "Formal",
+      "translation": "分娩护理的改善大幅降低了婴儿死亡率。",
+      "translated_word": "分娩",
+      "display_order": 3
+    },
+    {
+      "sentence": "We never truly leave our natal soil; it lives on in our tastes and our silences.",
+      "style": "Philosophical",
+      "translation": "我们从未真正离开故土；它留存于我们的口味与沉默之中。",
+      "translated_word": "故土",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her natal village still whispered in her accent, thirty years after she left.",
+      "style": "Poetic",
+      "translation": "离开三十年后，故乡依然在她的口音里低语。",
+      "translated_word": "故乡",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "jerk",
+  "phonetic": "/dʒɜːrk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "混蛋；讨厌鬼；粗鲁的人",
+  "examples": [
+    {
+      "sentence": "He cut in line without a word; what a jerk.",
+      "style": "Contextual",
+      "translation": "他插队连声招呼都不打；真是个混蛋。",
+      "translated_word": "混蛋",
+      "display_order": 1
+    },
+    {
+      "sentence": "Walking away from that jerk was the first time I chose myself.",
+      "style": "Intimate",
+      "translation": "离开那个混蛋，是我第一次选择自己。",
+      "translated_word": "混蛋",
+      "display_order": 3
+    },
+    {
+      "sentence": "Everyone warned me: he's a total jerk.",
+      "style": "Collocational",
+      "translation": "所有人都提醒过我：他是个十足的混蛋。",
+      "translated_word": "混蛋",
+      "display_order": 2
+    },
+    {
+      "sentence": "He's not shy; he's a jerk who pretends you don't exist.",
+      "style": "Contrastive",
+      "translation": "他不是内向，是个把你当空气的讨厌鬼。",
+      "translated_word": "讨厌鬼",
+      "display_order": 4
+    }
+  ]
+}

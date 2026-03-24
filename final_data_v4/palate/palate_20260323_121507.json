@@ -1,0 +1,40 @@
+{
+  "word": "palate",
+  "phonetic": "/ˈpælət/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "味觉；品味；上颚",
+  "examples": [
+    {
+      "sentence": "Years of tasting wine had refined his palate.",
+      "style": "Contextual",
+      "translation": "多年的品酒经历磨练了他的味觉。",
+      "translated_word": "味觉",
+      "display_order": 1
+    },
+    {
+      "sentence": "A slice of ginger cleanses the palate between courses.",
+      "style": "Collocational",
+      "translation": "一片姜可在换菜间隙清口。",
+      "translated_word": "口",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every meal is a conversation between the chef and the palate.",
+      "style": "Poetic",
+      "translation": "每一餐都是厨师与味蕾的对话。",
+      "translated_word": "味蕾",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's braised pork shaped my palate before I knew what home meant.",
+      "style": "Intimate",
+      "translation": "在我懂得何为故乡之前，外婆的红烧肉早已塑造了我的味觉。",
+      "translated_word": "味觉",
+      "display_order": 3
+    }
+  ]
+}

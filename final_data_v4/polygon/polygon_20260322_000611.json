@@ -1,0 +1,39 @@
+{
+  "word": "polygon",
+  "phonetic": "/ˈpɑːlɪɡɑːn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "多边形",
+  "examples": [
+    {
+      "sentence": "The soccer ball is covered in polygons: hexagons and pentagons stitched together.",
+      "style": "Contextual",
+      "translation": "足球的表面由多边形覆盖：六边形与五边形拼接而成。",
+      "translated_word": "多边形",
+      "display_order": 1
+    },
+    {
+      "sentence": "The museum's polygon facade has become a new landmark in the city.",
+      "style": "Formal",
+      "translation": "博物馆的多边形外立面已成为城市的新地标。",
+      "translated_word": "多边形",
+      "display_order": 3
+    },
+    {
+      "sentence": "We learned to draw regular polygons with a compass and ruler.",
+      "style": "Collocational",
+      "translation": "我们学会了用圆规和直尺绘制正多边形。",
+      "translated_word": "多边形",
+      "display_order": 2
+    },
+    {
+      "sentence": "A polygon is proof that straight lines can form something whole.",
+      "style": "Philosophical",
+      "translation": "多边形证明了直线也能围合出完整。",
+      "translated_word": "多边形",
+      "display_order": 4
+    }
+  ]
+}

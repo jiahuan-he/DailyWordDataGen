@@ -1,0 +1,40 @@
+{
+  "word": "delegate",
+  "phonetic": "/ˈdelɪɡeɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "委派；授权；委托",
+  "examples": [
+    {
+      "sentence": "She delegated the research to her assistant and focused on strategy.",
+      "style": "Contextual",
+      "translation": "她把调研工作委托给助理，自己专注于战略规划。",
+      "translated_word": "委托",
+      "display_order": 1
+    },
+    {
+      "sentence": "The director delegated authority to regional leads, accelerating decisions across all markets.",
+      "style": "Formal",
+      "translation": "总监向各区域负责人授权，加快了所有市场的决策效率。",
+      "translated_word": "授权",
+      "display_order": 2
+    },
+    {
+      "sentence": "Those who cannot delegate condemn themselves to small victories.",
+      "style": "Philosophical",
+      "translation": "不懂放权的人，注定只能赢得小胜。",
+      "translated_word": "放权",
+      "display_order": 3
+    },
+    {
+      "sentence": "Delegate not to abandon, but to empower.",
+      "style": "Inspirational",
+      "translation": "委托不是放弃，而是赋能。",
+      "translated_word": "委托",
+      "display_order": 4
+    }
+  ]
+}

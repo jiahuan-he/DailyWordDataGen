@@ -1,0 +1,40 @@
+{
+  "word": "whisk",
+  "phonetic": "/wɪsk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "搅打；迅速移动；快速带走",
+  "examples": [
+    {
+      "sentence": "She whisked the eggs until they turned pale and fluffy.",
+      "style": "Contextual",
+      "translation": "她把鸡蛋搅打至颜色变浅，蓬松绵密。",
+      "translated_word": "搅打",
+      "display_order": 1
+    },
+    {
+      "sentence": "The wind whisked autumn leaves into golden spirals.",
+      "style": "Poetic",
+      "translation": "秋风将落叶卷成一道道金色旋涡。",
+      "translated_word": "卷",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother would whisk batter while humming old songs.",
+      "style": "Intimate",
+      "translation": "外婆总是一边哼着老歌，一边搅打面糊。",
+      "translated_word": "搅打",
+      "display_order": 2
+    },
+    {
+      "sentence": "The waiter whisked away our plates before we could protest.",
+      "style": "Collocational",
+      "translation": "服务生迅速收走了我们的盘子，快得让人来不及阻止。",
+      "translated_word": "迅速",
+      "display_order": 3
+    }
+  ]
+}

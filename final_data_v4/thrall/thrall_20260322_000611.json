@@ -1,0 +1,41 @@
+{
+  "word": "thrall",
+  "phonetic": "/θrɔːl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "奴役；束缚；着迷",
+  "examples": [
+    {
+      "sentence": "The city remained in thrall to its industrial past.",
+      "style": "Collocational",
+      "translation": "这座城市仍被其工业往昔所束缚。",
+      "translated_word": "束缚",
+      "display_order": 2
+    },
+    {
+      "sentence": "Beauty holds its own quiet thrall.",
+      "style": "Poetic",
+      "translation": "美有其无声的魔力。",
+      "translated_word": "魔力",
+      "display_order": 3
+    },
+    {
+      "sentence": "We choose our thralls: ambition, comfort, certainty.",
+      "style": "Philosophical",
+      "translation": "我们选择自己的枷锁：野心、安逸、确定性。",
+      "translated_word": "枷锁",
+      "display_order": 4
+    },
+    {
+      "sentence": "Critics argue the party is in thrall to corporate donors.",
+      "style": "Formal",
+      "translation": "批评人士认为该党已沦为企业捐助者的附庸。",
+      "translated_word": "附庸",
+      "display_order": 1
+    }
+  ]
+}

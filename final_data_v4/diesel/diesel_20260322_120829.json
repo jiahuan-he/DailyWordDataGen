@@ -1,0 +1,40 @@
+{
+  "word": "diesel",
+  "phonetic": "/ˈdiːzəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "柴油；柴油机；柴油车",
+  "examples": [
+    {
+      "sentence": "The truck runs on diesel, not gasoline.",
+      "style": "Contextual",
+      "translation": "这辆卡车烧柴油，不是汽油。",
+      "translated_word": "柴油",
+      "display_order": 1
+    },
+    {
+      "sentence": "European cities are phasing out diesel vehicles to improve air quality.",
+      "style": "Formal",
+      "translation": "欧洲各城市正逐步淘汰柴油车，以改善空气质量。",
+      "translated_word": "柴油",
+      "display_order": 3
+    },
+    {
+      "sentence": "The mechanic inspected the diesel engine before the long haul.",
+      "style": "Collocational",
+      "translation": "长途运输前，技师仔细检查了柴油发动机。",
+      "translated_word": "柴油",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandfather's tractor smelled of diesel and summer mornings.",
+      "style": "Intimate",
+      "translation": "祖父的拖拉机，总弥漫着柴油与夏日清晨的气息。",
+      "translated_word": "柴油",
+      "display_order": 4
+    }
+  ]
+}

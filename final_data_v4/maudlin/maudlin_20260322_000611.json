@@ -1,0 +1,40 @@
+{
+  "word": "maudlin",
+  "phonetic": "/ˈmɔːdlɪn/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "伤感的；自怜的；过度多愁善感的",
+  "examples": [
+    {
+      "sentence": "After three glasses of wine, his toasts turned maudlin.",
+      "style": "Contextual",
+      "translation": "三杯酒下肚，他的祝酒词变得伤感起来。",
+      "translated_word": "伤感",
+      "display_order": 1
+    },
+    {
+      "sentence": "There's a line between heartfelt and maudlin; the film crossed it.",
+      "style": "Contrastive",
+      "translation": "真挚与矫情之间有一条界线；这部电影越过了它。",
+      "translated_word": "矫情",
+      "display_order": 3
+    },
+    {
+      "sentence": "Midnight makes philosophers of some and maudlin fools of others.",
+      "style": "Poetic",
+      "translation": "午夜将一些人变成哲人，将另一些人变成自怜的傻瓜。",
+      "translated_word": "自怜",
+      "display_order": 4
+    },
+    {
+      "sentence": "Reading old letters, I caught myself slipping into maudlin territory.",
+      "style": "Intimate",
+      "translation": "翻阅旧信时，我发觉自己正滑向伤感的深渊。",
+      "translated_word": "伤感",
+      "display_order": 2
+    }
+  ]
+}

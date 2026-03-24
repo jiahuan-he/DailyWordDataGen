@@ -1,0 +1,40 @@
+{
+  "word": "outbreak",
+  "phonetic": "/ˈaʊtbreɪk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "爆发；暴发；突发",
+  "examples": [
+    {
+      "sentence": "The outbreak forced hospitals to cancel all elective surgeries.",
+      "style": "Formal",
+      "translation": "疫情爆发，各医院被迫取消所有择期手术。",
+      "translated_word": "爆发",
+      "display_order": 1
+    },
+    {
+      "sentence": "Schools closed within hours of the outbreak being confirmed.",
+      "style": "Contextual",
+      "translation": "疫情确认后数小时内，学校便已停课。",
+      "translated_word": "疫情",
+      "display_order": 2
+    },
+    {
+      "sentence": "A sudden outbreak of applause broke the solemn silence.",
+      "style": "Collocational",
+      "translation": "一阵突如其来的掌声打破了肃穆的沉寂。",
+      "translated_word": "一阵",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother keeps letters from the outbreak years; yellowed, but never reopened.",
+      "style": "Intimate",
+      "translation": "祖母珍藏着疫情年间的信件，纸已泛黄，却从未再启封。",
+      "translated_word": "疫情",
+      "display_order": 4
+    }
+  ]
+}

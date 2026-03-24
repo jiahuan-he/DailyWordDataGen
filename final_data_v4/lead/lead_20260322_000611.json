@@ -1,0 +1,41 @@
+{
+  "word": "lead",
+  "phonetic": "/liːd/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "引领；带领；领导；导致",
+  "examples": [
+    {
+      "sentence": "A narrow trail leads through the forest to the lake.",
+      "style": "Contextual",
+      "translation": "一条小径穿过森林，通向湖边。",
+      "translated_word": "通向",
+      "display_order": 1
+    },
+    {
+      "sentence": "The investigation is led by senior officials from three agencies.",
+      "style": "Formal",
+      "translation": "调查由三个机构的高级官员联合主导。",
+      "translated_word": "主导",
+      "display_order": 2
+    },
+    {
+      "sentence": "Lead with curiosity, not certainty.",
+      "style": "Inspirational",
+      "translation": "以好奇心引领，而非笃信。",
+      "translated_word": "引领",
+      "display_order": 3
+    },
+    {
+      "sentence": "Those who lead by listening outlast those who lead by speaking.",
+      "style": "Philosophical",
+      "translation": "以倾听引领者，比以言语引领者走得更远。",
+      "translated_word": "引领",
+      "display_order": 4
+    }
+  ]
+}

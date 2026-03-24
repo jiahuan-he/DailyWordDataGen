@@ -1,0 +1,40 @@
+{
+  "word": "cuddle",
+  "phonetic": "/ˈkʌdl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "拥抱；依偎；搂抱",
+  "examples": [
+    {
+      "sentence": "The child cuddled against her mother, finally safe from the storm.",
+      "style": "Contextual",
+      "translation": "孩子依偎在母亲怀里，终于躲过了风雨。",
+      "translated_word": "依偎",
+      "display_order": 1
+    },
+    {
+      "sentence": "On cold nights, we cuddle up on the couch with old films.",
+      "style": "Collocational",
+      "translation": "寒夜里，我们窝在沙发上看老电影。",
+      "translated_word": "窝",
+      "display_order": 2
+    },
+    {
+      "sentence": "Two silhouettes cuddled beneath the lamplight, the city forgotten.",
+      "style": "Poetic",
+      "translation": "灯光下两道身影相拥，城市被遗忘在身后。",
+      "translated_word": "相拥",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather's dog would cuddle into my lap every visit, gray-muzzled but eager.",
+      "style": "Intimate",
+      "translation": "每次回去，外公的老狗都会蜷进我膝头，灰白的嘴边满是期待。",
+      "translated_word": "蜷进",
+      "display_order": 3
+    }
+  ]
+}

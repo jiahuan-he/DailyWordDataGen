@@ -1,0 +1,39 @@
+{
+  "word": "watertight",
+  "phonetic": "/ˈwɔːtərtaɪt/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "防水的；密封的；无懈可击的；严密的",
+  "examples": [
+    {
+      "sentence": "The diver checked his watch; the seal was watertight.",
+      "style": "Contextual",
+      "translation": "潜水员看了眼手表：密封完好。",
+      "translated_word": "密封",
+      "display_order": 2
+    },
+    {
+      "sentence": "The prosecutor presented a watertight case built on forensic evidence.",
+      "style": "Formal",
+      "translation": "检察官呈上的案件证据确凿，无懈可击。",
+      "translated_word": "无懈可击",
+      "display_order": 3
+    },
+    {
+      "sentence": "Engineers verified every watertight compartment before the vessel launched.",
+      "style": "Collocational",
+      "translation": "船只下水前，工程师逐一检查了每个水密舱室。",
+      "translated_word": "水密",
+      "display_order": 1
+    },
+    {
+      "sentence": "His excuse sounded convincing, but it wasn't watertight.",
+      "style": "Contrastive",
+      "translation": "他的借口听着像那么回事，却经不起推敲。",
+      "translated_word": "经不起推敲",
+      "display_order": 4
+    }
+  ]
+}

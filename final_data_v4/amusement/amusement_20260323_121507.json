@@ -1,0 +1,39 @@
+{
+  "word": "amusement",
+  "phonetic": "/əˈmjuːzmənt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "娱乐；消遣；乐趣",
+  "examples": [
+    {
+      "sentence": "She watched the puppy chase its tail, her face bright with amusement.",
+      "style": "Contextual",
+      "translation": "她看着小狗追逐自己的尾巴，脸上满是愉悦。",
+      "translated_word": "愉悦",
+      "display_order": 1
+    },
+    {
+      "sentence": "To everyone's amusement, the professor arrived in mismatched shoes.",
+      "style": "Collocational",
+      "translation": "让大家忍俊不禁的是，教授穿着两只不配对的鞋子来了。",
+      "translated_word": "忍俊不禁",
+      "display_order": 3
+    },
+    {
+      "sentence": "Amusement flickered in her eyes: a quiet spark before the smile.",
+      "style": "Poetic",
+      "translation": "她眼中闪过一丝玩味：那是微笑前的轻盈火花。",
+      "translated_word": "玩味",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather's card tricks were my greatest amusement that summer.",
+      "style": "Intimate",
+      "translation": "那年夏天，外公的纸牌戏法是我最大的乐趣。",
+      "translated_word": "乐趣",
+      "display_order": 2
+    }
+  ]
+}

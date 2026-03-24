@@ -1,0 +1,39 @@
+{
+  "word": "foodstuff",
+  "phonetic": "/ˈfuːdstʌf/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "食品；食材；粮食",
+  "examples": [
+    {
+      "sentence": "The warehouse stores basic foodstuffs: rice, flour, and canned goods.",
+      "style": "Collocational",
+      "translation": "仓库里存放着基本食品：大米、面粉和罐头。",
+      "translated_word": "食品",
+      "display_order": 1
+    },
+    {
+      "sentence": "Global supply chains have made once-rare foodstuffs commonplace.",
+      "style": "Formal",
+      "translation": "全球供应链让曾经稀有的食材变得随处可见。",
+      "translated_word": "食材",
+      "display_order": 3
+    },
+    {
+      "sentence": "She handed me a list of foodstuffs to pick up before the storm.",
+      "style": "Contextual",
+      "translation": "她递给我一张清单，让我在暴风雨来临前采购食品。",
+      "translated_word": "食品",
+      "display_order": 2
+    },
+    {
+      "sentence": "Unlike processed snacks, whole foodstuffs nourish without deception.",
+      "style": "Contrastive",
+      "translation": "与加工零食不同，天然食材的滋养真实而纯粹。",
+      "translated_word": "食材",
+      "display_order": 4
+    }
+  ]
+}

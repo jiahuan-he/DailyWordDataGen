@@ -1,0 +1,39 @@
+{
+  "word": "musty",
+  "phonetic": "/ˈmʌsti/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "发霉的；陈腐的；过时的",
+  "examples": [
+    {
+      "sentence": "The basement hadn't been opened in years; everything smelled musty.",
+      "style": "Contextual",
+      "translation": "地下室多年未启，一切都散发着霉味。",
+      "translated_word": "霉味",
+      "display_order": 1
+    },
+    {
+      "sentence": "Musty pages hold the fingerprints of readers long gone.",
+      "style": "Poetic",
+      "translation": "泛黄的书页上，留着故人翻阅的痕迹。",
+      "translated_word": "泛黄",
+      "display_order": 4
+    },
+    {
+      "sentence": "Fresh paint couldn't mask the musty soul of the old house.",
+      "style": "Contrastive",
+      "translation": "新漆也掩不住老宅陈旧的气息。",
+      "translated_word": "陈旧",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her attic smelled musty, but to me it smelled like childhood.",
+      "style": "Intimate",
+      "translation": "她的阁楼有股霉味，但对我而言，那是童年的味道。",
+      "translated_word": "霉味",
+      "display_order": 2
+    }
+  ]
+}

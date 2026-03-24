@@ -1,0 +1,41 @@
+{
+  "word": "mushroom",
+  "phonetic": "/ˈmʌʃruːm/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "蘑菇；菌类；香菇",
+  "examples": [
+    {
+      "sentence": "The forest floor was dotted with wild mushrooms after the rain.",
+      "style": "Contextual",
+      "translation": "雨后，林间地面上冒出了星星点点的野蘑菇。",
+      "translated_word": "蘑菇",
+      "display_order": 1
+    },
+    {
+      "sentence": "Cream of mushroom soup warms even the coldest evenings.",
+      "style": "Collocational",
+      "translation": "一碗奶油蘑菇汤，足以温暖最寒冷的夜晚。",
+      "translated_word": "蘑菇",
+      "display_order": 3
+    },
+    {
+      "sentence": "Pale mushrooms emerge at dusk, silent and unhurried.",
+      "style": "Poetic",
+      "translation": "暮色中，蘑菇悄然破土，无声而从容。",
+      "translated_word": "蘑菇",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother knew every mushroom in these woods by name.",
+      "style": "Intimate",
+      "translation": "外婆认得这片林子里的每一种蘑菇。",
+      "translated_word": "蘑菇",
+      "display_order": 2
+    }
+  ]
+}

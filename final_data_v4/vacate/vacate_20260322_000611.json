@@ -1,0 +1,39 @@
+{
+  "word": "vacate",
+  "phonetic": "/vəˈkeɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "腾出；搬离；辞去",
+  "examples": [
+    {
+      "sentence": "The hotel asks guests to vacate rooms by noon.",
+      "style": "Contextual",
+      "translation": "酒店要求客人在中午前腾出房间。",
+      "translated_word": "腾出",
+      "display_order": 1
+    },
+    {
+      "sentence": "The court ordered all residents to vacate the condemned building within thirty days.",
+      "style": "Formal",
+      "translation": "法院勒令所有住户在三十天内搬离这栋危楼。",
+      "translated_word": "搬离",
+      "display_order": 3
+    },
+    {
+      "sentence": "Please vacate the premises before construction begins.",
+      "style": "Collocational",
+      "translation": "请在施工开始前离开场地。",
+      "translated_word": "离开",
+      "display_order": 4
+    },
+    {
+      "sentence": "We vacated the apartment in silence, leaving four years behind on those walls.",
+      "style": "Intimate",
+      "translation": "我们默默搬离了那间公寓，四年的光阴留在了那些墙壁上。",
+      "translated_word": "搬离",
+      "display_order": 2
+    }
+  ]
+}

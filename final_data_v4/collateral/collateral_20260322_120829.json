@@ -1,0 +1,40 @@
+{
+  "word": "collateral",
+  "phonetic": "/kəˈlætərəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "抵押品；担保物",
+  "examples": [
+    {
+      "sentence": "Without collateral, the bank refused his loan.",
+      "style": "Contextual",
+      "translation": "没有抵押品，银行拒绝了他的贷款。",
+      "translated_word": "抵押品",
+      "display_order": 2
+    },
+    {
+      "sentence": "The firm pledged its assets as collateral for the acquisition.",
+      "style": "Formal",
+      "translation": "公司以资产作为此次收购的担保。",
+      "translated_word": "担保",
+      "display_order": 3
+    },
+    {
+      "sentence": "He put up his car as collateral.",
+      "style": "Collocational",
+      "translation": "他用汽车作抵押。",
+      "translated_word": "抵押",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every promise is collateral against the future.",
+      "style": "Philosophical",
+      "translation": "每一个承诺，都是对未来的担保。",
+      "translated_word": "担保",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "identity",
+  "phonetic": "/aɪˈdentɪti/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "身份；认同；个性",
+  "examples": [
+    {
+      "sentence": "She kept her identity hidden until she could trust him.",
+      "style": "Contextual",
+      "translation": "她隐藏了自己的身份，直到确信可以信任他。",
+      "translated_word": "身份",
+      "display_order": 1
+    },
+    {
+      "sentence": "We spend years constructing an identity, only to find it was never fixed.",
+      "style": "Philosophical",
+      "translation": "我们花费数年构建身份，却发现它从未固定。",
+      "translated_word": "身份",
+      "display_order": 3
+    },
+    {
+      "sentence": "Living abroad made me question an identity I once took for granted.",
+      "style": "Intimate",
+      "translation": "旅居海外让我开始质疑那个曾习以为常的自我。",
+      "translated_word": "自我",
+      "display_order": 2
+    },
+    {
+      "sentence": "The investigation confirmed that thousands of identities had been compromised.",
+      "style": "Formal",
+      "translation": "调查证实，数千人的身份信息已遭泄露。",
+      "translated_word": "身份",
+      "display_order": 4
+    }
+  ]
+}

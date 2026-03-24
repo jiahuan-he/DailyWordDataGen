@@ -1,0 +1,41 @@
+{
+  "word": "taking",
+  "phonetic": "/ˈteɪkɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "拿取；带走；花费；接受",
+  "examples": [
+    {
+      "sentence": "He's taking the kids to school while I finish the report.",
+      "style": "Contextual",
+      "translation": "他送孩子们上学，我来完成报告。",
+      "translated_word": "送",
+      "display_order": 1
+    },
+    {
+      "sentence": "Taking notes by hand helps memory last.",
+      "style": "Collocational",
+      "translation": "手写笔记，记忆更牢。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Every Sunday, my father insisted on taking the long route home.",
+      "style": "Intimate",
+      "translation": "每个周日，父亲总坚持绕远路回家。",
+      "translated_word": "绕",
+      "display_order": 2
+    },
+    {
+      "sentence": "Taking the first step matters more than seeing the whole staircase.",
+      "style": "Inspirational",
+      "translation": "迈出第一步，比看清整段阶梯更重要。",
+      "translated_word": "迈出",
+      "display_order": 3
+    }
+  ]
+}

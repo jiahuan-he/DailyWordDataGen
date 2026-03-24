@@ -1,0 +1,41 @@
+{
+  "word": "siren",
+  "phonetic": "/ˈsaɪrən/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "警报器；汽笛；塞壬；妖女",
+  "examples": [
+    {
+      "sentence": "The ambulance siren grew louder as it neared the intersection.",
+      "style": "Contextual",
+      "translation": "救护车的警笛声在接近路口时愈发刺耳。",
+      "translated_word": "警笛",
+      "display_order": 1
+    },
+    {
+      "sentence": "Air raid sirens echoed through the capital as residents rushed to shelters.",
+      "style": "Formal",
+      "translation": "空袭警报响彻首都，居民纷纷奔向避难所。",
+      "translated_word": "警报",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every obsession begins as a siren song we mistake for fate.",
+      "style": "Philosophical",
+      "translation": "每一种执念，最初都是被我们误认为命运的诱惑之音。",
+      "translated_word": "诱惑之音",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her laughter was a siren's call; sailors have drowned for less.",
+      "style": "Poetic",
+      "translation": "她的笑声是塞壬的呼唤；水手们曾为更少的诱惑溺亡。",
+      "translated_word": "塞壬",
+      "display_order": 3
+    }
+  ]
+}

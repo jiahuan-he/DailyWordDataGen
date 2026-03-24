@@ -1,0 +1,39 @@
+{
+  "word": "medication",
+  "phonetic": "/ˌmedɪˈkeɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "药物；药品；药剂",
+  "examples": [
+    {
+      "sentence": "The doctor prescribed new medication for her migraines.",
+      "style": "Contextual",
+      "translation": "医生为她的偏头痛开了新药。",
+      "translated_word": "药",
+      "display_order": 1
+    },
+    {
+      "sentence": "The FDA approved the medication after years of clinical trials.",
+      "style": "Formal",
+      "translation": "经过多年临床试验，该药物获得了FDA批准。",
+      "translated_word": "药物",
+      "display_order": 4
+    },
+    {
+      "sentence": "She keeps her daily medication in a small pillbox by the bed.",
+      "style": "Collocational",
+      "translation": "她把每日的药物放在床头的小药盒里。",
+      "translated_word": "药物",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every night, I set out my grandmother's medication: pills she no longer remembers to take.",
+      "style": "Intimate",
+      "translation": "每晚，我都会摆好祖母的药；那些她已记不得要吃的药片。",
+      "translated_word": "药",
+      "display_order": 2
+    }
+  ]
+}

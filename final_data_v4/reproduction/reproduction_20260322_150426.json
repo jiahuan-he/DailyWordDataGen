@@ -1,0 +1,39 @@
+{
+  "word": "reproduction",
+  "phonetic": "/ˌriːprəˈdʌkʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "繁殖；复制品；再现",
+  "examples": [
+    {
+      "sentence": "The museum sells reproductions of its most beloved paintings.",
+      "style": "Contextual",
+      "translation": "博物馆出售馆藏名画的复制品。",
+      "translated_word": "复制品",
+      "display_order": 1
+    },
+    {
+      "sentence": "Researchers are studying the reproduction of coral in warming ocean waters.",
+      "style": "Formal",
+      "translation": "研究人员正在研究珊瑚在变暖海水中的繁殖状况。",
+      "translated_word": "繁殖",
+      "display_order": 3
+    },
+    {
+      "sentence": "The original hangs in Paris; this reproduction lets me live with the colors daily.",
+      "style": "Contrastive",
+      "translation": "真迹远在巴黎；这幅复制品让我得以日日与那些色彩相伴。",
+      "translated_word": "复制品",
+      "display_order": 2
+    },
+    {
+      "sentence": "Each generation is a reproduction of the last, with small, hopeful mutations.",
+      "style": "Philosophical",
+      "translation": "每一代人都是上一代的翻版，带着微小而充满希望的变异。",
+      "translated_word": "翻版",
+      "display_order": 4
+    }
+  ]
+}

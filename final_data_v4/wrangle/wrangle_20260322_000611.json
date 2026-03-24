@@ -1,0 +1,40 @@
+{
+  "word": "wrangle",
+  "phonetic": "/ˈræŋɡl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "争吵；争论；费力获取",
+  "examples": [
+    {
+      "sentence": "They wrangled over the bill for twenty minutes before splitting it evenly.",
+      "style": "Contextual",
+      "translation": "他们为账单争论了二十分钟，最后决定平分。",
+      "translated_word": "争论",
+      "display_order": 1
+    },
+    {
+      "sentence": "Diplomats continue to wrangle over the terms of the ceasefire agreement.",
+      "style": "Formal",
+      "translation": "外交官们仍在就停火协议的条款争执不下。",
+      "translated_word": "争执",
+      "display_order": 3
+    },
+    {
+      "sentence": "She wrangled a last-minute reservation at the city's most exclusive restaurant.",
+      "style": "Collocational",
+      "translation": "她费尽周折，在城中最难订的餐厅抢到了一个临时座位。",
+      "translated_word": "费尽周折",
+      "display_order": 4
+    },
+    {
+      "sentence": "My parents would wrangle about small things, yet never let the sun set on their anger.",
+      "style": "Intimate",
+      "translation": "父母常为琐事拌嘴，却从不让怒气过夜。",
+      "translated_word": "拌嘴",
+      "display_order": 2
+    }
+  ]
+}

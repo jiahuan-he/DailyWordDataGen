@@ -1,0 +1,40 @@
+{
+  "word": "drool",
+  "phonetic": "/druːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "流口水；垂涎；渴望",
+  "examples": [
+    {
+      "sentence": "The puppy began to drool the moment it smelled the bacon.",
+      "style": "Contextual",
+      "translation": "小狗一闻到培根的香味，便开始流口水。",
+      "translated_word": "流口水",
+      "display_order": 1
+    },
+    {
+      "sentence": "Food critics drool over the chef's signature dish.",
+      "style": "Collocational",
+      "translation": "美食评论家们对这位主厨的招牌菜垂涎不已。",
+      "translated_word": "垂涎",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every time I pass that bakery, I drool at the croissants in the window.",
+      "style": "Intimate",
+      "translation": "每次路过那家面包店，我都对橱窗里的可颂垂涎三尺。",
+      "translated_word": "垂涎",
+      "display_order": 2
+    },
+    {
+      "sentence": "She drools over old bookstores the way others crave jewels.",
+      "style": "Poetic",
+      "translation": "她对旧书店的渴望，如同他人对珠宝的痴迷。",
+      "translated_word": "渴望",
+      "display_order": 4
+    }
+  ]
+}

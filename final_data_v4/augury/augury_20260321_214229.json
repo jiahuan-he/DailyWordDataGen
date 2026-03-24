@@ -1,0 +1,39 @@
+{
+  "word": "augury",
+  "phonetic": "/ˈɔːɡjʊri/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "预兆；征兆；占卜",
+  "examples": [
+    {
+      "sentence": "The sudden bloom of winter roses was taken as an augury of peace.",
+      "style": "Contextual",
+      "translation": "冬日玫瑰骤然盛放，被视为和平的预兆。",
+      "translated_word": "预兆",
+      "display_order": 1
+    },
+    {
+      "sentence": "Ancient priests studied the flight of birds, believing each pattern held an augury.",
+      "style": "Formal",
+      "translation": "古代祭司研究飞鸟的轨迹，相信每种图案都暗藏天意。",
+      "translated_word": "天意",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some see a black cat as ill augury; others see only a cat.",
+      "style": "Philosophical",
+      "translation": "有人视黑猫为不祥之兆；有人只看见一只猫。",
+      "translated_word": "兆",
+      "display_order": 4
+    },
+    {
+      "sentence": "The first snow fell on our wedding day: a quiet augury we chose to trust.",
+      "style": "Poetic",
+      "translation": "初雪落在我们的婚礼上：一个我们选择相信的静默征兆。",
+      "translated_word": "征兆",
+      "display_order": 2
+    }
+  ]
+}

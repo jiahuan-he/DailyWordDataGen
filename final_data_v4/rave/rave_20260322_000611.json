@@ -1,0 +1,40 @@
+{
+  "word": "rave",
+  "phonetic": "/reɪv/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "盛赞；热捧；狂言",
+  "examples": [
+    {
+      "sentence": "Everyone at the office kept raving about the new café.",
+      "style": "Contextual",
+      "translation": "办公室里人人都在热捧楼下那家新开的咖啡馆。",
+      "translated_word": "热捧",
+      "display_order": 3
+    },
+    {
+      "sentence": "Critics raved about the film's bold cinematography and restrained performances.",
+      "style": "Formal",
+      "translation": "影评人盛赞这部电影大胆的摄影风格与克制的表演。",
+      "translated_word": "盛赞",
+      "display_order": 1
+    },
+    {
+      "sentence": "Food bloggers across the city raved about the chef's fusion menu.",
+      "style": "Collocational",
+      "translation": "全城美食博主纷纷热捧这位主厨的创意融合菜单。",
+      "translated_word": "热捧",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother raved about that bakery for years; now I finally understand why.",
+      "style": "Intimate",
+      "translation": "祖母多年来对那家面包店赞不绝口；如今我终于明白了缘由。",
+      "translated_word": "赞不绝口",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "relent",
+  "phonetic": "/rɪˈlent/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "让步；心软；缓和；松口",
+  "examples": [
+    {
+      "sentence": "The storm relented at dawn, leaving the streets glistening.",
+      "style": "Contextual",
+      "translation": "暴风雨在黎明时分平息，街道泛着湿润的微光。",
+      "translated_word": "平息",
+      "display_order": 1
+    },
+    {
+      "sentence": "Winter relented; the river remembered its voice.",
+      "style": "Poetic",
+      "translation": "寒冬退让，河流忆起了自己的歌声。",
+      "translated_word": "退让",
+      "display_order": 4
+    },
+    {
+      "sentence": "The strong know when to relent; the stubborn never learn.",
+      "style": "Philosophical",
+      "translation": "强者懂得何时让步；固执者永远学不会。",
+      "translated_word": "让步",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father never relented on curfew, but one look at her changed everything.",
+      "style": "Intimate",
+      "translation": "父亲在门禁上从不松口，但看她一眼，一切都变了。",
+      "translated_word": "松口",
+      "display_order": 2
+    }
+  ]
+}

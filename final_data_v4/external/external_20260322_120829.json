@@ -1,0 +1,40 @@
+{
+  "word": "external",
+  "phonetic": "/ɪkˈstɜːrnl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "外部的；外在的；对外的",
+  "examples": [
+    {
+      "sentence": "The storm left no external damage; the roof held firm.",
+      "style": "Contextual",
+      "translation": "暴风雨未留下任何外部损伤；屋顶安然无恙。",
+      "translated_word": "外部",
+      "display_order": 1
+    },
+    {
+      "sentence": "External auditors flagged irregularities in the quarterly report.",
+      "style": "Formal",
+      "translation": "外部审计师在季度报告中发现了异常。",
+      "translated_word": "外部",
+      "display_order": 2
+    },
+    {
+      "sentence": "External praise means little without internal peace.",
+      "style": "Contrastive",
+      "translation": "没有内心的平静，外界的赞誉便毫无意义。",
+      "translated_word": "外界",
+      "display_order": 3
+    },
+    {
+      "sentence": "We polish our external selves while neglecting the rooms within.",
+      "style": "Philosophical",
+      "translation": "我们精心修饰外在的自己，却任由内心的房间落满尘埃。",
+      "translated_word": "外在",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "mathematics",
+  "phonetic": "/ˌmæθəˈmætɪks/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "数学；运算；数理",
+  "examples": [
+    {
+      "sentence": "Her gift for mathematics was clear the moment she touched numbers.",
+      "style": "Contextual",
+      "translation": "她接触数字的那一刻，数学天赋便显露无遗。",
+      "translated_word": "数学",
+      "display_order": 1
+    },
+    {
+      "sentence": "Mathematics does not persuade; it proves.",
+      "style": "Philosophical",
+      "translation": "数学不靠说服，只凭证明。",
+      "translated_word": "数学",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every equation you master is a door that stays open forever.",
+      "style": "Inspirational",
+      "translation": "每掌握一个方程，便是永远打开一扇门。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "My father called mathematics the art of noticing what others overlook.",
+      "style": "Intimate",
+      "translation": "父亲说，数学是发现他人忽视之物的艺术。",
+      "translated_word": "数学",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "alluring",
+  "phonetic": "/əˈlʊərɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "诱人；迷人；魅惑",
+  "examples": [
+    {
+      "sentence": "Something about the quiet town felt strangely alluring.",
+      "style": "Contextual",
+      "translation": "这座静谧的小镇有种难以言喻的吸引力。",
+      "translated_word": "吸引力",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her alluring smile promised secrets.",
+      "style": "Collocational",
+      "translation": "她迷人的微笑里藏着秘密。",
+      "translated_word": "迷人",
+      "display_order": 1
+    },
+    {
+      "sentence": "Twilight draped the harbor in alluring shades of violet.",
+      "style": "Poetic",
+      "translation": "暮色为港湾披上一层魅惑的紫。",
+      "translated_word": "魅惑",
+      "display_order": 3
+    },
+    {
+      "sentence": "The uncertainty of leaving home was terrifying, yet alluring.",
+      "style": "Intimate",
+      "translation": "离家的未知令人恐惧，却也令人心驰神往。",
+      "translated_word": "心驰神往",
+      "display_order": 4
+    }
+  ]
+}

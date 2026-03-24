@@ -1,0 +1,40 @@
+{
+  "word": "shambles",
+  "phonetic": "/ˈʃæmblz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "混乱；一团糟；废墟",
+  "examples": [
+    {
+      "sentence": "One look at the kitchen told me everything: a shambles of flour, eggshells, and good intentions.",
+      "style": "Contextual",
+      "translation": "厨房一眼望去，面粉、蛋壳与美好初衷，一片狼藉。",
+      "translated_word": "狼藉",
+      "display_order": 1
+    },
+    {
+      "sentence": "Their finances were in shambles long before the news broke.",
+      "style": "Collocational",
+      "translation": "早在消息曝光前，他们的财务便已一团糟。",
+      "translated_word": "一团糟",
+      "display_order": 2
+    },
+    {
+      "sentence": "The ceasefire collapsed, leaving peace negotiations in shambles.",
+      "style": "Formal",
+      "translation": "停火协议瓦解，和平谈判化为泡影。",
+      "translated_word": "泡影",
+      "display_order": 3
+    },
+    {
+      "sentence": "My plans were in shambles, yet somehow that felt like freedom.",
+      "style": "Intimate",
+      "translation": "计划全盘崩塌，却莫名有种解脱之感。",
+      "translated_word": "崩塌",
+      "display_order": 4
+    }
+  ]
+}

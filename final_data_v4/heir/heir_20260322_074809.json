@@ -1,0 +1,40 @@
+{
+  "word": "heir",
+  "phonetic": "/eər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "继承人；后嗣；传人",
+  "examples": [
+    {
+      "sentence": "She is the sole heir to her grandmother's estate.",
+      "style": "Contextual",
+      "translation": "她是祖母遗产的唯一继承人。",
+      "translated_word": "继承人",
+      "display_order": 1
+    },
+    {
+      "sentence": "The young prince was named heir to the throne at age twelve.",
+      "style": "Formal",
+      "translation": "年仅十二岁，这位王子便被立为王储。",
+      "translated_word": "王储",
+      "display_order": 3
+    },
+    {
+      "sentence": "We are all heirs to choices made before we were born.",
+      "style": "Philosophical",
+      "translation": "我们皆是出生前那些抉择的继承者。",
+      "translated_word": "继承者",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father left me his worn leather toolbox; I became heir to his craft.",
+      "style": "Intimate",
+      "translation": "父亲留给我那只磨旧的皮工具箱，我成了他手艺的传人。",
+      "translated_word": "传人",
+      "display_order": 2
+    }
+  ]
+}

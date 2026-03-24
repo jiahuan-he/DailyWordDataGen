@@ -1,0 +1,39 @@
+{
+  "word": "connotation",
+  "phonetic": "/ˌkɑːnəˈteɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "含义；言外之意；隐含意",
+  "examples": [
+    {
+      "sentence": "'Home' carries a connotation of warmth that 'house' simply cannot hold.",
+      "style": "Contextual",
+      "translation": "'Home'承载着一种温暖的含义，而'house'无法传达。",
+      "translated_word": "含义",
+      "display_order": 1
+    },
+    {
+      "sentence": "The speech's connotations sparked debate long after its words faded.",
+      "style": "Formal",
+      "translation": "演讲的言外之意在话语消散后仍引发争议。",
+      "translated_word": "言外之意",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every word arrives with a connotation shaped by those who spoke it before.",
+      "style": "Philosophical",
+      "translation": "每个词都带着前人赋予的隐含意义而来。",
+      "translated_word": "隐含意义",
+      "display_order": 3
+    },
+    {
+      "sentence": "'Slender' and 'skinny' share a definition; their connotations tell different stories.",
+      "style": "Contrastive",
+      "translation": "'苗条'与'瘦削'定义相同，含义却截然不同。",
+      "translated_word": "含义",
+      "display_order": 2
+    }
+  ]
+}

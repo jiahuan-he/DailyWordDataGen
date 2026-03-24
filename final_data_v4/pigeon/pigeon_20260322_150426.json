@@ -1,0 +1,40 @@
+{
+  "word": "pigeon",
+  "phonetic": "/ˈpɪdʒən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "鸽子；易受骗的人",
+  "examples": [
+    {
+      "sentence": "A pigeon landed on the windowsill and cocked its head.",
+      "style": "Contextual",
+      "translation": "一只鸽子落在窗台上，歪着脑袋打量四周。",
+      "translated_word": "鸽子",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every morning, the old man feeds pigeons in the square.",
+      "style": "Collocational",
+      "translation": "每天清晨，老人都会到广场上喂鸽子。",
+      "translated_word": "鸽子",
+      "display_order": 1
+    },
+    {
+      "sentence": "Pigeons rose from the rooftop, scattering into the pale winter sky.",
+      "style": "Poetic",
+      "translation": "鸽群从屋顶腾起，消散在苍白的冬日天空。",
+      "translated_word": "鸽群",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's balcony always had breadcrumbs; the pigeons knew her by heart.",
+      "style": "Intimate",
+      "translation": "外婆的阳台上总有面包屑；那些鸽子早已记住了她。",
+      "translated_word": "鸽子",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "insubordinate",
+  "phonetic": "/ˌɪnsəˈbɔːrdɪnət/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "不服从的；抗命的；桀骜的",
+  "examples": [
+    {
+      "sentence": "The officer was dismissed for insubordinate conduct during a critical mission.",
+      "style": "Formal",
+      "translation": "那名军官因在关键任务中抗命而被解职。",
+      "translated_word": "抗命",
+      "display_order": 1
+    },
+    {
+      "sentence": "He refused the direct order; his superiors had no choice but to call him insubordinate.",
+      "style": "Contextual",
+      "translation": "他拒绝执行直接命令；上级别无选择，只能认定他不服从管理。",
+      "translated_word": "不服从管理",
+      "display_order": 2
+    },
+    {
+      "sentence": "History often rebrands the insubordinate as visionary.",
+      "style": "Philosophical",
+      "translation": "历史常常将桀骜不驯之人重新定义为远见者。",
+      "translated_word": "桀骜不驯",
+      "display_order": 4
+    },
+    {
+      "sentence": "They labeled me insubordinate; I called it having a spine.",
+      "style": "Intimate",
+      "translation": "他们说我目无上级；我说这叫有骨气。",
+      "translated_word": "目无上级",
+      "display_order": 3
+    }
+  ]
+}

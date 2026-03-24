@@ -1,0 +1,40 @@
+{
+  "word": "propose",
+  "phonetic": "/prəˈpoʊz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "提议；求婚；打算",
+  "examples": [
+    {
+      "sentence": "She proposed a later deadline, and everyone agreed.",
+      "style": "Contextual",
+      "translation": "她提议推迟截止日期，大家欣然同意。",
+      "translated_word": "提议",
+      "display_order": 1
+    },
+    {
+      "sentence": "The committee will propose amendments to the existing policy.",
+      "style": "Formal",
+      "translation": "委员会将对现行政策提出修正案。",
+      "translated_word": "提出",
+      "display_order": 4
+    },
+    {
+      "sentence": "He stood and proposed a toast to new beginnings.",
+      "style": "Collocational",
+      "translation": "他起身提议为新的开始干杯。",
+      "translated_word": "提议",
+      "display_order": 3
+    },
+    {
+      "sentence": "He proposed under the oak tree where we first met.",
+      "style": "Intimate",
+      "translation": "他在我们初遇的那棵橡树下向我求婚。",
+      "translated_word": "求婚",
+      "display_order": 2
+    }
+  ]
+}

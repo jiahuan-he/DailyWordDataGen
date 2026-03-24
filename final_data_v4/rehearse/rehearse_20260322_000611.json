@@ -1,0 +1,39 @@
+{
+  "word": "rehearse",
+  "phonetic": "/rɪˈhɜːrs/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "排练；预演；练习",
+  "examples": [
+    {
+      "sentence": "The actors rehearsed until the blocking felt effortless.",
+      "style": "Contextual",
+      "translation": "演员们反复排练，直到走位变得行云流水。",
+      "translated_word": "排练",
+      "display_order": 1
+    },
+    {
+      "sentence": "She rehearsed her resignation speech in the parking lot.",
+      "style": "Collocational",
+      "translation": "她在停车场默默练习辞职要说的话。",
+      "translated_word": "练习",
+      "display_order": 2
+    },
+    {
+      "sentence": "We rehearse goodbyes we never intend to say.",
+      "style": "Philosophical",
+      "translation": "我们排练着那些从不打算说出口的告别。",
+      "translated_word": "排练",
+      "display_order": 4
+    },
+    {
+      "sentence": "Before calling her after five years, I rehearsed the first sentence a hundred times.",
+      "style": "Intimate",
+      "translation": "五年后拨通她的电话之前，我把开场白在心里过了一百遍。",
+      "translated_word": "过",
+      "display_order": 3
+    }
+  ]
+}

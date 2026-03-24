@@ -1,0 +1,40 @@
+{
+  "word": "gloss",
+  "phonetic": "/ɡlɒs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "光泽；亮光；假象",
+  "examples": [
+    {
+      "sentence": "The new brochure had a gloss that made every photo pop.",
+      "style": "Contextual",
+      "translation": "新印的宣传册光泽亮眼，每张照片都格外鲜明。",
+      "translated_word": "光泽",
+      "display_order": 2
+    },
+    {
+      "sentence": "She reached for her favorite lip gloss before stepping out.",
+      "style": "Collocational",
+      "translation": "出门前，她拿起了那支最爱的唇彩。",
+      "translated_word": "唇彩",
+      "display_order": 4
+    },
+    {
+      "sentence": "Wealth carries a gloss that fades under close inspection.",
+      "style": "Philosophical",
+      "translation": "财富的光鲜，往往经不起细看。",
+      "translated_word": "光鲜",
+      "display_order": 3
+    },
+    {
+      "sentence": "Rain left a silver gloss on the cobblestones at dawn.",
+      "style": "Poetic",
+      "translation": "雨后的石板路在晨曦中泛着银光。",
+      "translated_word": "光",
+      "display_order": 1
+    }
+  ]
+}

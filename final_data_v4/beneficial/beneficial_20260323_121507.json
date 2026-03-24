@@ -1,0 +1,40 @@
+{
+  "word": "beneficial",
+  "phonetic": "/ˌbenɪˈfɪʃəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有益的；有利的；有好处的",
+  "examples": [
+    {
+      "sentence": "Morning sunlight is beneficial for regulating your sleep cycle.",
+      "style": "Contextual",
+      "translation": "晨光有益于调节睡眠周期。",
+      "translated_word": "有益",
+      "display_order": 1
+    },
+    {
+      "sentence": "The trade agreement proved mutually beneficial for both nations.",
+      "style": "Collocational",
+      "translation": "这项贸易协定对两国均有裨益。",
+      "translated_word": "裨益",
+      "display_order": 2
+    },
+    {
+      "sentence": "Research confirms that brief periods of solitude are beneficial to creative thinking.",
+      "style": "Formal",
+      "translation": "研究证实，短暂的独处有利于激发创造性思维。",
+      "translated_word": "有利",
+      "display_order": 3
+    },
+    {
+      "sentence": "The hardest conversations often prove the most beneficial.",
+      "style": "Inspirational",
+      "translation": "最艰难的对话，往往最有价值。",
+      "translated_word": "有价值",
+      "display_order": 4
+    }
+  ]
+}

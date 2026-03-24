@@ -1,0 +1,39 @@
+{
+  "word": "mendacity",
+  "phonetic": "/menˈdæsɪti/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "谎言；虚伪；欺骗",
+  "examples": [
+    {
+      "sentence": "The investigation revealed years of corporate mendacity.",
+      "style": "Formal",
+      "translation": "调查揭露了多年的企业欺诈行为。",
+      "translated_word": "欺诈",
+      "display_order": 3
+    },
+    {
+      "sentence": "Mendacity demands a perfect memory; truth requires none.",
+      "style": "Philosophical",
+      "translation": "谎言需要完美的记忆，真相则无需任何。",
+      "translated_word": "谎言",
+      "display_order": 4
+    },
+    {
+      "sentence": "His stories never aligned; mendacity was simply his nature.",
+      "style": "Contextual",
+      "translation": "他的故事从不一致；撒谎早已是他的本性。",
+      "translated_word": "撒谎",
+      "display_order": 2
+    },
+    {
+      "sentence": "Where she offered honesty, he returned only mendacity.",
+      "style": "Contrastive",
+      "translation": "她以真诚相待，他却只报以谎言。",
+      "translated_word": "谎言",
+      "display_order": 1
+    }
+  ]
+}

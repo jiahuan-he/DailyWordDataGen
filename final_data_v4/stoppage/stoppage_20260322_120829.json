@@ -1,0 +1,39 @@
+{
+  "word": "stoppage",
+  "phonetic": "/ˈstɒpɪdʒ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "停止；中断；堵塞；罢工",
+  "examples": [
+    {
+      "sentence": "The factory announced a temporary stoppage due to supply chain delays.",
+      "style": "Formal",
+      "translation": "工厂宣布因供应链延误而暂时停工。",
+      "translated_word": "停工",
+      "display_order": 1
+    },
+    {
+      "sentence": "He scored the winning goal in stoppage time.",
+      "style": "Collocational",
+      "translation": "他在伤停补时阶段打入制胜一球。",
+      "translated_word": "伤停",
+      "display_order": 3
+    },
+    {
+      "sentence": "A stoppage halts motion; a pause invites reflection.",
+      "style": "Contrastive",
+      "translation": "停滞终止运动；而暂歇引人深思。",
+      "translated_word": "停滞",
+      "display_order": 4
+    },
+    {
+      "sentence": "Traffic came to a complete stoppage as the procession passed.",
+      "style": "Contextual",
+      "translation": "游行队伍经过时，交通完全中断。",
+      "translated_word": "中断",
+      "display_order": 2
+    }
+  ]
+}

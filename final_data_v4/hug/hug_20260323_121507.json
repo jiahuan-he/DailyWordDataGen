@@ -1,0 +1,40 @@
+{
+  "word": "hug",
+  "phonetic": "/hʌɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "拥抱；搂；紧抱",
+  "examples": [
+    {
+      "sentence": "She dropped her bags and ran to hug her mother.",
+      "style": "Contextual",
+      "translation": "她丢下行李，跑过去拥抱母亲。",
+      "translated_word": "拥抱",
+      "display_order": 1
+    },
+    {
+      "sentence": "He hugged her tightly before the train pulled away.",
+      "style": "Collocational",
+      "translation": "火车驶离前，他紧紧地拥抱着她。",
+      "translated_word": "拥抱",
+      "display_order": 2
+    },
+    {
+      "sentence": "She hugged the old sweater, still carrying his scent.",
+      "style": "Poetic",
+      "translation": "她抱紧那件旧毛衣，上面还留着他的气息。",
+      "translated_word": "抱紧",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father hugged me for the first time the day I left home.",
+      "style": "Intimate",
+      "translation": "父亲第一次拥抱我，是在我离家那天。",
+      "translated_word": "拥抱",
+      "display_order": 3
+    }
+  ]
+}

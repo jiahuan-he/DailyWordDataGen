@@ -1,0 +1,40 @@
+{
+  "word": "stack",
+  "phonetic": "/stæk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "堆；叠；一摞",
+  "examples": [
+    {
+      "sentence": "A stack of unopened letters sat on the counter, each one a question unanswered.",
+      "style": "Contextual",
+      "translation": "一叠未拆的信件静卧柜台，每一封都是悬而未决的问句。",
+      "translated_word": "一叠",
+      "display_order": 3
+    },
+    {
+      "sentence": "She balanced a stack of plates with the ease of someone who'd done it a thousand times.",
+      "style": "Collocational",
+      "translation": "她托着一摞餐盘，那是千百次练就的从容。",
+      "translated_word": "一摞",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every decision adds to the stack; eventually, it either supports you or buries you.",
+      "style": "Philosophical",
+      "translation": "每个决定都在累加；最终，它们要么托举你，要么淹没你。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "That stack of vinyl records in the corner belonged to my father; I've never moved them.",
+      "style": "Intimate",
+      "translation": "角落里那摞黑胶唱片是父亲的遗物；我始终不曾挪动。",
+      "translated_word": "那摞",
+      "display_order": 2
+    }
+  ]
+}

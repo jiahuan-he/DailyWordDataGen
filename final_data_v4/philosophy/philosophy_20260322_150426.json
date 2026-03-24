@@ -1,0 +1,40 @@
+{
+  "word": "philosophy",
+  "phonetic": "/fɪˈlɑːsəfi/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "哲学；人生观；理念；信条",
+  "examples": [
+    {
+      "sentence": "Philosophy asks the questions science cannot yet answer.",
+      "style": "Philosophical",
+      "translation": "哲学追问的，是科学尚无法解答的。",
+      "translated_word": "哲学",
+      "display_order": 1
+    },
+    {
+      "sentence": "My mother's philosophy fit in four words: always leave things better.",
+      "style": "Intimate",
+      "translation": "母亲的人生哲学只有四个字：凡事留善。",
+      "translated_word": "哲学",
+      "display_order": 2
+    },
+    {
+      "sentence": "The hospital's philosophy places patient dignity at its core.",
+      "style": "Formal",
+      "translation": "这家医院的理念将患者尊严置于核心。",
+      "translated_word": "理念",
+      "display_order": 4
+    },
+    {
+      "sentence": "His coaching philosophy emphasized teamwork above individual talent.",
+      "style": "Collocational",
+      "translation": "他的执教理念强调团队配合胜于个人天赋。",
+      "translated_word": "理念",
+      "display_order": 3
+    }
+  ]
+}

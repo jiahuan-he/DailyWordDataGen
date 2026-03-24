@@ -1,0 +1,40 @@
+{
+  "word": "die",
+  "phonetic": "/daɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "死亡；消逝；停止；渴望",
+  "examples": [
+    {
+      "sentence": "The engine coughed twice and died.",
+      "style": "Contextual",
+      "translation": "引擎咳嗽了两声，然后熄火了。",
+      "translated_word": "熄火",
+      "display_order": 2
+    },
+    {
+      "sentence": "Old habits die only when new ones take root.",
+      "style": "Philosophical",
+      "translation": "旧习惯唯有在新习惯扎根时才会消亡。",
+      "translated_word": "消亡",
+      "display_order": 3
+    },
+    {
+      "sentence": "Autumn leaves die in gold, not in grief.",
+      "style": "Poetic",
+      "translation": "秋叶以金黄谢幕，而非以悲伤凋零。",
+      "translated_word": "谢幕",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather's garden died with him; no one else knew its rhythms.",
+      "style": "Intimate",
+      "translation": "祖父的花园随他一同消逝；再无人知晓它的节律。",
+      "translated_word": "消逝",
+      "display_order": 1
+    }
+  ]
+}

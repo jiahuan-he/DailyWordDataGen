@@ -1,0 +1,40 @@
+{
+  "word": "lackey",
+  "phonetic": "/ˈlæki/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "走狗；奴才；跟班",
+  "examples": [
+    {
+      "sentence": "The director surrounded himself with lackeys who applauded his every idea.",
+      "style": "Contextual",
+      "translation": "那位总监身边围满了走狗，对他的每个想法都拍手叫好。",
+      "translated_word": "走狗",
+      "display_order": 1
+    },
+    {
+      "sentence": "Critics dismissed the spokesman as a mere lackey for corporate interests.",
+      "style": "Formal",
+      "translation": "批评人士认为这位发言人不过是企业利益的传声筒。",
+      "translated_word": "传声筒",
+      "display_order": 3
+    },
+    {
+      "sentence": "He wanted advisors, not lackeys; honesty, not hollow praise.",
+      "style": "Contrastive",
+      "translation": "他要的是谋士，不是奴才；是诤言，不是阿谀。",
+      "translated_word": "奴才",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every throne casts a shadow filled with lackeys mistaking proximity for power.",
+      "style": "Philosophical",
+      "translation": "每一座王座都投下暗影，挤满了把攀附当作权力的跟班。",
+      "translated_word": "跟班",
+      "display_order": 4
+    }
+  ]
+}

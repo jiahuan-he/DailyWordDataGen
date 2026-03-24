@@ -1,0 +1,40 @@
+{
+  "word": "sabre",
+  "phonetic": "/ˈseɪbər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "军刀；佩剑；马刀",
+  "examples": [
+    {
+      "sentence": "The fencer's sabre traced a silver arc through the air.",
+      "style": "Contextual",
+      "translation": "击剑手的佩剑在空中划出一道银弧。",
+      "translated_word": "佩剑",
+      "display_order": 1
+    },
+    {
+      "sentence": "The museum acquired a cavalry sabre dating to the Napoleonic Wars.",
+      "style": "Formal",
+      "translation": "博物馆收藏了一把拿破仑战争时期的骑兵军刀。",
+      "translated_word": "军刀",
+      "display_order": 2
+    },
+    {
+      "sentence": "His grandfather's sabre hangs above the mantel, holding stories it will never tell.",
+      "style": "Poetic",
+      "translation": "祖父的军刀悬于壁炉架上，封存着永不言说的往事。",
+      "translated_word": "军刀",
+      "display_order": 3
+    },
+    {
+      "sentence": "Politicians often engage in sabre rattling before elections.",
+      "style": "Collocational",
+      "translation": "政客们常在选举前虚张声势。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "valid",
+  "phonetic": "/ˈvælɪd/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有效的；合理的；正当的",
+  "examples": [
+    {
+      "sentence": "Without a valid ticket, the gates stayed closed.",
+      "style": "Contextual",
+      "translation": "没有有效的票，闸门始终紧闭。",
+      "translated_word": "有效",
+      "display_order": 1
+    },
+    {
+      "sentence": "The agreement remains valid through December.",
+      "style": "Formal",
+      "translation": "该协议在十二月前持续有效。",
+      "translated_word": "有效",
+      "display_order": 2
+    },
+    {
+      "sentence": "He raised a valid concern about the deadline.",
+      "style": "Collocational",
+      "translation": "他对截止日期提出了合理的担忧。",
+      "translated_word": "合理",
+      "display_order": 3
+    },
+    {
+      "sentence": "Your grief is valid; take all the time you need.",
+      "style": "Intimate",
+      "translation": "你的悲伤是正当的；慢慢来，不必着急。",
+      "translated_word": "正当",
+      "display_order": 4
+    }
+  ]
+}

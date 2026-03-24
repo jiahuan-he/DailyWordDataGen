@@ -1,0 +1,39 @@
+{
+  "word": "err",
+  "phonetic": "/ɜːr/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "犯错；出错；误判",
+  "examples": [
+    {
+      "sentence": "To err is not weakness; it is proof we tried.",
+      "style": "Philosophical",
+      "translation": "犯错并非软弱，而是尝试过的证明。",
+      "translated_word": "犯错",
+      "display_order": 2
+    },
+    {
+      "sentence": "The court ruled that the lower tribunal had erred in its judgment.",
+      "style": "Formal",
+      "translation": "法院裁定下级法庭的判决存在错误。",
+      "translated_word": "错误",
+      "display_order": 3
+    },
+    {
+      "sentence": "Even seasoned pilots err when fatigue sets in.",
+      "style": "Contextual",
+      "translation": "即便是经验丰富的飞行员，疲劳时也会出错。",
+      "translated_word": "出错",
+      "display_order": 1
+    },
+    {
+      "sentence": "Better to err while reaching than never to stretch at all.",
+      "style": "Inspirational",
+      "translation": "宁可在伸手触及时犯错，也不愿从不尝试。",
+      "translated_word": "犯错",
+      "display_order": 4
+    }
+  ]
+}

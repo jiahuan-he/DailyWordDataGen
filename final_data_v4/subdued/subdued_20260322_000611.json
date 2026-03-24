@@ -1,0 +1,40 @@
+{
+  "word": "subdued",
+  "phonetic": "/səbˈduːd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "柔和的；低沉的；克制的；黯淡的",
+  "examples": [
+    {
+      "sentence": "The library's subdued atmosphere invited focus rather than chatter.",
+      "style": "Contextual",
+      "translation": "图书馆柔和的氛围，让人自然地专注而非闲聊。",
+      "translated_word": "柔和",
+      "display_order": 3
+    },
+    {
+      "sentence": "He spoke in a subdued tone, his words barely reaching across the table.",
+      "style": "Collocational",
+      "translation": "他用低沉的语调说话，声音几乎传不到桌子那边。",
+      "translated_word": "低沉",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rain against the window, subdued and steady, kept perfect time with her thoughts.",
+      "style": "Poetic",
+      "translation": "雨点轻叩窗棂，柔和而绵长，与她的思绪同频。",
+      "translated_word": "柔和",
+      "display_order": 4
+    },
+    {
+      "sentence": "The party grew subdued once she left; her absence filled every corner.",
+      "style": "Intimate",
+      "translation": "她离开后，派对渐渐沉寂；她的缺席弥漫在每个角落。",
+      "translated_word": "沉寂",
+      "display_order": 2
+    }
+  ]
+}

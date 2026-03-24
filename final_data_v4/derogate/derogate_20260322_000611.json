@@ -1,0 +1,40 @@
+{
+  "word": "derogate",
+  "phonetic": "/ˈderəɡeɪt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "贬损；减损；诋毁",
+  "examples": [
+    {
+      "sentence": "The amendment must not derogate from citizens' fundamental rights.",
+      "style": "Formal",
+      "translation": "该修正案不得减损公民的基本权利。",
+      "translated_word": "减损",
+      "display_order": 2
+    },
+    {
+      "sentence": "His constant excuses only derogate from his credibility.",
+      "style": "Contextual",
+      "translation": "他不断的借口只会贬损他的信誉。",
+      "translated_word": "贬损",
+      "display_order": 1
+    },
+    {
+      "sentence": "Honest feedback elevates; petty gossip derogates.",
+      "style": "Contrastive",
+      "translation": "诚恳的反馈使人进步；琐碎的流言只会诋毁。",
+      "translated_word": "诋毁",
+      "display_order": 3
+    },
+    {
+      "sentence": "To derogate another's worth is to confess the poverty of one's own.",
+      "style": "Philosophical",
+      "translation": "贬损他人的价值，其实是在坦白自身的贫瘠。",
+      "translated_word": "贬损",
+      "display_order": 4
+    }
+  ]
+}

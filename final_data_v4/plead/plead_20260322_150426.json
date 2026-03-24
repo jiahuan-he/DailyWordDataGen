@@ -1,0 +1,39 @@
+{
+  "word": "plead",
+  "phonetic": "/pliːd/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "恳求；请求；辩护；申辩",
+  "examples": [
+    {
+      "sentence": "She pleaded for one more chance, her voice barely a whisper.",
+      "style": "Contextual",
+      "translation": "她恳求再给一次机会，声音轻得几乎听不见。",
+      "translated_word": "恳求",
+      "display_order": 1
+    },
+    {
+      "sentence": "The accused pleaded not guilty before a packed courtroom.",
+      "style": "Formal",
+      "translation": "被告在座无虚席的法庭上作无罪申辩。",
+      "translated_word": "申辩",
+      "display_order": 3
+    },
+    {
+      "sentence": "His eyes pleaded what his pride refused to speak.",
+      "style": "Poetic",
+      "translation": "他的眼眸倾诉着骄傲不肯说出口的话。",
+      "translated_word": "倾诉",
+      "display_order": 4
+    },
+    {
+      "sentence": "I once pleaded for a love that was never mine to keep.",
+      "style": "Intimate",
+      "translation": "我曾苦苦挽留一段注定不属于我的爱情。",
+      "translated_word": "苦苦挽留",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "redraw",
+  "phonetic": "/ˌriːˈdrɔː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "重绘；重新划定；修改",
+  "examples": [
+    {
+      "sentence": "The architect asked to redraw the floor plan after the client's feedback.",
+      "style": "Contextual",
+      "translation": "建筑师在收到客户反馈后，要求重新绘制平面图。",
+      "translated_word": "重新绘制",
+      "display_order": 1
+    },
+    {
+      "sentence": "The commission voted to redraw the electoral districts before the next election.",
+      "style": "Formal",
+      "translation": "委员会投票决定在下届选举前重新划定选区。",
+      "translated_word": "重新划定",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every choice we make quietly redraws the map of who we might become.",
+      "style": "Philosophical",
+      "translation": "我们做的每个选择，都在悄然重绘着未来自我的版图。",
+      "translated_word": "重绘",
+      "display_order": 4
+    },
+    {
+      "sentence": "It is never too late to redraw the boundaries of your comfort zone.",
+      "style": "Inspirational",
+      "translation": "重新划定舒适区的边界，永远不算太迟。",
+      "translated_word": "重新划定",
+      "display_order": 2
+    }
+  ]
+}

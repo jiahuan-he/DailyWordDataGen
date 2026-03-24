@@ -1,0 +1,40 @@
+{
+  "word": "crawl",
+  "phonetic": "/krɔːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "爬行；缓慢移动；蠕动",
+  "examples": [
+    {
+      "sentence": "The baby learned to crawl before her first birthday.",
+      "style": "Contextual",
+      "translation": "婴儿在一岁前学会了爬行。",
+      "translated_word": "爬行",
+      "display_order": 1
+    },
+    {
+      "sentence": "We crawled through rush-hour traffic for two hours.",
+      "style": "Collocational",
+      "translation": "我们在早高峰的车流中龟速挪动了两小时。",
+      "translated_word": "龟速挪动",
+      "display_order": 2
+    },
+    {
+      "sentence": "Morning light crawled across the floor, waking the dust.",
+      "style": "Poetic",
+      "translation": "晨光缓缓爬过地板，惊醒了沉睡的尘埃。",
+      "translated_word": "爬过",
+      "display_order": 3
+    },
+    {
+      "sentence": "When grief hit, I could only crawl through each day.",
+      "style": "Intimate",
+      "translation": "悲伤袭来时，我只能一天天艰难地熬过去。",
+      "translated_word": "熬",
+      "display_order": 4
+    }
+  ]
+}

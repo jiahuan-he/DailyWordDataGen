@@ -1,0 +1,39 @@
+{
+  "word": "personality",
+  "phonetic": "/ˌpɜːrsəˈnælɪti/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "个性；性格；人格；魅力",
+  "examples": [
+    {
+      "sentence": "Her laughter, her silences, her stubborn hope: that is her personality.",
+      "style": "Contextual",
+      "translation": "她的笑声、她的沉默、她固执的希望：那就是她的个性。",
+      "translated_word": "个性",
+      "display_order": 1
+    },
+    {
+      "sentence": "He has a magnetic personality that fills every room he enters.",
+      "style": "Collocational",
+      "translation": "他魅力非凡，所到之处皆成焦点。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "We shape our personality through choices, then forget we ever had a choice.",
+      "style": "Philosophical",
+      "translation": "我们用选择塑造性格，却渐渐忘了自己曾有选择。",
+      "translated_word": "性格",
+      "display_order": 3
+    },
+    {
+      "sentence": "At thirty, I stopped shrinking my personality to fit smaller spaces.",
+      "style": "Intimate",
+      "translation": "三十岁那年，我不再为迁就狭隘而收敛个性。",
+      "translated_word": "个性",
+      "display_order": 4
+    }
+  ]
+}

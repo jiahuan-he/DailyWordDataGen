@@ -1,0 +1,40 @@
+{
+  "word": "detect",
+  "phonetic": "/dɪˈtekt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "察觉；发现；探测；识别",
+  "examples": [
+    {
+      "sentence": "The dog detected something in the bushes and froze mid-step.",
+      "style": "Contextual",
+      "translation": "狗在灌木丛中察觉到了什么，脚步骤然一顿。",
+      "translated_word": "察觉到",
+      "display_order": 1
+    },
+    {
+      "sentence": "Analysts detected unusual trading patterns hours before the market crashed.",
+      "style": "Formal",
+      "translation": "分析师在市场崩盘前数小时便已察觉到异常交易模式。",
+      "translated_word": "察觉到",
+      "display_order": 2
+    },
+    {
+      "sentence": "A good editor can detect weak prose the way a musician detects a flat note.",
+      "style": "Contrastive",
+      "translation": "优秀的编辑能察觉文字的疲软，一如音乐家能听出走音。",
+      "translated_word": "察觉",
+      "display_order": 4
+    },
+    {
+      "sentence": "He detected the faintest tremor in her smile and knew not to ask.",
+      "style": "Intimate",
+      "translation": "他察觉到她笑意中那一丝微颤，便知不该再问。",
+      "translated_word": "察觉到",
+      "display_order": 3
+    }
+  ]
+}

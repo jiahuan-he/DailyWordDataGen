@@ -1,0 +1,39 @@
+{
+  "word": "incarcerate",
+  "phonetic": "/ɪnˈkɑːrsəreɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "监禁；关押；囚禁",
+  "examples": [
+    {
+      "sentence": "The judge ruled to incarcerate him for five years without parole.",
+      "style": "Formal",
+      "translation": "法官裁定将其监禁五年，不得假释。",
+      "translated_word": "监禁",
+      "display_order": 1
+    },
+    {
+      "sentence": "We incarcerate bodies, yet some minds refuse to be confined.",
+      "style": "Philosophical",
+      "translation": "我们囚禁了肉身，有些灵魂却不肯就范。",
+      "translated_word": "囚禁",
+      "display_order": 4
+    },
+    {
+      "sentence": "To detain is temporary; to incarcerate is to erase someone from daily life.",
+      "style": "Contrastive",
+      "translation": "拘留是暂时的；监禁，则是将一个人从日常生活中抹去。",
+      "translated_word": "监禁",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her brother was incarcerated when she was twelve, and the house never felt whole again.",
+      "style": "Contextual",
+      "translation": "她十二岁那年，哥哥入狱，此后家里再无完整可言。",
+      "translated_word": "入狱",
+      "display_order": 2
+    }
+  ]
+}

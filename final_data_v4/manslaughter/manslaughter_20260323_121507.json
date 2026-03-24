@@ -1,0 +1,39 @@
+{
+  "word": "manslaughter",
+  "phonetic": "/ˈmænˌslɔːtər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "过失杀人；误杀",
+  "examples": [
+    {
+      "sentence": "The driver who ran the red light was charged with manslaughter.",
+      "style": "Contextual",
+      "translation": "那个闯红灯的司机被控过失杀人罪。",
+      "translated_word": "过失杀人",
+      "display_order": 2
+    },
+    {
+      "sentence": "The jury returned a verdict of voluntary manslaughter after three days of deliberation.",
+      "style": "Formal",
+      "translation": "陪审团经过三天审议，作出了故意杀人罪的裁决。",
+      "translated_word": "杀人罪",
+      "display_order": 4
+    },
+    {
+      "sentence": "Murder requires intent; manslaughter does not.",
+      "style": "Contrastive",
+      "translation": "谋杀须有预谋，过失杀人则不然。",
+      "translated_word": "过失杀人",
+      "display_order": 1
+    },
+    {
+      "sentence": "He pleaded guilty to involuntary manslaughter and awaited sentencing.",
+      "style": "Collocational",
+      "translation": "他承认了过失杀人罪，等待宣判。",
+      "translated_word": "过失杀人罪",
+      "display_order": 3
+    }
+  ]
+}

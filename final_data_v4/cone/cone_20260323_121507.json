@@ -1,0 +1,40 @@
+{
+  "word": "cone",
+  "phonetic": "/koʊn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "圆锥；甜筒；球果",
+  "examples": [
+    {
+      "sentence": "The children lined up at the truck, each clutching coins for a cone.",
+      "style": "Contextual",
+      "translation": "孩子们在餐车前排起长队，手里攥着买甜筒的硬币。",
+      "translated_word": "甜筒",
+      "display_order": 1
+    },
+    {
+      "sentence": "Pine cones scattered across the trail after the autumn wind.",
+      "style": "Collocational",
+      "translation": "秋风过后，松果落满林间小道。",
+      "translated_word": "松果",
+      "display_order": 3
+    },
+    {
+      "sentence": "A waffle cone held summer's last gift: strawberry swirled with gold.",
+      "style": "Poetic",
+      "translation": "华夫甜筒盛着夏末的馈赠：草莓与金色交融。",
+      "translated_word": "甜筒",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather always ordered vanilla in a sugar cone, never a cup.",
+      "style": "Intimate",
+      "translation": "祖父的香草冰淇淋永远是糖筒装，从不要杯。",
+      "translated_word": "糖筒",
+      "display_order": 2
+    }
+  ]
+}

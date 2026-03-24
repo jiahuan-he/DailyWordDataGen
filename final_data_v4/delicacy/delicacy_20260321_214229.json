@@ -1,0 +1,39 @@
+{
+  "word": "delicacy",
+  "phonetic": "/ˈdelɪkəsi/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "美味；精致；细腻；微妙",
+  "examples": [
+    {
+      "sentence": "The chef presented the region's prized delicacy: raw oysters on crushed ice.",
+      "style": "Contextual",
+      "translation": "主厨呈上了当地的珍馐：碎冰上的生蚝。",
+      "translated_word": "珍馐",
+      "display_order": 1
+    },
+    {
+      "sentence": "The matter requires delicacy; one wrong word could undo months of progress.",
+      "style": "Collocational",
+      "translation": "此事需谨慎处理；一言不慎，数月心血便付诸东流。",
+      "translated_word": "谨慎",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her brushstrokes held the delicacy of frost forming on glass.",
+      "style": "Poetic",
+      "translation": "她的笔触如霜凝于玻璃，轻盈而细腻。",
+      "translated_word": "细腻",
+      "display_order": 3
+    },
+    {
+      "sentence": "Strength without delicacy is merely force.",
+      "style": "Philosophical",
+      "translation": "力量若无细腻，不过是蛮力而已。",
+      "translated_word": "细腻",
+      "display_order": 2
+    }
+  ]
+}

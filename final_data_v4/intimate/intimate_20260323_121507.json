@@ -1,0 +1,41 @@
+{
+  "word": "intimate",
+  "phonetic": "/ˈɪntɪmət/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "亲密的；私密的；温馨的",
+  "examples": [
+    {
+      "sentence": "Her voicemails are small, intimate gifts I save for difficult days.",
+      "style": "Intimate",
+      "translation": "她的语音留言是小小的私密礼物，我留到难熬的日子再听。",
+      "translated_word": "私密",
+      "display_order": 1
+    },
+    {
+      "sentence": "Candlelight carves an intimate space from the vastness of night.",
+      "style": "Poetic",
+      "translation": "烛光从夜的广袤中，雕刻出一方温馨的天地。",
+      "translated_word": "温馨",
+      "display_order": 3
+    },
+    {
+      "sentence": "Years of hiking gave her an intimate knowledge of every hidden trail.",
+      "style": "Collocational",
+      "translation": "多年的徒步让她对每条隐秘小径都了如指掌。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "Intimacy requires the courage to be fully seen.",
+      "style": "Philosophical",
+      "translation": "亲密需要被完全看见的勇气。",
+      "translated_word": "亲密",
+      "display_order": 4
+    }
+  ]
+}

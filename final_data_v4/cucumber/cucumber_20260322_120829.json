@@ -1,0 +1,39 @@
+{
+  "word": "cucumber",
+  "phonetic": "/ˈkjuːkʌmbər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "黄瓜；青瓜",
+  "examples": [
+    {
+      "sentence": "She sliced the cucumber thin for the summer salad.",
+      "style": "Contextual",
+      "translation": "她把黄瓜切成薄片，拌入夏日沙拉。",
+      "translated_word": "黄瓜",
+      "display_order": 1
+    },
+    {
+      "sentence": "He stayed cool as a cucumber throughout the interview.",
+      "style": "Collocational",
+      "translation": "整场面试，他始终镇定自若。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Grandma's garden always grew the crispest cucumbers.",
+      "style": "Intimate",
+      "translation": "外婆的菜园里，总能长出最脆的黄瓜。",
+      "translated_word": "黄瓜",
+      "display_order": 2
+    },
+    {
+      "sentence": "Morning dew clings to the cucumber's pale green skin.",
+      "style": "Poetic",
+      "translation": "晨露凝于浅绿的瓜皮之上。",
+      "translated_word": "瓜",
+      "display_order": 3
+    }
+  ]
+}
