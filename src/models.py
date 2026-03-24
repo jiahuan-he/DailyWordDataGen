@@ -1,6 +1,6 @@
 """Pydantic data models for the DailyWord data generation pipeline."""
 
-from typing import Optional
+from typing import Literal, Optional
 from pydantic import BaseModel, Field
 
 
@@ -48,5 +48,15 @@ class LLMGenerationResult(BaseModel):
     selected_pos: str
     definition: str
     examples: list[ExampleSentence]
+
+
+class WordFilterResult(BaseModel):
+    """Result of word suitability filtering."""
+
+    verdict: Literal["keep", "remove"]
+    source: Literal["deterministic", "llm"]
+    reason: str
+    category: Optional[str] = None  # Only for "remove" verdicts
+    kept_variant: Optional[str] = None  # Only for spelling pair removals
 
 

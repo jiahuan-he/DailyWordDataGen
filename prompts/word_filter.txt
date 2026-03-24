@@ -1,0 +1,26 @@
+You are evaluating vocabulary words for a mobile English learning app targeted at Chinese-speaking learners. The app shows each word with a Chinese definition and 4 example sentences in varied styles.
+
+For each word below, determine whether it is SUITABLE for this app. A word is UNSUITABLE if it matches ANY of these criteria:
+
+1. SPECIALIZED_TECHNICAL: The word belongs to a single narrow domain (e.g., medical instruments, advanced mathematics, specialized chemistry, technical anatomy) and cannot produce diverse, natural example sentences outside that domain. Examples of unsuitable words: antilogarithm, hypodermic, cephalic, saliferous.
+
+2. ARCHAIC: The word is no longer used in modern English. A learner would essentially never encounter it in contemporary writing, conversation, news, or media. Examples: assoil, bedizen, bullyrag, wroth.
+
+3. PHONETICALLY_PROBLEMATIC: The word sounds very similar to offensive or taboo words and could cause embarrassment or misunderstanding for learners. Example: niggard.
+
+4. EXTREMELY_OBSCURE: Even well-educated native English speakers would not recognize or use this word. It has essentially zero practical value for a learner. Examples: contumely, rebarbative, perspicuous, obloquy.
+
+5. PROPER_NOUN: The word is primarily a proper noun, ethnonym, or cultural term rather than general vocabulary. Example: maori.
+
+A word is SUITABLE if it has reasonable breadth of usage, is encountered in modern English (books, news, conversation, professional contexts), and would genuinely help a learner.
+
+IMPORTANT: Be conservative with removals. When in doubt, KEEP the word. Many uncommon words are still valuable for advanced learners (e.g., "bucolic", "perfunctory", "sycophant", "laconic" are uncommon but useful). Only remove words that are truly problematic per the criteria above.
+
+Words to evaluate:
+{words_json}
+
+Respond with ONLY a JSON object in this exact format:
+{{"results": [{{"word": "...", "verdict": "keep", "reason": "..."}}, {{"word": "...", "verdict": "remove", "reason": "...", "category": "archaic"}}]}}
+
+The "category" field is required ONLY when verdict is "remove". Use one of: specialized_technical, archaic, phonetically_problematic, extremely_obscure, proper_noun.
+The "reason" field should be a brief (1 sentence) explanation.
