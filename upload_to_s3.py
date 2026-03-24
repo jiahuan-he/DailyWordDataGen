@@ -304,6 +304,57 @@ def update_cloudfront():
     print("Note: changes may take a few minutes to propagate.")
 
 
+# ── metadata ─────────────────────────────────────────────────
+
+
+def upload_metadata():
+    """Upload metadata files (word_order.json, word_levels.json) to S3."""
+    s3 = get_s3_client()
+    metadata_files = ["word_order.json", "word_levels.json"]
+    uploaded = 0
+    failed = 0
+
+    for filename in metadata_files:
+        filepath = SOURCE_DIR / filename
+        if not filepath.exists():
+            print(f"Warning: {filepath} not found, skipping.")
+            continue
+        try:
+            s3.upload_file(
+                str(filepath),
+                BUCKET_NAME,
+                filename,
+                ExtraArgs={
+                    "ContentType": "application/json",
+                    "CacheControl": "public, max-age=86400",
+                },
+            )
+            print(f"Uploaded {filename}")
+            uploaded += 1
+        except ClientError as e:
+            print(f"Failed to upload {filename}: {e}")
+            failed += 1
+
+    print(f"\nDone. Uploaded: {uploaded}, Failed: {failed}")
+
+    # Invalidate CloudFront cache for metadata files
+    if uploaded > 0:
+        try:
+            cf = get_cloudfront_client()
+            paths = [f"/{f}" for f in metadata_files]
+            resp = cf.create_invalidation(
+                DistributionId=CLOUDFRONT_DISTRIBUTION_ID,
+                InvalidationBatch={
+                    "Paths": {"Quantity": len(paths), "Items": paths},
+                    "CallerReference": str(int(__import__("time").time())),
+                },
+            )
+            inv_id = resp["Invalidation"]["Id"]
+            print(f"CloudFront cache invalidation created: {inv_id}")
+        except ClientError as e:
+            print(f"Warning: CloudFront invalidation failed: {e}")
+
+
 # ── wipe-and-upload ──────────────────────────────────────────
 
 
@@ -420,6 +471,7 @@ Examples:
   python upload_to_s3.py --words abandon,ability     # Upload specific words
   python upload_to_s3.py --update-cloudfront          # Update CloudFront config
   python upload_to_s3.py --dry-run                   # Preview uploads
+  python upload_to_s3.py --metadata                    # Upload metadata files only
   python upload_to_s3.py --wipe-and-upload            # Wipe bucket and re-upload everything
         """,
     )
@@ -445,6 +497,11 @@ Examples:
         help="Preview what would be uploaded without uploading",
     )
     parser.add_argument(
+        "--metadata",
+        action="store_true",
+        help="Upload metadata files (word_order.json, word_levels.json) only",
+    )
+    parser.add_argument(
         "--wipe-and-upload",
         action="store_true",
         help="Delete all objects in bucket and re-upload everything",
@@ -456,6 +513,8 @@ Examples:
         init_bucket()
     elif args.update_cloudfront:
         update_cloudfront()
+    elif args.metadata:
+        upload_metadata()
     elif args.wipe_and_upload:
         wipe_and_upload()
     else:
