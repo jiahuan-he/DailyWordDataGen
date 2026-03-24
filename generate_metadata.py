@@ -13,13 +13,13 @@ def main() -> None:
         description="Generate word_order.json and word_levels.json for DailyWord app."
     )
     parser.add_argument(
-        "--frequencies", "-f",
+        "--level-tiers", "-f",
         required=True,
-        help="Comma-separated frequency tiers, e.g. 9,8,6,4",
+        help="Comma-separated frequency values defining each level, e.g. 9,8,6,4 means Level 1=freq 9, Level 2=freq 8, etc.",
     )
     args = parser.parse_args()
 
-    frequencies = [int(f.strip()) for f in args.frequencies.split(",")]
+    frequencies = [int(f.strip()) for f in args.level_tiers.split(",")]
 
     all_words = load_vocabulary_words(config.VOCABULARY_CSV)
     words = [
