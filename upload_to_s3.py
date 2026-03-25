@@ -28,6 +28,21 @@ def get_cloudfront_client():
     return boto3.client("cloudfront")
 
 
+def list_s3_words(s3=None):
+    """List all word names already in S3 under the words/ prefix."""
+    if s3 is None:
+        s3 = get_s3_client()
+    s3_words = set()
+    paginator = s3.get_paginator("list_objects_v2")
+    for page in paginator.paginate(Bucket=BUCKET_NAME, Prefix=S3_PREFIX):
+        for obj in page.get("Contents", []):
+            key = obj["Key"]
+            name = key[len(S3_PREFIX):]
+            if name.endswith(".json"):
+                s3_words.add(name[:-5])
+    return s3_words
+
+
 # ── init-bucket ──────────────────────────────────────────────
 
 
@@ -195,6 +210,63 @@ def upload_words(words=None, dry_run=False):
             failed += 1
 
     print(f"\nUploaded: {uploaded}, Failed: {failed}, Total: {len(entries)}")
+
+
+def upload_words_incremental(words=None, dry_run=False, force=False):
+    """Upload only new word JSON files to S3 (words not yet in S3).
+
+    With --force, uploads all words regardless.
+    """
+    if force:
+        upload_words(words=words, dry_run=dry_run)
+        return
+
+    entries = discover_words(words)
+    if not entries:
+        print("No words to upload.")
+        return
+
+    print("Checking S3 for existing words...")
+    s3 = get_s3_client()
+    s3_words = list_s3_words(s3)
+    print(f"Found {len(s3_words)} words in S3.")
+
+    to_upload = [(name, path) for name, path in entries if name not in s3_words]
+    skipped = len(entries) - len(to_upload)
+
+    if not to_upload:
+        print(f"All {len(entries)} words already in S3. Nothing to upload.")
+        return
+
+    print(f"{len(to_upload)} new words to upload, {skipped} already in S3.")
+
+    if dry_run:
+        print(f"\nDry run — new words that would be uploaded:\n")
+        for folder_name, json_path in to_upload:
+            s3_key = f"{S3_PREFIX}{folder_name}.json"
+            print(f"  {json_path.relative_to(FINAL_DATA_DIR.parent)} → {s3_key}")
+        return
+
+    uploaded = 0
+    failed = 0
+    for folder_name, json_path in tqdm(to_upload, desc="Uploading"):
+        s3_key = f"{S3_PREFIX}{folder_name}.json"
+        try:
+            s3.upload_file(
+                str(json_path),
+                BUCKET_NAME,
+                s3_key,
+                ExtraArgs={
+                    "ContentType": "application/json",
+                    "CacheControl": "public, max-age=86400",
+                },
+            )
+            uploaded += 1
+        except ClientError as e:
+            print(f"\nFailed to upload {folder_name}: {e}")
+            failed += 1
+
+    print(f"\nUploaded: {uploaded}, Failed: {failed}, Skipped: {skipped}")
 
 
 # ── update-cloudfront ────────────────────────────────────────
@@ -467,10 +539,11 @@ def main():
         epilog="""
 Examples:
   python upload_to_s3.py --init-bucket              # One-time: create S3 bucket
-  python upload_to_s3.py                             # Upload all words
-  python upload_to_s3.py --words abandon,ability     # Upload specific words
+  python upload_to_s3.py                             # Upload new words only (incremental)
+  python upload_to_s3.py --force                     # Force upload all words
+  python upload_to_s3.py --words abandon,ability     # Upload specific words (if not in S3)
   python upload_to_s3.py --update-cloudfront          # Update CloudFront config
-  python upload_to_s3.py --dry-run                   # Preview uploads
+  python upload_to_s3.py --dry-run                   # Preview what would be uploaded
   python upload_to_s3.py --metadata                    # Upload metadata files only
   python upload_to_s3.py --wipe-and-upload            # Wipe bucket and re-upload everything
         """,
@@ -506,6 +579,11 @@ Examples:
         action="store_true",
         help="Delete all objects in bucket and re-upload everything",
     )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Force upload all words, even if they already exist in S3",
+    )
 
     args = parser.parse_args()
 
@@ -519,7 +597,7 @@ Examples:
         wipe_and_upload()
     else:
         word_list = [w.strip() for w in args.words.split(",")] if args.words else None
-        upload_words(words=word_list, dry_run=args.dry_run)
+        upload_words_incremental(words=word_list, dry_run=args.dry_run, force=args.force)
 
 
 if __name__ == "__main__":

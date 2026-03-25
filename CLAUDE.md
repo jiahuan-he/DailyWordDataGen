@@ -25,9 +25,10 @@ python batch_process.py --count 50 --batches 3
 
 ## S3 Upload
 ```bash
-python upload_to_s3.py --wipe-and-upload    # Wipe bucket and re-upload all words + metadata
-python upload_to_s3.py                       # Upload all words (incremental)
-python upload_to_s3.py --words abandon,aim   # Upload specific words
+python upload_to_s3.py                       # Upload new words only (incremental)
+python upload_to_s3.py --force               # Force re-upload all words
+python upload_to_s3.py --wipe-and-upload     # Wipe bucket and re-upload all words + metadata
+python upload_to_s3.py --words abandon,aim   # Upload specific words (if not in S3)
 python upload_to_s3.py --dry-run             # Preview uploads
 ```
 
