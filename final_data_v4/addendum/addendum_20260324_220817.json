@@ -1,0 +1,39 @@
+{
+  "word": "addendum",
+  "phonetic": "/əˈdendəm/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "附录；补遗；增补",
+  "examples": [
+    {
+      "sentence": "The contract includes an addendum outlining revised payment terms.",
+      "style": "Formal",
+      "translation": "合同附有一份补充条款，列明了修订后的付款条件。",
+      "translated_word": "补充条款",
+      "display_order": 1
+    },
+    {
+      "sentence": "She noticed a handwritten addendum at the bottom of the page.",
+      "style": "Contextual",
+      "translation": "她注意到页面底部有一段手写的附注。",
+      "translated_word": "附注",
+      "display_order": 2
+    },
+    {
+      "sentence": "The report was polished; the addendum was honest.",
+      "style": "Contrastive",
+      "translation": "报告措辞圆滑；附录却坦诚直白。",
+      "translated_word": "附录",
+      "display_order": 3
+    },
+    {
+      "sentence": "We all carry an addendum of words left unspoken.",
+      "style": "Philosophical",
+      "translation": "我们心中都有一份补遗，记着那些未曾说出的话。",
+      "translated_word": "补遗",
+      "display_order": 4
+    }
+  ]
+}

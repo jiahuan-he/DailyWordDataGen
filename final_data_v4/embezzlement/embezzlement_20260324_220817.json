@@ -1,0 +1,39 @@
+{
+  "word": "embezzlement",
+  "phonetic": "/ɪmˈbezlmənt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "挪用；侵吞；贪污",
+  "examples": [
+    {
+      "sentence": "The accountant was arrested after $2 million in embezzlement surfaced in the audit.",
+      "style": "Contextual",
+      "translation": "审计揭露两百万美元的挪用款项后，会计随即被捕。",
+      "translated_word": "挪用",
+      "display_order": 1
+    },
+    {
+      "sentence": "The executive faces federal embezzlement charges following a three-year investigation.",
+      "style": "Formal",
+      "translation": "经过三年调查，这位高管面临联邦侵吞公款的指控。",
+      "translated_word": "侵吞公款",
+      "display_order": 4
+    },
+    {
+      "sentence": "Unlike theft, embezzlement requires a position of trust to be violated.",
+      "style": "Contrastive",
+      "translation": "与盗窃不同，挪用公款的前提是信任的背叛。",
+      "translated_word": "挪用公款",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every embezzlement begins with the quiet belief that no one is watching.",
+      "style": "Philosophical",
+      "translation": "每一次贪污，都始于那个无人注视的侥幸念头。",
+      "translated_word": "贪污",
+      "display_order": 2
+    }
+  ]
+}

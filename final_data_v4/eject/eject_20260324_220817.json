@@ -1,0 +1,40 @@
+{
+  "word": "eject",
+  "phonetic": "/ɪˈdʒekt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "弹出；驱逐；喷出",
+  "examples": [
+    {
+      "sentence": "The pilot ejected seconds before impact.",
+      "style": "Contextual",
+      "translation": "飞行员在撞击前几秒弹射逃生。",
+      "translated_word": "弹射",
+      "display_order": 2
+    },
+    {
+      "sentence": "Security personnel swiftly ejected the disruptive attendee from the venue.",
+      "style": "Formal",
+      "translation": "安保人员迅速将闹事者驱逐出会场。",
+      "translated_word": "驱逐",
+      "display_order": 3
+    },
+    {
+      "sentence": "Press the small button to eject the SIM card tray.",
+      "style": "Collocational",
+      "translation": "按下小按钮弹出SIM卡托。",
+      "translated_word": "弹出",
+      "display_order": 1
+    },
+    {
+      "sentence": "Growth begins when we eject the fears we mistook for caution.",
+      "style": "Philosophical",
+      "translation": "当我们抛弃那些被误认为谨慎的恐惧，成长便开始了。",
+      "translated_word": "抛弃",
+      "display_order": 4
+    }
+  ]
+}

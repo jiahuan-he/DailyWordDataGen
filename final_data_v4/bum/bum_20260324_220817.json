@@ -1,0 +1,42 @@
+{
+  "word": "bum",
+  "phonetic": "/bʌm/",
+  "pos": [
+    "adjective",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "流浪汉；懒鬼；游手好闲的人",
+  "examples": [
+    {
+      "sentence": "The bum on the bench fed pigeons like old friends.",
+      "style": "Contextual",
+      "translation": "长椅上的流浪汉喂着鸽子，像对待老朋友一样。",
+      "translated_word": "流浪汉",
+      "display_order": 1
+    },
+    {
+      "sentence": "He traded his suit for sandals and became a beach bum.",
+      "style": "Collocational",
+      "translation": "他脱下西装换上凉鞋，做了个逍遥的海滩浪人。",
+      "translated_word": "浪人",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every bum carries a story no one stopped to hear.",
+      "style": "Philosophical",
+      "translation": "每个流浪汉都背负着无人驻足倾听的故事。",
+      "translated_word": "流浪汉",
+      "display_order": 2
+    },
+    {
+      "sentence": "Dad called me a bum at twenty; at thirty, I signed his retirement checks.",
+      "style": "Intimate",
+      "translation": "二十岁时父亲骂我是废物；三十岁时，我签下了他的退休支票。",
+      "translated_word": "废物",
+      "display_order": 3
+    }
+  ]
+}

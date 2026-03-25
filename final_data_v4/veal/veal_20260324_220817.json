@@ -1,0 +1,39 @@
+{
+  "word": "veal",
+  "phonetic": "/viːl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "小牛肉",
+  "examples": [
+    {
+      "sentence": "The chef recommends the veal: it's the most tender cut on the menu.",
+      "style": "Contextual",
+      "translation": "主厨推荐小牛肉：这是菜单上最嫩的一道。",
+      "translated_word": "小牛肉",
+      "display_order": 1
+    },
+    {
+      "sentence": "Veal consumption has declined as more diners question its ethical sourcing.",
+      "style": "Formal",
+      "translation": "随着越来越多食客质疑其饲养方式，小牛肉的消费量已有所下降。",
+      "translated_word": "小牛肉",
+      "display_order": 4
+    },
+    {
+      "sentence": "She ordered veal Milanese with a squeeze of lemon.",
+      "style": "Collocational",
+      "translation": "她点了一份米兰式小牛排，配上一挤柠檬汁。",
+      "translated_word": "小牛排",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother's veal stew tasted like Sunday afternoons in her tiny kitchen.",
+      "style": "Intimate",
+      "translation": "祖母炖的小牛肉，尝起来是她小厨房里的每个周日午后。",
+      "translated_word": "小牛肉",
+      "display_order": 3
+    }
+  ]
+}

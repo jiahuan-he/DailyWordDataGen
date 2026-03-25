@@ -1,0 +1,40 @@
+{
+  "word": "jigsaw",
+  "phonetic": "/ˈdʒɪɡsɔː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "拼图；曲线锯",
+  "examples": [
+    {
+      "sentence": "The last piece of the jigsaw had slipped under the couch.",
+      "style": "Contextual",
+      "translation": "拼图的最后一块滑落到了沙发底下。",
+      "translated_word": "拼图",
+      "display_order": 1
+    },
+    {
+      "sentence": "Each interview added another piece to the jigsaw of her disappearance.",
+      "style": "Collocational",
+      "translation": "每一次访谈都为她失踪之谜增添了一块拼图。",
+      "translated_word": "拼图",
+      "display_order": 3
+    },
+    {
+      "sentence": "A thousand scattered pieces; one patient afternoon.",
+      "style": "Poetic",
+      "translation": "千片零落，一个午后，慢慢拼凑。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "We only see the full picture when the final jigsaw piece locks into place.",
+      "style": "Philosophical",
+      "translation": "唯有当最后一片拼图嵌入，全貌才得以显现。",
+      "translated_word": "拼图",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "speck",
+  "phonetic": "/spɛk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "斑点；微粒；少量",
+  "examples": [
+    {
+      "sentence": "She noticed a speck of ink on the contract and reprinted it.",
+      "style": "Contextual",
+      "translation": "她发现合同上有一点墨渍，便重新打印了一份。",
+      "translated_word": "一点",
+      "display_order": 1
+    },
+    {
+      "sentence": "A speck of light drifted through the cathedral's silence.",
+      "style": "Poetic",
+      "translation": "一点微光，漂浮在教堂的静谧中。",
+      "translated_word": "一点",
+      "display_order": 3
+    },
+    {
+      "sentence": "We are specks in the cosmos, yet we name the stars.",
+      "style": "Philosophical",
+      "translation": "我们不过是宇宙中的尘埃，却为星辰命名。",
+      "translated_word": "尘埃",
+      "display_order": 4
+    },
+    {
+      "sentence": "That golden speck in your left eye: I noticed it before I knew your name.",
+      "style": "Intimate",
+      "translation": "你左眼里那抹金色的光点，我在知道你名字之前就注意到了。",
+      "translated_word": "光点",
+      "display_order": 2
+    }
+  ]
+}

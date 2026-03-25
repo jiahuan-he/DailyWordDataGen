@@ -1,0 +1,40 @@
+{
+  "word": "emote",
+  "phonetic": "/ɪˈmoʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "表达情感；夸张表演；流露情绪",
+  "examples": [
+    {
+      "sentence": "The actor could emote on cue, tears forming within seconds.",
+      "style": "Contextual",
+      "translation": "那位演员能随时入戏，几秒内便能泪流满面。",
+      "translated_word": "入戏",
+      "display_order": 1
+    },
+    {
+      "sentence": "Critics praised her ability to emote without relying on dialogue.",
+      "style": "Formal",
+      "translation": "评论家盛赞她无需台词便能传递情感的能力。",
+      "translated_word": "传递情感",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some people emote freely; others carry oceans in silence.",
+      "style": "Philosophical",
+      "translation": "有人情绪外放，有人将汪洋藏于沉默。",
+      "translated_word": "情绪外放",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother never learned to emote, but her soup said everything.",
+      "style": "Intimate",
+      "translation": "外婆从不善于表达，但她煮的汤胜过千言万语。",
+      "translated_word": "表达",
+      "display_order": 4
+    }
+  ]
+}

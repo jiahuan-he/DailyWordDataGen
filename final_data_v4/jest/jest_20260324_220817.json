@@ -1,0 +1,41 @@
+{
+  "word": "jest",
+  "phonetic": "/dʒest/",
+  "pos": [
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "玩笑；戏言；打趣",
+  "examples": [
+    {
+      "sentence": "What began as a jest soon became our tradition.",
+      "style": "Contextual",
+      "translation": "起初不过是句玩笑，后来却成了我们的传统。",
+      "translated_word": "玩笑",
+      "display_order": 1
+    },
+    {
+      "sentence": "A jest sometimes carries more truth than a confession.",
+      "style": "Philosophical",
+      "translation": "玩笑里藏的真心，有时比告白更深。",
+      "translated_word": "玩笑",
+      "display_order": 3
+    },
+    {
+      "sentence": "His words wore the cloak of jest, but his eyes never laughed.",
+      "style": "Poetic",
+      "translation": "他的话语披着玩笑的外衣，眼睛里却从无笑意。",
+      "translated_word": "玩笑",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her final jest at the dinner table still echoes in this quiet house.",
+      "style": "Intimate",
+      "translation": "她在餐桌上说的最后一句玩笑，至今仍回荡在这寂静的屋子里。",
+      "translated_word": "玩笑",
+      "display_order": 2
+    }
+  ]
+}

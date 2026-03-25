@@ -1,0 +1,40 @@
+{
+  "word": "antidote",
+  "phonetic": "/ˈæntɪdoʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "解药；解毒剂；对策",
+  "examples": [
+    {
+      "sentence": "Laughter proved to be the best antidote to her grief.",
+      "style": "Contextual",
+      "translation": "笑声成了她驱散悲伤最好的解药。",
+      "translated_word": "解药",
+      "display_order": 2
+    },
+    {
+      "sentence": "Honesty is the only antidote to a culture of distrust.",
+      "style": "Philosophical",
+      "translation": "唯有真诚，才能化解猜疑的风气。",
+      "translated_word": "化解",
+      "display_order": 4
+    },
+    {
+      "sentence": "Music became her antidote, each note dissolving the day's sharp edges.",
+      "style": "Poetic",
+      "translation": "音乐是她的解药，每个音符都在消融白日的棱角。",
+      "translated_word": "解药",
+      "display_order": 3
+    },
+    {
+      "sentence": "After months of burnout, morning walks by the river became my antidote.",
+      "style": "Intimate",
+      "translation": "倦怠数月后，清晨河边的漫步成了我的良方。",
+      "translated_word": "良方",
+      "display_order": 1
+    }
+  ]
+}

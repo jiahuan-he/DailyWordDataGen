@@ -1,0 +1,40 @@
+{
+  "word": "gale",
+  "phonetic": "/ɡeɪl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "大风；狂风；一阵（笑声）",
+  "examples": [
+    {
+      "sentence": "The gale bent the trees sideways, scattering leaves across the empty road.",
+      "style": "Contextual",
+      "translation": "狂风将树木压弯，落叶散落在空旷的路上。",
+      "translated_word": "狂风",
+      "display_order": 1
+    },
+    {
+      "sentence": "A gale swept through the wheat fields, turning gold into rolling waves.",
+      "style": "Poetic",
+      "translation": "一阵大风掠过麦田，金黄化作翻涌的浪。",
+      "translated_word": "大风",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her joke sparked a gale of laughter that echoed through the hall.",
+      "style": "Collocational",
+      "translation": "她的笑话引发一阵哄笑，回荡在大厅之中。",
+      "translated_word": "一阵",
+      "display_order": 4
+    },
+    {
+      "sentence": "We stood on the cliff as a gale whipped our hair wild; for a moment, I felt entirely free.",
+      "style": "Intimate",
+      "translation": "我们站在悬崖边，狂风吹乱了发丝；那一刻，我感到彻底的自由。",
+      "translated_word": "狂风",
+      "display_order": 3
+    }
+  ]
+}

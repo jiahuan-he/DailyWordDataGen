@@ -1,0 +1,39 @@
+{
+  "word": "placebo",
+  "phonetic": "/pləˈsiːboʊ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "安慰剂；假药；慰藉物",
+  "examples": [
+    {
+      "sentence": "Half the patients received the drug; the other half, a placebo.",
+      "style": "Contextual",
+      "translation": "一半患者服用真药，另一半则是安慰剂。",
+      "translated_word": "安慰剂",
+      "display_order": 1
+    },
+    {
+      "sentence": "The clinical trial required a placebo group to measure the drug's true efficacy.",
+      "style": "Formal",
+      "translation": "临床试验需设立安慰剂组，以衡量药物的真实疗效。",
+      "translated_word": "安慰剂",
+      "display_order": 2
+    },
+    {
+      "sentence": "The placebo effect accounts for nearly a third of all reported improvements.",
+      "style": "Collocational",
+      "translation": "安慰剂效应几乎占所有改善病例的三分之一。",
+      "translated_word": "安慰剂",
+      "display_order": 3
+    },
+    {
+      "sentence": "A placebo cannot cure the body, but belief sometimes can.",
+      "style": "Philosophical",
+      "translation": "安慰剂无法治愈身体，信念有时却能。",
+      "translated_word": "安慰剂",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "slur",
+  "phonetic": "/slɜːr/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "诋毁；侮辱性言论；污蔑",
+  "examples": [
+    {
+      "sentence": "No one expected the candidate to use a slur during the live debate.",
+      "style": "Contextual",
+      "translation": "没人料到这位候选人会在直播辩论中说出侮辱性言论。",
+      "translated_word": "侮辱性言论",
+      "display_order": 1
+    },
+    {
+      "sentence": "The organization issued a statement condemning the slur as hate speech.",
+      "style": "Formal",
+      "translation": "该组织发表声明，谴责这一诋毁言论为仇恨言辞。",
+      "translated_word": "诋毁言论",
+      "display_order": 4
+    },
+    {
+      "sentence": "A slur reveals more about the speaker than the target.",
+      "style": "Philosophical",
+      "translation": "一句诋毁，暴露的是说话者自己的内心。",
+      "translated_word": "诋毁",
+      "display_order": 3
+    },
+    {
+      "sentence": "That childhood slur still echoes whenever I introduce myself.",
+      "style": "Intimate",
+      "translation": "童年时那句侮辱，至今仍在我每次自我介绍时回响。",
+      "translated_word": "侮辱",
+      "display_order": 2
+    }
+  ]
+}

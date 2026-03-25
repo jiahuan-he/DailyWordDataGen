@@ -1,0 +1,39 @@
+{
+  "word": "ripen",
+  "phonetic": "/ˈraɪpən/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "成熟；变熟；酝酿",
+  "examples": [
+    {
+      "sentence": "Leave the bananas on the counter; they'll ripen in a few days.",
+      "style": "Contextual",
+      "translation": "把香蕉放在台面上，几天后就会熟透。",
+      "translated_word": "熟透",
+      "display_order": 1
+    },
+    {
+      "sentence": "Peaches ripen slowly under the August sun, their skin flushing gold.",
+      "style": "Poetic",
+      "translation": "桃子在八月的阳光下缓缓成熟，果皮渐染金黄。",
+      "translated_word": "成熟",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some ideas must ripen in silence before they're ready to be spoken.",
+      "style": "Philosophical",
+      "translation": "有些想法需在沉默中酝酿，方可出口。",
+      "translated_word": "酝酿",
+      "display_order": 4
+    },
+    {
+      "sentence": "The tomatoes were picked green and left to ripen indoors.",
+      "style": "Collocational",
+      "translation": "番茄青涩时便被采下，放在室内慢慢转红。",
+      "translated_word": "转红",
+      "display_order": 3
+    }
+  ]
+}

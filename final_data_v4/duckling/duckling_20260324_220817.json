@@ -1,0 +1,39 @@
+{
+  "word": "duckling",
+  "phonetic": "/ˈdʌklɪŋ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "小鸭；雏鸭",
+  "examples": [
+    {
+      "sentence": "The duckling followed its mother across the pond.",
+      "style": "Contextual",
+      "translation": "小鸭跟在妈妈身后，游过了池塘。",
+      "translated_word": "小鸭",
+      "display_order": 1
+    },
+    {
+      "sentence": "A lone duckling paddled through the golden afternoon light.",
+      "style": "Poetic",
+      "translation": "一只小鸭独自划过金色的午后光影。",
+      "translated_word": "小鸭",
+      "display_order": 3
+    },
+    {
+      "sentence": "That summer, my daughter named every duckling in the park.",
+      "style": "Intimate",
+      "translation": "那年夏天，女儿给公园里每只小鸭都起了名字。",
+      "translated_word": "小鸭",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every duckling learns to swim before it learns to doubt itself.",
+      "style": "Philosophical",
+      "translation": "每只小鸭都在学会怀疑自己之前，先学会了游泳。",
+      "translated_word": "小鸭",
+      "display_order": 4
+    }
+  ]
+}

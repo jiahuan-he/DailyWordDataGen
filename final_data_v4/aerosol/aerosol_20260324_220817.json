@@ -1,0 +1,40 @@
+{
+  "word": "aerosol",
+  "phonetic": "/ˈerəsɔːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "气雾剂；喷雾；悬浮微粒",
+  "examples": [
+    {
+      "sentence": "The pharmacist handed her an aerosol inhaler for her asthma.",
+      "style": "Contextual",
+      "translation": "药剂师递给她一支治疗哮喘的气雾吸入器。",
+      "translated_word": "气雾",
+      "display_order": 1
+    },
+    {
+      "sentence": "New research links volcanic aerosols to temporary global cooling.",
+      "style": "Formal",
+      "translation": "新研究表明，火山气溶胶与短期全球降温存在关联。",
+      "translated_word": "气溶胶",
+      "display_order": 3
+    },
+    {
+      "sentence": "She shook the aerosol can before painting the old chair gold.",
+      "style": "Collocational",
+      "translation": "她摇了摇喷漆罐，准备将那把旧椅子喷成金色。",
+      "translated_word": "喷",
+      "display_order": 2
+    },
+    {
+      "sentence": "Morning mist rose from the lake: nature's aerosol, soft and silver.",
+      "style": "Poetic",
+      "translation": "晨雾自湖面升起；那是自然的轻雾，柔软而银白。",
+      "translated_word": "轻雾",
+      "display_order": 4
+    }
+  ]
+}

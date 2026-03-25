@@ -1,0 +1,39 @@
+{
+  "word": "locality",
+  "phonetic": "/loʊˈkæləti/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "地区；地点；当地",
+  "examples": [
+    {
+      "sentence": "Each locality has its own dialect, its own rhythm of daily life.",
+      "style": "Contextual",
+      "translation": "每个地区都有自己的方言，自己的生活节奏。",
+      "translated_word": "地区",
+      "display_order": 2
+    },
+    {
+      "sentence": "The survey was conducted across twelve localities in the northern region.",
+      "style": "Formal",
+      "translation": "该调查在北部地区的十二个地点展开。",
+      "translated_word": "地点",
+      "display_order": 3
+    },
+    {
+      "sentence": "In this quiet locality, everyone knows the baker by his first name.",
+      "style": "Collocational",
+      "translation": "在这个宁静的小地方，人人都能叫出面包师的名字。",
+      "translated_word": "地方",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her letters painted a locality so vivid, I felt homesick for a place I had never been.",
+      "style": "Intimate",
+      "translation": "她的信把那个地方描绘得如此鲜活，我竟对一个从未去过的地方心生乡愁。",
+      "translated_word": "地方",
+      "display_order": 4
+    }
+  ]
+}
