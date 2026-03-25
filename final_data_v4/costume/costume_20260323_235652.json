@@ -1,0 +1,40 @@
+{
+  "word": "costume",
+  "phonetic": "/ˈkɑːstuːm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "服装；戏服；装扮",
+  "examples": [
+    {
+      "sentence": "She stayed up all night finishing her daughter's Halloween costume.",
+      "style": "Contextual",
+      "translation": "她熬了整夜，赶制女儿的万圣节服装。",
+      "translated_word": "服装",
+      "display_order": 3
+    },
+    {
+      "sentence": "The actors rehearsed in full period costume.",
+      "style": "Collocational",
+      "translation": "演员们身着复古戏服进行排练。",
+      "translated_word": "戏服",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every costume is a door into someone we have not yet become.",
+      "style": "Poetic",
+      "translation": "每一身装扮，都是通往未知自我的一扇门。",
+      "translated_word": "装扮",
+      "display_order": 4
+    },
+    {
+      "sentence": "My mother kept my first dance recital costume in a box labeled 'too precious to throw away.'",
+      "style": "Intimate",
+      "translation": "母亲把我第一次舞蹈演出的服装收进盒子，上面写着：舍不得丢。",
+      "translated_word": "服装",
+      "display_order": 2
+    }
+  ]
+}

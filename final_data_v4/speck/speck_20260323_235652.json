@@ -1,0 +1,40 @@
+{
+  "word": "speck",
+  "phonetic": "/spɛk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "小点；斑点；微粒；少量",
+  "examples": [
+    {
+      "sentence": "A speck of paint landed on his sleeve.",
+      "style": "Contextual",
+      "translation": "一点油漆落在了他的袖子上。",
+      "translated_word": "一点",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sunlight caught a speck of dust, holding it still in golden air.",
+      "style": "Poetic",
+      "translation": "阳光捕住一粒微尘，将它悬停在金色的空气里。",
+      "translated_word": "一粒",
+      "display_order": 2
+    },
+    {
+      "sentence": "From the plane, entire cities become specks on a canvas we once thought infinite.",
+      "style": "Philosophical",
+      "translation": "从飞机上俯瞰，整座城市不过是那片我们曾以为无限广袤的画布上的一个小点。",
+      "translated_word": "小点",
+      "display_order": 4
+    },
+    {
+      "sentence": "She found a speck of glitter on her cheek, a remnant of last night's celebration.",
+      "style": "Intimate",
+      "translation": "她发现脸颊上有一点闪粉，那是昨夜欢庆留下的痕迹。",
+      "translated_word": "一点",
+      "display_order": 3
+    }
+  ]
+}

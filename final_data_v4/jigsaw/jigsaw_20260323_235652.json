@@ -1,0 +1,40 @@
+{
+  "word": "jigsaw",
+  "phonetic": "/ˈdʒɪɡˌsɔː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "拼图；线锯",
+  "examples": [
+    {
+      "sentence": "The last piece of the jigsaw had slipped beneath the couch.",
+      "style": "Contextual",
+      "translation": "拼图的最后一块滑落到了沙发底下。",
+      "translated_word": "拼图",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every conversation with her added another piece to the jigsaw of who she really was.",
+      "style": "Philosophical",
+      "translation": "与她的每一次交谈，都让我更拼凑出她真实的模样。",
+      "translated_word": "拼凑",
+      "display_order": 3
+    },
+    {
+      "sentence": "Rainy Sundays meant a jigsaw on the kitchen table and tea growing cold.",
+      "style": "Intimate",
+      "translation": "每逢雨天的周日，厨房桌上便铺开一幅拼图，茶也渐渐凉了。",
+      "translated_word": "拼图",
+      "display_order": 2
+    },
+    {
+      "sentence": "A life scattered, then gathered: the quiet work of a jigsaw finding its frame.",
+      "style": "Poetic",
+      "translation": "生命曾四散，终又聚拢：如拼图静静寻回它的边框。",
+      "translated_word": "拼图",
+      "display_order": 4
+    }
+  ]
+}

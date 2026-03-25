@@ -1,0 +1,39 @@
+{
+  "word": "ripen",
+  "phonetic": "/ˈraɪpən/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "成熟；变熟；酝酿",
+  "examples": [
+    {
+      "sentence": "Leave the avocados on the counter; they'll ripen by Thursday.",
+      "style": "Contextual",
+      "translation": "把牛油果放在台面上，周四前就会熟的。",
+      "translated_word": "熟",
+      "display_order": 1
+    },
+    {
+      "sentence": "August heat ripens the figs until their skins split with sweetness.",
+      "style": "Poetic",
+      "translation": "八月的暑气催熟了无花果，甜蜜撑裂了果皮。",
+      "translated_word": "催熟",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some decisions need silence to ripen; rushing only sours them.",
+      "style": "Philosophical",
+      "translation": "有些决定需要在静默中酝酿；催促只会让它们变质。",
+      "translated_word": "酝酿",
+      "display_order": 4
+    },
+    {
+      "sentence": "We let the cheese ripen for eighteen months before selling.",
+      "style": "Collocational",
+      "translation": "我们让奶酪熟成十八个月后才出售。",
+      "translated_word": "熟成",
+      "display_order": 3
+    }
+  ]
+}

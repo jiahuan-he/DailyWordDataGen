@@ -1,0 +1,40 @@
+{
+  "word": "slur",
+  "phonetic": "/slɜːr/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "诋毁；侮辱；污蔑",
+  "examples": [
+    {
+      "sentence": "The politician apologized after using a slur during the live interview.",
+      "style": "Contextual",
+      "translation": "那位政客在直播采访中说出侮辱性言辞后公开道歉。",
+      "translated_word": "侮辱性言辞",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company faced backlash after an employee's slur went viral online.",
+      "style": "Formal",
+      "translation": "一名员工的辱骂言论在网上疯传后，公司遭到强烈抵制。",
+      "translated_word": "辱骂言论",
+      "display_order": 4
+    },
+    {
+      "sentence": "A slur reveals more about the speaker than the one it targets.",
+      "style": "Philosophical",
+      "translation": "侮辱之词，往往更多地暴露说话者，而非被针对者。",
+      "translated_word": "侮辱之词",
+      "display_order": 3
+    },
+    {
+      "sentence": "The slur he muttered under his breath stayed with me longer than he ever intended.",
+      "style": "Intimate",
+      "translation": "他低声嘟囔的那句侮辱，在我心中停留的时间远比他预想的更久。",
+      "translated_word": "侮辱",
+      "display_order": 2
+    }
+  ]
+}

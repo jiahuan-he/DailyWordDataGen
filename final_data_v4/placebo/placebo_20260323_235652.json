@@ -1,0 +1,39 @@
+{
+  "word": "placebo",
+  "phonetic": "/pləˈsiːboʊ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "安慰剂；假药；心理慰藉",
+  "examples": [
+    {
+      "sentence": "In the trial, half the patients unknowingly received a placebo.",
+      "style": "Contextual",
+      "translation": "在试验中，一半的患者在不知情的情况下服用了安慰剂。",
+      "translated_word": "安慰剂",
+      "display_order": 1
+    },
+    {
+      "sentence": "The drug failed to outperform placebo in the final clinical trial.",
+      "style": "Formal",
+      "translation": "该药物在最终临床试验中未能超越安慰剂的效果。",
+      "translated_word": "安慰剂",
+      "display_order": 2
+    },
+    {
+      "sentence": "A placebo proves that belief can be its own medicine.",
+      "style": "Philosophical",
+      "translation": "安慰剂证明了：信念本身也是一剂良药。",
+      "translated_word": "安慰剂",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her herbal remedy was likely a placebo, but her love was not.",
+      "style": "Intimate",
+      "translation": "她的草药偏方或许只是安慰剂，但她的爱不是。",
+      "translated_word": "安慰剂",
+      "display_order": 3
+    }
+  ]
+}

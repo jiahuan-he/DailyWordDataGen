@@ -1,0 +1,40 @@
+{
+  "word": "succulent",
+  "phonetic": "/ˈsʌkjələnt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "多汁的；鲜嫩可口的；肉质的",
+  "examples": [
+    {
+      "sentence": "The pear was perfectly ripe: succulent and honey-sweet.",
+      "style": "Contextual",
+      "translation": "那只梨熟得恰到好处：汁水饱满，甜如蜜糖。",
+      "translated_word": "汁水饱满",
+      "display_order": 1
+    },
+    {
+      "sentence": "She lined the windowsill with succulent plants that needed little care.",
+      "style": "Collocational",
+      "translation": "她在窗台上摆满了多肉植物，几乎不用费心照料。",
+      "translated_word": "多肉",
+      "display_order": 3
+    },
+    {
+      "sentence": "Rain pools in succulent leaves like secrets too heavy to keep.",
+      "style": "Poetic",
+      "translation": "雨水汇聚在肉质叶片间，像藏不住的秘密。",
+      "translated_word": "肉质",
+      "display_order": 4
+    },
+    {
+      "sentence": "Grandma's braised pork was impossibly succulent; I've chased that taste ever since.",
+      "style": "Intimate",
+      "translation": "外婆的红烧肉鲜嫩无比，那滋味我追寻至今。",
+      "translated_word": "鲜嫩",
+      "display_order": 2
+    }
+  ]
+}

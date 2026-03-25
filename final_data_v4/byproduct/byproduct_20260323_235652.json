@@ -1,0 +1,39 @@
+{
+  "word": "byproduct",
+  "phonetic": "/ˈbaɪˌprɑːdʌkt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "副产品；附带结果；衍生物",
+  "examples": [
+    {
+      "sentence": "Glycerin, a byproduct of soap manufacturing, found its way into skincare.",
+      "style": "Contextual",
+      "translation": "甘油是肥皂生产的副产品，如今却成了护肤品的常客。",
+      "translated_word": "副产品",
+      "display_order": 1
+    },
+    {
+      "sentence": "The commission found that misinformation was a byproduct of the platform's algorithm.",
+      "style": "Formal",
+      "translation": "委员会发现，虚假信息是平台算法的衍生产物。",
+      "translated_word": "衍生产物",
+      "display_order": 3
+    },
+    {
+      "sentence": "Loneliness is often a byproduct of guarding yourself too well.",
+      "style": "Philosophical",
+      "translation": "孤独往往是过度自我保护的附带结果。",
+      "translated_word": "附带结果",
+      "display_order": 4
+    },
+    {
+      "sentence": "Some of the best ideas are a byproduct of boredom.",
+      "style": "Collocational",
+      "translation": "许多好点子，其实是无聊的副产品。",
+      "translated_word": "副产品",
+      "display_order": 2
+    }
+  ]
+}

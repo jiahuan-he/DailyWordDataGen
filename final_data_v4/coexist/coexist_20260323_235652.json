@@ -1,0 +1,39 @@
+{
+  "word": "coexist",
+  "phonetic": "/ˌkoʊ.ɪɡˈzɪst/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "共存；并存；和平共处",
+  "examples": [
+    {
+      "sentence": "In our small apartment, three generations coexist under one roof.",
+      "style": "Contextual",
+      "translation": "在我们的小公寓里，三代人同住一个屋檐下。",
+      "translated_word": "同住",
+      "display_order": 2
+    },
+    {
+      "sentence": "The two nations have learned to coexist despite decades of tension.",
+      "style": "Formal",
+      "translation": "尽管有数十年的紧张关系，两国已学会和平共存。",
+      "translated_word": "共存",
+      "display_order": 1
+    },
+    {
+      "sentence": "Light and shadow coexist; neither can define itself alone.",
+      "style": "Philosophical",
+      "translation": "光与影共存；两者皆无法独自定义自身。",
+      "translated_word": "共存",
+      "display_order": 3
+    },
+    {
+      "sentence": "Wildflowers and weeds coexist in the meadow, each claiming its inch of sun.",
+      "style": "Poetic",
+      "translation": "野花与杂草在草甸上共生，各自争取一寸阳光。",
+      "translated_word": "共生",
+      "display_order": 4
+    }
+  ]
+}

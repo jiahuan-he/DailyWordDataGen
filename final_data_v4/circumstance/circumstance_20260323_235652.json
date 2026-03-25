@@ -1,0 +1,40 @@
+{
+  "word": "circumstance",
+  "phonetic": "/ˈsɜːrkəmstæns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "情况；境况；环境；情形",
+  "examples": [
+    {
+      "sentence": "Under the circumstance, silence was the wisest response.",
+      "style": "Contextual",
+      "translation": "在那种情况下，沉默是最明智的回应。",
+      "translated_word": "情况",
+      "display_order": 1
+    },
+    {
+      "sentence": "We shape our choices; our circumstances shape us back.",
+      "style": "Philosophical",
+      "translation": "我们塑造选择，而境况反过来塑造我们。",
+      "translated_word": "境况",
+      "display_order": 4
+    },
+    {
+      "sentence": "The investigation revealed no suspicious circumstances surrounding the incident.",
+      "style": "Formal",
+      "translation": "调查显示该事件周围并无可疑情形。",
+      "translated_word": "情形",
+      "display_order": 3
+    },
+    {
+      "sentence": "Your circumstance is a starting point, never a final verdict.",
+      "style": "Inspirational",
+      "translation": "你的处境只是起点，绝非最终判决。",
+      "translated_word": "处境",
+      "display_order": 2
+    }
+  ]
+}

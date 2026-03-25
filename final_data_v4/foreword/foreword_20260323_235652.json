@@ -1,0 +1,39 @@
+{
+  "word": "foreword",
+  "phonetic": "/ˈfɔːrwɜːrd/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "前言；序言；序",
+  "examples": [
+    {
+      "sentence": "The foreword explained why the author spent a decade on this book.",
+      "style": "Contextual",
+      "translation": "前言解释了作者为何花费十年写就此书。",
+      "translated_word": "前言",
+      "display_order": 1
+    },
+    {
+      "sentence": "The Nobel laureate contributed a foreword to the posthumous collection.",
+      "style": "Formal",
+      "translation": "这位诺贝尔奖得主为该遗作集撰写了序言。",
+      "translated_word": "序言",
+      "display_order": 3
+    },
+    {
+      "sentence": "She was honored to write the foreword for her mentor's final book.",
+      "style": "Collocational",
+      "translation": "她深感荣幸，能为恩师的最后一部著作作序。",
+      "translated_word": "序",
+      "display_order": 2
+    },
+    {
+      "sentence": "My father's signature still lives in the foreword of my childhood dictionary.",
+      "style": "Intimate",
+      "translation": "父亲的签名，至今仍留在我童年词典的扉页上。",
+      "translated_word": "扉页",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "agitated",
+  "phonetic": "/ˈædʒɪteɪtɪd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "焦躁的；不安的；激动的",
+  "examples": [
+    {
+      "sentence": "The passengers grew agitated as the delay stretched into its third hour.",
+      "style": "Contextual",
+      "translation": "航班延误进入第三个小时，乘客们开始焦躁不安。",
+      "translated_word": "焦躁不安",
+      "display_order": 1
+    },
+    {
+      "sentence": "Investors remain agitated over the pending regulatory decision.",
+      "style": "Formal",
+      "translation": "投资者对悬而未决的监管裁定仍感到不安。",
+      "translated_word": "不安",
+      "display_order": 3
+    },
+    {
+      "sentence": "The sea turned agitated before the storm, as if sensing what we could not.",
+      "style": "Poetic",
+      "translation": "暴风雨来临前，海面变得躁动，仿佛感知到了我们无法察觉的一切。",
+      "translated_word": "躁动",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her silence made me more agitated than any argument could.",
+      "style": "Intimate",
+      "translation": "她的沉默比任何争吵都更让我心神不宁。",
+      "translated_word": "心神不宁",
+      "display_order": 2
+    }
+  ]
+}

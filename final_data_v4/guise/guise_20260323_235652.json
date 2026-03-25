@@ -1,0 +1,40 @@
+{
+  "word": "guise",
+  "phonetic": "/ɡaɪz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "外表；伪装；假象",
+  "examples": [
+    {
+      "sentence": "His generosity was a guise for control.",
+      "style": "Contextual",
+      "translation": "他的慷慨不过是控制的伪装。",
+      "translated_word": "伪装",
+      "display_order": 1
+    },
+    {
+      "sentence": "The legislation passed under the guise of public safety.",
+      "style": "Formal",
+      "translation": "该法案以公共安全之名获得通过。",
+      "translated_word": "之名",
+      "display_order": 2
+    },
+    {
+      "sentence": "We shed one guise only to find another waiting.",
+      "style": "Philosophical",
+      "translation": "卸下一层面具，另一层已在等候。",
+      "translated_word": "面具",
+      "display_order": 4
+    },
+    {
+      "sentence": "The harbor wore a guise of stillness before the storm.",
+      "style": "Poetic",
+      "translation": "风暴来临前，港湾披着一层静谧。",
+      "translated_word": null,
+      "display_order": 3
+    }
+  ]
+}

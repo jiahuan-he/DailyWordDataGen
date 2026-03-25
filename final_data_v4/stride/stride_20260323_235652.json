@@ -1,0 +1,40 @@
+{
+  "word": "stride",
+  "phonetic": "/straɪd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "大步走；阔步前行；迈进",
+  "examples": [
+    {
+      "sentence": "He strode past the crowd without a second glance.",
+      "style": "Contextual",
+      "translation": "他大步穿过人群，目不斜视。",
+      "translated_word": "大步",
+      "display_order": 2
+    },
+    {
+      "sentence": "She strode into the boardroom, briefcase in hand.",
+      "style": "Collocational",
+      "translation": "她手提公文包，阔步走进会议室。",
+      "translated_word": "阔步",
+      "display_order": 1
+    },
+    {
+      "sentence": "Stride forward; doubt is just noise behind you.",
+      "style": "Inspirational",
+      "translation": "大步向前；疑虑不过是身后的杂音。",
+      "translated_word": "大步",
+      "display_order": 3
+    },
+    {
+      "sentence": "He strode through the fog, his silhouette dissolving into dawn.",
+      "style": "Poetic",
+      "translation": "他穿雾而行，身影渐融于晨曦之中。",
+      "translated_word": "行",
+      "display_order": 4
+    }
+  ]
+}

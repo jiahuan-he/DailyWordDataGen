@@ -1,0 +1,41 @@
+{
+  "word": "inert",
+  "phonetic": "/ɪˈnɜːrt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "惰性的；不活跃的；迟钝的",
+  "examples": [
+    {
+      "sentence": "The gas remained inert, refusing to bond with anything else.",
+      "style": "Contextual",
+      "translation": "这种气体保持惰性，拒绝与任何物质结合。",
+      "translated_word": "惰性",
+      "display_order": 1
+    },
+    {
+      "sentence": "Despite mounting pressure, the committee has remained inert.",
+      "style": "Formal",
+      "translation": "尽管压力与日俱增，委员会依然毫无作为。",
+      "translated_word": "毫无作为",
+      "display_order": 2
+    },
+    {
+      "sentence": "Fear renders us inert; courage is simply fear that moves.",
+      "style": "Philosophical",
+      "translation": "恐惧使人僵滞；勇气不过是学会行动的恐惧。",
+      "translated_word": "僵滞",
+      "display_order": 3
+    },
+    {
+      "sentence": "Snow settles on the inert garden, patient as stone.",
+      "style": "Poetic",
+      "translation": "白雪覆于沉寂的花园，静默如石。",
+      "translated_word": "沉寂",
+      "display_order": 4
+    }
+  ]
+}

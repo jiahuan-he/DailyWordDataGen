@@ -1,0 +1,40 @@
+{
+  "word": "accrue",
+  "phonetic": "/əˈkruː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "积累；累积；产生",
+  "examples": [
+    {
+      "sentence": "Interest accrues daily, even while you sleep.",
+      "style": "Contextual",
+      "translation": "利息日夜累积，即便你在酣睡。",
+      "translated_word": "累积",
+      "display_order": 1
+    },
+    {
+      "sentence": "Employees accrue additional leave based on years of service.",
+      "style": "Formal",
+      "translation": "员工根据服务年限累积额外假期。",
+      "translated_word": "累积",
+      "display_order": 2
+    },
+    {
+      "sentence": "Trust accrues from small promises kept.",
+      "style": "Collocational",
+      "translation": "信任源于一个个被兑现的小承诺。",
+      "translated_word": "源于",
+      "display_order": 3
+    },
+    {
+      "sentence": "Regret accrues silently; gratitude must be spoken aloud.",
+      "style": "Philosophical",
+      "translation": "遗憾无声累积；感激须得说出口。",
+      "translated_word": "累积",
+      "display_order": 4
+    }
+  ]
+}

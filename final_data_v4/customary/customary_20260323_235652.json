@@ -1,0 +1,40 @@
+{
+  "word": "customary",
+  "phonetic": "/ˈkʌstəˌmeri/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "惯常的；习惯性的；按惯例的",
+  "examples": [
+    {
+      "sentence": "She arrived at her customary time: seven sharp.",
+      "style": "Contextual",
+      "translation": "她在惯常的时间到达：七点整。",
+      "translated_word": "惯常的",
+      "display_order": 2
+    },
+    {
+      "sentence": "The ambassador exchanged customary greetings before the summit began.",
+      "style": "Formal",
+      "translation": "峰会开始前，大使交换了例行的问候。",
+      "translated_word": "例行的",
+      "display_order": 3
+    },
+    {
+      "sentence": "What feels customary to one generation may seem foreign to the next.",
+      "style": "Philosophical",
+      "translation": "一代人习以为常之事，于下一代或许已是陌路。",
+      "translated_word": "习以为常",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every Sunday, my grandmother brewed her customary pot of jasmine tea.",
+      "style": "Intimate",
+      "translation": "每个周日，祖母都会沏上她惯常的那壶茉莉花茶。",
+      "translated_word": "惯常的",
+      "display_order": 1
+    }
+  ]
+}

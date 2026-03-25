@@ -1,0 +1,40 @@
+{
+  "word": "hook",
+  "phonetic": "/hʊk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "钩子；吸引点；圈套",
+  "examples": [
+    {
+      "sentence": "The coat slipped off the hook and fell to the floor.",
+      "style": "Contextual",
+      "translation": "外套从钩子上滑落，掉在了地上。",
+      "translated_word": "钩子",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every great pop song needs a hook that sticks.",
+      "style": "Collocational",
+      "translation": "每首好的流行歌曲都需要一个让人难忘的记忆点。",
+      "translated_word": "记忆点",
+      "display_order": 3
+    },
+    {
+      "sentence": "The real hook is never the bait; it's the hunger.",
+      "style": "Philosophical",
+      "translation": "真正的诱饵从来不是鱼钩，而是饥饿本身。",
+      "translated_word": "诱饵",
+      "display_order": 4
+    },
+    {
+      "sentence": "Moonlight caught on the fishing hook, silver and trembling.",
+      "style": "Poetic",
+      "translation": "月光挂在鱼钩上，银色的，微微颤动。",
+      "translated_word": "鱼钩",
+      "display_order": 2
+    }
+  ]
+}

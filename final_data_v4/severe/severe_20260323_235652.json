@@ -1,0 +1,39 @@
+{
+  "word": "severe",
+  "phonetic": "/sɪˈvɪr/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "严重；严厉；剧烈；朴素",
+  "examples": [
+    {
+      "sentence": "The drought was so severe that the riverbed cracked like old porcelain.",
+      "style": "Contextual",
+      "translation": "干旱严重至极，河床龟裂如旧瓷。",
+      "translated_word": "严重",
+      "display_order": 2
+    },
+    {
+      "sentence": "The court delivered a severe ruling, sending shockwaves through the industry.",
+      "style": "Formal",
+      "translation": "法院作出严厉裁决，震动整个行业。",
+      "translated_word": "严厉",
+      "display_order": 3
+    },
+    {
+      "sentence": "Severe weather forced the pilots to reroute mid-flight.",
+      "style": "Collocational",
+      "translation": "恶劣天气迫使飞行员中途改变航线。",
+      "translated_word": "恶劣",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her gaze held a severe elegance: nothing wasted, nothing soft.",
+      "style": "Poetic",
+      "translation": "她的目光有一种冷峻的优雅：不多余，不温软。",
+      "translated_word": "冷峻",
+      "display_order": 4
+    }
+  ]
+}

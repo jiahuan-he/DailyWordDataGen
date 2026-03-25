@@ -1,0 +1,40 @@
+{
+  "word": "aerosol",
+  "phonetic": "/ˈerəˌsɔːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "气溶胶；喷雾剂；喷雾罐",
+  "examples": [
+    {
+      "sentence": "Sunlight caught the aerosol of her perfume, turning it to fleeting gold.",
+      "style": "Poetic",
+      "translation": "阳光穿透她香水的雾霭，将其化作一瞬的金尘。",
+      "translated_word": "雾霭",
+      "display_order": 4
+    },
+    {
+      "sentence": "New research links indoor aerosols to the rapid spread of respiratory illness.",
+      "style": "Formal",
+      "translation": "新研究表明，室内气溶胶与呼吸道疾病的快速传播密切相关。",
+      "translated_word": "气溶胶",
+      "display_order": 3
+    },
+    {
+      "sentence": "He shook the aerosol can twice before spraying the stain.",
+      "style": "Collocational",
+      "translation": "他把喷雾罐摇了两下，然后对准污渍喷去。",
+      "translated_word": "喷雾",
+      "display_order": 1
+    },
+    {
+      "sentence": "A single sneeze releases thousands of invisible aerosols that linger for minutes.",
+      "style": "Contextual",
+      "translation": "一个喷嚏释放出成千上万的隐形气溶胶，可在空中悬浮数分钟。",
+      "translated_word": "气溶胶",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "glee",
+  "phonetic": "/ɡliː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "欢欣；狂喜；幸灾乐祸",
+  "examples": [
+    {
+      "sentence": "The children opened their presents with uncontainable glee.",
+      "style": "Contextual",
+      "translation": "孩子们拆开礼物，欢欣雀跃。",
+      "translated_word": "欢欣",
+      "display_order": 1
+    },
+    {
+      "sentence": "She watched his project fail with barely concealed glee.",
+      "style": "Collocational",
+      "translation": "她几乎掩饰不住幸灾乐祸，看着他的项目失败。",
+      "translated_word": "幸灾乐祸",
+      "display_order": 3
+    },
+    {
+      "sentence": "Pure glee has no memory; it lives only in the present.",
+      "style": "Philosophical",
+      "translation": "纯粹的欢欣没有记忆，它只存在于当下。",
+      "translated_word": "欢欣",
+      "display_order": 4
+    },
+    {
+      "sentence": "His glee at the news lit up the entire room.",
+      "style": "Poetic",
+      "translation": "他听闻消息时的狂喜，照亮了整个房间。",
+      "translated_word": "狂喜",
+      "display_order": 2
+    }
+  ]
+}

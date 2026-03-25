@@ -1,0 +1,40 @@
+{
+  "word": "grudge",
+  "phonetic": "/ɡrʌdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "怨恨；积怨；宿怨",
+  "examples": [
+    {
+      "sentence": "He never spoke to his brother again; the grudge ran too deep.",
+      "style": "Contextual",
+      "translation": "他再也没和兄弟说过话；那份积怨太深了。",
+      "translated_word": "积怨",
+      "display_order": 2
+    },
+    {
+      "sentence": "A grudge is a heavy thing to carry for someone living rent-free in your mind.",
+      "style": "Philosophical",
+      "translation": "怨恨是沉重的行囊，而那人却在你心里白住了多年。",
+      "translated_word": "怨恨",
+      "display_order": 4
+    },
+    {
+      "sentence": "She held a grudge against the city itself, as if the streets remembered her failure.",
+      "style": "Intimate",
+      "translation": "她对那座城市心存芥蒂，仿佛街道也记得她的失败。",
+      "translated_word": "芥蒂",
+      "display_order": 3
+    },
+    {
+      "sentence": "Old grudges between the families resurfaced at the funeral.",
+      "style": "Collocational",
+      "translation": "两家的旧怨在葬礼上重新浮出水面。",
+      "translated_word": "旧怨",
+      "display_order": 1
+    }
+  ]
+}

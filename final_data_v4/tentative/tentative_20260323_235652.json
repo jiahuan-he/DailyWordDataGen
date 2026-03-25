@@ -1,0 +1,40 @@
+{
+  "word": "tentative",
+  "phonetic": "/ˈtentətɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "试探性的；暂定的；犹豫的",
+  "examples": [
+    {
+      "sentence": "Her tentative smile suggested she wasn't sure if the joke had landed.",
+      "style": "Contextual",
+      "translation": "她试探性的微笑暗示她不确定笑话是否奏效。",
+      "translated_word": "试探性的",
+      "display_order": 1
+    },
+    {
+      "sentence": "The two nations reached a tentative agreement pending final approval.",
+      "style": "Formal",
+      "translation": "两国达成暂定协议，有待最终批准。",
+      "translated_word": "暂定",
+      "display_order": 3
+    },
+    {
+      "sentence": "My first 'I love you' was tentative, barely louder than a breath.",
+      "style": "Intimate",
+      "translation": "我第一次说\"我爱你\"时犹犹豫豫，声音轻得几乎像一声叹息。",
+      "translated_word": "犹犹豫豫",
+      "display_order": 2
+    },
+    {
+      "sentence": "Spring arrives in tentative colors: pale greens, soft yellows, whites still half-asleep.",
+      "style": "Poetic",
+      "translation": "春天以试探的色彩降临：浅绿、淡黄、还在半梦半醒的白。",
+      "translated_word": "试探的",
+      "display_order": 4
+    }
+  ]
+}

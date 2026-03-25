@@ -1,0 +1,40 @@
+{
+  "word": "antidote",
+  "phonetic": "/ˈæntɪdoʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "解药；良方；对策",
+  "examples": [
+    {
+      "sentence": "The doctor administered an antidote within minutes of the snakebite.",
+      "style": "Contextual",
+      "translation": "医生在蛇咬伤后几分钟内便注射了解药。",
+      "translated_word": "解药",
+      "display_order": 1
+    },
+    {
+      "sentence": "Laughter is often the best antidote to stress.",
+      "style": "Collocational",
+      "translation": "笑声往往是压力的最佳良方。",
+      "translated_word": "良方",
+      "display_order": 2
+    },
+    {
+      "sentence": "Curiosity remains the only antidote to cynicism.",
+      "style": "Philosophical",
+      "translation": "好奇心是抵御愤世嫉俗的唯一解药。",
+      "translated_word": "解药",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her voice on the phone became an antidote to months of silence.",
+      "style": "Intimate",
+      "translation": "她电话中的声音，成了数月沉寂的良药。",
+      "translated_word": "良药",
+      "display_order": 4
+    }
+  ]
+}

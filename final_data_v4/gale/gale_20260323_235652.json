@@ -1,0 +1,40 @@
+{
+  "word": "gale",
+  "phonetic": "/ɡeɪl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "大风；狂风；一阵（笑声）",
+  "examples": [
+    {
+      "sentence": "The gale knocked out power across three counties.",
+      "style": "Contextual",
+      "translation": "大风导致三个县区断电。",
+      "translated_word": "大风",
+      "display_order": 1
+    },
+    {
+      "sentence": "A gale rose from the sea, carrying salt and ancient whispers.",
+      "style": "Poetic",
+      "translation": "一阵狂风自海上升起，裹挟着盐与远古的低语。",
+      "translated_word": "狂风",
+      "display_order": 2
+    },
+    {
+      "sentence": "Fishermen stayed ashore during the gale warning.",
+      "style": "Collocational",
+      "translation": "大风预警期间，渔民们留在岸上。",
+      "translated_word": "大风",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her deadpan delivery sent the whole room into gales of laughter.",
+      "style": "Intimate",
+      "translation": "她一本正经的讲述让满屋人笑得前仰后合。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}
