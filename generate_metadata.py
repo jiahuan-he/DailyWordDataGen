@@ -24,14 +24,14 @@ def main() -> None:
     frequencies = [int(f.strip()) for f in args.level_tiers.split(",")]
 
     all_words = load_vocabulary_words(config.VOCABULARY_CSV)
-    words = [
-        w for w in all_words
+    words_with_output = sum(
+        1 for w in all_words
         if w.output_file and (config.PROJECT_ROOT / w.output_file).exists()
-    ]
-    print(f"Loaded {len(all_words)} words, {len(words)} have existing output files")
+    )
+    print(f"Loaded {len(all_words)} words, {words_with_output} have existing output files")
 
-    # word_order.json: processed words in CSV order
-    word_order = [w.word for w in words]
+    # word_order.json: all words in CSV order (indices must be stable)
+    word_order = [w.word for w in all_words]
     word_order_path = config.VOCABULARY_CSV.parent / "word_order.json"
     with open(word_order_path, "w") as f:
         json.dump(word_order, f, ensure_ascii=False, separators=(",", ":"))
@@ -42,7 +42,7 @@ def main() -> None:
     for level_num, freq in enumerate(frequencies, start=1):
         # Find the index of the first word with this frequency
         index = next(
-            (i for i, w in enumerate(words) if w.frequency == freq),
+            (i for i, w in enumerate(all_words) if w.frequency == freq),
             None,
         )
         if index is None:
@@ -68,7 +68,7 @@ def main() -> None:
             output_file_by_freq[w.frequency] += 1
 
     starting_index_by_freq: dict[int, int] = {}
-    for i, w in enumerate(words):
+    for i, w in enumerate(all_words):
         if w.frequency not in starting_index_by_freq:
             starting_index_by_freq[w.frequency] = i
 
