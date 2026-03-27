@@ -1,0 +1,40 @@
+{
+  "word": "josh",
+  "phonetic": "/dʒɒʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "打趣；戏弄；开玩笑",
+  "examples": [
+    {
+      "sentence": "My coworkers josh me about my obsession with spreadsheets.",
+      "style": "Contextual",
+      "translation": "同事们总拿我对电子表格的痴迷打趣。",
+      "translated_word": "打趣",
+      "display_order": 1
+    },
+    {
+      "sentence": "They joshed around the campfire until midnight.",
+      "style": "Collocational",
+      "translation": "他们围着篝火打趣嬉闹，直到午夜。",
+      "translated_word": "打趣",
+      "display_order": 3
+    },
+    {
+      "sentence": "He joshed me gently, and I realized how much I'd missed his laughter.",
+      "style": "Intimate",
+      "translation": "他轻轻打趣我，我才发觉自己有多想念他的笑声。",
+      "translated_word": "打趣",
+      "display_order": 2
+    },
+    {
+      "sentence": "To josh is to say: I know you well enough to tease.",
+      "style": "Philosophical",
+      "translation": "打趣是一种表白：我足够了解你，才敢开这玩笑。",
+      "translated_word": "打趣",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "trite",
+  "phonetic": "/traɪt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "陈腐的；老套的；平庸的",
+  "examples": [
+    {
+      "sentence": "The movie's ending felt trite: hero saves the day, gets the girl, walks into the sunset.",
+      "style": "Contextual",
+      "translation": "电影结局太老套：英雄拯救世界，抱得美人归，走向夕阳。",
+      "translated_word": "老套",
+      "display_order": 1
+    },
+    {
+      "sentence": "Critics dismissed the speech as trite, its promises recycled from a decade ago.",
+      "style": "Formal",
+      "translation": "评论家认为这场演讲陈腐不堪，承诺不过是十年前的老调重弹。",
+      "translated_word": "陈腐",
+      "display_order": 2
+    },
+    {
+      "sentence": "His apology wasn't insincere; it was simply trite.",
+      "style": "Contrastive",
+      "translation": "他的道歉并非不真诚，只是太过平庸。",
+      "translated_word": "平庸",
+      "display_order": 3
+    },
+    {
+      "sentence": "We mock trite sayings until life proves them true.",
+      "style": "Philosophical",
+      "translation": "我们嘲笑那些陈词滥调，直到生活证明它们是对的。",
+      "translated_word": "陈词滥调",
+      "display_order": 4
+    }
+  ]
+}

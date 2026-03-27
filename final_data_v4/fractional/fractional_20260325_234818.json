@@ -1,0 +1,40 @@
+{
+  "word": "fractional",
+  "phonetic": "/ˈfrækʃənl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "极小的；部分的；分数的",
+  "examples": [
+    {
+      "sentence": "The difference was fractional, barely visible to the naked eye.",
+      "style": "Contextual",
+      "translation": "差异微乎其微，肉眼几乎无法察觉。",
+      "translated_word": "微乎其微",
+      "display_order": 1
+    },
+    {
+      "sentence": "Fractional ownership has made private aviation accessible to smaller investors.",
+      "style": "Formal",
+      "translation": "共享产权让小型投资者也能涉足私人航空领域。",
+      "translated_word": "共享",
+      "display_order": 3
+    },
+    {
+      "sentence": "Even a fractional improvement in conversion rates transforms the bottom line.",
+      "style": "Collocational",
+      "translation": "转化率哪怕有一丝提升，都能改变盈亏结果。",
+      "translated_word": "一丝",
+      "display_order": 2
+    },
+    {
+      "sentence": "Most growth is fractional; we only see the tree, never the ring forming.",
+      "style": "Philosophical",
+      "translation": "成长大多是细微的；我们只看见大树，却看不见年轮的生成。",
+      "translated_word": "细微",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "ballad",
+  "phonetic": "/ˈbæləd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "民谣；情歌；叙事诗",
+  "examples": [
+    {
+      "sentence": "A soft ballad played as the last guests lingered by the fire.",
+      "style": "Contextual",
+      "translation": "炉火旁，最后几位客人伴着一首轻柔的民谣迟迟不愿离去。",
+      "translated_word": "民谣",
+      "display_order": 1
+    },
+    {
+      "sentence": "The singer closed the set with a tender love ballad.",
+      "style": "Collocational",
+      "translation": "歌手以一首深情的情歌为演出画上句点。",
+      "translated_word": "情歌",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every ballad carries the weight of someone's unspoken goodbye.",
+      "style": "Poetic",
+      "translation": "每首民谣都承载着某人未曾说出口的告别。",
+      "translated_word": "民谣",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father only played one ballad on the piano; it was always for her.",
+      "style": "Intimate",
+      "translation": "父亲只会弹一首钢琴曲；那首歌，永远是弹给她听的。",
+      "translated_word": "曲",
+      "display_order": 3
+    }
+  ]
+}

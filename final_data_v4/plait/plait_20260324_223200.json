@@ -1,0 +1,40 @@
+{
+  "word": "plait",
+  "phonetic": "/plæt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "辫子；编结物",
+  "examples": [
+    {
+      "sentence": "She wore a single plait down her back, tied with a ribbon her grandmother had given her.",
+      "style": "Contextual",
+      "translation": "她背后垂着一根辫子，系着祖母送的丝带。",
+      "translated_word": "辫子",
+      "display_order": 2
+    },
+    {
+      "sentence": "The thick plait swung with each step, catching the late afternoon light.",
+      "style": "Poetic",
+      "translation": "粗辫随步伐轻摆，挽住了午后余晖。",
+      "translated_word": "辫",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every Sunday morning, my mother would sit me down and weave my hair into a neat plait.",
+      "style": "Intimate",
+      "translation": "每个周日清晨，母亲都会让我坐好，把我的头发编成整齐的辫子。",
+      "translated_word": "辫子",
+      "display_order": 1
+    },
+    {
+      "sentence": "A loose plait works better for casual outings; a tight French plait suits formal events.",
+      "style": "Collocational",
+      "translation": "松散的辫子适合日常出行；紧致的法式辫则宜于正式场合。",
+      "translated_word": "辫子",
+      "display_order": 4
+    }
+  ]
+}

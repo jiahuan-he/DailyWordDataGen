@@ -1,0 +1,41 @@
+{
+  "word": "den",
+  "phonetic": "/dɛn/",
+  "pos": [
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "兽穴；窝点；书房",
+  "examples": [
+    {
+      "sentence": "The fox returned to its den before the first snow fell.",
+      "style": "Contextual",
+      "translation": "初雪落下之前，狐狸回到了它的巢穴。",
+      "translated_word": "巢穴",
+      "display_order": 1
+    },
+    {
+      "sentence": "Walking into that boardroom felt like entering a lion's den.",
+      "style": "Collocational",
+      "translation": "走进那间会议室，如同踏入狮子的领地。",
+      "translated_word": "领地",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather's den held secrets: old maps, faded letters, a life I never knew.",
+      "style": "Intimate",
+      "translation": "祖父的书房藏着秘密：旧地图、褪色的信件，以及我从未了解过的人生。",
+      "translated_word": "书房",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every writer needs a den where silence becomes ink.",
+      "style": "Poetic",
+      "translation": "每个写作者都需要一间小屋，让寂静化为笔墨。",
+      "translated_word": "小屋",
+      "display_order": 4
+    }
+  ]
+}

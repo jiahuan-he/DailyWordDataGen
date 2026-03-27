@@ -1,0 +1,40 @@
+{
+  "word": "furnace",
+  "phonetic": "/ˈfɜːrnɪs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "火炉；熔炉；酷热之地",
+  "examples": [
+    {
+      "sentence": "The old furnace groaned to life as the first snow began to fall.",
+      "style": "Contextual",
+      "translation": "初雪飘落时，老旧的火炉嘎吱作响地启动了。",
+      "translated_word": "火炉",
+      "display_order": 1
+    },
+    {
+      "sentence": "Steel is born in the blast furnace, shaped by heat and pressure.",
+      "style": "Collocational",
+      "translation": "钢铁诞生于高炉之中，由高温与压力锻造成型。",
+      "translated_word": "高炉",
+      "display_order": 2
+    },
+    {
+      "sentence": "The summer city became a furnace; even shadows offered no relief.",
+      "style": "Poetic",
+      "translation": "盛夏的城市化作熔炉，连阴影都无法带来片刻清凉。",
+      "translated_word": "熔炉",
+      "display_order": 3
+    },
+    {
+      "sentence": "Character, like iron, reveals its true form only after passing through the furnace.",
+      "style": "Philosophical",
+      "translation": "人格如铁，唯有经历炉火，方能显露真形。",
+      "translated_word": "炉火",
+      "display_order": 4
+    }
+  ]
+}

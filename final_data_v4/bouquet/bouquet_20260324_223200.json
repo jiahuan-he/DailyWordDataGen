@@ -1,0 +1,39 @@
+{
+  "word": "bouquet",
+  "phonetic": "/buˈkeɪ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "花束；芬芳；酒香",
+  "examples": [
+    {
+      "sentence": "She arranged the bouquet in a crystal vase, each stem placed with care.",
+      "style": "Contextual",
+      "translation": "她将花束插入水晶花瓶，每一枝都悉心安放。",
+      "translated_word": "花束",
+      "display_order": 1
+    },
+    {
+      "sentence": "The wildflower bouquet held summer itself: sunlight pressed into petals.",
+      "style": "Poetic",
+      "translation": "那束野花握住了整个夏天：阳光凝于花瓣之间。",
+      "translated_word": "束",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother's garden always provided the wedding bouquet; it was tradition.",
+      "style": "Intimate",
+      "translation": "祖母的花园总为婚礼献上手捧花，这是我们家的传统。",
+      "translated_word": "手捧花",
+      "display_order": 2
+    },
+    {
+      "sentence": "The wine's complex bouquet revealed notes of oak and dark cherry.",
+      "style": "Collocational",
+      "translation": "这款酒的馥郁酒香透出橡木与黑樱桃的层次。",
+      "translated_word": "酒香",
+      "display_order": 4
+    }
+  ]
+}

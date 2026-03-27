@@ -1,0 +1,40 @@
+{
+  "word": "muffle",
+  "phonetic": "/ˈmʌfəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使低沉；捂住；抑制",
+  "examples": [
+    {
+      "sentence": "The thick snow muffled our footsteps as we walked home.",
+      "style": "Contextual",
+      "translation": "厚厚的积雪吞没了我们回家的脚步声。",
+      "translated_word": "吞没",
+      "display_order": 2
+    },
+    {
+      "sentence": "She pressed her face into the pillow to muffle her laughter.",
+      "style": "Intimate",
+      "translation": "她把脸埋进枕头，捂住自己止不住的笑声。",
+      "translated_word": "捂住",
+      "display_order": 1
+    },
+    {
+      "sentence": "Winter muffles the city in white; even sirens sound like whispers.",
+      "style": "Poetic",
+      "translation": "冬雪裹住城市；连警笛都轻若低语。",
+      "translated_word": "裹住",
+      "display_order": 4
+    },
+    {
+      "sentence": "He tried to muffle a cough during the concert.",
+      "style": "Collocational",
+      "translation": "他在音乐会上努力忍住一声咳嗽。",
+      "translated_word": "忍住",
+      "display_order": 3
+    }
+  ]
+}

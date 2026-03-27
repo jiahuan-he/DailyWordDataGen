@@ -1,0 +1,40 @@
+{
+  "word": "hymn",
+  "phonetic": "/hɪm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "赞美诗；圣歌；颂歌",
+  "examples": [
+    {
+      "sentence": "The choir practiced the same hymn every Sunday until it became second nature.",
+      "style": "Contextual",
+      "translation": "唱诗班每个周日练习同一首赞美诗，直到烂熟于心。",
+      "translated_word": "赞美诗",
+      "display_order": 1
+    },
+    {
+      "sentence": "A hymn asks nothing of the singer but sincerity.",
+      "style": "Philosophical",
+      "translation": "赞美诗对歌者别无所求，唯求真诚。",
+      "translated_word": "赞美诗",
+      "display_order": 4
+    },
+    {
+      "sentence": "Voices rose through stained glass light, carrying an ancient hymn toward the rafters.",
+      "style": "Poetic",
+      "translation": "歌声穿透彩窗的光晕，将一首古老的圣歌送向穹顶。",
+      "translated_word": "圣歌",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother hummed a hymn while braiding my hair; I never learned the words, only the melody.",
+      "style": "Intimate",
+      "translation": "祖母为我编发时轻哼着一首赞美诗；我从未学会歌词，只记住了旋律。",
+      "translated_word": "赞美诗",
+      "display_order": 2
+    }
+  ]
+}

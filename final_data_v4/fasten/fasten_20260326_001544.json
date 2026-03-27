@@ -1,0 +1,39 @@
+{
+  "word": "fasten",
+  "phonetic": "/ˈfæsən/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "系紧；扣上；固定",
+  "examples": [
+    {
+      "sentence": "She fastened the necklace and stepped into the evening light.",
+      "style": "Contextual",
+      "translation": "她扣好项链，步入夜色。",
+      "translated_word": "扣好",
+      "display_order": 3
+    },
+    {
+      "sentence": "Please fasten your seatbelt; we may experience turbulence.",
+      "style": "Collocational",
+      "translation": "请系好安全带，可能会有气流颠簸。",
+      "translated_word": "系好",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother's hands, slow but certain, fastened every button on my coat.",
+      "style": "Intimate",
+      "translation": "祖母的手缓慢而笃定，为我系好大衣的每一颗纽扣。",
+      "translated_word": "系好",
+      "display_order": 2
+    },
+    {
+      "sentence": "All safety harnesses must be fastened before the descent begins.",
+      "style": "Formal",
+      "translation": "所有安全带须在下降前系牢。",
+      "translated_word": "系牢",
+      "display_order": 4
+    }
+  ]
+}

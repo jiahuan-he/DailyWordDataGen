@@ -1,0 +1,40 @@
+{
+  "word": "halo",
+  "phonetic": "/ˈheɪloʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "光环；光晕；荣光",
+  "examples": [
+    {
+      "sentence": "The full moon wore a pale halo, a sign of coming rain.",
+      "style": "Contextual",
+      "translation": "满月戴着淡淡的光晕，预示着雨的来临。",
+      "translated_word": "光晕",
+      "display_order": 1
+    },
+    {
+      "sentence": "Morning fog wrapped the streetlights in soft halos.",
+      "style": "Poetic",
+      "translation": "晨雾为路灯披上柔和的光环。",
+      "translated_word": "光环",
+      "display_order": 2
+    },
+    {
+      "sentence": "We see halos where we want to find saints.",
+      "style": "Philosophical",
+      "translation": "我们总在想要找到圣人的地方看见光环。",
+      "translated_word": "光环",
+      "display_order": 3
+    },
+    {
+      "sentence": "The halo effect makes us assume beautiful people are also kind.",
+      "style": "Collocational",
+      "translation": "光环效应让我们默认美丽的人也同样善良。",
+      "translated_word": "光环",
+      "display_order": 4
+    }
+  ]
+}

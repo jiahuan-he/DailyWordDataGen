@@ -1,0 +1,40 @@
+{
+  "word": "quay",
+  "phonetic": "/kiː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "码头；泊岸",
+  "examples": [
+    {
+      "sentence": "Fishing boats lined the quay, their nets drying in the morning sun.",
+      "style": "Contextual",
+      "translation": "渔船沿码头一字排开，渔网在晨光中晾晒。",
+      "translated_word": "码头",
+      "display_order": 1
+    },
+    {
+      "sentence": "Salt wind swept the empty quay as the last ferry vanished into fog.",
+      "style": "Poetic",
+      "translation": "咸涩的海风拂过空旷的码头，末班渡轮消失在迷雾中。",
+      "translated_word": "码头",
+      "display_order": 3
+    },
+    {
+      "sentence": "We sat on that old quay until sunset, saying nothing, needing nothing.",
+      "style": "Intimate",
+      "translation": "我们在那座老码头坐到日落，无言相对，别无所求。",
+      "translated_word": "码头",
+      "display_order": 4
+    },
+    {
+      "sentence": "Street vendors gather along the quay every Sunday at dawn.",
+      "style": "Collocational",
+      "translation": "每逢周日清晨，小贩们便沿着码头聚集。",
+      "translated_word": "码头",
+      "display_order": 2
+    }
+  ]
+}

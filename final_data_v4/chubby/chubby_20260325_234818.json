@@ -1,0 +1,40 @@
+{
+  "word": "chubby",
+  "phonetic": "/ˈtʃʌbi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "圆润的；胖嘟嘟的；丰满的",
+  "examples": [
+    {
+      "sentence": "The baby grabbed my finger with her chubby little hands.",
+      "style": "Contextual",
+      "translation": "宝宝用她胖嘟嘟的小手抓住了我的手指。",
+      "translated_word": "胖嘟嘟",
+      "display_order": 1
+    },
+    {
+      "sentence": "He pinched his nephew's chubby cheeks and laughed.",
+      "style": "Collocational",
+      "translation": "他捏了捏侄子圆润的脸颊，笑了起来。",
+      "translated_word": "圆润",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother called me her chubby dumpling every summer.",
+      "style": "Intimate",
+      "translation": "外婆每个夏天都唤我她的小胖团子。",
+      "translated_word": "胖",
+      "display_order": 3
+    },
+    {
+      "sentence": "Chubby raindrops clung to the window, refusing to fall.",
+      "style": "Poetic",
+      "translation": "圆滚滚的雨珠挂在窗上，迟迟不肯坠落。",
+      "translated_word": "圆滚滚",
+      "display_order": 4
+    }
+  ]
+}

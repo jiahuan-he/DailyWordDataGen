@@ -1,0 +1,40 @@
+{
+  "word": "rake",
+  "phonetic": "/reɪk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "耙子；耙",
+  "examples": [
+    {
+      "sentence": "He leaned the rake against the oak tree and wiped his brow.",
+      "style": "Contextual",
+      "translation": "他把耙子靠在橡树上，擦了擦额头。",
+      "translated_word": "耙子",
+      "display_order": 1
+    },
+    {
+      "sentence": "A good rake makes autumn yard work almost meditative.",
+      "style": "Collocational",
+      "translation": "一把好耙子，能让秋日的庭院劳作变得近乎冥想。",
+      "translated_word": "耙子",
+      "display_order": 3
+    },
+    {
+      "sentence": "The rake stood idle, its teeth combing only shadows now.",
+      "style": "Poetic",
+      "translation": "耙子闲置一旁，齿间如今只梳理着影子。",
+      "translated_word": "耙子",
+      "display_order": 4
+    },
+    {
+      "sentence": "That old wooden rake belonged to my father; its handle still fits my palm perfectly.",
+      "style": "Intimate",
+      "translation": "那把旧木耙是父亲留下的，握柄至今仍与我的手掌严丝合缝。",
+      "translated_word": "木耙",
+      "display_order": 2
+    }
+  ]
+}

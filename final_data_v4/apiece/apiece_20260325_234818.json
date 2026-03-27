@@ -1,0 +1,39 @@
+{
+  "word": "apiece",
+  "phonetic": "/əˈpiːs/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "每人；各；每个",
+  "examples": [
+    {
+      "sentence": "The vintage stamps were only fifty cents apiece.",
+      "style": "Contextual",
+      "translation": "那些老邮票每张只要五十美分。",
+      "translated_word": "每张",
+      "display_order": 2
+    },
+    {
+      "sentence": "Both teams scored twice apiece before the final whistle.",
+      "style": "Formal",
+      "translation": "终场哨响前，两队各进两球。",
+      "translated_word": "各",
+      "display_order": 4
+    },
+    {
+      "sentence": "Fresh oysters go for four dollars apiece here.",
+      "style": "Collocational",
+      "translation": "这里的新鲜生蚝四美元一只。",
+      "translated_word": "一只",
+      "display_order": 1
+    },
+    {
+      "sentence": "She handed us each a coin, one apiece, to toss into the fountain.",
+      "style": "Intimate",
+      "translation": "她给我们一人一枚硬币，让我们投进喷泉许愿。",
+      "translated_word": "一人",
+      "display_order": 3
+    }
+  ]
+}

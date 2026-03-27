@@ -1,0 +1,37 @@
+{
+  "word": "retrievable",
+  "phonetic": "/rɪˈtriːvəbl/",
+  "pos": [],
+  "selected_pos": "adjective",
+  "definition": "可检索的；可找回的；可恢复的",
+  "examples": [
+    {
+      "sentence": "The deleted photos were still retrievable from the cloud backup.",
+      "style": "Contextual",
+      "translation": "删除的照片仍可从云备份中找回。",
+      "translated_word": "找回",
+      "display_order": 1
+    },
+    {
+      "sentence": "All archived records remain retrievable for up to seven years.",
+      "style": "Formal",
+      "translation": "所有存档记录在七年内均可检索。",
+      "translated_word": "检索",
+      "display_order": 3
+    },
+    {
+      "sentence": "Keep your passwords retrievable but secure.",
+      "style": "Collocational",
+      "translation": "让密码既能找回，又足够安全。",
+      "translated_word": "找回",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some lessons are only retrievable after we stop searching for them.",
+      "style": "Philosophical",
+      "translation": "有些领悟，唯有在我们不再追寻时才能重新拾得。",
+      "translated_word": "拾得",
+      "display_order": 4
+    }
+  ]
+}

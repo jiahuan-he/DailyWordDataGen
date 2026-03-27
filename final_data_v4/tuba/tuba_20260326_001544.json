@@ -1,0 +1,39 @@
+{
+  "word": "tuba",
+  "phonetic": "/ˈtuːbə/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "大号；低音号",
+  "examples": [
+    {
+      "sentence": "The deep rumble from the back of the orchestra belonged to the tuba.",
+      "style": "Contextual",
+      "translation": "乐团后方传来的低沉轰鸣，来自那把大号。",
+      "translated_word": "大号",
+      "display_order": 2
+    },
+    {
+      "sentence": "She plays the tuba in the school marching band every autumn.",
+      "style": "Collocational",
+      "translation": "每年秋天，她都在校园行进乐队里演奏大号。",
+      "translated_word": "大号",
+      "display_order": 1
+    },
+    {
+      "sentence": "My father's tuba still rests in the attic, untouched since his final concert.",
+      "style": "Intimate",
+      "translation": "父亲的大号依旧静置阁楼，自他最后一场演出后再未被触碰。",
+      "translated_word": "大号",
+      "display_order": 3
+    },
+    {
+      "sentence": "The tuba exhaled a note so low it seemed to rise from the earth itself.",
+      "style": "Poetic",
+      "translation": "大号吐出的音符低沉至极，仿佛自大地深处升起。",
+      "translated_word": "大号",
+      "display_order": 4
+    }
+  ]
+}

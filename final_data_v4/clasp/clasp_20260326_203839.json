@@ -1,0 +1,40 @@
+{
+  "word": "clasp",
+  "phonetic": "/klæsp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "紧握；紧抱；扣住",
+  "examples": [
+    {
+      "sentence": "She clasped the letter to her chest, unwilling to share its words.",
+      "style": "Contextual",
+      "translation": "她将信紧紧贴在胸口，不愿与人分享其中的话语。",
+      "translated_word": "贴",
+      "display_order": 3
+    },
+    {
+      "sentence": "The children clasped hands before crossing the street.",
+      "style": "Collocational",
+      "translation": "孩子们手牵手，准备穿过街道。",
+      "translated_word": "牵",
+      "display_order": 1
+    },
+    {
+      "sentence": "Fog clasped the harbor at dawn, softening every edge.",
+      "style": "Poetic",
+      "translation": "晨雾拥抱着港湾，柔化了每一道轮廓。",
+      "translated_word": "拥抱",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother clasped my hands and searched my face for someone she once knew.",
+      "style": "Intimate",
+      "translation": "祖母握住我的手，在我脸上寻找某个她曾熟悉的人。",
+      "translated_word": "握住",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "unjustly",
+  "phonetic": "/ʌnˈdʒʌstli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "不公正地；冤枉地；不合理地",
+  "examples": [
+    {
+      "sentence": "He was unjustly fired after twenty years of loyal service.",
+      "style": "Contextual",
+      "translation": "他忠诚服务二十年，却被无端解雇。",
+      "translated_word": "无端",
+      "display_order": 1
+    },
+    {
+      "sentence": "The journalist was unjustly imprisoned for exposing corruption.",
+      "style": "Formal",
+      "translation": "这位记者因揭露腐败而蒙冤入狱。",
+      "translated_word": "蒙冤",
+      "display_order": 2
+    },
+    {
+      "sentence": "Those who judge unjustly reveal more about themselves than their victims.",
+      "style": "Philosophical",
+      "translation": "不公的审判者，暴露的是自己，而非受害者。",
+      "translated_word": "不公",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother was unjustly blamed; she carried that silence to her grave.",
+      "style": "Intimate",
+      "translation": "祖母蒙受不白之冤，至死缄默。",
+      "translated_word": "不白",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "eddy",
+  "phonetic": "/ˈedi/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "漩涡；涡流",
+  "examples": [
+    {
+      "sentence": "Leaves gathered in the eddy, spinning slowly before drifting on.",
+      "style": "Contextual",
+      "translation": "落叶聚于漩涡，缓缓旋转，而后随波而去。",
+      "translated_word": "漩涡",
+      "display_order": 1
+    },
+    {
+      "sentence": "The eddy held the petal in its quiet turning.",
+      "style": "Poetic",
+      "translation": "漩涡以静默的旋转，将花瓣轻轻挽留。",
+      "translated_word": "漩涡",
+      "display_order": 2
+    },
+    {
+      "sentence": "Grief has its eddies; we circle back before we move forward.",
+      "style": "Philosophical",
+      "translation": "悲伤亦有涡流；我们总要回旋，才能向前。",
+      "translated_word": "涡流",
+      "display_order": 3
+    },
+    {
+      "sentence": "A cold eddy of air swept through the open doorway.",
+      "style": "Collocational",
+      "translation": "一股冷涡流穿过敞开的门廊。",
+      "translated_word": "涡流",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "squint",
+  "phonetic": "/skwɪnt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "眯眼；斜视；眯着看",
+  "examples": [
+    {
+      "sentence": "She squinted at the distant sign, trying to read the gate number.",
+      "style": "Contextual",
+      "translation": "她眯眼望向远处的指示牌，努力辨认登机口号码。",
+      "translated_word": "眯眼",
+      "display_order": 2
+    },
+    {
+      "sentence": "He squinted into the sunset until the light dissolved into pure warmth.",
+      "style": "Poetic",
+      "translation": "他眯眼凝视落日，直到光芒化作一片纯粹的暖意。",
+      "translated_word": "眯眼",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother squinted at her sewing needle, threading it with steady hands.",
+      "style": "Intimate",
+      "translation": "祖母眯着眼穿针，双手依然稳健如初。",
+      "translated_word": "眯着眼",
+      "display_order": 1
+    },
+    {
+      "sentence": "After squinting at spreadsheets all day, he finally admitted he needed glasses.",
+      "style": "Collocational",
+      "translation": "盯着表格看了一整天后，他终于承认自己需要配副眼镜了。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

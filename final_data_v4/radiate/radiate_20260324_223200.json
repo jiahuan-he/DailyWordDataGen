@@ -1,0 +1,41 @@
+{
+  "word": "radiate",
+  "phonetic": "/ˈreɪdieɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "散发；辐射；流露；放射",
+  "examples": [
+    {
+      "sentence": "Her smile radiated warmth across the crowded room.",
+      "style": "Contextual",
+      "translation": "她的微笑将温暖洒遍了拥挤的房间。",
+      "translated_word": "洒遍",
+      "display_order": 2
+    },
+    {
+      "sentence": "Morning light radiates through the curtains, gilding the dust motes in its path.",
+      "style": "Poetic",
+      "translation": "晨光穿透窗帘，将途经的微尘镀上金色。",
+      "translated_word": "穿透",
+      "display_order": 3
+    },
+    {
+      "sentence": "True confidence doesn't demand attention; it simply radiates.",
+      "style": "Inspirational",
+      "translation": "真正的自信无需刻意引人注目；它自然流露。",
+      "translated_word": "流露",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's kitchen radiated a warmth no heater could replicate.",
+      "style": "Intimate",
+      "translation": "祖母的厨房散发着一种暖气永远无法复制的温馨。",
+      "translated_word": "散发",
+      "display_order": 1
+    }
+  ]
+}

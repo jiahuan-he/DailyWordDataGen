@@ -1,0 +1,40 @@
+{
+  "word": "plow",
+  "phonetic": "/plaʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "犁；耕作；奋力前进；投入",
+  "examples": [
+    {
+      "sentence": "The farmer plowed the field before the first frost arrived.",
+      "style": "Contextual",
+      "translation": "农夫赶在初霜降临前犁完了田地。",
+      "translated_word": "犁",
+      "display_order": 1
+    },
+    {
+      "sentence": "She plowed through three hundred pages in a single night.",
+      "style": "Collocational",
+      "translation": "她一夜之间读完了三百页。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "Spring begins where the blade plows open the sleeping earth.",
+      "style": "Poetic",
+      "translation": "犁铧划开沉睡的土地，春天便从那里开始。",
+      "translated_word": "划开",
+      "display_order": 2
+    },
+    {
+      "sentence": "Plow forward; resistance is how the ground prepares to receive seed.",
+      "style": "Inspirational",
+      "translation": "向前耕耘吧；阻力，是土地迎接种子的方式。",
+      "translated_word": "耕耘",
+      "display_order": 4
+    }
+  ]
+}

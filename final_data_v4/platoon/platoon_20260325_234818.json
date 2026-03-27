@@ -1,0 +1,40 @@
+{
+  "word": "platoon",
+  "phonetic": "/pləˈtuːn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "排；小队；一群",
+  "examples": [
+    {
+      "sentence": "The platoon advanced through the forest at dawn.",
+      "style": "Contextual",
+      "translation": "这支排在黎明时分穿过森林推进。",
+      "translated_word": "排",
+      "display_order": 1
+    },
+    {
+      "sentence": "A platoon of peacekeepers was deployed to the border region.",
+      "style": "Formal",
+      "translation": "一支维和小队被派往边境地区。",
+      "translated_word": "小队",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather rarely spoke of his platoon, but he kept their photograph by his bed until the end.",
+      "style": "Intimate",
+      "translation": "祖父很少提起他的排，但那张合影一直摆在床头，直到他离世。",
+      "translated_word": "排",
+      "display_order": 2
+    },
+    {
+      "sentence": "A platoon shares more than orders; they share silence, fear, and the quiet relief of another sunrise.",
+      "style": "Philosophical",
+      "translation": "一个排共享的不只是命令，还有沉默、恐惧，以及又一次日出时无声的庆幸。",
+      "translated_word": "排",
+      "display_order": 3
+    }
+  ]
+}

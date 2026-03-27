@@ -1,0 +1,39 @@
+{
+  "word": "billiards",
+  "phonetic": "/ˈbɪljərdz/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "台球；撞球；弹子球",
+  "examples": [
+    {
+      "sentence": "The game room featured a billiards table, leather chairs, and soft jazz.",
+      "style": "Contextual",
+      "translation": "游戏室里摆着一张台球桌、几把皮椅，爵士乐轻轻流淌。",
+      "translated_word": "台球",
+      "display_order": 2
+    },
+    {
+      "sentence": "We played billiards until the bar closed.",
+      "style": "Collocational",
+      "translation": "我们打台球直到酒吧打烊。",
+      "translated_word": "台球",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandfather taught me billiards; each game was a lesson in patience.",
+      "style": "Intimate",
+      "translation": "祖父教我打台球；每一局都是一堂耐心课。",
+      "translated_word": "台球",
+      "display_order": 3
+    },
+    {
+      "sentence": "Colored balls rest on green felt; the soft click of billiards fills the room.",
+      "style": "Poetic",
+      "translation": "彩球静卧于绿绒之上，台球轻触的脆响盈满房间。",
+      "translated_word": "台球",
+      "display_order": 4
+    }
+  ]
+}

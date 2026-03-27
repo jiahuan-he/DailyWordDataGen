@@ -1,0 +1,40 @@
+{
+  "word": "rummage",
+  "phonetic": "/ˈrʌmɪdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "翻找；搜寻；翻腾",
+  "examples": [
+    {
+      "sentence": "She rummaged through the closet for her winter coat.",
+      "style": "Contextual",
+      "translation": "她在衣柜里翻找着冬天的外套。",
+      "translated_word": "翻找",
+      "display_order": 1
+    },
+    {
+      "sentence": "He rummaged through his bag, pulling out crumpled receipts and forgotten snacks.",
+      "style": "Collocational",
+      "translation": "他在包里翻找，掏出皱巴巴的收据和被遗忘的零食。",
+      "translated_word": "翻找",
+      "display_order": 2
+    },
+    {
+      "sentence": "Moving day: rummaging through old boxes, I found letters from a version of myself I had forgotten.",
+      "style": "Intimate",
+      "translation": "搬家那天翻找旧箱子，我发现了一个被遗忘的自己写下的信。",
+      "translated_word": "翻找",
+      "display_order": 3
+    },
+    {
+      "sentence": "We rummage through the past, searching for the moment everything changed.",
+      "style": "Philosophical",
+      "translation": "我们在往事中翻找，寻找一切改变的那个瞬间。",
+      "translated_word": "翻找",
+      "display_order": 4
+    }
+  ]
+}

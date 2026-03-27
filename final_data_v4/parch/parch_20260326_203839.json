@@ -1,0 +1,40 @@
+{
+  "word": "parch",
+  "phonetic": "/pɑːrtʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "烤干；使干裂；使焦渴",
+  "examples": [
+    {
+      "sentence": "Three rainless days parched the garden beyond saving.",
+      "style": "Contextual",
+      "translation": "三天无雨，花园已干枯难救。",
+      "translated_word": "干枯",
+      "display_order": 3
+    },
+    {
+      "sentence": "Noon parched the riverbed into a lattice of cracks.",
+      "style": "Poetic",
+      "translation": "正午把河床烤成龟裂的图腾。",
+      "translated_word": "烤",
+      "display_order": 4
+    },
+    {
+      "sentence": "Desert wind parched our lips within minutes.",
+      "style": "Collocational",
+      "translation": "沙漠之风转瞬便烤裂了嘴唇。",
+      "translated_word": "烤裂",
+      "display_order": 1
+    },
+    {
+      "sentence": "The fever parched my throat; I dreamed only of water.",
+      "style": "Intimate",
+      "translation": "高烧灼干了喉咙，梦里只剩水声。",
+      "translated_word": "灼干",
+      "display_order": 2
+    }
+  ]
+}

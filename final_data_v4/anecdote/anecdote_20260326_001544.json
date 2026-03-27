@@ -1,0 +1,40 @@
+{
+  "word": "anecdote",
+  "phonetic": "/ˈæn.ɪk.doʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "趣闻；轶事；小故事",
+  "examples": [
+    {
+      "sentence": "Her speech felt distant until she shared an anecdote about her grandmother's kitchen.",
+      "style": "Contextual",
+      "translation": "她的演讲原本疏远，直到她讲起祖母厨房里的往事。",
+      "translated_word": "往事",
+      "display_order": 3
+    },
+    {
+      "sentence": "A well-placed anecdote can turn a dull presentation into something memorable.",
+      "style": "Collocational",
+      "translation": "一个恰到好处的小故事，能让平淡的演讲变得难忘。",
+      "translated_word": "小故事",
+      "display_order": 1
+    },
+    {
+      "sentence": "We collect anecdotes the way others collect photographs: proof that we lived.",
+      "style": "Philosophical",
+      "translation": "我们收集轶事，如同他人收集照片：证明我们活过。",
+      "translated_word": "轶事",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father's anecdotes always began the same way: 'Back when I was your age...'",
+      "style": "Intimate",
+      "translation": "父亲的故事总是这样开头：'在我像你这么大的时候……'",
+      "translated_word": "故事",
+      "display_order": 2
+    }
+  ]
+}

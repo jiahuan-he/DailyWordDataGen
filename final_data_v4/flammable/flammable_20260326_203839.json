@@ -1,0 +1,40 @@
+{
+  "word": "flammable",
+  "phonetic": "/ˈflæməbl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "易燃的；可燃的",
+  "examples": [
+    {
+      "sentence": "Keep the candles away from the curtains; the fabric is flammable.",
+      "style": "Contextual",
+      "translation": "把蜡烛挪远些，窗帘布料易燃。",
+      "translated_word": "易燃",
+      "display_order": 1
+    },
+    {
+      "sentence": "Investigators confirmed that flammable chemicals were improperly stored in the warehouse.",
+      "style": "Formal",
+      "translation": "调查人员证实，仓库内的易燃化学品存放不当。",
+      "translated_word": "易燃",
+      "display_order": 3
+    },
+    {
+      "sentence": "All flammable materials must be kept in a ventilated area.",
+      "style": "Collocational",
+      "translation": "所有易燃物品须存放于通风处。",
+      "translated_word": "易燃",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some silences are flammable: one wrong word, and everything ignites.",
+      "style": "Philosophical",
+      "translation": "有些沉默是易燃的：一句话说错，便满盘皆火。",
+      "translated_word": "易燃的",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "cleft",
+  "phonetic": "/kleft/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "裂缝；裂口；缝隙",
+  "examples": [
+    {
+      "sentence": "Wildflowers bloomed in the cleft of the ancient boulder.",
+      "style": "Contextual",
+      "translation": "野花在古老巨石的裂隙中绽放。",
+      "translated_word": "裂隙",
+      "display_order": 1
+    },
+    {
+      "sentence": "Light spilled through the cleft, gilding the cavern floor.",
+      "style": "Poetic",
+      "translation": "光线从裂缝倾泻而下，为洞穴的地面镀上一层金色。",
+      "translated_word": "裂缝",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every cleft in stone was once a whisper of pressure and time.",
+      "style": "Philosophical",
+      "translation": "岩石中的每一道裂痕，都曾是压力与时间的低语。",
+      "translated_word": "裂痕",
+      "display_order": 4
+    },
+    {
+      "sentence": "The hikers rested in a shaded cleft between the ridges.",
+      "style": "Collocational",
+      "translation": "徒步者在山脊间阴凉的裂谷中歇息。",
+      "translated_word": "裂谷",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "slant",
+  "phonetic": "/slænt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "倾斜；角度；观点；偏向",
+  "examples": [
+    {
+      "sentence": "The roof's slant lets rainwater drain into the garden below.",
+      "style": "Contextual",
+      "translation": "屋顶的倾斜让雨水流入下方的花园。",
+      "translated_word": "倾斜",
+      "display_order": 1
+    },
+    {
+      "sentence": "Critics noted the article's unmistakable political slant.",
+      "style": "Formal",
+      "translation": "评论家指出这篇文章带有明显的政治倾向。",
+      "translated_word": "倾向",
+      "display_order": 3
+    },
+    {
+      "sentence": "She put a fresh slant on the classic fairy tale.",
+      "style": "Collocational",
+      "translation": "她为这个经典童话注入了全新的视角。",
+      "translated_word": "视角",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every map has a slant; even borders are someone's interpretation.",
+      "style": "Philosophical",
+      "translation": "每张地图都有其立场；即便是边界，也不过是某人的诠释。",
+      "translated_word": "立场",
+      "display_order": 4
+    }
+  ]
+}

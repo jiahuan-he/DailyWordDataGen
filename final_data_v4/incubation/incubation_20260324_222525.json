@@ -1,0 +1,39 @@
+{
+  "word": "incubation",
+  "phonetic": "/ˌɪnkjuˈbeɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "孵化；潜伏期；酝酿",
+  "examples": [
+    {
+      "sentence": "The startup spent two years in incubation before launching its first product.",
+      "style": "Contextual",
+      "translation": "这家初创公司经历了两年的孵化期，才推出首款产品。",
+      "translated_word": "孵化期",
+      "display_order": 2
+    },
+    {
+      "sentence": "The virus has a fourteen-day incubation period, during which carriers remain asymptomatic.",
+      "style": "Formal",
+      "translation": "该病毒潜伏期为十四天，期间携带者无任何症状。",
+      "translated_word": "潜伏期",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every breakthrough begins in incubation: silent, unseen, trusting time.",
+      "style": "Philosophical",
+      "translation": "每一次突破都始于酝酿：静默无声，不为人见，唯信时间。",
+      "translated_word": "酝酿",
+      "display_order": 3
+    },
+    {
+      "sentence": "In the long incubation of winter, spring quietly gathers its colors.",
+      "style": "Poetic",
+      "translation": "在漫长的冬日孕育中，春天悄然积蓄它的颜色。",
+      "translated_word": "孕育",
+      "display_order": 4
+    }
+  ]
+}

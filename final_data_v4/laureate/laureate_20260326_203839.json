@@ -1,0 +1,41 @@
+{
+  "word": "laureate",
+  "phonetic": "/ˈlɔːriət/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "获奖者；荣誉得主；桂冠诗人",
+  "examples": [
+    {
+      "sentence": "The Nobel laureate delivered her acceptance speech in three languages.",
+      "style": "Formal",
+      "translation": "这位诺贝尔奖得主用三种语言发表了获奖感言。",
+      "translated_word": "得主",
+      "display_order": 1
+    },
+    {
+      "sentence": "As a Pulitzer laureate, her essays reshaped how we discuss climate.",
+      "style": "Contextual",
+      "translation": "作为普利策奖得主，她的文章重塑了我们讨论气候的方式。",
+      "translated_word": "得主",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every laureate was once an unknown voice, speaking anyway.",
+      "style": "Inspirational",
+      "translation": "每位桂冠得主都曾是无名之声，却依然执意发言。",
+      "translated_word": "桂冠得主",
+      "display_order": 4
+    },
+    {
+      "sentence": "The laureate confessed that curiosity, not ambition, had carried him here.",
+      "style": "Philosophical",
+      "translation": "这位荣誉得主坦言，带他走到这里的是好奇心，而非野心。",
+      "translated_word": "得主",
+      "display_order": 2
+    }
+  ]
+}

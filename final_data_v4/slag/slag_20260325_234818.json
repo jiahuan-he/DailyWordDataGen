@@ -1,0 +1,40 @@
+{
+  "word": "slag",
+  "phonetic": "/slæɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "�ite渣；炉渣；废渣",
+  "examples": [
+    {
+      "sentence": "The furnace separated pure iron from the slag.",
+      "style": "Contextual",
+      "translation": "熔炉将纯铁与矿渣分离开来。",
+      "translated_word": "矿渣",
+      "display_order": 1
+    },
+    {
+      "sentence": "Environmental agencies now mandate proper disposal of industrial slag.",
+      "style": "Formal",
+      "translation": "环保机构现已强制要求妥善处理工业废渣。",
+      "translated_word": "废渣",
+      "display_order": 3
+    },
+    {
+      "sentence": "The old slag heap outside town has become an unofficial hiking trail.",
+      "style": "Collocational",
+      "translation": "城外那座旧矿渣堆，如今已成为人们常去的远足小径。",
+      "translated_word": "矿渣",
+      "display_order": 2
+    },
+    {
+      "sentence": "What smelters discard as slag, cement makers prize as ingredient.",
+      "style": "Contrastive",
+      "translation": "冶炼厂弃如敝履的废渣，却是水泥厂眼中的珍贵原料。",
+      "translated_word": "废渣",
+      "display_order": 4
+    }
+  ]
+}

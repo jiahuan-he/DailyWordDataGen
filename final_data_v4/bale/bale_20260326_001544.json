@@ -1,0 +1,40 @@
+{
+  "word": "bale",
+  "phonetic": "/beɪl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "大捆；包",
+  "examples": [
+    {
+      "sentence": "The farmer stacked each bale before the storm.",
+      "style": "Contextual",
+      "translation": "农夫在暴风雨来临前将每一捆干草码好。",
+      "translated_word": "捆干草",
+      "display_order": 2
+    },
+    {
+      "sentence": "A bale of hay can feed a horse for weeks.",
+      "style": "Collocational",
+      "translation": "一捆干草够一匹马吃上好几周。",
+      "translated_word": "捆干草",
+      "display_order": 1
+    },
+    {
+      "sentence": "Golden bales rested across the autumn field, catching the last light.",
+      "style": "Poetic",
+      "translation": "金色的草捆散落在秋日田野，承接着最后一缕暮光。",
+      "translated_word": "草捆",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather's hands grew rough from lifting bales every harvest.",
+      "style": "Intimate",
+      "translation": "祖父的双手因年年搬运草捆而变得粗糙。",
+      "translated_word": "草捆",
+      "display_order": 3
+    }
+  ]
+}

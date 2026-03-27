@@ -1,0 +1,39 @@
+{
+  "word": "florist",
+  "phonetic": "/ˈflɔːrɪst/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "花商；花店老板；花艺师",
+  "examples": [
+    {
+      "sentence": "The florist wrapped the roses in brown paper and tied them with twine.",
+      "style": "Contextual",
+      "translation": "花店老板用牛皮纸包好玫瑰，再系上麻绳。",
+      "translated_word": "花店老板",
+      "display_order": 1
+    },
+    {
+      "sentence": "She stopped by the local florist to pick up a bouquet for her mother.",
+      "style": "Collocational",
+      "translation": "她顺路去了街角的花店，给母亲买一束花。",
+      "translated_word": "花店",
+      "display_order": 2
+    },
+    {
+      "sentence": "The florist on Elm Street knew my grandmother by name; now he knows mine.",
+      "style": "Intimate",
+      "translation": "榆树街的花商曾叫得出祖母的名字；如今，他也记住了我的。",
+      "translated_word": "花商",
+      "display_order": 3
+    },
+    {
+      "sentence": "A florist lives among petals, trading in brief, fragrant miracles.",
+      "style": "Poetic",
+      "translation": "花艺师栖身于花瓣之间，以短暂的芬芳奇迹为业。",
+      "translated_word": "花艺师",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "perch",
+  "phonetic": "/pɜːrtʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "栖息；停歇；坐落",
+  "examples": [
+    {
+      "sentence": "A sparrow perched on the fence, tilting its head at me.",
+      "style": "Contextual",
+      "translation": "一只麻雀栖在篱笆上，歪着头看我。",
+      "translated_word": "栖",
+      "display_order": 1
+    },
+    {
+      "sentence": "Lanterns perch along the canal, painting the water gold.",
+      "style": "Poetic",
+      "translation": "灯笼沿着运河一盏盏停驻，将河水染成金色。",
+      "translated_word": "停驻",
+      "display_order": 4
+    },
+    {
+      "sentence": "She perched on the edge of her seat, waiting for the verdict.",
+      "style": "Collocational",
+      "translation": "她坐在椅子边缘，屏息等待判决。",
+      "translated_word": "坐在",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather always perched by the kitchen window with his morning paper.",
+      "style": "Intimate",
+      "translation": "祖父总是倚在厨房窗边，手捧晨报。",
+      "translated_word": "倚在",
+      "display_order": 2
+    }
+  ]
+}

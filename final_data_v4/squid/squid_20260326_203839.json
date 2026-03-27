@@ -1,0 +1,40 @@
+{
+  "word": "squid",
+  "phonetic": "/skwɪd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "鱿鱼；乌贼",
+  "examples": [
+    {
+      "sentence": "The fisherman's net surfaced heavy with squid and silver mackerel.",
+      "style": "Contextual",
+      "translation": "渔夫的网浮出水面，满载着鱿鱼和银亮的�的鲭鱼。",
+      "translated_word": "鱿鱼",
+      "display_order": 4
+    },
+    {
+      "sentence": "Grilled squid with lemon is a staple at every seaside market.",
+      "style": "Collocational",
+      "translation": "柠檬烤鱿鱼是海滨市场的必备美食。",
+      "translated_word": "鱿鱼",
+      "display_order": 1
+    },
+    {
+      "sentence": "Beneath the fishing boat's lantern, squid rose from the dark like pale ghosts.",
+      "style": "Poetic",
+      "translation": "渔船灯火下，鱿鱼自深海浮起，宛若苍白的幽灵。",
+      "translated_word": "鱿鱼",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother always saved the squid tentacles for me; she knew they were my favorite.",
+      "style": "Intimate",
+      "translation": "外婆总把鱿鱼须留给我；她知道那是我的最爱。",
+      "translated_word": "鱿鱼",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "appetizing",
+  "phonetic": "/ˈæpɪtaɪzɪŋ/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "开胃的；诱人的；令人垂涎的",
+  "examples": [
+    {
+      "sentence": "Fresh basil and melted mozzarella made the bruschetta instantly appetizing.",
+      "style": "Contextual",
+      "translation": "新鲜罗勒配上融化的马苏里拉，让这道意式烤面包片顿时令人食指大动。",
+      "translated_word": "食指大动",
+      "display_order": 3
+    },
+    {
+      "sentence": "An appetizing aroma drifted from the open kitchen.",
+      "style": "Collocational",
+      "translation": "一阵诱人的香气从开放式厨房飘来。",
+      "translated_word": "诱人",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sunday mornings at my grandmother's house always smelled appetizing.",
+      "style": "Intimate",
+      "translation": "外婆家的周日清晨，总弥漫着勾人食欲的气息。",
+      "translated_word": "勾人食欲",
+      "display_order": 2
+    },
+    {
+      "sentence": "The dish's presentation proved as appetizing as the chef's reputation.",
+      "style": "Formal",
+      "translation": "这道菜的摆盘与主厨的盛名一样，令人垂涎。",
+      "translated_word": "垂涎",
+      "display_order": 4
+    }
+  ]
+}

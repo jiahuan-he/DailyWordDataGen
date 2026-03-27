@@ -1,0 +1,40 @@
+{
+  "word": "hiss",
+  "phonetic": "/hɪs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "嘶嘶作响；发出嘘声；低声斥责",
+  "examples": [
+    {
+      "sentence": "The radiator began to hiss as heat filled the room.",
+      "style": "Contextual",
+      "translation": "暖气片开始嘶嘶作响，热意渐渐充盈了房间。",
+      "translated_word": "嘶嘶作响",
+      "display_order": 2
+    },
+    {
+      "sentence": "Steam hissed from the kettle, curling into morning light.",
+      "style": "Poetic",
+      "translation": "水壶腾起白汽，在晨光中袅袅升散。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "The cat arched its back and hissed at the stranger.",
+      "style": "Collocational",
+      "translation": "猫弓起后背，对着陌生人发出嘶嘶的警告声。",
+      "translated_word": "嘶嘶",
+      "display_order": 1
+    },
+    {
+      "sentence": "She hissed my name across the quiet library, and I turned.",
+      "style": "Intimate",
+      "translation": "她在安静的图书馆里压低声音唤我的名字，我转过头去。",
+      "translated_word": "压低声音",
+      "display_order": 3
+    }
+  ]
+}

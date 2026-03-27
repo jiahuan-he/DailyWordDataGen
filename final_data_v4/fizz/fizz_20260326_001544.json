@@ -1,0 +1,40 @@
+{
+  "word": "fizz",
+  "phonetic": "/fɪz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "嘶嘶声；气泡；活力",
+  "examples": [
+    {
+      "sentence": "The soda sat open too long; all the fizz was gone.",
+      "style": "Contextual",
+      "translation": "汽水敞开太久，气泡早已消散。",
+      "translated_word": "气泡",
+      "display_order": 1
+    },
+    {
+      "sentence": "Champagne fizz rose in golden spirals, catching the light.",
+      "style": "Poetic",
+      "translation": "香槟的气泡盘旋而上，在光影中泛着金色。",
+      "translated_word": "气泡",
+      "display_order": 3
+    },
+    {
+      "sentence": "Their relationship had lost its fizz after years of routine.",
+      "style": "Collocational",
+      "translation": "多年如一日的生活，让他们的感情失去了当初的活力。",
+      "translated_word": "活力",
+      "display_order": 4
+    },
+    {
+      "sentence": "Summer meant lemonade with extra fizz on my grandmother's porch.",
+      "style": "Intimate",
+      "translation": "夏日的记忆，是外婆门廊上那杯气泡满溢的柠檬水。",
+      "translated_word": "气泡",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "amino",
+  "phonetic": "/əˈmiːnoʊ/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "氨基的；含氨基的",
+  "examples": [
+    {
+      "sentence": "The body cannot produce all essential amino acids on its own.",
+      "style": "Contextual",
+      "translation": "人体无法自行合成所有必需氨基酸。",
+      "translated_word": "氨基",
+      "display_order": 1
+    },
+    {
+      "sentence": "Scientists identified a novel amino compound that may slow cellular aging.",
+      "style": "Formal",
+      "translation": "科学家发现了一种新型氨基化合物，或可延缓细胞衰老。",
+      "translated_word": "氨基",
+      "display_order": 3
+    },
+    {
+      "sentence": "Eggs remain one of the richest sources of amino nutrients.",
+      "style": "Collocational",
+      "translation": "鸡蛋仍是氨基营养素最丰富的来源之一。",
+      "translated_word": "氨基",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every protein in your body is a story written in amino letters.",
+      "style": "Philosophical",
+      "translation": "你体内的每一种蛋白质，都是用氨基字母书写的故事。",
+      "translated_word": "氨基",
+      "display_order": 4
+    }
+  ]
+}

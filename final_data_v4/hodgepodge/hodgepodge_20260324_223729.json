@@ -1,0 +1,40 @@
+{
+  "word": "hodgepodge",
+  "phonetic": "/ˈhɑːdʒpɑːdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "大杂烩；混杂物；杂乱的混合",
+  "examples": [
+    {
+      "sentence": "Her bookshelf was a hodgepodge of romance novels, philosophy texts, and old cookbooks.",
+      "style": "Contextual",
+      "translation": "她的书架上杂乱地堆放着言情小说、哲学书籍和旧食谱。",
+      "translated_word": "杂乱",
+      "display_order": 2
+    },
+    {
+      "sentence": "The city's architecture is a charming hodgepodge of colonial and modern styles.",
+      "style": "Collocational",
+      "translation": "这座城市的建筑是殖民风格与现代风格的迷人混搭。",
+      "translated_word": "混搭",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother's kitchen drawer: a hodgepodge of buttons, receipts, and forgotten keys.",
+      "style": "Intimate",
+      "translation": "外婆的厨房抽屉里，塞满了纽扣、收据和被遗忘的钥匙。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Every family is a hodgepodge of contradictions held together by love.",
+      "style": "Philosophical",
+      "translation": "每个家庭都是一堆矛盾的集合，靠爱维系在一起。",
+      "translated_word": "集合",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "cavalry",
+  "phonetic": "/ˈkævəlri/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "骑兵；装甲部队；救援力量",
+  "examples": [
+    {
+      "sentence": "The general ordered the cavalry to flank the enemy from the west.",
+      "style": "Contextual",
+      "translation": "将军命令骑兵从西侧包抄敌军。",
+      "translated_word": "骑兵",
+      "display_order": 1
+    },
+    {
+      "sentence": "Modern cavalry units rely on armored vehicles rather than horses.",
+      "style": "Formal",
+      "translation": "现代骑兵部队依靠装甲车辆而非战马。",
+      "translated_word": "骑兵",
+      "display_order": 2
+    },
+    {
+      "sentence": "When the project collapsed, she called in the cavalry: her most trusted colleagues.",
+      "style": "Collocational",
+      "translation": "项目崩盘时，她搬来了救兵：几位最信赖的同事。",
+      "translated_word": "救兵",
+      "display_order": 4
+    },
+    {
+      "sentence": "A hundred horses broke through the morning mist; the cavalry had arrived.",
+      "style": "Poetic",
+      "translation": "百骑破雾而出，援军已至。",
+      "translated_word": "援军",
+      "display_order": 3
+    }
+  ]
+}

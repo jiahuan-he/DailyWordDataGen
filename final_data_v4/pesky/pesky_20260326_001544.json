@@ -1,0 +1,39 @@
+{
+  "word": "pesky",
+  "phonetic": "/ˈpeski/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "烦人的；讨厌的；恼人的",
+  "examples": [
+    {
+      "sentence": "That pesky squirrel raids the bird feeder every morning.",
+      "style": "Contextual",
+      "translation": "那只讨厌的松鼠每天早晨都来洗劫喂鸟器。",
+      "translated_word": "讨厌的",
+      "display_order": 2
+    },
+    {
+      "sentence": "Pesky mosquitoes circled the campfire until dawn.",
+      "style": "Collocational",
+      "translation": "烦人的蚊子绕着篝火盘旋到天亮。",
+      "translated_word": "烦人的",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every spring, the same pesky leak reappears above my window.",
+      "style": "Intimate",
+      "translation": "每年春天，同一处恼人的渗漏总会在窗上重现。",
+      "translated_word": "恼人的",
+      "display_order": 3
+    },
+    {
+      "sentence": "A pesky thought circled her mind, refusing to land or leave.",
+      "style": "Poetic",
+      "translation": "一个挥之不去的念头在她脑中盘旋，不愿落定，也不愿离去。",
+      "translated_word": "挥之不去的",
+      "display_order": 4
+    }
+  ]
+}

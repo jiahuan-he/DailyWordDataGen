@@ -1,0 +1,40 @@
+{
+  "word": "flail",
+  "phonetic": "/fleɪl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "挥舞；挣扎；乱动",
+  "examples": [
+    {
+      "sentence": "The child flailed in the deep end until the lifeguard reached her.",
+      "style": "Contextual",
+      "translation": "孩子在深水区拼命挣扎，直到救生员赶到身边。",
+      "translated_word": "挣扎",
+      "display_order": 1
+    },
+    {
+      "sentence": "Autumn leaves flail against the window, then surrender to the pavement.",
+      "style": "Poetic",
+      "translation": "秋叶扑打着窗玻璃，终归落向人行道。",
+      "translated_word": "扑打",
+      "display_order": 3
+    },
+    {
+      "sentence": "At twenty-three, I flailed through interviews, rehearsing answers I didn't believe.",
+      "style": "Intimate",
+      "translation": "二十三岁那年，我在面试中茫然挣扎，背诵着连自己都不信的答案。",
+      "translated_word": "挣扎",
+      "display_order": 2
+    },
+    {
+      "sentence": "We flail not from lack of options, but from fear of choosing.",
+      "style": "Philosophical",
+      "translation": "我们挣扎，不是因为没有选择，而是害怕去选。",
+      "translated_word": "挣扎",
+      "display_order": 4
+    }
+  ]
+}

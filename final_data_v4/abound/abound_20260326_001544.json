@@ -1,0 +1,39 @@
+{
+  "word": "abound",
+  "phonetic": "/əˈbaʊnd/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "大量存在；充斥；富于",
+  "examples": [
+    {
+      "sentence": "Wildlife abounds in this protected forest.",
+      "style": "Contextual",
+      "translation": "这片受保护的森林里野生动物众多。",
+      "translated_word": "众多",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rumors abound that the company will announce layoffs next week.",
+      "style": "Formal",
+      "translation": "有传言称该公司下周将宣布裁员。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Wildflowers abound in spring, painting the meadow gold.",
+      "style": "Poetic",
+      "translation": "春日野花遍野，染得草地一片金黄。",
+      "translated_word": "遍野",
+      "display_order": 2
+    },
+    {
+      "sentence": "The coral reef abounds with sea turtles and tropical fish.",
+      "style": "Collocational",
+      "translation": "珊瑚礁中海龟与热带鱼成群游弋。",
+      "translated_word": "成群",
+      "display_order": 3
+    }
+  ]
+}

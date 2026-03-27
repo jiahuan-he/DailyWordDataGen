@@ -1,0 +1,41 @@
+{
+  "word": "temp",
+  "phonetic": "/temp/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "临时工；临时雇员",
+  "examples": [
+    {
+      "sentence": "The office hired a temp while Sarah was on maternity leave.",
+      "style": "Contextual",
+      "translation": "莎拉休产假期间，公司雇了一位临时工。",
+      "translated_word": "临时工",
+      "display_order": 1
+    },
+    {
+      "sentence": "Corporate spending on temps has risen sharply amid economic uncertainty.",
+      "style": "Formal",
+      "translation": "经济形势不明朗之际，企业在临时工上的开支大幅攀升。",
+      "translated_word": "临时工",
+      "display_order": 3
+    },
+    {
+      "sentence": "She started as a temp but was offered a permanent position within three months.",
+      "style": "Collocational",
+      "translation": "她起初只是临时工，三个月内便转为正式员工。",
+      "translated_word": "临时工",
+      "display_order": 2
+    },
+    {
+      "sentence": "Being a temp taught me to walk into unfamiliar rooms without hesitation.",
+      "style": "Intimate",
+      "translation": "做临时工的那段日子，教会了我毫不犹豫地走进陌生的房间。",
+      "translated_word": "临时工",
+      "display_order": 4
+    }
+  ]
+}

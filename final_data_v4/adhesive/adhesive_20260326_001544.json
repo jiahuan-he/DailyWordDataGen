@@ -1,0 +1,40 @@
+{
+  "word": "adhesive",
+  "phonetic": "/ədˈhiːsɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "黏性的；粘合的；附着的",
+  "examples": [
+    {
+      "sentence": "Without its adhesive backing, the label kept peeling off the jar.",
+      "style": "Contextual",
+      "translation": "没有黏性背衬，标签总是从罐子上脱落。",
+      "translated_word": "黏性",
+      "display_order": 1
+    },
+    {
+      "sentence": "She patched the blister with an adhesive bandage from her pocket.",
+      "style": "Collocational",
+      "translation": "她从口袋里掏出创可贴，贴住了水泡。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Grief is adhesive; it clings long after the source has faded.",
+      "style": "Philosophical",
+      "translation": "悲伤是粘附的；源头早已消散，它却久久不散。",
+      "translated_word": "粘附的",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her letters, bound by yellowed adhesive tape, outlived everything else.",
+      "style": "Intimate",
+      "translation": "她的信件被泛黄的胶带捆在一起，比一切都留存得更久。",
+      "translated_word": "胶",
+      "display_order": 2
+    }
+  ]
+}

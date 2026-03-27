@@ -1,0 +1,40 @@
+{
+  "word": "stuffy",
+  "phonetic": "/ˈstʌfi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "闷热的；古板的；鼻塞的",
+  "examples": [
+    {
+      "sentence": "The meeting room had no windows; within an hour, the air grew stuffy.",
+      "style": "Contextual",
+      "translation": "会议室没有窗户，不到一小时，空气便闷得让人喘不过气。",
+      "translated_word": "闷",
+      "display_order": 2
+    },
+    {
+      "sentence": "She left her stuffy corporate job for a startup where sneakers were the dress code.",
+      "style": "Contrastive",
+      "translation": "她辞去了刻板的公司职位，加入了一家穿运动鞋上班的初创企业。",
+      "translated_word": "刻板",
+      "display_order": 4
+    },
+    {
+      "sentence": "He woke with a stuffy nose and a mild headache.",
+      "style": "Collocational",
+      "translation": "他醒来时鼻塞，还有些头疼。",
+      "translated_word": "塞",
+      "display_order": 3
+    },
+    {
+      "sentence": "That summer, we escaped the stuffy apartment for the rooftop every night.",
+      "style": "Intimate",
+      "translation": "那年夏天，我们每晚都逃离闷热的公寓，躲上天台。",
+      "translated_word": "闷热",
+      "display_order": 1
+    }
+  ]
+}

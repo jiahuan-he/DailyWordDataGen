@@ -1,0 +1,40 @@
+{
+  "word": "purport",
+  "phonetic": "/pərˈpɔːrt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "声称；据称；意图表明",
+  "examples": [
+    {
+      "sentence": "The document purports to be a 15th-century original.",
+      "style": "Formal",
+      "translation": "该文件据称是十五世纪的原件。",
+      "translated_word": "据称",
+      "display_order": 1
+    },
+    {
+      "sentence": "The email purported to come from my bank, but the errors gave it away.",
+      "style": "Contextual",
+      "translation": "那封邮件声称来自我的银行，但错漏百出，不攻自破。",
+      "translated_word": "声称",
+      "display_order": 2
+    },
+    {
+      "sentence": "What the study purports to prove and what it actually shows are vastly different.",
+      "style": "Contrastive",
+      "translation": "研究声称证明的与实际呈现的，相去甚远。",
+      "translated_word": "声称",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every confident answer purports certainty in a world that offers none.",
+      "style": "Philosophical",
+      "translation": "每个笃定的答案，都在这不确定的世界里佯装笃定。",
+      "translated_word": "佯装",
+      "display_order": 4
+    }
+  ]
+}

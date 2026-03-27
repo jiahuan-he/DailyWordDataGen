@@ -1,0 +1,40 @@
+{
+  "word": "garbled",
+  "phonetic": "/ˈɡɑːrbəld/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "混乱的；失真的；含混不清的",
+  "examples": [
+    {
+      "sentence": "The recording came through garbled, just fragments of sound.",
+      "style": "Contextual",
+      "translation": "录音传来时已经失真，只剩下些许声音碎片。",
+      "translated_word": "失真",
+      "display_order": 4
+    },
+    {
+      "sentence": "Officials dismissed the garbled transcript as unreliable evidence.",
+      "style": "Formal",
+      "translation": "官员们以内容混乱为由，否定了该记录的证据效力。",
+      "translated_word": "混乱",
+      "display_order": 3
+    },
+    {
+      "sentence": "A garbled phone signal turned a simple call into guesswork.",
+      "style": "Collocational",
+      "translation": "失真的电话信号把一通简单的通话变成了猜谜游戏。",
+      "translated_word": "失真",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her garbled goodbye through the bad connection haunts me still.",
+      "style": "Intimate",
+      "translation": "她在信号不好时那句模糊的道别，至今萦绕心头。",
+      "translated_word": "模糊",
+      "display_order": 2
+    }
+  ]
+}

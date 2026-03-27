@@ -1,0 +1,41 @@
+{
+  "word": "tart",
+  "phonetic": "/tɑːrt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "酸的；尖刻的；辛辣的",
+  "examples": [
+    {
+      "sentence": "The green apple was too tart to eat without a little honey.",
+      "style": "Contextual",
+      "translation": "那颗青苹果太酸，不加点蜂蜜根本吃不下。",
+      "translated_word": "酸",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her tart reply silenced the entire room.",
+      "style": "Collocational",
+      "translation": "她尖刻的回答让全场鸦雀无声。",
+      "translated_word": "尖刻",
+      "display_order": 3
+    },
+    {
+      "sentence": "Morning espresso, tart and unforgiving, jolts the soul awake.",
+      "style": "Poetic",
+      "translation": "清晨的浓缩咖啡，酸涩而凌厉，将灵魂猛然唤醒。",
+      "translated_word": "酸涩",
+      "display_order": 4
+    },
+    {
+      "sentence": "Grandma's lemonade was always too tart; I never admitted I loved it that way.",
+      "style": "Intimate",
+      "translation": "奶奶的柠檬水总是太酸；我从没承认过，我就爱那个味道。",
+      "translated_word": "酸",
+      "display_order": 2
+    }
+  ]
+}

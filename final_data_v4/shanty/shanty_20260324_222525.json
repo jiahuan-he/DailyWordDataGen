@@ -1,0 +1,41 @@
+{
+  "word": "shanty",
+  "phonetic": "/ˈʃænti/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "棚屋；简陋小屋；劳动号子",
+  "examples": [
+    {
+      "sentence": "The fishermen built a shanty from driftwood and corrugated tin.",
+      "style": "Contextual",
+      "translation": "渔民们用浮木和波纹铁皮搭起了一间棚屋。",
+      "translated_word": "棚屋",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sailors belted out a sea shanty as they hauled the anchor.",
+      "style": "Collocational",
+      "translation": "水手们一边起锚，一边高唱着劳动号子。",
+      "translated_word": "劳动号子",
+      "display_order": 4
+    },
+    {
+      "sentence": "A single lantern glowed in the shanty, a stubborn ember against the storm.",
+      "style": "Poetic",
+      "translation": "棚屋里亮着一盏孤灯，如风暴中倔强的余烬。",
+      "translated_word": "棚屋",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather raised three children in that shanty before he could afford brick walls.",
+      "style": "Intimate",
+      "translation": "在买得起砖房之前，祖父就在那间棚屋里养大了三个孩子。",
+      "translated_word": "棚屋",
+      "display_order": 2
+    }
+  ]
+}

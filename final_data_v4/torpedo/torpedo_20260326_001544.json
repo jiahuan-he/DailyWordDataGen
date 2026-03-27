@@ -1,0 +1,40 @@
+{
+  "word": "torpedo",
+  "phonetic": "/tɔːrˈpiːdoʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "鱼雷",
+  "examples": [
+    {
+      "sentence": "The submarine launched a torpedo beneath the silent waves.",
+      "style": "Contextual",
+      "translation": "潜艇在寂静的海浪下发射了一枚鱼雷。",
+      "translated_word": "鱼雷",
+      "display_order": 1
+    },
+    {
+      "sentence": "A single torpedo struck the hull and sealed the vessel's fate.",
+      "style": "Formal",
+      "translation": "一枚鱼雷击中船体，便注定了这艘舰艇的命运。",
+      "translated_word": "鱼雷",
+      "display_order": 2
+    },
+    {
+      "sentence": "The torpedo glides through darkness, a blind messenger of ruin.",
+      "style": "Poetic",
+      "translation": "鱼雷穿行于黑暗之中，如一位盲目的毁灭信使。",
+      "translated_word": "鱼雷",
+      "display_order": 3
+    },
+    {
+      "sentence": "A torpedo cannot hesitate; perhaps that is why men invented it.",
+      "style": "Philosophical",
+      "translation": "鱼雷不会犹豫；或许正因如此，人类才发明了它。",
+      "translated_word": "鱼雷",
+      "display_order": 4
+    }
+  ]
+}

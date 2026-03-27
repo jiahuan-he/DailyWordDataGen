@@ -1,0 +1,40 @@
+{
+  "word": "mull",
+  "phonetic": "/mʌl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "深思；仔细考虑；反复琢磨",
+  "examples": [
+    {
+      "sentence": "She sat with the letter for days, mulling its implications.",
+      "style": "Contextual",
+      "translation": "她捧着那封信坐了好几天，反复思量其中的意味。",
+      "translated_word": "思量",
+      "display_order": 2
+    },
+    {
+      "sentence": "He mulled over the offer during his morning walk.",
+      "style": "Collocational",
+      "translation": "他在晨间散步时仔细考虑着那份提议。",
+      "translated_word": "考虑",
+      "display_order": 1
+    },
+    {
+      "sentence": "To mull is to trust that time sharpens clarity.",
+      "style": "Philosophical",
+      "translation": "深思，是相信时间能磨砺出清明。",
+      "translated_word": "深思",
+      "display_order": 4
+    },
+    {
+      "sentence": "On quiet evenings, I mull the paths I chose not to take.",
+      "style": "Intimate",
+      "translation": "在寂静的夜晚，我反复琢磨那些未曾走过的路。",
+      "translated_word": "琢磨",
+      "display_order": 3
+    }
+  ]
+}

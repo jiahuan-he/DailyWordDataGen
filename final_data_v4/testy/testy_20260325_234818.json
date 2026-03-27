@@ -1,0 +1,39 @@
+{
+  "word": "testy",
+  "phonetic": "/ˈtesti/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "易怒的；暴躁的；不耐烦的",
+  "examples": [
+    {
+      "sentence": "He grew testy after the third interruption.",
+      "style": "Contextual",
+      "translation": "第三次被打断后，他开始烦躁起来。",
+      "translated_word": "烦躁",
+      "display_order": 2
+    },
+    {
+      "sentence": "Their testy exchange silenced the entire room.",
+      "style": "Collocational",
+      "translation": "他们针锋相对的交锋让整个房间陷入沉默。",
+      "translated_word": "针锋相对",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father turns testy before his morning coffee; we've learned to wait.",
+      "style": "Intimate",
+      "translation": "父亲在喝早咖啡前总是脾气不好；我们都学会了等待。",
+      "translated_word": "脾气不好",
+      "display_order": 1
+    },
+    {
+      "sentence": "Hunger makes even the gentlest soul testy.",
+      "style": "Philosophical",
+      "translation": "饥饿能让最温和的人也变得暴躁。",
+      "translated_word": "暴躁",
+      "display_order": 3
+    }
+  ]
+}

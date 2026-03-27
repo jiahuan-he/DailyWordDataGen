@@ -1,0 +1,40 @@
+{
+  "word": "icing",
+  "phonetic": "/ˈaɪsɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "糖霜；糖衣；锦上添花",
+  "examples": [
+    {
+      "sentence": "She smoothed the icing with a warm knife, each stroke deliberate.",
+      "style": "Contextual",
+      "translation": "她用温热的刀抹平糖霜，每一下都从容不迫。",
+      "translated_word": "糖霜",
+      "display_order": 1
+    },
+    {
+      "sentence": "The view was a bonus; the balcony was icing on the cake.",
+      "style": "Collocational",
+      "translation": "风景是意外之喜；阳台更是锦上添花。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "My mother's icing was never perfect, and that made it irreplaceable.",
+      "style": "Intimate",
+      "translation": "母亲的糖霜从不完美，却因此无可替代。",
+      "translated_word": "糖霜",
+      "display_order": 2
+    },
+    {
+      "sentence": "White icing settled on the cake like the first snow of winter.",
+      "style": "Poetic",
+      "translation": "白色糖霜覆于蛋糕之上，如初冬的第一场雪。",
+      "translated_word": "糖霜",
+      "display_order": 3
+    }
+  ]
+}

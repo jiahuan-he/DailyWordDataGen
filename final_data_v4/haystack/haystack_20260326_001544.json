@@ -1,0 +1,39 @@
+{
+  "word": "haystack",
+  "phonetic": "/ˈheɪstæk/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "干草堆；草垛",
+  "examples": [
+    {
+      "sentence": "The haystack near the barn kept the animals fed through winter.",
+      "style": "Contextual",
+      "translation": "谷仓旁的干草堆让牲畜安然度过了整个冬天。",
+      "translated_word": "干草堆",
+      "display_order": 1
+    },
+    {
+      "sentence": "Finding that receipt was like looking for a needle in a haystack.",
+      "style": "Collocational",
+      "translation": "找那张收据简直如同大海捞针。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "The haystack held the scent of summer long after the fields turned bare.",
+      "style": "Poetic",
+      "translation": "田野萧瑟之后，干草堆里仍留存着夏日的气息。",
+      "translated_word": "干草堆",
+      "display_order": 3
+    },
+    {
+      "sentence": "We climbed the old haystack every August, staying until the stars appeared.",
+      "style": "Intimate",
+      "translation": "每年八月，我们都爬上那座老草垛，待到繁星满天。",
+      "translated_word": "草垛",
+      "display_order": 2
+    }
+  ]
+}

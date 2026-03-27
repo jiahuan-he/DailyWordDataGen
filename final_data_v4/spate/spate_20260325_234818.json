@@ -1,0 +1,39 @@
+{
+  "word": "spate",
+  "phonetic": "/speɪt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "一连串；大量；接连发生",
+  "examples": [
+    {
+      "sentence": "After one resignation, a spate of others followed within days.",
+      "style": "Contextual",
+      "translation": "一人辞职后，几天内便引发了一连串的离职潮。",
+      "translated_word": "一连串",
+      "display_order": 3
+    },
+    {
+      "sentence": "The city reported a spate of cyberattacks targeting hospitals.",
+      "style": "Formal",
+      "translation": "该市报告了多起针对医院的网络攻击事件。",
+      "translated_word": "多起",
+      "display_order": 2
+    },
+    {
+      "sentence": "A spate of complaints flooded the customer service line.",
+      "style": "Collocational",
+      "translation": "大量投诉涌入客服热线。",
+      "translated_word": "大量",
+      "display_order": 1
+    },
+    {
+      "sentence": "A spate of failures often precedes a single breakthrough.",
+      "style": "Philosophical",
+      "translation": "一连串的失败，往往是突破的前奏。",
+      "translated_word": "一连串",
+      "display_order": 4
+    }
+  ]
+}

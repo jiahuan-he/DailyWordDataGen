@@ -1,0 +1,40 @@
+{
+  "word": "crouch",
+  "phonetic": "/kraʊtʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "蹲下；蜷缩；俯身",
+  "examples": [
+    {
+      "sentence": "The photographer crouched low to capture the child's perspective.",
+      "style": "Contextual",
+      "translation": "摄影师蹲下身，捕捉孩子视角的世界。",
+      "translated_word": "蹲",
+      "display_order": 2
+    },
+    {
+      "sentence": "She crouched by the stream, her reflection rippling with the current.",
+      "style": "Poetic",
+      "translation": "她蹲在溪边，倒影随水波轻轻荡漾。",
+      "translated_word": "蹲",
+      "display_order": 3
+    },
+    {
+      "sentence": "He crouched beside his daughter, pointing at fireflies in the tall grass.",
+      "style": "Intimate",
+      "translation": "他蹲在女儿身旁，指着草丛深处的萤火虫。",
+      "translated_word": "蹲",
+      "display_order": 1
+    },
+    {
+      "sentence": "The cat crouched behind the curtain, ready to pounce.",
+      "style": "Collocational",
+      "translation": "猫蜷在窗帘后，蓄势待发。",
+      "translated_word": "蜷",
+      "display_order": 4
+    }
+  ]
+}

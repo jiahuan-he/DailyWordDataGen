@@ -1,0 +1,40 @@
+{
+  "word": "manoeuvre",
+  "phonetic": "/məˈnuːvə/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "操控；巧妙移动；周旋",
+  "examples": [
+    {
+      "sentence": "She manoeuvred the car into the narrow space without a scratch.",
+      "style": "Contextual",
+      "translation": "她将车稳稳驶入狭窄的空位，毫发无损。",
+      "translated_word": "驶入",
+      "display_order": 1
+    },
+    {
+      "sentence": "The senator manoeuvred skilfully to block the opposing bill.",
+      "style": "Formal",
+      "translation": "那位参议员巧妙周旋，成功阻止了对方的提案。",
+      "translated_word": "周旋",
+      "display_order": 3
+    },
+    {
+      "sentence": "In crowded markets, vendors manoeuvre carts through the thinnest gaps.",
+      "style": "Collocational",
+      "translation": "拥挤的市场里，小贩们推着车穿过最窄的缝隙。",
+      "translated_word": "穿过",
+      "display_order": 2
+    },
+    {
+      "sentence": "The best path forward is not always the one you manoeuvre; sometimes it finds you.",
+      "style": "Philosophical",
+      "translation": "最好的路，未必是你精心谋划的那条；有时它会自己找上门来。",
+      "translated_word": "谋划",
+      "display_order": 4
+    }
+  ]
+}

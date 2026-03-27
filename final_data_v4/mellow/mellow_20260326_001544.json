@@ -1,0 +1,41 @@
+{
+  "word": "mellow",
+  "phonetic": "/ˈmeləʊ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "柔和；醇厚；成熟；闲适",
+  "examples": [
+    {
+      "sentence": "The afternoon light turned mellow, softening every edge in the room.",
+      "style": "Contextual",
+      "translation": "午后的光线渐渐柔和，室内的一切棱角都被温柔模糊。",
+      "translated_word": "柔和",
+      "display_order": 2
+    },
+    {
+      "sentence": "Autumn carries a mellow hush, as if the world is learning to rest.",
+      "style": "Poetic",
+      "translation": "秋日带着醇厚的静谧，仿佛天地正在学习安歇。",
+      "translated_word": "醇厚",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father's voice grew mellow with age; anger gave way to understanding.",
+      "style": "Intimate",
+      "translation": "父亲的声音随岁月变得柔和；愤怒让位于理解。",
+      "translated_word": "柔和",
+      "display_order": 3
+    },
+    {
+      "sentence": "A glass of mellow wine pairs well with quiet conversation.",
+      "style": "Collocational",
+      "translation": "一杯醇厚的酒，配上轻声细语，恰到好处。",
+      "translated_word": "醇厚",
+      "display_order": 1
+    }
+  ]
+}

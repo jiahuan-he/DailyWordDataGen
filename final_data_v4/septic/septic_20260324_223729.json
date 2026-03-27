@@ -1,0 +1,40 @@
+{
+  "word": "septic",
+  "phonetic": "/ˈseptɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "感染的；化脓的；腐败的",
+  "examples": [
+    {
+      "sentence": "The cut on his hand turned septic after days without proper cleaning.",
+      "style": "Contextual",
+      "translation": "他手上的伤口因多日未清理而化脓感染。",
+      "translated_word": "化脓感染",
+      "display_order": 1
+    },
+    {
+      "sentence": "Surgeons identified the septic tissue and removed it before the infection could spread.",
+      "style": "Formal",
+      "translation": "外科医生确认了感染组织，并在病情蔓延前将其切除。",
+      "translated_word": "感染",
+      "display_order": 2
+    },
+    {
+      "sentence": "The old farmhouse still runs on a septic tank buried beneath the orchard.",
+      "style": "Collocational",
+      "translation": "那座老农舍至今仍使用埋在果园下的化粪池。",
+      "translated_word": "化粪池",
+      "display_order": 4
+    },
+    {
+      "sentence": "A sterile wound heals quietly; a septic one demands attention.",
+      "style": "Contrastive",
+      "translation": "无菌伤口静静愈合；感染伤口则亟需处理。",
+      "translated_word": "感染",
+      "display_order": 3
+    }
+  ]
+}

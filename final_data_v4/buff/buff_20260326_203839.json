@@ -1,0 +1,41 @@
+{
+  "word": "buff",
+  "phonetic": "/bʌf/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "爱好者；迷；发烧友",
+  "examples": [
+    {
+      "sentence": "He knows every bird by its song; a true nature buff.",
+      "style": "Contextual",
+      "translation": "他能听音辨鸟，是个十足的自然爱好者。",
+      "translated_word": "爱好者",
+      "display_order": 3
+    },
+    {
+      "sentence": "Film buffs packed the midnight screening.",
+      "style": "Collocational",
+      "translation": "午夜场里挤满了影迷。",
+      "translated_word": "影迷",
+      "display_order": 1
+    },
+    {
+      "sentence": "My father was a jazz buff; his records now line my shelves.",
+      "style": "Intimate",
+      "translation": "父亲是个爵士乐迷；他的唱片如今摆满了我的书架。",
+      "translated_word": "乐迷",
+      "display_order": 2
+    },
+    {
+      "sentence": "Wine buffs convened in Bordeaux for the annual tasting.",
+      "style": "Formal",
+      "translation": "葡萄酒爱好者齐聚波尔多，参加年度品鉴会。",
+      "translated_word": "爱好者",
+      "display_order": 4
+    }
+  ]
+}

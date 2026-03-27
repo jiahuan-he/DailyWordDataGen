@@ -1,0 +1,39 @@
+{
+  "word": "howler",
+  "phonetic": "/ˈhaʊlər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "低级错误；大失误；笑话",
+  "examples": [
+    {
+      "sentence": "The diplomat called the president by the wrong name: a howler that made headlines.",
+      "style": "Contextual",
+      "translation": "外交官叫错了总统的名字，这个低级失误登上了头条。",
+      "translated_word": "低级失误",
+      "display_order": 1
+    },
+    {
+      "sentence": "The financial report contained a howler that undermined months of careful research.",
+      "style": "Formal",
+      "translation": "这份财务报告中的一处错误，令数月的审慎研究付诸东流。",
+      "translated_word": "错误",
+      "display_order": 3
+    },
+    {
+      "sentence": "Even seasoned editors commit howlers when deadlines loom.",
+      "style": "Collocational",
+      "translation": "即便是资深编辑，在截稿日临近时也会犯低级错误。",
+      "translated_word": "低级错误",
+      "display_order": 2
+    },
+    {
+      "sentence": "My first speech was full of howlers, yet that audience still applauded.",
+      "style": "Intimate",
+      "translation": "我的第一次演讲错漏百出，但观众依然报以掌声。",
+      "translated_word": "错漏百出",
+      "display_order": 4
+    }
+  ]
+}

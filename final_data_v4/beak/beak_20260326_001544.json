@@ -1,0 +1,40 @@
+{
+  "word": "beak",
+  "phonetic": "/biːk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "鸟嘴；喙",
+  "examples": [
+    {
+      "sentence": "The parrot cracked the seed open with its beak.",
+      "style": "Contextual",
+      "translation": "鹦鹉用喙啄开了种子。",
+      "translated_word": "喙",
+      "display_order": 1
+    },
+    {
+      "sentence": "A heron stood still, its beak a silver needle poised above the water.",
+      "style": "Poetic",
+      "translation": "苍鹭静立，尖喙如银针悬于水面之上。",
+      "translated_word": "喙",
+      "display_order": 3
+    },
+    {
+      "sentence": "The toucan's curved beak is surprisingly light despite its size.",
+      "style": "Collocational",
+      "translation": "巨嘴鸟弯曲的喙虽大，却轻得出奇。",
+      "translated_word": "喙",
+      "display_order": 2
+    },
+    {
+      "sentence": "Each beak is sculpted by generations of hunger.",
+      "style": "Philosophical",
+      "translation": "每一只喙，都由世代的饥饿雕琢而成。",
+      "translated_word": "喙",
+      "display_order": 4
+    }
+  ]
+}

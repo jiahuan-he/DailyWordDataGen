@@ -1,0 +1,39 @@
+{
+  "word": "enclosure",
+  "phonetic": "/ɪnˈkloʊʒər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "围场；附件；围栏",
+  "examples": [
+    {
+      "sentence": "The wolves gathered at the far corner of the enclosure as visitors approached.",
+      "style": "Contextual",
+      "translation": "游客走近时，狼群聚在围场的远角。",
+      "translated_word": "围场",
+      "display_order": 1
+    },
+    {
+      "sentence": "Please find the signed contract attached as an enclosure.",
+      "style": "Formal",
+      "translation": "请查阅附件中已签署的合同。",
+      "translated_word": "附件",
+      "display_order": 3
+    },
+    {
+      "sentence": "The glass enclosure kept the rare orchids at perfect humidity.",
+      "style": "Collocational",
+      "translation": "玻璃罩内湿度恰好，珍稀兰花得以安然生长。",
+      "translated_word": "罩",
+      "display_order": 2
+    },
+    {
+      "sentence": "An enclosure protects, but it also defines the limits of freedom.",
+      "style": "Philosophical",
+      "translation": "围墙守护，却也划定了自由的边界。",
+      "translated_word": "围墙",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "herein",
+  "phonetic": "/ˌhɪərˈɪn/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "在此；于此；在本文中",
+  "examples": [
+    {
+      "sentence": "The terms herein supersede all prior agreements.",
+      "style": "Formal",
+      "translation": "本文条款优先于所有先前协议。",
+      "translated_word": "本文",
+      "display_order": 2
+    },
+    {
+      "sentence": "Herein lies the paradox: we crave certainty in an uncertain world.",
+      "style": "Philosophical",
+      "translation": "悖论正在于此：我们在不确定的世界里渴求确定。",
+      "translated_word": "于此",
+      "display_order": 4
+    },
+    {
+      "sentence": "The secrets contained herein changed the course of history.",
+      "style": "Collocational",
+      "translation": "此中所藏的秘密改变了历史的走向。",
+      "translated_word": "此中",
+      "display_order": 3
+    },
+    {
+      "sentence": "Read the document carefully; the answer is herein.",
+      "style": "Contextual",
+      "translation": "仔细阅读这份文件；答案就在其中。",
+      "translated_word": "其中",
+      "display_order": 1
+    }
+  ]
+}

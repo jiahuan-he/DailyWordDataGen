@@ -1,0 +1,39 @@
+{
+  "word": "lad",
+  "phonetic": "/læd/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "小伙子；男孩；少年",
+  "examples": [
+    {
+      "sentence": "The fisherman's lad helped mend the nets before sunrise.",
+      "style": "Contextual",
+      "translation": "渔夫的小伙子在日出前帮忙修补渔网。",
+      "translated_word": "小伙子",
+      "display_order": 3
+    },
+    {
+      "sentence": "He's a good lad; he never forgets to visit his grandmother.",
+      "style": "Collocational",
+      "translation": "他是个好孩子，从不忘记去看望祖母。",
+      "translated_word": "孩子",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandfather still calls me lad, though I tower over him now.",
+      "style": "Intimate",
+      "translation": "祖父至今仍唤我小伙子，尽管我早已比他高出一头。",
+      "translated_word": "小伙子",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every lad carries questions he won't know to ask until he's no longer one.",
+      "style": "Philosophical",
+      "translation": "每个少年心中都藏着一些疑问，等他不再年少时才懂得发问。",
+      "translated_word": "少年",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "knead",
+  "phonetic": "/niːd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "揉；按摩；捏",
+  "examples": [
+    {
+      "sentence": "She kneaded the dough until it became smooth and springy.",
+      "style": "Contextual",
+      "translation": "她揉着面团，直到它变得光滑而有弹性。",
+      "translated_word": "揉",
+      "display_order": 2
+    },
+    {
+      "sentence": "Knead the dough for ten minutes, then let it rest.",
+      "style": "Collocational",
+      "translation": "将面团揉十分钟，然后静置。",
+      "translated_word": "揉",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother hummed as she kneaded; her kitchen smelled of flour and love.",
+      "style": "Intimate",
+      "translation": "祖母一边揉面一边哼着歌；厨房里弥漫着面粉与爱的气息。",
+      "translated_word": "揉",
+      "display_order": 3
+    },
+    {
+      "sentence": "The potter kneads the earth, coaxing silence into shape.",
+      "style": "Poetic",
+      "translation": "陶艺师揉捏泥土，将沉默唤作形状。",
+      "translated_word": "揉捏",
+      "display_order": 4
+    }
+  ]
+}

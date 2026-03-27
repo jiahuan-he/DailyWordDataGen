@@ -1,0 +1,39 @@
+{
+  "word": "depreciate",
+  "phonetic": "/dɪˈpriːʃieɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "贬值；贬低；轻视",
+  "examples": [
+    {
+      "sentence": "The car depreciated by half within three years of purchase.",
+      "style": "Contextual",
+      "translation": "购入三年后，这辆车已贬值一半。",
+      "translated_word": "贬值",
+      "display_order": 1
+    },
+    {
+      "sentence": "Central banks warn that inflation will cause currencies to depreciate sharply this quarter.",
+      "style": "Formal",
+      "translation": "央行警告称，本季度通胀将导致货币大幅贬值。",
+      "translated_word": "贬值",
+      "display_order": 3
+    },
+    {
+      "sentence": "Houses appreciate in value, but the furniture inside them depreciates.",
+      "style": "Contrastive",
+      "translation": "房屋升值，屋内的家具却在贬值。",
+      "translated_word": "贬值",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some things depreciate with time; kindness only compounds.",
+      "style": "Philosophical",
+      "translation": "有些东西随时间贬值；善意却只会累积。",
+      "translated_word": "贬值",
+      "display_order": 4
+    }
+  ]
+}

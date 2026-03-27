@@ -1,0 +1,40 @@
+{
+  "word": "reshuffle",
+  "phonetic": "/riːˈʃʌfəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "重组；改组；调整",
+  "examples": [
+    {
+      "sentence": "The coach reshuffled the lineup after three straight losses.",
+      "style": "Contextual",
+      "translation": "连输三场后，教练调整了首发阵容。",
+      "translated_word": "调整",
+      "display_order": 2
+    },
+    {
+      "sentence": "The Prime Minister plans to reshuffle the cabinet before autumn.",
+      "style": "Formal",
+      "translation": "首相计划在秋季前改组内阁。",
+      "translated_word": "改组",
+      "display_order": 1
+    },
+    {
+      "sentence": "Fate reshuffles the deck; we choose how to play.",
+      "style": "Philosophical",
+      "translation": "命运重新洗牌，出牌的是我们自己。",
+      "translated_word": "重新洗牌",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every setback is a chance to reshuffle your priorities.",
+      "style": "Inspirational",
+      "translation": "每次挫折都是重新排序人生的契机。",
+      "translated_word": "重新排序",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "provenance",
+  "phonetic": "/ˈprɒv.ən.əns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "来源；出处；起源",
+  "examples": [
+    {
+      "sentence": "The auction house verified the painting's provenance through letters dating back to 1890.",
+      "style": "Contextual",
+      "translation": "拍卖行通过追溯至1890年的信件，核实了这幅画作的来源。",
+      "translated_word": "来源",
+      "display_order": 1
+    },
+    {
+      "sentence": "Collectors increasingly demand transparent provenance before acquiring rare manuscripts.",
+      "style": "Formal",
+      "translation": "收藏家们在购入珍稀手稿前，愈发要求清晰透明的出处证明。",
+      "translated_word": "出处",
+      "display_order": 2
+    },
+    {
+      "sentence": "We trace the provenance of objects, yet rarely question the origins of our own beliefs.",
+      "style": "Philosophical",
+      "translation": "我们追溯器物的来历，却鲜少追问自己信念的起源。",
+      "translated_word": "来历",
+      "display_order": 3
+    },
+    {
+      "sentence": "Each crack in the porcelain held its provenance: a journey across oceans, through wars, into my grandmother's hands.",
+      "style": "Poetic",
+      "translation": "瓷器上的每一道裂纹都铭刻着它的身世：漂洋过海，历经战火，最终落入祖母的手中。",
+      "translated_word": "身世",
+      "display_order": 4
+    }
+  ]
+}

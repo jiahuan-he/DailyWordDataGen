@@ -1,0 +1,40 @@
+{
+  "word": "lug",
+  "phonetic": "/lʌɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "费力地拖；吃力地搬；拽",
+  "examples": [
+    {
+      "sentence": "She lugged the suitcase up three flights alone.",
+      "style": "Contextual",
+      "translation": "她独自把行李箱拖上了三层楼。",
+      "translated_word": "拖",
+      "display_order": 1
+    },
+    {
+      "sentence": "He lugs that camera bag everywhere he goes.",
+      "style": "Collocational",
+      "translation": "他走到哪儿都带着那个相机包。",
+      "translated_word": "带着",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every summer, we lugged coolers down to the shore before dawn.",
+      "style": "Intimate",
+      "translation": "每年夏天，我们都赶在天亮前把冷藏箱拖到海边。",
+      "translated_word": "拖",
+      "display_order": 2
+    },
+    {
+      "sentence": "Why lug heavy textbooks when everything fits on a tablet?",
+      "style": "Contrastive",
+      "translation": "既然平板能装下一切，何必费力背那些厚课本？",
+      "translated_word": "费力背",
+      "display_order": 3
+    }
+  ]
+}

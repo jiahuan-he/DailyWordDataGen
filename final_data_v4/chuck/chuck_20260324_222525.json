@@ -1,0 +1,40 @@
+{
+  "word": "chuck",
+  "phonetic": "/tʃʌk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "扔；丢弃；放弃",
+  "examples": [
+    {
+      "sentence": "He chucked his phone onto the couch and sighed.",
+      "style": "Contextual",
+      "translation": "他把手机往沙发上一扔，叹了口气。",
+      "translated_word": "扔",
+      "display_order": 1
+    },
+    {
+      "sentence": "Just chuck the old receipts; nobody audits these anyway.",
+      "style": "Collocational",
+      "translation": "旧收据直接扔了吧，反正也没人查。",
+      "translated_word": "扔",
+      "display_order": 3
+    },
+    {
+      "sentence": "Don't fold it neatly; just chuck it in the bag.",
+      "style": "Contrastive",
+      "translation": "别叠了，随便塞包里就行。",
+      "translated_word": "塞",
+      "display_order": 4
+    },
+    {
+      "sentence": "The night before I moved, I chucked every photo of us into a cardboard box.",
+      "style": "Intimate",
+      "translation": "搬家前一晚，我把我们所有的照片都丢进了一个纸箱。",
+      "translated_word": "丢",
+      "display_order": 2
+    }
+  ]
+}

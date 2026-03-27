@@ -1,0 +1,40 @@
+{
+  "word": "ford",
+  "phonetic": "/fɔːrd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "涉水而过；蹚过",
+  "examples": [
+    {
+      "sentence": "The hikers forded the stream where the water barely reached their knees.",
+      "style": "Contextual",
+      "translation": "徒步者在水刚没过膝盖的地方涉溪而过。",
+      "translated_word": "涉",
+      "display_order": 1
+    },
+    {
+      "sentence": "We forded the river at first light, the cold water sharp against our skin.",
+      "style": "Poetic",
+      "translation": "破晓时分，我们涉水过河，冰凉的河水刺入肌肤。",
+      "translated_word": "涉水",
+      "display_order": 2
+    },
+    {
+      "sentence": "You cannot ford the same river twice; both you and the water have moved on.",
+      "style": "Philosophical",
+      "translation": "人不能两次涉过同一条河：你在变，水也在流。",
+      "translated_word": "涉过",
+      "display_order": 3
+    },
+    {
+      "sentence": "The ranchers ford this creek every spring to move cattle to higher pastures.",
+      "style": "Collocational",
+      "translation": "每年春天，牧场主们都会蹚过这条小溪，把牛群赶往高处的牧场。",
+      "translated_word": "蹚过",
+      "display_order": 4
+    }
+  ]
+}

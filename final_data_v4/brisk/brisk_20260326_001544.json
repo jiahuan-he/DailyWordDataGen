@@ -1,0 +1,40 @@
+{
+  "word": "brisk",
+  "phonetic": "/brɪsk/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "轻快的；凉爽的；活跃的",
+  "examples": [
+    {
+      "sentence": "The October air turned brisk, and the café finally brought out its hot chocolate menu.",
+      "style": "Contextual",
+      "translation": "十月的空气变得清冽，咖啡馆终于推出了热巧克力。",
+      "translated_word": "清冽",
+      "display_order": 3
+    },
+    {
+      "sentence": "She set off at a brisk pace, her footsteps echoing through the empty station.",
+      "style": "Collocational",
+      "translation": "她迈着轻快的步伐出发，脚步声在空旷的车站回荡。",
+      "translated_word": "轻快",
+      "display_order": 2
+    },
+    {
+      "sentence": "Morning joggers breathe in the brisk dawn, their exhales becoming brief clouds.",
+      "style": "Poetic",
+      "translation": "晨跑者吸入清冷的黎明，呼出的气息化作转瞬即逝的白雾。",
+      "translated_word": "清冷",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every Sunday, my father and I took a brisk walk before the neighborhood woke.",
+      "style": "Intimate",
+      "translation": "每个周日，我和父亲都会趁邻居们醒来前出门快走一圈。",
+      "translated_word": "快",
+      "display_order": 1
+    }
+  ]
+}

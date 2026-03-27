@@ -1,0 +1,40 @@
+{
+  "word": "delve",
+  "phonetic": "/dɛlv/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "深入研究；探究；挖掘",
+  "examples": [
+    {
+      "sentence": "She delved into the archives for hours, emerging with a single photograph.",
+      "style": "Contextual",
+      "translation": "她在档案室里埋首数小时，只带出一张照片。",
+      "translated_word": "埋首",
+      "display_order": 2
+    },
+    {
+      "sentence": "The report delves into the economic factors behind the housing crisis.",
+      "style": "Formal",
+      "translation": "该报告深入探讨了住房危机背后的经济因素。",
+      "translated_word": "深入探讨",
+      "display_order": 1
+    },
+    {
+      "sentence": "We delve into the past not to find truth, but to understand our present myths.",
+      "style": "Philosophical",
+      "translation": "我们探究过去，并非为了寻找真相，而是为了理解当下的神话。",
+      "translated_word": "探究",
+      "display_order": 4
+    },
+    {
+      "sentence": "At forty, I finally delved into the box of letters my father never sent.",
+      "style": "Intimate",
+      "translation": "四十岁那年，我终于打开了父亲从未寄出的那盒信。",
+      "translated_word": "打开",
+      "display_order": 3
+    }
+  ]
+}

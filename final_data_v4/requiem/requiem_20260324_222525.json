@@ -1,0 +1,39 @@
+{
+  "word": "requiem",
+  "phonetic": "/ˈrekwiəm/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "安魂曲；挽歌；悼念",
+  "examples": [
+    {
+      "sentence": "The orchestra performed Mozart's Requiem in the candlelit cathedral.",
+      "style": "Contextual",
+      "translation": "管弦乐团在烛光摇曳的大教堂中演奏了莫扎特的《安魂曲》。",
+      "translated_word": "安魂曲",
+      "display_order": 1
+    },
+    {
+      "sentence": "Critics hailed the composer's final work as a requiem for a vanishing era.",
+      "style": "Formal",
+      "translation": "乐评人盛赞这位作曲家的遗作是献给逝去时代的挽歌。",
+      "translated_word": "挽歌",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every autumn leaf is a quiet requiem for the summer that raised it.",
+      "style": "Poetic",
+      "translation": "每一片秋叶，都是献给养育它的夏日的无声挽歌。",
+      "translated_word": "挽歌",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some silences are not absence; they are requiems we carry within.",
+      "style": "Philosophical",
+      "translation": "有些沉默并非空白，而是我们心中默念的悼词。",
+      "translated_word": "悼词",
+      "display_order": 4
+    }
+  ]
+}

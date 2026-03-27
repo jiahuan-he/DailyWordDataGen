@@ -1,0 +1,40 @@
+{
+  "word": "snip",
+  "phonetic": "/snɪp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "剪；剪断；修剪",
+  "examples": [
+    {
+      "sentence": "She snipped the loose thread from his collar before the interview.",
+      "style": "Contextual",
+      "translation": "面试前，她剪掉了他领口的线头。",
+      "translated_word": "剪掉",
+      "display_order": 1
+    },
+    {
+      "sentence": "The florist snipped the stems at an angle to help them absorb water.",
+      "style": "Collocational",
+      "translation": "花店老板斜着剪断花茎，让它们更好地吸水。",
+      "translated_word": "剪断",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother would snip fresh mint from her windowsill every morning.",
+      "style": "Intimate",
+      "translation": "外婆每天清晨都会从窗台剪下几片新鲜的薄荷。",
+      "translated_word": "剪下",
+      "display_order": 2
+    },
+    {
+      "sentence": "She snipped the dead blooms away, making room for new growth.",
+      "style": "Poetic",
+      "translation": "她剪去枯萎的花朵，为新生腾出空间。",
+      "translated_word": "剪去",
+      "display_order": 3
+    }
+  ]
+}

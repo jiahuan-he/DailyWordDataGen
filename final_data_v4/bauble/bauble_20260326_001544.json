@@ -1,0 +1,39 @@
+{
+  "word": "bauble",
+  "phonetic": "/ˈbɔːbəl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "小饰品；廉价珠宝；圣诞彩球",
+  "examples": [
+    {
+      "sentence": "Every December, she unpacked the same box of baubles her grandmother had collected.",
+      "style": "Contextual",
+      "translation": "每年十二月，她都会打开那盒外婆收藏的圣诞彩球。",
+      "translated_word": "圣诞彩球",
+      "display_order": 1
+    },
+    {
+      "sentence": "The ring looked like a cheap bauble, but it had been her mother's.",
+      "style": "Contrastive",
+      "translation": "那枚戒指看似廉价的小饰品，却是母亲的遗物。",
+      "translated_word": "小饰品",
+      "display_order": 2
+    },
+    {
+      "sentence": "Glass baubles caught the firelight, turning the tree into a constellation.",
+      "style": "Poetic",
+      "translation": "玻璃彩球映着炉火，将圣诞树化作一片星海。",
+      "translated_word": "彩球",
+      "display_order": 3
+    },
+    {
+      "sentence": "We chase baubles all our lives, mistaking sparkle for substance.",
+      "style": "Philosophical",
+      "translation": "我们穷尽一生追逐华而不实之物，误把闪光当作价值。",
+      "translated_word": "华而不实之物",
+      "display_order": 4
+    }
+  ]
+}

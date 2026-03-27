@@ -1,0 +1,40 @@
+{
+  "word": "lasso",
+  "phonetic": "/ˈlæsoʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "套索；绳圈",
+  "examples": [
+    {
+      "sentence": "The cowboy's lasso caught the calf before it reached the fence.",
+      "style": "Contextual",
+      "translation": "牛仔的套索在小牛冲到围栏前将它套住。",
+      "translated_word": "套索",
+      "display_order": 1
+    },
+    {
+      "sentence": "A worn lasso hung from the saddle, coiled tight and ready.",
+      "style": "Collocational",
+      "translation": "一条磨旧的套索挂在马鞍上，紧紧盘好，蓄势待发。",
+      "translated_word": "套索",
+      "display_order": 2
+    },
+    {
+      "sentence": "The lasso spun once, twice, then arced across the golden dust.",
+      "style": "Poetic",
+      "translation": "套索旋转一圈，两圈，随后划过金色的尘埃。",
+      "translated_word": "套索",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father kept his lasso on a hook by the door; he never used it, but never took it down.",
+      "style": "Intimate",
+      "translation": "父亲把套索挂在门边的钩子上；他再没用过，却也从未取下。",
+      "translated_word": "套索",
+      "display_order": 4
+    }
+  ]
+}

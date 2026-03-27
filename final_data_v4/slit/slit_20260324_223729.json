@@ -1,0 +1,41 @@
+{
+  "word": "slit",
+  "phonetic": "/slɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "狭缝；裂口；开衩",
+  "examples": [
+    {
+      "sentence": "Light poured through the slit in the blinds.",
+      "style": "Contextual",
+      "translation": "光线从百叶窗的缝隙中倾泻而入。",
+      "translated_word": "缝隙",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her evening gown featured a daring slit up the side.",
+      "style": "Collocational",
+      "translation": "她的晚礼服侧边开了一道大胆的开衩。",
+      "translated_word": "开衩",
+      "display_order": 3
+    },
+    {
+      "sentence": "Through the slit in the clouds, a single star kept watch.",
+      "style": "Poetic",
+      "translation": "云层的缝隙间，一颗孤星静静守望。",
+      "translated_word": "缝隙",
+      "display_order": 2
+    },
+    {
+      "sentence": "Investigators found a clean slit along the sealed envelope's edge.",
+      "style": "Formal",
+      "translation": "调查人员发现密封信封的边缘有一道整齐的切口。",
+      "translated_word": "切口",
+      "display_order": 4
+    }
+  ]
+}

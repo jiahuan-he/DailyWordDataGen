@@ -1,0 +1,40 @@
+{
+  "word": "turnpike",
+  "phonetic": "/ˈtɜːrnpaɪk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "收费公路；高速公路",
+  "examples": [
+    {
+      "sentence": "We took the turnpike to avoid the traffic on local roads.",
+      "style": "Contextual",
+      "translation": "我们走收费公路，避开了地方道路的拥堵。",
+      "translated_word": "收费公路",
+      "display_order": 1
+    },
+    {
+      "sentence": "The turnpike stretched ahead, toll booths marking each county line.",
+      "style": "Collocational",
+      "translation": "收费公路向前延伸，收费站标记着每一条县界。",
+      "translated_word": "收费公路",
+      "display_order": 2
+    },
+    {
+      "sentence": "My father always drove the turnpike with one hand on the wheel, the other pointing out landmarks.",
+      "style": "Intimate",
+      "translation": "父亲开车走收费公路时，总是一只手握方向盘，另一只手指着沿途的地标。",
+      "translated_word": "收费公路",
+      "display_order": 3
+    },
+    {
+      "sentence": "The turnpike hums with a thousand strangers, each racing toward a different version of home.",
+      "style": "Poetic",
+      "translation": "收费公路上车流低鸣，千百个陌生人各自奔向心中不同的归处。",
+      "translated_word": "收费公路",
+      "display_order": 4
+    }
+  ]
+}

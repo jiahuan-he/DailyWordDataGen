@@ -1,0 +1,40 @@
+{
+  "word": "truss",
+  "phonetic": "/trʌs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "桁架；支架；构架",
+  "examples": [
+    {
+      "sentence": "The wooden truss above the stage held three chandeliers.",
+      "style": "Contextual",
+      "translation": "舞台上方的木桁架承托着三盏枝形吊灯。",
+      "translated_word": "桁架",
+      "display_order": 1
+    },
+    {
+      "sentence": "Inspectors flagged the aging truss as a structural concern.",
+      "style": "Formal",
+      "translation": "检查员将老化的桁架列为结构隐患。",
+      "translated_word": "桁架",
+      "display_order": 2
+    },
+    {
+      "sentence": "The roof truss arrived prefabricated, ready for installation.",
+      "style": "Collocational",
+      "translation": "预制的屋顶桁架已运抵现场，可直接安装。",
+      "translated_word": "桁架",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we call elegance often rests on a truss we never see.",
+      "style": "Philosophical",
+      "translation": "我们所见的优雅，往往依托于不曾被看见的支撑。",
+      "translated_word": "支撑",
+      "display_order": 4
+    }
+  ]
+}

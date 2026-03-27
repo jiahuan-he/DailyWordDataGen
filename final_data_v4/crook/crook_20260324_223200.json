@@ -1,0 +1,41 @@
+{
+  "word": "crook",
+  "phonetic": "/krʊk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "骗子；坏蛋；弯钩",
+  "examples": [
+    {
+      "sentence": "He drove a luxury car, but the whole neighborhood knew he was a crook.",
+      "style": "Contextual",
+      "translation": "他开着豪车，但整条街都知道他是个骗子。",
+      "translated_word": "骗子",
+      "display_order": 1
+    },
+    {
+      "sentence": "Prosecutors described the financier as a crook who defrauded thousands of retirees.",
+      "style": "Formal",
+      "translation": "检察官称这位金融家是骗取数千退休老人积蓄的骗子。",
+      "translated_word": "骗子",
+      "display_order": 2
+    },
+    {
+      "sentence": "Trust your instincts: a crook in a suit is still a crook.",
+      "style": "Collocational",
+      "translation": "相信你的直觉：穿西装的骗子依然是骗子。",
+      "translated_word": "骗子",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every crook starts by convincing themselves they deserve what they take.",
+      "style": "Philosophical",
+      "translation": "每个骗子都始于说服自己：他们理应得到所取之物。",
+      "translated_word": "骗子",
+      "display_order": 4
+    }
+  ]
+}

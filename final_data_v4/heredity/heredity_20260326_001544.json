@@ -1,0 +1,39 @@
+{
+  "word": "heredity",
+  "phonetic": "/hɪˈredɪti/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "遗传；遗传性；世袭",
+  "examples": [
+    {
+      "sentence": "The doctor explained that his condition was a matter of heredity, not lifestyle.",
+      "style": "Contextual",
+      "translation": "医生解释说，他的病症源于遗传，与生活方式无关。",
+      "translated_word": "遗传",
+      "display_order": 1
+    },
+    {
+      "sentence": "Recent studies suggest heredity plays a decisive role in longevity.",
+      "style": "Formal",
+      "translation": "最新研究表明，遗传在寿命长短中起着决定性作用。",
+      "translated_word": "遗传",
+      "display_order": 3
+    },
+    {
+      "sentence": "Heredity writes the first draft; we spend our lives revising.",
+      "style": "Philosophical",
+      "translation": "遗传写下初稿，余生皆是修订。",
+      "translated_word": "遗传",
+      "display_order": 4
+    },
+    {
+      "sentence": "My son has my father's laugh. Some gifts arrive through heredity, skipping a generation.",
+      "style": "Intimate",
+      "translation": "儿子的笑声像极了父亲。有些馈赠隔代相传。",
+      "translated_word": "隔代相传",
+      "display_order": 2
+    }
+  ]
+}

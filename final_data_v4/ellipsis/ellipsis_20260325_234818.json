@@ -1,0 +1,39 @@
+{
+  "word": "ellipsis",
+  "phonetic": "/ɪˈlɪpsɪs/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "省略；省略号；未尽之言",
+  "examples": [
+    {
+      "sentence": "The ellipsis at the end of her message said more than any reply could.",
+      "style": "Contextual",
+      "translation": "她消息末尾的省略号，比任何回复都更意味深长。",
+      "translated_word": "省略号",
+      "display_order": 1
+    },
+    {
+      "sentence": "Three dots on a page: a breath held, a door left ajar.",
+      "style": "Poetic",
+      "translation": "纸上三点：一口屏住的气息，一扇虚掩的门。",
+      "translated_word": "三点",
+      "display_order": 4
+    },
+    {
+      "sentence": "An ellipsis is not absence; it is presence too vast for language.",
+      "style": "Philosophical",
+      "translation": "省略号并非空白；它是语言无法容纳的丰盈。",
+      "translated_word": "省略号",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her goodbye ended in an ellipsis, and that unfinished space became where I lived for years.",
+      "style": "Intimate",
+      "translation": "她的告别止于省略号，那片未完的留白，成了我栖居多年的所在。",
+      "translated_word": "省略号",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "dungeon",
+  "phonetic": "/ˈdʌn.dʒən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "地牢；土牢；城堡暗室",
+  "examples": [
+    {
+      "sentence": "The castle's dungeon had not seen sunlight in three hundred years.",
+      "style": "Contextual",
+      "translation": "城堡的地牢已有三百年未见天日。",
+      "translated_word": "地牢",
+      "display_order": 2
+    },
+    {
+      "sentence": "Stone walls wept with moisture; the dungeon remembered every prisoner's breath.",
+      "style": "Poetic",
+      "translation": "石壁渗出潮湿的泪痕；地牢铭记着每一个囚徒的呼吸。",
+      "translated_word": "地牢",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some build their own dungeons, then spend a lifetime searching for the key.",
+      "style": "Philosophical",
+      "translation": "有些人亲手筑起自己的牢笼，却用一生寻找钥匙。",
+      "translated_word": "牢笼",
+      "display_order": 4
+    },
+    {
+      "sentence": "Archaeologists uncovered a medieval dungeon beneath the fortress, its iron shackles still intact.",
+      "style": "Formal",
+      "translation": "考古学家在城堡下方发现了一座中世纪地牢，铁镣依然完好无损。",
+      "translated_word": "地牢",
+      "display_order": 1
+    }
+  ]
+}

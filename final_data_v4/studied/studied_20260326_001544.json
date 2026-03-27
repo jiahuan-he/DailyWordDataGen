@@ -1,0 +1,40 @@
+{
+  "word": "studied",
+  "phonetic": "/ˈstʌd.id/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "刻意的；故作的；深思熟虑的",
+  "examples": [
+    {
+      "sentence": "Her studied calm fooled no one; we could see her hands trembling.",
+      "style": "Contextual",
+      "translation": "她刻意的镇定骗不了任何人；我们都看到她的手在颤抖。",
+      "translated_word": "刻意的",
+      "display_order": 2
+    },
+    {
+      "sentence": "The spokesperson delivered a studied response, revealing nothing new.",
+      "style": "Formal",
+      "translation": "发言人给出了一个深思熟虑的回应，未透露任何新信息。",
+      "translated_word": "深思熟虑的",
+      "display_order": 3
+    },
+    {
+      "sentence": "His charm felt studied, not spontaneous.",
+      "style": "Contrastive",
+      "translation": "他的魅力显得刻意，而非自然流露。",
+      "translated_word": "刻意",
+      "display_order": 1
+    },
+    {
+      "sentence": "We perfect a studied version of ourselves, forgetting who we started as.",
+      "style": "Philosophical",
+      "translation": "我们不断完善那个精心雕琢的自我，却忘了最初的模样。",
+      "translated_word": "精心雕琢的",
+      "display_order": 4
+    }
+  ]
+}

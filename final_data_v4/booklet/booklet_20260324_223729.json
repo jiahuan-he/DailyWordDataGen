@@ -1,0 +1,39 @@
+{
+  "word": "booklet",
+  "phonetic": "/ˈbʊklɪt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "小册子；手册；宣传册",
+  "examples": [
+    {
+      "sentence": "The museum handed out a free booklet at the entrance.",
+      "style": "Contextual",
+      "translation": "博物馆在入口处发放免费小册子。",
+      "translated_word": "小册子",
+      "display_order": 1
+    },
+    {
+      "sentence": "She slipped the travel booklet into her carry-on before boarding.",
+      "style": "Collocational",
+      "translation": "登机前，她把旅行手册塞进了随身行李。",
+      "translated_word": "手册",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother's recipe booklet, stained with decades of oil and love, is now mine.",
+      "style": "Intimate",
+      "translation": "奶奶的食谱小册子沾满了几十年的油渍与爱意，如今传到了我手中。",
+      "translated_word": "小册子",
+      "display_order": 2
+    },
+    {
+      "sentence": "The health ministry published a booklet outlining updated vaccination protocols.",
+      "style": "Formal",
+      "translation": "卫生部发布了一本手册，概述最新的疫苗接种规程。",
+      "translated_word": "手册",
+      "display_order": 4
+    }
+  ]
+}

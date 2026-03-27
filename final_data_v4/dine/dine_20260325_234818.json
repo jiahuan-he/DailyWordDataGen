@@ -1,0 +1,40 @@
+{
+  "word": "dine",
+  "phonetic": "/daɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "用餐；进餐；宴请",
+  "examples": [
+    {
+      "sentence": "We decided to dine at the new Italian place downtown.",
+      "style": "Contextual",
+      "translation": "我们决定去市中心新开的意大利餐厅用餐。",
+      "translated_word": "用餐",
+      "display_order": 1
+    },
+    {
+      "sentence": "World leaders will dine together at the summit's closing ceremony.",
+      "style": "Formal",
+      "translation": "各国领导人将在峰会闭幕式上共进晚宴。",
+      "translated_word": "晚宴",
+      "display_order": 4
+    },
+    {
+      "sentence": "They dine out every Friday to escape the week's routine.",
+      "style": "Collocational",
+      "translation": "他们每周五外出用餐，暂别一周的忙碌。",
+      "translated_word": "用餐",
+      "display_order": 3
+    },
+    {
+      "sentence": "The night he proposed, we dined under a sky full of stars.",
+      "style": "Intimate",
+      "translation": "他求婚那晚，我们在漫天繁星下共进晚餐。",
+      "translated_word": "晚餐",
+      "display_order": 2
+    }
+  ]
+}

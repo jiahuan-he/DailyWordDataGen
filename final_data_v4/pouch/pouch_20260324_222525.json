@@ -1,0 +1,40 @@
+{
+  "word": "pouch",
+  "phonetic": "/paʊtʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "小袋；口袋；育儿袋",
+  "examples": [
+    {
+      "sentence": "She kept her passport in a waterproof pouch while traveling.",
+      "style": "Contextual",
+      "translation": "她旅行时把护照放在一个防水小袋里。",
+      "translated_word": "小袋",
+      "display_order": 1
+    },
+    {
+      "sentence": "The kangaroo's pouch cradled its sleeping joey.",
+      "style": "Collocational",
+      "translation": "袋鼠的育儿袋中，小袋鼠安然入睡。",
+      "translated_word": "育儿袋",
+      "display_order": 3
+    },
+    {
+      "sentence": "In my grandfather's tobacco pouch, I found a letter he never sent.",
+      "style": "Intimate",
+      "translation": "在祖父的烟袋里，我发现了一封他从未寄出的信。",
+      "translated_word": "袋",
+      "display_order": 2
+    },
+    {
+      "sentence": "Seeds rest in the pouch of winter soil, patient for warmth.",
+      "style": "Poetic",
+      "translation": "种子安眠于冬土的囊中，静候暖意。",
+      "translated_word": "囊",
+      "display_order": 4
+    }
+  ]
+}

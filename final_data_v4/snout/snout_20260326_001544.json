@@ -1,0 +1,40 @@
+{
+  "word": "snout",
+  "phonetic": "/snaʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "口鼻；吻部；（动物的）鼻子",
+  "examples": [
+    {
+      "sentence": "The truffle hunter watched his dog's snout work the forest floor.",
+      "style": "Contextual",
+      "translation": "松露猎人注视着他的狗用鼻子细细搜寻林间泥土。",
+      "translated_word": "鼻子",
+      "display_order": 3
+    },
+    {
+      "sentence": "A wet snout pressed against my palm, asking for more.",
+      "style": "Collocational",
+      "translation": "湿润的鼻子贴上我的掌心，讨要更多。",
+      "translated_word": "鼻子",
+      "display_order": 1
+    },
+    {
+      "sentence": "Frost silvered the horse's snout at first light.",
+      "style": "Poetic",
+      "translation": "晨曦初现，霜雪染白了马儿的口鼻。",
+      "translated_word": "口鼻",
+      "display_order": 4
+    },
+    {
+      "sentence": "My childhood dog would rest his gray snout on my knee during thunderstorms.",
+      "style": "Intimate",
+      "translation": "童年的老狗每逢雷雨天，总将灰白的口鼻搁在我膝上。",
+      "translated_word": "口鼻",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "itemise",
+  "phonetic": "/ˈaɪtəmaɪz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "逐项列出；详列；列举",
+  "examples": [
+    {
+      "sentence": "The accountant asked me to itemise every business expense from the trip.",
+      "style": "Formal",
+      "translation": "会计让我逐项列出这次出差的所有费用。",
+      "translated_word": "逐项列出",
+      "display_order": 1
+    },
+    {
+      "sentence": "Before packing, she itemised everything she needed for the month abroad.",
+      "style": "Contextual",
+      "translation": "打包前，她把一个月海外生活所需的物品一一列出。",
+      "translated_word": "一一列出",
+      "display_order": 2
+    },
+    {
+      "sentence": "Don't just summarise the damages; itemise them for the insurance claim.",
+      "style": "Contrastive",
+      "translation": "别只概述损失，要逐项列明以便申请理赔。",
+      "translated_word": "逐项列明",
+      "display_order": 3
+    },
+    {
+      "sentence": "He itemised his groceries, totalling each category before checkout.",
+      "style": "Collocational",
+      "translation": "他把杂货分门别类列好，结账前算出每类的小计。",
+      "translated_word": "分门别类列好",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "venom",
+  "phonetic": "/ˈvenəm/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "毒液；恶意；怨毒",
+  "examples": [
+    {
+      "sentence": "The snake's venom could kill a grown man in minutes.",
+      "style": "Contextual",
+      "translation": "这条蛇的毒液能在几分钟内杀死一个成年人。",
+      "translated_word": "毒液",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her words carried venom, each syllable a slow poison.",
+      "style": "Poetic",
+      "translation": "她的话语含着毒，每个音节都是缓缓渗入的剧毒。",
+      "translated_word": "毒",
+      "display_order": 3
+    },
+    {
+      "sentence": "We store venom for those we once loved most deeply.",
+      "style": "Philosophical",
+      "translation": "我们为曾经最深爱的人积攒着最多的怨毒。",
+      "translated_word": "怨毒",
+      "display_order": 4
+    },
+    {
+      "sentence": "He spat venom at anyone who questioned his authority.",
+      "style": "Collocational",
+      "translation": "他对任何质疑其权威的人恶语相向。",
+      "translated_word": "恶语",
+      "display_order": 2
+    }
+  ]
+}

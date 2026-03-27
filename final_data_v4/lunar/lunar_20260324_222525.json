@@ -1,0 +1,40 @@
+{
+  "word": "lunar",
+  "phonetic": "/ˈluːnər/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "月球的；月亮的；阴历的",
+  "examples": [
+    {
+      "sentence": "The lunar surface is scattered with craters billions of years old.",
+      "style": "Contextual",
+      "translation": "月球表面布满了数十亿年前形成的陨石坑。",
+      "translated_word": "月球",
+      "display_order": 1
+    },
+    {
+      "sentence": "We gather for the lunar new year, the one holiday no one skips.",
+      "style": "Collocational",
+      "translation": "我们为农历新年团聚；这是谁都不会缺席的节日。",
+      "translated_word": "农历",
+      "display_order": 2
+    },
+    {
+      "sentence": "Under the lunar glow, the tide answers in silence.",
+      "style": "Poetic",
+      "translation": "月华之下，潮汐无声应答。",
+      "translated_word": "月华",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother marked her age by the lunar calendar; she never trusted the Western one.",
+      "style": "Intimate",
+      "translation": "外婆用农历记岁，从不信那西洋历法。",
+      "translated_word": "农历",
+      "display_order": 3
+    }
+  ]
+}

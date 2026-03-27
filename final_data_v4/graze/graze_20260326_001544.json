@@ -1,0 +1,40 @@
+{
+  "word": "graze",
+  "phonetic": "/ɡreɪz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "吃草；擦过；擦伤",
+  "examples": [
+    {
+      "sentence": "The cattle graze freely across the open pasture.",
+      "style": "Contextual",
+      "translation": "牛群在开阔的牧场上自由地吃草。",
+      "translated_word": "吃草",
+      "display_order": 1
+    },
+    {
+      "sentence": "Wild horses graze where the meadow meets the mist.",
+      "style": "Poetic",
+      "translation": "野马在草甸与薄雾交汇处低头觅食。",
+      "translated_word": "觅食",
+      "display_order": 2
+    },
+    {
+      "sentence": "He grazed his knee on the concrete during the fall.",
+      "style": "Collocational",
+      "translation": "摔倒时，他的膝盖在水泥地上擦破了皮。",
+      "translated_word": "擦破",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her hand grazed mine across the table; neither of us pulled away.",
+      "style": "Intimate",
+      "translation": "她的手越过桌面轻触我的手；我们都没有收回。",
+      "translated_word": "轻触",
+      "display_order": 4
+    }
+  ]
+}

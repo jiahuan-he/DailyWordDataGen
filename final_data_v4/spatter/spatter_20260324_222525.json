@@ -1,0 +1,40 @@
+{
+  "word": "spatter",
+  "phonetic": "/ˈspætər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "溅；飞溅；洒落",
+  "examples": [
+    {
+      "sentence": "Rain spattered against the window as she read.",
+      "style": "Contextual",
+      "translation": "她读书时，雨点溅落在窗上。",
+      "translated_word": "溅落",
+      "display_order": 2
+    },
+    {
+      "sentence": "The first drops spattered the dust, releasing the scent of earth.",
+      "style": "Poetic",
+      "translation": "最初几滴雨溅起尘土，泥土的气息随之弥漫。",
+      "translated_word": "溅起",
+      "display_order": 3
+    },
+    {
+      "sentence": "Grease spattered from the pan onto the stovetop.",
+      "style": "Collocational",
+      "translation": "油脂从锅中飞溅到灶台上。",
+      "translated_word": "飞溅",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her laughter spattered color across my gray morning.",
+      "style": "Intimate",
+      "translation": "她的笑声为我灰暗的清晨洒上了色彩。",
+      "translated_word": "洒上",
+      "display_order": 4
+    }
+  ]
+}

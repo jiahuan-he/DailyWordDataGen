@@ -1,0 +1,39 @@
+{
+  "word": "suggestive",
+  "phonetic": "/səˈdʒestɪv/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "暗示的；引人联想的；启发性的",
+  "examples": [
+    {
+      "sentence": "Her silence was more suggestive than any accusation.",
+      "style": "Contextual",
+      "translation": "她的沉默比任何指责都更耐人寻味。",
+      "translated_word": "耐人寻味",
+      "display_order": 1
+    },
+    {
+      "sentence": "Critics noted the painting's suggestive imagery, evoking themes of loss and longing.",
+      "style": "Formal",
+      "translation": "评论家注意到这幅画意味深长的意象，唤起了关于失去与渴望的主题。",
+      "translated_word": "意味深长的",
+      "display_order": 2
+    },
+    {
+      "sentence": "Fog drifted through the ruins, suggestive of ghosts still searching.",
+      "style": "Poetic",
+      "translation": "雾气穿过废墟飘散，仿佛仍有幽魂在寻觅。",
+      "translated_word": "仿佛",
+      "display_order": 4
+    },
+    {
+      "sentence": "The best questions are suggestive; they open doors without pushing you through.",
+      "style": "Philosophical",
+      "translation": "最好的问题总是启发性的：它们为你敞开门，却不催促你迈入。",
+      "translated_word": "启发性的",
+      "display_order": 3
+    }
+  ]
+}

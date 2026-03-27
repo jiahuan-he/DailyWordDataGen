@@ -1,0 +1,41 @@
+{
+  "word": "clam",
+  "phonetic": "/klæm/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "蛤蜊；蚌",
+  "examples": [
+    {
+      "sentence": "The clam snapped its shell shut when I touched it.",
+      "style": "Contextual",
+      "translation": "我一碰，那只蛤蜊便猛地合上了壳。",
+      "translated_word": "蛤蜊",
+      "display_order": 1
+    },
+    {
+      "sentence": "She ordered a bowl of clam chowder on that cold afternoon.",
+      "style": "Collocational",
+      "translation": "那个寒冷的午后，她点了一碗蛤蜊浓汤。",
+      "translated_word": "蛤蜊",
+      "display_order": 3
+    },
+    {
+      "sentence": "Each clam holds a small ocean, sealed in silence.",
+      "style": "Poetic",
+      "translation": "每一只蛤蜊都封存着一片小小的海，静默无言。",
+      "translated_word": "蛤蜊",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother taught me to find clams by watching for tiny bubbles in the sand.",
+      "style": "Intimate",
+      "translation": "祖母教我循着沙滩上细小的气泡，找到藏身的蛤蜊。",
+      "translated_word": "蛤蜊",
+      "display_order": 2
+    }
+  ]
+}

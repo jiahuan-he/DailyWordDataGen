@@ -1,0 +1,40 @@
+{
+  "word": "rosy",
+  "phonetic": "/ˈroʊzi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "玫瑰色的；红润的；乐观的；美好的",
+  "examples": [
+    {
+      "sentence": "The children ran in from the snow, cheeks rosy and bright.",
+      "style": "Contextual",
+      "translation": "孩子们从雪地里跑进来，脸颊红扑扑的。",
+      "translated_word": "红扑扑",
+      "display_order": 1
+    },
+    {
+      "sentence": "Investors remain rosy about the company's future despite recent losses.",
+      "style": "Collocational",
+      "translation": "尽管近期亏损，投资者对公司前景依然乐观。",
+      "translated_word": "乐观",
+      "display_order": 4
+    },
+    {
+      "sentence": "Dawn spilled rosy light across the sea, and the fishing boats woke.",
+      "style": "Poetic",
+      "translation": "黎明将玫瑰色的光洒向海面，渔船渐次苏醒。",
+      "translated_word": "玫瑰色",
+      "display_order": 3
+    },
+    {
+      "sentence": "She laughed at our old photos: we looked so rosy, so sure of everything.",
+      "style": "Intimate",
+      "translation": "她笑着翻看旧照片：那时的我们多么红润，多么笃定。",
+      "translated_word": "红润",
+      "display_order": 2
+    }
+  ]
+}

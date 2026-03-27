@@ -1,0 +1,40 @@
+{
+  "word": "iris",
+  "phonetic": "/ˈaɪrɪs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "虹膜；鸢尾花",
+  "examples": [
+    {
+      "sentence": "Her iris contracted sharply when the light hit her eyes.",
+      "style": "Contextual",
+      "translation": "灯光照来时，她的虹膜骤然收缩。",
+      "translated_word": "虹膜",
+      "display_order": 3
+    },
+    {
+      "sentence": "Purple irises lined the garden path, nodding in the spring rain.",
+      "style": "Poetic",
+      "translation": "紫色鸢尾沿花径盛开，在春雨中轻轻颔首。",
+      "translated_word": "鸢尾",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother grew irises by her window; their scent still brings me home.",
+      "style": "Intimate",
+      "translation": "祖母在窗边种着鸢尾，那香气至今仍能唤我归家。",
+      "translated_word": "鸢尾",
+      "display_order": 2
+    },
+    {
+      "sentence": "The iris betrays us: it dilates with desire and contracts with fear.",
+      "style": "Philosophical",
+      "translation": "虹膜会背叛我们：它因渴望而放大，因恐惧而收缩。",
+      "translated_word": "虹膜",
+      "display_order": 4
+    }
+  ]
+}

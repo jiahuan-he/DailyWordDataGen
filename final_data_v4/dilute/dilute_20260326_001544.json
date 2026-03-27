@@ -1,0 +1,41 @@
+{
+  "word": "dilute",
+  "phonetic": "/daɪˈluːt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "稀释；冲淡；削弱",
+  "examples": [
+    {
+      "sentence": "She diluted the juice with cold water before serving.",
+      "style": "Contextual",
+      "translation": "上桌前，她用冷水把果汁稀释了。",
+      "translated_word": "稀释",
+      "display_order": 1
+    },
+    {
+      "sentence": "Too many compromises dilute the original vision.",
+      "style": "Collocational",
+      "translation": "太多的妥协会冲淡最初的愿景。",
+      "translated_word": "冲淡",
+      "display_order": 3
+    },
+    {
+      "sentence": "Distance dilutes anger, but it also dilutes love.",
+      "style": "Philosophical",
+      "translation": "距离能稀释愤怒，也同样稀释爱。",
+      "translated_word": "稀释",
+      "display_order": 4
+    },
+    {
+      "sentence": "Rain began to dilute the ink on the forgotten letter.",
+      "style": "Poetic",
+      "translation": "雨水渐渐冲淡了那封遗落信笺上的墨迹。",
+      "translated_word": "冲淡",
+      "display_order": 2
+    }
+  ]
+}

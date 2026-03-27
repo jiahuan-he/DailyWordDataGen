@@ -1,0 +1,40 @@
+{
+  "word": "potter",
+  "phonetic": "/ˈpɒtər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "陶工；制陶者；陶艺师",
+  "examples": [
+    {
+      "sentence": "The potter's hands moved steadily, coaxing shape from spinning clay.",
+      "style": "Contextual",
+      "translation": "陶工的双手沉稳移动，从旋转的泥土中唤出形态。",
+      "translated_word": "陶工",
+      "display_order": 1
+    },
+    {
+      "sentence": "A master potter knows when to apply pressure and when to let go.",
+      "style": "Philosophical",
+      "translation": "制陶大师深谙何时施力，何时放手。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "She trained under a village potter for three summers before opening her own kiln.",
+      "style": "Collocational",
+      "translation": "她在一位村里的陶艺师门下学艺三个夏天，才开了自己的窑。",
+      "translated_word": "陶艺师",
+      "display_order": 2
+    },
+    {
+      "sentence": "Wet earth, quiet wheel, the potter's breath: a vessel is born.",
+      "style": "Poetic",
+      "translation": "湿润的泥，静转的轮，陶工的呼吸：一只器皿就此诞生。",
+      "translated_word": "陶工",
+      "display_order": 4
+    }
+  ]
+}

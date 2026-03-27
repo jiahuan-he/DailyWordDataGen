@@ -1,0 +1,40 @@
+{
+  "word": "crochet",
+  "phonetic": "/kroʊˈʃeɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "钩编；钩织",
+  "examples": [
+    {
+      "sentence": "She sat by the fire, crocheting while we talked.",
+      "style": "Contextual",
+      "translation": "她坐在炉火旁钩编，我们就这样聊着。",
+      "translated_word": "钩编",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every winter, she crochets matching scarves for her children.",
+      "style": "Collocational",
+      "translation": "每年冬天，她都为孩子们钩织配套的围巾。",
+      "translated_word": "钩织",
+      "display_order": 1
+    },
+    {
+      "sentence": "At twelve, I watched my grandmother crochet; now her hooks rest in my hands.",
+      "style": "Intimate",
+      "translation": "十二岁时，我看着祖母钩编；如今，她的钩针握在了我手中。",
+      "translated_word": "钩编",
+      "display_order": 3
+    },
+    {
+      "sentence": "To crochet is to anchor time in thread, loop by quiet loop.",
+      "style": "Poetic",
+      "translation": "钩编，是将时光系于丝线，一圈又一圈，静默绵长。",
+      "translated_word": "钩编",
+      "display_order": 4
+    }
+  ]
+}

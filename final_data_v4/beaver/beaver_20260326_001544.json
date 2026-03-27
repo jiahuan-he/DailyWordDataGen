@@ -1,0 +1,39 @@
+{
+  "word": "beaver",
+  "phonetic": "/ˈbiːvər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "河狸；海狸",
+  "examples": [
+    {
+      "sentence": "A beaver surfaced near the riverbank, a branch clamped in its teeth.",
+      "style": "Contextual",
+      "translation": "一只河狸浮出水面，嘴里紧咬着一根树枝。",
+      "translated_word": "河狸",
+      "display_order": 1
+    },
+    {
+      "sentence": "The beaver dam had transformed the stream into a quiet pond.",
+      "style": "Collocational",
+      "translation": "河狸筑起的堤坝将溪流变成了一方静谧的池塘。",
+      "translated_word": "河狸",
+      "display_order": 2
+    },
+    {
+      "sentence": "Beneath the willow's shadow, the beaver carves its cathedral from fallen wood.",
+      "style": "Poetic",
+      "translation": "柳荫之下，河狸以倒木雕琢着自己的殿堂。",
+      "translated_word": "河狸",
+      "display_order": 3
+    },
+    {
+      "sentence": "The beaver asks no permission; it simply reshapes the world to fit its needs.",
+      "style": "Philosophical",
+      "translation": "河狸从不请求许可；它只是将世界改造成自己需要的模样。",
+      "translated_word": "河狸",
+      "display_order": 4
+    }
+  ]
+}

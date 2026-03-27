@@ -1,0 +1,40 @@
+{
+  "word": "shear",
+  "phonetic": "/ʃɪr/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "剪；剪切；切断",
+  "examples": [
+    {
+      "sentence": "Every spring, the farmers shear their flocks before the summer heat arrives.",
+      "style": "Contextual",
+      "translation": "每年春天，农夫们都会在酷暑来临前为羊群剪毛。",
+      "translated_word": "剪毛",
+      "display_order": 1
+    },
+    {
+      "sentence": "The aircraft wing failed when extreme turbulence caused the bolts to shear clean off.",
+      "style": "Formal",
+      "translation": "剧烈的气流导致螺栓齐根断裂，机翼随即失灵。",
+      "translated_word": "断裂",
+      "display_order": 3
+    },
+    {
+      "sentence": "Wind sheared through the valley, stripping the last leaves from the oaks.",
+      "style": "Poetic",
+      "translation": "风穿谷而过，卷尽橡树枝头最后的残叶。",
+      "translated_word": "穿",
+      "display_order": 4
+    },
+    {
+      "sentence": "A single blade can shear through steel if moved fast enough.",
+      "style": "Collocational",
+      "translation": "只要速度够快，一片刀刃便能切穿钢铁。",
+      "translated_word": "切穿",
+      "display_order": 2
+    }
+  ]
+}

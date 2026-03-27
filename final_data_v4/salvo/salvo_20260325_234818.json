@@ -1,0 +1,40 @@
+{
+  "word": "salvo",
+  "phonetic": "/ˈsælvoʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "齐射；连发攻击；齐鸣",
+  "examples": [
+    {
+      "sentence": "The critic's opening salvo left the director scrambling for a response.",
+      "style": "Contextual",
+      "translation": "评论家的开场齐轰让导演手忙脚乱地应对。",
+      "translated_word": "齐轰",
+      "display_order": 2
+    },
+    {
+      "sentence": "The senator fired a salvo of accusations that dominated the evening news.",
+      "style": "Formal",
+      "translation": "参议员连珠炮般的指控占据了当晚新闻的头条。",
+      "translated_word": "连珠炮",
+      "display_order": 1
+    },
+    {
+      "sentence": "Thunder rolls across the valley: the sky's ancient salvo.",
+      "style": "Poetic",
+      "translation": "雷声滚过山谷：苍穹亘古的轰鸣。",
+      "translated_word": "轰鸣",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her first salvo in negotiations secured the entire deal.",
+      "style": "Collocational",
+      "translation": "她在谈判中的首轮攻势锁定了整笔交易。",
+      "translated_word": "攻势",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "quench",
+  "phonetic": "/kwentʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "解渴；熄灭；压制",
+  "examples": [
+    {
+      "sentence": "After the long hike, only ice-cold water could quench her thirst.",
+      "style": "Contextual",
+      "translation": "长途跋涉后，唯有冰水能解她的渴。",
+      "translated_word": "解",
+      "display_order": 1
+    },
+    {
+      "sentence": "The first autumn rain quenched the parched earth; the soil seemed to exhale.",
+      "style": "Poetic",
+      "translation": "初秋的雨浇透了干裂的土地；大地仿佛长舒了一口气。",
+      "translated_word": "浇透",
+      "display_order": 2
+    },
+    {
+      "sentence": "Water quenches thirst; truth quenches doubt.",
+      "style": "Collocational",
+      "translation": "水能解渴，真相能消疑。",
+      "translated_word": "解",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some passions burn brighter the more you try to quench them.",
+      "style": "Philosophical",
+      "translation": "有些热情，你越想压制，它越燃烧得炽烈。",
+      "translated_word": "压制",
+      "display_order": 4
+    }
+  ]
+}

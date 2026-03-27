@@ -1,0 +1,40 @@
+{
+  "word": "incline",
+  "phonetic": "/ɪnˈklaɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "倾向；使倾斜；促使",
+  "examples": [
+    {
+      "sentence": "Her curiosity inclined her toward the sciences from an early age.",
+      "style": "Contextual",
+      "translation": "她的好奇心从小便引她走向科学。",
+      "translated_word": "引",
+      "display_order": 1
+    },
+    {
+      "sentence": "We incline toward comfort, yet growth lives in discomfort.",
+      "style": "Philosophical",
+      "translation": "我们倾向于安逸，而成长却栖居于不适之中。",
+      "translated_word": "倾向于",
+      "display_order": 3
+    },
+    {
+      "sentence": "The latest findings incline researchers to revise their initial hypothesis.",
+      "style": "Formal",
+      "translation": "最新发现促使研究人员修正了最初的假设。",
+      "translated_word": "促使",
+      "display_order": 4
+    },
+    {
+      "sentence": "These days, I incline toward listening rather than speaking.",
+      "style": "Intimate",
+      "translation": "如今，比起倾诉，我更愿倾听。",
+      "translated_word": "更愿",
+      "display_order": 2
+    }
+  ]
+}

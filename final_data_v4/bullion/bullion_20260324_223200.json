@@ -1,0 +1,39 @@
+{
+  "word": "bullion",
+  "phonetic": "/ˈbʊliən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "金条；银条；金银块",
+  "examples": [
+    {
+      "sentence": "The vault held rows of gold bullion, each bar stamped with its weight.",
+      "style": "Contextual",
+      "translation": "金库中整齐排列着金条，每根都刻有重量标识。",
+      "translated_word": "金条",
+      "display_order": 1
+    },
+    {
+      "sentence": "Central banks quietly increased their bullion reserves amid currency volatility.",
+      "style": "Formal",
+      "translation": "面对汇率波动，各国央行悄然增持金银储备。",
+      "translated_word": "金银",
+      "display_order": 3
+    },
+    {
+      "sentence": "He converted his savings into bullion, trusting metal over paper.",
+      "style": "Collocational",
+      "translation": "他将积蓄兑换成金条，宁信金属，不信纸币。",
+      "translated_word": "金条",
+      "display_order": 2
+    },
+    {
+      "sentence": "Empires rise and fall, yet bullion remains the oldest promise we still honor.",
+      "style": "Philosophical",
+      "translation": "帝国兴衰更替，唯有金银是人类至今仍兑现的最古老承诺。",
+      "translated_word": "金银",
+      "display_order": 4
+    }
+  ]
+}

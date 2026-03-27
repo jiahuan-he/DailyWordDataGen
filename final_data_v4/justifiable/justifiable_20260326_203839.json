@@ -1,0 +1,39 @@
+{
+  "word": "justifiable",
+  "phonetic": "/ˈdʒʌstɪfaɪəbl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "合理的；正当的；情有可原的",
+  "examples": [
+    {
+      "sentence": "After three broken promises, her distrust was justifiable.",
+      "style": "Contextual",
+      "translation": "三次食言之后，她的不信任合情合理。",
+      "translated_word": "合情合理",
+      "display_order": 1
+    },
+    {
+      "sentence": "The board deemed the emergency spending justifiable given the crisis.",
+      "style": "Formal",
+      "translation": "鉴于危机情况，董事会认定这笔紧急支出属于正当开支。",
+      "translated_word": "正当",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every unkindness we commit feels justifiable in the moment.",
+      "style": "Philosophical",
+      "translation": "我们犯下的每一次刻薄，当时都觉得理所应当。",
+      "translated_word": "理所应当",
+      "display_order": 4
+    },
+    {
+      "sentence": "Skepticism is often justifiable; cynicism rarely is.",
+      "style": "Contrastive",
+      "translation": "怀疑往往情有可原；愤世嫉俗则未必。",
+      "translated_word": "情有可原",
+      "display_order": 3
+    }
+  ]
+}

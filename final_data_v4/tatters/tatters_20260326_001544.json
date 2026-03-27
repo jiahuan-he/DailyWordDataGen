@@ -1,0 +1,40 @@
+{
+  "word": "tatters",
+  "phonetic": "/ˈtætərz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "破布；碎片；破烂不堪",
+  "examples": [
+    {
+      "sentence": "The flag hung in tatters, but no one took it down.",
+      "style": "Contextual",
+      "translation": "旗帜已破烂不堪，却无人将它取下。",
+      "translated_word": "破烂不堪",
+      "display_order": 1
+    },
+    {
+      "sentence": "What remains of us is not the crown, but the tatters we mended together.",
+      "style": "Poetic",
+      "translation": "留下的不是王冠，而是我们共同缝补过的碎片。",
+      "translated_word": "碎片",
+      "display_order": 3
+    },
+    {
+      "sentence": "The ceasefire agreement lies in tatters after yesterday's attacks.",
+      "style": "Collocational",
+      "translation": "昨日的袭击过后，停火协议已化为泡影。",
+      "translated_word": "泡影",
+      "display_order": 2
+    },
+    {
+      "sentence": "Empires fall not in a single blow, but thread by thread into tatters.",
+      "style": "Philosophical",
+      "translation": "帝国的倾覆从非一击之下，而是一丝一缕地走向破碎。",
+      "translated_word": "破碎",
+      "display_order": 4
+    }
+  ]
+}

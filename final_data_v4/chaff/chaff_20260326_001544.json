@@ -1,0 +1,40 @@
+{
+  "word": "chaff",
+  "phonetic": "/tʃæf/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "糠；谷壳；无价值之物",
+  "examples": [
+    {
+      "sentence": "The wind carried the chaff away, leaving only golden grain.",
+      "style": "Contextual",
+      "translation": "风吹走了糠皮，只留下金黄的谷粒。",
+      "translated_word": "糠皮",
+      "display_order": 1
+    },
+    {
+      "sentence": "A good editor separates the wheat from the chaff.",
+      "style": "Contrastive",
+      "translation": "好的编辑懂得去芜存菁。",
+      "translated_word": "芜",
+      "display_order": 3
+    },
+    {
+      "sentence": "Most advice is chaff; wisdom lies in knowing which seeds to keep.",
+      "style": "Philosophical",
+      "translation": "多数建议不过是糟粕；智慧在于辨别哪些种子值得留存。",
+      "translated_word": "糟粕",
+      "display_order": 4
+    },
+    {
+      "sentence": "Critics dismissed the report as political chaff.",
+      "style": "Formal",
+      "translation": "评论人士将这份报告斥为政治废话。",
+      "translated_word": "废话",
+      "display_order": 2
+    }
+  ]
+}

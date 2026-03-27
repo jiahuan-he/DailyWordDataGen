@@ -1,0 +1,40 @@
+{
+  "word": "outlay",
+  "phonetic": "/ˈaʊtleɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "支出；花费；开销",
+  "examples": [
+    {
+      "sentence": "The initial outlay was steep, but the savings added up.",
+      "style": "Contextual",
+      "translation": "初期支出虽高，但积少成多，终有回报。",
+      "translated_word": "支出",
+      "display_order": 3
+    },
+    {
+      "sentence": "The project demands a capital outlay of three million dollars.",
+      "style": "Formal",
+      "translation": "该项目需要三百万美元的资本支出。",
+      "translated_word": "支出",
+      "display_order": 1
+    },
+    {
+      "sentence": "After the initial outlay, solar panels pay for themselves in five years.",
+      "style": "Collocational",
+      "translation": "太阳能板在初始投入后，五年内即可收回成本。",
+      "translated_word": "投入",
+      "display_order": 2
+    },
+    {
+      "sentence": "A larger outlay today often means fewer repairs tomorrow.",
+      "style": "Contrastive",
+      "translation": "今日多花一分钱，明日少修一道坎。",
+      "translated_word": "花",
+      "display_order": 4
+    }
+  ]
+}

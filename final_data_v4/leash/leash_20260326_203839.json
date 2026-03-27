@@ -1,0 +1,40 @@
+{
+  "word": "leash",
+  "phonetic": "/liːʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "牵绳；皮带；束缚",
+  "examples": [
+    {
+      "sentence": "The puppy strained against its leash, desperate to reach the other dog.",
+      "style": "Contextual",
+      "translation": "小狗拼命拽着牵绳，急切地想靠近另一只狗。",
+      "translated_word": "牵绳",
+      "display_order": 2
+    },
+    {
+      "sentence": "All dogs must be kept on a leash in public areas.",
+      "style": "Collocational",
+      "translation": "所有犬只在公共场所必须系上牵绳。",
+      "translated_word": "牵绳",
+      "display_order": 1
+    },
+    {
+      "sentence": "We often fear the leash less than the freedom that follows.",
+      "style": "Philosophical",
+      "translation": "我们害怕的往往不是束缚，而是随之而来的自由。",
+      "translated_word": "束缚",
+      "display_order": 4
+    },
+    {
+      "sentence": "His leash still hangs by the door, untouched since December.",
+      "style": "Intimate",
+      "translation": "他的牵绳还挂在门边，自十二月起再未动过。",
+      "translated_word": "牵绳",
+      "display_order": 3
+    }
+  ]
+}

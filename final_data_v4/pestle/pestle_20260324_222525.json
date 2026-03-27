@@ -1,0 +1,40 @@
+{
+  "word": "pestle",
+  "phonetic": "/ˈpes.əl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "杵；研杵；捣棒",
+  "examples": [
+    {
+      "sentence": "She crushed the garlic with a pestle until it became a smooth paste.",
+      "style": "Contextual",
+      "translation": "她用杵将大蒜捣成细腻的糊状。",
+      "translated_word": "杵",
+      "display_order": 1
+    },
+    {
+      "sentence": "A stone mortar and pestle sat on her counter, unchanged for thirty years.",
+      "style": "Collocational",
+      "translation": "一套石臼和杵立在她的台面上，三十年未曾移动。",
+      "translated_word": "杵",
+      "display_order": 3
+    },
+    {
+      "sentence": "The pestle turned in slow circles, waking the ancient scent of cumin.",
+      "style": "Poetic",
+      "translation": "杵缓缓转动，唤醒孜然亘古的香气。",
+      "translated_word": "杵",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's wooden pestle, worn smooth by decades, now lives in my kitchen.",
+      "style": "Intimate",
+      "translation": "祖母那把被岁月磨光的木杵，如今安放在我的厨房里。",
+      "translated_word": "木杵",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "graft",
+  "phonetic": "/ɡræft/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "嫁接；移植；植入",
+  "examples": [
+    {
+      "sentence": "The gardener grafted a branch from the old apple tree onto the young sapling.",
+      "style": "Contextual",
+      "translation": "园丁将老苹果树的枝条嫁接到幼苗上。",
+      "translated_word": "嫁接",
+      "display_order": 1
+    },
+    {
+      "sentence": "Surgeons successfully grafted donor tissue to repair the patient's damaged artery.",
+      "style": "Formal",
+      "translation": "外科医生成功移植供体组织，修复了患者受损的动脉。",
+      "translated_word": "移植",
+      "display_order": 2
+    },
+    {
+      "sentence": "We graft our ancestors' wisdom onto modern lives, hoping the roots will hold.",
+      "style": "Philosophical",
+      "translation": "我们将先人的智慧嫁接于当代生活，盼望根脉长存。",
+      "translated_word": "嫁接",
+      "display_order": 3
+    },
+    {
+      "sentence": "She grafts light into grief, one quiet word at a time.",
+      "style": "Poetic",
+      "translation": "她将光明植入悲伤，一句轻语，一寸温柔。",
+      "translated_word": "植入",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "tongs",
+  "phonetic": "/tɔːŋz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "钳子；夹子；火钳",
+  "examples": [
+    {
+      "sentence": "She lifted the sizzling bacon from the pan with a pair of tongs.",
+      "style": "Contextual",
+      "translation": "她用夹子从锅中夹起滋滋作响的培根。",
+      "translated_word": "夹子",
+      "display_order": 1
+    },
+    {
+      "sentence": "The salad tongs rested beside the wooden bowl, waiting for guests.",
+      "style": "Collocational",
+      "translation": "沙拉夹静静搁在木碗旁，等待客人的到来。",
+      "translated_word": "夹",
+      "display_order": 2
+    },
+    {
+      "sentence": "Metal tongs clicked above the grill, conducting smoke and flame.",
+      "style": "Poetic",
+      "translation": "金属夹在烤架上轻叩作响，指挥着烟与火的合奏。",
+      "translated_word": "夹",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's blackened tongs still hang by her old stove, unchanged for decades.",
+      "style": "Intimate",
+      "translation": "祖母那副熏黑的火钳至今仍挂在老灶旁，几十年未曾变过。",
+      "translated_word": "火钳",
+      "display_order": 3
+    }
+  ]
+}

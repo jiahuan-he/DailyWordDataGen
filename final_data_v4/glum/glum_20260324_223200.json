@@ -1,0 +1,41 @@
+{
+  "word": "glum",
+  "phonetic": "/ɡlʌm/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "闷闷不乐；阴郁；愁眉苦脸",
+  "examples": [
+    {
+      "sentence": "He sat glum at the kitchen table, his coffee growing cold.",
+      "style": "Contextual",
+      "translation": "他闷闷不乐地坐在餐桌旁，咖啡渐渐凉了。",
+      "translated_word": "闷闷不乐",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rain tapped the window; even the dog looked glum.",
+      "style": "Poetic",
+      "translation": "雨点轻叩窗棂，连狗也显得郁郁寡欢。",
+      "translated_word": "郁郁寡欢",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father wore a glum expression the whole drive home.",
+      "style": "Collocational",
+      "translation": "父亲一路上都板着脸，神情阴沉。",
+      "translated_word": "阴沉",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some mornings I wake glum for no reason, and that's okay.",
+      "style": "Intimate",
+      "translation": "有些早晨醒来莫名低落，但这没什么。",
+      "translated_word": "低落",
+      "display_order": 4
+    }
+  ]
+}

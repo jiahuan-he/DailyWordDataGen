@@ -1,0 +1,40 @@
+{
+  "word": "fathom",
+  "phonetic": "/ˈfæðəm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "理解；领悟；参透",
+  "examples": [
+    {
+      "sentence": "The detective couldn't fathom why the suspect had confessed so easily.",
+      "style": "Contextual",
+      "translation": "侦探无法理解，嫌疑人为何如此轻易地认罪。",
+      "translated_word": "理解",
+      "display_order": 1
+    },
+    {
+      "sentence": "Grief arrives in waves too vast to fathom all at once.",
+      "style": "Philosophical",
+      "translation": "悲伤如潮涌来，一时难以参透其深。",
+      "translated_word": "参透",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her silence held depths no language could fathom.",
+      "style": "Poetic",
+      "translation": "她的沉默深不可测，言语难以企及。",
+      "translated_word": "企及",
+      "display_order": 4
+    },
+    {
+      "sentence": "At eighteen, I couldn't fathom why my father saved letters from people he'd never meet.",
+      "style": "Intimate",
+      "translation": "十八岁时，我不明白父亲为何珍藏那些素未谋面之人的来信。",
+      "translated_word": "明白",
+      "display_order": 2
+    }
+  ]
+}

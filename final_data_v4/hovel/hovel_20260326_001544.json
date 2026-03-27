@@ -1,0 +1,40 @@
+{
+  "word": "hovel",
+  "phonetic": "/ˈhʌvəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "陋室；破屋；棚屋",
+  "examples": [
+    {
+      "sentence": "The family of six crowded into a hovel with a dirt floor and no windows.",
+      "style": "Contextual",
+      "translation": "一家六口挤在一间土地板、无窗户的破屋里。",
+      "translated_word": "破屋",
+      "display_order": 1
+    },
+    {
+      "sentence": "He left the mansion and chose a hovel; only then did he sleep soundly.",
+      "style": "Contrastive",
+      "translation": "他离开豪宅，选择了陋室；自此方得安眠。",
+      "translated_word": "陋室",
+      "display_order": 3
+    },
+    {
+      "sentence": "Smoke curled from the hovel's chimney, the only sign of life for miles.",
+      "style": "Poetic",
+      "translation": "炊烟从棚屋的烟囱袅袅升起，是方圆数里唯一的生息。",
+      "translated_word": "棚屋",
+      "display_order": 2
+    },
+    {
+      "sentence": "A hovel that shelters becomes a home; a palace that isolates remains a prison.",
+      "style": "Philosophical",
+      "translation": "能遮风挡雨的陋室便是家；令人孤绝的宫殿终是囚笼。",
+      "translated_word": "陋室",
+      "display_order": 4
+    }
+  ]
+}

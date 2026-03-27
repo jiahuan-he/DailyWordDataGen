@@ -1,0 +1,40 @@
+{
+  "word": "ballast",
+  "phonetic": "/ˈbæləst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "压舱物；稳定因素；道碴",
+  "examples": [
+    {
+      "sentence": "The cargo ship took on seawater as ballast before crossing the Atlantic.",
+      "style": "Contextual",
+      "translation": "货船在横渡大西洋前加注海水作为压舱物。",
+      "translated_word": "压舱物",
+      "display_order": 1
+    },
+    {
+      "sentence": "Routine is the ballast that steadies us when emotions run wild.",
+      "style": "Philosophical",
+      "translation": "习惯是稳定我们的压舱石，尤其当情绪翻涌之时。",
+      "translated_word": "压舱石",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her quiet presence was my ballast through every storm.",
+      "style": "Poetic",
+      "translation": "她静默的陪伴，是我穿越每场风暴的定锚。",
+      "translated_word": "定锚",
+      "display_order": 4
+    },
+    {
+      "sentence": "His humor served as emotional ballast during the team's hardest months.",
+      "style": "Collocational",
+      "translation": "他的幽默是团队在最艰难时期的情感压舱石。",
+      "translated_word": "压舱石",
+      "display_order": 2
+    }
+  ]
+}

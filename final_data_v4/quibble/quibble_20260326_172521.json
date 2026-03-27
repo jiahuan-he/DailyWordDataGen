@@ -1,0 +1,40 @@
+{
+  "word": "quibble",
+  "phonetic": "/ˈkwɪbəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "吹毛求疵；挑剔；为小事争论",
+  "examples": [
+    {
+      "sentence": "They quibbled over the font size while the deadline loomed.",
+      "style": "Contextual",
+      "translation": "他们为字体大小争执不休，截止日期却近在眼前。",
+      "translated_word": "争执不休",
+      "display_order": 2
+    },
+    {
+      "sentence": "Don't quibble about the price; the experience is priceless.",
+      "style": "Collocational",
+      "translation": "别在价格上斤斤计较；体验本身是无价的。",
+      "translated_word": "斤斤计较",
+      "display_order": 1
+    },
+    {
+      "sentence": "We quibble over crumbs while the feast grows cold.",
+      "style": "Philosophical",
+      "translation": "我们为碎屑争执，盛宴却已凉透。",
+      "translated_word": "争执",
+      "display_order": 4
+    },
+    {
+      "sentence": "Leaders act; critics quibble.",
+      "style": "Contrastive",
+      "translation": "领袖行动；批评者挑剔。",
+      "translated_word": "挑剔",
+      "display_order": 3
+    }
+  ]
+}

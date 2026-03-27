@@ -1,0 +1,40 @@
+{
+  "word": "patter",
+  "phonetic": "/ˈpætər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "啪嗒声；嘀嗒声；喋喋不休",
+  "examples": [
+    {
+      "sentence": "The patter of tiny footsteps announced her daughter before she appeared.",
+      "style": "Contextual",
+      "translation": "细碎的脚步声先于女儿出现，早已宣告了她的到来。",
+      "translated_word": "声",
+      "display_order": 2
+    },
+    {
+      "sentence": "Rain's soft patter turned the city into a watercolor.",
+      "style": "Poetic",
+      "translation": "雨的轻叩将城市晕染成一幅水彩。",
+      "translated_word": "轻叩",
+      "display_order": 3
+    },
+    {
+      "sentence": "That autumn, I fell asleep to the patter of rain on the tin roof.",
+      "style": "Intimate",
+      "translation": "那年秋天，伴我入眠的是雨点敲打铁皮屋顶的声响。",
+      "translated_word": "声响",
+      "display_order": 1
+    },
+    {
+      "sentence": "His sales patter was smooth, but the numbers didn't add up.",
+      "style": "Contrastive",
+      "translation": "他的推销话术滴水不漏，但数字经不起推敲。",
+      "translated_word": "话术",
+      "display_order": 4
+    }
+  ]
+}

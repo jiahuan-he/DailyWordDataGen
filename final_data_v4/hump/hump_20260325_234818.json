@@ -1,0 +1,40 @@
+{
+  "word": "hump",
+  "phonetic": "/hʌmp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "驼峰；隆起；难关",
+  "examples": [
+    {
+      "sentence": "The camel's hump stores fat, not water, as many believe.",
+      "style": "Contextual",
+      "translation": "驼峰储存的是脂肪，而非人们常以为的水分。",
+      "translated_word": "驼峰",
+      "display_order": 1
+    },
+    {
+      "sentence": "A speed hump forced every car to slow before the school.",
+      "style": "Collocational",
+      "translation": "一道减速带迫使每辆车在学校前放慢速度。",
+      "translated_word": "减速带",
+      "display_order": 2
+    },
+    {
+      "sentence": "Dunes rose like the humps of sleeping giants across the sand.",
+      "style": "Poetic",
+      "translation": "沙丘隆起如沉睡巨人的脊背，绵延于黄沙之上。",
+      "translated_word": "脊背",
+      "display_order": 3
+    },
+    {
+      "sentence": "Once you're over the hump, momentum carries you forward.",
+      "style": "Inspirational",
+      "translation": "一旦越过难关，势头自会推你向前。",
+      "translated_word": "难关",
+      "display_order": 4
+    }
+  ]
+}

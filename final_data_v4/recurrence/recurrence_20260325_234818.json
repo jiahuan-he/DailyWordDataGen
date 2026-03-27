@@ -1,0 +1,39 @@
+{
+  "word": "recurrence",
+  "phonetic": "/rɪˈkʌrəns/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "复发；再现；重现",
+  "examples": [
+    {
+      "sentence": "The checkups monitor any recurrence of her symptoms.",
+      "style": "Contextual",
+      "translation": "复查是为了监测症状是否复发。",
+      "translated_word": "复发",
+      "display_order": 1
+    },
+    {
+      "sentence": "Officials reported a recurrence of the outbreak in three provinces.",
+      "style": "Formal",
+      "translation": "官员报告称，三省再现疫情。",
+      "translated_word": "再现",
+      "display_order": 2
+    },
+    {
+      "sentence": "We mistake recurrence for routine; each return carries new weight.",
+      "style": "Philosophical",
+      "translation": "我们将重现误作惯例；殊不知每次回归都承载着新的分量。",
+      "translated_word": "重现",
+      "display_order": 4
+    },
+    {
+      "sentence": "Autumn brings its quiet recurrence: the ache of missing home.",
+      "style": "Intimate",
+      "translation": "秋天带来它无声的重现：那抹思乡的隐痛。",
+      "translated_word": "重现",
+      "display_order": 3
+    }
+  ]
+}

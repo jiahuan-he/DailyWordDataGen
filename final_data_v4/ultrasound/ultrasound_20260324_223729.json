@@ -1,0 +1,40 @@
+{
+  "word": "ultrasound",
+  "phonetic": "/ˈʌltrəsaʊnd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "超声波；超声检查；B超",
+  "examples": [
+    {
+      "sentence": "The doctor scheduled an ultrasound to monitor the baby's growth.",
+      "style": "Contextual",
+      "translation": "医生安排了一次超声检查，以监测胎儿的发育情况。",
+      "translated_word": "超声",
+      "display_order": 1
+    },
+    {
+      "sentence": "Recent breakthroughs in ultrasound imaging have transformed early cancer detection.",
+      "style": "Formal",
+      "translation": "超声成像技术的最新突破，正在革新癌症的早期筛查。",
+      "translated_word": "超声",
+      "display_order": 4
+    },
+    {
+      "sentence": "She pinned the grainy ultrasound to the refrigerator before the nursery was even painted.",
+      "style": "Intimate",
+      "translation": "婴儿房还未粉刷，她已将那张模糊的超声照片贴在了冰箱上。",
+      "translated_word": "超声",
+      "display_order": 2
+    },
+    {
+      "sentence": "Patients typically undergo an abdominal ultrasound before the procedure.",
+      "style": "Collocational",
+      "translation": "患者通常在手术前接受腹部超声检查。",
+      "translated_word": "超声",
+      "display_order": 3
+    }
+  ]
+}

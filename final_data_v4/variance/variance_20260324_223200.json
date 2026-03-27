@@ -1,0 +1,39 @@
+{
+  "word": "variance",
+  "phonetic": "/ˈveriəns/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "差异；偏差；方差",
+  "examples": [
+    {
+      "sentence": "The variance in their stories made the truth harder to find.",
+      "style": "Contextual",
+      "translation": "他们陈述中的差异让真相更加难以辨明。",
+      "translated_word": "差异",
+      "display_order": 1
+    },
+    {
+      "sentence": "Budget variance must be reported before quarter-end.",
+      "style": "Formal",
+      "translation": "预算偏差须在季末前上报。",
+      "translated_word": "偏差",
+      "display_order": 3
+    },
+    {
+      "sentence": "Variance is nature's way of hedging its bets.",
+      "style": "Philosophical",
+      "translation": "差异是自然界对冲风险的方式。",
+      "translated_word": "差异",
+      "display_order": 4
+    },
+    {
+      "sentence": "The quality variance between batches remained within tolerance.",
+      "style": "Collocational",
+      "translation": "批次间的质量差异仍在容许范围内。",
+      "translated_word": "差异",
+      "display_order": 2
+    }
+  ]
+}

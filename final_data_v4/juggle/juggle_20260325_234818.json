@@ -1,0 +1,40 @@
+{
+  "word": "juggle",
+  "phonetic": "/ˈdʒʌɡl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "抛接；兼顾；同时应付",
+  "examples": [
+    {
+      "sentence": "With two jobs and night classes, she had no choice but to juggle.",
+      "style": "Contextual",
+      "translation": "两份工作加上夜校课程，她别无选择，只能周旋其中。",
+      "translated_word": "周旋",
+      "display_order": 3
+    },
+    {
+      "sentence": "Parents everywhere juggle work, childcare, and personal time.",
+      "style": "Collocational",
+      "translation": "天下父母皆如此：在工作、育儿和个人时间之间艰难平衡。",
+      "translated_word": "平衡",
+      "display_order": 1
+    },
+    {
+      "sentence": "We juggle so many roles we forget which one is truly ours.",
+      "style": "Philosophical",
+      "translation": "我们扮演着太多角色，以至于忘了哪一个才是真正的自己。",
+      "translated_word": "扮演",
+      "display_order": 4
+    },
+    {
+      "sentence": "My mother juggled three jobs so I could focus on one thing: my future.",
+      "style": "Intimate",
+      "translation": "母亲同时打着三份工，只为让我专注于一件事：我的未来。",
+      "translated_word": "同时",
+      "display_order": 2
+    }
+  ]
+}

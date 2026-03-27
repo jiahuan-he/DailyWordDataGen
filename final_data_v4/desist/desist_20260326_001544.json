@@ -1,0 +1,39 @@
+{
+  "word": "desist",
+  "phonetic": "/dɪˈzɪst/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "停止；罢手；中止",
+  "examples": [
+    {
+      "sentence": "The court ordered the company to desist from using the trademarked logo.",
+      "style": "Formal",
+      "translation": "法院勒令该公司停止使用这一注册商标。",
+      "translated_word": "停止",
+      "display_order": 1
+    },
+    {
+      "sentence": "She received a cease and desist letter from the publisher.",
+      "style": "Collocational",
+      "translation": "她收到了出版社发来的停止侵权函。",
+      "translated_word": "停止",
+      "display_order": 3
+    },
+    {
+      "sentence": "He refused to desist, even when warned of the consequences.",
+      "style": "Contextual",
+      "translation": "即便被警告后果自负，他仍不肯罢手。",
+      "translated_word": "罢手",
+      "display_order": 2
+    },
+    {
+      "sentence": "To pause is to rest; to desist is to surrender the pursuit entirely.",
+      "style": "Contrastive",
+      "translation": "暂停是休憩；停止是彻底放弃追逐。",
+      "translated_word": "停止",
+      "display_order": 4
+    }
+  ]
+}

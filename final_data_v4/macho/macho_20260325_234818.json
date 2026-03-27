@@ -1,0 +1,40 @@
+{
+  "word": "macho",
+  "phonetic": "/ˈmɑːtʃoʊ/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "大男子气的；逞强的；硬汉式的",
+  "examples": [
+    {
+      "sentence": "He refused to ask for directions, too macho to admit he was lost.",
+      "style": "Contextual",
+      "translation": "他拒绝问路，太要面子，不肯承认自己迷路了。",
+      "translated_word": "要面子",
+      "display_order": 1
+    },
+    {
+      "sentence": "Vulnerability requires more courage than any macho posturing ever could.",
+      "style": "Contrastive",
+      "translation": "展露脆弱所需的勇气，远超任何逞强的姿态。",
+      "translated_word": "逞强",
+      "display_order": 3
+    },
+    {
+      "sentence": "The boys who outgrow their macho phase often become the gentlest men.",
+      "style": "Philosophical",
+      "translation": "那些走出逞强阶段的男孩，往往成长为最温柔的人。",
+      "translated_word": "逞强",
+      "display_order": 2
+    },
+    {
+      "sentence": "My father's macho silence broke the night he finally said he was proud of me.",
+      "style": "Intimate",
+      "translation": "父亲一贯的沉默寡言，在他终于说出为我骄傲的那晚，悄然瓦解。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

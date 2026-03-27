@@ -1,0 +1,40 @@
+{
+  "word": "deserted",
+  "phonetic": "/dɪˈzɜːrtɪd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "荒凉的；无人的；被遗弃的",
+  "examples": [
+    {
+      "sentence": "The deserted platform echoed with the last train's departure.",
+      "style": "Contextual",
+      "translation": "空无一人的站台上回荡着末班车远去的声响。",
+      "translated_word": "空无一人的",
+      "display_order": 2
+    },
+    {
+      "sentence": "At 3 a.m., the city reveals its deserted face: silent streets and sleeping windows.",
+      "style": "Poetic",
+      "translation": "凌晨三点，城市露出它荒凉的面孔：寂静的街道与沉睡的窗。",
+      "translated_word": "荒凉的",
+      "display_order": 3
+    },
+    {
+      "sentence": "A deserted room holds more presence than an empty one; something was here.",
+      "style": "Philosophical",
+      "translation": "荒废的房间比空房更有存在感；曾有人在这里停留过。",
+      "translated_word": "荒废的",
+      "display_order": 4
+    },
+    {
+      "sentence": "We found a deserted beach that afternoon and pretended the world belonged to us.",
+      "style": "Intimate",
+      "translation": "那天下午我们发现了一片无人的海滩，假装整个世界只属于我们。",
+      "translated_word": "无人的",
+      "display_order": 1
+    }
+  ]
+}

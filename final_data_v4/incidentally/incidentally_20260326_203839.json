@@ -1,0 +1,39 @@
+{
+  "word": "incidentally",
+  "phonetic": "/ˌɪnsɪˈdentəli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "顺便说一下；附带地；偶然地",
+  "examples": [
+    {
+      "sentence": "Incidentally, the café we passed earlier closes at nine.",
+      "style": "Contextual",
+      "translation": "顺便说一句，我们刚才路过的那家咖啡馆九点关门。",
+      "translated_word": "顺便说一句",
+      "display_order": 1
+    },
+    {
+      "sentence": "The study focused on climate trends; incidentally, it revealed a sharp decline in biodiversity.",
+      "style": "Formal",
+      "translation": "该研究聚焦于气候趋势；同时也揭示了生物多样性的急剧下降。",
+      "translated_word": "同时也",
+      "display_order": 3
+    },
+    {
+      "sentence": "Incidentally, this reminds me of something you mentioned last summer.",
+      "style": "Collocational",
+      "translation": "说起这个，倒让我想起你去年夏天提到的事。",
+      "translated_word": "说起这个",
+      "display_order": 2
+    },
+    {
+      "sentence": "Incidentally, that old bookstore was where I found my favorite novel.",
+      "style": "Intimate",
+      "translation": "说来也巧，我最爱的那本小说就是在那家旧书店找到的。",
+      "translated_word": "说来也巧",
+      "display_order": 4
+    }
+  ]
+}

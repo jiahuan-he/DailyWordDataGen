@@ -1,0 +1,39 @@
+{
+  "word": "steroid",
+  "phonetic": "/ˈsterɔɪd/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "类固醇；激素；兴奋剂",
+  "examples": [
+    {
+      "sentence": "The doctor prescribed steroids to reduce the inflammation in her joints.",
+      "style": "Contextual",
+      "translation": "医生开了类固醇来消除她关节的炎症。",
+      "translated_word": "类固醇",
+      "display_order": 1
+    },
+    {
+      "sentence": "Three athletes tested positive for steroids and now face lifetime bans.",
+      "style": "Formal",
+      "translation": "三名运动员类固醇检测呈阳性，面临终身禁赛。",
+      "translated_word": "类固醇",
+      "display_order": 2
+    },
+    {
+      "sentence": "His physique came from discipline and diet, not steroids.",
+      "style": "Contrastive",
+      "translation": "他的体格源于自律和饮食，而非激素。",
+      "translated_word": "激素",
+      "display_order": 3
+    },
+    {
+      "sentence": "Social media is word-of-mouth on steroids.",
+      "style": "Collocational",
+      "translation": "社交媒体是口碑传播的极速版。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

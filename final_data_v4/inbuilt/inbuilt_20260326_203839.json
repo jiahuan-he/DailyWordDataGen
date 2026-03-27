@@ -1,0 +1,39 @@
+{
+  "word": "inbuilt",
+  "phonetic": "/ˌɪnˈbɪlt/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "内置的；固有的；天生的",
+  "examples": [
+    {
+      "sentence": "The laptop's inbuilt microphone picks up even whispers.",
+      "style": "Contextual",
+      "translation": "笔记本电脑的内置麦克风连低语都能捕捉。",
+      "translated_word": "内置",
+      "display_order": 1
+    },
+    {
+      "sentence": "The framework includes inbuilt safeguards against data breaches.",
+      "style": "Formal",
+      "translation": "该框架包含防止数据泄露的内置保障机制。",
+      "translated_word": "内置",
+      "display_order": 3
+    },
+    {
+      "sentence": "Children possess an inbuilt sense of fairness.",
+      "style": "Collocational",
+      "translation": "孩子天生具有公平意识。",
+      "translated_word": "天生",
+      "display_order": 2
+    },
+    {
+      "sentence": "Trust is not a skill to learn; it is an inbuilt gift we must choose not to lose.",
+      "style": "Philosophical",
+      "translation": "信任不是后天习得的技能，而是与生俱来的天赋；我们要做的是选择不将它丢失。",
+      "translated_word": "与生俱来",
+      "display_order": 4
+    }
+  ]
+}

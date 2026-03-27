@@ -1,0 +1,39 @@
+{
+  "word": "arcane",
+  "phonetic": "/ɑːrˈkeɪn/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "神秘；晦涩；深奥",
+  "examples": [
+    {
+      "sentence": "The game's arcane mechanics baffled newcomers but delighted veteran players.",
+      "style": "Contextual",
+      "translation": "游戏晦涩的机制让新手困惑不已，却让老玩家乐此不疲。",
+      "translated_word": "晦涩",
+      "display_order": 1
+    },
+    {
+      "sentence": "Regulatory experts criticize the agency's arcane approval procedures.",
+      "style": "Formal",
+      "translation": "监管专家批评该机构繁复难解的审批程序。",
+      "translated_word": "繁复难解",
+      "display_order": 2
+    },
+    {
+      "sentence": "In forgotten libraries, arcane wisdom sleeps beneath the dust, waiting.",
+      "style": "Poetic",
+      "translation": "在被遗忘的图书馆里，神秘的智慧沉睡于尘埃之下，静待知音。",
+      "translated_word": "神秘",
+      "display_order": 3
+    },
+    {
+      "sentence": "Much that seems arcane is simply unexplained, awaiting a patient translator.",
+      "style": "Philosophical",
+      "translation": "许多看似深奥的事物，不过是无人费心道明，只待一位耐心的解读者。",
+      "translated_word": "深奥",
+      "display_order": 4
+    }
+  ]
+}

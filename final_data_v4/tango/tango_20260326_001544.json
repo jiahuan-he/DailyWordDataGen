@@ -1,0 +1,40 @@
+{
+  "word": "tango",
+  "phonetic": "/ˈtæŋɡoʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "探戈；探戈舞曲",
+  "examples": [
+    {
+      "sentence": "The band struck up a tango, and the room fell silent.",
+      "style": "Contextual",
+      "translation": "乐队奏起一曲探戈，满室皆静。",
+      "translated_word": "探戈",
+      "display_order": 1
+    },
+    {
+      "sentence": "Their tango spoke what years of silence could not.",
+      "style": "Poetic",
+      "translation": "他们的探戈诉说了多年沉默未能言明的一切。",
+      "translated_word": "探戈",
+      "display_order": 3
+    },
+    {
+      "sentence": "A tango only works when both lead and follow choose to listen.",
+      "style": "Philosophical",
+      "translation": "探戈的成立，在于引领者与跟随者都甘愿倾听。",
+      "translated_word": "探戈",
+      "display_order": 4
+    },
+    {
+      "sentence": "He danced his first tango at a dimly lit milonga in Buenos Aires.",
+      "style": "Collocational",
+      "translation": "他的第一支探戈，跳在布宜诺斯艾利斯一间灯光昏暗的舞会上。",
+      "translated_word": "探戈",
+      "display_order": 2
+    }
+  ]
+}

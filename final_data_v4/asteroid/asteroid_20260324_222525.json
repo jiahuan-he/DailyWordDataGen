@@ -1,0 +1,39 @@
+{
+  "word": "asteroid",
+  "phonetic": "/ˈæstərɔɪd/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "小行星",
+  "examples": [
+    {
+      "sentence": "The asteroid passed between Earth and the moon last night.",
+      "style": "Contextual",
+      "translation": "昨夜，那颗小行星从地月之间穿过。",
+      "translated_word": "小行星",
+      "display_order": 1
+    },
+    {
+      "sentence": "Scientists confirmed the asteroid poses no threat for the next century.",
+      "style": "Formal",
+      "translation": "科学家证实，这颗小行星在未来一个世纪内不会构成威胁。",
+      "translated_word": "小行星",
+      "display_order": 2
+    },
+    {
+      "sentence": "An asteroid carries no knowledge of the worlds it may end.",
+      "style": "Philosophical",
+      "translation": "小行星从不知晓，自己可能终结怎样的世界。",
+      "translated_word": "小行星",
+      "display_order": 4
+    },
+    {
+      "sentence": "The asteroid drifts on, older than oceans, colder than stone.",
+      "style": "Poetic",
+      "translation": "它漂泊而过，比海洋更古老，比岩石更冰冷。",
+      "translated_word": null,
+      "display_order": 3
+    }
+  ]
+}

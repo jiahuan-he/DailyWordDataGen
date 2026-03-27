@@ -1,0 +1,41 @@
+{
+  "word": "ail",
+  "phonetic": "/eɪl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "困扰；使不适；折磨",
+  "examples": [
+    {
+      "sentence": "Something ails the old engine; it sputters every morning.",
+      "style": "Contextual",
+      "translation": "老引擎出了毛病，每天早晨都咳嗽作响。",
+      "translated_word": "毛病",
+      "display_order": 1
+    },
+    {
+      "sentence": "Economists struggle to diagnose what truly ails the housing market.",
+      "style": "Formal",
+      "translation": "经济学家难以诊断房地产市场的真正症结。",
+      "translated_word": "症结",
+      "display_order": 3
+    },
+    {
+      "sentence": "We often know what ails us long before we admit it.",
+      "style": "Philosophical",
+      "translation": "我们往往早已知道自己的病根，只是迟迟不肯承认。",
+      "translated_word": "病根",
+      "display_order": 2
+    },
+    {
+      "sentence": "A nameless longing ails the heart at dusk.",
+      "style": "Poetic",
+      "translation": "黄昏时分，一缕无名的渴望悄然侵袭心间。",
+      "translated_word": "侵袭",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "sonnet",
+  "phonetic": "/ˈsɒnɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "十四行诗；短诗",
+  "examples": [
+    {
+      "sentence": "Shakespeare's sonnets have outlived empires.",
+      "style": "Contextual",
+      "translation": "莎士比亚的十四行诗比帝国更长久。",
+      "translated_word": "十四行诗",
+      "display_order": 2
+    },
+    {
+      "sentence": "A sonnet holds an ocean in fourteen lines.",
+      "style": "Poetic",
+      "translation": "十四行诗，以寸墨纳沧海。",
+      "translated_word": "十四行诗",
+      "display_order": 4
+    },
+    {
+      "sentence": "He slipped a handwritten sonnet into her suitcase the night before she left.",
+      "style": "Intimate",
+      "translation": "她离开的前夜，他将一首手写的十四行诗悄悄塞进她的行李箱。",
+      "translated_word": "十四行诗",
+      "display_order": 1
+    },
+    {
+      "sentence": "The sonnet's strict form forces a poet to distill, not decorate.",
+      "style": "Philosophical",
+      "translation": "十四行诗的严格形式，迫使诗人提炼而非堆砌。",
+      "translated_word": "十四行诗",
+      "display_order": 3
+    }
+  ]
+}

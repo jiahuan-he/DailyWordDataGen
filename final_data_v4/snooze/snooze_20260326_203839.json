@@ -1,0 +1,40 @@
+{
+  "word": "snooze",
+  "phonetic": "/snuːz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "打盹；小睡；按掉闹钟继续睡",
+  "examples": [
+    {
+      "sentence": "The alarm rang at six, but she snoozed it and rolled back over.",
+      "style": "Contextual",
+      "translation": "闹钟六点响起，她按掉后翻身继续睡。",
+      "translated_word": "按掉",
+      "display_order": 2
+    },
+    {
+      "sentence": "He hit snooze three times before dragging himself to the shower.",
+      "style": "Collocational",
+      "translation": "他按了三次贪睡键，才拖着自己去洗澡。",
+      "translated_word": "贪睡",
+      "display_order": 1
+    },
+    {
+      "sentence": "On cold mornings, I snooze just to stay wrapped in warmth a little longer.",
+      "style": "Intimate",
+      "translation": "寒冷的早晨，我贪睡只为多窝在温暖里一会儿。",
+      "translated_word": "贪睡",
+      "display_order": 3
+    },
+    {
+      "sentence": "She never snoozes; the moment her alarm sounds, she's already up.",
+      "style": "Contrastive",
+      "translation": "她从不赖床；闹钟一响，人就起来了。",
+      "translated_word": "赖床",
+      "display_order": 4
+    }
+  ]
+}

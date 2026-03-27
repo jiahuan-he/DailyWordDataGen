@@ -1,0 +1,39 @@
+{
+  "word": "paralyze",
+  "phonetic": "/ˈpærəlaɪz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使瘫痪；使麻痹；使无法行动",
+  "examples": [
+    {
+      "sentence": "The sudden phone call seemed to paralyze him; he just stood there, unable to speak.",
+      "style": "Contextual",
+      "translation": "那通突如其来的电话仿佛让他僵住了；他只是站在那里，说不出话。",
+      "translated_word": "僵住",
+      "display_order": 1
+    },
+    {
+      "sentence": "A cyberattack has paralyzed the city's entire banking system since dawn.",
+      "style": "Formal",
+      "translation": "一场网络攻击自黎明起便瘫痪了全市的银行系统。",
+      "translated_word": "瘫痪",
+      "display_order": 2
+    },
+    {
+      "sentence": "The pursuit of perfection often paralyzes the courage to begin.",
+      "style": "Philosophical",
+      "translation": "对完美的追求，往往麻痹了开始的勇气。",
+      "translated_word": "麻痹",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her gaze paralyzed the room into silence.",
+      "style": "Poetic",
+      "translation": "她的目光令整个房间凝固成一片寂静。",
+      "translated_word": "凝固",
+      "display_order": 4
+    }
+  ]
+}

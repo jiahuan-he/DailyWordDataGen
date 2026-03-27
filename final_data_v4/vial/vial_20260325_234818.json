@@ -1,0 +1,40 @@
+{
+  "word": "vial",
+  "phonetic": "/ˈvaɪəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "小瓶；药瓶；安瓿",
+  "examples": [
+    {
+      "sentence": "The nurse checked my name before drawing from the vial.",
+      "style": "Contextual",
+      "translation": "护士核对了我的名字，才从药瓶中取药。",
+      "translated_word": "药瓶",
+      "display_order": 2
+    },
+    {
+      "sentence": "Each vial undergoes rigorous testing before distribution.",
+      "style": "Formal",
+      "translation": "每一瓶疫苗在分发前都须经过严格检测。",
+      "translated_word": "瓶",
+      "display_order": 3
+    },
+    {
+      "sentence": "She rolled the vial of insulin between her palms to warm it.",
+      "style": "Collocational",
+      "translation": "她将胰岛素小瓶在掌心轻轻搓热。",
+      "translated_word": "小瓶",
+      "display_order": 1
+    },
+    {
+      "sentence": "A single vial of perfume holds a thousand roses in stillness.",
+      "style": "Poetic",
+      "translation": "一小瓶香水，将千朵玫瑰凝于寂静。",
+      "translated_word": "小瓶",
+      "display_order": 4
+    }
+  ]
+}

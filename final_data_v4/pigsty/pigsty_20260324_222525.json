@@ -1,0 +1,39 @@
+{
+  "word": "pigsty",
+  "phonetic": "/ˈpɪɡstaɪ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "猪圈；脏乱的地方",
+  "examples": [
+    {
+      "sentence": "The landlord refused to enter; the apartment had become a pigsty.",
+      "style": "Contextual",
+      "translation": "房东不愿踏入那间公寓；里面已然一片狼藉。",
+      "translated_word": "狼藉",
+      "display_order": 2
+    },
+    {
+      "sentence": "My mother never tolerated a pigsty of a bedroom.",
+      "style": "Collocational",
+      "translation": "母亲从不容许卧室乱成猪窝。",
+      "translated_word": "猪窝",
+      "display_order": 1
+    },
+    {
+      "sentence": "After she moved out, the room I once kept spotless slowly became a pigsty.",
+      "style": "Intimate",
+      "translation": "她搬走后，我曾一尘不染的房间渐渐沦为废墟。",
+      "translated_word": "废墟",
+      "display_order": 4
+    },
+    {
+      "sentence": "His office was a pigsty; his mind, immaculate.",
+      "style": "Contrastive",
+      "translation": "他的办公室杂乱不堪；他的思维却井然有序。",
+      "translated_word": "杂乱不堪",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "infrared",
+  "phonetic": "/ˌɪnfrəˈred/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "红外线的；红外的",
+  "examples": [
+    {
+      "sentence": "The infrared camera revealed a family of deer hidden in the dark forest.",
+      "style": "Contextual",
+      "translation": "红外摄像机捕捉到了藏匿在黑暗森林中的一群鹿。",
+      "translated_word": "红外",
+      "display_order": 1
+    },
+    {
+      "sentence": "Astronomers use infrared telescopes to peer through cosmic dust clouds.",
+      "style": "Formal",
+      "translation": "天文学家借助红外望远镜穿透宇宙尘云，探索深空奥秘。",
+      "translated_word": "红外",
+      "display_order": 2
+    },
+    {
+      "sentence": "Unlike visible light, infrared waves pass through fog as if it were glass.",
+      "style": "Contrastive",
+      "translation": "与可见光不同，红外线能穿透迷雾，如入无物。",
+      "translated_word": "红外线",
+      "display_order": 3
+    },
+    {
+      "sentence": "Infrared sensors in the doorway count each visitor without a sound.",
+      "style": "Collocational",
+      "translation": "门廊处的红外传感器无声地记录着每一位来客。",
+      "translated_word": "红外",
+      "display_order": 4
+    }
+  ]
+}

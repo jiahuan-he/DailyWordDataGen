@@ -1,0 +1,39 @@
+{
+  "word": "blissful",
+  "phonetic": "/ˈblɪsfəl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "极乐的；幸福的；陶醉的",
+  "examples": [
+    {
+      "sentence": "Sunlight on skin, laughter in the air: a blissful afternoon.",
+      "style": "Poetic",
+      "translation": "阳光洒在肌肤，笑声飘在空中：一个极乐的午后。",
+      "translated_word": "极乐的",
+      "display_order": 3
+    },
+    {
+      "sentence": "We spent a blissful week pretending the world outside didn't exist.",
+      "style": "Intimate",
+      "translation": "我们度过了幸福的一周，假装外面的世界并不存在。",
+      "translated_word": "幸福的",
+      "display_order": 2
+    },
+    {
+      "sentence": "The cat stretched across the sunlit floor, utterly blissful.",
+      "style": "Contextual",
+      "translation": "猫咪四肢舒展，躺在洒满阳光的地板上，一脸陶醉。",
+      "translated_word": "陶醉",
+      "display_order": 1
+    },
+    {
+      "sentence": "Their blissful ignorance shielded them from the harsh truth.",
+      "style": "Collocational",
+      "translation": "幸福的无知，使他们免受残酷真相的伤害。",
+      "translated_word": "幸福的",
+      "display_order": 4
+    }
+  ]
+}

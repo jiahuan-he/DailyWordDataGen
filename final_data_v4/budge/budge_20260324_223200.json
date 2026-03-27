@@ -1,0 +1,41 @@
+{
+  "word": "budge",
+  "phonetic": "/bʌdʒ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "移动；让步；动摇",
+  "examples": [
+    {
+      "sentence": "The old piano was too heavy; it wouldn't budge an inch.",
+      "style": "Contextual",
+      "translation": "那架老钢琴太沉了，纹丝不动。",
+      "translated_word": "动",
+      "display_order": 1
+    },
+    {
+      "sentence": "She refused to budge on the price.",
+      "style": "Collocational",
+      "translation": "她在价格上寸步不让。",
+      "translated_word": "让",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother never budged from her morning tea ritual, not once in fifty years.",
+      "style": "Intimate",
+      "translation": "祖母的早茶习惯雷打不动，五十年如一日。",
+      "translated_word": "动",
+      "display_order": 2
+    },
+    {
+      "sentence": "Facts could sway him, but flattery never made him budge.",
+      "style": "Contrastive",
+      "translation": "事实能打动他，奉承却从未让他动摇。",
+      "translated_word": "动摇",
+      "display_order": 4
+    }
+  ]
+}

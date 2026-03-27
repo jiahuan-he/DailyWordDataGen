@@ -1,0 +1,40 @@
+{
+  "word": "revel",
+  "phonetic": "/ˈrevəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "陶醉；狂欢；尽情享受",
+  "examples": [
+    {
+      "sentence": "The garden reveled in morning light, petals unfurling one by one.",
+      "style": "Poetic",
+      "translation": "花园在晨光中尽情舒展，花瓣逐一绽放。",
+      "translated_word": "尽情",
+      "display_order": 3
+    },
+    {
+      "sentence": "On quiet Sundays, I revel in cooking slowly with nowhere to be.",
+      "style": "Intimate",
+      "translation": "闲适的周日，我沉醉于慢慢烹饪，无处需去。",
+      "translated_word": "沉醉",
+      "display_order": 1
+    },
+    {
+      "sentence": "To revel in uncertainty is to befriend life itself.",
+      "style": "Philosophical",
+      "translation": "在不确定中陶醉，便是与生活握手言和。",
+      "translated_word": "陶醉",
+      "display_order": 4
+    },
+    {
+      "sentence": "Children revel in discovery; adults must relearn how.",
+      "style": "Collocational",
+      "translation": "孩子天生陶醉于发现；成人须重新习得。",
+      "translated_word": "陶醉",
+      "display_order": 2
+    }
+  ]
+}

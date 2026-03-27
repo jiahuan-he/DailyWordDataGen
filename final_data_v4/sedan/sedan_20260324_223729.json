@@ -1,0 +1,39 @@
+{
+  "word": "sedan",
+  "phonetic": "/sɪˈdæn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "轿车；四门轿车",
+  "examples": [
+    {
+      "sentence": "A black sedan pulled into the driveway, and my father stepped out with grocery bags.",
+      "style": "Contextual",
+      "translation": "一辆黑色轿车驶入车道，父亲拎着购物袋走了下来。",
+      "translated_word": "轿车",
+      "display_order": 1
+    },
+    {
+      "sentence": "The compact sedan offers surprising legroom for its size.",
+      "style": "Collocational",
+      "translation": "这款紧凑型轿车的腿部空间出人意料地宽敞。",
+      "translated_word": "轿车",
+      "display_order": 3
+    },
+    {
+      "sentence": "The automaker unveiled its flagship sedan at the Geneva Motor Show.",
+      "style": "Formal",
+      "translation": "该汽车制造商在日内瓦车展上发布了旗舰轿车。",
+      "translated_word": "轿车",
+      "display_order": 4
+    },
+    {
+      "sentence": "Our family sedan saw every road trip, every airport run, every quiet drive home after late-night dinners.",
+      "style": "Intimate",
+      "translation": "我家那辆轿车见证了每一次自驾旅行、每一趟机场接送，还有深夜晚餐后每一段静谧的归途。",
+      "translated_word": "轿车",
+      "display_order": 2
+    }
+  ]
+}

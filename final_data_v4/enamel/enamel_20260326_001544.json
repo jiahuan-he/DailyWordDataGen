@@ -1,0 +1,40 @@
+{
+  "word": "enamel",
+  "phonetic": "/ɪˈnæm.əl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "珐琅；牙釉质；搪瓷",
+  "examples": [
+    {
+      "sentence": "The antique brooch was inlaid with delicate blue enamel.",
+      "style": "Contextual",
+      "translation": "这枚古董胸针上镶嵌着精致的蓝色珐琅。",
+      "translated_word": "珐琅",
+      "display_order": 1
+    },
+    {
+      "sentence": "Acidic drinks can slowly erode tooth enamel over time.",
+      "style": "Collocational",
+      "translation": "酸性饮料会随时间慢慢侵蚀牙釉质。",
+      "translated_word": "釉质",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sunlight struck the enamel vase, scattering tiny rainbows across the wall.",
+      "style": "Poetic",
+      "translation": "阳光照在珐琅花瓶上，在墙上洒下细碎的虹彩。",
+      "translated_word": "珐琅",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her grandmother's chipped enamel teapot held more warmth than any new one ever could.",
+      "style": "Intimate",
+      "translation": "外婆那把缺了口的搪瓷茶壶，比任何新壶都更温暖人心。",
+      "translated_word": "搪瓷",
+      "display_order": 2
+    }
+  ]
+}

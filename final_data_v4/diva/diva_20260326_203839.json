@@ -1,0 +1,39 @@
+{
+  "word": "diva",
+  "phonetic": "/ˈdiːvə/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "女歌唱家；天后；名伶",
+  "examples": [
+    {
+      "sentence": "The opera house fell silent as the diva took the stage.",
+      "style": "Contextual",
+      "translation": "歌剧院霎时安静，女伶登上了舞台。",
+      "translated_word": "女伶",
+      "display_order": 1
+    },
+    {
+      "sentence": "The pop diva announced her farewell tour at a press conference in Milan.",
+      "style": "Formal",
+      "translation": "这位流行天后在米兰的发布会上宣布了告别巡演。",
+      "translated_word": "天后",
+      "display_order": 2
+    },
+    {
+      "sentence": "She had a diva moment when her coffee order was wrong.",
+      "style": "Collocational",
+      "translation": "咖啡点错了，她当场耍了回天后脾气。",
+      "translated_word": "天后",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother was the diva of her village choir, and she never let us forget it.",
+      "style": "Intimate",
+      "translation": "奶奶是村里合唱团的头号名角，她从不让我们忘记这一点。",
+      "translated_word": "名角",
+      "display_order": 3
+    }
+  ]
+}

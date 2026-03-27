@@ -1,0 +1,39 @@
+{
+  "word": "retract",
+  "phonetic": "/rɪˈtrækt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "撤回；收回；缩回",
+  "examples": [
+    {
+      "sentence": "The newspaper was forced to retract its false claims.",
+      "style": "Contextual",
+      "translation": "报社被迫撤回了不实报道。",
+      "translated_word": "撤回",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company will retract its statement pending further investigation.",
+      "style": "Formal",
+      "translation": "公司将撤回声明，以待进一步调查。",
+      "translated_word": "撤回",
+      "display_order": 3
+    },
+    {
+      "sentence": "Knowing when to retract takes more strength than standing firm.",
+      "style": "Philosophical",
+      "translation": "懂得何时收回成命，比固执己见更需要勇气。",
+      "translated_word": "收回",
+      "display_order": 4
+    },
+    {
+      "sentence": "I wanted to retract every word the moment your face fell.",
+      "style": "Intimate",
+      "translation": "看到你神情黯淡的那一刻，我多想把每句话都收回。",
+      "translated_word": "收回",
+      "display_order": 2
+    }
+  ]
+}

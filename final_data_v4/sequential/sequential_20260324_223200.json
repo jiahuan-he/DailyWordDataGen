@@ -1,0 +1,39 @@
+{
+  "word": "sequential",
+  "phonetic": "/sɪˈkwenʃəl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "顺序的；连续的；依次的",
+  "examples": [
+    {
+      "sentence": "Follow the steps in sequential order; skipping ahead won't work.",
+      "style": "Contextual",
+      "translation": "按顺序执行这些步骤；跳步行不通。",
+      "translated_word": "顺序",
+      "display_order": 1
+    },
+    {
+      "sentence": "The investigation will proceed in sequential phases.",
+      "style": "Formal",
+      "translation": "调查将分阶段依次推进。",
+      "translated_word": "依次",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sequential numbering keeps every document accounted for.",
+      "style": "Collocational",
+      "translation": "连续编号确保每份文件都有迹可循。",
+      "translated_word": "连续",
+      "display_order": 2
+    },
+    {
+      "sentence": "Life rarely unfolds in sequential chapters; we revise as we live.",
+      "style": "Philosophical",
+      "translation": "人生很少按章节顺序展开；我们边活边改写。",
+      "translated_word": "顺序",
+      "display_order": 4
+    }
+  ]
+}

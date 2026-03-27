@@ -1,0 +1,41 @@
+{
+  "word": "cripple",
+  "phonetic": "/ˈkrɪp.əl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使残废；使瘫痪；严重削弱",
+  "examples": [
+    {
+      "sentence": "The sanctions crippled the nation's export industry overnight.",
+      "style": "Formal",
+      "translation": "制裁在一夜之间重创了该国的出口业。",
+      "translated_word": "重创",
+      "display_order": 1
+    },
+    {
+      "sentence": "Debt doesn't just burden you; it cripples your choices.",
+      "style": "Contrastive",
+      "translation": "债务不只是负担，它会瘫痪你所有的选择。",
+      "translated_word": "瘫痪",
+      "display_order": 2
+    },
+    {
+      "sentence": "A single point of failure can cripple an entire network.",
+      "style": "Contextual",
+      "translation": "一个单点故障足以瘫痪整个网络。",
+      "translated_word": "瘫痪",
+      "display_order": 3
+    },
+    {
+      "sentence": "Fear does not shield us; it cripples the very legs we stand on.",
+      "style": "Philosophical",
+      "translation": "恐惧并非护盾，它瘫痪的恰是我们赖以站立的双腿。",
+      "translated_word": "瘫痪",
+      "display_order": 4
+    }
+  ]
+}

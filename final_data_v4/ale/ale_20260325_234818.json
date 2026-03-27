@@ -1,0 +1,39 @@
+{
+  "word": "ale",
+  "phonetic": "/eɪl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "麦芽酒；艾尔啤酒",
+  "examples": [
+    {
+      "sentence": "The pub only served local ales, each with its own story.",
+      "style": "Contextual",
+      "translation": "这家酒馆只卖本地的艾尔啤酒，每一种都有自己的故事。",
+      "translated_word": "艾尔啤酒",
+      "display_order": 2
+    },
+    {
+      "sentence": "A cold pale ale pairs perfectly with summer barbecue.",
+      "style": "Collocational",
+      "translation": "冰镇淡色艾尔配夏日烧烤，堪称绝配。",
+      "translated_word": "艾尔",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every sip of that ale brings me back to rainy evenings in Dublin.",
+      "style": "Intimate",
+      "translation": "每饮一口那款酒，都会把我带回都柏林的雨夜。",
+      "translated_word": "酒",
+      "display_order": 3
+    },
+    {
+      "sentence": "The ale glowed amber in the firelight, warm as the laughter around it.",
+      "style": "Poetic",
+      "translation": "炉火映照下，麦酒泛着琥珀色的光，温暖如四周的笑声。",
+      "translated_word": "麦酒",
+      "display_order": 4
+    }
+  ]
+}

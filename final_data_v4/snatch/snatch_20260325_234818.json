@@ -1,0 +1,40 @@
+{
+  "word": "snatch",
+  "phonetic": "/snætʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "抢夺；攫取；一把抓走",
+  "examples": [
+    {
+      "sentence": "A gust of wind snatched the letter from her hand.",
+      "style": "Contextual",
+      "translation": "一阵风从她手中夺走了那封信。",
+      "translated_word": "夺走",
+      "display_order": 1
+    },
+    {
+      "sentence": "They snatched victory in the final seconds of the match.",
+      "style": "Collocational",
+      "translation": "他们在比赛最后几秒钟攫取了胜利。",
+      "translated_word": "攫取",
+      "display_order": 3
+    },
+    {
+      "sentence": "Autumn snatches the last green from the leaves without warning.",
+      "style": "Poetic",
+      "translation": "秋天悄然夺走树叶最后一抹绿意。",
+      "translated_word": "夺走",
+      "display_order": 4
+    },
+    {
+      "sentence": "She snatched my hand as the train doors began to close.",
+      "style": "Intimate",
+      "translation": "车门即将关闭时，她一把抓住了我的手。",
+      "translated_word": "抓住",
+      "display_order": 2
+    }
+  ]
+}

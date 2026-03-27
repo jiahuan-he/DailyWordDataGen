@@ -1,0 +1,41 @@
+{
+  "word": "gulp",
+  "phonetic": "/ɡʌlp/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "大口吞咽；强忍；紧张地咽下",
+  "examples": [
+    {
+      "sentence": "He gulped down his coffee and rushed out the door.",
+      "style": "Contextual",
+      "translation": "他一口灌下咖啡，匆匆冲出门去。",
+      "translated_word": "灌下",
+      "display_order": 1
+    },
+    {
+      "sentence": "She gulped back tears as she read the letter.",
+      "style": "Collocational",
+      "translation": "她读着那封信，强忍住泪水。",
+      "translated_word": "强忍",
+      "display_order": 2
+    },
+    {
+      "sentence": "Before the interview, I gulped hard and stepped inside.",
+      "style": "Intimate",
+      "translation": "面试前，我紧张地咽了口唾沫，推门而入。",
+      "translated_word": "咽",
+      "display_order": 3
+    },
+    {
+      "sentence": "The dry earth gulped the first rain of spring.",
+      "style": "Poetic",
+      "translation": "干涸的大地贪婪地吞饮着春天的第一场雨。",
+      "translated_word": "吞饮",
+      "display_order": 4
+    }
+  ]
+}

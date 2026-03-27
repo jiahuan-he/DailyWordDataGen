@@ -1,0 +1,40 @@
+{
+  "word": "rind",
+  "phonetic": "/raɪnd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "外皮；果皮；硬壳",
+  "examples": [
+    {
+      "sentence": "She twisted the orange, and the rind released a fine mist of citrus oil.",
+      "style": "Contextual",
+      "translation": "她拧动橙子，果皮喷出细密的柑橘精油。",
+      "translated_word": "果皮",
+      "display_order": 2
+    },
+    {
+      "sentence": "A curl of lemon rind floated in her evening tea.",
+      "style": "Collocational",
+      "translation": "一缕柠檬皮卷漂浮在她的晚茶中。",
+      "translated_word": "皮",
+      "display_order": 1
+    },
+    {
+      "sentence": "The rind was bitter, but the flesh beneath tasted of summer.",
+      "style": "Contrastive",
+      "translation": "外皮是苦的，但皮下的果肉尝起来满是夏天的味道。",
+      "translated_word": "外皮",
+      "display_order": 3
+    },
+    {
+      "sentence": "Citrus rind in December: a small sun cupped in your palm.",
+      "style": "Poetic",
+      "translation": "十二月的柑橘皮：一颗小太阳，捧在掌心。",
+      "translated_word": "皮",
+      "display_order": 4
+    }
+  ]
+}

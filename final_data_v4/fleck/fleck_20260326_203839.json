@@ -1,0 +1,40 @@
+{
+  "word": "fleck",
+  "phonetic": "/flɛk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "斑点；微粒；碎屑",
+  "examples": [
+    {
+      "sentence": "Sunlight caught the flecks of gold in her eyes.",
+      "style": "Contextual",
+      "translation": "阳光捕捉到她眼眸中金色的斑点。",
+      "translated_word": "斑点",
+      "display_order": 2
+    },
+    {
+      "sentence": "The marble countertop shimmered with flecks of quartz.",
+      "style": "Collocational",
+      "translation": "大理石台面上，石英微粒闪烁着柔光。",
+      "translated_word": "微粒",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every fleck of starlight has traveled billions of years to reach us.",
+      "style": "Poetic",
+      "translation": "每一粒星光都跋涉了亿万年，才抵达我们眼前。",
+      "translated_word": "粒",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her sweater left wool flecks on my coat; I never brushed them off.",
+      "style": "Intimate",
+      "translation": "她的毛衣在我外套上留下点点绒絮；我从未拂去。",
+      "translated_word": "绒絮",
+      "display_order": 3
+    }
+  ]
+}

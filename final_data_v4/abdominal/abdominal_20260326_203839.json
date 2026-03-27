@@ -1,0 +1,40 @@
+{
+  "word": "abdominal",
+  "phonetic": "/æbˈdɑːmɪnəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "腹部的；腹腔的",
+  "examples": [
+    {
+      "sentence": "The doctor pressed gently on her abdominal area, checking for tenderness.",
+      "style": "Contextual",
+      "translation": "医生轻轻按压她的腹部，检查是否有压痛。",
+      "translated_word": "腹部",
+      "display_order": 1
+    },
+    {
+      "sentence": "New studies link chronic abdominal discomfort to prolonged stress.",
+      "style": "Formal",
+      "translation": "新研究表明，慢性腹部不适与长期压力相关。",
+      "translated_word": "腹部",
+      "display_order": 3
+    },
+    {
+      "sentence": "Three sets of abdominal exercises each morning transformed his posture.",
+      "style": "Collocational",
+      "translation": "每天早晨三组腹部训练，彻底改善了他的体态。",
+      "translated_word": "腹部",
+      "display_order": 2
+    },
+    {
+      "sentence": "That faint abdominal ache was my body asking me to slow down.",
+      "style": "Intimate",
+      "translation": "那阵隐隐的腹部不适，是身体在请求我慢下来。",
+      "translated_word": "腹部",
+      "display_order": 4
+    }
+  ]
+}

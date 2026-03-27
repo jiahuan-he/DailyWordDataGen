@@ -1,0 +1,39 @@
+{
+  "word": "hexagon",
+  "phonetic": "/ˈheksəɡɑːn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "六边形；六角形",
+  "examples": [
+    {
+      "sentence": "Each cell in the honeycomb is a perfect hexagon.",
+      "style": "Contextual",
+      "translation": "蜂巢中的每一格，都是完美的六边形。",
+      "translated_word": "六边形",
+      "display_order": 1
+    },
+    {
+      "sentence": "The kitchen floor featured a classic hexagon tile pattern.",
+      "style": "Collocational",
+      "translation": "厨房地面铺着经典的六角形瓷砖。",
+      "translated_word": "六角形",
+      "display_order": 2
+    },
+    {
+      "sentence": "The hexagon remains the preferred shape for satellite mirrors due to its tessellation properties.",
+      "style": "Formal",
+      "translation": "因其无缝拼接的特性，六边形仍是卫星镜面的首选形状。",
+      "translated_word": "六边形",
+      "display_order": 3
+    },
+    {
+      "sentence": "Nature discovered the hexagon long before mathematicians gave it a name.",
+      "style": "Philosophical",
+      "translation": "早在数学家为其命名之前，自然便已发现了六边形。",
+      "translated_word": "六边形",
+      "display_order": 4
+    }
+  ]
+}

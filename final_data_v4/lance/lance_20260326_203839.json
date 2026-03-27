@@ -1,0 +1,40 @@
+{
+  "word": "lance",
+  "phonetic": "/læns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "长矛；骑枪",
+  "examples": [
+    {
+      "sentence": "The knight lowered his lance and charged toward the target.",
+      "style": "Contextual",
+      "translation": "骑士放低长矛，向目标冲去。",
+      "translated_word": "长矛",
+      "display_order": 1
+    },
+    {
+      "sentence": "Archaeologists unearthed a bronze lance dating back to the 12th century.",
+      "style": "Formal",
+      "translation": "考古学家出土了一柄可追溯至十二世纪的青铜长矛。",
+      "translated_word": "长矛",
+      "display_order": 2
+    },
+    {
+      "sentence": "Sunlight caught the tip of his lance, a silver flame against the dawn.",
+      "style": "Poetic",
+      "translation": "阳光落在矛尖，如一簇银焰映照黎明。",
+      "translated_word": "矛",
+      "display_order": 3
+    },
+    {
+      "sentence": "A lance demands commitment; once you charge, there is no half-measure.",
+      "style": "Philosophical",
+      "translation": "长矛要求决心；一旦冲锋，便无退路。",
+      "translated_word": "长矛",
+      "display_order": 4
+    }
+  ]
+}

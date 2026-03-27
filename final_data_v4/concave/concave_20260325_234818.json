@@ -1,0 +1,41 @@
+{
+  "word": "concave",
+  "phonetic": "/kɒnˈkeɪv/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "凹的；凹陷的；内凹的",
+  "examples": [
+    {
+      "sentence": "The spoon's concave surface cradled the honey perfectly.",
+      "style": "Contextual",
+      "translation": "蜜糖稳稳地卧在勺子的凹面里。",
+      "translated_word": "凹",
+      "display_order": 1
+    },
+    {
+      "sentence": "A concave lens scatters light; a convex one gathers it.",
+      "style": "Contrastive",
+      "translation": "凹透镜散光，凸透镜聚光。",
+      "translated_word": "凹",
+      "display_order": 2
+    },
+    {
+      "sentence": "The architect specified concave panels to soften the acoustics.",
+      "style": "Formal",
+      "translation": "建筑师选用凹面板以柔化声效。",
+      "translated_word": "凹",
+      "display_order": 3
+    },
+    {
+      "sentence": "Rain collects in the concave petals, tiny mirrors for the sky.",
+      "style": "Poetic",
+      "translation": "雨水汇入凹陷的花瓣，化作映天的小镜。",
+      "translated_word": "凹陷",
+      "display_order": 4
+    }
+  ]
+}

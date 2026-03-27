@@ -1,0 +1,40 @@
+{
+  "word": "entrancing",
+  "phonetic": "/ɪnˈtrɑːnsɪŋ/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "迷人的；令人陶醉的；令人着迷的",
+  "examples": [
+    {
+      "sentence": "The violinist played with entrancing precision, each note a thread of light.",
+      "style": "Poetic",
+      "translation": "小提琴手的演奏精准得令人沉醉，每个音符都是一缕光。",
+      "translated_word": "令人沉醉",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her laughter was entrancing; I found myself leaning closer without meaning to.",
+      "style": "Intimate",
+      "translation": "她的笑声令人着迷，我不知不觉便靠近了些。",
+      "translated_word": "令人着迷",
+      "display_order": 2
+    },
+    {
+      "sentence": "The documentary was so entrancing that I forgot to eat dinner.",
+      "style": "Contextual",
+      "translation": "那部纪录片太迷人了，我竟忘了吃晚饭。",
+      "translated_word": "迷人",
+      "display_order": 1
+    },
+    {
+      "sentence": "What we find entrancing often reveals more about ourselves than the object itself.",
+      "style": "Philosophical",
+      "translation": "令我们着迷之物，往往更能揭示我们自身。",
+      "translated_word": "着迷",
+      "display_order": 4
+    }
+  ]
+}

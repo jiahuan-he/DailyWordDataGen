@@ -1,0 +1,41 @@
+{
+  "word": "lateral",
+  "phonetic": "/ˈlæt.ər.əl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "侧面的；横向的；平级的",
+  "examples": [
+    {
+      "sentence": "The surgeon made a small lateral incision below the ribs.",
+      "style": "Contextual",
+      "translation": "外科医生在肋骨下方做了一个小的侧切口。",
+      "translated_word": "侧",
+      "display_order": 1
+    },
+    {
+      "sentence": "She accepted a lateral position at the London office to gain international experience.",
+      "style": "Formal",
+      "translation": "她接受了伦敦办公室的平级调动，以积累国际经验。",
+      "translated_word": "平级",
+      "display_order": 2
+    },
+    {
+      "sentence": "Lateral thinking often unlocks what logic alone cannot.",
+      "style": "Collocational",
+      "translation": "横向思维常能解开纯逻辑无法触及的难题。",
+      "translated_word": "横向",
+      "display_order": 3
+    },
+    {
+      "sentence": "Growth isn't always vertical; sometimes the wisest move is lateral.",
+      "style": "Philosophical",
+      "translation": "成长并非总是向上攀登；有时最明智的一步是横向迈出。",
+      "translated_word": "横向",
+      "display_order": 4
+    }
+  ]
+}

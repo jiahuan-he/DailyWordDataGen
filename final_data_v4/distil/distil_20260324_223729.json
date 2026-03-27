@@ -1,0 +1,39 @@
+{
+  "word": "distil",
+  "phonetic": "/dɪˈstɪl/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "蒸馏；提炼；萃取",
+  "examples": [
+    {
+      "sentence": "The report distils three years of research into five key findings.",
+      "style": "Formal",
+      "translation": "这份报告将三年的研究提炼为五项核心发现。",
+      "translated_word": "提炼",
+      "display_order": 2
+    },
+    {
+      "sentence": "Time distils regret into wisdom.",
+      "style": "Philosophical",
+      "translation": "时间将遗憾酿成智慧。",
+      "translated_word": "酿成",
+      "display_order": 3
+    },
+    {
+      "sentence": "Morning light distils through the fog, drop by golden drop.",
+      "style": "Poetic",
+      "translation": "晨光穿透薄雾，滴滴如金。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "He distils lavender from his garden to make perfume.",
+      "style": "Contextual",
+      "translation": "他从自家花园采集薰衣草，蒸馏成香水。",
+      "translated_word": "蒸馏",
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "quantify",
+  "phonetic": "/ˈkwɒntɪfaɪ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "量化；衡量；计量",
+  "examples": [
+    {
+      "sentence": "The study aimed to quantify the effects of sleep deprivation on memory.",
+      "style": "Contextual",
+      "translation": "该研究旨在量化睡眠不足对记忆力的影响。",
+      "translated_word": "量化",
+      "display_order": 1
+    },
+    {
+      "sentence": "Analysts struggled to quantify the economic impact of the new policy.",
+      "style": "Formal",
+      "translation": "分析师难以量化新政策带来的经济影响。",
+      "translated_word": "量化",
+      "display_order": 2
+    },
+    {
+      "sentence": "We can quantify output, but dedication resists measurement.",
+      "style": "Contrastive",
+      "translation": "产出可以量化，热忱却无法衡量。",
+      "translated_word": "量化",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some experiences lose meaning the moment we try to quantify them.",
+      "style": "Philosophical",
+      "translation": "有些体验一旦试图量化，便失去了意义。",
+      "translated_word": "量化",
+      "display_order": 4
+    }
+  ]
+}

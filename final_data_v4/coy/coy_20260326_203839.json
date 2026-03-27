@@ -1,0 +1,41 @@
+{
+  "word": "coy",
+  "phonetic": "/kɔɪ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "害羞的；忸怩的；故作矜持；欲言又止",
+  "examples": [
+    {
+      "sentence": "She gave a coy smile when asked about her plans.",
+      "style": "Contextual",
+      "translation": "被问及计划时，她露出一抹羞怯的微笑。",
+      "translated_word": "羞怯",
+      "display_order": 1
+    },
+    {
+      "sentence": "He played coy about the surprise, though his eyes betrayed him.",
+      "style": "Collocational",
+      "translation": "他对惊喜故作矜持，眼神却出卖了他。",
+      "translated_word": "矜持",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her coy glance across the room stopped me mid-sentence.",
+      "style": "Intimate",
+      "translation": "她从房间那头投来的羞涩一瞥，让我话到嘴边又咽了回去。",
+      "translated_word": "羞涩",
+      "display_order": 2
+    },
+    {
+      "sentence": "Spring arrives coy, half-hidden behind the last snow.",
+      "style": "Poetic",
+      "translation": "春天姗姗而至，半掩在残雪之后。",
+      "translated_word": "姗姗",
+      "display_order": 4
+    }
+  ]
+}

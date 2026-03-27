@@ -1,0 +1,40 @@
+{
+  "word": "clench",
+  "phonetic": "/klɛntʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "紧握；咬紧；攥紧",
+  "examples": [
+    {
+      "sentence": "She clenched her fists as the final scores appeared on screen.",
+      "style": "Contextual",
+      "translation": "当最终比分出现在屏幕上时，她紧紧握住了拳头。",
+      "translated_word": "紧紧握住",
+      "display_order": 1
+    },
+    {
+      "sentence": "He clenched his jaw to keep from saying something he'd regret.",
+      "style": "Collocational",
+      "translation": "他咬紧牙关，忍住不说出让自己后悔的话。",
+      "translated_word": "咬紧",
+      "display_order": 3
+    },
+    {
+      "sentence": "Grief clenches the heart in ways words cannot reach.",
+      "style": "Poetic",
+      "translation": "悲伤以言语无法触及的方式，紧攥着心脏。",
+      "translated_word": "紧攥",
+      "display_order": 4
+    },
+    {
+      "sentence": "My hands clenched around the letter, reading the acceptance three times before believing it.",
+      "style": "Intimate",
+      "translation": "双手紧握着那封信，录取通知读了三遍才敢相信。",
+      "translated_word": "紧握",
+      "display_order": 2
+    }
+  ]
+}

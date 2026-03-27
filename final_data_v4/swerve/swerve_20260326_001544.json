@@ -1,0 +1,40 @@
+{
+  "word": "swerve",
+  "phonetic": "/swɜːrv/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "急转；偏离；躲闪",
+  "examples": [
+    {
+      "sentence": "The taxi swerved just in time; a cyclist had run the red light.",
+      "style": "Contextual",
+      "translation": "出租车及时急转方向；一个骑车的人闯了红灯。",
+      "translated_word": "急转方向",
+      "display_order": 1
+    },
+    {
+      "sentence": "He never swerves from his principles, even when it costs him.",
+      "style": "Collocational",
+      "translation": "他从不偏离自己的原则，哪怕为此付出代价。",
+      "translated_word": "偏离",
+      "display_order": 3
+    },
+    {
+      "sentence": "The swallow swerved through the twilight, chasing what only it could see.",
+      "style": "Poetic",
+      "translation": "燕子在暮色中急旋穿梭，追逐着唯有它能看见的东西。",
+      "translated_word": "急旋",
+      "display_order": 4
+    },
+    {
+      "sentence": "We swerve around hard conversations, then wonder why we feel so distant.",
+      "style": "Philosophical",
+      "translation": "我们总是绕开艰难的对话，却又困惑为何彼此渐行渐远。",
+      "translated_word": "绕开",
+      "display_order": 2
+    }
+  ]
+}

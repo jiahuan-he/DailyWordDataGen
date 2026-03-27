@@ -1,0 +1,40 @@
+{
+  "word": "robe",
+  "phonetic": "/roʊb/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "长袍；浴袍；礼袍",
+  "examples": [
+    {
+      "sentence": "The judge entered in a black robe, and the room fell silent.",
+      "style": "Contextual",
+      "translation": "法官身着黑袍步入，满室肃然。",
+      "translated_word": "黑袍",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her silk robe caught the morning light, rippling like still water disturbed.",
+      "style": "Poetic",
+      "translation": "她的丝袍承住晨光，如静水泛起涟漪。",
+      "translated_word": "丝袍",
+      "display_order": 4
+    },
+    {
+      "sentence": "Sunday mornings belong to my old terrycloth robe and nothing else.",
+      "style": "Intimate",
+      "translation": "周日的清晨只属于那件旧浴袍，别无他物。",
+      "translated_word": "浴袍",
+      "display_order": 3
+    },
+    {
+      "sentence": "She slipped into a plush hotel robe, finally exhaling.",
+      "style": "Collocational",
+      "translation": "她裹上酒店的绒袍，终于长舒一口气。",
+      "translated_word": "绒袍",
+      "display_order": 2
+    }
+  ]
+}

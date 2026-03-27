@@ -1,0 +1,40 @@
+{
+  "word": "vouch",
+  "phonetic": "/vaʊtʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "担保；证明；保证",
+  "examples": [
+    {
+      "sentence": "She's never late; I can vouch for that.",
+      "style": "Contextual",
+      "translation": "她从不迟到；这点我可以担保。",
+      "translated_word": "担保",
+      "display_order": 1
+    },
+    {
+      "sentence": "Several witnesses vouched for his whereabouts that evening.",
+      "style": "Formal",
+      "translation": "数名证人证实了他当晚的行踪。",
+      "translated_word": "证实",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather vouched for me when no one else would.",
+      "style": "Intimate",
+      "translation": "在无人愿意时，是祖父为我作了担保。",
+      "translated_word": "担保",
+      "display_order": 2
+    },
+    {
+      "sentence": "I can't vouch for the accuracy of these figures.",
+      "style": "Collocational",
+      "translation": "这些数字的准确性，我无法保证。",
+      "translated_word": "保证",
+      "display_order": 4
+    }
+  ]
+}

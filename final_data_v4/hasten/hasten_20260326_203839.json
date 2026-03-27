@@ -1,0 +1,39 @@
+{
+  "word": "hasten",
+  "phonetic": "/ˈheɪsən/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "加速；催促；赶紧",
+  "examples": [
+    {
+      "sentence": "The drought hastened the village's abandonment.",
+      "style": "Contextual",
+      "translation": "干旱加速了村庄的荒废。",
+      "translated_word": "加速",
+      "display_order": 1
+    },
+    {
+      "sentence": "Officials hastened to reassure investors after the unexpected drop.",
+      "style": "Formal",
+      "translation": "股市意外下跌后，官员们迅速安抚投资者。",
+      "translated_word": "迅速",
+      "display_order": 2
+    },
+    {
+      "sentence": "I hasten to add that no final decision has been made.",
+      "style": "Collocational",
+      "translation": "我必须补充一点：尚未做出最终决定。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "We hasten through youth, then spend old age longing for more time.",
+      "style": "Philosophical",
+      "translation": "年轻时我们匆匆赶路，年老后却渴望时光重来。",
+      "translated_word": "匆匆",
+      "display_order": 3
+    }
+  ]
+}

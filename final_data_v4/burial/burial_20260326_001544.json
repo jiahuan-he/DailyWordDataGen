@@ -1,0 +1,39 @@
+{
+  "word": "burial",
+  "phonetic": "/ˈberiəl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "埋葬；葬礼；安葬",
+  "examples": [
+    {
+      "sentence": "The burial took place at dawn, with only close family present.",
+      "style": "Contextual",
+      "translation": "葬礼在黎明时分举行，只有至亲在场。",
+      "translated_word": "葬礼",
+      "display_order": 1
+    },
+    {
+      "sentence": "The state burial drew diplomats from fourteen nations.",
+      "style": "Formal",
+      "translation": "这场国葬吸引了来自十四个国家的外交官。",
+      "translated_word": "国葬",
+      "display_order": 3
+    },
+    {
+      "sentence": "Snow fell on the burial ground, softening stone and sorrow alike.",
+      "style": "Poetic",
+      "translation": "雪落在墓地上，柔化了石碑，也柔化了悲伤。",
+      "translated_word": "墓地",
+      "display_order": 4
+    },
+    {
+      "sentence": "At her burial, someone placed a worn copy of her favorite novel beside the flowers.",
+      "style": "Intimate",
+      "translation": "在她的葬礼上，有人将一本翻旧的她最爱的小说放在花束旁。",
+      "translated_word": "葬礼",
+      "display_order": 2
+    }
+  ]
+}

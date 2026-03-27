@@ -1,0 +1,40 @@
+{
+  "word": "unjustified",
+  "phonetic": "/ʌnˈdʒʌstɪfaɪd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "无端的；不合理的；无根据的",
+  "examples": [
+    {
+      "sentence": "Her anxiety proved unjustified; the test results came back clear.",
+      "style": "Contextual",
+      "translation": "她的焦虑最终证明是多余的；检查结果一切正常。",
+      "translated_word": "多余的",
+      "display_order": 2
+    },
+    {
+      "sentence": "The investigation deemed the officer's use of force unjustified.",
+      "style": "Formal",
+      "translation": "调查认定该警员使用武力不合理。",
+      "translated_word": "不合理",
+      "display_order": 1
+    },
+    {
+      "sentence": "Healthy skepticism protects; unjustified suspicion destroys trust.",
+      "style": "Contrastive",
+      "translation": "理性的怀疑是保护，无端的猜忌是伤害。",
+      "translated_word": "无端的",
+      "display_order": 4
+    },
+    {
+      "sentence": "The harshest judgments are often the most unjustified.",
+      "style": "Philosophical",
+      "translation": "最严厉的评判往往最站不住脚。",
+      "translated_word": "站不住脚",
+      "display_order": 3
+    }
+  ]
+}

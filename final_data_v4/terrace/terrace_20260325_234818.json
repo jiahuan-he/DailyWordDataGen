@@ -1,0 +1,40 @@
+{
+  "word": "terrace",
+  "phonetic": "/ˈterəs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "露台；平台；梯田",
+  "examples": [
+    {
+      "sentence": "We moved dinner to the terrace when the evening cooled.",
+      "style": "Contextual",
+      "translation": "傍晚凉爽下来，我们便把晚餐挪到了露台。",
+      "translated_word": "露台",
+      "display_order": 1
+    },
+    {
+      "sentence": "Paper lanterns glowed on the terrace; the city hummed below.",
+      "style": "Poetic",
+      "translation": "纸灯笼在露台上轻轻发亮，城市在脚下低声喧嚣。",
+      "translated_word": "露台",
+      "display_order": 2
+    },
+    {
+      "sentence": "Our terrace was small, but every morning there felt infinite.",
+      "style": "Intimate",
+      "translation": "我们的露台很小，但每个清晨在那里都显得无限漫长。",
+      "translated_word": "露台",
+      "display_order": 4
+    },
+    {
+      "sentence": "The rooftop terrace became our favorite spot for Sunday brunch.",
+      "style": "Collocational",
+      "translation": "那个天台露台成了我们周日早午餐的固定去处。",
+      "translated_word": "露台",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "stutter",
+  "phonetic": "/ˈstʌtər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "口吃；结巴；断断续续地说",
+  "examples": [
+    {
+      "sentence": "He stuttered through his wedding vows, overwhelmed by emotion.",
+      "style": "Contextual",
+      "translation": "他念结婚誓词时结结巴巴，情绪难以自持。",
+      "translated_word": "结结巴巴",
+      "display_order": 1
+    },
+    {
+      "sentence": "My voice stuttered when I finally said the words I had rehearsed for years.",
+      "style": "Intimate",
+      "translation": "当我终于说出排练多年的话时，声音却开始结巴。",
+      "translated_word": "结巴",
+      "display_order": 2
+    },
+    {
+      "sentence": "The engine stuttered twice, then fell silent in the snow.",
+      "style": "Poetic",
+      "translation": "引擎颤抖了两下，便在雪中归于沉寂。",
+      "translated_word": "颤抖",
+      "display_order": 3
+    },
+    {
+      "sentence": "Courage does not speak clearly; it stutters, then persists.",
+      "style": "Philosophical",
+      "translation": "勇气从不字正腔圆；它结结巴巴，却从未放弃。",
+      "translated_word": "结结巴巴",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "spook",
+  "phonetic": "/spuːk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "惊吓；使受惊；吓到",
+  "examples": [
+    {
+      "sentence": "The thunder spooked the horses into a wild gallop.",
+      "style": "Contextual",
+      "translation": "雷声惊得马群狂奔起来。",
+      "translated_word": "惊",
+      "display_order": 1
+    },
+    {
+      "sentence": "Don't let the critics spook you before opening night.",
+      "style": "Collocational",
+      "translation": "别让那些评论在首演前乱了你的阵脚。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Something in his silence spooked me more than any threat could.",
+      "style": "Intimate",
+      "translation": "他的沉默比任何威胁都更让我心惊。",
+      "translated_word": "心惊",
+      "display_order": 2
+    },
+    {
+      "sentence": "One rumor can spook an entire market.",
+      "style": "Formal",
+      "translation": "一则谣言足以搅动整个市场。",
+      "translated_word": "搅动",
+      "display_order": 3
+    }
+  ]
+}

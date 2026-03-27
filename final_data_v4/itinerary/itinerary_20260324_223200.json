@@ -1,0 +1,40 @@
+{
+  "word": "itinerary",
+  "phonetic": "/aɪˈtɪnəreri/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "行程；旅行计划；路线",
+  "examples": [
+    {
+      "sentence": "The itinerary included three cities in five days.",
+      "style": "Contextual",
+      "translation": "行程安排了五天内游览三座城市。",
+      "translated_word": "行程",
+      "display_order": 2
+    },
+    {
+      "sentence": "Delegates received the conference itinerary upon registration.",
+      "style": "Formal",
+      "translation": "代表们注册时收到了会议日程。",
+      "translated_word": "日程",
+      "display_order": 3
+    },
+    {
+      "sentence": "She reviewed the travel itinerary one last time before boarding.",
+      "style": "Collocational",
+      "translation": "登机前，她最后核对了一遍旅行行程。",
+      "translated_word": "行程",
+      "display_order": 1
+    },
+    {
+      "sentence": "We tore up the itinerary on day two and followed the locals instead.",
+      "style": "Intimate",
+      "translation": "第二天我们抛开了行程表，跟着当地人走。",
+      "translated_word": "行程表",
+      "display_order": 4
+    }
+  ]
+}

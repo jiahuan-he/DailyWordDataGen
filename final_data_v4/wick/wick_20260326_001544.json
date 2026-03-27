@@ -1,0 +1,41 @@
+{
+  "word": "wick",
+  "phonetic": "/wɪk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "灯芯；烛芯",
+  "examples": [
+    {
+      "sentence": "The candle's wick sputtered and drowned in melted wax.",
+      "style": "Contextual",
+      "translation": "烛芯噼啪作响，渐渐没入融化的蜡中。",
+      "translated_word": "烛芯",
+      "display_order": 2
+    },
+    {
+      "sentence": "A single wick held the darkness at bay.",
+      "style": "Poetic",
+      "translation": "一点灯芯，便将黑暗拒于门外。",
+      "translated_word": "灯芯",
+      "display_order": 3
+    },
+    {
+      "sentence": "She trimmed the wick before lighting the oil lamp.",
+      "style": "Collocational",
+      "translation": "她点燃油灯前，先修剪了灯芯。",
+      "translated_word": "灯芯",
+      "display_order": 1
+    },
+    {
+      "sentence": "The wick burns so others may see; some lives are spent that way.",
+      "style": "Philosophical",
+      "translation": "灯芯燃尽，只为照亮他人；有些人的一生，亦复如是。",
+      "translated_word": "灯芯",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "tint",
+  "phonetic": "/tɪnt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "色调；淡色；染色剂",
+  "examples": [
+    {
+      "sentence": "The evening sky held a faint tint of lavender.",
+      "style": "Contextual",
+      "translation": "傍晚的天空染着一抹淡淡的薰衣草色。",
+      "translated_word": "一抹",
+      "display_order": 1
+    },
+    {
+      "sentence": "Autumn hills wear tints of amber and rust.",
+      "style": "Poetic",
+      "translation": "秋日山峦披着琥珀与铁锈的色调。",
+      "translated_word": "色调",
+      "display_order": 3
+    },
+    {
+      "sentence": "She chose a warm tint for her new glasses.",
+      "style": "Collocational",
+      "translation": "她为新眼镜选了暖色调的镜片。",
+      "translated_word": "色调",
+      "display_order": 2
+    },
+    {
+      "sentence": "Nostalgia lends even mundane days a golden tint.",
+      "style": "Philosophical",
+      "translation": "怀旧为平凡的日子镀上一层金色。",
+      "translated_word": "金色",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "enzyme",
+  "phonetic": "/ˈenzaɪm/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "酶；酵素",
+  "examples": [
+    {
+      "sentence": "Without the right enzymes, our bodies cannot break down food into energy.",
+      "style": "Contextual",
+      "translation": "没有合适的酶，身体便无法将食物转化为能量。",
+      "translated_word": "酶",
+      "display_order": 1
+    },
+    {
+      "sentence": "Researchers have identified a novel enzyme capable of decomposing plastic waste.",
+      "style": "Formal",
+      "translation": "研究人员发现了一种能够分解塑料废弃物的新型酶。",
+      "translated_word": "酶",
+      "display_order": 3
+    },
+    {
+      "sentence": "Digestive enzymes work best at body temperature.",
+      "style": "Collocational",
+      "translation": "消化酶在体温下发挥最佳作用。",
+      "translated_word": "酶",
+      "display_order": 2
+    },
+    {
+      "sentence": "Unlike hormones, enzymes remain unchanged after catalyzing a reaction.",
+      "style": "Contrastive",
+      "translation": "与激素不同，酶在催化反应后自身保持不变。",
+      "translated_word": "酶",
+      "display_order": 4
+    }
+  ]
+}

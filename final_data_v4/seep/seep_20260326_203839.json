@@ -1,0 +1,40 @@
+{
+  "word": "seep",
+  "phonetic": "/siːp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "渗透；渗漏；慢慢渗入",
+  "examples": [
+    {
+      "sentence": "Rain began to seep through the cracks in the old ceiling.",
+      "style": "Contextual",
+      "translation": "雨水开始从老旧天花板的裂缝中渗漏下来。",
+      "translated_word": "渗漏",
+      "display_order": 1
+    },
+    {
+      "sentence": "Golden light seeped through the curtains, waking the room gently.",
+      "style": "Poetic",
+      "translation": "金色的光芒透过窗帘渗入，轻柔地唤醒了整个房间。",
+      "translated_word": "渗入",
+      "display_order": 2
+    },
+    {
+      "sentence": "Doubt, once entertained, seeps into every certainty you hold.",
+      "style": "Philosophical",
+      "translation": "怀疑一旦萌生，便会渗入你所坚守的每一份确信。",
+      "translated_word": "渗入",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her quiet kindness seeped into me over months, not days.",
+      "style": "Intimate",
+      "translation": "她那份静默的温柔，用了几个月而非几天，才慢慢渗入我的心底。",
+      "translated_word": "渗入",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "smirk",
+  "phonetic": "/smɜːk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "得意地笑；假笑；窃笑",
+  "examples": [
+    {
+      "sentence": "He smirked as I stumbled, savoring my mistake.",
+      "style": "Contextual",
+      "translation": "我踉跄时他得意地笑了，分明在享受我的窘迫。",
+      "translated_word": "得意地笑",
+      "display_order": 4
+    },
+    {
+      "sentence": "She didn't smile at the news; she smirked.",
+      "style": "Contrastive",
+      "translation": "听到消息，她没有微笑；只是扬起一丝冷笑。",
+      "translated_word": "冷笑",
+      "display_order": 1
+    },
+    {
+      "sentence": "He smirked knowingly and said nothing.",
+      "style": "Collocational",
+      "translation": "他意味深长地笑了笑，什么也没说。",
+      "translated_word": "笑了笑",
+      "display_order": 2
+    },
+    {
+      "sentence": "My brother always smirked before revealing his winning hand.",
+      "style": "Intimate",
+      "translation": "我哥总在亮出好牌前，先露出那抹得意的笑。",
+      "translated_word": "得意的笑",
+      "display_order": 3
+    }
+  ]
+}

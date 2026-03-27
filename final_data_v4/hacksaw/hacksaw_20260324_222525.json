@@ -1,0 +1,40 @@
+{
+  "word": "hacksaw",
+  "phonetic": "/ˈhæk.sɔː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "钢锯；金属锯",
+  "examples": [
+    {
+      "sentence": "The rusted lock wouldn't budge, so he grabbed a hacksaw from the garage.",
+      "style": "Contextual",
+      "translation": "锈蚀的锁纹丝不动，他只好从车库取来一把钢锯。",
+      "translated_word": "钢锯",
+      "display_order": 3
+    },
+    {
+      "sentence": "A sharp hacksaw and steady hands can cut through steel pipes in minutes.",
+      "style": "Collocational",
+      "translation": "一把锋利的钢锯配上稳健的双手，几分钟便能锯断钢管。",
+      "translated_word": "钢锯",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities discovered a hacksaw blade hidden inside the inmate's mattress.",
+      "style": "Formal",
+      "translation": "当局在囚犯的床垫内发现了一片藏匿的钢锯条。",
+      "translated_word": "钢锯",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father handed me the hacksaw and said: measure twice, cut once.",
+      "style": "Intimate",
+      "translation": "父亲将钢锯递给我，说道：量两遍，锯一遍。",
+      "translated_word": "钢锯",
+      "display_order": 2
+    }
+  ]
+}

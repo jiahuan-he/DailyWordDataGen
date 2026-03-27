@@ -1,0 +1,39 @@
+{
+  "word": "expressly",
+  "phonetic": "/ɪkˈsprɛsli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "明确地；专门地；特意",
+  "examples": [
+    {
+      "sentence": "The contract expressly prohibits subletting without written consent.",
+      "style": "Formal",
+      "translation": "合同明确禁止未经书面同意的转租行为。",
+      "translated_word": "明确",
+      "display_order": 3
+    },
+    {
+      "sentence": "She flew across the country expressly to see him one last time.",
+      "style": "Contextual",
+      "translation": "她飞越整个国家，只为最后见他一面。",
+      "translated_word": "只为",
+      "display_order": 2
+    },
+    {
+      "sentence": "The rule was not implied; it was expressly stated.",
+      "style": "Contrastive",
+      "translation": "这条规定并非暗示，而是明文规定。",
+      "translated_word": "明文",
+      "display_order": 1
+    },
+    {
+      "sentence": "This blend was expressly crafted for cold brew.",
+      "style": "Collocational",
+      "translation": "这款拼配咖啡豆专为冷萃而生。",
+      "translated_word": "专为",
+      "display_order": 4
+    }
+  ]
+}

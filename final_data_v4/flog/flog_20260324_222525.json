@@ -1,0 +1,40 @@
+{
+  "word": "flog",
+  "phonetic": "/flɒɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "鞭打；兜售；反复强调",
+  "examples": [
+    {
+      "sentence": "Street vendors flog souvenirs to tourists at every corner.",
+      "style": "Contextual",
+      "translation": "街头小贩在每个街角向游客兜售纪念品。",
+      "translated_word": "兜售",
+      "display_order": 2
+    },
+    {
+      "sentence": "The regime continued to flog dissidents in public squares.",
+      "style": "Formal",
+      "translation": "该政权继续在公共广场上鞭笞异见人士。",
+      "translated_word": "鞭笞",
+      "display_order": 1
+    },
+    {
+      "sentence": "Why flog a dead horse when you could ride a new one?",
+      "style": "Collocational",
+      "translation": "既然可以骑新马，何必徒劳鞭打死马？",
+      "translated_word": "鞭打",
+      "display_order": 4
+    },
+    {
+      "sentence": "Some leaders flog old ideas until the audience stops listening.",
+      "style": "Philosophical",
+      "translation": "有些领导者反复强调陈旧的观点，直到听众不再理会。",
+      "translated_word": "反复强调",
+      "display_order": 3
+    }
+  ]
+}
