@@ -1,0 +1,40 @@
+{
+  "word": "automatic",
+  "phonetic": "/ˌɔːtəˈmætɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "自动的；无意识的；本能的",
+  "examples": [
+    {
+      "sentence": "The coffee machine is fully automatic; fresh espresso waits by the time I'm dressed.",
+      "style": "Contextual",
+      "translation": "咖啡机是全自动的；等我穿好衣服，现磨的浓缩咖啡已经备好。",
+      "translated_word": "自动",
+      "display_order": 2
+    },
+    {
+      "sentence": "Most rental cars come with automatic transmission now.",
+      "style": "Collocational",
+      "translation": "如今大多数租车都配备自动挡。",
+      "translated_word": "自动",
+      "display_order": 1
+    },
+    {
+      "sentence": "When gratitude becomes automatic, it risks losing its warmth.",
+      "style": "Philosophical",
+      "translation": "当感恩变得习以为常，便容易失去它的温度。",
+      "translated_word": "习以为常",
+      "display_order": 3
+    },
+    {
+      "sentence": "Saying 'I love you' before hanging up became automatic with her, a small ritual I never questioned.",
+      "style": "Intimate",
+      "translation": "和她挂电话前说\"我爱你\"已成了本能，一个从未质疑过的小仪式。",
+      "translated_word": "本能",
+      "display_order": 4
+    }
+  ]
+}

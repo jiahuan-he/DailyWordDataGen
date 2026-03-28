@@ -1,0 +1,41 @@
+{
+  "word": "circular",
+  "phonetic": "/ˈsɜːrkjələr/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "圆形的；循环的；迂回的",
+  "examples": [
+    {
+      "sentence": "The café tables were circular, inviting strangers to sit closer.",
+      "style": "Contextual",
+      "translation": "咖啡馆的圆桌，让陌生人不自觉靠近。",
+      "translated_word": "圆",
+      "display_order": 2
+    },
+    {
+      "sentence": "His circular reasoning convinced no one.",
+      "style": "Collocational",
+      "translation": "他循环论证的逻辑，说服不了任何人。",
+      "translated_word": "循环",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every ending is circular; it bends back toward a beginning.",
+      "style": "Philosophical",
+      "translation": "每个结局都是循环的；它终将折回起点。",
+      "translated_word": "循环的",
+      "display_order": 4
+    },
+    {
+      "sentence": "The hawk traced circular paths against the pale winter sky.",
+      "style": "Poetic",
+      "translation": "苍鹰在淡白的冬空中画着圆弧。",
+      "translated_word": "圆",
+      "display_order": 1
+    }
+  ]
+}

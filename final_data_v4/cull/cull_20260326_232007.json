@@ -1,0 +1,40 @@
+{
+  "word": "cull",
+  "phonetic": "/kʌl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "剔除；筛选；淘汰",
+  "examples": [
+    {
+      "sentence": "She culled a thousand photos down to fifty for the album.",
+      "style": "Contextual",
+      "translation": "她从一千张照片中筛出五十张，做成相册。",
+      "translated_word": "筛出",
+      "display_order": 2
+    },
+    {
+      "sentence": "Rangers will cull the elk herd to protect the ecosystem's balance.",
+      "style": "Formal",
+      "translation": "护林员将淘汰部分麋鹿，以维护生态平衡。",
+      "translated_word": "淘汰",
+      "display_order": 1
+    },
+    {
+      "sentence": "A good editor culls the weak drafts before revision begins.",
+      "style": "Collocational",
+      "translation": "好的编辑会在修改前先剔除薄弱的初稿。",
+      "translated_word": "剔除",
+      "display_order": 3
+    },
+    {
+      "sentence": "To grow, we must first cull what no longer serves us.",
+      "style": "Philosophical",
+      "translation": "成长，始于舍弃那些不再适合我们的事物。",
+      "translated_word": "舍弃",
+      "display_order": 4
+    }
+  ]
+}

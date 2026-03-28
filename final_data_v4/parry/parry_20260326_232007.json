@@ -1,0 +1,40 @@
+{
+  "word": "parry",
+  "phonetic": "/ˈpæri/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "挡开；回避；巧妙应对",
+  "examples": [
+    {
+      "sentence": "The fencer raised her blade just in time to parry the thrust.",
+      "style": "Contextual",
+      "translation": "击剑手举起剑刃，堪堪挡下了那一刺。",
+      "translated_word": "挡下",
+      "display_order": 1
+    },
+    {
+      "sentence": "The senator parried every question about the scandal with practiced ease.",
+      "style": "Formal",
+      "translation": "那位参议员从容地回避了所有关于丑闻的提问。",
+      "translated_word": "回避",
+      "display_order": 3
+    },
+    {
+      "sentence": "She parried his sarcasm with a smile.",
+      "style": "Collocational",
+      "translation": "她以微笑化解了他的讽刺。",
+      "translated_word": "化解",
+      "display_order": 2
+    },
+    {
+      "sentence": "When he asked why I left, I parried with silence.",
+      "style": "Intimate",
+      "translation": "当他问我为何离开，我以沉默作答。",
+      "translated_word": "作答",
+      "display_order": 4
+    }
+  ]
+}

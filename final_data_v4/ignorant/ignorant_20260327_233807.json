@@ -1,0 +1,40 @@
+{
+  "word": "ignorant",
+  "phonetic": "/ˈɪɡnərənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "无知的；不了解的；愚昧的",
+  "examples": [
+    {
+      "sentence": "He remained ignorant of the danger until it was too late.",
+      "style": "Contextual",
+      "translation": "他对危险浑然不觉，直到为时已晚。",
+      "translated_word": "浑然不觉",
+      "display_order": 1
+    },
+    {
+      "sentence": "The wisest admit how ignorant they truly are.",
+      "style": "Philosophical",
+      "translation": "最智慧的人承认自己有多无知。",
+      "translated_word": "无知",
+      "display_order": 4
+    },
+    {
+      "sentence": "An ignorant voter is more dangerous than an absent one.",
+      "style": "Contrastive",
+      "translation": "无知的选民比缺席的选民更危险。",
+      "translated_word": "无知",
+      "display_order": 3
+    },
+    {
+      "sentence": "At twenty, I was blissfully ignorant of how much the world would ask of me.",
+      "style": "Intimate",
+      "translation": "二十岁时，我全然不知这世界会向我索取多少。",
+      "translated_word": "不知",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "sap",
+  "phonetic": "/sæp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "消耗；削弱；逐渐损耗",
+  "examples": [
+    {
+      "sentence": "The long commute sapped her energy before the workday even began.",
+      "style": "Contextual",
+      "translation": "漫长的通勤在工作日开始前就已耗尽了她的精力。",
+      "translated_word": "耗尽",
+      "display_order": 1
+    },
+    {
+      "sentence": "Years of underfunding have sapped the institution's capacity to innovate.",
+      "style": "Formal",
+      "translation": "多年的资金匮乏削弱了该机构的创新能力。",
+      "translated_word": "削弱",
+      "display_order": 3
+    },
+    {
+      "sentence": "Resentment saps more from the one who holds it than the one it targets.",
+      "style": "Philosophical",
+      "translation": "怨恨对怀恨者的消耗，远甚于被恨之人。",
+      "translated_word": "消耗",
+      "display_order": 4
+    },
+    {
+      "sentence": "Caring for everyone else slowly sapped the gentleness I had kept for myself.",
+      "style": "Intimate",
+      "translation": "照顾所有人，慢慢耗尽了我留给自己的那份温柔。",
+      "translated_word": "耗尽",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "inverse",
+  "phonetic": "/ɪnˈvɜːrs/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "相反的；逆向的；倒置的",
+  "examples": [
+    {
+      "sentence": "Success and free time often share an inverse relationship.",
+      "style": "Contextual",
+      "translation": "成功与闲暇往往成反比。",
+      "translated_word": "反比",
+      "display_order": 1
+    },
+    {
+      "sentence": "The study revealed an inverse correlation between screen time and sleep quality.",
+      "style": "Formal",
+      "translation": "研究显示，屏幕使用时长与睡眠质量呈逆相关。",
+      "translated_word": "逆",
+      "display_order": 2
+    },
+    {
+      "sentence": "Direct pressure failed; the inverse approach worked: I simply stopped asking.",
+      "style": "Contrastive",
+      "translation": "直接施压无效，反其道而行却奏效了：我不再追问。",
+      "translated_word": "反",
+      "display_order": 3
+    },
+    {
+      "sentence": "Confidence and the need for approval travel inverse paths.",
+      "style": "Philosophical",
+      "translation": "自信与对认可的渴求，注定背道而驰。",
+      "translated_word": "背道",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "basin",
+  "phonetic": "/ˈbeɪsn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "盆；水池；流域；盆地",
+  "examples": [
+    {
+      "sentence": "She filled the basin with warm water and set it on the counter.",
+      "style": "Contextual",
+      "translation": "她在盆里盛满温水，放在台面上。",
+      "translated_word": "盆",
+      "display_order": 1
+    },
+    {
+      "sentence": "The Amazon basin holds one-fifth of the world's fresh water.",
+      "style": "Collocational",
+      "translation": "亚马逊流域蕴藏着全球五分之一的淡水。",
+      "translated_word": "流域",
+      "display_order": 4
+    },
+    {
+      "sentence": "Morning light pooled in the stone basin, still as a held breath.",
+      "style": "Poetic",
+      "translation": "晨光汇入石盆，静若屏息。",
+      "translated_word": "盆",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother kept a copper basin by the door; every evening, she soaked her tired feet in silence.",
+      "style": "Intimate",
+      "translation": "奶奶在门边放着一只铜盆；每个傍晚，她都默默地泡着疲惫的双脚。",
+      "translated_word": "盆",
+      "display_order": 2
+    }
+  ]
+}

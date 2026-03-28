@@ -1,0 +1,39 @@
+{
+  "word": "cleaver",
+  "phonetic": "/ˈkliːvər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "切肉刀；砍刀；剁刀",
+  "examples": [
+    {
+      "sentence": "The chef reached for the cleaver to split the duck in half.",
+      "style": "Contextual",
+      "translation": "厨师拿起砍刀，将整只鸭子一分为二。",
+      "translated_word": "砍刀",
+      "display_order": 1
+    },
+    {
+      "sentence": "A sharp butcher's cleaver makes quick work of even the toughest cuts.",
+      "style": "Collocational",
+      "translation": "一把锋利的屠夫砍刀能轻松处理最难切的肉块。",
+      "translated_word": "砍刀",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother's cleaver, worn thin from decades of use, still hangs in her kitchen.",
+      "style": "Intimate",
+      "translation": "祖母那把用了几十年、已被磨薄的菜刀，至今仍挂在她的厨房里。",
+      "translated_word": "菜刀",
+      "display_order": 2
+    },
+    {
+      "sentence": "The cleaver fell with a sound like thunder; the bone surrendered.",
+      "style": "Poetic",
+      "translation": "砍刀落下，声如惊雷；骨头应声而断。",
+      "translated_word": "砍刀",
+      "display_order": 4
+    }
+  ]
+}

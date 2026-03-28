@@ -1,0 +1,40 @@
+{
+  "word": "rip",
+  "phonetic": "/rɪp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "撕；扯；撕裂；猛拉",
+  "examples": [
+    {
+      "sentence": "He ripped the envelope open, hands trembling.",
+      "style": "Contextual",
+      "translation": "他颤抖着双手，撕开了信封。",
+      "translated_word": "撕开",
+      "display_order": 1
+    },
+    {
+      "sentence": "Wind ripped through the canyon, scattering autumn leaves.",
+      "style": "Collocational",
+      "translation": "风呼啸着穿过峡谷，卷起漫天落叶。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "Silence rips louder than any scream.",
+      "style": "Poetic",
+      "translation": "沉默，比任何尖叫都更撕心裂肺。",
+      "translated_word": "撕心裂肺",
+      "display_order": 4
+    },
+    {
+      "sentence": "I ripped up the letter that night, then regretted it by morning.",
+      "style": "Intimate",
+      "translation": "那晚我撕碎了那封信，天亮时却后悔不已。",
+      "translated_word": "撕碎",
+      "display_order": 2
+    }
+  ]
+}

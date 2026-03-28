@@ -1,0 +1,39 @@
+{
+  "word": "snappy",
+  "phonetic": "/ˈsnæpi/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "干脆利落的；时髦的；暴躁的",
+  "examples": [
+    {
+      "sentence": "Her snappy reply silenced the entire room.",
+      "style": "Contextual",
+      "translation": "她干脆利落的回答让整个房间鸦雀无声。",
+      "translated_word": "干脆利落",
+      "display_order": 1
+    },
+    {
+      "sentence": "He's always been a snappy dresser, even on weekends.",
+      "style": "Collocational",
+      "translation": "即便是周末，他也总是穿得格外时髦。",
+      "translated_word": "时髦",
+      "display_order": 3
+    },
+    {
+      "sentence": "The campaign's snappy slogan boosted engagement by forty percent.",
+      "style": "Formal",
+      "translation": "这则简洁有力的广告语使互动率提升了百分之四十。",
+      "translated_word": "简洁有力",
+      "display_order": 4
+    },
+    {
+      "sentence": "Mornings make me snappy; she learned to bring coffee before conversation.",
+      "style": "Intimate",
+      "translation": "早晨总让我脾气暴躁；她学会了先递咖啡，再开口说话。",
+      "translated_word": "暴躁",
+      "display_order": 2
+    }
+  ]
+}

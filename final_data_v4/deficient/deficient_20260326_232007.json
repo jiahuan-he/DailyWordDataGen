@@ -1,0 +1,39 @@
+{
+  "word": "deficient",
+  "phonetic": "/dɪˈfɪʃənt/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "不足的；缺乏的；欠缺的",
+  "examples": [
+    {
+      "sentence": "The soil was deficient in nitrogen; nothing would grow.",
+      "style": "Contextual",
+      "translation": "土壤缺氮，万物难生。",
+      "translated_word": "缺",
+      "display_order": 1
+    },
+    {
+      "sentence": "An audit revealed the building's fire safety measures were dangerously deficient.",
+      "style": "Formal",
+      "translation": "审计显示，该建筑的消防措施存在严重隐患。",
+      "translated_word": "隐患",
+      "display_order": 4
+    },
+    {
+      "sentence": "Months of indoor work left her vitamin D deficient.",
+      "style": "Collocational",
+      "translation": "长月伏案，她的维生素D早已亏空。",
+      "translated_word": "亏空",
+      "display_order": 2
+    },
+    {
+      "sentence": "Recognizing where you are deficient is the first step toward wholeness.",
+      "style": "Philosophical",
+      "translation": "认清自己的不足，是走向完整的第一步。",
+      "translated_word": "不足",
+      "display_order": 3
+    }
+  ]
+}

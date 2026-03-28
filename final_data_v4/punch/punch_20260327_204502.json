@@ -1,0 +1,40 @@
+{
+  "word": "punch",
+  "phonetic": "/pʌntʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "用拳猛击；打孔；按（键）",
+  "examples": [
+    {
+      "sentence": "He punched the wall and immediately regretted it.",
+      "style": "Contextual",
+      "translation": "他一拳砸向墙壁，随即便后悔了。",
+      "translated_word": "砸",
+      "display_order": 1
+    },
+    {
+      "sentence": "She punched in at nine and punched out at five, year after year.",
+      "style": "Collocational",
+      "translation": "朝九晚五，年复一年，她准时打卡。",
+      "translated_word": "打卡",
+      "display_order": 4
+    },
+    {
+      "sentence": "The first time I punched back, something in me shifted.",
+      "style": "Intimate",
+      "translation": "第一次还击那刻，我心中有什么悄然改变。",
+      "translated_word": "还击",
+      "display_order": 2
+    },
+    {
+      "sentence": "Doubt will block the door; punch through it anyway.",
+      "style": "Inspirational",
+      "translation": "疑虑会阻挡去路；无论如何，冲破它。",
+      "translated_word": "冲破",
+      "display_order": 3
+    }
+  ]
+}

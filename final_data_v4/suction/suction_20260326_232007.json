@@ -1,0 +1,40 @@
+{
+  "word": "suction",
+  "phonetic": "/ˈsʌkʃən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "吸力；抽吸；吸附",
+  "examples": [
+    {
+      "sentence": "The vacuum cleaner lost suction when the filter clogged.",
+      "style": "Contextual",
+      "translation": "滤网堵塞后，吸尘器的吸力骤然减弱。",
+      "translated_word": "吸力",
+      "display_order": 1
+    },
+    {
+      "sentence": "Surgeons used gentle suction to clear the incision site.",
+      "style": "Formal",
+      "translation": "外科医生用轻柔的吸引术清理切口部位。",
+      "translated_word": "吸引术",
+      "display_order": 3
+    },
+    {
+      "sentence": "Press the suction cup firmly against the tile before hanging the hook.",
+      "style": "Collocational",
+      "translation": "挂钩子前，先将吸盘紧紧按在瓷砖上。",
+      "translated_word": "吸盘",
+      "display_order": 2
+    },
+    {
+      "sentence": "As a child, I covered every window with suction cups, pretending they were tiny spaceships.",
+      "style": "Intimate",
+      "translation": "小时候，我把吸盘贴满每扇窗户，假装它们是微型飞船。",
+      "translated_word": "吸盘",
+      "display_order": 4
+    }
+  ]
+}

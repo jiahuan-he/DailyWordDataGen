@@ -1,0 +1,41 @@
+{
+  "word": "awkward",
+  "phonetic": "/ˈɔːkwərd/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "尴尬的；笨拙的；棘手的；别扭的",
+  "examples": [
+    {
+      "sentence": "The elevator ride with my ex was painfully awkward.",
+      "style": "Contextual",
+      "translation": "和前任同乘电梯，尴尬得令人窒息。",
+      "translated_word": "尴尬",
+      "display_order": 2
+    },
+    {
+      "sentence": "An awkward silence followed his joke.",
+      "style": "Collocational",
+      "translation": "他讲完笑话后，一阵尴尬的沉默随之而来。",
+      "translated_word": "尴尬",
+      "display_order": 1
+    },
+    {
+      "sentence": "At family reunions, I shrink back into that awkward teenager.",
+      "style": "Intimate",
+      "translation": "每逢家庭聚会，我又变回那个手足无措的少年。",
+      "translated_word": "手足无措",
+      "display_order": 3
+    },
+    {
+      "sentence": "Growth lives in the awkward space between who we were and who we're becoming.",
+      "style": "Philosophical",
+      "translation": "成长栖息于过去与未来之间那片别扭的缝隙里。",
+      "translated_word": "别扭",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "refer",
+  "phonetic": "/rɪˈfɜːr/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "提及；参考；转介；涉及",
+  "examples": [
+    {
+      "sentence": "The professor kept referring to a book none of us had read.",
+      "style": "Contextual",
+      "translation": "教授不断提到一本我们都没读过的书。",
+      "translated_word": "提到",
+      "display_order": 4
+    },
+    {
+      "sentence": "The report refers to data collected over a five-year period.",
+      "style": "Formal",
+      "translation": "该报告引用了为期五年收集的数据。",
+      "translated_word": "引用",
+      "display_order": 3
+    },
+    {
+      "sentence": "My doctor referred me to a cardiologist the same afternoon.",
+      "style": "Collocational",
+      "translation": "当天下午，我的医生便将我转介给了一位心脏科专家。",
+      "translated_word": "转介",
+      "display_order": 1
+    },
+    {
+      "sentence": "When lost, I refer to the notes my father wrote me years ago.",
+      "style": "Intimate",
+      "translation": "迷茫时，我会翻阅父亲多年前写给我的笔记。",
+      "translated_word": "翻阅",
+      "display_order": 2
+    }
+  ]
+}

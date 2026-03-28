@@ -1,0 +1,41 @@
+{
+  "word": "serene",
+  "phonetic": "/səˈriːn/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "宁静的；平和的；安详的",
+  "examples": [
+    {
+      "sentence": "The lake lay serene at dawn, untouched by wind.",
+      "style": "Contextual",
+      "translation": "黎明时分，湖面宁谧，不起一丝涟漪。",
+      "translated_word": "宁谧",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her serene gaze held the stillness of untouched snow.",
+      "style": "Poetic",
+      "translation": "她安详的目光，带着初雪般的静谧。",
+      "translated_word": "安详",
+      "display_order": 4
+    },
+    {
+      "sentence": "A serene mind sees storms as passing weather.",
+      "style": "Philosophical",
+      "translation": "平和的心，视风暴为过眼云烟。",
+      "translated_word": "平和",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother's face stayed serene, even as she said goodbye.",
+      "style": "Intimate",
+      "translation": "外婆的神情始终安详，即使是在道别的那一刻。",
+      "translated_word": "安详",
+      "display_order": 2
+    }
+  ]
+}

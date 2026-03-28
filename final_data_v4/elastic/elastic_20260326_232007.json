@@ -1,0 +1,40 @@
+{
+  "word": "elastic",
+  "phonetic": "/ɪˈlæstɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有弹性的；灵活的；可伸缩的",
+  "examples": [
+    {
+      "sentence": "Her schedule remains elastic until the client confirms.",
+      "style": "Contextual",
+      "translation": "在客户确认之前，她的日程仍可灵活调整。",
+      "translated_word": "灵活",
+      "display_order": 2
+    },
+    {
+      "sentence": "Good yoga pants should feel elastic, not restrictive.",
+      "style": "Collocational",
+      "translation": "好的瑜伽裤应该弹性十足，而非束缚身体。",
+      "translated_word": "弹性",
+      "display_order": 1
+    },
+    {
+      "sentence": "The most elastic minds bend without breaking.",
+      "style": "Philosophical",
+      "translation": "最富弹性的心智，弯而不折。",
+      "translated_word": "弹性",
+      "display_order": 4
+    },
+    {
+      "sentence": "Stay elastic: rigidity is the first sign of decline.",
+      "style": "Inspirational",
+      "translation": "保持弹性；僵化是衰退的最初征兆。",
+      "translated_word": "弹性",
+      "display_order": 3
+    }
+  ]
+}

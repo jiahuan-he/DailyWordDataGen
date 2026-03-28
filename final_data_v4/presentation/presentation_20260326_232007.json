@@ -1,0 +1,39 @@
+{
+  "word": "presentation",
+  "phonetic": "/ˌprezənˈteɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "演示；报告；展示；呈现",
+  "examples": [
+    {
+      "sentence": "The slides crashed, so she improvised the entire presentation.",
+      "style": "Contextual",
+      "translation": "幻灯片崩溃了，她只能即兴完成整场演示。",
+      "translated_word": "演示",
+      "display_order": 4
+    },
+    {
+      "sentence": "The CEO's quarterly presentation revealed record-breaking growth.",
+      "style": "Formal",
+      "translation": "首席执行官的季度报告揭示了创纪录的增长。",
+      "translated_word": "报告",
+      "display_order": 3
+    },
+    {
+      "sentence": "He rehearsed the presentation six times before the board meeting.",
+      "style": "Collocational",
+      "translation": "董事会议前，他把演示内容排练了六遍。",
+      "translated_word": "演示",
+      "display_order": 1
+    },
+    {
+      "sentence": "My hands shook before my first presentation; the applause made it all worth it.",
+      "style": "Intimate",
+      "translation": "第一次做报告时我双手发抖；掌声响起的那一刻，一切都值得了。",
+      "translated_word": "报告",
+      "display_order": 2
+    }
+  ]
+}

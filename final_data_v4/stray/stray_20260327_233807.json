@@ -1,0 +1,41 @@
+{
+  "word": "stray",
+  "phonetic": "/streɪ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "走失；偏离；走神；流浪",
+  "examples": [
+    {
+      "sentence": "The meeting strayed from its agenda within minutes.",
+      "style": "Contextual",
+      "translation": "会议几分钟内便偏离了议程。",
+      "translated_word": "偏离",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her gaze strayed to the window, searching for a familiar car.",
+      "style": "Poetic",
+      "translation": "她的目光飘向窗外，寻觅那辆熟悉的车。",
+      "translated_word": "飘",
+      "display_order": 1
+    },
+    {
+      "sentence": "To stray is sometimes to discover what you never sought.",
+      "style": "Philosophical",
+      "translation": "偏离航道，有时反而能邂逅意外之美。",
+      "translated_word": "偏离",
+      "display_order": 4
+    },
+    {
+      "sentence": "On restless nights, my thoughts stray back to that summer.",
+      "style": "Intimate",
+      "translation": "辗转难眠时，思绪总会飘回那个夏天。",
+      "translated_word": "飘",
+      "display_order": 2
+    }
+  ]
+}

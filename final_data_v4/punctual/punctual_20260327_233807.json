@@ -1,0 +1,39 @@
+{
+  "word": "punctual",
+  "phonetic": "/ˈpʌŋktʃuəl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "准时；守时；按时",
+  "examples": [
+    {
+      "sentence": "The 8:15 train pulled in right on time, punctual as always.",
+      "style": "Contextual",
+      "translation": "八点一刻的列车准点进站，一如既往地准时。",
+      "translated_word": "准时",
+      "display_order": 1
+    },
+    {
+      "sentence": "Punctual attendance is mandatory for all senior staff meetings.",
+      "style": "Formal",
+      "translation": "高管会议要求全员准时出席。",
+      "translated_word": "准时",
+      "display_order": 4
+    },
+    {
+      "sentence": "Being punctual is a quiet way of saying: your time matters to me.",
+      "style": "Philosophical",
+      "translation": "守时是一种无声的表达：你的时间对我很重要。",
+      "translated_word": "守时",
+      "display_order": 3
+    },
+    {
+      "sentence": "She was never punctual until she fell in love; then she arrived early, every time.",
+      "style": "Intimate",
+      "translation": "她从前总是迟到，直到爱上一个人；从此，每次都早早抵达。",
+      "translated_word": null,
+      "display_order": 2
+    }
+  ]
+}

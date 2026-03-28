@@ -1,0 +1,41 @@
+{
+  "word": "portrait",
+  "phonetic": "/ˈpɔːrtrɪt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "肖像；画像；写照",
+  "examples": [
+    {
+      "sentence": "The gallery's centerpiece is a portrait of the composer at twenty-three.",
+      "style": "Contextual",
+      "translation": "画廊的中心展品是那位作曲家二十三岁时的肖像。",
+      "translated_word": "肖像",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her grandmother's portrait watches over the room, eyes soft with decades of silence.",
+      "style": "Poetic",
+      "translation": "祖母的画像俯瞰着整个房间，目光在数十年的静默中愈发柔和。",
+      "translated_word": "画像",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father never smiled for cameras, yet his portrait captures a warmth I recognize.",
+      "style": "Intimate",
+      "translation": "父亲从不对着镜头微笑，但他的肖像却留住了我熟悉的那份温暖。",
+      "translated_word": "肖像",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every portrait is half the sitter's truth, half the artist's invention.",
+      "style": "Philosophical",
+      "translation": "每幅肖像，一半是被画者的真实，一半是画家的创造。",
+      "translated_word": "肖像",
+      "display_order": 4
+    }
+  ]
+}

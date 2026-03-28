@@ -1,0 +1,40 @@
+{
+  "word": "flag",
+  "phonetic": "/flæɡ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "旗帜；标志；旗",
+  "examples": [
+    {
+      "sentence": "The flag snapped in the wind above the embassy.",
+      "style": "Contextual",
+      "translation": "大使馆上方，旗帜在风中猎猎作响。",
+      "translated_word": "旗帜",
+      "display_order": 1
+    },
+    {
+      "sentence": "Officials lowered the flag to half-staff after the announcement.",
+      "style": "Formal",
+      "translation": "消息公布后，官员们将旗帜降至半旗。",
+      "translated_word": "旗帜",
+      "display_order": 2
+    },
+    {
+      "sentence": "A flag is just cloth until someone decides to die for it.",
+      "style": "Philosophical",
+      "translation": "旗帜不过是一块布，直到有人愿意为它赴死。",
+      "translated_word": "旗帜",
+      "display_order": 4
+    },
+    {
+      "sentence": "Red flags rippled across the square like waves of fire.",
+      "style": "Poetic",
+      "translation": "红旗在广场上翻涌，如火焰的浪潮。",
+      "translated_word": "旗",
+      "display_order": 3
+    }
+  ]
+}

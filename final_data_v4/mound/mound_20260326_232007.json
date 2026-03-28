@@ -1,0 +1,40 @@
+{
+  "word": "mound",
+  "phonetic": "/maʊnd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "土堆；小丘；堆",
+  "examples": [
+    {
+      "sentence": "She patted the mound of soil around the sapling and stepped back.",
+      "style": "Contextual",
+      "translation": "她轻轻拍实了树苗周围的土堆，退后一步端详。",
+      "translated_word": "土堆",
+      "display_order": 1
+    },
+    {
+      "sentence": "A mound of laundry sat on the bed, untouched since morning.",
+      "style": "Collocational",
+      "translation": "一堆衣服堆在床上，从早晨起就没人动过。",
+      "translated_word": "堆",
+      "display_order": 2
+    },
+    {
+      "sentence": "Ancient mounds dot the valley, holding secrets the wind will not tell.",
+      "style": "Poetic",
+      "translation": "古老的土丘散落在山谷间，守着风也不愿诉说的秘密。",
+      "translated_word": "土丘",
+      "display_order": 4
+    },
+    {
+      "sentence": "We crowned our sand mound with shells, racing the tide that would claim it.",
+      "style": "Intimate",
+      "translation": "我们用贝壳为沙堆加冕，与即将吞没它的潮水赛跑。",
+      "translated_word": "沙堆",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "chirp",
+  "phonetic": "/tʃɜːrp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "啁啾；唧唧叫；欢快地说",
+  "examples": [
+    {
+      "sentence": "Sparrows chirped on the ledge as she opened the window.",
+      "style": "Contextual",
+      "translation": "她推开窗，窗台上的麻雀正啁啾不停。",
+      "translated_word": "啁啾",
+      "display_order": 1
+    },
+    {
+      "sentence": "The garden chirped itself awake before sunrise.",
+      "style": "Poetic",
+      "translation": "日出之前，花园已在鸟鸣中苏醒。",
+      "translated_word": "鸟鸣",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her balcony finches chirped through every summer breakfast.",
+      "style": "Intimate",
+      "translation": "每个夏日的早餐，她阳台上的雀鸟总是叫个不停。",
+      "translated_word": "叫",
+      "display_order": 3
+    },
+    {
+      "sentence": "Crickets chirped steadily in the evening grass.",
+      "style": "Collocational",
+      "translation": "蟋蟀在暮色的草丛中唧唧而鸣。",
+      "translated_word": "唧唧",
+      "display_order": 2
+    }
+  ]
+}

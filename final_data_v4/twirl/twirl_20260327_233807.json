@@ -1,0 +1,40 @@
+{
+  "word": "twirl",
+  "phonetic": "/twɜːrl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "旋转；捻弄；转动",
+  "examples": [
+    {
+      "sentence": "She twirled her umbrella and stepped into the rain.",
+      "style": "Contextual",
+      "translation": "她转了转伞，走进雨中。",
+      "translated_word": "转",
+      "display_order": 2
+    },
+    {
+      "sentence": "He twirled a pen between his fingers, lost in thought.",
+      "style": "Collocational",
+      "translation": "他捻弄着手中的笔，陷入沉思。",
+      "translated_word": "捻弄",
+      "display_order": 3
+    },
+    {
+      "sentence": "Maple leaves twirled down, stitching gold into the autumn air.",
+      "style": "Poetic",
+      "translation": "枫叶旋落，将金色缀入秋的空气。",
+      "translated_word": "旋",
+      "display_order": 4
+    },
+    {
+      "sentence": "My daughter twirled in her new dress, insisting I count every spin.",
+      "style": "Intimate",
+      "translation": "女儿穿着新裙子转圈，非要我数清每一圈。",
+      "translated_word": "转圈",
+      "display_order": 1
+    }
+  ]
+}

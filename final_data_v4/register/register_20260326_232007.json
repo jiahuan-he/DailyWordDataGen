@@ -1,0 +1,40 @@
+{
+  "word": "register",
+  "phonetic": "/ˈredʒɪstər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "登记；注册；流露；意识到",
+  "examples": [
+    {
+      "sentence": "All participants must register online before the workshop begins.",
+      "style": "Contextual",
+      "translation": "所有参与者须在工作坊开始前完成线上注册。",
+      "translated_word": "注册",
+      "display_order": 1
+    },
+    {
+      "sentence": "The minor tremor failed to register on nearby monitoring equipment.",
+      "style": "Formal",
+      "translation": "这次轻微震动未能被附近的监测设备捕捉到。",
+      "translated_word": "捕捉到",
+      "display_order": 3
+    },
+    {
+      "sentence": "His face registered shock before he could compose himself.",
+      "style": "Collocational",
+      "translation": "他脸上闪过一丝震惊，随即恢复了镇定。",
+      "translated_word": "闪过",
+      "display_order": 2
+    },
+    {
+      "sentence": "The goodbye didn't register until the train had already left the platform.",
+      "style": "Intimate",
+      "translation": "那声再见还未来得及在心里落定，列车已经驶离站台。",
+      "translated_word": "落定",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "hieroglyphic",
+  "phonetic": "/ˌhaɪərəˈɡlɪfɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "象形文字的；难以辨认的；神秘的",
+  "examples": [
+    {
+      "sentence": "His handwriting was nearly hieroglyphic; only his secretary could read it.",
+      "style": "Contextual",
+      "translation": "他的字迹近乎天书，只有秘书能辨认。",
+      "translated_word": "天书",
+      "display_order": 3
+    },
+    {
+      "sentence": "The tomb's hieroglyphic walls had waited four thousand years for someone to listen.",
+      "style": "Poetic",
+      "translation": "墓穴的象形壁画等待了四千年，只为有人倾听。",
+      "translated_word": "象形",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every family has its own hieroglyphic language: a raised eyebrow, a certain silence.",
+      "style": "Philosophical",
+      "translation": "每个家庭都有自己的密语：一个挑眉，一种特定的沉默。",
+      "translated_word": "密语",
+      "display_order": 4
+    },
+    {
+      "sentence": "Archaeologists have decoded previously illegible hieroglyphic inscriptions using AI imaging.",
+      "style": "Formal",
+      "translation": "考古学家借助人工智能成像技术，破译了此前难以辨认的象形铭文。",
+      "translated_word": "象形",
+      "display_order": 1
+    }
+  ]
+}

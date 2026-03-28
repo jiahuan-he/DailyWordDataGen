@@ -1,0 +1,40 @@
+{
+  "word": "cable",
+  "phonetic": "/ˈkeɪbl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "电缆；缆绳；有线电视",
+  "examples": [
+    {
+      "sentence": "The old bridge swayed gently, its thick cables holding steady against the wind.",
+      "style": "Contextual",
+      "translation": "老桥轻轻摇晃，粗壮的缆绳在风中稳稳支撑。",
+      "translated_word": "缆绳",
+      "display_order": 1
+    },
+    {
+      "sentence": "We took the cable car up the mountain as fog rolled through the valley.",
+      "style": "Collocational",
+      "translation": "薄雾弥漫山谷时，我们乘缆车上了山。",
+      "translated_word": "缆车",
+      "display_order": 2
+    },
+    {
+      "sentence": "Tangled cables crossed the alley, stitching rooftops to the sky.",
+      "style": "Poetic",
+      "translation": "缠绕的电缆横跨小巷，将屋顶缝向天空。",
+      "translated_word": "电缆",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every Sunday, my father unplugged the cable so we'd have to talk instead.",
+      "style": "Intimate",
+      "translation": "每个周日，父亲都会拔掉电视线，好让我们坐下来聊聊天。",
+      "translated_word": "电视线",
+      "display_order": 4
+    }
+  ]
+}

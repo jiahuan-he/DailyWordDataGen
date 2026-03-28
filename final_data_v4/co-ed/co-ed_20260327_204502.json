@@ -1,0 +1,40 @@
+{
+  "word": "co-ed",
+  "phonetic": "/ˌkoʊˈɛd/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "男女同校的；男女兼收的",
+  "examples": [
+    {
+      "sentence": "The university switched to co-ed dormitories in 1972.",
+      "style": "Contextual",
+      "translation": "这所大学于1972年改为男女混住宿舍。",
+      "translated_word": "男女混住",
+      "display_order": 2
+    },
+    {
+      "sentence": "Several elite institutions remain single-sex while most have gone co-ed.",
+      "style": "Formal",
+      "translation": "多数精英学府已实行男女同校，少数仍维持单一性别招生。",
+      "translated_word": "男女同校",
+      "display_order": 4
+    },
+    {
+      "sentence": "Co-ed sports leagues are gaining popularity in urban areas.",
+      "style": "Collocational",
+      "translation": "男女混合运动联赛在城市地区日益流行。",
+      "translated_word": "男女混合",
+      "display_order": 1
+    },
+    {
+      "sentence": "My daughter thrives in a co-ed classroom; she learns differently around boys.",
+      "style": "Intimate",
+      "translation": "女儿在男女同班的环境里如鱼得水；有男生在，她的学习状态截然不同。",
+      "translated_word": "男女同班",
+      "display_order": 3
+    }
+  ]
+}

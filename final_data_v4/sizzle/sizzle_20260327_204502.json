@@ -1,0 +1,40 @@
+{
+  "word": "sizzle",
+  "phonetic": "/ˈsɪzəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "发出滋滋声；煎炸作响；炙热",
+  "examples": [
+    {
+      "sentence": "Garlic hit the hot oil and began to sizzle.",
+      "style": "Contextual",
+      "translation": "蒜片落入热油，滋滋作响。",
+      "translated_word": "滋滋作响",
+      "display_order": 2
+    },
+    {
+      "sentence": "The steak sizzled on the cast-iron grill.",
+      "style": "Collocational",
+      "translation": "牛排在铸铁烤架上嗞嗞冒烟。",
+      "translated_word": "嗞嗞",
+      "display_order": 1
+    },
+    {
+      "sentence": "Summer pavement sizzles; the city holds its breath.",
+      "style": "Poetic",
+      "translation": "夏日路面滚烫蒸腾，整座城市屏息凝神。",
+      "translated_word": "蒸腾",
+      "display_order": 4
+    },
+    {
+      "sentence": "Whenever bacon sizzles on a slow morning, I am ten years old again.",
+      "style": "Intimate",
+      "translation": "每当培根在慵懒的早晨滋滋作响，我便又回到了十岁。",
+      "translated_word": "滋滋作响",
+      "display_order": 3
+    }
+  ]
+}

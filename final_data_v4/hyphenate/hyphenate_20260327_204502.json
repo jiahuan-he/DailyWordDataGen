@@ -1,0 +1,40 @@
+{
+  "word": "hyphenate",
+  "phonetic": "/ˈhaɪfəneɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "用连字符连接；加连字号",
+  "examples": [
+    {
+      "sentence": "When two adjectives work together before a noun, hyphenate them.",
+      "style": "Contextual",
+      "translation": "当两个形容词共同修饰名词时，需用连字符连接。",
+      "translated_word": "连字符",
+      "display_order": 1
+    },
+    {
+      "sentence": "The editorial team hyphenates all compound modifiers for clarity.",
+      "style": "Formal",
+      "translation": "编辑团队为所有复合修饰语加连字符，以确保表意清晰。",
+      "translated_word": "加连字符",
+      "display_order": 2
+    },
+    {
+      "sentence": "Self-taught, self-made, self-aware: always hyphenate the self- compounds.",
+      "style": "Collocational",
+      "translation": "自学的、白手起家的、有自我意识的：self-类复合词须用连字符。",
+      "translated_word": "连字符",
+      "display_order": 3
+    },
+    {
+      "sentence": "Hyphenate 'well-known' before a noun; leave it open after.",
+      "style": "Contrastive",
+      "translation": "置于名词前时，well-known需加连字符；置于其后则无需。",
+      "translated_word": "加连字符",
+      "display_order": 4
+    }
+  ]
+}

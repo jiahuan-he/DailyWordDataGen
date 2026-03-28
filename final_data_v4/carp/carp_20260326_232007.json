@@ -1,0 +1,40 @@
+{
+  "word": "carp",
+  "phonetic": "/kɑːrp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "吹毛求疵；挑剔；抱怨",
+  "examples": [
+    {
+      "sentence": "He carped about the font size while the deadline slipped away.",
+      "style": "Contextual",
+      "translation": "他还在挑剔字体大小，截止日期却悄然流逝。",
+      "translated_word": "挑剔",
+      "display_order": 2
+    },
+    {
+      "sentence": "Critics carped at the proposal, yet offered no alternatives.",
+      "style": "Formal",
+      "translation": "批评者对该提案百般挑剔，却未能提出任何替代方案。",
+      "translated_word": "挑剔",
+      "display_order": 1
+    },
+    {
+      "sentence": "Those who carp the loudest often build the least.",
+      "style": "Philosophical",
+      "translation": "最爱挑剔的人，往往建树最少。",
+      "translated_word": "挑剔",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother never carped; she mended what was broken and moved on.",
+      "style": "Intimate",
+      "translation": "祖母从不抱怨；她修好破损之物，然后继续前行。",
+      "translated_word": "抱怨",
+      "display_order": 3
+    }
+  ]
+}

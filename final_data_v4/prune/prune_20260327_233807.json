@@ -1,0 +1,40 @@
+{
+  "word": "prune",
+  "phonetic": "/pruːn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "修剪；删减；精简",
+  "examples": [
+    {
+      "sentence": "Each spring, she prunes the hedges back to shape.",
+      "style": "Contextual",
+      "translation": "每年春天，她都把树篱修剪成形。",
+      "translated_word": "修剪",
+      "display_order": 1
+    },
+    {
+      "sentence": "The editor pruned three chapters from the manuscript.",
+      "style": "Collocational",
+      "translation": "编辑从书稿中删去了三章。",
+      "translated_word": "删去",
+      "display_order": 2
+    },
+    {
+      "sentence": "What we prune away reveals what we truly value.",
+      "style": "Philosophical",
+      "translation": "我们剪去的，恰恰映照出我们珍视的。",
+      "translated_word": "剪去",
+      "display_order": 3
+    },
+    {
+      "sentence": "Prune ruthlessly; your best work hides beneath the excess.",
+      "style": "Inspirational",
+      "translation": "大胆删减；你最好的作品藏在冗余之下。",
+      "translated_word": "删减",
+      "display_order": 4
+    }
+  ]
+}

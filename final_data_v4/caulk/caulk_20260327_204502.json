@@ -1,0 +1,40 @@
+{
+  "word": "caulk",
+  "phonetic": "/kɔːk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "填缝；密封；堵漏",
+  "examples": [
+    {
+      "sentence": "Water seeped through the tiles until he finally caulked the edges.",
+      "style": "Contextual",
+      "translation": "水从瓷砖缝隙渗入，直到他终于把边缘密封好。",
+      "translated_word": "密封",
+      "display_order": 2
+    },
+    {
+      "sentence": "The contractor caulked around the windows to improve insulation.",
+      "style": "Collocational",
+      "translation": "承包商在窗户四周打上密封胶以加强隔热。",
+      "translated_word": "打上密封胶",
+      "display_order": 1
+    },
+    {
+      "sentence": "Homeowners should caulk all exterior joints before the rainy season.",
+      "style": "Formal",
+      "translation": "房主应在雨季来临前对所有外墙接缝进行密封处理。",
+      "translated_word": "密封",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father handed me the caulking gun and said: now you learn.",
+      "style": "Intimate",
+      "translation": "父亲把填缝枪递给我，说：该你学了。",
+      "translated_word": "填缝",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "franchise",
+  "phonetic": "/ˈfræntʃaɪz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "特许经营权；加盟店；系列作品",
+  "examples": [
+    {
+      "sentence": "The coffee franchise on the corner quietly became our morning ritual.",
+      "style": "Contextual",
+      "translation": "街角那家连锁咖啡店，不知不觉成了我们每日清晨的仪式。",
+      "translated_word": "连锁",
+      "display_order": 2
+    },
+    {
+      "sentence": "The franchise agreement grants exclusive rights to the region for five years.",
+      "style": "Formal",
+      "translation": "该特许经营协议授予该地区五年的独家经营权。",
+      "translated_word": "特许经营",
+      "display_order": 4
+    },
+    {
+      "sentence": "She bought a franchise and became her own boss within six months.",
+      "style": "Collocational",
+      "translation": "她买下一家加盟店，半年内就成了自己的老板。",
+      "translated_word": "加盟店",
+      "display_order": 1
+    },
+    {
+      "sentence": "A franchise offers structure; an independent shop offers a blank canvas.",
+      "style": "Contrastive",
+      "translation": "加盟店提供现成的框架；独立店铺则是一张空白画布。",
+      "translated_word": "加盟店",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "powder",
+  "phonetic": "/ˈpaʊdər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "粉；粉末；粉状物",
+  "examples": [
+    {
+      "sentence": "She patted the powder onto her nose, checking the mirror one last time.",
+      "style": "Contextual",
+      "translation": "她将粉轻拍在鼻尖，最后照了照镜子。",
+      "translated_word": "粉",
+      "display_order": 1
+    },
+    {
+      "sentence": "Fresh powder blanketed the slopes by dawn.",
+      "style": "Collocational",
+      "translation": "黎明时分，新雪覆盖了整个雪坡。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Moonlight turned the fallen snow to silver powder.",
+      "style": "Poetic",
+      "translation": "月光将落雪染成银色的粉末。",
+      "translated_word": "粉末",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her kitchen counter was always dusted with flour and cocoa powder.",
+      "style": "Intimate",
+      "translation": "她的厨房台面上，总落着面粉和可可粉。",
+      "translated_word": "粉",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "duel",
+  "phonetic": "/ˈduːəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "决斗；对决；较量",
+  "examples": [
+    {
+      "sentence": "The chess match turned into a duel of patience.",
+      "style": "Contextual",
+      "translation": "那场棋局演变成了一场耐心的较量。",
+      "translated_word": "较量",
+      "display_order": 1
+    },
+    {
+      "sentence": "The courtroom witnessed a legal duel between corporate giants.",
+      "style": "Formal",
+      "translation": "法庭上演了两大企业巨头之间的法律对决。",
+      "translated_word": "对决",
+      "display_order": 2
+    },
+    {
+      "sentence": "Their verbal duel stretched past midnight.",
+      "style": "Collocational",
+      "translation": "他们的唇枪舌剑一直持续到午夜之后。",
+      "translated_word": "唇枪舌剑",
+      "display_order": 3
+    },
+    {
+      "sentence": "Two violins rose into a duel, each note chasing the other toward silence.",
+      "style": "Poetic",
+      "translation": "两把小提琴攀升至对决，音符相互追逐，直至寂静。",
+      "translated_word": "对决",
+      "display_order": 4
+    }
+  ]
+}

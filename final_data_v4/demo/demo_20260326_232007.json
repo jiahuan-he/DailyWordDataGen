@@ -1,0 +1,40 @@
+{
+  "word": "demo",
+  "phonetic": "/ˈdemoʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "演示；样本；试用版",
+  "examples": [
+    {
+      "sentence": "The demo convinced everyone in the room before the pitch even ended.",
+      "style": "Contextual",
+      "translation": "演示还未结束，在场的每个人就已经被说服了。",
+      "translated_word": "演示",
+      "display_order": 2
+    },
+    {
+      "sentence": "A live demo will follow the keynote address at 3 PM.",
+      "style": "Formal",
+      "translation": "下午三点的主题演讲结束后，将进行现场演示。",
+      "translated_word": "演示",
+      "display_order": 1
+    },
+    {
+      "sentence": "He spent weeks perfecting the demo, knowing he had only five minutes to change their minds.",
+      "style": "Collocational",
+      "translation": "他花了数周打磨这个演示，深知自己只有五分钟来改变他们的想法。",
+      "translated_word": "演示",
+      "display_order": 3
+    },
+    {
+      "sentence": "That clumsy demo in a college dorm became the first chapter of something none of us expected.",
+      "style": "Intimate",
+      "translation": "那次在大学宿舍里笨拙的演示，成了一段谁也没料到的故事的开篇。",
+      "translated_word": "演示",
+      "display_order": 4
+    }
+  ]
+}

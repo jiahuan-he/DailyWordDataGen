@@ -1,0 +1,40 @@
+{
+  "word": "drone",
+  "phonetic": "/droʊn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "无人机；雄蜂；嗡嗡声",
+  "examples": [
+    {
+      "sentence": "The drone hovered over the vineyard, mapping every row of grapes.",
+      "style": "Contextual",
+      "translation": "无人机悬停在葡萄园上空，逐行扫描着每一排葡萄藤。",
+      "translated_word": "无人机",
+      "display_order": 2
+    },
+    {
+      "sentence": "Rescue teams deployed drones to locate survivors in the collapsed structure.",
+      "style": "Formal",
+      "translation": "救援队出动无人机，在坍塌的建筑中搜寻幸存者。",
+      "translated_word": "无人机",
+      "display_order": 1
+    },
+    {
+      "sentence": "The realtor's drone footage sold the house within a week.",
+      "style": "Collocational",
+      "translation": "房产经纪人的无人机航拍让这栋房子一周内便售出。",
+      "translated_word": "无人机",
+      "display_order": 3
+    },
+    {
+      "sentence": "Above the wheat field, a lone drone hummed its mechanical lullaby to no one.",
+      "style": "Poetic",
+      "translation": "麦田之上，一架无人机独自盘旋，对着空旷轻哼机械的摇篮曲。",
+      "translated_word": "无人机",
+      "display_order": 4
+    }
+  ]
+}

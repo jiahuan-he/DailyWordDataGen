@@ -1,0 +1,40 @@
+{
+  "word": "mate",
+  "phonetic": "/meɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "伙伴；配偶；搭档",
+  "examples": [
+    {
+      "sentence": "He's been my mate since we were ten, no explanations ever needed.",
+      "style": "Contextual",
+      "translation": "他从十岁起就是我的伙伴，彼此从不需要解释。",
+      "translated_word": "伙伴",
+      "display_order": 1
+    },
+    {
+      "sentence": "A good travel mate knows when to talk and when to share the silence.",
+      "style": "Collocational",
+      "translation": "好的旅伴懂得何时交谈，何时共享沉默。",
+      "translated_word": "伴",
+      "display_order": 3
+    },
+    {
+      "sentence": "My flatmate left coffee brewing before I woke; small kindness, no fanfare.",
+      "style": "Intimate",
+      "translation": "室友在我醒来前煮好了咖啡；小小的善意，不动声色。",
+      "translated_word": "友",
+      "display_order": 2
+    },
+    {
+      "sentence": "We search for a mate not to fill a void, but to double the joy.",
+      "style": "Philosophical",
+      "translation": "我们寻觅伴侣，不是为了填补空缺，而是为了让喜悦加倍。",
+      "translated_word": "伴侣",
+      "display_order": 4
+    }
+  ]
+}

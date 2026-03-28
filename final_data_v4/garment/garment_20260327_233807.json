@@ -1,0 +1,40 @@
+{
+  "word": "garment",
+  "phonetic": "/ˈɡɑːrmənt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "衣物；服装；衣裳",
+  "examples": [
+    {
+      "sentence": "She folded each garment carefully before placing it in the suitcase.",
+      "style": "Contextual",
+      "translation": "她细心叠好每件衣物，再放入行李箱中。",
+      "translated_word": "衣物",
+      "display_order": 1
+    },
+    {
+      "sentence": "The factory produces over ten thousand garments daily for export.",
+      "style": "Formal",
+      "translation": "该工厂每日生产逾万件服装，供出口之用。",
+      "translated_word": "服装",
+      "display_order": 3
+    },
+    {
+      "sentence": "This outer garment is both waterproof and breathable.",
+      "style": "Collocational",
+      "translation": "这件外衣既防水又透气。",
+      "translated_word": "衣",
+      "display_order": 2
+    },
+    {
+      "sentence": "The silk garment whispered against her skin as she turned.",
+      "style": "Poetic",
+      "translation": "丝质衣裳随她转身轻声絮语，拂过肌肤。",
+      "translated_word": "衣裳",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "boutique",
+  "phonetic": "/buːˈtiːk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "精品店；时装店；专卖店",
+  "examples": [
+    {
+      "sentence": "The vintage boutique on Maple Street only opens on weekends.",
+      "style": "Contextual",
+      "translation": "枫叶街的那家古着精品店只在周末营业。",
+      "translated_word": "精品店",
+      "display_order": 1
+    },
+    {
+      "sentence": "She preferred the quiet neighborhood boutique to crowded department stores.",
+      "style": "Collocational",
+      "translation": "比起拥挤的百货商场，她更喜欢安静的街角小店。",
+      "translated_word": "小店",
+      "display_order": 2
+    },
+    {
+      "sentence": "Behind frosted glass, the boutique held its breath in amber light.",
+      "style": "Poetic",
+      "translation": "磨砂玻璃后，精品店在琥珀色的光晕中静静屏息。",
+      "translated_word": "精品店",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's boutique closed years ago, but its lavender scent never left me.",
+      "style": "Intimate",
+      "translation": "外婆的小店早已关门，但那抹薰衣草香从未散去。",
+      "translated_word": "小店",
+      "display_order": 3
+    }
+  ]
+}

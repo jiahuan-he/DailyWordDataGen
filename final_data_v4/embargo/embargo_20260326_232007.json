@@ -1,0 +1,40 @@
+{
+  "word": "embargo",
+  "phonetic": "/ɪmˈbɑːrɡoʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "禁运；禁令；封锁",
+  "examples": [
+    {
+      "sentence": "The oil embargo sent shockwaves through global markets within hours.",
+      "style": "Formal",
+      "translation": "石油禁运在数小时内震动了全球市场。",
+      "translated_word": "禁运",
+      "display_order": 2
+    },
+    {
+      "sentence": "After the embargo lifted, coffee shipments resumed overnight.",
+      "style": "Contextual",
+      "translation": "禁运解除后，咖啡运输连夜恢复。",
+      "translated_word": "禁运",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sanctions target individuals; an embargo targets an entire nation.",
+      "style": "Contrastive",
+      "translation": "制裁针对个人；禁运则针对整个国家。",
+      "translated_word": "禁运",
+      "display_order": 3
+    },
+    {
+      "sentence": "An embargo is a wall built with policy, not brick.",
+      "style": "Philosophical",
+      "translation": "禁运是以政策而非砖石筑起的高墙。",
+      "translated_word": "禁运",
+      "display_order": 4
+    }
+  ]
+}

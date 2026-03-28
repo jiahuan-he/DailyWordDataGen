@@ -1,0 +1,40 @@
+{
+  "word": "unfair",
+  "phonetic": "/ʌnˈfer/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "不公平；不公正；偏心",
+  "examples": [
+    {
+      "sentence": "Three candidates, one position, and a decision made before the interviews: unfair.",
+      "style": "Contextual",
+      "translation": "三个候选人，一个职位，面试前早已内定：不公平。",
+      "translated_word": "不公平",
+      "display_order": 1
+    },
+    {
+      "sentence": "Calling life unfair assumes it ever promised to be fair.",
+      "style": "Philosophical",
+      "translation": "说生活不公平，是假设它曾承诺过公平。",
+      "translated_word": "不公平",
+      "display_order": 4
+    },
+    {
+      "sentence": "The rule applied to everyone equally; strict, yes, but not unfair.",
+      "style": "Contrastive",
+      "translation": "规则对所有人一视同仁；严格，是的，但并不偏颇。",
+      "translated_word": "偏颇",
+      "display_order": 3
+    },
+    {
+      "sentence": "She got praise for the same grades that earned me only silence.",
+      "style": "Intimate",
+      "translation": "同样的成绩，她收获赞美，我只换来沉默。",
+      "translated_word": null,
+      "display_order": 2
+    }
+  ]
+}

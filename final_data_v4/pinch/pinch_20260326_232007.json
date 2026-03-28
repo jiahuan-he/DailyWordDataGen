@@ -1,0 +1,40 @@
+{
+  "word": "pinch",
+  "phonetic": "/pɪntʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "捏；掐；偷；节省",
+  "examples": [
+    {
+      "sentence": "She pinched the dough to seal the edges of the dumpling.",
+      "style": "Contextual",
+      "translation": "她捏紧面皮，封好饺子的边缘。",
+      "translated_word": "捏",
+      "display_order": 1
+    },
+    {
+      "sentence": "We pinched pennies for a year to afford this trip.",
+      "style": "Collocational",
+      "translation": "我们省吃俭用一整年，才攒够这趟旅行的钱。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother used to pinch my cheeks and call me her little moon.",
+      "style": "Intimate",
+      "translation": "外婆从前总爱捏捏我的脸蛋，唤我作她的小月亮。",
+      "translated_word": "捏捏",
+      "display_order": 2
+    },
+    {
+      "sentence": "Sometimes you must pinch yourself to believe the good is real.",
+      "style": "Philosophical",
+      "translation": "有时你得掐一下自己，才敢相信美好是真的。",
+      "translated_word": "掐",
+      "display_order": 3
+    }
+  ]
+}

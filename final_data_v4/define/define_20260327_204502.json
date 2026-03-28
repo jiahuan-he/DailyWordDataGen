@@ -1,0 +1,40 @@
+{
+  "word": "define",
+  "phonetic": "/dɪˈfaɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "定义；界定；明确",
+  "examples": [
+    {
+      "sentence": "The contract defines each party's obligations in precise terms.",
+      "style": "Contextual",
+      "translation": "合同以精确措辞界定了各方义务。",
+      "translated_word": "界定",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some moments define us more than decades of routine.",
+      "style": "Philosophical",
+      "translation": "某些瞬间比数十年的日常更能定义我们。",
+      "translated_word": "定义",
+      "display_order": 3
+    },
+    {
+      "sentence": "Your setbacks do not define you; your response does.",
+      "style": "Inspirational",
+      "translation": "挫折不能定义你；你的回应才能。",
+      "translated_word": "定义",
+      "display_order": 4
+    },
+    {
+      "sentence": "The new legislation defines stricter standards for data privacy.",
+      "style": "Formal",
+      "translation": "新法规对数据隐私制定了更严格的标准。",
+      "translated_word": "制定",
+      "display_order": 2
+    }
+  ]
+}

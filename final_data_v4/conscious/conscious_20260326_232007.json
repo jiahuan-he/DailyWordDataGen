@@ -1,0 +1,40 @@
+{
+  "word": "conscious",
+  "phonetic": "/ˈkɒnʃəs/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "有意识的；清醒的；自觉的；刻意的",
+  "examples": [
+    {
+      "sentence": "He wasn't even conscious that he was smiling.",
+      "style": "Contextual",
+      "translation": "他甚至没有意识到自己在微笑。",
+      "translated_word": "意识到",
+      "display_order": 1
+    },
+    {
+      "sentence": "It takes conscious effort to unlearn old habits.",
+      "style": "Collocational",
+      "translation": "摒弃旧习，需要刻意为之。",
+      "translated_word": "刻意",
+      "display_order": 2
+    },
+    {
+      "sentence": "Being conscious of time is both a gift and a burden.",
+      "style": "Philosophical",
+      "translation": "意识到时间的流逝，既是馈赠，也是负担。",
+      "translated_word": "意识到",
+      "display_order": 3
+    },
+    {
+      "sentence": "The moment I became conscious of my own anger, it lost its power over me.",
+      "style": "Intimate",
+      "translation": "当我意识到自己的愤怒那一刻，它便失去了对我的掌控。",
+      "translated_word": "意识到",
+      "display_order": 4
+    }
+  ]
+}

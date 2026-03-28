@@ -1,0 +1,40 @@
+{
+  "word": "riot",
+  "phonetic": "/ˈraɪət/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "暴动；骚乱；狂欢",
+  "examples": [
+    {
+      "sentence": "The riot began minutes after the verdict was announced.",
+      "style": "Contextual",
+      "translation": "判决宣布几分钟后，暴动便开始了。",
+      "translated_word": "暴动",
+      "display_order": 1
+    },
+    {
+      "sentence": "Riot police were deployed to restore order in the capital.",
+      "style": "Formal",
+      "translation": "防暴警察被派往首都恢复秩序。",
+      "translated_word": "暴",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her garden was a riot of color every spring.",
+      "style": "Collocational",
+      "translation": "她的花园每逢春日便是一片绚烂。",
+      "translated_word": "绚烂",
+      "display_order": 3
+    },
+    {
+      "sentence": "Autumn leaves staged their final riot before the snow.",
+      "style": "Poetic",
+      "translation": "秋叶在落雪前上演了最后的狂欢。",
+      "translated_word": "狂欢",
+      "display_order": 4
+    }
+  ]
+}

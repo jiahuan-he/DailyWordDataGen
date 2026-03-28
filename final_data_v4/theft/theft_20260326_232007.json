@@ -1,0 +1,39 @@
+{
+  "word": "theft",
+  "phonetic": "/θeft/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "偷窃；盗窃；失窃",
+  "examples": [
+    {
+      "sentence": "The shop closed early; a theft had emptied the register.",
+      "style": "Contextual",
+      "translation": "店铺提前打烊了；一场盗窃搬空了收银机。",
+      "translated_word": "盗窃",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities report a sharp rise in package theft during the holiday season.",
+      "style": "Formal",
+      "translation": "当局报告，假日期间包裹盗窃案激增。",
+      "translated_word": "盗窃",
+      "display_order": 2
+    },
+    {
+      "sentence": "Identity theft can destroy a decade of credit in a single afternoon.",
+      "style": "Collocational",
+      "translation": "身份盗窃能在一个下午毁掉十年的信用。",
+      "translated_word": "盗窃",
+      "display_order": 3
+    },
+    {
+      "sentence": "The cruelest theft takes not objects, but someone's sense of safety.",
+      "style": "Philosophical",
+      "translation": "最残忍的偷窃，拿走的不是物件，而是安全感。",
+      "translated_word": "偷窃",
+      "display_order": 4
+    }
+  ]
+}

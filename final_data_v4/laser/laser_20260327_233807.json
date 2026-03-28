@@ -1,0 +1,40 @@
+{
+  "word": "laser",
+  "phonetic": "/ˈleɪzər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "激光；激光器",
+  "examples": [
+    {
+      "sentence": "The surgeon corrected her vision with a laser in under ten minutes.",
+      "style": "Contextual",
+      "translation": "外科医生用激光矫正了她的视力，全程不到十分钟。",
+      "translated_word": "激光",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new industrial laser cuts steel with micron-level precision.",
+      "style": "Formal",
+      "translation": "这款新型工业激光器能以微米级精度切割钢材。",
+      "translated_word": "激光器",
+      "display_order": 3
+    },
+    {
+      "sentence": "A green laser pointer traced the stars as he named each constellation.",
+      "style": "Collocational",
+      "translation": "他用绿色激光笔指向星空，逐一说出每个星座的名字。",
+      "translated_word": "激光",
+      "display_order": 2
+    },
+    {
+      "sentence": "A laser gains its power not from force, but from focus.",
+      "style": "Philosophical",
+      "translation": "激光的力量不在于蛮力，而在于聚焦。",
+      "translated_word": "激光",
+      "display_order": 4
+    }
+  ]
+}

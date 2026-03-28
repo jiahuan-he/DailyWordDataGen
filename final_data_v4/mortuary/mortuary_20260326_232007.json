@@ -1,0 +1,40 @@
+{
+  "word": "mortuary",
+  "phonetic": "/ˈmɔːrtʃueri/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "太平间；停尸房；殡仪馆",
+  "examples": [
+    {
+      "sentence": "The detective arrived at the mortuary before dawn to identify the victim.",
+      "style": "Contextual",
+      "translation": "侦探在黎明前抵达太平间，辨认死者身份。",
+      "translated_word": "太平间",
+      "display_order": 1
+    },
+    {
+      "sentence": "City officials announced plans to renovate the overcrowded mortuary.",
+      "style": "Formal",
+      "translation": "市政官员宣布将翻新这座已不堪重负的殡仪馆。",
+      "translated_word": "殡仪馆",
+      "display_order": 4
+    },
+    {
+      "sentence": "A mortuary holds no grief; only the living carry that weight.",
+      "style": "Philosophical",
+      "translation": "太平间不承载悲伤；唯有生者负重前行。",
+      "translated_word": "太平间",
+      "display_order": 3
+    },
+    {
+      "sentence": "Silence in the mortuary felt different: cold, patient, final.",
+      "style": "Poetic",
+      "translation": "停尸房里的寂静别有意味：冰冷、沉静、终局。",
+      "translated_word": "停尸房",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "lawsuit",
+  "phonetic": "/ˈlɔːsuːt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "诉讼；官司",
+  "examples": [
+    {
+      "sentence": "The lawsuit against the pharmaceutical giant revealed years of hidden safety data.",
+      "style": "Formal",
+      "translation": "这场针对制药巨头的诉讼揭露了多年来被隐瞒的安全数据。",
+      "translated_word": "诉讼",
+      "display_order": 2
+    },
+    {
+      "sentence": "She filed a lawsuit after the company refused to honor her contract.",
+      "style": "Collocational",
+      "translation": "公司拒绝履行合同后，她提起了诉讼。",
+      "translated_word": "诉讼",
+      "display_order": 1
+    },
+    {
+      "sentence": "The lawsuit dragged on for three years before reaching a verdict.",
+      "style": "Contextual",
+      "translation": "这场官司拖了三年，才终于等来判决。",
+      "translated_word": "官司",
+      "display_order": 3
+    },
+    {
+      "sentence": "A lawsuit is public record; a settlement keeps secrets buried.",
+      "style": "Contrastive",
+      "translation": "诉讼是公开记录；和解则将秘密深埋。",
+      "translated_word": "诉讼",
+      "display_order": 4
+    }
+  ]
+}

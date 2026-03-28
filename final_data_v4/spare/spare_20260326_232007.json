@@ -1,0 +1,41 @@
+{
+  "word": "spare",
+  "phonetic": "/sper/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "抽出；饶恕；省去；匀出",
+  "examples": [
+    {
+      "sentence": "Could you spare five minutes to look over this draft?",
+      "style": "Contextual",
+      "translation": "你能抽出五分钟看看这份草稿吗？",
+      "translated_word": "抽出",
+      "display_order": 1
+    },
+    {
+      "sentence": "They spared no expense on their daughter's wedding.",
+      "style": "Collocational",
+      "translation": "他们为女儿的婚礼不惜重金。",
+      "translated_word": "惜",
+      "display_order": 3
+    },
+    {
+      "sentence": "To spare someone the truth is not always kindness.",
+      "style": "Philosophical",
+      "translation": "省去真相，未必是善意。",
+      "translated_word": "省去",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother always spared a little from her pension to buy me books.",
+      "style": "Intimate",
+      "translation": "外婆总从退休金里匀出一点，给我买书。",
+      "translated_word": "匀出",
+      "display_order": 2
+    }
+  ]
+}

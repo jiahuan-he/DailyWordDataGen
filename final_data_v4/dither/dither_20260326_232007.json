@@ -1,0 +1,40 @@
+{
+  "word": "dither",
+  "phonetic": "/ˈdɪðər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "犹豫；踌躇；迟疑不决",
+  "examples": [
+    {
+      "sentence": "She dithered over the menu for ten minutes before finally ordering.",
+      "style": "Contextual",
+      "translation": "她对着菜单犹豫了十分钟，才终于下单。",
+      "translated_word": "犹豫",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some people leap; others dither until the moment passes.",
+      "style": "Contrastive",
+      "translation": "有人纵身一跃，有人踌躇观望，直至良机溜走。",
+      "translated_word": "踌躇观望",
+      "display_order": 3
+    },
+    {
+      "sentence": "To dither is to pay rent on a decision you never move into.",
+      "style": "Philosophical",
+      "translation": "犹豫，是为一个从未入住的决定支付租金。",
+      "translated_word": "犹豫",
+      "display_order": 4
+    },
+    {
+      "sentence": "I dithered at the departure gate until the final boarding call.",
+      "style": "Intimate",
+      "translation": "我在登机口前迟疑不决，直到最后一遍登机广播响起。",
+      "translated_word": "迟疑不决",
+      "display_order": 2
+    }
+  ]
+}

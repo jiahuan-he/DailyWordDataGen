@@ -1,0 +1,40 @@
+{
+  "word": "reel",
+  "phonetic": "/riːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "踉跄；震惊；眩晕",
+  "examples": [
+    {
+      "sentence": "He reeled backward after the sudden gust of wind.",
+      "style": "Contextual",
+      "translation": "一阵狂风袭来，他向后踉跄。",
+      "translated_word": "踉跄",
+      "display_order": 1
+    },
+    {
+      "sentence": "The industry continues to reel from last quarter's disruptions.",
+      "style": "Formal",
+      "translation": "该行业仍未从上季度的动荡中恢复。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "The news hit, and the whole room reeled in silence.",
+      "style": "Poetic",
+      "translation": "消息传来，整个房间在沉默中震颤。",
+      "translated_word": "震颤",
+      "display_order": 3
+    },
+    {
+      "sentence": "For weeks after the breakup, I reeled through each empty morning.",
+      "style": "Intimate",
+      "translation": "分手后的几周，我恍惚地度过每一个空荡的清晨。",
+      "translated_word": "恍惚",
+      "display_order": 2
+    }
+  ]
+}

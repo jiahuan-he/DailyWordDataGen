@@ -1,0 +1,41 @@
+{
+  "word": "minor",
+  "phonetic": "/ˈmaɪnər/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "次要的；轻微的；不严重的",
+  "examples": [
+    {
+      "sentence": "The delay was minor; we arrived only five minutes late.",
+      "style": "Contextual",
+      "translation": "延误很轻微，我们只迟到了五分钟。",
+      "translated_word": "轻微",
+      "display_order": 2
+    },
+    {
+      "sentence": "Authorities reported minor damage following the coastal storm.",
+      "style": "Formal",
+      "translation": "当局报告称，沿海风暴仅造成轻微损失。",
+      "translated_word": "轻微",
+      "display_order": 3
+    },
+    {
+      "sentence": "What seems minor now may echo for years.",
+      "style": "Contrastive",
+      "translation": "此刻看似微不足道的事，或许会回响多年。",
+      "translated_word": "微不足道",
+      "display_order": 4
+    },
+    {
+      "sentence": "A minor tweak to the lighting changed the entire mood of the room.",
+      "style": "Collocational",
+      "translation": "灯光的细微调整，改变了整个房间的氛围。",
+      "translated_word": "细微",
+      "display_order": 1
+    }
+  ]
+}

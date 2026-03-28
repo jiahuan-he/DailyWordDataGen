@@ -1,0 +1,40 @@
+{
+  "word": "acclaim",
+  "phonetic": "/əˈkleɪm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "称赞；赞誉；喝彩",
+  "examples": [
+    {
+      "sentence": "Critics acclaimed the film for its raw, unfiltered honesty.",
+      "style": "Formal",
+      "translation": "影评人盛赞这部电影真实而不加修饰的坦诚。",
+      "translated_word": "盛赞",
+      "display_order": 1
+    },
+    {
+      "sentence": "The novel sold poorly at first, but readers eventually acclaimed it as a classic.",
+      "style": "Contextual",
+      "translation": "这部小说起初销量惨淡，却终被读者奉为经典。",
+      "translated_word": "奉为",
+      "display_order": 2
+    },
+    {
+      "sentence": "We acclaim the summit, forgetting the climb that shaped us.",
+      "style": "Philosophical",
+      "translation": "我们赞美登顶，却忘了攀登本身才是塑造我们的过程。",
+      "translated_word": "赞美",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her paintings were never acclaimed in galleries; they only hung in our kitchen, watching over family dinners.",
+      "style": "Intimate",
+      "translation": "她的画作从未在画廊里得到赞誉；它们只挂在我家厨房，静静守望着每一顿家宴。",
+      "translated_word": "赞誉",
+      "display_order": 4
+    }
+  ]
+}

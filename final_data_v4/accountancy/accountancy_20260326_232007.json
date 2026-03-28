@@ -1,0 +1,39 @@
+{
+  "word": "accountancy",
+  "phonetic": "/əˈkaʊntənsi/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "会计学；会计行业；会计工作",
+  "examples": [
+    {
+      "sentence": "She switched from law to accountancy after her first internship.",
+      "style": "Contextual",
+      "translation": "第一次实习后，她从法律转向了会计。",
+      "translated_word": "会计",
+      "display_order": 1
+    },
+    {
+      "sentence": "The firm's accountancy division reported a 12% increase in client acquisitions.",
+      "style": "Formal",
+      "translation": "该公司会计部门报告客户增长了百分之十二。",
+      "translated_word": "会计",
+      "display_order": 3
+    },
+    {
+      "sentence": "Accountancy demands precision; finance rewards intuition.",
+      "style": "Contrastive",
+      "translation": "会计需要精准，金融则仰赖直觉。",
+      "translated_word": "会计",
+      "display_order": 4
+    },
+    {
+      "sentence": "A degree in accountancy opens doors at every major corporation.",
+      "style": "Collocational",
+      "translation": "一纸会计学位，可叩开各大企业之门。",
+      "translated_word": "会计",
+      "display_order": 2
+    }
+  ]
+}

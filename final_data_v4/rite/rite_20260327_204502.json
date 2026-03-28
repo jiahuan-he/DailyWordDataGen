@@ -1,0 +1,42 @@
+{
+  "word": "rite",
+  "phonetic": "/raɪt/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "interjection",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "仪式；典礼；惯例",
+  "examples": [
+    {
+      "sentence": "The village gathered at dusk for the harvest rite.",
+      "style": "Contextual",
+      "translation": "黄昏时分，村民们聚集在一起举行丰收仪式。",
+      "translated_word": "仪式",
+      "display_order": 1
+    },
+    {
+      "sentence": "The coronation rite will be broadcast to millions worldwide.",
+      "style": "Formal",
+      "translation": "加冕典礼将向全球数百万观众直播。",
+      "translated_word": "典礼",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every rite exists to mark what silence cannot hold.",
+      "style": "Philosophical",
+      "translation": "每一种仪式的存在，都是为了铭记沉默无法承载之物。",
+      "translated_word": "仪式",
+      "display_order": 4
+    },
+    {
+      "sentence": "Candles flickered as the rite unfolded in the stone chapel.",
+      "style": "Poetic",
+      "translation": "烛光摇曳，仪式在石砌教堂中缓缓展开。",
+      "translated_word": "仪式",
+      "display_order": 2
+    }
+  ]
+}

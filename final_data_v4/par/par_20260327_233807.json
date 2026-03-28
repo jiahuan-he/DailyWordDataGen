@@ -1,0 +1,42 @@
+{
+  "word": "par",
+  "phonetic": "/pɑːr/",
+  "pos": [
+    "adjective",
+    "noun",
+    "preposition",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "标准；同等水平；票面价值",
+  "examples": [
+    {
+      "sentence": "This café's espresso is on par with anything I had in Rome.",
+      "style": "Contextual",
+      "translation": "这家咖啡馆的浓缩咖啡，丝毫不逊于我在罗马喝过的任何一杯。",
+      "translated_word": "不逊于",
+      "display_order": 1
+    },
+    {
+      "sentence": "The bond is currently trading below par due to rising interest rates.",
+      "style": "Formal",
+      "translation": "受利率上升影响，该债券目前以低于票面价值的价格交易。",
+      "translated_word": "票面价值",
+      "display_order": 4
+    },
+    {
+      "sentence": "The imitation looked convincing, but its craftsmanship fell below par.",
+      "style": "Contrastive",
+      "translation": "仿品看似以假乱真，工艺却差了一截。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "Her intuition is on par with years of formal training.",
+      "style": "Collocational",
+      "translation": "她的直觉，堪比多年专业训练。",
+      "translated_word": "堪比",
+      "display_order": 2
+    }
+  ]
+}

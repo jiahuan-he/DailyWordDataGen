@@ -1,0 +1,40 @@
+{
+  "word": "exclusive",
+  "phonetic": "/ɪkˈskluːsɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "专属的；独家的；高档的",
+  "examples": [
+    {
+      "sentence": "The rooftop bar is exclusive to hotel guests.",
+      "style": "Contextual",
+      "translation": "这间天台酒吧仅对住店客人开放。",
+      "translated_word": "仅",
+      "display_order": 3
+    },
+    {
+      "sentence": "The network secured exclusive broadcasting rights for the championship.",
+      "style": "Formal",
+      "translation": "该电视台获得了这场冠军赛的独家转播权。",
+      "translated_word": "独家",
+      "display_order": 2
+    },
+    {
+      "sentence": "Members enjoy exclusive access to the private beach.",
+      "style": "Collocational",
+      "translation": "会员可专享私人海滩的通行权。",
+      "translated_word": "专享",
+      "display_order": 1
+    },
+    {
+      "sentence": "When he asked if we were exclusive, my heart already knew the answer.",
+      "style": "Intimate",
+      "translation": "当他问我们是否确定关系时，我的心早已有了答案。",
+      "translated_word": "确定",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "idiot",
+  "phonetic": "/ˈɪdiət/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "傻瓜；笨蛋；蠢货",
+  "examples": [
+    {
+      "sentence": "He locked himself out twice in one hour; even the locksmith called him an idiot.",
+      "style": "Contextual",
+      "translation": "他一小时内把自己锁在门外两次，连锁匠都叫他傻瓜。",
+      "translated_word": "傻瓜",
+      "display_order": 4
+    },
+    {
+      "sentence": "I felt like a complete idiot after waving back at a stranger.",
+      "style": "Collocational",
+      "translation": "朝陌生人挥手回应之后，我觉得自己蠢透了。",
+      "translated_word": "蠢透了",
+      "display_order": 1
+    },
+    {
+      "sentence": "My sister called me an idiot, but her voice was soft with concern.",
+      "style": "Intimate",
+      "translation": "姐姐骂我傻瓜，语气里却满是心疼。",
+      "translated_word": "傻瓜",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every master was once an idiot who simply outlasted the embarrassment.",
+      "style": "Philosophical",
+      "translation": "每位大师都曾是个笨蛋，只是熬过了那些难堪。",
+      "translated_word": "笨蛋",
+      "display_order": 3
+    }
+  ]
+}

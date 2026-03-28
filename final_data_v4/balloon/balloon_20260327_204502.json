@@ -1,0 +1,40 @@
+{
+  "word": "balloon",
+  "phonetic": "/bəˈluːn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "气球；热气球",
+  "examples": [
+    {
+      "sentence": "The child clutched her red balloon, refusing to let go even at bedtime.",
+      "style": "Contextual",
+      "translation": "孩子紧紧抓着红气球，连睡觉也不肯松手。",
+      "translated_word": "气球",
+      "display_order": 1
+    },
+    {
+      "sentence": "A single balloon drifted across the cloudless sky, carrying someone's unspoken wish.",
+      "style": "Poetic",
+      "translation": "一只气球飘过晴空，承载着某人未曾说出的心愿。",
+      "translated_word": "气球",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father once chased a runaway balloon three blocks just to see me smile.",
+      "style": "Intimate",
+      "translation": "父亲曾追着一只飞走的气球跑了三条街，只为看我笑一笑。",
+      "translated_word": "气球",
+      "display_order": 2
+    },
+    {
+      "sentence": "We booked a hot air balloon ride at sunrise over the valley.",
+      "style": "Collocational",
+      "translation": "我们预订了一次日出时分飞越山谷的热气球之旅。",
+      "translated_word": "气球",
+      "display_order": 4
+    }
+  ]
+}

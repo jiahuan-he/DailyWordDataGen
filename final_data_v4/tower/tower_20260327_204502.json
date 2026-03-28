@@ -1,0 +1,40 @@
+{
+  "word": "tower",
+  "phonetic": "/ˈtaʊər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "塔；高楼；塔楼",
+  "examples": [
+    {
+      "sentence": "The clock tower chimed at noon, and the square fell silent.",
+      "style": "Contextual",
+      "translation": "钟楼在正午敲响，广场顿时安静下来。",
+      "translated_word": "钟楼",
+      "display_order": 1
+    },
+    {
+      "sentence": "Fog wrapped the tower in stillness, erasing its peak from the sky.",
+      "style": "Poetic",
+      "translation": "雾霭将塔楼裹入静谧，塔尖从天际隐去。",
+      "translated_word": "塔楼",
+      "display_order": 2
+    },
+    {
+      "sentence": "From the tower, crowds become specks; from the ground, the tower becomes a wish.",
+      "style": "Philosophical",
+      "translation": "从塔上俯瞰，人群化作微尘；从地面仰望，高塔化作心愿。",
+      "translated_word": "塔",
+      "display_order": 3
+    },
+    {
+      "sentence": "The control tower cleared us for takeoff just before sunset.",
+      "style": "Collocational",
+      "translation": "日落前，塔台批准了我们起飞。",
+      "translated_word": "塔台",
+      "display_order": 4
+    }
+  ]
+}

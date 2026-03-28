@@ -1,0 +1,39 @@
+{
+  "word": "nil",
+  "phonetic": "/nɪl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "零；无；空",
+  "examples": [
+    {
+      "sentence": "The final score stood at three-nil.",
+      "style": "Contextual",
+      "translation": "比分最终定格在三比零。",
+      "translated_word": "零",
+      "display_order": 1
+    },
+    {
+      "sentence": "Risk of contamination was reduced to nil after the new protocol.",
+      "style": "Formal",
+      "translation": "新规程实施后，污染风险已降至零。",
+      "translated_word": "零",
+      "display_order": 3
+    },
+    {
+      "sentence": "His savings showed thousands; his regrets showed nil.",
+      "style": "Contrastive",
+      "translation": "他的存款有数千；他的遗憾却是零。",
+      "translated_word": "零",
+      "display_order": 2
+    },
+    {
+      "sentence": "Sometimes nil is not absence; it is a clean slate waiting.",
+      "style": "Philosophical",
+      "translation": "有时零并非空无，而是静待落笔的白纸。",
+      "translated_word": "零",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "recluse",
+  "phonetic": "/ˈrek.luːs/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "隐士；遁世者；隐居者",
+  "examples": [
+    {
+      "sentence": "After the scandal, the billionaire became a recluse, unseen for years.",
+      "style": "Contextual",
+      "translation": "丑闻之后，那位亿万富翁成了隐居者，多年不见踪影。",
+      "translated_word": "隐居者",
+      "display_order": 1
+    },
+    {
+      "sentence": "A recluse does not flee the world; they simply stop needing its applause.",
+      "style": "Philosophical",
+      "translation": "隐士并非逃避世界，只是不再需要它的掌声。",
+      "translated_word": "隐士",
+      "display_order": 4
+    },
+    {
+      "sentence": "The recluse watches seasons turn from her window, needing nothing more.",
+      "style": "Poetic",
+      "translation": "隐士倚窗望四季流转，别无他求。",
+      "translated_word": "隐士",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father was a recluse in his final years; books replaced conversation.",
+      "style": "Intimate",
+      "translation": "父亲晚年深居简出，书籍代替了交谈。",
+      "translated_word": "深居简出",
+      "display_order": 2
+    }
+  ]
+}

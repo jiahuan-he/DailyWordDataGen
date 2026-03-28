@@ -1,0 +1,40 @@
+{
+  "word": "brace",
+  "phonetic": "/breɪs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "做好准备；稳住；支撑",
+  "examples": [
+    {
+      "sentence": "She braced against the railing as the ferry lurched.",
+      "style": "Contextual",
+      "translation": "渡轮猛然晃动，她紧紧扶住栏杆稳住身形。",
+      "translated_word": "扶住",
+      "display_order": 1
+    },
+    {
+      "sentence": "Brace yourself; the results are in.",
+      "style": "Collocational",
+      "translation": "做好心理准备吧；结果出来了。",
+      "translated_word": "准备",
+      "display_order": 2
+    },
+    {
+      "sentence": "Those who brace for storms often find the strength to outlast them.",
+      "style": "Inspirational",
+      "translation": "做好准备迎接风暴的人，往往能熬过风暴。",
+      "translated_word": "准备",
+      "display_order": 3
+    },
+    {
+      "sentence": "Before the phone rang, I braced myself at the kitchen counter, palms flat on the cold tile.",
+      "style": "Intimate",
+      "translation": "电话响起之前，我站在厨房台前，双手平按在冰凉的瓷砖上，让自己镇定下来。",
+      "translated_word": "镇定",
+      "display_order": 4
+    }
+  ]
+}

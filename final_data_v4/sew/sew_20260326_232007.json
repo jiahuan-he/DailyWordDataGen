@@ -1,0 +1,39 @@
+{
+  "word": "sew",
+  "phonetic": "/soʊ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "缝；缝制；缝补；缝合",
+  "examples": [
+    {
+      "sentence": "The seam split open, so she sat down to sew it shut.",
+      "style": "Contextual",
+      "translation": "缝线裂开了，她便坐下来把它缝好。",
+      "translated_word": "缝",
+      "display_order": 3
+    },
+    {
+      "sentence": "He asked me to sew a patch onto his favorite jacket.",
+      "style": "Collocational",
+      "translation": "他请我在他最爱的夹克上缝一块补丁。",
+      "translated_word": "缝",
+      "display_order": 1
+    },
+    {
+      "sentence": "My mother taught me to sew the summer I turned twelve.",
+      "style": "Intimate",
+      "translation": "十二岁那年夏天，母亲教会了我缝纫。",
+      "translated_word": "缝纫",
+      "display_order": 2
+    },
+    {
+      "sentence": "By lamplight, she sews stories into every hem.",
+      "style": "Poetic",
+      "translation": "灯火微黄，她将故事缝进每一道衣边。",
+      "translated_word": "缝",
+      "display_order": 4
+    }
+  ]
+}

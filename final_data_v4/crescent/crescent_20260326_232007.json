@@ -1,0 +1,41 @@
+{
+  "word": "crescent",
+  "phonetic": "/ˈkresənt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "新月；月牙形；弯月",
+  "examples": [
+    {
+      "sentence": "A silver crescent hung low over the quiet harbor.",
+      "style": "Contextual",
+      "translation": "一弯银月低悬于静谧的港湾之上。",
+      "translated_word": "银月",
+      "display_order": 2
+    },
+    {
+      "sentence": "The crescent moon rose just as the last ferry departed.",
+      "style": "Collocational",
+      "translation": "新月升起时，最后一班渡轮刚好离港。",
+      "translated_word": "新月",
+      "display_order": 1
+    },
+    {
+      "sentence": "Night folded open to reveal a single crescent, pale and perfect.",
+      "style": "Poetic",
+      "translation": "夜幕徐徐展开，露出一弯清冷而圆满的月牙。",
+      "translated_word": "月牙",
+      "display_order": 4
+    },
+    {
+      "sentence": "We walked home beneath the crescent, saying nothing, needing nothing.",
+      "style": "Intimate",
+      "translation": "我们在月牙下走回家，无言，亦无所求。",
+      "translated_word": "月牙",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "amble",
+  "phonetic": "/ˈæm.bəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "漫步；闲逛；缓行",
+  "examples": [
+    {
+      "sentence": "We had no agenda, so we ambled through the market until dusk.",
+      "style": "Contextual",
+      "translation": "没什么安排，我们便在市场里闲逛到黄昏。",
+      "translated_word": "闲逛",
+      "display_order": 3
+    },
+    {
+      "sentence": "He ambled along the canal, hands in his pockets, watching the boats drift by.",
+      "style": "Collocational",
+      "translation": "他双手插兜，沿运河漫步，看船只缓缓驶过。",
+      "translated_word": "漫步",
+      "display_order": 1
+    },
+    {
+      "sentence": "Leaves spiraled down as she ambled through the vineyard, unhurried and whole.",
+      "style": "Poetic",
+      "translation": "落叶旋落，她漫步葡萄园中，从容而圆满。",
+      "translated_word": "漫步",
+      "display_order": 4
+    },
+    {
+      "sentence": "On slow Sunday mornings, my father would amble to the newsstand, savoring the quiet.",
+      "style": "Intimate",
+      "translation": "慵懒的周日清晨，父亲总爱踱步去报摊，享受那份静谧。",
+      "translated_word": "踱步",
+      "display_order": 2
+    }
+  ]
+}

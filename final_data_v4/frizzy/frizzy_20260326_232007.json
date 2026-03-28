@@ -1,0 +1,40 @@
+{
+  "word": "frizzy",
+  "phonetic": "/ˈfrɪzi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "毛躁的；蓬乱卷曲的",
+  "examples": [
+    {
+      "sentence": "The humidity made her hair frizzy within minutes.",
+      "style": "Contextual",
+      "translation": "没过几分钟，潮气就让她的头发毛躁起来。",
+      "translated_word": "毛躁",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her hair looked sleek in photos but turned frizzy once the iron cooled.",
+      "style": "Contrastive",
+      "translation": "照片里秀发如绸，卷发棒一凉却又蓬成一团。",
+      "translated_word": "蓬",
+      "display_order": 4
+    },
+    {
+      "sentence": "She finally stopped fighting her naturally frizzy curls.",
+      "style": "Collocational",
+      "translation": "她终于不再与天生的蓬松卷发较劲了。",
+      "translated_word": "蓬松",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother called my frizzy hair a lion's mane, and I believed her.",
+      "style": "Intimate",
+      "translation": "外婆说我毛茸茸的头发是狮子鬃毛，我信了。",
+      "translated_word": "毛茸茸",
+      "display_order": 3
+    }
+  ]
+}

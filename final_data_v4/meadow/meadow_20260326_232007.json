@@ -1,0 +1,39 @@
+{
+  "word": "meadow",
+  "phonetic": "/ˈmedoʊ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "草地；草甸；牧场",
+  "examples": [
+    {
+      "sentence": "We spread a blanket in the meadow and let the afternoon slip away.",
+      "style": "Contextual",
+      "translation": "我们在草地上铺开毯子，任由午后时光悄然流逝。",
+      "translated_word": "草地",
+      "display_order": 1
+    },
+    {
+      "sentence": "The meadow held the morning mist, soft and silver, until the sun arrived.",
+      "style": "Poetic",
+      "translation": "草甸轻拥着晨雾，银白而柔软，直到阳光降临。",
+      "translated_word": "草甸",
+      "display_order": 3
+    },
+    {
+      "sentence": "That summer, we stumbled upon a meadow and stayed until the stars appeared.",
+      "style": "Intimate",
+      "translation": "那年夏天，我们误入一片草地，一直待到繁星浮现。",
+      "translated_word": "草地",
+      "display_order": 2
+    },
+    {
+      "sentence": "A meadow offers nothing but space; sometimes that is everything.",
+      "style": "Philosophical",
+      "translation": "草地只给人空旷；有时这便是一切。",
+      "translated_word": "草地",
+      "display_order": 4
+    }
+  ]
+}

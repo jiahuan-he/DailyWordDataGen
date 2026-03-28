@@ -1,0 +1,40 @@
+{
+  "word": "mosquito",
+  "phonetic": "/məˈskiːtoʊ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "蚊子；蚊",
+  "examples": [
+    {
+      "sentence": "The summer evening was perfect until a mosquito found my ankle.",
+      "style": "Contextual",
+      "translation": "夏夜本是完美的，直到一只蚊子找上了我的脚踝。",
+      "translated_word": "蚊子",
+      "display_order": 1
+    },
+    {
+      "sentence": "She lit the mosquito coil and watched the smoke curl toward the ceiling.",
+      "style": "Collocational",
+      "translation": "她点燃蚊香，看着烟雾向天花板袅袅升起。",
+      "translated_word": "蚊",
+      "display_order": 4
+    },
+    {
+      "sentence": "Grandma's porch, mosquito bites, and fireflies: my definition of July.",
+      "style": "Intimate",
+      "translation": "外婆的门廊、蚊子叮的包、还有萤火虫：这就是我心中七月的模样。",
+      "translated_word": "蚊子",
+      "display_order": 2
+    },
+    {
+      "sentence": "A single mosquito circled the lamplight, tracing its brief orbit of hunger.",
+      "style": "Poetic",
+      "translation": "一只蚊子绕着灯光盘旋，划出它短暂而饥渴的轨迹。",
+      "translated_word": "蚊子",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "gash",
+  "phonetic": "/ɡæʃ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "深切口；裂口；伤口",
+  "examples": [
+    {
+      "sentence": "The knife slipped, leaving a gash across his palm.",
+      "style": "Contextual",
+      "translation": "刀刃一滑，在他掌心划出一道深深的伤口。",
+      "translated_word": "伤口",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rescue teams discovered a gash in the ship's hull below the waterline.",
+      "style": "Formal",
+      "translation": "救援队在吃水线以下发现了船体的一道裂口。",
+      "translated_word": "裂口",
+      "display_order": 3
+    },
+    {
+      "sentence": "The canyon splits the plateau like a gash in ancient skin.",
+      "style": "Poetic",
+      "translation": "峡谷劈开高原，如远古肌肤上的一道裂痕。",
+      "translated_word": "裂痕",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father never explained the gash on his forearm; some wounds carry stories too heavy to tell.",
+      "style": "Intimate",
+      "translation": "父亲从未解释过前臂上那道伤疤；有些伤口承载着太沉重的故事，无法诉说。",
+      "translated_word": "伤疤",
+      "display_order": 2
+    }
+  ]
+}

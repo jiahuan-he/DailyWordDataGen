@@ -1,0 +1,40 @@
+{
+  "word": "fry",
+  "phonetic": "/fraɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "油炸；煎；炒",
+  "examples": [
+    {
+      "sentence": "The garlic began to sizzle as she dropped it into the pan to fry.",
+      "style": "Contextual",
+      "translation": "蒜末落入锅中，滋滋作响。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "He learned to fry eggs sunny-side up before he turned ten.",
+      "style": "Collocational",
+      "translation": "不到十岁，他便学会了煎单面蛋。",
+      "translated_word": "煎",
+      "display_order": 1
+    },
+    {
+      "sentence": "On winter mornings, my father would fry scallion pancakes while the house was still quiet.",
+      "style": "Intimate",
+      "translation": "冬日清晨，父亲总趁着满屋寂静，煎起葱油饼。",
+      "translated_word": "煎",
+      "display_order": 2
+    },
+    {
+      "sentence": "The sound of vegetables frying carries the rhythm of a home at dusk.",
+      "style": "Poetic",
+      "translation": "蔬菜在锅中翻炒的声响，是黄昏里家的节拍。",
+      "translated_word": "翻炒",
+      "display_order": 3
+    }
+  ]
+}

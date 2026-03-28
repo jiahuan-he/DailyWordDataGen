@@ -1,0 +1,40 @@
+{
+  "word": "blame",
+  "phonetic": "/bleɪm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "责备；归咎；怪罪",
+  "examples": [
+    {
+      "sentence": "The coach blamed the loss on poor preparation.",
+      "style": "Contextual",
+      "translation": "教练将失利归咎于准备不足。",
+      "translated_word": "归咎",
+      "display_order": 1
+    },
+    {
+      "sentence": "Don't blame yourself for things beyond your control.",
+      "style": "Collocational",
+      "translation": "别为无法掌控的事自责。",
+      "translated_word": "自责",
+      "display_order": 2
+    },
+    {
+      "sentence": "We blame the world to avoid questioning ourselves.",
+      "style": "Philosophical",
+      "translation": "我们指责世界，只为逃避审视自己。",
+      "translated_word": "指责",
+      "display_order": 3
+    },
+    {
+      "sentence": "I blamed my father for years; his silence was all he had to give.",
+      "style": "Intimate",
+      "translation": "我怨怪了父亲多年；沉默是他仅有的给予。",
+      "translated_word": "怨怪",
+      "display_order": 4
+    }
+  ]
+}

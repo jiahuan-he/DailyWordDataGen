@@ -1,0 +1,40 @@
+{
+  "word": "trump",
+  "phonetic": "/trʌmp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "胜过；压倒；盖过",
+  "examples": [
+    {
+      "sentence": "In high-stakes negotiations, experience often trumps raw talent.",
+      "style": "Contextual",
+      "translation": "在高风险的谈判中，经验往往胜过天赋。",
+      "translated_word": "胜过",
+      "display_order": 1
+    },
+    {
+      "sentence": "The court ruled that public safety concerns trump individual privacy rights.",
+      "style": "Formal",
+      "translation": "法院裁定，公共安全凌驾于个人隐私权之上。",
+      "translated_word": "凌驾",
+      "display_order": 4
+    },
+    {
+      "sentence": "Quality trumps quantity: one perfect page beats ten mediocre ones.",
+      "style": "Contrastive",
+      "translation": "质量胜过数量：一页佳作胜过十页平庸。",
+      "translated_word": "胜过",
+      "display_order": 2
+    },
+    {
+      "sentence": "In the end, kindness trumps cleverness.",
+      "style": "Philosophical",
+      "translation": "归根结底，善良比聪明更重要。",
+      "translated_word": "更重要",
+      "display_order": 3
+    }
+  ]
+}

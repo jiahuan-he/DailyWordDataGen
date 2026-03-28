@@ -1,0 +1,39 @@
+{
+  "word": "perpetrator",
+  "phonetic": "/ˈpɜːrpəˌtreɪtər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "犯罪者；肇事者；作恶者",
+  "examples": [
+    {
+      "sentence": "The perpetrator was identified through surveillance footage within hours.",
+      "style": "Formal",
+      "translation": "数小时内，肇事者便通过监控录像被锁定。",
+      "translated_word": "肇事者",
+      "display_order": 2
+    },
+    {
+      "sentence": "Police are still searching for the perpetrator of last night's robbery.",
+      "style": "Contextual",
+      "translation": "警方仍在搜寻昨夜劫案的作案者。",
+      "translated_word": "作案者",
+      "display_order": 1
+    },
+    {
+      "sentence": "The law must protect victims without forgetting that perpetrators, too, were once someone's child.",
+      "style": "Philosophical",
+      "translation": "法律须保护受害者，却也不应忘记：犯罪者亦曾是某人的孩子。",
+      "translated_word": "犯罪者",
+      "display_order": 3
+    },
+    {
+      "sentence": "Victims heal; perpetrators carry the weight of what they've done.",
+      "style": "Contrastive",
+      "translation": "受害者终会痊愈；作恶者却永远背负罪行的重量。",
+      "translated_word": "作恶者",
+      "display_order": 4
+    }
+  ]
+}

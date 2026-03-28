@@ -1,0 +1,40 @@
+{
+  "word": "alphabet",
+  "phonetic": "/ˈælfəbet/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "字母表；基础；入门",
+  "examples": [
+    {
+      "sentence": "The Greek alphabet contains twenty-four letters, from alpha to omega.",
+      "style": "Contextual",
+      "translation": "希腊字母表共有二十四个字母，从阿尔法到欧米伽。",
+      "translated_word": "字母表",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother traced the alphabet on my palm before I could hold a pencil.",
+      "style": "Intimate",
+      "translation": "在我能握住铅笔之前，祖母便在我掌心一笔一划地描摹字母。",
+      "translated_word": "字母",
+      "display_order": 2
+    },
+    {
+      "sentence": "The alphabet is not just symbols; it is the skeleton of thought itself.",
+      "style": "Philosophical",
+      "translation": "字母不仅是符号，更是思想本身的骨架。",
+      "translated_word": "字母",
+      "display_order": 3
+    },
+    {
+      "sentence": "Master the alphabet first; poetry will follow.",
+      "style": "Inspirational",
+      "translation": "先精通字母，诗篇自会随之而来。",
+      "translated_word": "字母",
+      "display_order": 4
+    }
+  ]
+}

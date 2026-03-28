@@ -1,0 +1,39 @@
+{
+  "word": "creek",
+  "phonetic": "/kriːk/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "小溪；溪流",
+  "examples": [
+    {
+      "sentence": "The children spent the afternoon catching tadpoles in the shallow creek.",
+      "style": "Contextual",
+      "translation": "孩子们在浅浅的小溪里捉了一下午蝌蚪。",
+      "translated_word": "小溪",
+      "display_order": 2
+    },
+    {
+      "sentence": "Sunlight shattered into diamonds on the creek's surface.",
+      "style": "Poetic",
+      "translation": "阳光洒落溪面，碎成满河星钻。",
+      "translated_word": "溪",
+      "display_order": 4
+    },
+    {
+      "sentence": "That summer, we mapped every bend of the creek behind grandma's farm.",
+      "style": "Intimate",
+      "translation": "那年夏天，我们踏遍了外婆农场后那条小溪的每一道弯。",
+      "translated_word": "小溪",
+      "display_order": 3
+    },
+    {
+      "sentence": "A narrow creek wound through the meadow, its water cold and clear.",
+      "style": "Collocational",
+      "translation": "一条窄窄的溪流蜿蜒穿过草地，溪水清冽透亮。",
+      "translated_word": "溪流",
+      "display_order": 1
+    }
+  ]
+}

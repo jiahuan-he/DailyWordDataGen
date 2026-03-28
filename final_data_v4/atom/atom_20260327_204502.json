@@ -1,0 +1,39 @@
+{
+  "word": "atom",
+  "phonetic": "/ˈætəm/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "原子；微粒；微量",
+  "examples": [
+    {
+      "sentence": "Split water, and you find two hydrogen atoms bound to one oxygen.",
+      "style": "Contextual",
+      "translation": "分解水，你会发现两个氢原子与一个氧原子紧密相连。",
+      "translated_word": "原子",
+      "display_order": 1
+    },
+    {
+      "sentence": "We are borrowed atoms, briefly arranged into something that can wonder at atoms.",
+      "style": "Philosophical",
+      "translation": "我们不过是借来的原子，短暂地排列成能够思索原子的存在。",
+      "translated_word": "原子",
+      "display_order": 4
+    },
+    {
+      "sentence": "The atom knows nothing of loneliness; it has always belonged to something larger.",
+      "style": "Poetic",
+      "translation": "原子不懂孤独；它始终归属于更宏大的存在。",
+      "translated_word": "原子",
+      "display_order": 3
+    },
+    {
+      "sentence": "A molecule tells the story; the atom is merely the letter.",
+      "style": "Contrastive",
+      "translation": "分子讲述故事；原子只是字母。",
+      "translated_word": "原子",
+      "display_order": 2
+    }
+  ]
+}

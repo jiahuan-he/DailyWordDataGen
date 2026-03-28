@@ -1,0 +1,40 @@
+{
+  "word": "companion",
+  "phonetic": "/kəmˈpænjən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "同伴；伙伴；伴侣",
+  "examples": [
+    {
+      "sentence": "She travels alone but never without a book as her companion.",
+      "style": "Contextual",
+      "translation": "她独自旅行，却从不缺书作伴。",
+      "translated_word": "作伴",
+      "display_order": 1
+    },
+    {
+      "sentence": "Solitude teaches us what we truly need in a companion.",
+      "style": "Philosophical",
+      "translation": "孤独教会我们真正需要怎样的同伴。",
+      "translated_word": "同伴",
+      "display_order": 3
+    },
+    {
+      "sentence": "Through fog and birdsong, the river was her morning companion.",
+      "style": "Poetic",
+      "translation": "穿过晨雾与鸟鸣，河流是她清晨的伴侣。",
+      "translated_word": "伴侣",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's recipes became my companion in a foreign kitchen.",
+      "style": "Intimate",
+      "translation": "在异国的厨房里，外婆的菜谱成了我的陪伴。",
+      "translated_word": "陪伴",
+      "display_order": 2
+    }
+  ]
+}

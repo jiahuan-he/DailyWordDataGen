@@ -1,0 +1,39 @@
+{
+  "word": "definition",
+  "phonetic": "/ˌdefɪˈnɪʃn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "定义；释义；清晰度；轮廓",
+  "examples": [
+    {
+      "sentence": "The dictionary offered three definitions, but none captured how she used the word.",
+      "style": "Contextual",
+      "translation": "词典给出了三种释义，却没有一种符合她的用法。",
+      "translated_word": "释义",
+      "display_order": 1
+    },
+    {
+      "sentence": "The contract lacks a clear definition of deliverables.",
+      "style": "Formal",
+      "translation": "合同缺乏对交付成果的明确定义。",
+      "translated_word": "定义",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some people spend their whole lives escaping the definitions others gave them.",
+      "style": "Philosophical",
+      "translation": "有些人穷尽一生，只为挣脱他人给予的定义。",
+      "translated_word": "定义",
+      "display_order": 4
+    },
+    {
+      "sentence": "By definition, a shortcut that takes longer is just a detour.",
+      "style": "Collocational",
+      "translation": "从定义上讲，耗时更长的捷径不过是绕路。",
+      "translated_word": "定义",
+      "display_order": 3
+    }
+  ]
+}

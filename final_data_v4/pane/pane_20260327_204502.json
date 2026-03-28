@@ -1,0 +1,40 @@
+{
+  "word": "pane",
+  "phonetic": "/peɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "窗玻璃；玻璃片",
+  "examples": [
+    {
+      "sentence": "Rain traced slow lines down the pane.",
+      "style": "Contextual",
+      "translation": "雨滴顺着玻璃缓缓滑落。",
+      "translated_word": "玻璃",
+      "display_order": 3
+    },
+    {
+      "sentence": "Morning light pooled on the dusty pane, golden and still.",
+      "style": "Poetic",
+      "translation": "晨光在积尘的玻璃上汇成金黄的静谧。",
+      "translated_word": "玻璃",
+      "display_order": 4
+    },
+    {
+      "sentence": "She pressed her palm to the cold pane, watching him leave.",
+      "style": "Intimate",
+      "translation": "她把手掌贴在冰凉的玻璃上，看着他离去。",
+      "translated_word": "玻璃",
+      "display_order": 2
+    },
+    {
+      "sentence": "He wiped the foggy pane to watch the snow.",
+      "style": "Collocational",
+      "translation": "他擦去玻璃上的雾气，凝望落雪。",
+      "translated_word": "玻璃",
+      "display_order": 1
+    }
+  ]
+}

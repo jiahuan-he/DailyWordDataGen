@@ -1,0 +1,40 @@
+{
+  "word": "wiggle",
+  "phonetic": "/ˈwɪɡəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "扭动；摆动；蠕动",
+  "examples": [
+    {
+      "sentence": "The puppy wiggled with excitement the moment its owner walked in.",
+      "style": "Contextual",
+      "translation": "主人一进门，小狗便兴奋得扭来扭去。",
+      "translated_word": "扭来扭去",
+      "display_order": 2
+    },
+    {
+      "sentence": "She wiggled her toes in the warm sand, savoring the stillness.",
+      "style": "Collocational",
+      "translation": "她在温热的沙子里扭动脚趾，享受这片刻的宁静。",
+      "translated_word": "扭动",
+      "display_order": 1
+    },
+    {
+      "sentence": "My daughter wiggled free from my arms, already too big for bedtime stories.",
+      "style": "Intimate",
+      "translation": "女儿从我怀里挣脱出去，她已经大到不再需要睡前故事了。",
+      "translated_word": "挣脱",
+      "display_order": 3
+    },
+    {
+      "sentence": "A worm wiggled through the rain-soaked earth, patient and blind.",
+      "style": "Poetic",
+      "translation": "一条蚯蚓在雨后的泥土中蠕动，耐心而盲目。",
+      "translated_word": "蠕动",
+      "display_order": 4
+    }
+  ]
+}

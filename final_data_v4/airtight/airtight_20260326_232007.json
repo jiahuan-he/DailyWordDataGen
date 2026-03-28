@@ -1,0 +1,39 @@
+{
+  "word": "airtight",
+  "phonetic": "/ˈeərˌtaɪt/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "密封的；无懈可击的；严密的",
+  "examples": [
+    {
+      "sentence": "The coffee stays fresh for months in its airtight packaging.",
+      "style": "Contextual",
+      "translation": "咖啡在密封包装中可以保鲜数月。",
+      "translated_word": "密封",
+      "display_order": 2
+    },
+    {
+      "sentence": "The prosecutor built an airtight case that left no room for doubt.",
+      "style": "Formal",
+      "translation": "检察官构建了一个无懈可击的案件，不留任何疑点。",
+      "translated_word": "无懈可击",
+      "display_order": 3
+    },
+    {
+      "sentence": "Store spices in airtight containers to preserve their flavor.",
+      "style": "Collocational",
+      "translation": "将香料存放在密封容器中，以保留其风味。",
+      "translated_word": "密封",
+      "display_order": 1
+    },
+    {
+      "sentence": "A good excuse crumbles under pressure; an airtight alibi does not.",
+      "style": "Contrastive",
+      "translation": "好的借口经不起推敲；而滴水不漏的不在场证明却能。",
+      "translated_word": "滴水不漏",
+      "display_order": 4
+    }
+  ]
+}

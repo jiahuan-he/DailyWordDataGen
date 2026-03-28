@@ -1,0 +1,41 @@
+{
+  "word": "gallant",
+  "phonetic": "/ˈɡælənt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "英勇的；豪迈的；殷勤的",
+  "examples": [
+    {
+      "sentence": "Despite being outnumbered, the firefighters made a gallant effort to save the trapped family.",
+      "style": "Contextual",
+      "translation": "尽管寡不敌众，消防员们仍奋力营救被困的一家人。",
+      "translated_word": "奋力",
+      "display_order": 1
+    },
+    {
+      "sentence": "He stood gallant against the storm, salt wind carving his silhouette into the dusk.",
+      "style": "Poetic",
+      "translation": "他迎风而立，海风将他的剪影镌刻在暮色之中。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "A gallant act asks nothing in return; it simply refuses to look away.",
+      "style": "Philosophical",
+      "translation": "英勇之举不求回报，只是拒绝视而不见。",
+      "translated_word": "英勇",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather was gallant in the quietest ways: opening doors, writing letters, never raising his voice.",
+      "style": "Intimate",
+      "translation": "祖父的风度藏在细节里：为人开门，手写书信，从不高声。",
+      "translated_word": "风度",
+      "display_order": 2
+    }
+  ]
+}

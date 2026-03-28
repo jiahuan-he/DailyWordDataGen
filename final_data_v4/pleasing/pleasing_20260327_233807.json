@@ -1,0 +1,41 @@
+{
+  "word": "pleasing",
+  "phonetic": "/ˈpliːzɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "悦目；宜人；称心；讨喜",
+  "examples": [
+    {
+      "sentence": "The café's soft lighting and muted tones created a pleasing warmth.",
+      "style": "Contextual",
+      "translation": "咖啡馆柔和的灯光与素雅的色调，营造出宜人的暖意。",
+      "translated_word": "宜人",
+      "display_order": 1
+    },
+    {
+      "sentence": "The arrangement was aesthetically pleasing, every element in quiet harmony.",
+      "style": "Collocational",
+      "translation": "布置悦目得体，每处细节都彼此呼应。",
+      "translated_word": "悦目",
+      "display_order": 2
+    },
+    {
+      "sentence": "Rain on old rooftops carries a pleasing rhythm only solitude can hear.",
+      "style": "Poetic",
+      "translation": "雨落旧瓦，敲出一段唯有独处才能听见的悦耳节拍。",
+      "translated_word": "悦耳",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we find pleasing often mirrors what we quietly crave.",
+      "style": "Philosophical",
+      "translation": "我们觉得称心的事物，往往映照着内心深处的渴望。",
+      "translated_word": "称心",
+      "display_order": 4
+    }
+  ]
+}

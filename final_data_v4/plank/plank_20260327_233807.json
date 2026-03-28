@@ -1,0 +1,40 @@
+{
+  "word": "plank",
+  "phonetic": "/plæŋk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "木板；厚板；跳板",
+  "examples": [
+    {
+      "sentence": "The carpenter measured each plank twice before cutting.",
+      "style": "Contextual",
+      "translation": "木匠每块木板都量两遍才下锯。",
+      "translated_word": "木板",
+      "display_order": 1
+    },
+    {
+      "sentence": "A loose plank on the boardwalk nearly tripped him.",
+      "style": "Collocational",
+      "translation": "栈道上一块松动的木板差点绊倒他。",
+      "translated_word": "木板",
+      "display_order": 2
+    },
+    {
+      "sentence": "We carried planks up the hill all afternoon, building something that would outlast us.",
+      "style": "Intimate",
+      "translation": "那个下午我们扛着木板上山，建造的东西会比我们长久。",
+      "translated_word": "木板",
+      "display_order": 3
+    },
+    {
+      "sentence": "Saltwater had silvered the plank, each groove a decade of tides.",
+      "style": "Poetic",
+      "translation": "海水将木板染成银灰，每道纹路都是十年潮汐。",
+      "translated_word": "木板",
+      "display_order": 4
+    }
+  ]
+}

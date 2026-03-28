@@ -1,0 +1,40 @@
+{
+  "word": "thrash",
+  "phonetic": "/θræʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "猛打；大败；剧烈挣扎",
+  "examples": [
+    {
+      "sentence": "The fish thrashed on the deck, gasping for water.",
+      "style": "Contextual",
+      "translation": "鱼在甲板上剧烈挣扎，渴求着水。",
+      "translated_word": "挣扎",
+      "display_order": 1
+    },
+    {
+      "sentence": "The defending champion thrashed her opponent in straight sets.",
+      "style": "Formal",
+      "translation": "卫冕冠军直落三盘大败对手。",
+      "translated_word": "大败",
+      "display_order": 2
+    },
+    {
+      "sentence": "They thrashed out a deal after hours of negotiation.",
+      "style": "Collocational",
+      "translation": "经过数小时的谈判，他们终于敲定了协议。",
+      "translated_word": "敲定",
+      "display_order": 3
+    },
+    {
+      "sentence": "Dreams thrash beneath still waters, waiting to surface.",
+      "style": "Poetic",
+      "translation": "梦在静水之下翻涌挣动，等待浮出水面。",
+      "translated_word": "挣动",
+      "display_order": 4
+    }
+  ]
+}

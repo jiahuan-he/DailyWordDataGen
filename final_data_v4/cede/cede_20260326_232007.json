@@ -1,0 +1,39 @@
+{
+  "word": "cede",
+  "phonetic": "/siːd/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "割让；让出；放弃",
+  "examples": [
+    {
+      "sentence": "Under the treaty, the defeated nation ceded three northern provinces.",
+      "style": "Formal",
+      "translation": "根据条约，战败国割让了北部三省。",
+      "translated_word": "割让",
+      "display_order": 1
+    },
+    {
+      "sentence": "Growth often begins when we cede the ground we once defended.",
+      "style": "Philosophical",
+      "translation": "成长往往始于放弃曾经坚守的阵地。",
+      "translated_word": "放弃",
+      "display_order": 4
+    },
+    {
+      "sentence": "Facing bankruptcy, the startup ceded control to its largest investor.",
+      "style": "Contextual",
+      "translation": "面临破产，这家初创公司将控制权让给了最大的投资者。",
+      "translated_word": "让给",
+      "display_order": 2
+    },
+    {
+      "sentence": "He didn't lose the debate; he chose to cede it.",
+      "style": "Contrastive",
+      "translation": "他并非输掉了这场辩论；他选择了让步。",
+      "translated_word": "让步",
+      "display_order": 3
+    }
+  ]
+}

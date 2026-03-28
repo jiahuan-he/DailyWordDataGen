@@ -1,0 +1,40 @@
+{
+  "word": "tease",
+  "phonetic": "/tiːz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "取笑；逗弄；挑逗；撩拨",
+  "examples": [
+    {
+      "sentence": "Her brothers always tease her about her fear of spiders.",
+      "style": "Contextual",
+      "translation": "她的哥哥们总拿她怕蜘蛛这件事开玩笑。",
+      "translated_word": "开玩笑",
+      "display_order": 2
+    },
+    {
+      "sentence": "He teased me gently, and I realized how much I'd missed that kind of lightness.",
+      "style": "Intimate",
+      "translation": "他轻轻地逗我，我才发觉自己有多怀念那种轻松。",
+      "translated_word": "逗",
+      "display_order": 3
+    },
+    {
+      "sentence": "Don't tease the dog; it makes him anxious.",
+      "style": "Collocational",
+      "translation": "别逗那只狗，它会紧张的。",
+      "translated_word": "逗",
+      "display_order": 1
+    },
+    {
+      "sentence": "Spring teases the hills with warmth, then slips away.",
+      "style": "Poetic",
+      "translation": "春天用暖意撩拨山峦，转瞬又悄然隐去。",
+      "translated_word": "撩拨",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "folder",
+  "phonetic": "/ˈfoʊldər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "文件夹；夹子",
+  "examples": [
+    {
+      "sentence": "She handed me a folder with all the project details inside.",
+      "style": "Contextual",
+      "translation": "她递给我一个文件夹，里面是项目的全部资料。",
+      "translated_word": "文件夹",
+      "display_order": 1
+    },
+    {
+      "sentence": "The leaked documents were traced back to a classified folder on the agency's server.",
+      "style": "Formal",
+      "translation": "泄露的文件被追溯至该机构服务器上的一个加密文件夹。",
+      "translated_word": "文件夹",
+      "display_order": 4
+    },
+    {
+      "sentence": "He organized his desktop into color-coded folders for each client.",
+      "style": "Collocational",
+      "translation": "他将桌面按客户分类，整理成不同颜色的文件夹。",
+      "translated_word": "文件夹",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father kept a folder of my childhood drawings; I found it after he passed.",
+      "style": "Intimate",
+      "translation": "父亲一直保存着我儿时画作的文件夹；在他离世后，我才发现。",
+      "translated_word": "文件夹",
+      "display_order": 2
+    }
+  ]
+}

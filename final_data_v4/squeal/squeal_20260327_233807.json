@@ -1,0 +1,40 @@
+{
+  "word": "squeal",
+  "phonetic": "/skwiːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "尖叫；发出刺耳声；告密",
+  "examples": [
+    {
+      "sentence": "The children squealed when the magician pulled a rabbit from the hat.",
+      "style": "Contextual",
+      "translation": "魔术师从帽子里变出兔子时，孩子们兴奋地尖叫起来。",
+      "translated_word": "尖叫",
+      "display_order": 1
+    },
+    {
+      "sentence": "Tires squealed as the taxi swerved around the corner.",
+      "style": "Collocational",
+      "translation": "出租车急转弯时，轮胎发出刺耳的摩擦声。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "A child squealed in the distance; summer stretched on forever.",
+      "style": "Poetic",
+      "translation": "远处传来孩童的尖叫声；夏日仿佛没有尽头。",
+      "translated_word": "尖叫",
+      "display_order": 2
+    },
+    {
+      "sentence": "That rusty gate still squeals the way it did in my childhood.",
+      "style": "Intimate",
+      "translation": "那扇生锈的铁门依旧吱呀作响，和我童年记忆里一模一样。",
+      "translated_word": "吱呀",
+      "display_order": 3
+    }
+  ]
+}

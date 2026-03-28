@@ -1,0 +1,40 @@
+{
+  "word": "arrest",
+  "phonetic": "/əˈrest/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "逮捕；阻止；吸引",
+  "examples": [
+    {
+      "sentence": "The suspect was arrested at dawn, still half-asleep.",
+      "style": "Contextual",
+      "translation": "嫌疑人在黎明时分被捕，睡眼惺忪。",
+      "translated_word": "被捕",
+      "display_order": 2
+    },
+    {
+      "sentence": "Authorities arrested three executives in connection with the fraud scheme.",
+      "style": "Formal",
+      "translation": "当局逮捕了三名涉嫌欺诈案的高管。",
+      "translated_word": "逮捕",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her voice arrested the room; even the candles seemed to hold their breath.",
+      "style": "Poetic",
+      "translation": "她的声音凝住了整个房间；连烛火都似屏息以待。",
+      "translated_word": "凝住",
+      "display_order": 3
+    },
+    {
+      "sentence": "To arrest a falling tear is to deny the truth it carries.",
+      "style": "Philosophical",
+      "translation": "强忍一滴将落的泪，便是否认它承载的真相。",
+      "translated_word": "强忍",
+      "display_order": 4
+    }
+  ]
+}

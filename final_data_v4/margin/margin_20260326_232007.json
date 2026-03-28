@@ -1,0 +1,40 @@
+{
+  "word": "margin",
+  "phonetic": "/ˈmɑːrdʒɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "边缘；余地；差额；利润",
+  "examples": [
+    {
+      "sentence": "Leave a one-inch margin on each side of the page.",
+      "style": "Contextual",
+      "translation": "页面两侧各留一英寸的空白。",
+      "translated_word": "空白",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company's profit margin fell sharply in the third quarter.",
+      "style": "Formal",
+      "translation": "公司第三季度利润率大幅下滑。",
+      "translated_word": "利润率",
+      "display_order": 3
+    },
+    {
+      "sentence": "Some of life's most interesting people live on the margins.",
+      "style": "Philosophical",
+      "translation": "人生中最有趣的灵魂，往往栖居于边缘地带。",
+      "translated_word": "边缘",
+      "display_order": 4
+    },
+    {
+      "sentence": "We won by a narrow margin: just three votes.",
+      "style": "Collocational",
+      "translation": "我们险胜，仅以三票之差。",
+      "translated_word": "差",
+      "display_order": 2
+    }
+  ]
+}

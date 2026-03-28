@@ -1,0 +1,40 @@
+{
+  "word": "bribe",
+  "phonetic": "/braɪb/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "行贿；贿赂；收买",
+  "examples": [
+    {
+      "sentence": "The contractor slipped cash into the inspector's pocket, attempting to bribe his way through.",
+      "style": "Contextual",
+      "translation": "承包商将现金塞进检查员口袋，试图贿赂过关。",
+      "translated_word": "贿赂",
+      "display_order": 2
+    },
+    {
+      "sentence": "Three executives were indicted for attempting to bribe foreign officials.",
+      "style": "Formal",
+      "translation": "三名高管因涉嫌行贿外国官员而被起诉。",
+      "translated_word": "行贿",
+      "display_order": 1
+    },
+    {
+      "sentence": "You can bribe a man's hands, but never his conscience.",
+      "style": "Philosophical",
+      "translation": "你可以收买一个人的双手，却买不走他的良心。",
+      "translated_word": "收买",
+      "display_order": 3
+    },
+    {
+      "sentence": "Persuasion earns loyalty; to bribe is merely to rent obedience.",
+      "style": "Contrastive",
+      "translation": "说服赢得忠诚；行贿不过是租借服从。",
+      "translated_word": "行贿",
+      "display_order": 4
+    }
+  ]
+}

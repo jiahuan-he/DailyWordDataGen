@@ -1,0 +1,41 @@
+{
+  "word": "quack",
+  "phonetic": "/kwæk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "庸医；江湖骗子；冒牌货",
+  "examples": [
+    {
+      "sentence": "The clinic was shut down after its owner was exposed as a quack.",
+      "style": "Contextual",
+      "translation": "诊所老板被揭穿是庸医后，诊所随即关门。",
+      "translated_word": "庸医",
+      "display_order": 1
+    },
+    {
+      "sentence": "Regulators warn consumers to avoid quacks peddling unproven treatments online.",
+      "style": "Formal",
+      "translation": "监管部门提醒消费者，警惕网上兜售未经验证疗法的江湖骗子。",
+      "translated_word": "江湖骗子",
+      "display_order": 3
+    },
+    {
+      "sentence": "A real doctor listens; a quack only promises.",
+      "style": "Contrastive",
+      "translation": "真正的医生懂得倾听；庸医只会许诺。",
+      "translated_word": "庸医",
+      "display_order": 2
+    },
+    {
+      "sentence": "Quack remedies often sound too good to be true.",
+      "style": "Collocational",
+      "translation": "江湖偏方往往听起来好得令人生疑。",
+      "translated_word": "江湖",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "summary",
+  "phonetic": "/ˈsʌməri/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "摘要；概要；总结",
+  "examples": [
+    {
+      "sentence": "A one-page summary saved me from reading the entire report.",
+      "style": "Contextual",
+      "translation": "一页摘要让我省去了通读整份报告的功夫。",
+      "translated_word": "摘要",
+      "display_order": 1
+    },
+    {
+      "sentence": "The executive summary outlined projected growth for the next quarter.",
+      "style": "Formal",
+      "translation": "执行摘要勾勒了下一季度的预期增长。",
+      "translated_word": "摘要",
+      "display_order": 3
+    },
+    {
+      "sentence": "In summary, the data confirmed our initial hypothesis.",
+      "style": "Collocational",
+      "translation": "总而言之，数据证实了我们最初的假设。",
+      "translated_word": "总而言之",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her recipe box held a handwritten summary of every dish she ever perfected.",
+      "style": "Intimate",
+      "translation": "她的食谱盒里，收藏着每道拿手菜的手写要诀。",
+      "translated_word": "要诀",
+      "display_order": 4
+    }
+  ]
+}

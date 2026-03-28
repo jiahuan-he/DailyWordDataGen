@@ -1,0 +1,40 @@
+{
+  "word": "draught",
+  "phonetic": "/drɑːft/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "穿堂风；生啤；一饮",
+  "examples": [
+    {
+      "sentence": "Close the window; there's a cold draught coming in.",
+      "style": "Contextual",
+      "translation": "把窗户关上，有股冷风灌进来了。",
+      "translated_word": "冷风",
+      "display_order": 1
+    },
+    {
+      "sentence": "He ordered a pint of draught at the corner pub.",
+      "style": "Collocational",
+      "translation": "他在街角的酒馆点了一品脱生啤。",
+      "translated_word": "生啤",
+      "display_order": 4
+    },
+    {
+      "sentence": "A draught swept through the old house, carrying the scent of rain.",
+      "style": "Poetic",
+      "translation": "一阵穿堂风掠过老屋，裹挟着雨的气息。",
+      "translated_word": "穿堂风",
+      "display_order": 2
+    },
+    {
+      "sentence": "That first draught of mountain air cleared years of exhaustion from my lungs.",
+      "style": "Intimate",
+      "translation": "那第一口山间空气，将多年的疲惫从肺腑间涤荡而去。",
+      "translated_word": "口",
+      "display_order": 3
+    }
+  ]
+}

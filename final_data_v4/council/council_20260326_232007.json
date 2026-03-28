@@ -1,0 +1,39 @@
+{
+  "word": "council",
+  "phonetic": "/ˈkaʊnsl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "委员会；理事会；议会",
+  "examples": [
+    {
+      "sentence": "The council voted unanimously to preserve the old library.",
+      "style": "Contextual",
+      "translation": "委员会一致投票决定保留那座老图书馆。",
+      "translated_word": "委员会",
+      "display_order": 1
+    },
+    {
+      "sentence": "After months of deliberation, the council approved the new housing regulations.",
+      "style": "Formal",
+      "translation": "经过数月审议，理事会批准了新的住房法规。",
+      "translated_word": "理事会",
+      "display_order": 3
+    },
+    {
+      "sentence": "She was elected to the city council at just twenty-nine.",
+      "style": "Collocational",
+      "translation": "她年仅二十九岁便当选为市议员。",
+      "translated_word": "议员",
+      "display_order": 2
+    },
+    {
+      "sentence": "A council without dissent is merely a chorus of agreement.",
+      "style": "Philosophical",
+      "translation": "没有异议的委员会，不过是一场附和的合唱。",
+      "translated_word": "委员会",
+      "display_order": 4
+    }
+  ]
+}

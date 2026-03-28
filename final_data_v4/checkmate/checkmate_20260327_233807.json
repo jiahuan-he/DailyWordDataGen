@@ -1,0 +1,41 @@
+{
+  "word": "checkmate",
+  "phonetic": "/ˈtʃekmeɪt/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "将死；绝杀；致命一击",
+  "examples": [
+    {
+      "sentence": "The queen slid forward: checkmate.",
+      "style": "Contextual",
+      "translation": "皇后向前滑动：将死。",
+      "translated_word": "将死",
+      "display_order": 1
+    },
+    {
+      "sentence": "He delivered checkmate in just twelve moves.",
+      "style": "Collocational",
+      "translation": "他仅用十二步便完成将杀。",
+      "translated_word": "将杀",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every checkmate begins with a single overlooked pawn.",
+      "style": "Philosophical",
+      "translation": "每一次绝杀，都始于一枚被忽视的兵。",
+      "translated_word": "绝杀",
+      "display_order": 3
+    },
+    {
+      "sentence": "The leaked documents proved to be checkmate for his campaign.",
+      "style": "Formal",
+      "translation": "泄露的文件成为他竞选的致命一击。",
+      "translated_word": "致命一击",
+      "display_order": 4
+    }
+  ]
+}

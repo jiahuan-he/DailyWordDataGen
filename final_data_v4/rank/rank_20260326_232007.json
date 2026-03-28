@@ -1,0 +1,42 @@
+{
+  "word": "rank",
+  "phonetic": "/ræŋk/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "等级；排名；军衔；地位",
+  "examples": [
+    {
+      "sentence": "After twenty years of service, she finally achieved the rank of colonel.",
+      "style": "Contextual",
+      "translation": "服役二十年后，她终于晋升上校军衔。",
+      "translated_word": "军衔",
+      "display_order": 1
+    },
+    {
+      "sentence": "The report reveals a sharp decline in the country's global competitiveness rank.",
+      "style": "Formal",
+      "translation": "报告显示，该国的全球竞争力排名大幅下滑。",
+      "translated_word": "排名",
+      "display_order": 3
+    },
+    {
+      "sentence": "True leaders earn respect, not rank.",
+      "style": "Philosophical",
+      "translation": "真正的领袖赢得的是尊重，而非头衔。",
+      "translated_word": "头衔",
+      "display_order": 4
+    },
+    {
+      "sentence": "He rose through the ranks with quiet persistence.",
+      "style": "Collocational",
+      "translation": "他凭着默默的坚持，一步步晋升。",
+      "translated_word": "晋升",
+      "display_order": 2
+    }
+  ]
+}

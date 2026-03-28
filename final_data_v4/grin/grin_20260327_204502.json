@@ -1,0 +1,40 @@
+{
+  "word": "grin",
+  "phonetic": "/ɡrɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "咧嘴笑；露齿而笑；得意地笑",
+  "examples": [
+    {
+      "sentence": "He tried to apologize, but she was already grinning.",
+      "style": "Contextual",
+      "translation": "他正想道歉，她却已经笑开了。",
+      "translated_word": "笑开",
+      "display_order": 2
+    },
+    {
+      "sentence": "The child grinned from ear to ear, clutching her first trophy.",
+      "style": "Collocational",
+      "translation": "孩子紧握着人生第一座奖杯，笑得合不拢嘴。",
+      "translated_word": "笑",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some people cry at good news; I just stand there and grin.",
+      "style": "Intimate",
+      "translation": "有人听到好消息会哭，而我只会傻站着咧嘴笑。",
+      "translated_word": "咧嘴笑",
+      "display_order": 3
+    },
+    {
+      "sentence": "The moon grinned through the clouds, pale and knowing.",
+      "style": "Poetic",
+      "translation": "月亮从云层间露出笑脸，苍白而洞悉一切。",
+      "translated_word": "笑脸",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "feigned",
+  "phonetic": "/feɪnd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "假装的；伪装的；虚假的",
+  "examples": [
+    {
+      "sentence": "Her feigned enthusiasm fooled no one at the dinner table.",
+      "style": "Contextual",
+      "translation": "她假装的热情在餐桌上骗不了任何人。",
+      "translated_word": "假装的",
+      "display_order": 1
+    },
+    {
+      "sentence": "He greeted her with feigned surprise, though he had known all along.",
+      "style": "Collocational",
+      "translation": "他用佯装的惊讶迎接她，尽管他早已知晓一切。",
+      "translated_word": "佯装的",
+      "display_order": 2
+    },
+    {
+      "sentence": "Feigned indifference often hurts more than open rejection.",
+      "style": "Philosophical",
+      "translation": "假装的漠然，往往比直接的拒绝更伤人。",
+      "translated_word": "假装的",
+      "display_order": 3
+    },
+    {
+      "sentence": "That feigned smile I wore through the funeral finally broke on the drive home.",
+      "style": "Intimate",
+      "translation": "葬礼上我强撑的笑容，在回家的路上终于崩塌。",
+      "translated_word": "强撑的",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "mount",
+  "phonetic": "/maʊnt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "攀登；安装；增加；举办",
+  "examples": [
+    {
+      "sentence": "She mounted the steps to the rooftop garden.",
+      "style": "Contextual",
+      "translation": "她登上通往屋顶花园的台阶。",
+      "translated_word": "登上",
+      "display_order": 1
+    },
+    {
+      "sentence": "Evidence continues to mount against the former executive.",
+      "style": "Formal",
+      "translation": "针对这位前高管的证据持续增加。",
+      "translated_word": "增加",
+      "display_order": 3
+    },
+    {
+      "sentence": "The museum mounted an exhibition of rare manuscripts.",
+      "style": "Collocational",
+      "translation": "博物馆举办了一场珍稀手稿展览。",
+      "translated_word": "举办",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every obstacle you mount becomes a foundation beneath your feet.",
+      "style": "Inspirational",
+      "translation": "你攀越的每一道障碍，都将成为脚下的基石。",
+      "translated_word": "攀越",
+      "display_order": 2
+    }
+  ]
+}

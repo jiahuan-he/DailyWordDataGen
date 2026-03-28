@@ -1,0 +1,40 @@
+{
+  "word": "recourse",
+  "phonetic": "/rɪˈkɔːrs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "求助；依赖；追索权",
+  "examples": [
+    {
+      "sentence": "When diplomacy failed, economic sanctions became the only recourse.",
+      "style": "Formal",
+      "translation": "外交斡旋失败后，经济制裁成为唯一的手段。",
+      "translated_word": "手段",
+      "display_order": 2
+    },
+    {
+      "sentence": "Stranded abroad with a stolen passport, his only recourse was the embassy.",
+      "style": "Contextual",
+      "translation": "护照被盗，滞留异国，他唯一的求助途径是大使馆。",
+      "translated_word": "求助途径",
+      "display_order": 1
+    },
+    {
+      "sentence": "Having recourse is a privilege; needing none is strength.",
+      "style": "Philosophical",
+      "translation": "有所依靠是幸运，无须依靠是力量。",
+      "translated_word": "依靠",
+      "display_order": 4
+    },
+    {
+      "sentence": "She resolved the conflict without recourse to threats.",
+      "style": "Collocational",
+      "translation": "她未诉诸威胁，便化解了冲突。",
+      "translated_word": "诉诸",
+      "display_order": 3
+    }
+  ]
+}

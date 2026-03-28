@@ -1,0 +1,40 @@
+{
+  "word": "barbecue",
+  "phonetic": "/ˈbɑːrbɪkjuː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "烧烤；烤肉聚会；烤架",
+  "examples": [
+    {
+      "sentence": "The smell of charcoal drifted from the neighbor's barbecue.",
+      "style": "Contextual",
+      "translation": "邻居家的烧烤架飘来阵阵炭火香。",
+      "translated_word": "烧烤架",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every summer, we host a backyard barbecue for the whole street.",
+      "style": "Collocational",
+      "translation": "每年夏天，我们都在后院办一场烧烤聚会，邀请整条街的邻居。",
+      "translated_word": "烧烤聚会",
+      "display_order": 2
+    },
+    {
+      "sentence": "Dad's Sunday barbecue was the one tradition we kept, even after he got sick.",
+      "style": "Intimate",
+      "translation": "爸爸的周日烧烤是我们唯一守住的传统，即使在他病倒之后。",
+      "translated_word": "烧烤",
+      "display_order": 3
+    },
+    {
+      "sentence": "Smoke curled into the evening sky; the barbecue had become our summer altar.",
+      "style": "Poetic",
+      "translation": "炊烟袅袅升入暮色；那烧烤架俨然成了夏日的祭坛。",
+      "translated_word": "烧烤架",
+      "display_order": 4
+    }
+  ]
+}

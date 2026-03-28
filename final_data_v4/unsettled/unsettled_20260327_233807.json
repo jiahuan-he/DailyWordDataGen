@@ -1,0 +1,40 @@
+{
+  "word": "unsettled",
+  "phonetic": "/ʌnˈsetld/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "不安的；未解决的；动荡的",
+  "examples": [
+    {
+      "sentence": "The dispute remains unsettled after three rounds of negotiation.",
+      "style": "Contextual",
+      "translation": "这场争议经过三轮谈判仍未解决。",
+      "translated_word": "未解决",
+      "display_order": 2
+    },
+    {
+      "sentence": "An unsettled mind often sees more clearly than a comfortable one.",
+      "style": "Philosophical",
+      "translation": "不安的心灵，往往比安逸的心灵看得更清。",
+      "translated_word": "不安",
+      "display_order": 4
+    },
+    {
+      "sentence": "Something about his silence left me unsettled for days.",
+      "style": "Intimate",
+      "translation": "他的沉默让我心神不宁了好几天。",
+      "translated_word": "心神不宁",
+      "display_order": 1
+    },
+    {
+      "sentence": "The weather stayed unsettled, mirroring the city's restless mood.",
+      "style": "Poetic",
+      "translation": "天气阴晴不定，恰如这座城市躁动的心绪。",
+      "translated_word": "阴晴不定",
+      "display_order": 3
+    }
+  ]
+}

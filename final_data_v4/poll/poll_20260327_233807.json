@@ -1,0 +1,41 @@
+{
+  "word": "poll",
+  "phonetic": "/poʊl/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "民意调查；投票；选举",
+  "examples": [
+    {
+      "sentence": "The poll closed at midnight, and the nation held its breath.",
+      "style": "Contextual",
+      "translation": "投票于午夜结束，举国屏息以待。",
+      "translated_word": "投票",
+      "display_order": 2
+    },
+    {
+      "sentence": "A recent poll suggests declining trust in traditional institutions.",
+      "style": "Formal",
+      "translation": "最新民调显示，公众对传统机构的信任正在下降。",
+      "translated_word": "民调",
+      "display_order": 1
+    },
+    {
+      "sentence": "Exit polls rarely capture the silence of the undecided.",
+      "style": "Philosophical",
+      "translation": "出口民调往往无法捕捉那些犹豫者的沉默。",
+      "translated_word": "民调",
+      "display_order": 4
+    },
+    {
+      "sentence": "The opinion poll went viral before the results were even verified.",
+      "style": "Collocational",
+      "translation": "这份民意调查尚未核实结果便已刷屏。",
+      "translated_word": "调查",
+      "display_order": 3
+    }
+  ]
+}

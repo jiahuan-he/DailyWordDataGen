@@ -1,0 +1,40 @@
+{
+  "word": "reverend",
+  "phonetic": "/ˈrevərənd/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "牧师；神父；神职人员",
+  "examples": [
+    {
+      "sentence": "The reverend welcomed the congregation with a warm smile and a familiar hymn.",
+      "style": "Contextual",
+      "translation": "牧师以温暖的微笑和一首熟悉的赞美诗迎接会众。",
+      "translated_word": "牧师",
+      "display_order": 1
+    },
+    {
+      "sentence": "Reverend Thomas has served the parish for over thirty years.",
+      "style": "Formal",
+      "translation": "托马斯牧师已在该教区服务逾三十年。",
+      "translated_word": "牧师",
+      "display_order": 3
+    },
+    {
+      "sentence": "The old reverend spoke few words, yet his presence alone steadied the grieving room.",
+      "style": "Philosophical",
+      "translation": "老牧师言语寥寥，但他的在场便已抚平了满室的悲恸。",
+      "translated_word": "牧师",
+      "display_order": 4
+    },
+    {
+      "sentence": "Our reverend married my parents, baptized me, and one day will lay me to rest.",
+      "style": "Intimate",
+      "translation": "我们的牧师为我父母证婚，为我施洗，终有一日也将为我送终。",
+      "translated_word": "牧师",
+      "display_order": 2
+    }
+  ]
+}

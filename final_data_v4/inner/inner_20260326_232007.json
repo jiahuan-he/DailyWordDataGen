@@ -1,0 +1,40 @@
+{
+  "word": "inner",
+  "phonetic": "/ˈɪnər/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "内部的；内心的；隐秘的",
+  "examples": [
+    {
+      "sentence": "The inner courtyard was hidden from the busy street.",
+      "style": "Contextual",
+      "translation": "内院藏于喧闹的街道之外。",
+      "translated_word": "内",
+      "display_order": 1
+    },
+    {
+      "sentence": "Your inner compass already knows; the noise is just weather.",
+      "style": "Philosophical",
+      "translation": "内心的罗盘早已知晓方向；喧嚣不过是天气。",
+      "translated_word": "内心",
+      "display_order": 3
+    },
+    {
+      "sentence": "She carried an inner landscape no map could chart.",
+      "style": "Poetic",
+      "translation": "她心中藏着一片无法绘制的风景。",
+      "translated_word": "心中",
+      "display_order": 4
+    },
+    {
+      "sentence": "At thirty, I stopped performing confidence and started building inner ground.",
+      "style": "Intimate",
+      "translation": "三十岁那年，我不再表演自信，而是开始构筑内心的根基。",
+      "translated_word": "内心",
+      "display_order": 2
+    }
+  ]
+}

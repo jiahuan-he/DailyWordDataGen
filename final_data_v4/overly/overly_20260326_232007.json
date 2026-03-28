@@ -1,0 +1,40 @@
+{
+  "word": "overly",
+  "phonetic": "/ˈoʊvərli/",
+  "pos": [
+    "adjective",
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "过于；过分；太",
+  "examples": [
+    {
+      "sentence": "He was overly cautious, checking his passport five times before boarding.",
+      "style": "Contextual",
+      "translation": "他过于谨慎，登机前把护照翻看了五遍。",
+      "translated_word": "过于",
+      "display_order": 1
+    },
+    {
+      "sentence": "Don't be overly critical of your first attempt; growth takes time.",
+      "style": "Collocational",
+      "translation": "别对第一次尝试过于苛责；成长需要时间。",
+      "translated_word": "过于",
+      "display_order": 3
+    },
+    {
+      "sentence": "Being overly prepared can silence the instincts worth trusting.",
+      "style": "Philosophical",
+      "translation": "准备得过于充分，反而会让值得信赖的直觉失声。",
+      "translated_word": "过于",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father was overly protective, and only now do I understand why.",
+      "style": "Intimate",
+      "translation": "父亲曾过分保护我，如今我才懂得其中缘由。",
+      "translated_word": "过分",
+      "display_order": 2
+    }
+  ]
+}

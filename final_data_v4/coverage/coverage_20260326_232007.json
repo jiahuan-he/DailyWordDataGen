@@ -1,0 +1,39 @@
+{
+  "word": "coverage",
+  "phonetic": "/ˈkʌvərɪdʒ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "报道；覆盖范围；保险范围",
+  "examples": [
+    {
+      "sentence": "The scandal received extensive coverage across all major networks.",
+      "style": "Contextual",
+      "translation": "这桩丑闻在各大媒体上被广泛报道。",
+      "translated_word": "报道",
+      "display_order": 2
+    },
+    {
+      "sentence": "Our correspondent provides live coverage from the summit in Geneva.",
+      "style": "Formal",
+      "translation": "我们的记者正从日内瓦峰会现场发回实时报道。",
+      "translated_word": "报道",
+      "display_order": 1
+    },
+    {
+      "sentence": "Check your health coverage before booking the trip abroad.",
+      "style": "Collocational",
+      "translation": "出国旅行前，先确认你的医疗保险范围。",
+      "translated_word": "范围",
+      "display_order": 3
+    },
+    {
+      "sentence": "Local journalists offer depth; wire services offer coverage.",
+      "style": "Contrastive",
+      "translation": "地方记者提供深度；通讯社提供广度。",
+      "translated_word": "广度",
+      "display_order": 4
+    }
+  ]
+}

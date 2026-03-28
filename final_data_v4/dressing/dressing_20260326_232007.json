@@ -1,0 +1,40 @@
+{
+  "word": "dressing",
+  "phonetic": "/ˈdresɪŋ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "调味酱；敷料；填料",
+  "examples": [
+    {
+      "sentence": "A simple dressing of olive oil transformed the salad.",
+      "style": "Contextual",
+      "translation": "一勺简单的橄榄油调味酱，让整盘沙拉焕然一新。",
+      "translated_word": "调味酱",
+      "display_order": 2
+    },
+    {
+      "sentence": "She always asks for the dressing on the side.",
+      "style": "Collocational",
+      "translation": "她总是要求把酱汁另外放。",
+      "translated_word": "酱汁",
+      "display_order": 1
+    },
+    {
+      "sentence": "My mother's secret dressing recipe now lives in my kitchen.",
+      "style": "Intimate",
+      "translation": "母亲的秘制酱料配方，如今安放在我的厨房里。",
+      "translated_word": "酱料",
+      "display_order": 3
+    },
+    {
+      "sentence": "The restaurant sources its signature dressing from a local vineyard.",
+      "style": "Formal",
+      "translation": "这家餐厅的招牌酱汁取自当地一家葡萄园。",
+      "translated_word": "酱汁",
+      "display_order": 4
+    }
+  ]
+}

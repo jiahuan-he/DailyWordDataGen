@@ -1,0 +1,39 @@
+{
+  "word": "allocation",
+  "phonetic": "/ˌæləˈkeɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "分配；拨款；配额",
+  "examples": [
+    {
+      "sentence": "The allocation of hospital beds became urgent as cases surged.",
+      "style": "Contextual",
+      "translation": "随着病例激增，医院床位的分配变得刻不容缓。",
+      "translated_word": "分配",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new budget includes a significant allocation for climate research.",
+      "style": "Formal",
+      "translation": "新预算中包含一笔用于气候研究的重大拨款。",
+      "translated_word": "拨款",
+      "display_order": 3
+    },
+    {
+      "sentence": "Fair resource allocation requires both data and empathy.",
+      "style": "Collocational",
+      "translation": "公平的资源分配既需要数据，也需要同理心。",
+      "translated_word": "分配",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every allocation reveals what a society truly values.",
+      "style": "Philosophical",
+      "translation": "每一次分配，都揭示着一个社会真正珍视的东西。",
+      "translated_word": "分配",
+      "display_order": 4
+    }
+  ]
+}

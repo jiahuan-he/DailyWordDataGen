@@ -1,0 +1,40 @@
+{
+  "word": "pump",
+  "phonetic": "/pʌmp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "抽取；泵送；注入；反复按压",
+  "examples": [
+    {
+      "sentence": "He pumped water from the old well until his arms burned.",
+      "style": "Contextual",
+      "translation": "他从老井里打水，直到双臂酸痛。",
+      "translated_word": "打",
+      "display_order": 1
+    },
+    {
+      "sentence": "The government pumped billions into the failing industry.",
+      "style": "Formal",
+      "translation": "政府向这个衰退的行业注入了数十亿资金。",
+      "translated_word": "注入",
+      "display_order": 3
+    },
+    {
+      "sentence": "She pumps iron at dawn before the city wakes.",
+      "style": "Collocational",
+      "translation": "她在城市苏醒前的黎明时分举铁健身。",
+      "translated_word": "举铁",
+      "display_order": 4
+    },
+    {
+      "sentence": "When doubt creeps in, pump louder music into your headphones.",
+      "style": "Inspirational",
+      "translation": "当怀疑悄然袭来，就把耳机里的音乐开到更大声。",
+      "translated_word": "开",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "bogus",
+  "phonetic": "/ˈboʊɡəs/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "假的；伪造的；骗人的",
+  "examples": [
+    {
+      "sentence": "The certificate was bogus; the issuing school never existed.",
+      "style": "Contextual",
+      "translation": "那张证书是假的；颁发它的学校根本不存在。",
+      "translated_word": "假的",
+      "display_order": 1
+    },
+    {
+      "sentence": "He made a bogus excuse about traffic when I'd already seen him at the café.",
+      "style": "Collocational",
+      "translation": "他编了个堵车的蹩脚借口，可我早就在咖啡馆看到他了。",
+      "translated_word": "蹩脚",
+      "display_order": 2
+    },
+    {
+      "sentence": "Authorities seized thousands of bogus passports in the largest counterfeiting bust this decade.",
+      "style": "Formal",
+      "translation": "当局查获数千本伪造护照，系本十年最大假证案。",
+      "translated_word": "伪造",
+      "display_order": 4
+    },
+    {
+      "sentence": "A genuine apology heals; a bogus one only deepens the wound.",
+      "style": "Contrastive",
+      "translation": "真诚的道歉能愈合伤口，虚假的道歉只会让伤口更深。",
+      "translated_word": "虚假的",
+      "display_order": 3
+    }
+  ]
+}

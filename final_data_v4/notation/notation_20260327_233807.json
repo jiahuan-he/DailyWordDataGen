@@ -1,0 +1,39 @@
+{
+  "word": "notation",
+  "phonetic": "/noʊˈteɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "符号；记谱法；标记；注释",
+  "examples": [
+    {
+      "sentence": "The sheet music was unreadable; the notation had faded with time.",
+      "style": "Contextual",
+      "translation": "那张乐谱已无法辨认；符号随岁月褪去了痕迹。",
+      "translated_word": "符号",
+      "display_order": 3
+    },
+    {
+      "sentence": "Standard scientific notation simplifies complex calculations.",
+      "style": "Formal",
+      "translation": "标准科学记数法简化了复杂的运算过程。",
+      "translated_word": "记数法",
+      "display_order": 1
+    },
+    {
+      "sentence": "Learning musical notation opened a new world of sound.",
+      "style": "Collocational",
+      "translation": "学会读谱，便打开了一个全新的声音世界。",
+      "translated_word": "谱",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every notation is an attempt to hold meaning still.",
+      "style": "Philosophical",
+      "translation": "每一种符号，都是试图让意义驻足的努力。",
+      "translated_word": "符号",
+      "display_order": 4
+    }
+  ]
+}

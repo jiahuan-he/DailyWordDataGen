@@ -1,0 +1,42 @@
+{
+  "word": "treble",
+  "phonetic": "/ˈtreb.əl/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使成三倍；增至三倍",
+  "examples": [
+    {
+      "sentence": "The café's weekend sales trebled after a food blogger featured it.",
+      "style": "Contextual",
+      "translation": "一位美食博主推荐后，这家咖啡馆的周末销售额增长了两倍。",
+      "translated_word": "增长了两倍",
+      "display_order": 2
+    },
+    {
+      "sentence": "Housing prices in the district have trebled over the past decade.",
+      "style": "Formal",
+      "translation": "该地区的房价在过去十年间翻了三倍。",
+      "translated_word": "翻了三倍",
+      "display_order": 1
+    },
+    {
+      "sentence": "One viral post can treble your audience overnight.",
+      "style": "Collocational",
+      "translation": "一篇爆款帖子能让你的受众一夜之间翻三倍。",
+      "translated_word": "翻三倍",
+      "display_order": 3
+    },
+    {
+      "sentence": "Small, consistent efforts treble their returns when given enough time.",
+      "style": "Inspirational",
+      "translation": "微小而持续的努力，假以时日，回报将成倍增长。",
+      "translated_word": "成倍增长",
+      "display_order": 4
+    }
+  ]
+}

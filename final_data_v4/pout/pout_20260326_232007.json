@@ -1,0 +1,40 @@
+{
+  "word": "pout",
+  "phonetic": "/paʊt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "撅嘴；噘嘴；生闷气",
+  "examples": [
+    {
+      "sentence": "She pouted when the café ran out of her favorite pastry.",
+      "style": "Contextual",
+      "translation": "得知咖啡馆卖完了她最爱的糕点，她撅起了嘴。",
+      "translated_word": "撅",
+      "display_order": 1
+    },
+    {
+      "sentence": "My daughter pouts at the camera, and suddenly she's three years old again.",
+      "style": "Intimate",
+      "translation": "女儿对着镜头撅嘴，恍惚间她又变回了三岁的模样。",
+      "translated_word": "撅嘴",
+      "display_order": 2
+    },
+    {
+      "sentence": "He pouted his lips and crossed his arms in mock protest.",
+      "style": "Collocational",
+      "translation": "他噘着嘴，双臂交叉，假装抗议。",
+      "translated_word": "噘",
+      "display_order": 3
+    },
+    {
+      "sentence": "The rain pouted against the window, denied entry to our warmth.",
+      "style": "Poetic",
+      "translation": "雨点撅着嘴敲打窗棂，被拒于这一室温暖之外。",
+      "translated_word": "撅",
+      "display_order": 4
+    }
+  ]
+}

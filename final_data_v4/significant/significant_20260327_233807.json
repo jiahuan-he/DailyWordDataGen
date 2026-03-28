@@ -1,0 +1,40 @@
+{
+  "word": "significant",
+  "phonetic": "/sɪɡˈnɪfɪkənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "重要；显著；有意义",
+  "examples": [
+    {
+      "sentence": "Her silence was more significant than any words.",
+      "style": "Contextual",
+      "translation": "她的沉默比任何言语都更有分量。",
+      "translated_word": "分量",
+      "display_order": 3
+    },
+    {
+      "sentence": "The report revealed significant gaps in cybersecurity protocols.",
+      "style": "Formal",
+      "translation": "报告揭示了网络安全协议中的重大漏洞。",
+      "translated_word": "重大",
+      "display_order": 1
+    },
+    {
+      "sentence": "We rarely recognize significant moments while living them.",
+      "style": "Philosophical",
+      "translation": "重要的时刻，往往在经历时难以察觉。",
+      "translated_word": "重要",
+      "display_order": 4
+    },
+    {
+      "sentence": "Years later, I realized that afternoon was the most significant.",
+      "style": "Intimate",
+      "translation": "多年后我才意识到，那个下午意义非凡。",
+      "translated_word": "意义非凡",
+      "display_order": 2
+    }
+  ]
+}

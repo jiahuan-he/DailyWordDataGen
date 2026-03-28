@@ -1,0 +1,40 @@
+{
+  "word": "chisel",
+  "phonetic": "/ˈtʃɪzəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "凿；雕刻；雕琢",
+  "examples": [
+    {
+      "sentence": "The sculptor chiseled the marble until a face emerged.",
+      "style": "Contextual",
+      "translation": "雕塑家凿刻着大理石，直到一张面孔浮现。",
+      "translated_word": "凿刻",
+      "display_order": 1
+    },
+    {
+      "sentence": "He chiseled away at the ice blocking the cabin door.",
+      "style": "Collocational",
+      "translation": "他一点点凿开堵住木屋门的冰层。",
+      "translated_word": "凿开",
+      "display_order": 2
+    },
+    {
+      "sentence": "Time chisels us all; the question is what shape we become.",
+      "style": "Philosophical",
+      "translation": "时间雕刻着我们每个人；问题是，我们将成为什么形状。",
+      "translated_word": "雕刻",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her voice chiseled silence into something sharp.",
+      "style": "Poetic",
+      "translation": "她的声音将沉默凿刻成锋利的形状。",
+      "translated_word": "凿刻",
+      "display_order": 4
+    }
+  ]
+}

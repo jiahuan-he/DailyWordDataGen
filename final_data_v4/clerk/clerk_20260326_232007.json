@@ -1,0 +1,40 @@
+{
+  "word": "clerk",
+  "phonetic": "/klɜːrk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "职员；店员；书记员",
+  "examples": [
+    {
+      "sentence": "The clerk scanned each item and handed me the receipt.",
+      "style": "Contextual",
+      "translation": "店员扫完每件商品，递给我收据。",
+      "translated_word": "店员",
+      "display_order": 1
+    },
+    {
+      "sentence": "The hotel clerk upgraded our room without charging extra.",
+      "style": "Collocational",
+      "translation": "酒店前台免费为我们升级了房间。",
+      "translated_word": "前台",
+      "display_order": 3
+    },
+    {
+      "sentence": "That bookstore clerk remembered my name after just one visit.",
+      "style": "Intimate",
+      "translation": "那家书店的店员只见过我一次，便记住了我的名字。",
+      "translated_word": "店员",
+      "display_order": 2
+    },
+    {
+      "sentence": "The county clerk certified the election results before the deadline.",
+      "style": "Formal",
+      "translation": "县书记员在截止日期前完成了选举结果的认证。",
+      "translated_word": "书记员",
+      "display_order": 4
+    }
+  ]
+}

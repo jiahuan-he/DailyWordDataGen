@@ -1,0 +1,40 @@
+{
+  "word": "annoy",
+  "phonetic": "/əˈnɔɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "惹恼；烦扰；使厌烦",
+  "examples": [
+    {
+      "sentence": "The constant notifications began to annoy her during the meeting.",
+      "style": "Contextual",
+      "translation": "会议期间，不断弹出的消息开始让她心烦。",
+      "translated_word": "心烦",
+      "display_order": 2
+    },
+    {
+      "sentence": "Nothing annoys him more than waiting in line.",
+      "style": "Collocational",
+      "translation": "没有什么比排队更让他烦躁。",
+      "translated_word": "烦躁",
+      "display_order": 1
+    },
+    {
+      "sentence": "Your silence used to annoy me; now I see it was patience.",
+      "style": "Intimate",
+      "translation": "你的沉默曾让我恼火；如今才懂，那是耐心。",
+      "translated_word": "恼火",
+      "display_order": 3
+    },
+    {
+      "sentence": "What annoys us in others often mirrors what we hide from ourselves.",
+      "style": "Philosophical",
+      "translation": "他人身上令我们厌烦之处，往往是我们不愿面对的自己。",
+      "translated_word": "厌烦",
+      "display_order": 4
+    }
+  ]
+}

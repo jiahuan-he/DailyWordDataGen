@@ -1,0 +1,39 @@
+{
+  "word": "heighten",
+  "phonetic": "/ˈhaɪtn/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "加剧；增强；提高；加深",
+  "examples": [
+    {
+      "sentence": "The dim lighting heightened the mystery of the old library.",
+      "style": "Contextual",
+      "translation": "昏暗的灯光为古老的图书馆增添了几分神秘。",
+      "translated_word": "增添",
+      "display_order": 2
+    },
+    {
+      "sentence": "Officials have heightened security measures following the incident.",
+      "style": "Formal",
+      "translation": "事件发生后，官方加强了安保措施。",
+      "translated_word": "加强",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rain on the window heightens every silence between us.",
+      "style": "Poetic",
+      "translation": "雨滴敲打窗棂，将我们之间的沉默无限放大。",
+      "translated_word": "放大",
+      "display_order": 4
+    },
+    {
+      "sentence": "Limitations often heighten our appreciation of what remains.",
+      "style": "Philosophical",
+      "translation": "局限往往让我们更加珍视所剩之物。",
+      "translated_word": "更加",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "extractor",
+  "phonetic": "/ɪkˈstræktər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "提取器；榨汁机；抽取装置",
+  "examples": [
+    {
+      "sentence": "The juice extractor hummed to life, filling the kitchen with the scent of fresh oranges.",
+      "style": "Contextual",
+      "translation": "榨汁机嗡嗡启动，满室皆是鲜橙的清香。",
+      "translated_word": "榨汁机",
+      "display_order": 1
+    },
+    {
+      "sentence": "The lab's fume extractor failed inspection, delaying the experiment by a week.",
+      "style": "Formal",
+      "translation": "实验室的排烟装置未能通过检测，实验因此推迟一周。",
+      "translated_word": "装置",
+      "display_order": 4
+    },
+    {
+      "sentence": "Unlike a blender, a juice extractor separates pulp from liquid entirely.",
+      "style": "Contrastive",
+      "translation": "与搅拌机不同，榨汁机能将果肉与汁液彻底分离。",
+      "translated_word": "榨汁机",
+      "display_order": 2
+    },
+    {
+      "sentence": "A quality honey extractor can process dozens of frames without damaging the comb.",
+      "style": "Collocational",
+      "translation": "一台优质的蜂蜜提取器可处理数十个巢框，且不伤蜂巢。",
+      "translated_word": "提取器",
+      "display_order": 3
+    }
+  ]
+}

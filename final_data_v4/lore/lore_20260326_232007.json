@@ -1,0 +1,40 @@
+{
+  "word": "lore",
+  "phonetic": "/lɔːr/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "传说；知识；学问",
+  "examples": [
+    {
+      "sentence": "The fishing village preserved its lore in songs sung at sunset.",
+      "style": "Contextual",
+      "translation": "渔村将古老的传说编进了日暮时分的歌谣。",
+      "translated_word": "传说",
+      "display_order": 1
+    },
+    {
+      "sentence": "Ancient lore sleeps in the roots of oak trees.",
+      "style": "Poetic",
+      "translation": "古老的传说沉睡在橡树的根脉之中。",
+      "translated_word": "传说",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every profession guards its lore; the real skill lies in knowing what to share.",
+      "style": "Philosophical",
+      "translation": "每个行业都守护着自己的知识；真正的智慧在于懂得分享什么。",
+      "translated_word": "知识",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother's garden held more lore than any library.",
+      "style": "Intimate",
+      "translation": "外婆的菜园里，藏着比图书馆还丰富的学问。",
+      "translated_word": "学问",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "bark",
+  "phonetic": "/bɑːrk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "吠叫；厉声说；咆哮",
+  "examples": [
+    {
+      "sentence": "The dog barked twice, then trotted back to the porch.",
+      "style": "Contextual",
+      "translation": "那只狗叫了两声，便小跑回了门廊。",
+      "translated_word": "叫",
+      "display_order": 1
+    },
+    {
+      "sentence": "The sergeant barked orders without looking up from his clipboard.",
+      "style": "Collocational",
+      "translation": "中士目不斜视地盯着手中的写字板，厉声发号施令。",
+      "translated_word": "厉声",
+      "display_order": 3
+    },
+    {
+      "sentence": "Beyond the hill, a stray barked at something only the night could see.",
+      "style": "Poetic",
+      "translation": "山那边，一只流浪狗对着夜色深处某个不可见的东西吠叫。",
+      "translated_word": "吠叫",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father never yelled; he barked, and we listened.",
+      "style": "Intimate",
+      "translation": "父亲从不大喊大叫；他只需低吼一声，我们便乖乖听话。",
+      "translated_word": "低吼",
+      "display_order": 2
+    }
+  ]
+}

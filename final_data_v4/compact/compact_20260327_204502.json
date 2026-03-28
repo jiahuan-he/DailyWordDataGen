@@ -1,0 +1,41 @@
+{
+  "word": "compact",
+  "phonetic": "/kəmˈpækt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "紧凑的；小巧的；简洁的",
+  "examples": [
+    {
+      "sentence": "The studio was compact but held everything she needed.",
+      "style": "Contextual",
+      "translation": "工作室虽小，却一应俱全。",
+      "translated_word": "小",
+      "display_order": 1
+    },
+    {
+      "sentence": "A compact suitcase can hold more than you think when packed with intention.",
+      "style": "Collocational",
+      "translation": "用心收纳的小行李箱，装下的远比想象中多。",
+      "translated_word": "小",
+      "display_order": 2
+    },
+    {
+      "sentence": "The city unveiled a compact transit system designed for efficiency over scale.",
+      "style": "Formal",
+      "translation": "该市推出了一套小型公交系统，以效率而非规模取胜。",
+      "translated_word": "小型",
+      "display_order": 3
+    },
+    {
+      "sentence": "Where others see cramped, she sees compact: space refined to its essence.",
+      "style": "Contrastive",
+      "translation": "别人眼中的局促，在她看来是紧凑：空间被精炼至本质。",
+      "translated_word": "紧凑",
+      "display_order": 4
+    }
+  ]
+}

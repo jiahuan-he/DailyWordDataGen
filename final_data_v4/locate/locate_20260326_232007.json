@@ -1,0 +1,39 @@
+{
+  "word": "locate",
+  "phonetic": "/loʊˈkeɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "找到；定位；确定位置",
+  "examples": [
+    {
+      "sentence": "The app helped her locate the nearest pharmacy within seconds.",
+      "style": "Contextual",
+      "translation": "应用帮她在几秒内找到了最近的药店。",
+      "translated_word": "找到",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rescue teams worked through the night to locate survivors beneath the rubble.",
+      "style": "Formal",
+      "translation": "救援队彻夜工作，在废墟下搜寻幸存者。",
+      "translated_word": "搜寻",
+      "display_order": 3
+    },
+    {
+      "sentence": "Unable to locate the source of the leak, they called a plumber.",
+      "style": "Collocational",
+      "translation": "找不到漏水源头，他们只好请来水管工。",
+      "translated_word": "找",
+      "display_order": 2
+    },
+    {
+      "sentence": "That summer, we drove for hours just to locate the lake from his childhood photos.",
+      "style": "Intimate",
+      "translation": "那个夏天，我们驱车数小时，只为找到他童年照片里的那片湖。",
+      "translated_word": "找到",
+      "display_order": 4
+    }
+  ]
+}

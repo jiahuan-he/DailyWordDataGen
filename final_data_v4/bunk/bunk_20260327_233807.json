@@ -1,0 +1,41 @@
+{
+  "word": "bunk",
+  "phonetic": "/bʌŋk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "铺位；废话；胡说",
+  "examples": [
+    {
+      "sentence": "The cabin had two narrow bunks stacked against the wall.",
+      "style": "Contextual",
+      "translation": "船舱里有两张窄窄的铺位，上下叠放在墙边。",
+      "translated_word": "铺位",
+      "display_order": 3
+    },
+    {
+      "sentence": "She claimed the top bunk before her sister could argue.",
+      "style": "Collocational",
+      "translation": "她抢先一步占了上铺，不给妹妹争辩的机会。",
+      "translated_word": "铺",
+      "display_order": 1
+    },
+    {
+      "sentence": "His excuses were pure bunk; the evidence said otherwise.",
+      "style": "Contrastive",
+      "translation": "他的借口全是废话；证据早已说明一切。",
+      "translated_word": "废话",
+      "display_order": 4
+    },
+    {
+      "sentence": "My brother and I shared a bunk for years; those whispered secrets shaped who we became.",
+      "style": "Intimate",
+      "translation": "我和哥哥共用一张床铺许多年；那些深夜的悄悄话，塑造了我们后来的模样。",
+      "translated_word": "床铺",
+      "display_order": 2
+    }
+  ]
+}

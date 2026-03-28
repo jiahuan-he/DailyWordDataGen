@@ -1,0 +1,39 @@
+{
+  "word": "rota",
+  "phonetic": "/ˈrəʊtə/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "值班表；轮值表；排班",
+  "examples": [
+    {
+      "sentence": "Check the rota; you're on the early shift tomorrow.",
+      "style": "Contextual",
+      "translation": "看一下值班表，你明天是早班。",
+      "translated_word": "值班表",
+      "display_order": 1
+    },
+    {
+      "sentence": "The hospital revised its rota to ensure adequate weekend coverage.",
+      "style": "Formal",
+      "translation": "医院调整了排班表，以确保周末人手充足。",
+      "translated_word": "排班表",
+      "display_order": 3
+    },
+    {
+      "sentence": "We pinned the cleaning rota to the fridge door.",
+      "style": "Collocational",
+      "translation": "我们把清洁轮值表贴在了冰箱门上。",
+      "translated_word": "轮值表",
+      "display_order": 4
+    },
+    {
+      "sentence": "My name appeared on the rota three times that week; I never complained.",
+      "style": "Intimate",
+      "translation": "那周我的名字在排班表上出现了三次；我从未抱怨。",
+      "translated_word": "排班表",
+      "display_order": 2
+    }
+  ]
+}

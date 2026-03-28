@@ -1,0 +1,39 @@
+{
+  "word": "sadden",
+  "phonetic": "/ˈsæd.ən/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使悲伤；使难过；令人伤感",
+  "examples": [
+    {
+      "sentence": "The empty chair at the dinner table saddened everyone.",
+      "style": "Contextual",
+      "translation": "餐桌旁那张空椅子，让在座的每个人都黯然神伤。",
+      "translated_word": "黯然神伤",
+      "display_order": 1
+    },
+    {
+      "sentence": "Autumn leaves saddened the garden with their silent fall.",
+      "style": "Poetic",
+      "translation": "落叶无声坠地，为庭院染上一层薄愁。",
+      "translated_word": "薄愁",
+      "display_order": 4
+    },
+    {
+      "sentence": "What saddens us most is not loss itself, but the love it reveals.",
+      "style": "Philosophical",
+      "translation": "最令人心痛的不是失去本身，而是失去后才看清的爱。",
+      "translated_word": "心痛",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her quiet acceptance of goodbye saddened me more than tears ever could.",
+      "style": "Intimate",
+      "translation": "她平静地接受了告别，那份从容比泪水更让我心碎。",
+      "translated_word": "心碎",
+      "display_order": 2
+    }
+  ]
+}

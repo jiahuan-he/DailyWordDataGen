@@ -1,0 +1,41 @@
+{
+  "word": "contract",
+  "phonetic": "/ˈkɒntrækt/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "合同；契约；协议",
+  "examples": [
+    {
+      "sentence": "She read every clause before signing the contract.",
+      "style": "Contextual",
+      "translation": "她仔细阅读了每一条款，才签下合同。",
+      "translated_word": "合同",
+      "display_order": 1
+    },
+    {
+      "sentence": "The two nations finalized a historic trade contract after years of negotiation.",
+      "style": "Formal",
+      "translation": "经过多年谈判，两国最终签署了一份历史性的贸易协议。",
+      "translated_word": "协议",
+      "display_order": 3
+    },
+    {
+      "sentence": "A contract binds words to action; trust binds people to their word.",
+      "style": "Philosophical",
+      "translation": "合同将言语化为行动；信任则让人信守承诺。",
+      "translated_word": "合同",
+      "display_order": 4
+    },
+    {
+      "sentence": "The morning I signed my first apartment contract, I finally felt like an adult.",
+      "style": "Intimate",
+      "translation": "签下第一份租房合同的那个早晨，我终于有了成年人的实感。",
+      "translated_word": "合同",
+      "display_order": 2
+    }
+  ]
+}

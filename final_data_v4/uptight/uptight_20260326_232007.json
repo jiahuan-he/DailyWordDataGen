@@ -1,0 +1,40 @@
+{
+  "word": "uptight",
+  "phonetic": "/ˌʌpˈtaɪt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "紧张的；拘谨的；焦虑的",
+  "examples": [
+    {
+      "sentence": "He checks his emails every five minutes; too uptight to enjoy the vacation.",
+      "style": "Contextual",
+      "translation": "他每隔五分钟就查一次邮件，紧绷得无法享受假期。",
+      "translated_word": "紧绷",
+      "display_order": 2
+    },
+    {
+      "sentence": "She used to be uptight about every detail, but travel softened her.",
+      "style": "Contrastive",
+      "translation": "她曾对每个细节都神经紧绷，直到旅行让她学会了松弛。",
+      "translated_word": "紧绷",
+      "display_order": 3
+    },
+    {
+      "sentence": "Don't be so uptight; it's just a casual dinner.",
+      "style": "Collocational",
+      "translation": "别那么紧张，不过是一顿便饭而已。",
+      "translated_word": "紧张",
+      "display_order": 1
+    },
+    {
+      "sentence": "My father was uptight about punctuality; now I arrive everywhere ten minutes early.",
+      "style": "Intimate",
+      "translation": "父亲对守时一丝不苟，如今我到哪儿都要提前十分钟。",
+      "translated_word": "一丝不苟",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "settlement",
+  "phonetic": "/ˈsetlmənt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "定居点；和解；解决；清算",
+  "examples": [
+    {
+      "sentence": "The coastal settlement has weathered storms for three hundred years.",
+      "style": "Contextual",
+      "translation": "这座海滨聚落，已历经三百年风雨。",
+      "translated_word": "聚落",
+      "display_order": 1
+    },
+    {
+      "sentence": "Both parties reached a settlement hours before the trial began.",
+      "style": "Formal",
+      "translation": "双方在开庭前数小时达成和解。",
+      "translated_word": "和解",
+      "display_order": 2
+    },
+    {
+      "sentence": "After months of negotiation, the settlement finally came through.",
+      "style": "Collocational",
+      "translation": "经过数月谈判，和解协议终于落定。",
+      "translated_word": "和解",
+      "display_order": 3
+    },
+    {
+      "sentence": "A settlement is not just land; it is a promise to return.",
+      "style": "Philosophical",
+      "translation": "定居不只是土地，更是归来的承诺。",
+      "translated_word": "定居",
+      "display_order": 4
+    }
+  ]
+}

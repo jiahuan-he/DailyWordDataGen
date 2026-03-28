@@ -1,0 +1,41 @@
+{
+  "word": "precious",
+  "phonetic": "/ˈpreʃəs/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "珍贵的；宝贵的；心爱的",
+  "examples": [
+    {
+      "sentence": "Time with her grandmother grew precious once she understood it was finite.",
+      "style": "Contextual",
+      "translation": "当她意识到时间有限，与祖母相处的每一刻都变得珍贵起来。",
+      "translated_word": "珍贵",
+      "display_order": 2
+    },
+    {
+      "sentence": "He wasted precious hours searching for the perfect words.",
+      "style": "Collocational",
+      "translation": "他浪费了宝贵的时间，只为寻找那句完美的话。",
+      "translated_word": "宝贵",
+      "display_order": 1
+    },
+    {
+      "sentence": "Morning light turned the dewdrops into precious stones scattered on the grass.",
+      "style": "Poetic",
+      "translation": "晨光将露珠化作草地上散落的宝石。",
+      "translated_word": "宝石",
+      "display_order": 4
+    },
+    {
+      "sentence": "That summer felt precious even while we were living it.",
+      "style": "Intimate",
+      "translation": "那个夏天，在我们亲历的当下，就已弥足珍贵。",
+      "translated_word": "珍贵",
+      "display_order": 3
+    }
+  ]
+}

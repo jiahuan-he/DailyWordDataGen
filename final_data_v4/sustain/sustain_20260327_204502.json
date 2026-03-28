@@ -1,0 +1,40 @@
+{
+  "word": "sustain",
+  "phonetic": "/səˈsteɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "维持；支撑；承受；供养",
+  "examples": [
+    {
+      "sentence": "Coffee alone couldn't sustain her through the night shift.",
+      "style": "Contextual",
+      "translation": "仅凭咖啡，她撑不过夜班。",
+      "translated_word": "撑",
+      "display_order": 1
+    },
+    {
+      "sentence": "What sustains us is rarely what we first reach for.",
+      "style": "Philosophical",
+      "translation": "真正支撑我们的，往往不是最初所求。",
+      "translated_word": "支撑",
+      "display_order": 2
+    },
+    {
+      "sentence": "Hope can sustain a heart long after logic surrenders.",
+      "style": "Inspirational",
+      "translation": "理性缴械之后，希望仍能支撑一颗心。",
+      "translated_word": "支撑",
+      "display_order": 3
+    },
+    {
+      "sentence": "The lighthouse sustains its vigil, counting ships like prayers.",
+      "style": "Poetic",
+      "translation": "灯塔默默守望，将过往的船只数作祈祷。",
+      "translated_word": "守望",
+      "display_order": 4
+    }
+  ]
+}

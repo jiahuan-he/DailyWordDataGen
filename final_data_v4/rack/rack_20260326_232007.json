@@ -1,0 +1,40 @@
+{
+  "word": "rack",
+  "phonetic": "/ræk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "架子；支架；搁物架",
+  "examples": [
+    {
+      "sentence": "Her coat found its place on the rack by the door.",
+      "style": "Contextual",
+      "translation": "她的外套安然落在门边的衣架上。",
+      "translated_word": "衣架",
+      "display_order": 1
+    },
+    {
+      "sentence": "The wine rack held twelve bottles, each waiting for the right occasion.",
+      "style": "Collocational",
+      "translation": "酒架上陈列着十二瓶酒，静候良辰。",
+      "translated_word": "酒架",
+      "display_order": 3
+    },
+    {
+      "sentence": "New storage racks increased the warehouse's capacity by forty percent.",
+      "style": "Formal",
+      "translation": "新置的货架使仓库容量提升了四成。",
+      "translated_word": "货架",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's spice rack still carries the scent of cinnamon and cloves.",
+      "style": "Intimate",
+      "translation": "外婆的调料架上，肉桂与丁香的香气至今萦绕。",
+      "translated_word": "调料架",
+      "display_order": 2
+    }
+  ]
+}

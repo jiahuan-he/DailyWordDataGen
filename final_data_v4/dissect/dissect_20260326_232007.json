@@ -1,0 +1,39 @@
+{
+  "word": "dissect",
+  "phonetic": "/dɪˈsekt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "解剖；剖析；细究",
+  "examples": [
+    {
+      "sentence": "The biology students dissected the specimen in careful silence.",
+      "style": "Contextual",
+      "translation": "生物课上，学生们屏息静气地解剖标本。",
+      "translated_word": "解剖",
+      "display_order": 1
+    },
+    {
+      "sentence": "Experts dissect the policy's impact on small businesses.",
+      "style": "Formal",
+      "translation": "专家们细致剖析这项政策对小型企业的影响。",
+      "translated_word": "剖析",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some feelings lose their meaning when we dissect them.",
+      "style": "Philosophical",
+      "translation": "有些情感，一旦剖析，便失了意味。",
+      "translated_word": "剖析",
+      "display_order": 4
+    },
+    {
+      "sentence": "Critics dissected every line of his resignation speech.",
+      "style": "Collocational",
+      "translation": "评论家们逐字逐句地拆解他的辞职演说。",
+      "translated_word": "拆解",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "fold",
+  "phonetic": "/foʊld/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "折叠；对折；交叉；倒闭",
+  "examples": [
+    {
+      "sentence": "She folded the letter twice before slipping it into her coat pocket.",
+      "style": "Contextual",
+      "translation": "她把信对折两次，悄悄塞进大衣口袋。",
+      "translated_word": "对折",
+      "display_order": 1
+    },
+    {
+      "sentence": "He folded his arms and leaned against the doorframe.",
+      "style": "Collocational",
+      "translation": "他双臂交叉，倚在门框上。",
+      "translated_word": "交叉",
+      "display_order": 3
+    },
+    {
+      "sentence": "Rainy afternoons with my grandmother, folding paper cranes by the window.",
+      "style": "Intimate",
+      "translation": "雨天的午后，和外婆在窗边折纸鹤。",
+      "translated_word": "折",
+      "display_order": 2
+    },
+    {
+      "sentence": "Knowing when to fold is its own kind of strength.",
+      "style": "Philosophical",
+      "translation": "懂得何时放手，本身就是一种力量。",
+      "translated_word": "放手",
+      "display_order": 4
+    }
+  ]
+}

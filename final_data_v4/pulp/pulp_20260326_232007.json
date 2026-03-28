@@ -1,0 +1,41 @@
+{
+  "word": "pulp",
+  "phonetic": "/pʌlp/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "果肉；纸浆；低俗小说",
+  "examples": [
+    {
+      "sentence": "Fresh orange juice with pulp tastes richer than the filtered kind.",
+      "style": "Contextual",
+      "translation": "带果肉的鲜榨橙汁，比过滤后的更醇厚。",
+      "translated_word": "果肉",
+      "display_order": 1
+    },
+    {
+      "sentence": "The mill converts wood pulp into recycled paper.",
+      "style": "Collocational",
+      "translation": "造纸厂将木浆制成再生纸。",
+      "translated_word": "浆",
+      "display_order": 3
+    },
+    {
+      "sentence": "The mango split open, its golden pulp glistening in the afternoon sun.",
+      "style": "Poetic",
+      "translation": "芒果裂开，金黄的果肉在午后的阳光下闪耀。",
+      "translated_word": "果肉",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every book begins as pulp: raw, formless, waiting for words to give it shape.",
+      "style": "Philosophical",
+      "translation": "每本书都始于纸浆：粗糙、无形，等待文字赋予它形态。",
+      "translated_word": "纸浆",
+      "display_order": 4
+    }
+  ]
+}

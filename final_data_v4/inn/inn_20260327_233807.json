@@ -1,0 +1,40 @@
+{
+  "word": "inn",
+  "phonetic": "/ɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "客栈；小旅馆；小酒馆",
+  "examples": [
+    {
+      "sentence": "The weary travelers found an inn at the edge of the village.",
+      "style": "Contextual",
+      "translation": "疲惫的旅人在村口找到了一家客栈。",
+      "translated_word": "客栈",
+      "display_order": 1
+    },
+    {
+      "sentence": "Candlelight flickered in the inn's window, a quiet promise of warmth.",
+      "style": "Poetic",
+      "translation": "烛光在客栈窗前摇曳，是温暖无声的许诺。",
+      "translated_word": "客栈",
+      "display_order": 4
+    },
+    {
+      "sentence": "That summer, a small inn in Provence became my refuge from the world.",
+      "style": "Intimate",
+      "translation": "那年夏天，普罗旺斯的一间小客栈成了我避世的角落。",
+      "translated_word": "客栈",
+      "display_order": 2
+    },
+    {
+      "sentence": "We booked a country inn for the weekend getaway.",
+      "style": "Collocational",
+      "translation": "我们订了一家乡村客栈，打算周末出去放松。",
+      "translated_word": "客栈",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "disable",
+  "phonetic": "/dɪsˈeɪbl/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "使失效；禁用；使无法运作",
+  "examples": [
+    {
+      "sentence": "She disabled notifications to reclaim her focus.",
+      "style": "Contextual",
+      "translation": "她关掉了通知，夺回了自己的专注力。",
+      "translated_word": "关掉",
+      "display_order": 2
+    },
+    {
+      "sentence": "The security breach forced administrators to disable all remote access immediately.",
+      "style": "Formal",
+      "translation": "安全漏洞迫使管理员立即禁用所有远程访问权限。",
+      "translated_word": "禁用",
+      "display_order": 3
+    },
+    {
+      "sentence": "Before the storm, we disabled the alarm and unplugged the router.",
+      "style": "Collocational",
+      "translation": "暴风雨来临前，我们关闭了警报，拔掉了路由器的电源。",
+      "translated_word": "关闭",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sometimes we disable the very instincts meant to protect us.",
+      "style": "Philosophical",
+      "translation": "有时，我们亲手关闭了那些本该保护自己的本能。",
+      "translated_word": "关闭",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "dredge",
+  "phonetic": "/drɛdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "疏浚；挖掘；翻出（往事）",
+  "examples": [
+    {
+      "sentence": "Workers dredge the canal each spring to prevent flooding.",
+      "style": "Contextual",
+      "translation": "工人们每年春天疏浚运河，以防洪涝。",
+      "translated_word": "疏浚",
+      "display_order": 1
+    },
+    {
+      "sentence": "The port authority will dredge the harbor to accommodate larger vessels.",
+      "style": "Formal",
+      "translation": "港务局将疏浚港口，以容纳更大型的船只。",
+      "translated_word": "疏浚",
+      "display_order": 2
+    },
+    {
+      "sentence": "Why dredge up old arguments when we've both moved on?",
+      "style": "Collocational",
+      "translation": "既然都已释怀，何必再翻旧账？",
+      "translated_word": "翻旧账",
+      "display_order": 3
+    },
+    {
+      "sentence": "A faded photograph can dredge up a lifetime of feeling.",
+      "style": "Intimate",
+      "translation": "一张泛黄的照片，能翻涌出一生的情感。",
+      "translated_word": "翻涌",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "peer",
+  "phonetic": "/pɪr/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "同辈；同龄人；同行",
+  "examples": [
+    {
+      "sentence": "She finally felt understood among her peers.",
+      "style": "Contextual",
+      "translation": "她终于在同龄人中找到了共鸣。",
+      "translated_word": "同龄人",
+      "display_order": 1
+    },
+    {
+      "sentence": "The research underwent rigorous peer review before publication.",
+      "style": "Formal",
+      "translation": "这项研究在发表前经过了严格的同行评审。",
+      "translated_word": "同行",
+      "display_order": 4
+    },
+    {
+      "sentence": "We measure ourselves not by our growth, but by where our peers stand.",
+      "style": "Philosophical",
+      "translation": "我们衡量自己的标准，往往不是成长本身，而是同辈所在的位置。",
+      "translated_word": "同辈",
+      "display_order": 3
+    },
+    {
+      "sentence": "At twelve, nothing mattered more than my peers' approval.",
+      "style": "Intimate",
+      "translation": "十二岁那年，没有什么比同伴的认可更重要。",
+      "translated_word": "同伴",
+      "display_order": 2
+    }
+  ]
+}

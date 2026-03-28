@@ -1,0 +1,40 @@
+{
+  "word": "pester",
+  "phonetic": "/ˈpestər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "纠缠；烦扰；缠着要",
+  "examples": [
+    {
+      "sentence": "The kids pestered their father for a puppy all summer long.",
+      "style": "Contextual",
+      "translation": "孩子们整个夏天都缠着爸爸要一只小狗。",
+      "translated_word": "缠着",
+      "display_order": 1
+    },
+    {
+      "sentence": "She pestered him with questions until he finally confessed.",
+      "style": "Collocational",
+      "translation": "她不停追问，直到他终于坦白。",
+      "translated_word": "追问",
+      "display_order": 3
+    },
+    {
+      "sentence": "My little sister used to pester me for bedtime stories; now I miss those nights.",
+      "style": "Intimate",
+      "translation": "妹妹从前总缠着我讲睡前故事；如今我却怀念那些夜晚。",
+      "translated_word": "缠着",
+      "display_order": 2
+    },
+    {
+      "sentence": "A dream that pesters you in quiet moments is one worth chasing.",
+      "style": "Philosophical",
+      "translation": "在静谧时分反复叩响心扉的梦想，值得你去追寻。",
+      "translated_word": "反复叩响",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "verdict",
+  "phonetic": "/ˈvɜːrdɪkt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "裁决；判决；定论；评判",
+  "examples": [
+    {
+      "sentence": "The jury reached a unanimous verdict after three days of deliberation.",
+      "style": "Formal",
+      "translation": "陪审团经过三天审议，最终达成一致裁决。",
+      "translated_word": "裁决",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her smile after the first bite was the only verdict I needed.",
+      "style": "Intimate",
+      "translation": "她尝第一口后的微笑，便是我唯一需要的评判。",
+      "translated_word": "评判",
+      "display_order": 2
+    },
+    {
+      "sentence": "History's verdict is patient; it waits for the dust to settle.",
+      "style": "Philosophical",
+      "translation": "历史的定论从不急躁；它静待尘埃落定。",
+      "translated_word": "定论",
+      "display_order": 3
+    },
+    {
+      "sentence": "The verdict is in: this restaurant lives up to the hype.",
+      "style": "Contextual",
+      "translation": "结论已出：这家餐厅名不虚传。",
+      "translated_word": "结论",
+      "display_order": 4
+    }
+  ]
+}

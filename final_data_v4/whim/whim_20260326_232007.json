@@ -1,0 +1,40 @@
+{
+  "word": "whim",
+  "phonetic": "/wɪm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "一时兴起；突发奇想；心血来潮",
+  "examples": [
+    {
+      "sentence": "She booked a one-way ticket to Tokyo on a whim.",
+      "style": "Contextual",
+      "translation": "她一时兴起，订了一张飞往东京的单程机票。",
+      "translated_word": "一时兴起",
+      "display_order": 1
+    },
+    {
+      "sentence": "Our plans shifted at the whim of the weather.",
+      "style": "Collocational",
+      "translation": "我们的计划随天气变幻而改变。",
+      "translated_word": "变幻",
+      "display_order": 3
+    },
+    {
+      "sentence": "A whim ignored today may become a regret tomorrow.",
+      "style": "Philosophical",
+      "translation": "今日忽视的念头，或许会成为明日的遗憾。",
+      "translated_word": "念头",
+      "display_order": 4
+    },
+    {
+      "sentence": "That cafe stop was a whim; now it's where I write every Sunday.",
+      "style": "Intimate",
+      "translation": "那次走进咖啡馆只是心血来潮；如今，那里是我每个周日写作的地方。",
+      "translated_word": "心血来潮",
+      "display_order": 2
+    }
+  ]
+}

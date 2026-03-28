@@ -1,0 +1,40 @@
+{
+  "word": "pedestal",
+  "phonetic": "/ˈpedɪstl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "底座；基座；崇高地位",
+  "examples": [
+    {
+      "sentence": "The marble pedestal held a bronze bust of the composer.",
+      "style": "Contextual",
+      "translation": "大理石底座上安放着作曲家的铜质半身像。",
+      "translated_word": "底座",
+      "display_order": 1
+    },
+    {
+      "sentence": "We build pedestals for others, then resent them for standing so high.",
+      "style": "Philosophical",
+      "translation": "我们亲手为他人筑起高台，却又怨怪他们高不可攀。",
+      "translated_word": "高台",
+      "display_order": 4
+    },
+    {
+      "sentence": "Empty pedestals in the square await statues not yet carved.",
+      "style": "Poetic",
+      "translation": "广场上空置的基座，静候尚未雕琢的塑像。",
+      "translated_word": "基座",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandfather was never on a pedestal; he simply sat beside me and listened.",
+      "style": "Intimate",
+      "translation": "祖父从未被我奉若神明；他只是坐在我身旁，静静倾听。",
+      "translated_word": "奉若神明",
+      "display_order": 3
+    }
+  ]
+}

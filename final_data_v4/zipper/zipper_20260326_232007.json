@@ -1,0 +1,40 @@
+{
+  "word": "zipper",
+  "phonetic": "/ˈzɪpər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "拉链；拉锁",
+  "examples": [
+    {
+      "sentence": "The zipper on her coat got stuck halfway, leaving her shivering at the bus stop.",
+      "style": "Contextual",
+      "translation": "她外套的拉链卡在半途，只能在公交站瑟瑟发抖。",
+      "translated_word": "拉链",
+      "display_order": 1
+    },
+    {
+      "sentence": "A broken zipper can ruin your favorite jacket faster than any stain.",
+      "style": "Collocational",
+      "translation": "一条坏掉的拉链，比任何污渍都更快毁掉你最爱的外套。",
+      "translated_word": "拉链",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother's hands, steady and warm, always helped with the zipper I could never reach.",
+      "style": "Intimate",
+      "translation": "外婆那双温暖而稳健的手，总能帮我拉好够不到的拉链。",
+      "translated_word": "拉链",
+      "display_order": 2
+    },
+    {
+      "sentence": "The zipper climbs its tiny silver ladder, sealing the day inside.",
+      "style": "Poetic",
+      "translation": "拉链沿着银色的小梯攀升，将一整天封存其中。",
+      "translated_word": "拉链",
+      "display_order": 4
+    }
+  ]
+}

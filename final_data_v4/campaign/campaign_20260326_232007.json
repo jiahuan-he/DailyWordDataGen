@@ -1,0 +1,40 @@
+{
+  "word": "campaign",
+  "phonetic": "/kæmˈpeɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "运动；活动；战役",
+  "examples": [
+    {
+      "sentence": "The fundraising campaign exceeded its goal within hours.",
+      "style": "Contextual",
+      "translation": "筹款活动在数小时内便超额完成了目标。",
+      "translated_word": "活动",
+      "display_order": 2
+    },
+    {
+      "sentence": "Officials launched a nationwide vaccination campaign ahead of flu season.",
+      "style": "Formal",
+      "translation": "官方在流感季前发起了一场全国性的疫苗接种运动。",
+      "translated_word": "运动",
+      "display_order": 1
+    },
+    {
+      "sentence": "Their social media campaign went viral overnight.",
+      "style": "Collocational",
+      "translation": "他们的社交媒体营销活动一夜之间刷屏全网。",
+      "translated_word": "活动",
+      "display_order": 3
+    },
+    {
+      "sentence": "A campaign is simply courage organized into action.",
+      "style": "Inspirational",
+      "translation": "所谓运动，不过是勇气凝聚成的行动。",
+      "translated_word": "运动",
+      "display_order": 4
+    }
+  ]
+}

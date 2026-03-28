@@ -1,0 +1,40 @@
+{
+  "word": "movable",
+  "phonetic": "/ˈmuːvəbl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "可移动的；活动的；可变动的",
+  "examples": [
+    {
+      "sentence": "The partition is movable, so we reshape the room for each event.",
+      "style": "Contextual",
+      "translation": "隔板可以移动，因此每次活动我们都能重新布置房间。",
+      "translated_word": "可以移动",
+      "display_order": 2
+    },
+    {
+      "sentence": "Movable shelves turn even the smallest apartment into a flexible space.",
+      "style": "Collocational",
+      "translation": "活动隔板能让再小的公寓也变得灵活多变。",
+      "translated_word": "活动",
+      "display_order": 3
+    },
+    {
+      "sentence": "The gallery features movable walls to accommodate exhibitions of varying scales.",
+      "style": "Formal",
+      "translation": "画廊采用可移动墙体，以适应不同规模的展览。",
+      "translated_word": "可移动",
+      "display_order": 1
+    },
+    {
+      "sentence": "Fixed roots anchor the tree; movable wings give the bird the sky.",
+      "style": "Contrastive",
+      "translation": "固定的根让树木扎稳大地；活动的翅膀让飞鸟拥有天空。",
+      "translated_word": "活动",
+      "display_order": 4
+    }
+  ]
+}

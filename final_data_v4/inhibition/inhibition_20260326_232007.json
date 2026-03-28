@@ -1,0 +1,39 @@
+{
+  "word": "inhibition",
+  "phonetic": "/ˌɪnhɪˈbɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "抑制；拘束；顾虑",
+  "examples": [
+    {
+      "sentence": "After a glass of wine, she let go of her inhibitions and finally asked him to dance.",
+      "style": "Contextual",
+      "translation": "一杯酒下肚，她放下了拘束，终于开口邀他共舞。",
+      "translated_word": "拘束",
+      "display_order": 1
+    },
+    {
+      "sentence": "Children move without inhibition; only later do we learn to cage ourselves.",
+      "style": "Philosophical",
+      "translation": "孩童举止无拘无束；长大后，我们才学会自我设限。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "At thirty, I finally sang in public: years of inhibition dissolving in one brave note.",
+      "style": "Intimate",
+      "translation": "三十岁那年，我终于当众开口歌唱；多年的顾虑，在那勇敢的第一个音符中消融殆尽。",
+      "translated_word": "顾虑",
+      "display_order": 2
+    },
+    {
+      "sentence": "Her inhibitions were walls built of whispered corrections and worried glances.",
+      "style": "Poetic",
+      "translation": "她的拘谨是一堵墙，由低声的纠正与忧虑的目光砌成。",
+      "translated_word": "拘谨",
+      "display_order": 4
+    }
+  ]
+}

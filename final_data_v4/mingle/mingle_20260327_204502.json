@@ -1,0 +1,40 @@
+{
+  "word": "mingle",
+  "phonetic": "/ˈmɪŋɡl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "混合；交融；交际",
+  "examples": [
+    {
+      "sentence": "Guests mingled in the garden as the evening cooled.",
+      "style": "Contextual",
+      "translation": "傍晚渐凉，宾客们在花园中寒暄交谈。",
+      "translated_word": "寒暄交谈",
+      "display_order": 1
+    },
+    {
+      "sentence": "The scent of jasmine mingled with the sea breeze.",
+      "style": "Collocational",
+      "translation": "茉莉的香气与海风交融在一起。",
+      "translated_word": "交融",
+      "display_order": 3
+    },
+    {
+      "sentence": "Smoke and starlight mingled above the quiet village.",
+      "style": "Poetic",
+      "translation": "炊烟与星光在小村上空交织。",
+      "translated_word": "交织",
+      "display_order": 4
+    },
+    {
+      "sentence": "That night, I stopped hiding in the corner and mingled.",
+      "style": "Intimate",
+      "translation": "那晚，我不再躲在角落，而是融入了人群。",
+      "translated_word": "融入",
+      "display_order": 2
+    }
+  ]
+}

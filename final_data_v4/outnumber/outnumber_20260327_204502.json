@@ -1,0 +1,39 @@
+{
+  "word": "outnumber",
+  "phonetic": "/ˌaʊtˈnʌmbər/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "在数量上超过；多于",
+  "examples": [
+    {
+      "sentence": "Women now outnumber men in most medical schools.",
+      "style": "Contextual",
+      "translation": "如今，医学院的女生人数已超过男生。",
+      "translated_word": "超过",
+      "display_order": 1
+    },
+    {
+      "sentence": "Civilian casualties outnumbered military losses in the conflict.",
+      "style": "Formal",
+      "translation": "此次冲突中，平民伤亡人数远超军方损失。",
+      "translated_word": "远超",
+      "display_order": 2
+    },
+    {
+      "sentence": "They were outnumbered, yet never outfought.",
+      "style": "Contrastive",
+      "translation": "他们人数处于劣势，却从未在战斗中落败。",
+      "translated_word": "劣势",
+      "display_order": 4
+    },
+    {
+      "sentence": "Those who listen often outnumber those who speak.",
+      "style": "Philosophical",
+      "translation": "倾听者往往多于言说者。",
+      "translated_word": "多于",
+      "display_order": 3
+    }
+  ]
+}

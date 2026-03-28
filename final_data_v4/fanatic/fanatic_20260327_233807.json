@@ -1,0 +1,40 @@
+{
+  "word": "fanatic",
+  "phonetic": "/fəˈnætɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "狂热者；痴迷者；狂信徒",
+  "examples": [
+    {
+      "sentence": "He owned three thousand vinyl records: a true music fanatic.",
+      "style": "Contextual",
+      "translation": "他拥有三千张黑胶唱片：一个真正的音乐狂热者。",
+      "translated_word": "狂热者",
+      "display_order": 1
+    },
+    {
+      "sentence": "An enthusiast enjoys the craft; a fanatic is consumed by it.",
+      "style": "Contrastive",
+      "translation": "爱好者享受技艺；狂热者被其吞噬。",
+      "translated_word": "狂热者",
+      "display_order": 4
+    },
+    {
+      "sentence": "Every visionary was first dismissed as a fanatic.",
+      "style": "Philosophical",
+      "translation": "每位远见者，最初都曾被视作狂热分子。",
+      "translated_word": "狂热分子",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather, a chess fanatic, saw the whole world in sixty-four squares.",
+      "style": "Intimate",
+      "translation": "祖父是个棋痴，在六十四格里看见整个世界。",
+      "translated_word": "棋痴",
+      "display_order": 2
+    }
+  ]
+}

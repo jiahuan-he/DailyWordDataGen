@@ -1,0 +1,41 @@
+{
+  "word": "pilot",
+  "phonetic": "/ˈpaɪlət/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "飞行员；领航员；试播节目",
+  "examples": [
+    {
+      "sentence": "The pilot announced we'd be landing in twenty minutes.",
+      "style": "Contextual",
+      "translation": "飞行员广播通知，二十分钟后降落。",
+      "translated_word": "飞行员",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every pilot carries the sky in their eyes long after they've landed.",
+      "style": "Poetic",
+      "translation": "每位飞行员的眼中都藏着天空，即便双脚早已落地。",
+      "translated_word": "飞行员",
+      "display_order": 4
+    },
+    {
+      "sentence": "A pilot learns to trust instruments when the clouds hide the horizon.",
+      "style": "Inspirational",
+      "translation": "飞行员学会在云层遮蔽地平线时，信任仪表。",
+      "translated_word": "飞行员",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather was a pilot; his stories made the clouds feel like home.",
+      "style": "Intimate",
+      "translation": "外公曾是飞行员；他的故事让云端成了我的故乡。",
+      "translated_word": "飞行员",
+      "display_order": 2
+    }
+  ]
+}

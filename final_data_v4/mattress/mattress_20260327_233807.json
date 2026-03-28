@@ -1,0 +1,40 @@
+{
+  "word": "mattress",
+  "phonetic": "/ˈmætrəs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "床垫；褥子",
+  "examples": [
+    {
+      "sentence": "Her chronic back pain vanished after switching to a firmer mattress.",
+      "style": "Contextual",
+      "translation": "换了更硬的床垫后，她多年的背痛竟不药而愈。",
+      "translated_word": "床垫",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every six months, she flips the mattress to keep it even.",
+      "style": "Collocational",
+      "translation": "每隔半年，她都会把床垫翻一面，保持均匀受力。",
+      "translated_word": "床垫",
+      "display_order": 1
+    },
+    {
+      "sentence": "Our first mattress sat on the floor, but we slept like royalty.",
+      "style": "Intimate",
+      "translation": "我们的第一张床垫就铺在地上，却睡得像国王一般安稳。",
+      "translated_word": "床垫",
+      "display_order": 2
+    },
+    {
+      "sentence": "A good mattress doesn't just hold you; it restores you.",
+      "style": "Contrastive",
+      "translation": "好的床垫不只承托身体，更能修复身心。",
+      "translated_word": "床垫",
+      "display_order": 4
+    }
+  ]
+}

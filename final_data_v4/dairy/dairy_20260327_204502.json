@@ -1,0 +1,40 @@
+{
+  "word": "dairy",
+  "phonetic": "/ˈderi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "乳制品；奶牛场；乳品业",
+  "examples": [
+    {
+      "sentence": "She cut dairy from her diet and her skin cleared within weeks.",
+      "style": "Contextual",
+      "translation": "她从饮食中戒掉乳制品后，皮肤在几周内变得光洁如初。",
+      "translated_word": "乳制品",
+      "display_order": 2
+    },
+    {
+      "sentence": "The recipe calls for full-fat dairy: whole milk, heavy cream, and aged cheese.",
+      "style": "Collocational",
+      "translation": "这道菜需要全脂乳品：全脂牛奶、浓奶油和陈年奶酪。",
+      "translated_word": "乳品",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandfather's small dairy supplied milk to every house on our street.",
+      "style": "Intimate",
+      "translation": "祖父的小奶牛场曾为我们那条街上的每户人家供应牛奶。",
+      "translated_word": "奶牛场",
+      "display_order": 3
+    },
+    {
+      "sentence": "Climate concerns have prompted major dairy producers to invest in methane capture technology.",
+      "style": "Formal",
+      "translation": "气候问题促使各大乳品企业投资甲烷捕集技术。",
+      "translated_word": "乳品",
+      "display_order": 4
+    }
+  ]
+}

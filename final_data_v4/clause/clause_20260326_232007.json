@@ -1,0 +1,40 @@
+{
+  "word": "clause",
+  "phonetic": "/klɔːz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "条款；从句；分句",
+  "examples": [
+    {
+      "sentence": "The contract seemed fair until she noticed the penalty clause on page twelve.",
+      "style": "Contextual",
+      "translation": "合同看似公平，直到她注意到第十二页的违约条款。",
+      "translated_word": "条款",
+      "display_order": 1
+    },
+    {
+      "sentence": "A confidentiality clause prevented the whistleblower from speaking publicly.",
+      "style": "Formal",
+      "translation": "保密条款阻止了举报人公开发言。",
+      "translated_word": "条款",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every escape clause exists because someone once needed a way out.",
+      "style": "Philosophical",
+      "translation": "每一条免责条款的存在，都因为曾有人需要一条退路。",
+      "translated_word": "条款",
+      "display_order": 4
+    },
+    {
+      "sentence": "She added a sunset clause to ensure the agreement wouldn't outlive its purpose.",
+      "style": "Collocational",
+      "translation": "她加入了一条日落条款，以确保协议不会超越其存在的意义。",
+      "translated_word": "条款",
+      "display_order": 3
+    }
+  ]
+}

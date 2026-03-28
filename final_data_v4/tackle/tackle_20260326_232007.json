@@ -1,0 +1,40 @@
+{
+  "word": "tackle",
+  "phonetic": "/ˈtækəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "处理；应对；解决；擒抱",
+  "examples": [
+    {
+      "sentence": "She decided to tackle the mess in her room before the guests arrived.",
+      "style": "Contextual",
+      "translation": "她决定在客人到来前把房间收拾干净。",
+      "translated_word": "收拾",
+      "display_order": 2
+    },
+    {
+      "sentence": "The new policy aims to tackle rising housing costs in urban areas.",
+      "style": "Formal",
+      "translation": "新政策旨在解决城市住房成本上涨的问题。",
+      "translated_word": "解决",
+      "display_order": 3
+    },
+    {
+      "sentence": "Let's tackle this one step at a time.",
+      "style": "Collocational",
+      "translation": "我们一步一步来解决这件事。",
+      "translated_word": "解决",
+      "display_order": 1
+    },
+    {
+      "sentence": "Growth begins when you tackle what you've been avoiding.",
+      "style": "Inspirational",
+      "translation": "成长始于直面你一直在回避的事。",
+      "translated_word": "直面",
+      "display_order": 4
+    }
+  ]
+}

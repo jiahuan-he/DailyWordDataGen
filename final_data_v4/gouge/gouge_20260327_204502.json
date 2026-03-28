@@ -1,0 +1,40 @@
+{
+  "word": "gouge",
+  "phonetic": "/ɡaʊdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "挖；凿；敲竹杠",
+  "examples": [
+    {
+      "sentence": "The sculptor gouged deep grooves into the oak, revealing its hidden grain.",
+      "style": "Contextual",
+      "translation": "雕刻家在橡木上凿出深槽，露出隐藏的纹理。",
+      "translated_word": "凿出",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities fined the retailer for gouging customers during the storm.",
+      "style": "Formal",
+      "translation": "当局因该零售商在风暴期间哄抬物价而对其处以罚款。",
+      "translated_word": "哄抬物价",
+      "display_order": 4
+    },
+    {
+      "sentence": "The key slipped and gouged a long scratch across the car door.",
+      "style": "Collocational",
+      "translation": "钥匙滑落，在车门上划出一道长长的痕迹。",
+      "translated_word": "划出",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father's workbench bears every mark where young hands gouged their first mistakes.",
+      "style": "Intimate",
+      "translation": "父亲的工作台上，留着年幼的双手凿下的每一处稚嫩痕迹。",
+      "translated_word": "凿下",
+      "display_order": 2
+    }
+  ]
+}

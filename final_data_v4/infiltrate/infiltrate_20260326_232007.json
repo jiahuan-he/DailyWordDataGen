@@ -1,0 +1,40 @@
+{
+  "word": "infiltrate",
+  "phonetic": "/ˈɪnfɪltreɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "渗透；潜入；打入内部",
+  "examples": [
+    {
+      "sentence": "Posing as a volunteer, she infiltrated the organization to document its corruption.",
+      "style": "Contextual",
+      "translation": "她假扮志愿者潜入该组织，记录其腐败行径。",
+      "translated_word": "潜入",
+      "display_order": 2
+    },
+    {
+      "sentence": "Federal agents infiltrated the smuggling network after a two-year undercover operation.",
+      "style": "Formal",
+      "translation": "经过两年卧底行动，联邦探员成功渗透了走私网络。",
+      "translated_word": "渗透",
+      "display_order": 1
+    },
+    {
+      "sentence": "Doubts began to infiltrate his confidence as the deadline loomed.",
+      "style": "Collocational",
+      "translation": "随着截止日期临近，怀疑开始侵蚀他的信心。",
+      "translated_word": "侵蚀",
+      "display_order": 3
+    },
+    {
+      "sentence": "Morning light infiltrated the shutters, painting gold across her sleeping face.",
+      "style": "Poetic",
+      "translation": "晨光透过百叶窗的缝隙，在她熟睡的脸上描绘出金色。",
+      "translated_word": "透过",
+      "display_order": 4
+    }
+  ]
+}

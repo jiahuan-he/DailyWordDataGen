@@ -1,0 +1,41 @@
+{
+  "word": "dam",
+  "phonetic": "/dæm/",
+  "pos": [
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "水坝；堤坝",
+  "examples": [
+    {
+      "sentence": "The dam provides water for three neighboring towns.",
+      "style": "Contextual",
+      "translation": "这座水坝为三个相邻的小镇供水。",
+      "translated_word": "水坝",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities ordered evacuations after cracks appeared in the aging dam.",
+      "style": "Formal",
+      "translation": "老化的大坝出现裂缝后，当局下令疏散居民。",
+      "translated_word": "大坝",
+      "display_order": 2
+    },
+    {
+      "sentence": "Beavers build dams with remarkable precision.",
+      "style": "Collocational",
+      "translation": "海狸筑坝技艺精湛。",
+      "translated_word": "坝",
+      "display_order": 3
+    },
+    {
+      "sentence": "The dam holds a thousand storms in stillness.",
+      "style": "Poetic",
+      "translation": "大坝将千场风暴凝于静默之中。",
+      "translated_word": "大坝",
+      "display_order": 4
+    }
+  ]
+}

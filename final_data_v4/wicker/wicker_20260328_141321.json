@@ -1,0 +1,40 @@
+{
+  "word": "wicker",
+  "phonetic": "/ˈwɪkər/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "柳条编的；藤编的",
+  "examples": [
+    {
+      "sentence": "The wicker chair creaked softly under the afternoon sun.",
+      "style": "Contextual",
+      "translation": "午后阳光下，藤椅轻轻发出吱嘎声。",
+      "translated_word": "藤",
+      "display_order": 2
+    },
+    {
+      "sentence": "Fresh bread and wildflowers filled the wicker basket.",
+      "style": "Collocational",
+      "translation": "柳编篮里盛满了新鲜面包和野花。",
+      "translated_word": "柳编",
+      "display_order": 1
+    },
+    {
+      "sentence": "Sunlight through the wicker shade drew latticed patterns on the floor.",
+      "style": "Poetic",
+      "translation": "阳光穿过藤编灯罩，在地板上织出细密的光影。",
+      "translated_word": "藤编",
+      "display_order": 4
+    },
+    {
+      "sentence": "That wicker chest holds every letter we ever exchanged.",
+      "style": "Intimate",
+      "translation": "那只藤编箱子，收藏着我们所有的信。",
+      "translated_word": "藤编",
+      "display_order": 3
+    }
+  ]
+}

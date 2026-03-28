@@ -1,0 +1,39 @@
+{
+  "word": "practitioner",
+  "phonetic": "/prækˈtɪʃənər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "从业者；执业者；实践者",
+  "examples": [
+    {
+      "sentence": "She consulted a wellness practitioner after conventional treatments failed.",
+      "style": "Contextual",
+      "translation": "传统疗法无效后，她转而求助于一位健康养生师。",
+      "translated_word": "养生师",
+      "display_order": 3
+    },
+    {
+      "sentence": "The practitioner's findings were published in a leading medical journal.",
+      "style": "Formal",
+      "translation": "这位从业者的研究成果发表在一本顶级医学期刊上。",
+      "translated_word": "从业者",
+      "display_order": 2
+    },
+    {
+      "sentence": "As a general practitioner, he sees everything from fevers to fractures.",
+      "style": "Collocational",
+      "translation": "作为全科医生，他接诊的病症从发烧到骨折，无所不包。",
+      "translated_word": "全科医生",
+      "display_order": 1
+    },
+    {
+      "sentence": "A lifelong practitioner knows that mastery is a horizon, not a destination.",
+      "style": "Philosophical",
+      "translation": "毕生的修行者深知，精通是地平线，而非终点。",
+      "translated_word": "修行者",
+      "display_order": 4
+    }
+  ]
+}

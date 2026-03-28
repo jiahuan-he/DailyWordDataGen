@@ -1,0 +1,40 @@
+{
+  "word": "tragic",
+  "phonetic": "/ˈtrædʒɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "悲惨的；悲剧性的；不幸的",
+  "examples": [
+    {
+      "sentence": "He survived the war but lost everyone he loved: a tragic victory.",
+      "style": "Contextual",
+      "translation": "他在战争中幸存，却失去了所有挚爱：一场悲凉的胜利。",
+      "translated_word": "悲凉",
+      "display_order": 2
+    },
+    {
+      "sentence": "The report revealed a tragic chain of preventable errors.",
+      "style": "Formal",
+      "translation": "报告揭示了一连串本可避免的悲剧性失误。",
+      "translated_word": "悲剧性",
+      "display_order": 1
+    },
+    {
+      "sentence": "The most tragic fate is knowing exactly what you're losing as it slips away.",
+      "style": "Philosophical",
+      "translation": "最悲惨的命运，是眼睁睁看着珍视之物从指间流逝。",
+      "translated_word": "悲惨",
+      "display_order": 3
+    },
+    {
+      "sentence": "Autumn leaves gather at her door; even nature mourns this tragic silence.",
+      "style": "Poetic",
+      "translation": "落叶堆积在她门前；连自然也在哀悼这悲伤的沉寂。",
+      "translated_word": "悲伤",
+      "display_order": 4
+    }
+  ]
+}

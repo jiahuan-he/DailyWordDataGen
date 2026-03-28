@@ -1,0 +1,40 @@
+{
+  "word": "overview",
+  "phonetic": "/ˈoʊvərˌvjuː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "概述；概览；综述",
+  "examples": [
+    {
+      "sentence": "The first chapter gives an overview of all major topics.",
+      "style": "Contextual",
+      "translation": "第一章对所有主要议题进行了概述。",
+      "translated_word": "概述",
+      "display_order": 1
+    },
+    {
+      "sentence": "The committee released a detailed overview of the proposed reforms.",
+      "style": "Formal",
+      "translation": "委员会发布了一份关于改革方案的详尽概览。",
+      "translated_word": "概览",
+      "display_order": 3
+    },
+    {
+      "sentence": "Can you give me a brief overview before the meeting?",
+      "style": "Collocational",
+      "translation": "开会前能给我简单介绍一下吗？",
+      "translated_word": "介绍",
+      "display_order": 2
+    },
+    {
+      "sentence": "Distance is what turns confusion into an overview.",
+      "style": "Philosophical",
+      "translation": "距离能将混沌化为清明。",
+      "translated_word": "清明",
+      "display_order": 4
+    }
+  ]
+}

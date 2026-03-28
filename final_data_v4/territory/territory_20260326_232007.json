@@ -1,0 +1,39 @@
+{
+  "word": "territory",
+  "phonetic": "/ˈterɪtɔːri/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "领土；地盘；领域",
+  "examples": [
+    {
+      "sentence": "The wolves defend their territory against rival packs.",
+      "style": "Contextual",
+      "translation": "狼群守护着自己的领地，抵御外来者的入侵。",
+      "translated_word": "领地",
+      "display_order": 1
+    },
+    {
+      "sentence": "The treaty redrew the disputed territory between the two nations.",
+      "style": "Formal",
+      "translation": "条约重新划定了两国之间的争议领土。",
+      "translated_word": "领土",
+      "display_order": 2
+    },
+    {
+      "sentence": "Grief is territory you must cross alone.",
+      "style": "Philosophical",
+      "translation": "悲伤是一片只能独自穿越的荒原。",
+      "translated_word": "荒原",
+      "display_order": 4
+    },
+    {
+      "sentence": "Parenthood feels like uncharted territory at first.",
+      "style": "Collocational",
+      "translation": "初为父母，仿佛踏入了一片未知之境。",
+      "translated_word": "未知之境",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "sponsor",
+  "phonetic": "/ˈspɑːnsər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "赞助；资助；发起",
+  "examples": [
+    {
+      "sentence": "Three local businesses agreed to sponsor the marathon.",
+      "style": "Contextual",
+      "translation": "三家本地企业同意赞助这场马拉松。",
+      "translated_word": "赞助",
+      "display_order": 1
+    },
+    {
+      "sentence": "The foundation will sponsor groundbreaking research in clean energy.",
+      "style": "Formal",
+      "translation": "该基金会将资助清洁能源领域的前沿研究。",
+      "translated_word": "资助",
+      "display_order": 3
+    },
+    {
+      "sentence": "They chose to sponsor a child's education through college.",
+      "style": "Collocational",
+      "translation": "他们选择资助一个孩子完成大学学业。",
+      "translated_word": "资助",
+      "display_order": 2
+    },
+    {
+      "sentence": "Behind every leap of faith, there is someone willing to sponsor the landing.",
+      "style": "Inspirational",
+      "translation": "每一次纵身一跃的背后，都有人愿意为落地护航。",
+      "translated_word": "护航",
+      "display_order": 4
+    }
+  ]
+}

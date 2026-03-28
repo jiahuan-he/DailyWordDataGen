@@ -1,0 +1,40 @@
+{
+  "word": "panel",
+  "phonetic": "/ˈpænəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "面板；专家组；嵌板",
+  "examples": [
+    {
+      "sentence": "She touched the panel and the elevator doors slid open.",
+      "style": "Contextual",
+      "translation": "她轻触面板，电梯门缓缓滑开。",
+      "translated_word": "面板",
+      "display_order": 1
+    },
+    {
+      "sentence": "A panel of economists recommended immediate policy reform.",
+      "style": "Formal",
+      "translation": "经济学家小组建议立即推行政策改革。",
+      "translated_word": "小组",
+      "display_order": 4
+    },
+    {
+      "sentence": "Solar panels glinted on every rooftop in the neighborhood.",
+      "style": "Collocational",
+      "translation": "太阳能板在社区的每一处屋顶上熠熠生辉。",
+      "translated_word": "板",
+      "display_order": 2
+    },
+    {
+      "sentence": "Behind the loose panel in my childhood room, I hid all my secrets.",
+      "style": "Intimate",
+      "translation": "童年卧室那块松动的嵌板后面，藏着我全部的秘密。",
+      "translated_word": "嵌板",
+      "display_order": 3
+    }
+  ]
+}

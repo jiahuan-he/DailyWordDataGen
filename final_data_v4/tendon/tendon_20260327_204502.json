@@ -1,0 +1,39 @@
+{
+  "word": "tendon",
+  "phonetic": "/ˈtendən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "肌腱；筋；腱",
+  "examples": [
+    {
+      "sentence": "The doctor pointed to the thick white tissue connecting the muscle to the bone: the tendon.",
+      "style": "Contextual",
+      "translation": "医生指着那条连接肌肉与骨骼的白色粗韧组织：肌腱。",
+      "translated_word": "肌腱",
+      "display_order": 1
+    },
+    {
+      "sentence": "The athlete will undergo surgery to repair a ruptured Achilles tendon.",
+      "style": "Formal",
+      "translation": "该运动员将接受手术修复断裂的跟腱。",
+      "translated_word": "跟腱",
+      "display_order": 3
+    },
+    {
+      "sentence": "Years of typing had strained the tendons in her wrist.",
+      "style": "Collocational",
+      "translation": "多年的打字工作使她手腕的肌腱不堪重负。",
+      "translated_word": "肌腱",
+      "display_order": 2
+    },
+    {
+      "sentence": "Six months of rehab taught me to respect every tendon in my body.",
+      "style": "Intimate",
+      "translation": "六个月的康复训练让我学会了敬畏身体里的每一根肌腱。",
+      "translated_word": "肌腱",
+      "display_order": 4
+    }
+  ]
+}

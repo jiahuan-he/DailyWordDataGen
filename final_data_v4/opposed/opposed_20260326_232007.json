@@ -1,0 +1,40 @@
+{
+  "word": "opposed",
+  "phonetic": "/əˈpoʊzd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "反对的；对立的；相反的",
+  "examples": [
+    {
+      "sentence": "She was quietly opposed to the plan but chose her battles.",
+      "style": "Contextual",
+      "translation": "她心里反对这个计划，但选择了沉默。",
+      "translated_word": "反对",
+      "display_order": 1
+    },
+    {
+      "sentence": "The two factions remain bitterly opposed after decades of negotiation.",
+      "style": "Formal",
+      "translation": "经过数十年谈判，两派依然势不两立。",
+      "translated_word": "势不两立",
+      "display_order": 2
+    },
+    {
+      "sentence": "To be opposed is not to be hostile; it is simply to stand elsewhere.",
+      "style": "Philosophical",
+      "translation": "反对不是敌意，只是站在别处。",
+      "translated_word": "反对",
+      "display_order": 4
+    },
+    {
+      "sentence": "Love and fear are not opposed; they often arrive together.",
+      "style": "Contrastive",
+      "translation": "爱与恐惧并非对立，它们常常结伴而来。",
+      "translated_word": "对立",
+      "display_order": 3
+    }
+  ]
+}

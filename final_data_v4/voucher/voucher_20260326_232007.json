@@ -1,0 +1,40 @@
+{
+  "word": "voucher",
+  "phonetic": "/ˈvaʊtʃər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "代金券；凭证；礼券",
+  "examples": [
+    {
+      "sentence": "She handed the voucher to the spa receptionist and was led to a private room.",
+      "style": "Contextual",
+      "translation": "她将代金券递给水疗前台，随即被引入一间私人理疗室。",
+      "translated_word": "代金券",
+      "display_order": 2
+    },
+    {
+      "sentence": "The airline issued a meal voucher to passengers stranded by the delay.",
+      "style": "Formal",
+      "translation": "航空公司向因延误滞留的乘客发放了餐饮券。",
+      "translated_word": "餐饮券",
+      "display_order": 1
+    },
+    {
+      "sentence": "A gift voucher makes the perfect present when you want to give choice, not things.",
+      "style": "Collocational",
+      "translation": "当你想送出的是选择而非物品时，礼品券便是完美之选。",
+      "translated_word": "礼品券",
+      "display_order": 3
+    },
+    {
+      "sentence": "Tucked in my wallet is a faded coffee voucher from our first date; I never could bring myself to use it.",
+      "style": "Intimate",
+      "translation": "钱包深处夹着一张初次约会时的咖啡券，已经泛黄；我始终舍不得用掉它。",
+      "translated_word": "咖啡券",
+      "display_order": 4
+    }
+  ]
+}

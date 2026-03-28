@@ -1,0 +1,40 @@
+{
+  "word": "cubic",
+  "phonetic": "/ˈkjuːbɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "立方的；立方体形的；三次方的",
+  "examples": [
+    {
+      "sentence": "The tiny cabin offered only twelve cubic meters of living space.",
+      "style": "Contextual",
+      "translation": "那间小木屋只有十二立方米的生活空间。",
+      "translated_word": "立方",
+      "display_order": 2
+    },
+    {
+      "sentence": "Engineers estimate the dam's capacity at three million cubic meters.",
+      "style": "Formal",
+      "translation": "工程师估算该大坝的容量为三百万立方米。",
+      "translated_word": "立方",
+      "display_order": 4
+    },
+    {
+      "sentence": "The salt crystals formed in perfect cubic structures under the microscope.",
+      "style": "Collocational",
+      "translation": "盐晶体在显微镜下呈现出完美的立方结构。",
+      "translated_word": "立方",
+      "display_order": 1
+    },
+    {
+      "sentence": "Nature rarely creates cubic shapes; sharp edges belong to human design.",
+      "style": "Contrastive",
+      "translation": "自然界鲜少造出立方形状；棱角分明是人类设计的印记。",
+      "translated_word": "立方",
+      "display_order": 3
+    }
+  ]
+}

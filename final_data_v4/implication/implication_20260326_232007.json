@@ -1,0 +1,39 @@
+{
+  "word": "implication",
+  "phonetic": "/ˌɪmplɪˈkeɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "暗示；含义；牵连；影响",
+  "examples": [
+    {
+      "sentence": "The silence after her question carried a heavy implication.",
+      "style": "Contextual",
+      "translation": "她话音落下后的沉默，承载着沉甸甸的暗示。",
+      "translated_word": "暗示",
+      "display_order": 1
+    },
+    {
+      "sentence": "The policy shift has profound implications for rural communities.",
+      "style": "Formal",
+      "translation": "这一政策转向对乡村社区影响深远。",
+      "translated_word": "影响",
+      "display_order": 3
+    },
+    {
+      "sentence": "We speak in facts, yet live by implication.",
+      "style": "Philosophical",
+      "translation": "我们诉诸事实，却以言外之意度日。",
+      "translated_word": "言外之意",
+      "display_order": 4
+    },
+    {
+      "sentence": "Only now do I grasp the implication in my mother's parting words.",
+      "style": "Intimate",
+      "translation": "如今我才读懂母亲临别话语中的深意。",
+      "translated_word": "深意",
+      "display_order": 2
+    }
+  ]
+}

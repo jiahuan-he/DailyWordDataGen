@@ -1,0 +1,39 @@
+{
+  "word": "baggage",
+  "phonetic": "/ˈbæɡɪdʒ/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "行李；包袱；负担",
+  "examples": [
+    {
+      "sentence": "The carousel spun for an hour, but my baggage never appeared.",
+      "style": "Contextual",
+      "translation": "传送带转了一个小时，我的行李始终没有出现。",
+      "translated_word": "行李",
+      "display_order": 1
+    },
+    {
+      "sentence": "He entered the relationship with too much emotional baggage.",
+      "style": "Collocational",
+      "translation": "他带着太多情感包袱走进这段感情。",
+      "translated_word": "包袱",
+      "display_order": 2
+    },
+    {
+      "sentence": "Some baggage weighs nothing yet takes a lifetime to set down.",
+      "style": "Philosophical",
+      "translation": "有些包袱毫无重量，却要用一生才能放下。",
+      "translated_word": "包袱",
+      "display_order": 4
+    },
+    {
+      "sentence": "Packing for the move, I finally discarded the baggage I had carried since college.",
+      "style": "Intimate",
+      "translation": "搬家打包时，我终于丢掉了从大学起就一直背负的包袱。",
+      "translated_word": "包袱",
+      "display_order": 3
+    }
+  ]
+}

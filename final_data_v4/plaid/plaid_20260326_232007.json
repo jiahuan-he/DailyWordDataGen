@@ -1,0 +1,41 @@
+{
+  "word": "plaid",
+  "phonetic": "/plæd/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "格纹；格子图案；苏格兰方格呢",
+  "examples": [
+    {
+      "sentence": "Every autumn, the café staff switch to their signature red and black plaid.",
+      "style": "Contextual",
+      "translation": "每到秋天，咖啡馆员工便换上那标志性的红黑格纹。",
+      "translated_word": "格纹",
+      "display_order": 1
+    },
+    {
+      "sentence": "He paired the vintage plaid with worn denim and hiking boots.",
+      "style": "Collocational",
+      "translation": "他将复古格纹与旧牛仔裤、登山靴搭配在一起。",
+      "translated_word": "格纹",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather's plaid still smells of pine and pipe tobacco.",
+      "style": "Intimate",
+      "translation": "祖父的那件格纹衫至今仍带着松木与烟斗的气息。",
+      "translated_word": "格纹",
+      "display_order": 2
+    },
+    {
+      "sentence": "The autumn hills wore their own plaid: heather, moss, and stone.",
+      "style": "Poetic",
+      "translation": "秋日山丘披着它自己的格纹：石楠、苔藓与岩石交织其间。",
+      "translated_word": "格纹",
+      "display_order": 4
+    }
+  ]
+}

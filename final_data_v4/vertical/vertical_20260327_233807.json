@@ -1,0 +1,40 @@
+{
+  "word": "vertical",
+  "phonetic": "/ˈvɜːrtɪkəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "垂直的；竖直的；纵向的",
+  "examples": [
+    {
+      "sentence": "The cliff rose in a near-vertical wall from the sea.",
+      "style": "Contextual",
+      "translation": "悬崖从海面几乎垂直地拔地而起。",
+      "translated_word": "垂直",
+      "display_order": 2
+    },
+    {
+      "sentence": "The company pursued aggressive vertical expansion into manufacturing.",
+      "style": "Formal",
+      "translation": "该公司积极向制造业进行纵向扩张。",
+      "translated_word": "纵向",
+      "display_order": 4
+    },
+    {
+      "sentence": "Hold the brush at a vertical angle for cleaner strokes.",
+      "style": "Collocational",
+      "translation": "将画笔垂直握住，笔触会更干净利落。",
+      "translated_word": "垂直",
+      "display_order": 1
+    },
+    {
+      "sentence": "Bamboo grows vertical and unashamed, reaching for what it needs.",
+      "style": "Poetic",
+      "translation": "竹子笔直生长，毫无愧色，向着所需之处伸展。",
+      "translated_word": "笔直",
+      "display_order": 3
+    }
+  ]
+}

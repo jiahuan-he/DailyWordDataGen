@@ -1,0 +1,39 @@
+{
+  "word": "pesticide",
+  "phonetic": "/ˈpestɪsaɪd/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "杀虫剂；农药",
+  "examples": [
+    {
+      "sentence": "The tomatoes wilted overnight; only pesticide could save the harvest.",
+      "style": "Contextual",
+      "translation": "番茄一夜之间枯萎了；只有农药能挽救这场收成。",
+      "translated_word": "农药",
+      "display_order": 2
+    },
+    {
+      "sentence": "New regulations restrict pesticide use within 100 meters of water sources.",
+      "style": "Formal",
+      "translation": "新规禁止在水源百米范围内使用杀虫剂。",
+      "translated_word": "杀虫剂",
+      "display_order": 3
+    },
+    {
+      "sentence": "Pesticide residue on imported fruit sparked a nationwide recall.",
+      "style": "Collocational",
+      "translation": "进口水果上的农药残留引发了全国性召回。",
+      "translated_word": "农药",
+      "display_order": 1
+    },
+    {
+      "sentence": "Where industrial farms rely on pesticide, organic growers trust ladybugs.",
+      "style": "Contrastive",
+      "translation": "工业化农场依赖农药，有机农人则信赖瓢虫。",
+      "translated_word": "农药",
+      "display_order": 4
+    }
+  ]
+}

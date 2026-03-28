@@ -1,0 +1,41 @@
+{
+  "word": "grave",
+  "phonetic": "/ɡreɪv/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "严重的；严肃的；庄重的",
+  "examples": [
+    {
+      "sentence": "The committee expressed grave concerns over the proposed cuts.",
+      "style": "Formal",
+      "translation": "委员会对拟议的削减措施表示严重关切。",
+      "translated_word": "严重",
+      "display_order": 3
+    },
+    {
+      "sentence": "One look at his grave face, and I knew something was wrong.",
+      "style": "Contextual",
+      "translation": "看到他凝重的神情，我便知道出事了。",
+      "translated_word": "凝重",
+      "display_order": 1
+    },
+    {
+      "sentence": "A grave mistake now could cost us everything.",
+      "style": "Collocational",
+      "translation": "此刻的重大失误可能让我们满盘皆输。",
+      "translated_word": "重大",
+      "display_order": 2
+    },
+    {
+      "sentence": "We treat small joys lightly while giving grave attention to imagined fears.",
+      "style": "Philosophical",
+      "translation": "我们轻视微小的欢喜，却对臆想的恐惧郑重以待。",
+      "translated_word": "郑重",
+      "display_order": 4
+    }
+  ]
+}

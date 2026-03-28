@@ -1,0 +1,40 @@
+{
+  "word": "rampage",
+  "phonetic": "/ˈræm.peɪdʒ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "暴怒；横冲直撞；大肆破坏",
+  "examples": [
+    {
+      "sentence": "The escaped bull went on a rampage through the morning market.",
+      "style": "Contextual",
+      "translation": "那头逃脱的公牛在早市上横冲直撞。",
+      "translated_word": "横冲直撞",
+      "display_order": 1
+    },
+    {
+      "sentence": "The cyberattack's rampage through corporate networks lasted six hours.",
+      "style": "Formal",
+      "translation": "这次网络攻击在企业网络中肆虐了六个小时。",
+      "translated_word": "肆虐",
+      "display_order": 3
+    },
+    {
+      "sentence": "After the sugar rush, my nephew's rampage spared no cushion.",
+      "style": "Collocational",
+      "translation": "糖分上头后，侄子的一顿疯闹没放过任何一个靠垫。",
+      "translated_word": "疯闹",
+      "display_order": 2
+    },
+    {
+      "sentence": "Autumn is a slow rampage; it burns through every leaf.",
+      "style": "Poetic",
+      "translation": "秋是一场缓慢的暴走，将每片叶子燃尽。",
+      "translated_word": "暴走",
+      "display_order": 4
+    }
+  ]
+}

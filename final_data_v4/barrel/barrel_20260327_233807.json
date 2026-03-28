@@ -1,0 +1,40 @@
+{
+  "word": "barrel",
+  "phonetic": "/ˈbærəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "桶；枪管；一桶的量",
+  "examples": [
+    {
+      "sentence": "The winery ages its finest wines in oak barrels for three years.",
+      "style": "Contextual",
+      "translation": "酒庄将最好的酒在橡木桶中陈酿三年。",
+      "translated_word": "桶",
+      "display_order": 1
+    },
+    {
+      "sentence": "Oil prices spiked when a barrel crossed the $100 mark.",
+      "style": "Collocational",
+      "translation": "油价在每桶突破百元大关后飙升。",
+      "translated_word": "桶",
+      "display_order": 4
+    },
+    {
+      "sentence": "Rain barrels stand beneath the eaves, catching the sky's quiet gifts.",
+      "style": "Poetic",
+      "translation": "雨桶立于檐下，承接天空静默的馈赠。",
+      "translated_word": "桶",
+      "display_order": 3
+    },
+    {
+      "sentence": "Grandpa's workshop smelled of the apple barrel by the door.",
+      "style": "Intimate",
+      "translation": "祖父的工坊里，总飘着门边苹果桶的清香。",
+      "translated_word": "桶",
+      "display_order": 2
+    }
+  ]
+}

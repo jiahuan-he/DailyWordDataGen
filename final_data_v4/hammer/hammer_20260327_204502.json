@@ -1,0 +1,40 @@
+{
+  "word": "hammer",
+  "phonetic": "/ˈhæmər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "锤子；榔头",
+  "examples": [
+    {
+      "sentence": "He grabbed the hammer; the loose shelf wouldn't fix itself.",
+      "style": "Contextual",
+      "translation": "他拿起锤子；松动的架子不会自己变好。",
+      "translated_word": "锤子",
+      "display_order": 1
+    },
+    {
+      "sentence": "A hammer and a few nails can turn a house into a home.",
+      "style": "Collocational",
+      "translation": "一把锤子，几枚钉子，便能将房子变成家。",
+      "translated_word": "锤子",
+      "display_order": 2
+    },
+    {
+      "sentence": "The hammer builds and destroys with the same swing.",
+      "style": "Philosophical",
+      "translation": "同一次挥落，锤子既能建造，也能摧毁。",
+      "translated_word": "锤子",
+      "display_order": 3
+    },
+    {
+      "sentence": "Each strike of the hammer echoes a promise: something new is being made.",
+      "style": "Poetic",
+      "translation": "锤落声声，皆是承诺：新的事物正在诞生。",
+      "translated_word": "锤",
+      "display_order": 4
+    }
+  ]
+}

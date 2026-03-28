@@ -1,0 +1,40 @@
+{
+  "word": "grind",
+  "phonetic": "/ɡraɪnd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "磨；碾；苦干",
+  "examples": [
+    {
+      "sentence": "The city grinds to a halt when the first snow falls.",
+      "style": "Collocational",
+      "translation": "初雪一落，整座城市便缓缓停摆。",
+      "translated_word": "缓缓",
+      "display_order": 3
+    },
+    {
+      "sentence": "He watched the old mill grind wheat into powder, mesmerized.",
+      "style": "Contextual",
+      "translation": "他看着老磨坊将麦粒碾成细粉，入了神。",
+      "translated_word": "碾",
+      "display_order": 1
+    },
+    {
+      "sentence": "Talent lights the spark; only those who grind keep it burning.",
+      "style": "Inspirational",
+      "translation": "天赋点燃火种，唯有苦干者能让它长燃不息。",
+      "translated_word": "苦干",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father would grind coffee at dawn; that sound was my childhood alarm.",
+      "style": "Intimate",
+      "translation": "父亲总在黎明时分磨咖啡；那声响，便是我童年的闹钟。",
+      "translated_word": "磨",
+      "display_order": 2
+    }
+  ]
+}

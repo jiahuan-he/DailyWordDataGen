@@ -1,0 +1,40 @@
+{
+  "word": "sled",
+  "phonetic": "/slɛd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "雪橇；滑雪车",
+  "examples": [
+    {
+      "sentence": "The first snow came, and we rushed to find our sled.",
+      "style": "Contextual",
+      "translation": "初雪降临，我们急忙去找雪橇。",
+      "translated_word": "雪橇",
+      "display_order": 2
+    },
+    {
+      "sentence": "The huskies pulled the sled across the frozen tundra.",
+      "style": "Collocational",
+      "translation": "哈士奇拉着雪橇穿越冰封的苔原。",
+      "translated_word": "雪橇",
+      "display_order": 1
+    },
+    {
+      "sentence": "A red sled leaned against the birch, patient as the snow.",
+      "style": "Poetic",
+      "translation": "红色雪橇斜倚白桦，静待如雪。",
+      "translated_word": "雪橇",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father built that sled; it held three winters of laughter.",
+      "style": "Intimate",
+      "translation": "父亲亲手做的雪橇，承载了三个冬天的欢笑。",
+      "translated_word": "雪橇",
+      "display_order": 3
+    }
+  ]
+}

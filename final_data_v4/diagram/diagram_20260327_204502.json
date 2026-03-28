@@ -1,0 +1,40 @@
+{
+  "word": "diagram",
+  "phonetic": "/ˈdaɪəɡræm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "图表；图解；示意图",
+  "examples": [
+    {
+      "sentence": "One diagram explained what three pages of text could not.",
+      "style": "Contextual",
+      "translation": "一张图表胜过三页冗长的文字。",
+      "translated_word": "图表",
+      "display_order": 3
+    },
+    {
+      "sentence": "The report includes a diagram outlining the proposed structure.",
+      "style": "Formal",
+      "translation": "报告附有一张示意图，展示了拟定的架构。",
+      "translated_word": "示意图",
+      "display_order": 1
+    },
+    {
+      "sentence": "He grabbed a napkin and sketched a quick diagram.",
+      "style": "Collocational",
+      "translation": "他抓起一张餐巾纸，草草画了张图解。",
+      "translated_word": "图解",
+      "display_order": 2
+    },
+    {
+      "sentence": "Every diagram is an admission that language has limits.",
+      "style": "Philosophical",
+      "translation": "每一张图表，都是语言承认自身局限的方式。",
+      "translated_word": "图表",
+      "display_order": 4
+    }
+  ]
+}

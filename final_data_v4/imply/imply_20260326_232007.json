@@ -1,0 +1,39 @@
+{
+  "word": "imply",
+  "phonetic": "/ɪmˈplaɪ/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "暗示；意味；暗含",
+  "examples": [
+    {
+      "sentence": "She glanced at the door, implying it was time to leave.",
+      "style": "Contextual",
+      "translation": "她看了一眼门，暗示该离开了。",
+      "translated_word": "暗示",
+      "display_order": 1
+    },
+    {
+      "sentence": "Silence can imply what words dare not confess.",
+      "style": "Philosophical",
+      "translation": "沉默能暗示言语不敢坦白的一切。",
+      "translated_word": "暗示",
+      "display_order": 4
+    },
+    {
+      "sentence": "The findings imply a strong link between diet and mood.",
+      "style": "Formal",
+      "translation": "研究结果表明饮食与情绪之间存在密切关联。",
+      "translated_word": "表明",
+      "display_order": 3
+    },
+    {
+      "sentence": "The way he said 'take care' implied we might not meet again.",
+      "style": "Intimate",
+      "translation": "他说\"保重\"的方式，暗示着我们也许不会再见。",
+      "translated_word": "暗示",
+      "display_order": 2
+    }
+  ]
+}

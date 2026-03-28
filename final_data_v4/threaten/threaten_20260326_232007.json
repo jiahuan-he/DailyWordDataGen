@@ -1,0 +1,39 @@
+{
+  "word": "threaten",
+  "phonetic": "/ˈθretn/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "威胁；恐吓；危及；预示",
+  "examples": [
+    {
+      "sentence": "Dark clouds gathered on the horizon, threatening rain.",
+      "style": "Contextual",
+      "translation": "乌云在天际聚拢，预示着一场雨的降临。",
+      "translated_word": "预示",
+      "display_order": 2
+    },
+    {
+      "sentence": "Rising sea levels threaten coastal cities worldwide.",
+      "style": "Formal",
+      "translation": "海平面上升正威胁着全球沿海城市。",
+      "translated_word": "威胁",
+      "display_order": 1
+    },
+    {
+      "sentence": "What threatens us often reveals what we cherish most.",
+      "style": "Philosophical",
+      "translation": "威胁我们的，往往揭示我们最珍视的。",
+      "translated_word": "威胁",
+      "display_order": 3
+    },
+    {
+      "sentence": "Winter threatens at autumn's edge, patient and silent.",
+      "style": "Poetic",
+      "translation": "冬在秋的边缘伺机而动，沉默而耐心。",
+      "translated_word": "伺机而动",
+      "display_order": 4
+    }
+  ]
+}

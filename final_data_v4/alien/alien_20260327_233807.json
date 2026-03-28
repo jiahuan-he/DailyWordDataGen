@@ -1,0 +1,41 @@
+{
+  "word": "alien",
+  "phonetic": "/ˈeɪ.li.ən/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "外星人；外国人；局外人",
+  "examples": [
+    {
+      "sentence": "The film's alien arrived bearing gifts from a distant galaxy.",
+      "style": "Contextual",
+      "translation": "电影中的外星人带着来自遥远星系的礼物降临。",
+      "translated_word": "外星人",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every immigrant knows the weight of being labeled an alien.",
+      "style": "Philosophical",
+      "translation": "每个移民都深知被称作\"外国人\"的分量。",
+      "translated_word": "外国人",
+      "display_order": 2
+    },
+    {
+      "sentence": "She drifted through the crowd, an alien among familiar faces.",
+      "style": "Poetic",
+      "translation": "她在人群中飘然而过；熟悉的面孔里，她是唯一的陌生人。",
+      "translated_word": "陌生人",
+      "display_order": 3
+    },
+    {
+      "sentence": "At forty, I moved cities and became an alien in my own country.",
+      "style": "Intimate",
+      "translation": "四十岁那年，我搬去另一座城市，在自己的国度成了异乡人。",
+      "translated_word": "异乡人",
+      "display_order": 4
+    }
+  ]
+}

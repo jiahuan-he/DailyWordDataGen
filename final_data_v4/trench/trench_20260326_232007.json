@@ -1,0 +1,40 @@
+{
+  "word": "trench",
+  "phonetic": "/trentʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "战壕；沟渠；深沟",
+  "examples": [
+    {
+      "sentence": "Soldiers crouched low in the trench, waiting for dawn.",
+      "style": "Contextual",
+      "translation": "士兵们蜷缩在战壕里，等待黎明。",
+      "translated_word": "战壕",
+      "display_order": 1
+    },
+    {
+      "sentence": "The excavation revealed a defensive trench dating back eight centuries.",
+      "style": "Formal",
+      "translation": "此次发掘揭示了一条可追溯至八百年前的防御沟渠。",
+      "translated_word": "沟渠",
+      "display_order": 3
+    },
+    {
+      "sentence": "Rain filled the trench where young men once wrote letters home.",
+      "style": "Poetic",
+      "translation": "雨水注满了战壕，那里曾有年轻人伏案写信寄回故乡。",
+      "translated_word": "战壕",
+      "display_order": 2
+    },
+    {
+      "sentence": "She buttoned her trench and vanished into the autumn fog.",
+      "style": "Collocational",
+      "translation": "她扣好风衣，消失在秋日的薄雾中。",
+      "translated_word": "风衣",
+      "display_order": 4
+    }
+  ]
+}

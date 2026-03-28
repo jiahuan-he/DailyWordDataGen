@@ -1,0 +1,40 @@
+{
+  "word": "foreground",
+  "phonetic": "/ˈfɔːrɡraʊnd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "前景；前台；显要位置",
+  "examples": [
+    {
+      "sentence": "A lone sailboat drifted in the foreground while mountains rose behind.",
+      "style": "Contextual",
+      "translation": "一艘孤帆漂浮于前景，远处群山耸立。",
+      "translated_word": "前景",
+      "display_order": 1
+    },
+    {
+      "sentence": "Recent events have pushed cybersecurity to the foreground.",
+      "style": "Collocational",
+      "translation": "近期事件将网络安全推到了台前。",
+      "translated_word": "台前",
+      "display_order": 2
+    },
+    {
+      "sentence": "Healthcare reform dominates the foreground of this campaign.",
+      "style": "Formal",
+      "translation": "医疗改革是本次竞选的核心议题。",
+      "translated_word": "核心",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we place in the foreground reveals what we value most.",
+      "style": "Philosophical",
+      "translation": "我们置于前景之物，揭示着内心最珍视的一切。",
+      "translated_word": "前景",
+      "display_order": 4
+    }
+  ]
+}

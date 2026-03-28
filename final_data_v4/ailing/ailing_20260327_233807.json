@@ -1,0 +1,41 @@
+{
+  "word": "ailing",
+  "phonetic": "/ˈeɪlɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "生病的；衰弱的；不景气的",
+  "examples": [
+    {
+      "sentence": "She visits her ailing father at the nursing home every Sunday.",
+      "style": "Contextual",
+      "translation": "她每个周日都去疗养院探望生病的父亲。",
+      "translated_word": "生病的",
+      "display_order": 1
+    },
+    {
+      "sentence": "The ailing economy shows few signs of recovery.",
+      "style": "Formal",
+      "translation": "低迷的经济几乎看不到复苏的迹象。",
+      "translated_word": "低迷的",
+      "display_order": 3
+    },
+    {
+      "sentence": "Even ailing roses hold their color before they fall.",
+      "style": "Poetic",
+      "translation": "将谢的玫瑰，在凋落之前仍留有一抹残色。",
+      "translated_word": "将谢的",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's ailing hands still found the strength to hold mine.",
+      "style": "Intimate",
+      "translation": "外婆那双虚弱的手，仍努力握紧了我的。",
+      "translated_word": "虚弱的",
+      "display_order": 2
+    }
+  ]
+}

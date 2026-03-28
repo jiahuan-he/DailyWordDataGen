@@ -1,0 +1,40 @@
+{
+  "word": "wail",
+  "phonetic": "/weɪl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "哀号；痛哭；悲鸣",
+  "examples": [
+    {
+      "sentence": "The wind wailed through the hollow ruins, mourning what once stood.",
+      "style": "Poetic",
+      "translation": "风在空荡的废墟中悲鸣，悼念曾经矗立的一切。",
+      "translated_word": "悲鸣",
+      "display_order": 3
+    },
+    {
+      "sentence": "The child wailed until her mother finally returned.",
+      "style": "Contextual",
+      "translation": "孩子一直哭喊，直到母亲终于回来。",
+      "translated_word": "哭喊",
+      "display_order": 1
+    },
+    {
+      "sentence": "Hearing her wail over the phone, I booked the next flight home.",
+      "style": "Intimate",
+      "translation": "听到她在电话那头的哭声，我订了最近的航班回家。",
+      "translated_word": "哭声",
+      "display_order": 2
+    },
+    {
+      "sentence": "We wail when words cannot carry the weight of loss.",
+      "style": "Philosophical",
+      "translation": "当语言无法承载失去的重量，我们只能哀号。",
+      "translated_word": "哀号",
+      "display_order": 4
+    }
+  ]
+}

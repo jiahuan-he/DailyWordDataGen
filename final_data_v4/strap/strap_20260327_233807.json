@@ -1,0 +1,40 @@
+{
+  "word": "strap",
+  "phonetic": "/stræp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "带子；皮带；绑带",
+  "examples": [
+    {
+      "sentence": "The leather strap of his watch had worn soft over the years.",
+      "style": "Contextual",
+      "translation": "他手表的皮带经年累月，已被磨得柔软。",
+      "translated_word": "皮带",
+      "display_order": 3
+    },
+    {
+      "sentence": "She adjusted the shoulder strap and stepped onto the trail.",
+      "style": "Collocational",
+      "translation": "她整了整肩带，踏上了山径。",
+      "translated_word": "肩带",
+      "display_order": 1
+    },
+    {
+      "sentence": "Authorities urged passengers to hold the overhead straps during sudden stops.",
+      "style": "Formal",
+      "translation": "当局提醒乘客在紧急刹车时抓紧头顶的拉环。",
+      "translated_word": "拉环",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father's guitar still hangs by the same frayed strap he bought in 1987.",
+      "style": "Intimate",
+      "translation": "父亲的吉他至今仍挂着那条1987年买的旧背带，边缘已经磨损。",
+      "translated_word": "背带",
+      "display_order": 2
+    }
+  ]
+}

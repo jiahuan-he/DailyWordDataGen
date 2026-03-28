@@ -1,0 +1,40 @@
+{
+  "word": "craft",
+  "phonetic": "/kræft/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "手艺；工艺；技艺",
+  "examples": [
+    {
+      "sentence": "She has dedicated her life to perfecting her craft.",
+      "style": "Collocational",
+      "translation": "她用一生精进自己的手艺。",
+      "translated_word": "手艺",
+      "display_order": 1
+    },
+    {
+      "sentence": "A craft shapes the maker as much as the material.",
+      "style": "Philosophical",
+      "translation": "手艺塑造匠人，一如匠人塑造材料。",
+      "translated_word": "手艺",
+      "display_order": 3
+    },
+    {
+      "sentence": "In her studio, every finished piece carried the silence of concentration.",
+      "style": "Poetic",
+      "translation": "她的工作室里，每件成品都凝结着专注的静默。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "My father's woodworking taught me that craft is another form of love.",
+      "style": "Intimate",
+      "translation": "父亲的木工活教会我：手艺是爱的另一种表达。",
+      "translated_word": "手艺",
+      "display_order": 2
+    }
+  ]
+}

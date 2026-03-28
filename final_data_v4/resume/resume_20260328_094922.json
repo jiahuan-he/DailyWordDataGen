@@ -1,0 +1,40 @@
+{
+  "word": "resume",
+  "phonetic": "/rɪˈzuːm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "恢复；继续；重新开始",
+  "examples": [
+    {
+      "sentence": "After the power outage, the meeting resumed without missing a beat.",
+      "style": "Contextual",
+      "translation": "停电结束后，会议立刻恢复如常。",
+      "translated_word": "恢复",
+      "display_order": 1
+    },
+    {
+      "sentence": "Diplomatic negotiations are expected to resume following the ceasefire agreement.",
+      "style": "Formal",
+      "translation": "停火协议达成后，外交谈判有望恢复。",
+      "translated_word": "恢复",
+      "display_order": 3
+    },
+    {
+      "sentence": "It is never too late to resume what you once abandoned.",
+      "style": "Inspirational",
+      "translation": "重拾曾经放下的事，永远不嫌太晚。",
+      "translated_word": "重拾",
+      "display_order": 4
+    },
+    {
+      "sentence": "She resumed her morning runs at fifty; her body ached, but her spirit soared.",
+      "style": "Intimate",
+      "translation": "五十岁那年她重新开始晨跑，身体酸痛，内心却无比畅快。",
+      "translated_word": "重新开始",
+      "display_order": 2
+    }
+  ]
+}

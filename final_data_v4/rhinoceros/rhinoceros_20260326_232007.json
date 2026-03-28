@@ -1,0 +1,39 @@
+{
+  "word": "rhinoceros",
+  "phonetic": "/raɪˈnɒsərəs/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "犀牛",
+  "examples": [
+    {
+      "sentence": "The rhinoceros paused at the watering hole, its horn casting a long shadow.",
+      "style": "Contextual",
+      "translation": "犀牛在水潭边驻足，长角投下一道斜影。",
+      "translated_word": "犀牛",
+      "display_order": 1
+    },
+    {
+      "sentence": "Poachers killed three rhinoceroses in the reserve last month alone.",
+      "style": "Formal",
+      "translation": "仅上月，偷猎者就在该保护区猎杀了三头犀牛。",
+      "translated_word": "犀牛",
+      "display_order": 2
+    },
+    {
+      "sentence": "The rhinoceros stood alone on the plain, armored in patience and dust.",
+      "style": "Poetic",
+      "translation": "犀牛独立于旷野，披一身尘土与沉静。",
+      "translated_word": "犀牛",
+      "display_order": 3
+    },
+    {
+      "sentence": "A rhinoceros asks nothing of the world; perhaps that is why we take everything from it.",
+      "style": "Philosophical",
+      "translation": "犀牛从不向世界索取；也许正因如此，我们才对它予取予求。",
+      "translated_word": "犀牛",
+      "display_order": 4
+    }
+  ]
+}

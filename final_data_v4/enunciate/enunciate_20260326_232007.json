@@ -1,0 +1,39 @@
+{
+  "word": "enunciate",
+  "phonetic": "/ɪˈnʌnsieɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "清晰发音；阐明；明确表达",
+  "examples": [
+    {
+      "sentence": "The actor enunciated every syllable, letting the old poem breathe.",
+      "style": "Contextual",
+      "translation": "演员将每个音节咬得清晰分明，让古老的诗句重获呼吸。",
+      "translated_word": "清晰分明",
+      "display_order": 2
+    },
+    {
+      "sentence": "Speakers must enunciate precisely when addressing international delegates.",
+      "style": "Formal",
+      "translation": "在面向各国代表发言时，演讲者必须做到字正腔圆。",
+      "translated_word": "字正腔圆",
+      "display_order": 3
+    },
+    {
+      "sentence": "She enunciated her words slowly, as if teaching a child to listen.",
+      "style": "Collocational",
+      "translation": "她放慢语速，一字一顿，仿佛在教一个孩子学会倾听。",
+      "translated_word": "一字一顿",
+      "display_order": 1
+    },
+    {
+      "sentence": "My grandmother could barely enunciate by the end, yet I understood every word.",
+      "style": "Intimate",
+      "translation": "祖母临终前已几乎说不清话，但每一个字我都懂。",
+      "translated_word": "说不清话",
+      "display_order": 4
+    }
+  ]
+}

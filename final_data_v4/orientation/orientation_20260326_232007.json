@@ -1,0 +1,39 @@
+{
+  "word": "orientation",
+  "phonetic": "/ˌɔːriənˈteɪʃn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "方向；取向；定位；入门培训",
+  "examples": [
+    {
+      "sentence": "New hires attend a three-day orientation before joining their teams.",
+      "style": "Contextual",
+      "translation": "新员工在正式加入团队前，需参加为期三天的入职培训。",
+      "translated_word": "入职培训",
+      "display_order": 1
+    },
+    {
+      "sentence": "The program's global orientation reflects the company's expanding international presence.",
+      "style": "Formal",
+      "translation": "该项目的全球化定位，彰显了公司日益扩大的国际影响力。",
+      "translated_word": "定位",
+      "display_order": 3
+    },
+    {
+      "sentence": "Our orientation toward uncertainty shapes the texture of our days.",
+      "style": "Philosophical",
+      "translation": "我们面对未知的态度，塑造着日常生活的质地。",
+      "translated_word": "态度",
+      "display_order": 4
+    },
+    {
+      "sentence": "Somewhere between doubt and discovery, I found my orientation.",
+      "style": "Intimate",
+      "translation": "在疑惑与探索之间，我终于找到了自己的方向。",
+      "translated_word": "方向",
+      "display_order": 2
+    }
+  ]
+}

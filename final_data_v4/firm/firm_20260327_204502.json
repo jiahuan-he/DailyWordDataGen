@@ -1,0 +1,41 @@
+{
+  "word": "firm",
+  "phonetic": "/fɜːrm/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "坚定的；牢固的；结实的",
+  "examples": [
+    {
+      "sentence": "Her firm handshake told me everything I needed to know.",
+      "style": "Contextual",
+      "translation": "她有力的握手已说明了一切。",
+      "translated_word": "有力的",
+      "display_order": 2
+    },
+    {
+      "sentence": "He kept a firm grip on the railing as the boat swayed.",
+      "style": "Collocational",
+      "translation": "船身摇晃时，他紧紧握住栏杆。",
+      "translated_word": "紧紧",
+      "display_order": 1
+    },
+    {
+      "sentence": "Stay firm in your convictions; the world will make room.",
+      "style": "Inspirational",
+      "translation": "坚守信念；世界终会为你让路。",
+      "translated_word": "坚守",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother spoke softly, but her advice was always firm.",
+      "style": "Intimate",
+      "translation": "祖母说话轻柔，忠告却从不含糊。",
+      "translated_word": "不含糊",
+      "display_order": 4
+    }
+  ]
+}

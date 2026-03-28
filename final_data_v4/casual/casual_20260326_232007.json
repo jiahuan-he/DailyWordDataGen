@@ -1,0 +1,40 @@
+{
+  "word": "casual",
+  "phonetic": "/ˈkæʒuəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "随意的；休闲的；偶然的",
+  "examples": [
+    {
+      "sentence": "His tone was casual, but his eyes were calculating.",
+      "style": "Contrastive",
+      "translation": "他的语气漫不经心，目光却精于算计。",
+      "translated_word": "漫不经心",
+      "display_order": 3
+    },
+    {
+      "sentence": "She prefers casual clothes even at the office.",
+      "style": "Collocational",
+      "translation": "她即使在办公室也偏爱休闲装扮。",
+      "translated_word": "休闲",
+      "display_order": 1
+    },
+    {
+      "sentence": "Their first meeting was casual: a shared table at a crowded café.",
+      "style": "Contextual",
+      "translation": "他们的初遇很随意：在拥挤的咖啡馆里共用了一张桌子。",
+      "translated_word": "随意",
+      "display_order": 2
+    },
+    {
+      "sentence": "We kept things casual at first, afraid to name what we already knew.",
+      "style": "Intimate",
+      "translation": "起初我们刻意保持随意，不敢说破心中早已明了的事。",
+      "translated_word": "随意",
+      "display_order": 4
+    }
+  ]
+}

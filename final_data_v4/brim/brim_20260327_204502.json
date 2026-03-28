@@ -1,0 +1,41 @@
+{
+  "word": "brim",
+  "phonetic": "/brɪm/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "边缘；帽檐；杯沿",
+  "examples": [
+    {
+      "sentence": "Rain dripped from the brim of his old fishing hat.",
+      "style": "Contextual",
+      "translation": "雨水从他那顶旧渔夫帽的帽檐滴落。",
+      "translated_word": "帽檐",
+      "display_order": 1
+    },
+    {
+      "sentence": "She poured the tea until it reached the brim.",
+      "style": "Collocational",
+      "translation": "她把茶倒得满到杯沿。",
+      "translated_word": "杯沿",
+      "display_order": 3
+    },
+    {
+      "sentence": "Morning light pooled along the brim of her sunhat.",
+      "style": "Poetic",
+      "translation": "晨光在她遮阳帽的帽檐上汇成一道光晕。",
+      "translated_word": "帽檐",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather always tipped the brim of his hat when greeting strangers.",
+      "style": "Intimate",
+      "translation": "祖父遇到陌生人时，总会轻轻扬起帽檐致意。",
+      "translated_word": "帽檐",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "arithmetic",
+  "phonetic": "/əˈrɪθmətɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "算术；四则运算；计算",
+  "examples": [
+    {
+      "sentence": "She taught her daughter basic arithmetic using apples from the kitchen.",
+      "style": "Contextual",
+      "translation": "她用厨房里的苹果教女儿基础算术。",
+      "translated_word": "算术",
+      "display_order": 1
+    },
+    {
+      "sentence": "The arithmetic of grief is strange: one loss can feel heavier than ten.",
+      "style": "Philosophical",
+      "translation": "悲伤的算术很奇怪：一次失去，有时比十次更沉重。",
+      "translated_word": "算术",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandfather checked the bill with mental arithmetic, never trusting calculators.",
+      "style": "Intimate",
+      "translation": "外公总用心算核对账单，从不信任计算器。",
+      "translated_word": "心算",
+      "display_order": 2
+    },
+    {
+      "sentence": "The report revealed troubling arithmetic: expenditures had doubled while revenue declined.",
+      "style": "Formal",
+      "translation": "报告揭示了令人担忧的数字：支出翻倍，收入却在下滑。",
+      "translated_word": "数字",
+      "display_order": 3
+    }
+  ]
+}

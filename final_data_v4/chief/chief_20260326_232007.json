@@ -1,0 +1,41 @@
+{
+  "word": "chief",
+  "phonetic": "/tʃiːf/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "主要的；首要的；首席的",
+  "examples": [
+    {
+      "sentence": "Her chief concern was not the salary, but the team.",
+      "style": "Contextual",
+      "translation": "她最在意的不是薪水，而是团队。",
+      "translated_word": "最",
+      "display_order": 2
+    },
+    {
+      "sentence": "The committee cited rising costs as the chief barrier to expansion.",
+      "style": "Formal",
+      "translation": "委员会将成本上涨列为扩张的首要障碍。",
+      "translated_word": "首要",
+      "display_order": 1
+    },
+    {
+      "sentence": "Clarity is the chief virtue of good writing.",
+      "style": "Collocational",
+      "translation": "清晰是优秀写作的第一要义。",
+      "translated_word": "第一",
+      "display_order": 3
+    },
+    {
+      "sentence": "Many factors delayed the project, but poor communication was the chief one.",
+      "style": "Contrastive",
+      "translation": "项目延误原因众多，但沟通不畅才是症结所在。",
+      "translated_word": "症结",
+      "display_order": 4
+    }
+  ]
+}

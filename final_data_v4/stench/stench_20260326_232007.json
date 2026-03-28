@@ -1,0 +1,40 @@
+{
+  "word": "stench",
+  "phonetic": "/stɛntʃ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "恶臭；臭气；腐臭",
+  "examples": [
+    {
+      "sentence": "The stench from the alley made her quicken her pace.",
+      "style": "Contextual",
+      "translation": "小巷里传来的恶臭让她加快了脚步。",
+      "translated_word": "恶臭",
+      "display_order": 1
+    },
+    {
+      "sentence": "Investigators traced the stench to a ruptured sewage pipe beneath the school.",
+      "style": "Formal",
+      "translation": "调查人员追溯臭味来源，发现是学校地下的污水管破裂所致。",
+      "translated_word": "臭味",
+      "display_order": 2
+    },
+    {
+      "sentence": "Wealth perfumed cannot mask the stench of how it was earned.",
+      "style": "Philosophical",
+      "translation": "再名贵的香水，也遮不住财富来路的腐臭。",
+      "translated_word": "腐臭",
+      "display_order": 4
+    },
+    {
+      "sentence": "The fish market at dawn: salt, ice, and the honest stench of the sea.",
+      "style": "Poetic",
+      "translation": "黎明的鱼市：盐粒、碎冰，与大海坦荡的腥臭。",
+      "translated_word": "腥臭",
+      "display_order": 3
+    }
+  ]
+}

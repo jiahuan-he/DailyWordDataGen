@@ -1,0 +1,40 @@
+{
+  "word": "nip",
+  "phonetic": "/nɪp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "掐；咬；阻止；迅速去",
+  "examples": [
+    {
+      "sentence": "The puppy kept trying to nip my fingers during playtime.",
+      "style": "Contextual",
+      "translation": "小狗玩耍时不停地想咬我的手指。",
+      "translated_word": "咬",
+      "display_order": 1
+    },
+    {
+      "sentence": "She nipped the rumor in the bud before it could spread.",
+      "style": "Collocational",
+      "translation": "她将谣言扼杀在萌芽之中。",
+      "translated_word": "扼杀",
+      "display_order": 4
+    },
+    {
+      "sentence": "Autumn winds nip the last warmth from the afternoon.",
+      "style": "Poetic",
+      "translation": "秋风轻咬，偷走午后最后一丝暖意。",
+      "translated_word": "轻咬",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother would nip fresh mint from her windowsill each morning.",
+      "style": "Intimate",
+      "translation": "外婆每天早晨都会从窗台上掐几片新鲜的薄荷。",
+      "translated_word": "掐",
+      "display_order": 2
+    }
+  ]
+}

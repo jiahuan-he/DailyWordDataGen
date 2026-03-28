@@ -1,0 +1,40 @@
+{
+  "word": "heel",
+  "phonetic": "/hiːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "脚跟；鞋跟；后跟",
+  "examples": [
+    {
+      "sentence": "The blister on my heel turned every step into a negotiation.",
+      "style": "Contextual",
+      "translation": "脚跟上的水泡，让每一步都成了一场博弈。",
+      "translated_word": "脚跟",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her heels clicked a confident rhythm across the marble lobby.",
+      "style": "Collocational",
+      "translation": "她的高跟鞋在大理石大堂里敲出自信的节拍。",
+      "translated_word": "高跟鞋",
+      "display_order": 4
+    },
+    {
+      "sentence": "My mother's heels echoed down the hallway each morning before dawn.",
+      "style": "Intimate",
+      "translation": "母亲的高跟鞋声，每个清晨天未亮便在走廊里回响。",
+      "translated_word": "高跟鞋",
+      "display_order": 2
+    },
+    {
+      "sentence": "Frost crunches beneath the heel of the first walker at daybreak.",
+      "style": "Poetic",
+      "translation": "晨曦中，第一个行人的脚跟踏碎了薄霜。",
+      "translated_word": "脚跟",
+      "display_order": 3
+    }
+  ]
+}

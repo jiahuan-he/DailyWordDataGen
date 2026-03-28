@@ -1,0 +1,42 @@
+{
+  "word": "loose",
+  "phonetic": "/luːs/",
+  "pos": [
+    "adjective",
+    "interjection",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "松的；宽松的；散开的；不严格的",
+  "examples": [
+    {
+      "sentence": "The screw had come loose, and the shelf finally gave way.",
+      "style": "Contextual",
+      "translation": "螺丝松了，书架终于塌了下来。",
+      "translated_word": "松",
+      "display_order": 2
+    },
+    {
+      "sentence": "She prefers loose interpretations of the rules.",
+      "style": "Collocational",
+      "translation": "她偏爱对规则的宽松解读。",
+      "translated_word": "宽松",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her hair fell loose across the pillow like spilled ink.",
+      "style": "Poetic",
+      "translation": "她的长发散落枕上，如墨泼宣纸。",
+      "translated_word": "散落",
+      "display_order": 4
+    },
+    {
+      "sentence": "That summer, I wore my father's loose shirts and pretended to be grown.",
+      "style": "Intimate",
+      "translation": "那年夏天，我穿着父亲宽大的衬衫，假装自己已经长大。",
+      "translated_word": "宽大",
+      "display_order": 1
+    }
+  ]
+}

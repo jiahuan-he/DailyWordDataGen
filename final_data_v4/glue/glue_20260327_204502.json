@@ -1,0 +1,40 @@
+{
+  "word": "glue",
+  "phonetic": "/ɡluː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "胶水；黏合剂；粘结物",
+  "examples": [
+    {
+      "sentence": "The envelope wouldn't seal; it needed more glue.",
+      "style": "Contextual",
+      "translation": "信封封不上，需要再涂点胶水。",
+      "translated_word": "胶水",
+      "display_order": 1
+    },
+    {
+      "sentence": "She reached for the glue stick to finish the collage.",
+      "style": "Collocational",
+      "translation": "她拿起胶棒，完成拼贴画的最后一步。",
+      "translated_word": "胶",
+      "display_order": 4
+    },
+    {
+      "sentence": "Trust is the glue holding fragile alliances together.",
+      "style": "Philosophical",
+      "translation": "信任是维系脆弱联盟的黏合剂。",
+      "translated_word": "黏合剂",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother's kitchen table, mended with glue, outlasted her by decades.",
+      "style": "Intimate",
+      "translation": "外婆用胶水修补过的餐桌，在她走后又陪伴了我们几十年。",
+      "translated_word": "胶水",
+      "display_order": 2
+    }
+  ]
+}

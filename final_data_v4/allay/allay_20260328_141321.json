@@ -1,0 +1,40 @@
+{
+  "word": "allay",
+  "phonetic": "/əˈleɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "减轻；消除；平息；缓解",
+  "examples": [
+    {
+      "sentence": "Her calm voice allayed his growing panic.",
+      "style": "Contextual",
+      "translation": "她平静的声音消解了他渐涨的恐慌。",
+      "translated_word": "消解",
+      "display_order": 1
+    },
+    {
+      "sentence": "The CEO's statement did little to allay investor concerns.",
+      "style": "Formal",
+      "translation": "首席执行官的声明未能有效缓解投资者的担忧。",
+      "translated_word": "缓解",
+      "display_order": 3
+    },
+    {
+      "sentence": "We seek certainty to allay fears that certainty cannot cure.",
+      "style": "Philosophical",
+      "translation": "我们追寻确定性来平息恐惧，而恐惧本身却非确定性所能治愈。",
+      "translated_word": "平息",
+      "display_order": 4
+    },
+    {
+      "sentence": "One phone call from my mother can allay a week of quiet dread.",
+      "style": "Intimate",
+      "translation": "母亲的一通电话，便能消融一整周的隐隐不安。",
+      "translated_word": "消融",
+      "display_order": 2
+    }
+  ]
+}

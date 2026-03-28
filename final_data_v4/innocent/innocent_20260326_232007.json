@@ -1,0 +1,40 @@
+{
+  "word": "innocent",
+  "phonetic": "/ˈɪnəsənt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "无辜的；天真的；纯真的",
+  "examples": [
+    {
+      "sentence": "The jury found him innocent after reviewing new evidence.",
+      "style": "Contextual",
+      "translation": "陪审团在审查新证据后，判定他无罪。",
+      "translated_word": "无罪",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her questions were innocent; she simply didn't know the history between us.",
+      "style": "Contrastive",
+      "translation": "她的提问并无恶意；她只是不了解我们之间的过往。",
+      "translated_word": "无恶意",
+      "display_order": 4
+    },
+    {
+      "sentence": "Children see the world with innocent eyes, finding wonder in what we overlook.",
+      "style": "Poetic",
+      "translation": "孩子用纯真的眼睛看世界，在我们忽略之处发现惊奇。",
+      "translated_word": "纯真",
+      "display_order": 1
+    },
+    {
+      "sentence": "At eighteen, I was innocent enough to believe love could solve everything.",
+      "style": "Intimate",
+      "translation": "十八岁那年，我天真地以为爱可以解决一切。",
+      "translated_word": "天真",
+      "display_order": 2
+    }
+  ]
+}

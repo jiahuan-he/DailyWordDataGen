@@ -1,0 +1,40 @@
+{
+  "word": "warden",
+  "phonetic": "/ˈwɔːrdən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "看守；监狱长；管理员；守护者",
+  "examples": [
+    {
+      "sentence": "The warden walked the cellblock at dawn, keys jingling with each step.",
+      "style": "Contextual",
+      "translation": "典狱长在黎明时分巡视牢房，钥匙随着脚步叮当作响。",
+      "translated_word": "典狱长",
+      "display_order": 1
+    },
+    {
+      "sentence": "The park warden reported a sharp rise in illegal poaching incidents.",
+      "style": "Formal",
+      "translation": "公园管理员报告称非法偷猎事件急剧增加。",
+      "translated_word": "管理员",
+      "display_order": 2
+    },
+    {
+      "sentence": "A game warden's territory can span hundreds of miles.",
+      "style": "Collocational",
+      "translation": "野生动物管理员的辖区可横跨数百英里。",
+      "translated_word": "管理员",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every warden eventually wonders who truly guards whom.",
+      "style": "Philosophical",
+      "translation": "每个守护者终会思考：究竟是谁在守护谁。",
+      "translated_word": "守护者",
+      "display_order": 4
+    }
+  ]
+}

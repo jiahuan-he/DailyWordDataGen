@@ -1,0 +1,40 @@
+{
+  "word": "flavor",
+  "phonetic": "/ˈfleɪvər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "味道；风味；特色；韵味",
+  "examples": [
+    {
+      "sentence": "Fresh basil gives the sauce its signature flavor.",
+      "style": "Contextual",
+      "translation": "新鲜罗勒赋予酱汁独特的风味。",
+      "translated_word": "风味",
+      "display_order": 1
+    },
+    {
+      "sentence": "The old market captures the local flavor of the town.",
+      "style": "Collocational",
+      "translation": "老市场凝聚着小镇的地方风情。",
+      "translated_word": "风情",
+      "display_order": 3
+    },
+    {
+      "sentence": "Summer has a flavor: sun-warmed peaches and salt on the skin.",
+      "style": "Poetic",
+      "translation": "夏天有一种味道：阳光温热的蜜桃，肌肤上的盐粒。",
+      "translated_word": "味道",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's kitchen held a flavor no recipe could recreate.",
+      "style": "Intimate",
+      "translation": "外婆的厨房藏着一种味道，任何食谱都无法复刻。",
+      "translated_word": "味道",
+      "display_order": 2
+    }
+  ]
+}

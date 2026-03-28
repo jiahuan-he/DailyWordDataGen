@@ -1,0 +1,39 @@
+{
+  "word": "moody",
+  "phonetic": "/ˈmuːdi/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "喜怒无常；情绪化；忧郁",
+  "examples": [
+    {
+      "sentence": "The weather has been moody all week: sunshine one hour, storms the next.",
+      "style": "Contextual",
+      "translation": "这一整周天气都阴晴不定：前一刻阳光灿烂，下一刻暴雨倾盆。",
+      "translated_word": "阴晴不定",
+      "display_order": 2
+    },
+    {
+      "sentence": "The sea grew moody under heavy clouds, its waves restless and gray.",
+      "style": "Poetic",
+      "translation": "乌云压顶，海面变得阴沉，浪涛翻涌，灰蒙蒙一片。",
+      "translated_word": "阴沉",
+      "display_order": 3
+    },
+    {
+      "sentence": "She warned me she was moody before coffee; I learned to love her quiet mornings.",
+      "style": "Intimate",
+      "translation": "她说她喝咖啡前脾气不好；我学会了爱上她沉默的清晨。",
+      "translated_word": "脾气不好",
+      "display_order": 1
+    },
+    {
+      "sentence": "We forgive the sky for being moody, yet expect constancy from people.",
+      "style": "Philosophical",
+      "translation": "我们原谅天空的阴晴不定，却苛求人心始终如一。",
+      "translated_word": "阴晴不定",
+      "display_order": 4
+    }
+  ]
+}

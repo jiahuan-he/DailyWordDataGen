@@ -1,0 +1,40 @@
+{
+  "word": "illegal",
+  "phonetic": "/ɪˈliːɡl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "非法的；违法的；不合法的",
+  "examples": [
+    {
+      "sentence": "The street vendor vanished the moment a police car turned the corner; everyone knew his goods were illegal.",
+      "style": "Contextual",
+      "translation": "警车刚一拐弯，街边小贩便消失无踪；人人都清楚他的货来路不正。",
+      "translated_word": "来路不正",
+      "display_order": 2
+    },
+    {
+      "sentence": "Authorities seized over two tons of illegal wildlife products at the border checkpoint.",
+      "style": "Formal",
+      "translation": "当局在边境关卡查获了超过两吨的非法野生动物制品。",
+      "translated_word": "非法",
+      "display_order": 1
+    },
+    {
+      "sentence": "Illegal downloads nearly bankrupted the industry before streaming changed everything.",
+      "style": "Collocational",
+      "translation": "非法下载几乎让整个行业破产，直到流媒体的出现改变了一切。",
+      "translated_word": "非法",
+      "display_order": 3
+    },
+    {
+      "sentence": "What is illegal today may become a right tomorrow; the law is slower than conscience.",
+      "style": "Philosophical",
+      "translation": "今日之违禁，或成明日之权利；法律的脚步，总慢于良知。",
+      "translated_word": "违禁",
+      "display_order": 4
+    }
+  ]
+}

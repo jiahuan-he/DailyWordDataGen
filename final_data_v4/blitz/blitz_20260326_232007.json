@@ -1,0 +1,40 @@
+{
+  "word": "blitz",
+  "phonetic": "/blɪts/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "闪电战；突袭；密集攻势",
+  "examples": [
+    {
+      "sentence": "The team launched a weekend blitz to finish the project before Monday.",
+      "style": "Contextual",
+      "translation": "团队发起周末突击，力争周一前完工。",
+      "translated_word": "突击",
+      "display_order": 2
+    },
+    {
+      "sentence": "The company's advertising blitz reached fifty million viewers in three days.",
+      "style": "Formal",
+      "translation": "公司的广告攻势在三天内触达五千万观众。",
+      "translated_word": "攻势",
+      "display_order": 1
+    },
+    {
+      "sentence": "A media blitz flooded every platform with teasers before the album drop.",
+      "style": "Collocational",
+      "translation": "专辑发行前，媒体攻势席卷各大平台，预告铺天盖地。",
+      "translated_word": "攻势",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sometimes progress demands a blitz: brief, intense, and all-consuming.",
+      "style": "Inspirational",
+      "translation": "有时进步需要一场闪电战：短暂、激烈、全力以赴。",
+      "translated_word": "闪电战",
+      "display_order": 4
+    }
+  ]
+}

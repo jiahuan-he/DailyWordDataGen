@@ -1,0 +1,40 @@
+{
+  "word": "circumstance",
+  "phonetic": "/ˈsɜːrkəmstæns/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "情况；处境；境遇",
+  "examples": [
+    {
+      "sentence": "Given the circumstance, postponing the trip seemed wise.",
+      "style": "Contextual",
+      "translation": "鉴于当时的情况，推迟行程是明智之举。",
+      "translated_word": "情况",
+      "display_order": 1
+    },
+    {
+      "sentence": "The report detailed the circumstances leading to the system failure.",
+      "style": "Formal",
+      "translation": "报告详述了导致系统故障的种种情况。",
+      "translated_word": "情况",
+      "display_order": 2
+    },
+    {
+      "sentence": "Circumstance reveals character more than it shapes it.",
+      "style": "Philosophical",
+      "translation": "境遇不塑造性格，而是揭示性格。",
+      "translated_word": "境遇",
+      "display_order": 4
+    },
+    {
+      "sentence": "Your circumstance is a starting point, never a ceiling.",
+      "style": "Inspirational",
+      "translation": "你的处境是起点，绝非终点。",
+      "translated_word": "处境",
+      "display_order": 3
+    }
+  ]
+}

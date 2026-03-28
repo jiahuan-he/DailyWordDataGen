@@ -1,0 +1,40 @@
+{
+  "word": "defined",
+  "phonetic": "/dɪˈfaɪnd/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "清晰的；明确的；轮廓分明的",
+  "examples": [
+    {
+      "sentence": "The mountain range stood in sharp, defined silhouettes against the winter sky.",
+      "style": "Contextual",
+      "translation": "群山轮廓分明，在冬日的天空下勾勒出锐利的剪影。",
+      "translated_word": "分明",
+      "display_order": 3
+    },
+    {
+      "sentence": "The new policy establishes clearly defined boundaries between departments.",
+      "style": "Formal",
+      "translation": "新政策在各部门之间划定了清晰明确的职责边界。",
+      "translated_word": "明确",
+      "display_order": 1
+    },
+    {
+      "sentence": "Her well-defined goals kept her steady through the chaos.",
+      "style": "Collocational",
+      "translation": "明确的目标让她在纷乱中保持笃定。",
+      "translated_word": "明确",
+      "display_order": 2
+    },
+    {
+      "sentence": "The less defined the path, the more freedom you have to wander.",
+      "style": "Philosophical",
+      "translation": "道路越模糊，漫步的自由便越辽阔。",
+      "translated_word": null,
+      "display_order": 4
+    }
+  ]
+}

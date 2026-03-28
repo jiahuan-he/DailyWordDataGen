@@ -1,0 +1,39 @@
+{
+  "word": "literacy",
+  "phonetic": "/ˈlɪtərəsi/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "读写能力；识字；素养",
+  "examples": [
+    {
+      "sentence": "The village's first school brought literacy to families who had only known spoken word.",
+      "style": "Contextual",
+      "translation": "村里的第一所学校，为世代口耳相传的家庭带来了读写的启蒙。",
+      "translated_word": "读写",
+      "display_order": 1
+    },
+    {
+      "sentence": "Financial literacy now ranks among the most critical skills for young professionals.",
+      "style": "Formal",
+      "translation": "财务素养已跻身年轻职场人士最关键的技能之列。",
+      "translated_word": "素养",
+      "display_order": 3
+    },
+    {
+      "sentence": "True literacy begins when you learn to question what you read.",
+      "style": "Philosophical",
+      "translation": "真正的素养，始于你学会质疑所读之物。",
+      "translated_word": "素养",
+      "display_order": 4
+    },
+    {
+      "sentence": "Literacy unlocks doors that poverty tries to seal shut.",
+      "style": "Inspirational",
+      "translation": "识字打开的门，是贫穷试图封锁的门。",
+      "translated_word": "识字",
+      "display_order": 2
+    }
+  ]
+}

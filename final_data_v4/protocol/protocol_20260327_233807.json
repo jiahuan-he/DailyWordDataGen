@@ -1,0 +1,40 @@
+{
+  "word": "protocol",
+  "phonetic": "/ˈproʊtəkɔːl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "礼仪；规程；协议",
+  "examples": [
+    {
+      "sentence": "The embassy's protocol demanded silence until the ambassador spoke.",
+      "style": "Contextual",
+      "translation": "使馆的礼仪规定，大使开口前须保持沉默。",
+      "translated_word": "礼仪",
+      "display_order": 2
+    },
+    {
+      "sentence": "A breach of protocol nearly derailed the peace negotiations.",
+      "style": "Formal",
+      "translation": "一次礼节上的失误险些使和平谈判功亏一篑。",
+      "translated_word": "礼节",
+      "display_order": 3
+    },
+    {
+      "sentence": "Protocol tells you when to bow; intuition tells you when to speak.",
+      "style": "Contrastive",
+      "translation": "规程教你何时鞠躬，直觉教你何时开口。",
+      "translated_word": "规程",
+      "display_order": 4
+    },
+    {
+      "sentence": "Standard protocol: knock twice, wait three seconds, enter.",
+      "style": "Collocational",
+      "translation": "标准程序：敲两下，等三秒，然后进入。",
+      "translated_word": "程序",
+      "display_order": 1
+    }
+  ]
+}

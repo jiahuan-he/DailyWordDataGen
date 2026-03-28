@@ -1,0 +1,40 @@
+{
+  "word": "chum",
+  "phonetic": "/tʃʌm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "好友；伙伴；密友",
+  "examples": [
+    {
+      "sentence": "He spotted his old chum across the café and smiled.",
+      "style": "Contextual",
+      "translation": "他在咖啡馆对面认出了老友，微微一笑。",
+      "translated_word": "老友",
+      "display_order": 1
+    },
+    {
+      "sentence": "An old chum called out of the blue, and twenty years felt like yesterday.",
+      "style": "Collocational",
+      "translation": "老友忽然来电，二十年光阴恍如昨日。",
+      "translated_word": "老友",
+      "display_order": 2
+    },
+    {
+      "sentence": "A chum is someone who remembers you before the world asked you to change.",
+      "style": "Poetic",
+      "translation": "挚友，是记得你本来模样的人。",
+      "translated_word": "挚友",
+      "display_order": 3
+    },
+    {
+      "sentence": "My childhood chum sent a postcard with no message; some bonds need no words.",
+      "style": "Intimate",
+      "translation": "儿时玩伴寄来一张空白明信片；有些情谊无需言语。",
+      "translated_word": "玩伴",
+      "display_order": 4
+    }
+  ]
+}

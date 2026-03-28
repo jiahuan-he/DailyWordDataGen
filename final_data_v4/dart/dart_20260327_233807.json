@@ -1,0 +1,40 @@
+{
+  "word": "dart",
+  "phonetic": "/dɑːrt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "飞掠；急冲；瞥视",
+  "examples": [
+    {
+      "sentence": "A sparrow darted through the open window and vanished.",
+      "style": "Contextual",
+      "translation": "一只麻雀从敞开的窗户飞掠而过，转瞬不见。",
+      "translated_word": "飞掠",
+      "display_order": 1
+    },
+    {
+      "sentence": "Fireflies darted between the reeds, stitching light into the dusk.",
+      "style": "Poetic",
+      "translation": "流萤在芦苇间穿梭，将点点光芒缝进暮色。",
+      "translated_word": "穿梭",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her eyes darted to the door whenever footsteps echoed in the hall.",
+      "style": "Collocational",
+      "translation": "每当走廊里响起脚步声，她的目光便飞速瞥向门口。",
+      "translated_word": "飞速瞥",
+      "display_order": 2
+    },
+    {
+      "sentence": "The way your gaze darted away told me everything your words wouldn't.",
+      "style": "Intimate",
+      "translation": "你闪躲的目光，已说尽了你不肯言说的一切。",
+      "translated_word": "闪躲",
+      "display_order": 4
+    }
+  ]
+}
