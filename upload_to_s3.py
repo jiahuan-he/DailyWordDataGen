@@ -10,12 +10,13 @@ import boto3
 from botocore.exceptions import ClientError
 from tqdm import tqdm
 
-from config import FINAL_DATA_DIR
+import config as app_config
 
 BUCKET_NAME = "dailyword-words-v2"
 SOURCE_DIR = Path(__file__).parent / "source"
 REGION = "ap-southeast-1"
 S3_PREFIX = "words/"
+S3_AUDIO_PREFIX = "audio/"
 CLOUDFRONT_DISTRIBUTION_ID = "E34S0D0HGF4Q4B"
 OAC_NAME = "dailyword-words-v2-oac"
 
@@ -141,22 +142,22 @@ def discover_words(words=None):
 
     Returns list of (word_folder_name, json_path) tuples.
     """
-    if not FINAL_DATA_DIR.is_dir():
-        print(f"Error: {FINAL_DATA_DIR} does not exist.")
+    if not app_config.FINAL_DATA_DIR.is_dir():
+        print(f"Error: {app_config.FINAL_DATA_DIR} does not exist.")
         sys.exit(1)
 
     if words:
         folders = []
         for w in words:
             # Try exact folder name first, then sanitized
-            folder = FINAL_DATA_DIR / w
+            folder = app_config.FINAL_DATA_DIR / w
             if not folder.is_dir():
                 print(f"Warning: folder not found for word '{w}', skipping.")
                 continue
             folders.append(folder)
     else:
         folders = sorted(
-            [d for d in FINAL_DATA_DIR.iterdir() if d.is_dir()],
+            [d for d in app_config.FINAL_DATA_DIR.iterdir() if d.is_dir()],
             key=lambda d: d.name,
         )
 
@@ -185,7 +186,7 @@ def upload_words(words=None, dry_run=False):
         print(f"Dry run — {len(entries)} words would be uploaded:\n")
         for folder_name, json_path in entries:
             s3_key = f"{S3_PREFIX}{folder_name}.json"
-            print(f"  {json_path.relative_to(FINAL_DATA_DIR.parent)} → {s3_key}")
+            print(f"  {json_path.relative_to(app_config.FINAL_DATA_DIR.parent)} → {s3_key}")
         return
 
     s3 = get_s3_client()
@@ -244,7 +245,7 @@ def upload_words_incremental(words=None, dry_run=False, force=False):
         print(f"\nDry run — new words that would be uploaded:\n")
         for folder_name, json_path in to_upload:
             s3_key = f"{S3_PREFIX}{folder_name}.json"
-            print(f"  {json_path.relative_to(FINAL_DATA_DIR.parent)} → {s3_key}")
+            print(f"  {json_path.relative_to(app_config.FINAL_DATA_DIR.parent)} → {s3_key}")
         return
 
     uploaded = 0
@@ -276,9 +277,9 @@ def update_cloudfront():
     """Add or update the S3 origin and words/* cache behavior on the CloudFront distribution."""
     cf = get_cloudfront_client()
 
-    # Get current config
+    # Get current distribution config
     resp = cf.get_distribution_config(Id=CLOUDFRONT_DISTRIBUTION_ID)
-    config = resp["DistributionConfig"]
+    dist_config = resp["DistributionConfig"]
     etag = resp["ETag"]
 
     # Find OAC ID
@@ -312,7 +313,7 @@ def update_cloudfront():
         "ConnectionTimeout": 10,
     }
 
-    origins = config["Origins"]["Items"]
+    origins = dist_config["Origins"]["Items"]
     replaced = False
     for i, o in enumerate(origins):
         if o["Id"] == origin_id:
@@ -321,11 +322,13 @@ def update_cloudfront():
             break
     if not replaced:
         origins.append(new_origin)
-        config["Origins"]["Quantity"] = len(origins)
+        dist_config["Origins"]["Quantity"] = len(origins)
 
-    # ── Upsert cache behavior for words/* ──
-    new_behavior = {
-        "PathPattern": "words/*",
+    # ── Upsert cache behaviors for words/* and audio/* ──
+    cache_patterns = ["words/*", "audio/*"]
+    behaviors = dist_config.get("CacheBehaviors", {}).get("Items", [])
+
+    base_behavior = {
         "TargetOriginId": origin_id,
         "ViewerProtocolPolicy": "redirect-to-https",
         "AllowedMethods": {
@@ -341,17 +344,18 @@ def update_cloudfront():
         "FunctionAssociations": {"Quantity": 0},
     }
 
-    behaviors = config.get("CacheBehaviors", {}).get("Items", [])
-    replaced = False
-    for i, b in enumerate(behaviors):
-        if b["PathPattern"] == "words/*":
-            behaviors[i] = new_behavior
-            replaced = True
-            break
-    if not replaced:
-        behaviors.append(new_behavior)
+    for pattern in cache_patterns:
+        new_behavior = {**base_behavior, "PathPattern": pattern}
+        replaced = False
+        for i, b in enumerate(behaviors):
+            if b["PathPattern"] == pattern:
+                behaviors[i] = new_behavior
+                replaced = True
+                break
+        if not replaced:
+            behaviors.append(new_behavior)
 
-    config["CacheBehaviors"] = {
+    dist_config["CacheBehaviors"] = {
         "Quantity": len(behaviors),
         "Items": behaviors,
     }
@@ -360,8 +364,7 @@ def update_cloudfront():
     print("CloudFront distribution update summary:")
     print(f"  Distribution: {CLOUDFRONT_DISTRIBUTION_ID}")
     print(f"  Origin: {origin_domain} (OAC: {oac_id})")
-    print(f"  Cache behavior: words/* → {origin_id}")
-    print(f"  {'Replacing' if replaced else 'Adding'} existing words/* behavior")
+    print(f"  Cache behaviors: {', '.join(cache_patterns)} → {origin_id}")
     answer = input("\nApply this update? [y/N] ").strip().lower()
     if answer != "y":
         print("Aborted.")
@@ -369,7 +372,7 @@ def update_cloudfront():
 
     cf.update_distribution(
         Id=CLOUDFRONT_DISTRIBUTION_ID,
-        DistributionConfig=config,
+        DistributionConfig=dist_config,
         IfMatch=etag,
     )
     print("CloudFront distribution updated successfully.")
@@ -529,6 +532,172 @@ def wipe_and_upload():
         print(f"Warning: CloudFront invalidation failed: {e}")
 
 
+# ── audio upload ────────────────────────────────────────────
+
+
+AUDIO_FILES = (
+    ["word.mp3"]
+    + [f"sentence_{i}.mp3" for i in range(1, app_config.EXAMPLES_PER_WORD + 1)]
+    + ["metadata.json"]
+)
+
+
+def discover_audio_words(voice_key):
+    """Discover word folders with complete audio for a voice.
+
+    Returns list of word folder names that have all expected files.
+    """
+    audio_dir = app_config.AUDIO_DATA_DIR / voice_key
+    if not audio_dir.is_dir():
+        return []
+
+    results = []
+    for folder in sorted(audio_dir.iterdir()):
+        if not folder.is_dir():
+            continue
+        # Check all expected files exist
+        if all((folder / f).exists() for f in AUDIO_FILES):
+            results.append(folder.name)
+    return results
+
+
+def list_s3_audio_words(voice_key, s3=None):
+    """List word names that have audio in S3 for a given voice.
+
+    Checks for presence of word.mp3 as the indicator file.
+    """
+    if s3 is None:
+        s3 = get_s3_client()
+    prefix = f"{S3_AUDIO_PREFIX}{voice_key}/"
+    words = set()
+    paginator = s3.get_paginator("list_objects_v2")
+    for page in paginator.paginate(Bucket=BUCKET_NAME, Prefix=prefix):
+        for obj in page.get("Contents", []):
+            key = obj["Key"]
+            # audio/{voice_key}/{word}/word.mp3
+            parts = key[len(prefix):].split("/")
+            if len(parts) == 2 and parts[1] == "word.mp3":
+                words.add(parts[0])
+    return words
+
+
+def upload_audio(voice_key, words=None, dry_run=False, force=False):
+    """Upload audio files to S3 for a voice, incrementally."""
+    local_words = discover_audio_words(voice_key)
+    if not local_words:
+        print(f"No audio found locally for voice '{voice_key}'.")
+        return
+
+    if words:
+        local_words = [w for w in local_words if w in set(words)]
+
+    if not force:
+        print(f"Checking S3 for existing audio ({voice_key})...")
+        s3 = get_s3_client()
+        s3_words = list_s3_audio_words(voice_key, s3)
+        print(f"Found {len(s3_words)} words with audio in S3.")
+        to_upload = [w for w in local_words if w not in s3_words]
+        skipped = len(local_words) - len(to_upload)
+    else:
+        s3 = get_s3_client()
+        to_upload = local_words
+        skipped = 0
+
+    if not to_upload:
+        print(f"All {len(local_words)} words already in S3. Nothing to upload.")
+        return
+
+    print(f"{len(to_upload)} words to upload, {skipped} already in S3.")
+
+    if dry_run:
+        print(f"\nDry run — words that would be uploaded:")
+        for word in to_upload[:20]:
+            print(f"  audio/{voice_key}/{word}/ (6 files)")
+        if len(to_upload) > 20:
+            print(f"  ... and {len(to_upload) - 20} more")
+        return
+
+    uploaded_words = 0
+    failed_words = 0
+    audio_dir = app_config.AUDIO_DATA_DIR / voice_key
+
+    for word in tqdm(to_upload, desc=f"Uploading {voice_key}"):
+        word_dir = audio_dir / word
+        word_failed = False
+        for filename in AUDIO_FILES:
+            filepath = word_dir / filename
+            s3_key = f"{S3_AUDIO_PREFIX}{voice_key}/{word}/{filename}"
+
+            content_type = "audio/mpeg" if filename.endswith(".mp3") else "application/json"
+            try:
+                s3.upload_file(
+                    str(filepath),
+                    BUCKET_NAME,
+                    s3_key,
+                    ExtraArgs={
+                        "ContentType": content_type,
+                        "CacheControl": "public, max-age=604800",
+                    },
+                )
+            except ClientError as e:
+                print(f"\nFailed to upload {s3_key}: {e}")
+                word_failed = True
+                break
+
+        if word_failed:
+            failed_words += 1
+        else:
+            uploaded_words += 1
+
+    print(f"\nUploaded: {uploaded_words} words ({uploaded_words * len(AUDIO_FILES)} files), "
+          f"Failed: {failed_words}, Skipped: {skipped}")
+
+
+def upload_voice_registry(dry_run=False):
+    """Generate voice_registry.json from config and upload to S3."""
+    voices = []
+    for key in sorted(app_config.VOICES.keys()):
+        v = app_config.VOICES[key]
+        voices.append({
+            "key": key,
+            "accent": v["accent"],
+            "gender": v["gender"],
+            "style": v["style"],
+        })
+
+    registry = {"voices": voices}
+    registry_json = json.dumps(registry, indent=2, ensure_ascii=False)
+
+    if dry_run:
+        print("Dry run — voice_registry.json would be uploaded:")
+        print(registry_json)
+        return
+
+    s3 = get_s3_client()
+    s3.put_object(
+        Bucket=BUCKET_NAME,
+        Key="voice_registry.json",
+        Body=registry_json.encode("utf-8"),
+        ContentType="application/json",
+        CacheControl="public, max-age=86400",
+    )
+    print("Uploaded voice_registry.json")
+
+    # Invalidate CloudFront cache
+    try:
+        cf = get_cloudfront_client()
+        resp = cf.create_invalidation(
+            DistributionId=CLOUDFRONT_DISTRIBUTION_ID,
+            InvalidationBatch={
+                "Paths": {"Quantity": 1, "Items": ["/voice_registry.json"]},
+                "CallerReference": str(int(__import__("time").time())),
+            },
+        )
+        print(f"CloudFront invalidation created: {resp['Invalidation']['Id']}")
+    except ClientError as e:
+        print(f"Warning: CloudFront invalidation failed: {e}")
+
+
 # ── CLI ──────────────────────────────────────────────────────
 
 
@@ -538,14 +707,18 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  python upload_to_s3.py --init-bucket              # One-time: create S3 bucket
-  python upload_to_s3.py                             # Upload new words only (incremental)
-  python upload_to_s3.py --force                     # Force upload all words
-  python upload_to_s3.py --words abandon,ability     # Upload specific words (if not in S3)
-  python upload_to_s3.py --update-cloudfront          # Update CloudFront config
-  python upload_to_s3.py --dry-run                   # Preview what would be uploaded
-  python upload_to_s3.py --metadata                    # Upload metadata files only
-  python upload_to_s3.py --wipe-and-upload            # Wipe bucket and re-upload everything
+  python upload_to_s3.py --init-bucket                          # One-time: create S3 bucket
+  python upload_to_s3.py                                        # Upload new words only (incremental)
+  python upload_to_s3.py --force                                # Force upload all words
+  python upload_to_s3.py --words abandon,ability                # Upload specific words (if not in S3)
+  python upload_to_s3.py --update-cloudfront                    # Update CloudFront config
+  python upload_to_s3.py --dry-run                              # Preview what would be uploaded
+  python upload_to_s3.py --metadata                             # Upload metadata files only
+  python upload_to_s3.py --wipe-and-upload                      # Wipe bucket and re-upload everything
+  python upload_to_s3.py --audio                                # Upload new audio (incremental)
+  python upload_to_s3.py --audio --voice american_woman_calm    # Upload audio for specific voice
+  python upload_to_s3.py --audio --force                        # Re-upload all audio
+  python upload_to_s3.py --voice-registry                       # Upload voice_registry.json
         """,
     )
     parser.add_argument(
@@ -556,7 +729,7 @@ Examples:
     parser.add_argument(
         "--update-cloudfront",
         action="store_true",
-        help="Add/update S3 origin and words/* cache behavior on CloudFront",
+        help="Add/update S3 origin and cache behaviors on CloudFront",
     )
     parser.add_argument(
         "--words", "-w",
@@ -582,7 +755,23 @@ Examples:
     parser.add_argument(
         "--force",
         action="store_true",
-        help="Force upload all words, even if they already exist in S3",
+        help="Force upload all words/audio, even if they already exist in S3",
+    )
+    parser.add_argument(
+        "--audio",
+        action="store_true",
+        help="Upload audio files instead of word JSON files",
+    )
+    parser.add_argument(
+        "--voice",
+        type=str,
+        default=None,
+        help="Voice key for audio upload (default: all voices with local audio)",
+    )
+    parser.add_argument(
+        "--voice-registry",
+        action="store_true",
+        help="Upload voice_registry.json to S3",
     )
 
     args = parser.parse_args()
@@ -595,6 +784,22 @@ Examples:
         upload_metadata()
     elif args.wipe_and_upload:
         wipe_and_upload()
+    elif args.voice_registry:
+        upload_voice_registry(dry_run=args.dry_run)
+    elif args.audio:
+        word_list = [w.strip() for w in args.words.split(",")] if args.words else None
+        if args.voice:
+            if args.voice not in app_config.VOICES:
+                print(f"Error: Unknown voice '{args.voice}'. Available: {', '.join(sorted(app_config.VOICES.keys()))}")
+                sys.exit(1)
+            voice_keys = [args.voice]
+        else:
+            voice_keys = sorted(app_config.VOICES.keys())
+        for voice_key in voice_keys:
+            print(f"\n{'=' * 60}")
+            print(f"Audio upload: {voice_key}")
+            print(f"{'=' * 60}")
+            upload_audio(voice_key, words=word_list, dry_run=args.dry_run, force=args.force)
     else:
         word_list = [w.strip() for w in args.words.split(",")] if args.words else None
         upload_words_incremental(words=word_list, dry_run=args.dry_run, force=args.force)

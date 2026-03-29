@@ -7,6 +7,7 @@ from pathlib import Path
 # Base paths
 PROJECT_ROOT = Path(__file__).parent
 FINAL_DATA_DIR = PROJECT_ROOT / "final_data_v4"  # Step 3 output directory (per-word)
+AUDIO_DATA_DIR = PROJECT_ROOT / "audio_data"  # TTS audio output directory
 CHECKPOINTS_DIR = PROJECT_ROOT / "checkpoints"
 PROMPTS_DIR = PROJECT_ROOT / "prompts"
 LOGS_DIR = PROJECT_ROOT / "logs"
@@ -52,6 +53,31 @@ DEFAULT_BATCH_SIZE = 100
 DRY_RUN_LIMIT = 10
 DEFAULT_PARALLEL_WORKERS = 5
 EXAMPLES_PER_WORD = 4
+
+# MiniMax TTS settings
+MINIMAX_API_BASE = "https://api.minimax.io/v1"
+MINIMAX_TTS_MODEL = "speech-2.8-hd"
+MINIMAX_TTS_TIMEOUT = 60  # seconds per request
+MINIMAX_TTS_MAX_RETRIES = 5
+MINIMAX_TTS_PARALLEL_WORKERS = 3
+
+AUDIO_TRACKER_CSV = PROJECT_ROOT / "source" / "audio_generation_tracker.csv"
+
+VOICES = {
+    "american_woman_calm": {
+        "voice_id": "English_CalmWoman",
+        "accent": "american",
+        "gender": "female",
+        "style": "calm",
+    },
+    "british_woman_wise": {
+        "voice_id": "English_Wiselady",
+        "accent": "british",
+        "gender": "female",
+        "style": "wise",
+    },
+}
+DEFAULT_VOICE = "american_woman_calm"
 
 
 def model_short_name(model_id: str) -> str:
