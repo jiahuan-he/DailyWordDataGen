@@ -1,0 +1,41 @@
+{
+  "word": "banner",
+  "phonetic": "/ˈbænər/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "横幅；旗帜；标语；广告条",
+  "examples": [
+    {
+      "sentence": "A hand-painted banner welcomed guests to the village festival.",
+      "style": "Contextual",
+      "translation": "一条手绘横幅迎接着节日的来客。",
+      "translated_word": "横幅",
+      "display_order": 1
+    },
+    {
+      "sentence": "The stadium unfurled a massive banner honoring the retiring coach.",
+      "style": "Formal",
+      "translation": "体育场展开巨幅横幅，向即将退休的教练致敬。",
+      "translated_word": "横幅",
+      "display_order": 4
+    },
+    {
+      "sentence": "Under the banner of unity, old rivals finally shook hands.",
+      "style": "Collocational",
+      "translation": "在团结的旗帜下，旧日对手终于握手言和。",
+      "translated_word": "旗帜",
+      "display_order": 3
+    },
+    {
+      "sentence": "My mother sewed a crooked birthday banner; I've kept it for twenty years.",
+      "style": "Intimate",
+      "translation": "母亲缝制的生日横幅歪歪扭扭，我却珍藏了二十年。",
+      "translated_word": "横幅",
+      "display_order": 2
+    }
+  ]
+}

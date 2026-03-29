@@ -1,0 +1,41 @@
+{
+  "word": "regarding",
+  "phonetic": "/rɪˈɡɑːrdɪŋ/",
+  "pos": [
+    "noun",
+    "preposition",
+    "verb"
+  ],
+  "selected_pos": "preposition",
+  "definition": "关于；至于；就…而言",
+  "examples": [
+    {
+      "sentence": "The board issued a brief statement regarding the merger.",
+      "style": "Formal",
+      "translation": "董事会就合并事宜发表了简短声明。",
+      "translated_word": "就",
+      "display_order": 2
+    },
+    {
+      "sentence": "She pulled him aside to speak regarding the test results.",
+      "style": "Contextual",
+      "translation": "她把他拉到一旁，谈及检测结果。",
+      "translated_word": "及",
+      "display_order": 3
+    },
+    {
+      "sentence": "For inquiries regarding reservations, please call the front desk.",
+      "style": "Collocational",
+      "translation": "如有预订相关咨询，请致电前台。",
+      "translated_word": "相关",
+      "display_order": 1
+    },
+    {
+      "sentence": "My father never spoke regarding the war; his silence said enough.",
+      "style": "Intimate",
+      "translation": "父亲从不谈及那场战争；沉默已是回答。",
+      "translated_word": "及",
+      "display_order": 4
+    }
+  ]
+}

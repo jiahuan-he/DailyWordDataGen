@@ -1,0 +1,40 @@
+{
+  "word": "loan",
+  "phonetic": "/loʊn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "贷款；借款；借贷",
+  "examples": [
+    {
+      "sentence": "The bank approved her loan within a week.",
+      "style": "Contextual",
+      "translation": "银行在一周内批准了她的贷款。",
+      "translated_word": "贷款",
+      "display_order": 1
+    },
+    {
+      "sentence": "Rising interest rates have made home loans unaffordable for many.",
+      "style": "Formal",
+      "translation": "利率攀升，住房贷款对许多人而言已遥不可及。",
+      "translated_word": "贷款",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every loan is a wager on the future version of yourself.",
+      "style": "Philosophical",
+      "translation": "每一笔贷款，都是与未来的自己下的一场赌注。",
+      "translated_word": "贷款",
+      "display_order": 4
+    },
+    {
+      "sentence": "That student loan funded more than my education; it funded my escape.",
+      "style": "Intimate",
+      "translation": "那笔助学贷款资助的不只是学业，更是一条出路。",
+      "translated_word": "贷款",
+      "display_order": 2
+    }
+  ]
+}

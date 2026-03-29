@@ -1,0 +1,40 @@
+{
+  "word": "eagle",
+  "phonetic": "/ˈiːɡl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "鹰；雕；猛禽",
+  "examples": [
+    {
+      "sentence": "High above the valley, an eagle glided in patient circles.",
+      "style": "Contextual",
+      "translation": "山谷之上，一只雄鹰从容盘旋。",
+      "translated_word": "雄鹰",
+      "display_order": 1
+    },
+    {
+      "sentence": "Wings spread wide, the eagle commands the silence of the peaks.",
+      "style": "Poetic",
+      "translation": "双翼舒展，鹰踞群峰之巅，静默为王。",
+      "translated_word": "鹰",
+      "display_order": 2
+    },
+    {
+      "sentence": "The eagle rises alone, unburdened by the flock below.",
+      "style": "Inspirational",
+      "translation": "鹰独自高飞，不为群鸟所累。",
+      "translated_word": "鹰",
+      "display_order": 3
+    },
+    {
+      "sentence": "From where the eagle flies, all borders disappear.",
+      "style": "Philosophical",
+      "translation": "在鹰的视野中，所有边界都已消融。",
+      "translated_word": "鹰",
+      "display_order": 4
+    }
+  ]
+}

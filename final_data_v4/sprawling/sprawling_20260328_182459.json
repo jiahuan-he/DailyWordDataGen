@@ -1,0 +1,41 @@
+{
+  "word": "sprawling",
+  "phonetic": "/ˈsprɔːlɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "蔓延的；杂乱延伸的；庞大无序的",
+  "examples": [
+    {
+      "sentence": "The sprawling campus took us thirty minutes to cross on foot.",
+      "style": "Contextual",
+      "translation": "校园面积太大，我们步行穿越花了三十分钟。",
+      "translated_word": "面积太大",
+      "display_order": 2
+    },
+    {
+      "sentence": "The sprawling metropolis now houses over twenty million residents.",
+      "style": "Formal",
+      "translation": "这座蔓延无际的大都市如今容纳了两千多万居民。",
+      "translated_word": "蔓延无际",
+      "display_order": 1
+    },
+    {
+      "sentence": "Beneath the plane, a sprawling quilt of farmland stretched to the horizon.",
+      "style": "Poetic",
+      "translation": "飞机下方，农田如拼布般铺展，一直延伸到天际。",
+      "translated_word": "铺展",
+      "display_order": 4
+    },
+    {
+      "sentence": "They bought a small cabin to escape the sprawling suburbs.",
+      "style": "Collocational",
+      "translation": "他们买了一间小木屋，逃离那片杂乱蔓延的郊区。",
+      "translated_word": "蔓延",
+      "display_order": 3
+    }
+  ]
+}

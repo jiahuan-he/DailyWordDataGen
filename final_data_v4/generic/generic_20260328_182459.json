@@ -1,0 +1,40 @@
+{
+  "word": "generic",
+  "phonetic": "/dʒəˈnerɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "通用的；泛泛的；无特色的",
+  "examples": [
+    {
+      "sentence": "The hotel room felt generic: beige walls, white sheets, nothing memorable.",
+      "style": "Contextual",
+      "translation": "酒店房间毫无特色：米色墙壁，白色床单，没有任何值得记住的细节。",
+      "translated_word": "毫无特色",
+      "display_order": 1
+    },
+    {
+      "sentence": "His feedback wasn't personal; it was generic.",
+      "style": "Contrastive",
+      "translation": "他的反馈并非针对我；只是泛泛之谈。",
+      "translated_word": "泛泛",
+      "display_order": 3
+    },
+    {
+      "sentence": "We fear being generic, yet crave belonging.",
+      "style": "Philosophical",
+      "translation": "我们害怕平庸，却又渴望归属。",
+      "translated_word": "平庸",
+      "display_order": 4
+    },
+    {
+      "sentence": "Generic advice rarely solves specific problems.",
+      "style": "Collocational",
+      "translation": "泛泛的建议，解决不了具体的问题。",
+      "translated_word": "泛泛的",
+      "display_order": 2
+    }
+  ]
+}

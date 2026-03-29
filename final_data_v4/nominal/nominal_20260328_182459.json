@@ -1,0 +1,40 @@
+{
+  "word": "nominal",
+  "phonetic": "/ˈnɒmɪnəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "名义上的；象征性的；微不足道的",
+  "examples": [
+    {
+      "sentence": "He remained the nominal leader while his deputy made every decision.",
+      "style": "Contextual",
+      "translation": "他仍是名义上的领导者，而所有决策皆出自副手之手。",
+      "translated_word": "名义上的",
+      "display_order": 2
+    },
+    {
+      "sentence": "The museum charges a nominal fee to encourage wider public access.",
+      "style": "Formal",
+      "translation": "博物馆仅收取象征性费用，以鼓励更多公众参观。",
+      "translated_word": "象征性",
+      "display_order": 1
+    },
+    {
+      "sentence": "The title was nominal; the real power lay elsewhere.",
+      "style": "Contrastive",
+      "translation": "头衔不过是虚名；真正的权力另有归属。",
+      "translated_word": "虚名",
+      "display_order": 3
+    },
+    {
+      "sentence": "We cling to nominal truths, afraid to confront what lies beneath.",
+      "style": "Philosophical",
+      "translation": "我们执着于表面的真相，不敢直视其下的深渊。",
+      "translated_word": "表面的",
+      "display_order": 4
+    }
+  ]
+}

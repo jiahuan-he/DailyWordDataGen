@@ -1,0 +1,40 @@
+{
+  "word": "dispense",
+  "phonetic": "/dɪˈspens/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "分发；分配；配药；免除",
+  "examples": [
+    {
+      "sentence": "The old pharmacist dispensed remedies and quiet reassurance in equal measure.",
+      "style": "Contextual",
+      "translation": "老药剂师配好药方，也配好无声的宽慰。",
+      "translated_word": "配好",
+      "display_order": 2
+    },
+    {
+      "sentence": "The foundation will dispense grants to rural schools starting next quarter.",
+      "style": "Formal",
+      "translation": "基金会将于下季度起向乡村学校发放资助金。",
+      "translated_word": "发放",
+      "display_order": 1
+    },
+    {
+      "sentence": "Let's dispense with the small talk; tell me what you really need.",
+      "style": "Collocational",
+      "translation": "省去寒暄吧，告诉我你真正需要什么。",
+      "translated_word": "省去",
+      "display_order": 3
+    },
+    {
+      "sentence": "Years dispense wisdom only to those who stay curious.",
+      "style": "Philosophical",
+      "translation": "岁月只将智慧赐予那些始终好奇的人。",
+      "translated_word": "赐予",
+      "display_order": 4
+    }
+  ]
+}

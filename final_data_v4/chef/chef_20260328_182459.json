@@ -1,0 +1,40 @@
+{
+  "word": "chef",
+  "phonetic": "/ʃef/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "主厨；厨师长；大厨",
+  "examples": [
+    {
+      "sentence": "The chef tasted the broth, frowned, then reached for the herbs.",
+      "style": "Contextual",
+      "translation": "主厨尝了尝汤，皱起眉头，又伸手去拿香料。",
+      "translated_word": "主厨",
+      "display_order": 1
+    },
+    {
+      "sentence": "She started as a line cook and rose to executive chef within five years.",
+      "style": "Collocational",
+      "translation": "她从帮厨做起，五年内晋升为行政总厨。",
+      "translated_word": "总厨",
+      "display_order": 4
+    },
+    {
+      "sentence": "The first chef to put a knife in my hand was my father.",
+      "style": "Intimate",
+      "translation": "第一个把刀递到我手中的大厨，是我父亲。",
+      "translated_word": "大厨",
+      "display_order": 2
+    },
+    {
+      "sentence": "A true chef speaks through flavors, not words.",
+      "style": "Poetic",
+      "translation": "真正的大厨用味道诉说，无需言语。",
+      "translated_word": "大厨",
+      "display_order": 3
+    }
+  ]
+}

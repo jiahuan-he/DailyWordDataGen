@@ -1,0 +1,39 @@
+{
+  "word": "selection",
+  "phonetic": "/sɪˈlekʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "选择；精选；入选品",
+  "examples": [
+    {
+      "sentence": "The museum gift shop had an impressive selection of handcrafted jewelry.",
+      "style": "Contextual",
+      "translation": "博物馆礼品店陈列着一批精美的手工珠宝。",
+      "translated_word": "一批",
+      "display_order": 1
+    },
+    {
+      "sentence": "The committee will announce its selection of finalists tomorrow.",
+      "style": "Formal",
+      "translation": "委员会将于明日公布入围名单。",
+      "translated_word": "入围",
+      "display_order": 2
+    },
+    {
+      "sentence": "A curated selection speaks louder than endless options.",
+      "style": "Collocational",
+      "translation": "精挑细选胜过琳琅满目。",
+      "translated_word": "精挑细选",
+      "display_order": 3
+    },
+    {
+      "sentence": "Every selection reveals not just preference, but identity.",
+      "style": "Philosophical",
+      "translation": "每一次选择，揭示的不只是偏好，更是自我。",
+      "translated_word": "选择",
+      "display_order": 4
+    }
+  ]
+}

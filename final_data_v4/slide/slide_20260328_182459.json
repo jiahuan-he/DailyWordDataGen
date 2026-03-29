@@ -1,0 +1,40 @@
+{
+  "word": "slide",
+  "phonetic": "/slaɪd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "滑动；悄然移动；下滑；放任",
+  "examples": [
+    {
+      "sentence": "The drawer refused to slide, stuck on something unseen.",
+      "style": "Contextual",
+      "translation": "抽屉滑不动，被什么东西卡住了。",
+      "translated_word": "滑",
+      "display_order": 1
+    },
+    {
+      "sentence": "He let the remark slide; some battles aren't worth fighting.",
+      "style": "Collocational",
+      "translation": "他没有计较那句话；有些仗不值得打。",
+      "translated_word": null,
+      "display_order": 4
+    },
+    {
+      "sentence": "Moonlight slides across the wooden floor, slow and silver.",
+      "style": "Poetic",
+      "translation": "月光缓缓滑过木地板，银白而静谧。",
+      "translated_word": "滑过",
+      "display_order": 3
+    },
+    {
+      "sentence": "On rainy afternoons, we would slide closer on the couch without saying a word.",
+      "style": "Intimate",
+      "translation": "雨天的午后，我们会在沙发上悄悄靠近，不发一言。",
+      "translated_word": "靠近",
+      "display_order": 2
+    }
+  ]
+}

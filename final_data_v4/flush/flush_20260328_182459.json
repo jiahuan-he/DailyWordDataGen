@@ -1,0 +1,41 @@
+{
+  "word": "flush",
+  "phonetic": "/flʌʃ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "冲洗；脸红；驱赶",
+  "examples": [
+    {
+      "sentence": "She flushed bright red when her name was called.",
+      "style": "Contextual",
+      "translation": "她的名字被叫到时，脸瞬间涨红了。",
+      "translated_word": "涨红",
+      "display_order": 1
+    },
+    {
+      "sentence": "He flushed the pipes to clear the rust buildup.",
+      "style": "Collocational",
+      "translation": "他冲洗管道，清除锈迹。",
+      "translated_word": "冲洗",
+      "display_order": 4
+    },
+    {
+      "sentence": "My cheeks flushed the moment our eyes met across the room.",
+      "style": "Intimate",
+      "translation": "目光相遇的一刹那，我的双颊染上了绯红。",
+      "translated_word": "染上",
+      "display_order": 2
+    },
+    {
+      "sentence": "Sunset flushed the clouds in shades of apricot and rose.",
+      "style": "Poetic",
+      "translation": "落日将云霞染成杏粉与玫红。",
+      "translated_word": "染成",
+      "display_order": 3
+    }
+  ]
+}

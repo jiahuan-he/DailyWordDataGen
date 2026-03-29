@@ -1,0 +1,40 @@
+{
+  "word": "skeleton",
+  "phonetic": "/ˈskelɪtən/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "骨骼；骨架；框架；梗概",
+  "examples": [
+    {
+      "sentence": "The museum displayed a dinosaur skeleton that towered over the crowd.",
+      "style": "Contextual",
+      "translation": "博物馆展出的恐龙骨架高耸入云，俯瞰着人群。",
+      "translated_word": "骨架",
+      "display_order": 1
+    },
+    {
+      "sentence": "With half the staff on leave, the office ran on a skeleton crew.",
+      "style": "Collocational",
+      "translation": "半数员工休假，办公室只能靠最小团队勉力维持。",
+      "translated_word": "最小",
+      "display_order": 4
+    },
+    {
+      "sentence": "Strip away the excuses, and you find the skeleton of the real problem.",
+      "style": "Philosophical",
+      "translation": "剥去所有借口，你会看见问题真正的骨架。",
+      "translated_word": "骨架",
+      "display_order": 3
+    },
+    {
+      "sentence": "Winter reveals the skeleton of the forest: bare branches tracing the sky.",
+      "style": "Poetic",
+      "translation": "冬日袒露森林的骨架：枯枝勾勒天际。",
+      "translated_word": "骨架",
+      "display_order": 2
+    }
+  ]
+}

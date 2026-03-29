@@ -1,0 +1,39 @@
+{
+  "word": "indigestion",
+  "phonetic": "/ˌɪndɪˈdʒestʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "消化不良；胃部不适",
+  "examples": [
+    {
+      "sentence": "He skipped dessert, still nursing indigestion from lunch.",
+      "style": "Contextual",
+      "translation": "午饭的消化不良还未消退，他便推掉了甜点。",
+      "translated_word": "消化不良",
+      "display_order": 3
+    },
+    {
+      "sentence": "Coffee on an empty stomach is a recipe for indigestion.",
+      "style": "Collocational",
+      "translation": "空腹喝咖啡，最容易招来消化不良。",
+      "translated_word": "消化不良",
+      "display_order": 1
+    },
+    {
+      "sentence": "My father's cure for indigestion was always a slow walk after dinner.",
+      "style": "Intimate",
+      "translation": "父亲治消化不良的法子，永远是饭后慢慢散步。",
+      "translated_word": "消化不良",
+      "display_order": 2
+    },
+    {
+      "sentence": "Persistent indigestion warrants consultation with a gastroenterologist.",
+      "style": "Formal",
+      "translation": "长期消化不良应及时咨询消化内科医生。",
+      "translated_word": "消化不良",
+      "display_order": 4
+    }
+  ]
+}

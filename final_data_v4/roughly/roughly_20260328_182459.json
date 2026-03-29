@@ -1,0 +1,39 @@
+{
+  "word": "roughly",
+  "phonetic": "/ˈrʌfli/",
+  "pos": [
+    "adverb"
+  ],
+  "selected_pos": "adverb",
+  "definition": "大约；粗略地；粗暴地",
+  "examples": [
+    {
+      "sentence": "The walk takes roughly fifteen minutes.",
+      "style": "Contextual",
+      "translation": "步行大约需要十五分钟。",
+      "translated_word": "大约",
+      "display_order": 1
+    },
+    {
+      "sentence": "Roughly half the guests had already left.",
+      "style": "Collocational",
+      "translation": "大约一半的客人已经离开了。",
+      "translated_word": "大约",
+      "display_order": 2
+    },
+    {
+      "sentence": "The new regulation impacts roughly eight million workers.",
+      "style": "Formal",
+      "translation": "新规约影响近八百万劳动者。",
+      "translated_word": "约",
+      "display_order": 3
+    },
+    {
+      "sentence": "We met roughly a decade ago, in a bookstore that no longer exists.",
+      "style": "Intimate",
+      "translation": "我们大约在十年前相识，在一家已不复存在的书店里。",
+      "translated_word": "大约",
+      "display_order": 4
+    }
+  ]
+}

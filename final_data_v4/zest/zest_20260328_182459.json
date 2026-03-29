@@ -1,0 +1,40 @@
+{
+  "word": "zest",
+  "phonetic": "/zest/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "热情；活力；趣味；皮屑",
+  "examples": [
+    {
+      "sentence": "Her zest for life made everyone around her feel lighter.",
+      "style": "Collocational",
+      "translation": "她对生活的热情极具感染力，身边的人都因此变得轻盈起来。",
+      "translated_word": "热情",
+      "display_order": 1
+    },
+    {
+      "sentence": "A single drop of zest can transform the flavor of an entire day.",
+      "style": "Inspirational",
+      "translation": "一点热情，便能改变一整天的滋味。",
+      "translated_word": "热情",
+      "display_order": 4
+    },
+    {
+      "sentence": "She moved through the market with a quiet zest, alive to every color and scent.",
+      "style": "Poetic",
+      "translation": "她穿行于市集之间，带着安静的活力，对每一种色彩与气息都敏锐感知。",
+      "translated_word": "活力",
+      "display_order": 3
+    },
+    {
+      "sentence": "Watching my son discover his first snowfall, I felt that old zest return.",
+      "style": "Intimate",
+      "translation": "看着儿子初见飘雪时的惊喜，那份久违的热情在我心中悄然复苏。",
+      "translated_word": "热情",
+      "display_order": 2
+    }
+  ]
+}

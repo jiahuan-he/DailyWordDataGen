@@ -1,0 +1,39 @@
+{
+  "word": "rider",
+  "phonetic": "/ˈraɪdər/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "骑手；骑士；乘客；附文",
+  "examples": [
+    {
+      "sentence": "The rider dismounted gracefully after the morning trail.",
+      "style": "Contextual",
+      "translation": "骑手在晨间骑行后优雅地下了马。",
+      "translated_word": "骑手",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every experienced rider knows: respect the horse, and it will respect you.",
+      "style": "Collocational",
+      "translation": "每位老练的骑手都懂得：尊重马，马也会尊重你。",
+      "translated_word": "骑手",
+      "display_order": 2
+    },
+    {
+      "sentence": "A lone rider vanished into the dust, leaving only hoofprints behind.",
+      "style": "Poetic",
+      "translation": "一位独行的骑士消失在尘土中，只留下一串蹄印。",
+      "translated_word": "骑士",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father was a quiet rider; on horseback, he found the peace words couldn't give.",
+      "style": "Intimate",
+      "translation": "父亲是个沉默的骑手；马背之上，他寻得了言语无法给予的宁静。",
+      "translated_word": "骑手",
+      "display_order": 3
+    }
+  ]
+}

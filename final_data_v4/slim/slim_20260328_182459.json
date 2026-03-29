@@ -1,0 +1,41 @@
+{
+  "word": "slim",
+  "phonetic": "/slɪm/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "苗条；纤细；微小；渺茫",
+  "examples": [
+    {
+      "sentence": "The cat squeezed through the slim opening in the fence.",
+      "style": "Contextual",
+      "translation": "猫咪从围栏的狭缝中钻了过去。",
+      "translated_word": "狭",
+      "display_order": 1
+    },
+    {
+      "sentence": "A slim chance is still a chance worth taking.",
+      "style": "Collocational",
+      "translation": "渺茫的机会，依然是值得一试的机会。",
+      "translated_word": "渺茫",
+      "display_order": 3
+    },
+    {
+      "sentence": "His résumé was slim, but his portfolio spoke volumes.",
+      "style": "Contrastive",
+      "translation": "他的履历虽单薄，作品却足以说明一切。",
+      "translated_word": "单薄",
+      "display_order": 4
+    },
+    {
+      "sentence": "She bought the slim volume of poetry on impulse; it became her most treasured book.",
+      "style": "Intimate",
+      "translation": "她一时冲动买下了那本薄薄的诗集；后来它成了她最珍视的书。",
+      "translated_word": "薄薄",
+      "display_order": 2
+    }
+  ]
+}

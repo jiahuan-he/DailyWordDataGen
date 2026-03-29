@@ -1,0 +1,40 @@
+{
+  "word": "gleam",
+  "phonetic": "/ɡliːm/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "微光；闪烁；一丝（神情）",
+  "examples": [
+    {
+      "sentence": "A single gleam of moonlight turned the wet pavement to silver.",
+      "style": "Poetic",
+      "translation": "一缕月光落下，湿漉漉的路面泛起银色。",
+      "translated_word": "光",
+      "display_order": 1
+    },
+    {
+      "sentence": "There was a knowing gleam in her eye when she handed me the envelope.",
+      "style": "Contextual",
+      "translation": "她递给我信封时，眼中闪过一丝意味深长的光。",
+      "translated_word": "光",
+      "display_order": 2
+    },
+    {
+      "sentence": "The old photograph still held a gleam of that summer's light.",
+      "style": "Intimate",
+      "translation": "那张旧照片里，依然留存着那个夏天的微光。",
+      "translated_word": "微光",
+      "display_order": 3
+    },
+    {
+      "sentence": "We chase gleams and call them certainties.",
+      "style": "Philosophical",
+      "translation": "我们追逐微光，却称之为笃定。",
+      "translated_word": "微光",
+      "display_order": 4
+    }
+  ]
+}

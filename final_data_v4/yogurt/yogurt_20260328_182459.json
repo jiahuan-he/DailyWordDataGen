@@ -1,0 +1,39 @@
+{
+  "word": "yogurt",
+  "phonetic": "/ˈjoʊɡərt/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "酸奶；乳酪；发酵乳",
+  "examples": [
+    {
+      "sentence": "The yogurt in the back of the fridge had expired three weeks ago.",
+      "style": "Contextual",
+      "translation": "冰箱深处的那盒酸奶，已经过期三周了。",
+      "translated_word": "酸奶",
+      "display_order": 2
+    },
+    {
+      "sentence": "Greek yogurt with granola and honey: the breakfast of quiet mornings.",
+      "style": "Collocational",
+      "translation": "希腊酸奶配燕麦与蜂蜜：属于静谧清晨的早餐。",
+      "translated_word": "酸奶",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father ate the same plain yogurt every morning for thirty years.",
+      "style": "Intimate",
+      "translation": "三十年来，父亲每天早晨都吃同一种原味酸奶。",
+      "translated_word": "酸奶",
+      "display_order": 1
+    },
+    {
+      "sentence": "She chose yogurt over ice cream, a small victory worth savoring.",
+      "style": "Contrastive",
+      "translation": "她选了酸奶而非冰淇淋，这是一场值得细品的小小胜利。",
+      "translated_word": "酸奶",
+      "display_order": 3
+    }
+  ]
+}

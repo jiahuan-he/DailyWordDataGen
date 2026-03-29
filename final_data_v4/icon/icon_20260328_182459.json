@@ -1,0 +1,39 @@
+{
+  "word": "icon",
+  "phonetic": "/ˈaɪkɑːn/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "图标；偶像；象征",
+  "examples": [
+    {
+      "sentence": "Tap the icon in the corner to access your settings.",
+      "style": "Contextual",
+      "translation": "点击角落的图标即可进入设置。",
+      "translated_word": "图标",
+      "display_order": 2
+    },
+    {
+      "sentence": "The fashion icon's final collection will be displayed at the Met next spring.",
+      "style": "Formal",
+      "translation": "这位时尚偶像的最后一个系列将于明年春天在大都会博物馆展出。",
+      "translated_word": "偶像",
+      "display_order": 3
+    },
+    {
+      "sentence": "She became a cultural icon overnight.",
+      "style": "Collocational",
+      "translation": "她一夜之间成为文化偶像。",
+      "translated_word": "偶像",
+      "display_order": 1
+    },
+    {
+      "sentence": "An icon is not chosen; it emerges when a generation finds its mirror.",
+      "style": "Philosophical",
+      "translation": "偶像并非被选中，而是当一代人找到自己的镜子时自然浮现。",
+      "translated_word": "偶像",
+      "display_order": 4
+    }
+  ]
+}

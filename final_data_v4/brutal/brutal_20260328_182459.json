@@ -1,0 +1,39 @@
+{
+  "word": "brutal",
+  "phonetic": "/ˈbruːtl/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "残忍的；野蛮的；严酷的；直白的",
+  "examples": [
+    {
+      "sentence": "The winters here are brutal; most people stay indoors for months.",
+      "style": "Contextual",
+      "translation": "这里的冬天极其严酷，大多数人闭门不出好几个月。",
+      "translated_word": "严酷",
+      "display_order": 1
+    },
+    {
+      "sentence": "She appreciated his brutal honesty, even when it stung.",
+      "style": "Collocational",
+      "translation": "她感激他的直言不讳，哪怕那些话刺痛了她。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "Growth often requires brutal self-examination.",
+      "style": "Philosophical",
+      "translation": "成长往往需要残酷的自我剖析。",
+      "translated_word": "残酷",
+      "display_order": 4
+    },
+    {
+      "sentence": "The report exposed brutal conditions inside the detention facility.",
+      "style": "Formal",
+      "translation": "报告揭露了拘留设施内部的恶劣状况。",
+      "translated_word": "恶劣",
+      "display_order": 3
+    }
+  ]
+}

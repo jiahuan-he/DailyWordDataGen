@@ -1,0 +1,39 @@
+{
+  "word": "refrigerate",
+  "phonetic": "/rɪˈfrɪdʒəreɪt/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "冷藏；冷冻保鲜；使冷却",
+  "examples": [
+    {
+      "sentence": "The label says to refrigerate after opening.",
+      "style": "Contextual",
+      "translation": "标签上写着开封后需冷藏。",
+      "translated_word": "冷藏",
+      "display_order": 1
+    },
+    {
+      "sentence": "Fresh herbs stay vibrant longer when you refrigerate them in damp paper towels.",
+      "style": "Collocational",
+      "translation": "新鲜香草用湿纸巾包好冷藏，能保持更久的鲜绿。",
+      "translated_word": "冷藏",
+      "display_order": 2
+    },
+    {
+      "sentence": "Health officials urge residents to refrigerate perishables within two hours during the heatwave.",
+      "style": "Formal",
+      "translation": "卫生部门敦促居民在热浪期间将易腐食品在两小时内冷藏。",
+      "translated_word": "冷藏",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother never refrigerated her eggs; she said the pantry was cold enough.",
+      "style": "Intimate",
+      "translation": "祖母从不把鸡蛋放进冰箱，她说储藏室已经够凉了。",
+      "translated_word": "放进冰箱",
+      "display_order": 4
+    }
+  ]
+}

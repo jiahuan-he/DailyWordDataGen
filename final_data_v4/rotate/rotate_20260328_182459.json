@@ -1,0 +1,40 @@
+{
+  "word": "rotate",
+  "phonetic": "/ˈroʊteɪt/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "旋转；轮换；交替",
+  "examples": [
+    {
+      "sentence": "The Earth rotates once every twenty-four hours.",
+      "style": "Contextual",
+      "translation": "地球每二十四小时自转一周。",
+      "translated_word": "自转",
+      "display_order": 1
+    },
+    {
+      "sentence": "We rotate duties weekly so no one burns out.",
+      "style": "Collocational",
+      "translation": "我们每周轮换职责，避免任何人精疲力竭。",
+      "translated_word": "轮换",
+      "display_order": 2
+    },
+    {
+      "sentence": "The gallery will rotate its exhibits to showcase emerging artists.",
+      "style": "Formal",
+      "translation": "画廊将轮换展品，以展示新锐艺术家。",
+      "translated_word": "轮换",
+      "display_order": 3
+    },
+    {
+      "sentence": "Seasons rotate, yet each spring feels like a first encounter.",
+      "style": "Philosophical",
+      "translation": "四季轮转，每个春天却都如初见。",
+      "translated_word": "轮转",
+      "display_order": 4
+    }
+  ]
+}

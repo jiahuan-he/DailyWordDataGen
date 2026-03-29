@@ -1,0 +1,40 @@
+{
+  "word": "relief",
+  "phonetic": "/rɪˈliːf/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "宽慰；解脱；缓解；救济",
+  "examples": [
+    {
+      "sentence": "The test results came back negative; relief washed over her.",
+      "style": "Contextual",
+      "translation": "检查结果呈阴性，她如释重负。",
+      "translated_word": "如释重负",
+      "display_order": 1
+    },
+    {
+      "sentence": "She exhaled a long sigh of relief when the plane touched down.",
+      "style": "Collocational",
+      "translation": "飞机落地的那一刻，她长舒了一口气。",
+      "translated_word": null,
+      "display_order": 2
+    },
+    {
+      "sentence": "Relief is the first breath after breaking the surface.",
+      "style": "Poetic",
+      "translation": "宽慰，是破水而出后的第一口呼吸。",
+      "translated_word": "宽慰",
+      "display_order": 4
+    },
+    {
+      "sentence": "Hearing your voice after the earthquake was my only relief.",
+      "style": "Intimate",
+      "translation": "地震过后听到你的声音，是我唯一的慰藉。",
+      "translated_word": "慰藉",
+      "display_order": 3
+    }
+  ]
+}

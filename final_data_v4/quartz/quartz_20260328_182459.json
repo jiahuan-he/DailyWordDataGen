@@ -1,0 +1,39 @@
+{
+  "word": "quartz",
+  "phonetic": "/kwɔːrts/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "石英；水晶",
+  "examples": [
+    {
+      "sentence": "Veins of white quartz ran through the granite like frozen lightning.",
+      "style": "Poetic",
+      "translation": "白色石英脉络穿过花岗岩，如同凝固的闪电。",
+      "translated_word": "石英",
+      "display_order": 2
+    },
+    {
+      "sentence": "She wore a rose quartz pendant for its gentle energy.",
+      "style": "Collocational",
+      "translation": "她佩戴粉晶吊坠，取其温润能量。",
+      "translated_word": "粉晶",
+      "display_order": 3
+    },
+    {
+      "sentence": "We trust quartz to keep our time, forgetting it once measured eons.",
+      "style": "Philosophical",
+      "translation": "我们信赖石英计时，却忘了它曾丈量亿万年。",
+      "translated_word": "石英",
+      "display_order": 4
+    },
+    {
+      "sentence": "The geologist pointed to a translucent fragment: quartz, formed deep beneath the surface.",
+      "style": "Contextual",
+      "translation": "地质学家指向一块半透明的碎片：石英，生于地表深处。",
+      "translated_word": "石英",
+      "display_order": 1
+    }
+  ]
+}

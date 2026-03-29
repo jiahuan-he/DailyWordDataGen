@@ -1,0 +1,40 @@
+{
+  "word": "badger",
+  "phonetic": "/ˈbædʒər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "纠缠；烦扰；不断催促",
+  "examples": [
+    {
+      "sentence": "She badgered him for weeks until he finally agreed to teach her chess.",
+      "style": "Contextual",
+      "translation": "她缠了他好几周，他终于答应教她下棋。",
+      "translated_word": "缠",
+      "display_order": 1
+    },
+    {
+      "sentence": "He badgered her into trying the new restaurant downtown.",
+      "style": "Collocational",
+      "translation": "他软磨硬泡，终于拉她去了市中心那家新餐厅。",
+      "translated_word": "软磨硬泡",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother used to badger me about eating more; now I miss her voice.",
+      "style": "Intimate",
+      "translation": "外婆从前总唠叨我多吃点；如今我却想念那声音。",
+      "translated_word": "唠叨",
+      "display_order": 2
+    },
+    {
+      "sentence": "Reporters badgered the CEO for answers after the quarterly loss.",
+      "style": "Formal",
+      "translation": "季度亏损公布后，记者们追问着首席执行官的回应。",
+      "translated_word": "追问",
+      "display_order": 3
+    }
+  ]
+}

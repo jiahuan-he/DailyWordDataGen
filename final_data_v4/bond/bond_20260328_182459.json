@@ -1,0 +1,41 @@
+{
+  "word": "bond",
+  "phonetic": "/bɑːnd/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "纽带；联结；债券；羁绊",
+  "examples": [
+    {
+      "sentence": "The bond between the rescue dog and its new owner was immediate.",
+      "style": "Contextual",
+      "translation": "那只被救助的狗与新主人之间，纽带即刻形成。",
+      "translated_word": "纽带",
+      "display_order": 1
+    },
+    {
+      "sentence": "They formed a bond over late-night study sessions.",
+      "style": "Collocational",
+      "translation": "深夜的自习时光，让他们结下了情谊。",
+      "translated_word": "情谊",
+      "display_order": 2
+    },
+    {
+      "sentence": "A bond forged in hardship outlasts one built in comfort.",
+      "style": "Philosophical",
+      "translation": "在艰难中铸就的纽带，比安逸中建立的更为持久。",
+      "translated_word": "纽带",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father rarely spoke, but the fishing trips were our bond.",
+      "style": "Intimate",
+      "translation": "父亲寡言少语，但那些钓鱼的时光，便是我们之间的纽带。",
+      "translated_word": "纽带",
+      "display_order": 3
+    }
+  ]
+}

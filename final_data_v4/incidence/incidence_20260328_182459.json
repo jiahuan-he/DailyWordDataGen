@@ -1,0 +1,39 @@
+{
+  "word": "incidence",
+  "phonetic": "/ˈɪnsɪdəns/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "发生率；频率；发病率",
+  "examples": [
+    {
+      "sentence": "The incidence of flu spikes every winter without fail.",
+      "style": "Contextual",
+      "translation": "流感的发生率每年冬天都会如期攀升。",
+      "translated_word": "发生率",
+      "display_order": 1
+    },
+    {
+      "sentence": "Recent data shows a declining incidence of workplace injuries.",
+      "style": "Formal",
+      "translation": "最新数据显示，工伤事故的发生率正在下降。",
+      "translated_word": "发生率",
+      "display_order": 3
+    },
+    {
+      "sentence": "Researchers noted a high incidence of burnout among new graduates.",
+      "style": "Collocational",
+      "translation": "研究人员注意到，应届毕业生中职业倦怠的发生率较高。",
+      "translated_word": "发生率",
+      "display_order": 2
+    },
+    {
+      "sentence": "Urban centers saw a higher incidence; small towns remained largely untouched.",
+      "style": "Contrastive",
+      "translation": "城市中心的发病率更高；小镇则基本未受影响。",
+      "translated_word": "发病率",
+      "display_order": 4
+    }
+  ]
+}

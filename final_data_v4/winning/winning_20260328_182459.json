@@ -1,0 +1,41 @@
+{
+  "word": "winning",
+  "phonetic": "/ˈwɪnɪŋ/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "获胜的；迷人的；成功的",
+  "examples": [
+    {
+      "sentence": "Her winning smile put everyone at ease.",
+      "style": "Contextual",
+      "translation": "她迷人的笑容让所有人都放松下来。",
+      "translated_word": "迷人",
+      "display_order": 1
+    },
+    {
+      "sentence": "The team extended their winning streak to ten games.",
+      "style": "Collocational",
+      "translation": "球队将连胜纪录延续至十场。",
+      "translated_word": "连胜",
+      "display_order": 2
+    },
+    {
+      "sentence": "My father had a winning way with strangers; they'd trust him within minutes.",
+      "style": "Intimate",
+      "translation": "父亲总能轻易赢得陌生人的好感；几分钟内，他们便会信任他。",
+      "translated_word": "赢得",
+      "display_order": 3
+    },
+    {
+      "sentence": "A winning mindset doesn't fear failure; it learns from every loss.",
+      "style": "Inspirational",
+      "translation": "赢家的心态不惧失败；它从每一次挫折中汲取教训。",
+      "translated_word": "赢家",
+      "display_order": 4
+    }
+  ]
+}

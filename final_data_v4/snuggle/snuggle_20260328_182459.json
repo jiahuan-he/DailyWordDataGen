@@ -1,0 +1,40 @@
+{
+  "word": "snuggle",
+  "phonetic": "/ˈsnʌɡəl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "依偎；蜷缩；紧贴",
+  "examples": [
+    {
+      "sentence": "On cold mornings, we snuggle under the quilt and pretend the world can wait.",
+      "style": "Intimate",
+      "translation": "寒冷的清晨，我们蜷缩在被子里，假装世界可以等一等。",
+      "translated_word": "蜷缩",
+      "display_order": 3
+    },
+    {
+      "sentence": "The cat snuggled into the sun-warmed laundry, a soft sigh of contentment.",
+      "style": "Poetic",
+      "translation": "猫咪钻进被阳光晒暖的衣物里，发出一声满足的轻叹。",
+      "translated_word": "钻进",
+      "display_order": 4
+    },
+    {
+      "sentence": "She snuggled up with a book and a cup of chamomile tea.",
+      "style": "Collocational",
+      "translation": "她捧着书和一杯甘菊茶，舒适地窝了起来。",
+      "translated_word": "窝",
+      "display_order": 2
+    },
+    {
+      "sentence": "The child snuggled closer when the thunder rumbled outside.",
+      "style": "Contextual",
+      "translation": "雷声在窗外响起时，孩子依偎得更紧了。",
+      "translated_word": "依偎",
+      "display_order": 1
+    }
+  ]
+}

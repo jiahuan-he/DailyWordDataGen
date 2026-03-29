@@ -1,0 +1,40 @@
+{
+  "word": "classical",
+  "phonetic": "/ˈklæsɪkəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "古典的；经典的；传统的",
+  "examples": [
+    {
+      "sentence": "The ballet school teaches only classical technique.",
+      "style": "Contextual",
+      "translation": "这所芭蕾舞学校只教授古典技法。",
+      "translated_word": "古典",
+      "display_order": 2
+    },
+    {
+      "sentence": "She fell in love with classical music at seven.",
+      "style": "Collocational",
+      "translation": "她七岁时爱上了古典音乐。",
+      "translated_word": "古典",
+      "display_order": 1
+    },
+    {
+      "sentence": "In candlelit concert halls, classical melodies still breathe.",
+      "style": "Poetic",
+      "translation": "烛光摇曳的音乐厅里，古典旋律依然鲜活。",
+      "translated_word": "古典",
+      "display_order": 3
+    },
+    {
+      "sentence": "What we call classical was once revolutionary.",
+      "style": "Philosophical",
+      "translation": "我们所谓的经典，曾经都是离经叛道。",
+      "translated_word": "经典",
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "sticky",
+  "phonetic": "/ˈstɪki/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "粘的；闷热的；棘手的",
+  "examples": [
+    {
+      "sentence": "The label wouldn't peel off; it was too sticky.",
+      "style": "Contextual",
+      "translation": "标签揭不下来，粘得太牢了。",
+      "translated_word": "粘",
+      "display_order": 1
+    },
+    {
+      "sentence": "She left a sticky note on his laptop: Don't forget dinner.",
+      "style": "Collocational",
+      "translation": "她在他电脑上贴了张便签：别忘了晚饭。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "Summer afternoons meant popsicles and sticky fingers.",
+      "style": "Intimate",
+      "translation": "夏日午后，是冰棍和黏糊糊的手指。",
+      "translated_word": "黏糊糊",
+      "display_order": 2
+    },
+    {
+      "sentence": "The negotiation entered a sticky phase when both sides refused to budge.",
+      "style": "Formal",
+      "translation": "双方都不愿让步，谈判陷入了僵局。",
+      "translated_word": "僵局",
+      "display_order": 4
+    }
+  ]
+}

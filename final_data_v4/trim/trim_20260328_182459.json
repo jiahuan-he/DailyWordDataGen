@@ -1,0 +1,42 @@
+{
+  "word": "trim",
+  "phonetic": "/trɪm/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "修剪；削减；整理",
+  "examples": [
+    {
+      "sentence": "He trimmed the roses before the guests arrived.",
+      "style": "Contextual",
+      "translation": "他在客人到来前修剪了玫瑰。",
+      "translated_word": "修剪",
+      "display_order": 1
+    },
+    {
+      "sentence": "She trims her bangs every two weeks to keep them neat.",
+      "style": "Collocational",
+      "translation": "她每两周修剪一次刘海，保持整齐。",
+      "translated_word": "修剪",
+      "display_order": 2
+    },
+    {
+      "sentence": "The company plans to trim its workforce by fifteen percent next quarter.",
+      "style": "Formal",
+      "translation": "公司计划下季度裁减百分之十五的员工。",
+      "translated_word": "裁减",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather taught me to trim bonsai trees; each cut was a quiet lesson in patience.",
+      "style": "Intimate",
+      "translation": "祖父教我修剪盆栽；每一剪都是关于耐心的无声教诲。",
+      "translated_word": "修剪",
+      "display_order": 4
+    }
+  ]
+}

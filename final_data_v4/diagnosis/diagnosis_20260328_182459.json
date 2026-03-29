@@ -1,0 +1,40 @@
+{
+  "word": "diagnosis",
+  "phonetic": "/ˌdaɪəɡˈnoʊsɪs/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "诊断；判断；分析",
+  "examples": [
+    {
+      "sentence": "The diagnosis confirmed what she had suspected for months.",
+      "style": "Contextual",
+      "translation": "诊断结果证实了她数月以来的猜测。",
+      "translated_word": "诊断",
+      "display_order": 2
+    },
+    {
+      "sentence": "Early diagnosis remains the most critical factor in cancer survival rates.",
+      "style": "Formal",
+      "translation": "早期诊断仍是影响癌症存活率的最关键因素。",
+      "translated_word": "诊断",
+      "display_order": 1
+    },
+    {
+      "sentence": "The diagnosis didn't define her; it simply gave her clarity.",
+      "style": "Intimate",
+      "translation": "诊断没有定义她；它只是给了她一份清明。",
+      "translated_word": "诊断",
+      "display_order": 3
+    },
+    {
+      "sentence": "We seek a diagnosis because the unnamed is harder to fight.",
+      "style": "Philosophical",
+      "translation": "我们寻求诊断，因为无名之物更难抗衡。",
+      "translated_word": "诊断",
+      "display_order": 4
+    }
+  ]
+}

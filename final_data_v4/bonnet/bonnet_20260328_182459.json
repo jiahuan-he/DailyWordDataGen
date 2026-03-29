@@ -1,0 +1,40 @@
+{
+  "word": "bonnet",
+  "phonetic": "/ˈbɒnɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "软帽；童帽；引擎盖",
+  "examples": [
+    {
+      "sentence": "The baby kicked off her bonnet the moment we stepped outside.",
+      "style": "Contextual",
+      "translation": "我们刚出门，宝宝就把小帽子踢掉了。",
+      "translated_word": "小帽子",
+      "display_order": 1
+    },
+    {
+      "sentence": "He lifted the bonnet to check the engine before the long drive.",
+      "style": "Collocational",
+      "translation": "长途出发前，他掀开引擎盖检查了一下。",
+      "translated_word": "引擎盖",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother's lace bonnet still hangs in the attic, untouched for decades.",
+      "style": "Intimate",
+      "translation": "奶奶的蕾丝软帽至今挂在阁楼里，几十年无人触碰。",
+      "translated_word": "软帽",
+      "display_order": 2
+    },
+    {
+      "sentence": "A faded bonnet in the antique shop whispers of Sunday strolls long forgotten.",
+      "style": "Poetic",
+      "translation": "古董店里一顶褪色的软帽，低语着被遗忘的周日漫步。",
+      "translated_word": "软帽",
+      "display_order": 3
+    }
+  ]
+}

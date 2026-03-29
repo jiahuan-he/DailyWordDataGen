@@ -1,0 +1,40 @@
+{
+  "word": "hurl",
+  "phonetic": "/hɜːrl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "猛掷；投掷；大声斥骂",
+  "examples": [
+    {
+      "sentence": "He hurled the stone across the frozen lake.",
+      "style": "Contextual",
+      "translation": "他将石头猛掷向冰封的湖面。",
+      "translated_word": "猛掷",
+      "display_order": 1
+    },
+    {
+      "sentence": "Autumn hurls its last leaves into the waiting wind.",
+      "style": "Poetic",
+      "translation": "秋天将最后的落叶抛向等候已久的风。",
+      "translated_word": "抛",
+      "display_order": 4
+    },
+    {
+      "sentence": "She hurled accusations without a shred of proof.",
+      "style": "Collocational",
+      "translation": "她毫无证据地大肆指责。",
+      "translated_word": null,
+      "display_order": 3
+    },
+    {
+      "sentence": "At twelve, I hurled my childhood journal into a bonfire and never looked back.",
+      "style": "Intimate",
+      "translation": "十二岁那年，我把童年日记扔进篝火，头也不回。",
+      "translated_word": "扔",
+      "display_order": 2
+    }
+  ]
+}

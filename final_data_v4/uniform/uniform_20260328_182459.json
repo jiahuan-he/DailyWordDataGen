@@ -1,0 +1,41 @@
+{
+  "word": "uniform",
+  "phonetic": "/ˈjuːnɪfɔːrm/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "制服；校服；军装",
+  "examples": [
+    {
+      "sentence": "She recognized him instantly by his pilot's uniform.",
+      "style": "Contextual",
+      "translation": "她一眼就认出了那身飞行员制服。",
+      "translated_word": "制服",
+      "display_order": 3
+    },
+    {
+      "sentence": "Students must wear the school uniform during assembly.",
+      "style": "Collocational",
+      "translation": "学生在集会时必须穿着校服。",
+      "translated_word": "校服",
+      "display_order": 1
+    },
+    {
+      "sentence": "The uniform strips away names, leaving only the role.",
+      "style": "Philosophical",
+      "translation": "制服剥去姓名，只留下身份。",
+      "translated_word": "制服",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father's old uniform still hangs in the closet, smaller than I remembered.",
+      "style": "Intimate",
+      "translation": "父亲的旧军装还挂在衣柜里，比我记忆中的要小。",
+      "translated_word": "军装",
+      "display_order": 2
+    }
+  ]
+}

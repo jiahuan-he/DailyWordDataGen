@@ -1,0 +1,40 @@
+{
+  "word": "liaison",
+  "phonetic": "/liˈeɪzɒn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "联络；联系人；私情",
+  "examples": [
+    {
+      "sentence": "She served as the liaison between the two departments, translating tension into understanding.",
+      "style": "Contextual",
+      "translation": "她担任两个部门之间的联络人，将紧张化为理解。",
+      "translated_word": "联络人",
+      "display_order": 2
+    },
+    {
+      "sentence": "The embassy appointed a cultural liaison to strengthen diplomatic relations.",
+      "style": "Formal",
+      "translation": "大使馆任命了一位文化联络官，以加强外交关系。",
+      "translated_word": "联络官",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every project needs a liaison: someone fluent in both vision and execution.",
+      "style": "Collocational",
+      "translation": "每个项目都需要一位联络人：既懂愿景，又通执行。",
+      "translated_word": "联络人",
+      "display_order": 3
+    },
+    {
+      "sentence": "What began as a professional liaison slowly became something neither of us could name.",
+      "style": "Intimate",
+      "translation": "始于公事的联系，渐渐成了我们都无法命名的东西。",
+      "translated_word": "联系",
+      "display_order": 4
+    }
+  ]
+}

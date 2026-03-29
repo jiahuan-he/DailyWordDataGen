@@ -1,0 +1,40 @@
+{
+  "word": "erratic",
+  "phonetic": "/ɪˈrætɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "反复无常的；飘忽不定的；不稳定的",
+  "examples": [
+    {
+      "sentence": "His attendance was erratic: some weeks he showed up daily, others not at all.",
+      "style": "Contextual",
+      "translation": "他的出勤飘忽不定：有时整周不落，有时杳无踪影。",
+      "translated_word": "飘忽不定",
+      "display_order": 2
+    },
+    {
+      "sentence": "The company's erratic performance made investors nervous.",
+      "style": "Collocational",
+      "translation": "公司业绩起伏不定，令投资者忐忑不安。",
+      "translated_word": "起伏不定",
+      "display_order": 1
+    },
+    {
+      "sentence": "We forgive the weather for being erratic, but rarely extend the same grace to people.",
+      "style": "Philosophical",
+      "translation": "我们能宽容天气的反复无常，却鲜少给人同样的体谅。",
+      "translated_word": "反复无常",
+      "display_order": 3
+    },
+    {
+      "sentence": "Growing up with an erratic father taught me to read silences before they broke.",
+      "style": "Intimate",
+      "translation": "在情绪无常的父亲身边长大，我学会了在沉默破碎前读懂它。",
+      "translated_word": "无常",
+      "display_order": 4
+    }
+  ]
+}

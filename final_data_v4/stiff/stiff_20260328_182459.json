@@ -1,0 +1,41 @@
+{
+  "word": "stiff",
+  "phonetic": "/stɪf/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "僵硬的；生硬的；强烈的；艰难的",
+  "examples": [
+    {
+      "sentence": "After hours at the desk, my neck grew stiff and sore.",
+      "style": "Contextual",
+      "translation": "伏案数小时后，脖子又僵又酸。",
+      "translated_word": "僵",
+      "display_order": 2
+    },
+    {
+      "sentence": "The stiff competition pushed every athlete to their limit.",
+      "style": "Collocational",
+      "translation": "激烈的竞争逼迫每位运动员发挥到极致。",
+      "translated_word": "激烈",
+      "display_order": 3
+    },
+    {
+      "sentence": "Our first meeting was stiff, but by the third coffee, we spoke like old friends.",
+      "style": "Intimate",
+      "translation": "初次见面时我们相当拘谨，但喝到第三杯咖啡时，已像老友般畅聊。",
+      "translated_word": "拘谨",
+      "display_order": 4
+    },
+    {
+      "sentence": "New leather feels stiff at first; give it time to soften.",
+      "style": "Contrastive",
+      "translation": "新皮革起初很硬；给它时间，便会柔软。",
+      "translated_word": "硬",
+      "display_order": 1
+    }
+  ]
+}

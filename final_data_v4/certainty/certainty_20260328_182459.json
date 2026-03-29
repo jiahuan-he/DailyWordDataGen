@@ -1,0 +1,39 @@
+{
+  "word": "certainty",
+  "phonetic": "/ˈsɜːrtənti/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "确定性；把握；必然",
+  "examples": [
+    {
+      "sentence": "The only certainty is that nothing remains unchanged.",
+      "style": "Philosophical",
+      "translation": "唯一确定的，是一切都在变。",
+      "translated_word": "确定",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her voice on the phone brought me a quiet certainty: I was not alone.",
+      "style": "Intimate",
+      "translation": "电话那头她的声音，给了我一种平静的确信：我并不孤单。",
+      "translated_word": "确信",
+      "display_order": 2
+    },
+    {
+      "sentence": "Doubt asks questions; certainty provides the courage to act.",
+      "style": "Contrastive",
+      "translation": "疑虑让人发问，而确信给人行动的勇气。",
+      "translated_word": "确信",
+      "display_order": 3
+    },
+    {
+      "sentence": "After reviewing the evidence, the detective spoke with certainty.",
+      "style": "Contextual",
+      "translation": "审视完证据后，侦探语气笃定。",
+      "translated_word": "笃定",
+      "display_order": 1
+    }
+  ]
+}

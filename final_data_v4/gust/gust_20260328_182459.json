@@ -1,0 +1,40 @@
+{
+  "word": "gust",
+  "phonetic": "/ɡʌst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "阵风；一股（风）",
+  "examples": [
+    {
+      "sentence": "A sudden gust scattered the leaves across the empty courtyard.",
+      "style": "Contextual",
+      "translation": "一阵风忽至，落叶纷纷扬过空旷的庭院。",
+      "translated_word": "风",
+      "display_order": 2
+    },
+    {
+      "sentence": "The gust arrived unannounced, rearranged the world, and vanished.",
+      "style": "Poetic",
+      "translation": "风来无声，搅动万物，又悄然而逝。",
+      "translated_word": "风",
+      "display_order": 4
+    },
+    {
+      "sentence": "A strong gust of wind nearly swept the hat off his head.",
+      "style": "Collocational",
+      "translation": "一股劲风差点把他的帽子吹走。",
+      "translated_word": "劲风",
+      "display_order": 1
+    },
+    {
+      "sentence": "That gust on the rooftop carried the scent of rain and something half-remembered.",
+      "style": "Intimate",
+      "translation": "天台上那阵风带来了雨的气息，还有某种似曾相识的味道。",
+      "translated_word": "风",
+      "display_order": 3
+    }
+  ]
+}

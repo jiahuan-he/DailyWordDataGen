@@ -1,0 +1,39 @@
+{
+  "word": "clearance",
+  "phonetic": "/ˈklɪərəns/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "许可；间隙；清仓；清除",
+  "examples": [
+    {
+      "sentence": "The bridge has a clearance of only three meters; tall trucks must take the detour.",
+      "style": "Contextual",
+      "translation": "这座桥的净空只有三米，大型卡车必须绕道而行。",
+      "translated_word": "净空",
+      "display_order": 3
+    },
+    {
+      "sentence": "Federal employees with top-secret clearance undergo rigorous background checks every five years.",
+      "style": "Formal",
+      "translation": "拥有最高机密许可的联邦雇员每五年须接受一次严格的背景审查。",
+      "translated_word": "许可",
+      "display_order": 4
+    },
+    {
+      "sentence": "We found our sofa at a furniture clearance, half its original price.",
+      "style": "Collocational",
+      "translation": "我们在家具清仓时买到了这张沙发，只花了半价。",
+      "translated_word": "清仓",
+      "display_order": 1
+    },
+    {
+      "sentence": "Getting clearance to visit my grandmother in the hospital felt like the longest wait of my life.",
+      "style": "Intimate",
+      "translation": "等待探视许可去看望住院的外婆，那是我人生中最漫长的等待。",
+      "translated_word": "许可",
+      "display_order": 2
+    }
+  ]
+}

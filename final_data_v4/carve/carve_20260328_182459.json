@@ -1,0 +1,40 @@
+{
+  "word": "carve",
+  "phonetic": "/kɑːrv/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "雕刻；切割；开创",
+  "examples": [
+    {
+      "sentence": "He spent the afternoon learning to carve small birds from driftwood.",
+      "style": "Contextual",
+      "translation": "他花了一下午学习用浮木雕刻小鸟。",
+      "translated_word": "雕刻",
+      "display_order": 1
+    },
+    {
+      "sentence": "She carved out a niche in an industry dominated by giants.",
+      "style": "Collocational",
+      "translation": "她在巨头林立的行业中开辟了一片天地。",
+      "translated_word": "开辟",
+      "display_order": 4
+    },
+    {
+      "sentence": "Rivers carve their stories into stone, one patient century at a time.",
+      "style": "Poetic",
+      "translation": "河流将故事刻入岩石，以百年为笔，耐心书写。",
+      "translated_word": "刻入",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather's hands, rough from years of work, first taught mine how to carve.",
+      "style": "Intimate",
+      "translation": "祖父那双因劳作而粗糙的手，最初教会了我雕刻。",
+      "translated_word": "雕刻",
+      "display_order": 2
+    }
+  ]
+}

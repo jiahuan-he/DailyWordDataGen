@@ -1,0 +1,40 @@
+{
+  "word": "economy",
+  "phonetic": "/ɪˈkɑːnəmi/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "经济；节约；节省",
+  "examples": [
+    {
+      "sentence": "The coastal economy depends on seasonal tourism.",
+      "style": "Contextual",
+      "translation": "沿海地区的经济依赖于季节性旅游。",
+      "translated_word": "经济",
+      "display_order": 1
+    },
+    {
+      "sentence": "Experts remain cautious as the global economy shows early signs of recovery.",
+      "style": "Formal",
+      "translation": "全球经济初现复苏迹象，专家仍持谨慎态度。",
+      "translated_word": "经济",
+      "display_order": 2
+    },
+    {
+      "sentence": "She writes with an economy of words; nothing is wasted.",
+      "style": "Collocational",
+      "translation": "她惜字如金，笔下无一处赘余。",
+      "translated_word": "惜",
+      "display_order": 3
+    },
+    {
+      "sentence": "True wealth lies not in abundance, but in the economy of desire.",
+      "style": "Philosophical",
+      "translation": "真正的富足不在于拥有之多，而在于欲望之简。",
+      "translated_word": "简",
+      "display_order": 4
+    }
+  ]
+}

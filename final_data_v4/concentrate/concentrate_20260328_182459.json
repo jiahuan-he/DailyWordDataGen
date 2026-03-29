@@ -1,0 +1,40 @@
+{
+  "word": "concentrate",
+  "phonetic": "/ˈkɑːnsəntreɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "集中注意力；专注；聚集",
+  "examples": [
+    {
+      "sentence": "The room fell silent, and finally she could concentrate.",
+      "style": "Contextual",
+      "translation": "房间安静下来，她终于能够集中精神。",
+      "translated_word": "集中",
+      "display_order": 1
+    },
+    {
+      "sentence": "Concentrate on what you can control; release the rest.",
+      "style": "Collocational",
+      "translation": "专注于你能掌控的；其余的，放手。",
+      "translated_word": "专注",
+      "display_order": 2
+    },
+    {
+      "sentence": "To concentrate is to honor one thing with your full presence.",
+      "style": "Philosophical",
+      "translation": "专注，是以全部的存在去尊重一件事。",
+      "translated_word": "专注",
+      "display_order": 3
+    },
+    {
+      "sentence": "In a crowded lecture hall, I concentrated only on his handwriting in the margins.",
+      "style": "Intimate",
+      "translation": "在拥挤的阶梯教室里，我只注视着他写在页边的字迹。",
+      "translated_word": "注视",
+      "display_order": 4
+    }
+  ]
+}

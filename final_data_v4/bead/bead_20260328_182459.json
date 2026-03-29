@@ -1,0 +1,40 @@
+{
+  "word": "bead",
+  "phonetic": "/biːd/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "珠子；念珠；水珠",
+  "examples": [
+    {
+      "sentence": "The child sorted colored beads into small glass jars.",
+      "style": "Contextual",
+      "translation": "孩子把彩色珠子分拣到小玻璃罐里。",
+      "translated_word": "珠子",
+      "display_order": 1
+    },
+    {
+      "sentence": "Beads of rain clung to the windowpane, each holding a tiny world.",
+      "style": "Poetic",
+      "translation": "雨珠凝在窗玻璃上，每一颗都藏着一个微小的世界。",
+      "translated_word": "珠",
+      "display_order": 4
+    },
+    {
+      "sentence": "Her prayer beads still carry the scent of sandalwood and quiet mornings.",
+      "style": "Intimate",
+      "translation": "她的念珠至今仍留有檀香与静谧晨光的气息。",
+      "translated_word": "珠",
+      "display_order": 3
+    },
+    {
+      "sentence": "A bead of sweat traced down his spine as the interview began.",
+      "style": "Collocational",
+      "translation": "面试开始时，一滴汗珠顺着他的脊背缓缓滑落。",
+      "translated_word": "珠",
+      "display_order": 2
+    }
+  ]
+}

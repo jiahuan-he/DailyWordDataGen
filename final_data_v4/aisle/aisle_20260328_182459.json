@@ -1,0 +1,39 @@
+{
+  "word": "aisle",
+  "phonetic": "/aɪl/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "过道；通道；走廊",
+  "examples": [
+    {
+      "sentence": "She found her seat by the window, third row from the aisle.",
+      "style": "Contextual",
+      "translation": "过道往里数第三排，她找到了自己靠窗的座位。",
+      "translated_word": "过道",
+      "display_order": 1
+    },
+    {
+      "sentence": "We got lost in the cereal aisle, debating over brands like it mattered.",
+      "style": "Collocational",
+      "translation": "我们在麦片货架间迷了路，为品牌争论不休，仿佛这真的很重要。",
+      "translated_word": "货架间",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father's hand trembled slightly as he led me down the aisle.",
+      "style": "Intimate",
+      "translation": "父亲牵着我走向红毯时，他的手微微颤抖。",
+      "translated_word": "红毯",
+      "display_order": 2
+    },
+    {
+      "sentence": "The supermarket aisle glowed at midnight: a cathedral of ordinary things.",
+      "style": "Poetic",
+      "translation": "午夜的超市通道灯火通明：这是平凡之物的殿堂。",
+      "translated_word": "通道",
+      "display_order": 4
+    }
+  ]
+}

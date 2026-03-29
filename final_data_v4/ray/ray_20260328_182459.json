@@ -1,0 +1,40 @@
+{
+  "word": "ray",
+  "phonetic": "/reɪ/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "光线；射线；一丝",
+  "examples": [
+    {
+      "sentence": "A single ray broke through the blinds, cutting the darkness in half.",
+      "style": "Poetic",
+      "translation": "一缕光穿透百叶窗，将黑暗一分为二。",
+      "translated_word": "光",
+      "display_order": 1
+    },
+    {
+      "sentence": "The doctor finally gave us a ray of hope after weeks of uncertainty.",
+      "style": "Contextual",
+      "translation": "经过数周的煎熬，医生终于带来了一丝希望。",
+      "translated_word": "一丝",
+      "display_order": 3
+    },
+    {
+      "sentence": "Sometimes one ray is enough to remind you that the storm will pass.",
+      "style": "Philosophical",
+      "translation": "有时一缕微光便足以让人相信，风暴终会过去。",
+      "translated_word": "微光",
+      "display_order": 4
+    },
+    {
+      "sentence": "She sat by the window, letting the morning rays warm her hands around the coffee cup.",
+      "style": "Intimate",
+      "translation": "她坐在窗边，任晨光温暖双手，指尖轻握咖啡杯。",
+      "translated_word": "光",
+      "display_order": 2
+    }
+  ]
+}

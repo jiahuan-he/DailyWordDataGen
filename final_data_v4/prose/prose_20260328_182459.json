@@ -1,0 +1,40 @@
+{
+  "word": "prose",
+  "phonetic": "/proʊz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "散文；平实文字；平铺直叙",
+  "examples": [
+    {
+      "sentence": "Her memoir was written in spare, luminous prose.",
+      "style": "Contextual",
+      "translation": "她的回忆录以简洁而透亮的散文写成。",
+      "translated_word": "散文",
+      "display_order": 1
+    },
+    {
+      "sentence": "Poetry compresses; prose breathes.",
+      "style": "Contrastive",
+      "translation": "诗歌凝练，散文舒展。",
+      "translated_word": "散文",
+      "display_order": 3
+    },
+    {
+      "sentence": "The finest prose hides its rhythm until spoken aloud.",
+      "style": "Poetic",
+      "translation": "最精妙的散文，唯有朗读时才显露其韵律。",
+      "translated_word": "散文",
+      "display_order": 2
+    },
+    {
+      "sentence": "We live in prose but long for poetry.",
+      "style": "Philosophical",
+      "translation": "我们栖居于散文，却向往诗意。",
+      "translated_word": "散文",
+      "display_order": 4
+    }
+  ]
+}

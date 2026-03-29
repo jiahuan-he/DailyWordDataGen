@@ -1,0 +1,40 @@
+{
+  "word": "viral",
+  "phonetic": "/ˈvaɪrəl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "病毒的；疯传的；爆红的",
+  "examples": [
+    {
+      "sentence": "Within hours, every group chat had the same clip. It was undeniably viral.",
+      "style": "Contextual",
+      "translation": "几小时内，每个群聊都在传同一个视频；毫无疑问，它火了。",
+      "translated_word": "火了",
+      "display_order": 2
+    },
+    {
+      "sentence": "The infection was confirmed to be viral, requiring no antibiotics.",
+      "style": "Formal",
+      "translation": "该感染经确认为病毒性，无需使用抗生素。",
+      "translated_word": "病毒性",
+      "display_order": 4
+    },
+    {
+      "sentence": "A single tweet turned her into a viral sensation.",
+      "style": "Collocational",
+      "translation": "一条推文让她一夜爆红。",
+      "translated_word": "爆红",
+      "display_order": 1
+    },
+    {
+      "sentence": "Viral fame arrives like a flood and leaves like a tide.",
+      "style": "Philosophical",
+      "translation": "爆红如潮涌，退去亦如潮落。",
+      "translated_word": "爆红",
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "unconscious",
+  "phonetic": "/ʌnˈkɑːnʃəs/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "失去知觉的；无意识的；未察觉的",
+  "examples": [
+    {
+      "sentence": "The impact left him unconscious on the cold floor.",
+      "style": "Contextual",
+      "translation": "撞击使他倒在冰冷的地板上，失去了知觉。",
+      "translated_word": "失去了知觉",
+      "display_order": 1
+    },
+    {
+      "sentence": "Most of our choices are unconscious, shaped by habits we never questioned.",
+      "style": "Philosophical",
+      "translation": "我们大多数选择都是无意识的，被从未质疑过的习惯所塑造。",
+      "translated_word": "无意识的",
+      "display_order": 3
+    },
+    {
+      "sentence": "For years, I was unconscious of how deeply her absence affected me.",
+      "style": "Intimate",
+      "translation": "多年来，我从未察觉她的离去对我影响至深。",
+      "translated_word": "未察觉",
+      "display_order": 2
+    },
+    {
+      "sentence": "The city lay unconscious beneath a blanket of early snow.",
+      "style": "Poetic",
+      "translation": "城市在初雪的覆盖下静静沉睡。",
+      "translated_word": "沉睡",
+      "display_order": 4
+    }
+  ]
+}

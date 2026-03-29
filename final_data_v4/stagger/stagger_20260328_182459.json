@@ -1,0 +1,40 @@
+{
+  "word": "stagger",
+  "phonetic": "/ˈstæɡər/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "蹒跚；错开；使震惊",
+  "examples": [
+    {
+      "sentence": "He staggered out of the bar at 2 a.m., barely finding his car.",
+      "style": "Contextual",
+      "translation": "凌晨两点，他跌跌撞撞走出酒吧，勉强找到了自己的车。",
+      "translated_word": "跌跌撞撞",
+      "display_order": 3
+    },
+    {
+      "sentence": "The old lighthouse keeper staggered against the wind, salt crusting his beard.",
+      "style": "Poetic",
+      "translation": "老灯塔守望者在风中踉跄前行，胡须上结满盐霜。",
+      "translated_word": "踉跄",
+      "display_order": 1
+    },
+    {
+      "sentence": "The company will stagger employee vacations to ensure coverage.",
+      "style": "Collocational",
+      "translation": "公司将错开员工的休假时间，以确保人手充足。",
+      "translated_word": "错开",
+      "display_order": 4
+    },
+    {
+      "sentence": "After the phone call, I staggered to the nearest chair, needing something solid.",
+      "style": "Intimate",
+      "translation": "挂断电话后，我踉跄着走向最近的椅子，需要一点实在的依靠。",
+      "translated_word": "踉跄",
+      "display_order": 2
+    }
+  ]
+}

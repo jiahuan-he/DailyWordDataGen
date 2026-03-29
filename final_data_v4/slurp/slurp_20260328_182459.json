@@ -1,0 +1,40 @@
+{
+  "word": "slurp",
+  "phonetic": "/slɜːrp/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "啜饮；吸食；发出吸吮声",
+  "examples": [
+    {
+      "sentence": "The kids slurped their milkshakes until the straws made hollow sounds.",
+      "style": "Contextual",
+      "translation": "孩子们吸着奶昔，直到吸管发出空洞的咕噜声。",
+      "translated_word": "吸",
+      "display_order": 2
+    },
+    {
+      "sentence": "He slurped the last of his ramen, broth and all.",
+      "style": "Collocational",
+      "translation": "他连汤带面，把最后一口拉面吸得精光。",
+      "translated_word": "吸",
+      "display_order": 1
+    },
+    {
+      "sentence": "Grandma never scolded us for slurping; she said it meant the soup was good.",
+      "style": "Intimate",
+      "translation": "奶奶从不责备我们喝汤出声；她说那代表汤好喝。",
+      "translated_word": "出声",
+      "display_order": 3
+    },
+    {
+      "sentence": "Summer hides in the sound of children slurping watermelon by the porch.",
+      "style": "Poetic",
+      "translation": "夏天藏在门廊边，孩子们啃西瓜的吸吮声里。",
+      "translated_word": "吸吮",
+      "display_order": 4
+    }
+  ]
+}

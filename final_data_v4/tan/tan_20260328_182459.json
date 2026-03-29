@@ -1,0 +1,42 @@
+{
+  "word": "tan",
+  "phonetic": "/tæn/",
+  "pos": [
+    "adjective",
+    "noun",
+    "numeral",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "晒黑的肤色；棕褐色",
+  "examples": [
+    {
+      "sentence": "She returned from the coast with a deep, even tan.",
+      "style": "Contextual",
+      "translation": "她从海边归来，晒出了一身均匀的古铜色。",
+      "translated_word": "古铜色",
+      "display_order": 1
+    },
+    {
+      "sentence": "He spent the afternoon by the pool, working on his tan.",
+      "style": "Collocational",
+      "translation": "他在泳池边消磨了一下午，想把肤色晒得更深。",
+      "translated_word": "肤色",
+      "display_order": 3
+    },
+    {
+      "sentence": "My father's tan faded each winter, only to return on the fishing boat come June.",
+      "style": "Intimate",
+      "translation": "父亲的肤色每到冬天便会褪去，待六月一上渔船，又晒了回来。",
+      "translated_word": "肤色",
+      "display_order": 2
+    },
+    {
+      "sentence": "The hills wore a soft tan, waiting for the first autumn rain.",
+      "style": "Poetic",
+      "translation": "山峦披着一层淡褐，静候初秋的雨。",
+      "translated_word": "淡褐",
+      "display_order": 4
+    }
+  ]
+}

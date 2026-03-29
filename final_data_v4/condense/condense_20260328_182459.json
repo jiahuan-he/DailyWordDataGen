@@ -1,0 +1,40 @@
+{
+  "word": "condense",
+  "phonetic": "/kənˈdens/",
+  "pos": [
+    "adjective",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "压缩；浓缩；凝结；精简",
+  "examples": [
+    {
+      "sentence": "The speech was too long, so she condensed it to five key points.",
+      "style": "Contextual",
+      "translation": "演讲太长，她将其精简为五个要点。",
+      "translated_word": "精简",
+      "display_order": 1
+    },
+    {
+      "sentence": "Analysts condense quarterly data into actionable market insights.",
+      "style": "Formal",
+      "translation": "分析师将季度数据提炼为可操作的市场洞察。",
+      "translated_word": "提炼",
+      "display_order": 3
+    },
+    {
+      "sentence": "Wisdom cannot be taught; it condenses slowly from lived experience.",
+      "style": "Philosophical",
+      "translation": "智慧无法传授；它从生命经验中缓缓凝结。",
+      "translated_word": "凝结",
+      "display_order": 4
+    },
+    {
+      "sentence": "Steam condenses on cold glass, tracing maps of invisible breath.",
+      "style": "Poetic",
+      "translation": "蒸汽在冷玻璃上凝结，勾画出无形呼吸的地图。",
+      "translated_word": "凝结",
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "erase",
+  "phonetic": "/ɪˈreɪz/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "擦掉；抹去；删除；消除",
+  "examples": [
+    {
+      "sentence": "He erased the pencil marks before submitting his answer.",
+      "style": "Contextual",
+      "translation": "他擦掉铅笔痕迹，然后交卷。",
+      "translated_word": "擦掉",
+      "display_order": 1
+    },
+    {
+      "sentence": "Snow fell all night, erasing the city into silence.",
+      "style": "Poetic",
+      "translation": "大雪落了一夜，将城市抹成一片寂静。",
+      "translated_word": "抹",
+      "display_order": 4
+    },
+    {
+      "sentence": "Some scars cannot be erased, only outgrown.",
+      "style": "Philosophical",
+      "translation": "有些伤疤无法抹去，只能被成长覆盖。",
+      "translated_word": "抹去",
+      "display_order": 3
+    },
+    {
+      "sentence": "I erased your number but not the habit of reaching for my phone.",
+      "style": "Intimate",
+      "translation": "我删掉了你的号码，却删不掉习惯性拿起手机的动作。",
+      "translated_word": "删掉",
+      "display_order": 2
+    }
+  ]
+}

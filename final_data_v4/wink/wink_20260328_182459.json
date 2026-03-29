@@ -1,0 +1,40 @@
+{
+  "word": "wink",
+  "phonetic": "/wɪŋk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "眨眼；使眼色；暗示",
+  "examples": [
+    {
+      "sentence": "She winked from across the room; the surprise was ready.",
+      "style": "Contextual",
+      "translation": "她从房间那头眨了眨眼；惊喜已经准备好了。",
+      "translated_word": "眨了眨眼",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandfather always winked before his best stories.",
+      "style": "Intimate",
+      "translation": "祖父讲最精彩的故事前，总会先眨眨眼。",
+      "translated_word": "眨眨眼",
+      "display_order": 2
+    },
+    {
+      "sentence": "He winked playfully, as if we shared a secret.",
+      "style": "Collocational",
+      "translation": "他俏皮地眨眨眼，仿佛我们共享着一个秘密。",
+      "translated_word": "眨眨眼",
+      "display_order": 1
+    },
+    {
+      "sentence": "The lighthouse winked through the fog, guiding sailors home.",
+      "style": "Poetic",
+      "translation": "灯塔在雾中闪烁，引领迷途的水手归航。",
+      "translated_word": "闪烁",
+      "display_order": 4
+    }
+  ]
+}

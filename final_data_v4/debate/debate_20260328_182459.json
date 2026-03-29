@@ -1,0 +1,40 @@
+{
+  "word": "debate",
+  "phonetic": "/dɪˈbeɪt/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "辩论；争论；讨论",
+  "examples": [
+    {
+      "sentence": "The debate over school uniforms divided the entire parent committee.",
+      "style": "Contextual",
+      "translation": "关于校服的争论让整个家长委员会意见分裂。",
+      "translated_word": "争论",
+      "display_order": 2
+    },
+    {
+      "sentence": "Tonight's debate will address climate policy and economic reform.",
+      "style": "Formal",
+      "translation": "今晚的辩论将围绕气候政策与经济改革展开。",
+      "translated_word": "辩论",
+      "display_order": 1
+    },
+    {
+      "sentence": "Every great debate begins with the admission that one might be wrong.",
+      "style": "Philosophical",
+      "translation": "每一场伟大的辩论，都始于承认自己可能是错的。",
+      "translated_word": "辩论",
+      "display_order": 4
+    },
+    {
+      "sentence": "My father never won a debate with my mother; he simply learned when to listen.",
+      "style": "Intimate",
+      "translation": "父亲从未赢过与母亲的争论；他只是学会了何时倾听。",
+      "translated_word": "争论",
+      "display_order": 3
+    }
+  ]
+}

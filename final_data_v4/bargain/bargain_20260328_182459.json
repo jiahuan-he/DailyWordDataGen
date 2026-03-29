@@ -1,0 +1,40 @@
+{
+  "word": "bargain",
+  "phonetic": "/ˈbɑːrɡɪn/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "便宜货；划算的交易；协议",
+  "examples": [
+    {
+      "sentence": "At half the listed price, this jacket was a bargain.",
+      "style": "Contextual",
+      "translation": "以标价的一半买下这件夹克，真是划算。",
+      "translated_word": "划算",
+      "display_order": 1
+    },
+    {
+      "sentence": "She's a bargain hunter who never pays retail.",
+      "style": "Collocational",
+      "translation": "她是个淘货达人，从不按原价购物。",
+      "translated_word": "淘货",
+      "display_order": 3
+    },
+    {
+      "sentence": "That vintage lamp was a bargain; it now lights my reading corner.",
+      "style": "Intimate",
+      "translation": "那盏复古台灯是淘来的便宜货，如今照亮了我的阅读角落。",
+      "translated_word": "便宜货",
+      "display_order": 2
+    },
+    {
+      "sentence": "The best bargains carry no price tag.",
+      "style": "Philosophical",
+      "translation": "最好的交易往往没有标价。",
+      "translated_word": "交易",
+      "display_order": 4
+    }
+  ]
+}
