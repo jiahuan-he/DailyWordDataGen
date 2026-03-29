@@ -1,0 +1,42 @@
+{
+  "word": "sleek",
+  "phonetic": "/sliːk/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "光滑的；流线型的；时尚的；精致的",
+  "examples": [
+    {
+      "sentence": "The new phone felt impossibly thin, its sleek surface cool against my palm.",
+      "style": "Contextual",
+      "translation": "新手机薄得不可思议，光滑的机身触手冰凉。",
+      "translated_word": "光滑",
+      "display_order": 1
+    },
+    {
+      "sentence": "The sedan's sleek profile reduces drag while maximizing visual appeal.",
+      "style": "Formal",
+      "translation": "这款轿车流线型的外观在降低风阻的同时，将视觉美感发挥到极致。",
+      "translated_word": "流线型",
+      "display_order": 3
+    },
+    {
+      "sentence": "She traced the sleek lines of the minimalist furniture with quiet approval.",
+      "style": "Collocational",
+      "translation": "她用指尖轻抚那极简家具的流畅线条，无声地赞许着。",
+      "translated_word": "流畅",
+      "display_order": 2
+    },
+    {
+      "sentence": "Chrome and glass, sleek as ambition, rose against the morning sky.",
+      "style": "Poetic",
+      "translation": "铬与玻璃，锋锐如野心，在晨曦中拔地而起。",
+      "translated_word": "锋锐",
+      "display_order": 4
+    }
+  ]
+}

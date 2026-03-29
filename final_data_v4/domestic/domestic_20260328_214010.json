@@ -1,0 +1,40 @@
+{
+  "word": "domestic",
+  "phonetic": "/dəˈmestɪk/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "家庭的；国内的；家养的",
+  "examples": [
+    {
+      "sentence": "After years of travel, she craved domestic rhythms: morning tea, a garden to tend.",
+      "style": "Contextual",
+      "translation": "多年漂泊后，她开始渴望居家的节奏：晨间茶饮，一方小园可侍弄。",
+      "translated_word": "居家",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new trade policy aims to protect domestic industries from foreign competition.",
+      "style": "Formal",
+      "translation": "新贸易政策旨在保护国内产业免受外国竞争。",
+      "translated_word": "国内",
+      "display_order": 3
+    },
+    {
+      "sentence": "All domestic flights out of O'Hare are delayed.",
+      "style": "Collocational",
+      "translation": "所有从奥黑尔机场出发的国内航班均已延误。",
+      "translated_word": "国内",
+      "display_order": 2
+    },
+    {
+      "sentence": "My grandmother's kitchen held a particular domestic magic: flour on the counter, soup on the stove, love in the details.",
+      "style": "Intimate",
+      "translation": "外婆的厨房有种独特的家常魔力：案板上的面粉，灶上的热汤，细节里的爱。",
+      "translated_word": "家常",
+      "display_order": 4
+    }
+  ]
+}

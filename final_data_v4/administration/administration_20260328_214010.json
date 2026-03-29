@@ -1,0 +1,39 @@
+{
+  "word": "administration",
+  "phonetic": "/ədˌmɪnɪˈstreɪʃən/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "管理；行政；政府；执行",
+  "examples": [
+    {
+      "sentence": "She handles administration for the department: budgets, schedules, hiring.",
+      "style": "Contextual",
+      "translation": "她负责部门的行政事务：预算、排班、招聘。",
+      "translated_word": "行政事务",
+      "display_order": 1
+    },
+    {
+      "sentence": "The new administration has pledged to reform healthcare within its first hundred days.",
+      "style": "Formal",
+      "translation": "新一届政府承诺在执政百日内推行医疗改革。",
+      "translated_word": "政府",
+      "display_order": 3
+    },
+    {
+      "sentence": "Hospital administration approved the extended visiting hours this morning.",
+      "style": "Collocational",
+      "translation": "医院行政部门今早批准了延长探视时间的申请。",
+      "translated_word": "行政部门",
+      "display_order": 2
+    },
+    {
+      "sentence": "Good administration is invisible; we notice it only when it fails.",
+      "style": "Philosophical",
+      "translation": "良好的管理是无形的；唯有失灵时，我们才会察觉它的存在。",
+      "translated_word": "管理",
+      "display_order": 4
+    }
+  ]
+}

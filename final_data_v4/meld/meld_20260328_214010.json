@@ -1,0 +1,40 @@
+{
+  "word": "meld",
+  "phonetic": "/meld/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "融合；交融；混合",
+  "examples": [
+    {
+      "sentence": "The chef's genius lies in how she melds Eastern spices with Western techniques.",
+      "style": "Contextual",
+      "translation": "这位厨师的天赋在于她将东方香料与西方技法完美融合。",
+      "translated_word": "融合",
+      "display_order": 1
+    },
+    {
+      "sentence": "At dusk, the sea melds with the sky in shades of amber and rose.",
+      "style": "Poetic",
+      "translation": "黄昏时分，海天交融，渲染出琥珀与玫瑰的色泽。",
+      "translated_word": "交融",
+      "display_order": 2
+    },
+    {
+      "sentence": "Their voices meld together into a single, haunting harmony.",
+      "style": "Collocational",
+      "translation": "他们的声音交融为一，化作萦绕心间的和声。",
+      "translated_word": "交融",
+      "display_order": 3
+    },
+    {
+      "sentence": "The best partnerships meld differences into something neither could create alone.",
+      "style": "Philosophical",
+      "translation": "最好的合作，是将差异融为一体，成就彼此无法独自实现的可能。",
+      "translated_word": "融为一体",
+      "display_order": 4
+    }
+  ]
+}

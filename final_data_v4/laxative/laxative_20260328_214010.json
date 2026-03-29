@@ -1,0 +1,40 @@
+{
+  "word": "laxative",
+  "phonetic": "/ˈlæksətɪv/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "泻药；通便剂",
+  "examples": [
+    {
+      "sentence": "The doctor recommended a mild laxative after three days without relief.",
+      "style": "Contextual",
+      "translation": "三天未能排便后，医生建议服用一剂温和的泻药。",
+      "translated_word": "泻药",
+      "display_order": 1
+    },
+    {
+      "sentence": "Health experts warn against prolonged laxative use without medical supervision.",
+      "style": "Formal",
+      "translation": "健康专家提醒：长期使用泻药须在医生指导下进行。",
+      "translated_word": "泻药",
+      "display_order": 4
+    },
+    {
+      "sentence": "Prunes are often called nature's laxative for good reason.",
+      "style": "Collocational",
+      "translation": "西梅素有\"天然泻药\"之称，名副其实。",
+      "translated_word": "泻药",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother swore by warm honey water as her morning laxative.",
+      "style": "Intimate",
+      "translation": "祖母每早必饮一杯温热蜂蜜水，说这是她的通便秘方。",
+      "translated_word": "通便",
+      "display_order": 2
+    }
+  ]
+}

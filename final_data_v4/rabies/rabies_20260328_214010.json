@@ -1,0 +1,39 @@
+{
+  "word": "rabies",
+  "phonetic": "/ˈreɪbiːz/",
+  "pos": [
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "狂犬病",
+  "examples": [
+    {
+      "sentence": "The stray dog was quarantined to test for rabies.",
+      "style": "Contextual",
+      "translation": "那只流浪狗被隔离检测狂犬病。",
+      "translated_word": "狂犬病",
+      "display_order": 1
+    },
+    {
+      "sentence": "Health officials confirmed the region's first case of rabies in over a decade.",
+      "style": "Formal",
+      "translation": "卫生官员确认了该地区十余年来的首例狂犬病病例。",
+      "translated_word": "狂犬病",
+      "display_order": 4
+    },
+    {
+      "sentence": "After the bite, she rushed to the clinic for a rabies shot.",
+      "style": "Collocational",
+      "translation": "被咬后，她立刻赶往诊所接种狂犬疫苗。",
+      "translated_word": "狂犬",
+      "display_order": 3
+    },
+    {
+      "sentence": "My grandmother warned me about rabies whenever I reached for a stray.",
+      "style": "Intimate",
+      "translation": "每当我想去摸流浪动物，奶奶总会提起狂犬病来叮嘱我。",
+      "translated_word": "狂犬病",
+      "display_order": 2
+    }
+  ]
+}

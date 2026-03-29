@@ -1,0 +1,41 @@
+{
+  "word": "frank",
+  "phonetic": "/fræŋk/",
+  "pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "adjective",
+  "definition": "坦率；直言；诚恳",
+  "examples": [
+    {
+      "sentence": "Her frank answer caught him off guard: she wasn't interested.",
+      "style": "Contextual",
+      "translation": "她坦率的回答让他措手不及：她没有兴趣。",
+      "translated_word": "坦率",
+      "display_order": 2
+    },
+    {
+      "sentence": "To be perfectly frank, I haven't finished reading the report.",
+      "style": "Collocational",
+      "translation": "坦白说，我还没有读完那份报告。",
+      "translated_word": "坦白",
+      "display_order": 3
+    },
+    {
+      "sentence": "The most frank conversations happen after we stop performing.",
+      "style": "Philosophical",
+      "translation": "最坦率的对话，往往发生在我们卸下伪装之后。",
+      "translated_word": "坦率",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother was always frank with me, even when the truth stung.",
+      "style": "Intimate",
+      "translation": "祖母总是对我坦诚相告，即便真相刺痛人心。",
+      "translated_word": "坦诚",
+      "display_order": 1
+    }
+  ]
+}

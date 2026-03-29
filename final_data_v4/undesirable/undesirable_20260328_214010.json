@@ -1,0 +1,40 @@
+{
+  "word": "undesirable",
+  "phonetic": "/ˌʌndɪˈzaɪərəbl/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "不受欢迎的；不合意的；有害的",
+  "examples": [
+    {
+      "sentence": "The side effects were deemed undesirable but manageable.",
+      "style": "Formal",
+      "translation": "副作用虽不理想，但尚在可控范围内。",
+      "translated_word": "不理想",
+      "display_order": 1
+    },
+    {
+      "sentence": "Silence can feel undesirable until you learn to listen to it.",
+      "style": "Philosophical",
+      "translation": "沉默令人不安，直到你学会倾听它。",
+      "translated_word": "令人不安",
+      "display_order": 4
+    },
+    {
+      "sentence": "We avoided the undesirable route and took the scenic path instead.",
+      "style": "Contrastive",
+      "translation": "我们避开了那条糟糕的路，转而选择风景更好的小径。",
+      "translated_word": "糟糕",
+      "display_order": 2
+    },
+    {
+      "sentence": "Rushing often leads to undesirable results.",
+      "style": "Contextual",
+      "translation": "匆忙行事往往事与愿违。",
+      "translated_word": null,
+      "display_order": 3
+    }
+  ]
+}

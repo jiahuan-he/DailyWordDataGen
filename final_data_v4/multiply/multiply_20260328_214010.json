@@ -1,0 +1,41 @@
+{
+  "word": "multiply",
+  "phonetic": "/ˈmʌltɪplaɪ/",
+  "pos": [
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "乘；繁殖；倍增；增多",
+  "examples": [
+    {
+      "sentence": "Cells multiply rapidly during the first weeks of development.",
+      "style": "Formal",
+      "translation": "发育最初几周，细胞迅速繁殖。",
+      "translated_word": "繁殖",
+      "display_order": 1
+    },
+    {
+      "sentence": "One good habit can multiply into many.",
+      "style": "Contextual",
+      "translation": "一个好习惯，能衍生出更多。",
+      "translated_word": "衍生",
+      "display_order": 3
+    },
+    {
+      "sentence": "Doubts multiply in silence; voice them, and they lose their weight.",
+      "style": "Philosophical",
+      "translation": "疑虑在沉默中滋长；说出口，便轻了。",
+      "translated_word": "滋长",
+      "display_order": 4
+    },
+    {
+      "sentence": "Your efforts multiply when you invest in the right skills.",
+      "style": "Inspirational",
+      "translation": "投入对的技能，付出自会成倍回报。",
+      "translated_word": "成倍",
+      "display_order": 2
+    }
+  ]
+}

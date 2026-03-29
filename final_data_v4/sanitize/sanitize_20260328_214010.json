@@ -1,0 +1,39 @@
+{
+  "word": "sanitize",
+  "phonetic": "/ˈsænɪtaɪz/",
+  "pos": [
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "消毒；净化；删减",
+  "examples": [
+    {
+      "sentence": "She sanitized her hands before holding the newborn.",
+      "style": "Contextual",
+      "translation": "她消毒双手后，才抱起那个新生儿。",
+      "translated_word": "消毒",
+      "display_order": 2
+    },
+    {
+      "sentence": "The committee sanitized the report, omitting all evidence of internal failure.",
+      "style": "Formal",
+      "translation": "委员会对报告进行了删减，略去了所有内部失误的证据。",
+      "translated_word": "删减",
+      "display_order": 3
+    },
+    {
+      "sentence": "We sanitize the data, but we cannot sanitize the truth.",
+      "style": "Contrastive",
+      "translation": "数据可以净化，真相却无从粉饰。",
+      "translated_word": "净化",
+      "display_order": 4
+    },
+    {
+      "sentence": "Sanitize all kitchen surfaces before preparing raw meat.",
+      "style": "Collocational",
+      "translation": "处理生肉前，请将厨房台面彻底消毒。",
+      "translated_word": "消毒",
+      "display_order": 1
+    }
+  ]
+}

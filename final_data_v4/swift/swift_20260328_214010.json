@@ -1,0 +1,41 @@
+{
+  "word": "swift",
+  "phonetic": "/swɪft/",
+  "pos": [
+    "adjective",
+    "adverb",
+    "noun"
+  ],
+  "selected_pos": "adjective",
+  "definition": "迅速的；敏捷的；快的",
+  "examples": [
+    {
+      "sentence": "The deer vanished into the woods, swift as shadow.",
+      "style": "Contextual",
+      "translation": "鹿影一闪，便消失于林间。",
+      "translated_word": "一闪",
+      "display_order": 4
+    },
+    {
+      "sentence": "Officials promised swift action following the security breach.",
+      "style": "Formal",
+      "translation": "官方承诺将对此次安全漏洞迅速采取措施。",
+      "translated_word": "迅速",
+      "display_order": 1
+    },
+    {
+      "sentence": "A swift reply can prevent a small misunderstanding from growing.",
+      "style": "Collocational",
+      "translation": "一个及时的回复，能阻止小误会发酵。",
+      "translated_word": "及时",
+      "display_order": 2
+    },
+    {
+      "sentence": "The river runs swift beneath the ice, silent and unseen.",
+      "style": "Poetic",
+      "translation": "河水在冰下疾流，无声无迹。",
+      "translated_word": "疾流",
+      "display_order": 3
+    }
+  ]
+}

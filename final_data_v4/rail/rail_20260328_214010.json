@@ -1,0 +1,40 @@
+{
+  "word": "rail",
+  "phonetic": "/reɪl/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "noun",
+  "definition": "铁轨；栏杆；扶手",
+  "examples": [
+    {
+      "sentence": "She gripped the rail as the train lurched forward.",
+      "style": "Contextual",
+      "translation": "火车猛然启动，她紧紧抓住扶手。",
+      "translated_word": "扶手",
+      "display_order": 2
+    },
+    {
+      "sentence": "The city is expanding its rail network to ease traffic congestion.",
+      "style": "Formal",
+      "translation": "该市正在扩建铁路网络以缓解交通拥堵。",
+      "translated_word": "铁路",
+      "display_order": 3
+    },
+    {
+      "sentence": "Rust crept along the rail, tracing the path of forgotten journeys.",
+      "style": "Poetic",
+      "translation": "锈迹沿着铁轨蔓延，描摹出被遗忘的旅途。",
+      "translated_word": "铁轨",
+      "display_order": 4
+    },
+    {
+      "sentence": "My grandmother leaned on the balcony rail every evening, watching the street below.",
+      "style": "Intimate",
+      "translation": "每个傍晚，祖母都倚着阳台栏杆，静静望着楼下的街道。",
+      "translated_word": "栏杆",
+      "display_order": 1
+    }
+  ]
+}

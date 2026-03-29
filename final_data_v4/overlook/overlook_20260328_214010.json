@@ -1,0 +1,40 @@
+{
+  "word": "overlook",
+  "phonetic": "/ˌoʊvərˈlʊk/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "忽视；俯瞰；宽恕",
+  "examples": [
+    {
+      "sentence": "The terrace overlooks the vineyard stretching to the hills.",
+      "style": "Contextual",
+      "translation": "露台俯瞰着延伸至山丘的葡萄园。",
+      "translated_word": "俯瞰",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some mistakes should be overlooked; others demand accountability.",
+      "style": "Contrastive",
+      "translation": "有些错误应当宽恕；有些则必须追究。",
+      "translated_word": "宽恕",
+      "display_order": 4
+    },
+    {
+      "sentence": "We overlook small joys while chasing grand achievements.",
+      "style": "Philosophical",
+      "translation": "我们在追逐宏大成就时，忽视了微小的喜悦。",
+      "translated_word": "忽视",
+      "display_order": 3
+    },
+    {
+      "sentence": "He overlooked my silence that night, and I never corrected him.",
+      "style": "Intimate",
+      "translation": "那晚他忽视了我的沉默，而我从未纠正过他。",
+      "translated_word": "忽视",
+      "display_order": 2
+    }
+  ]
+}

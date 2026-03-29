@@ -1,0 +1,40 @@
+{
+  "word": "rodent",
+  "phonetic": "/ˈroʊdnt/",
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "selected_pos": "noun",
+  "definition": "啮齿动物；鼠类",
+  "examples": [
+    {
+      "sentence": "A small rodent darted across the path and vanished into the underbrush.",
+      "style": "Contextual",
+      "translation": "一只小小的啮齿动物窜过小径，消失在灌木丛中。",
+      "translated_word": "啮齿动物",
+      "display_order": 1
+    },
+    {
+      "sentence": "City health officials have intensified rodent control efforts near the waterfront.",
+      "style": "Formal",
+      "translation": "市卫生官员已加强滨水区域的鼠害防治工作。",
+      "translated_word": "鼠",
+      "display_order": 4
+    },
+    {
+      "sentence": "Unlike most mammals, rodents have teeth that never stop growing.",
+      "style": "Contrastive",
+      "translation": "与大多数哺乳动物不同，啮齿动物的牙齿终生不断生长。",
+      "translated_word": "啮齿动物",
+      "display_order": 3
+    },
+    {
+      "sentence": "Her daughter begged for a pet rodent; they came home with a hamster named Biscuit.",
+      "style": "Collocational",
+      "translation": "女儿央求养一只啮齿宠物；最后她们带回了一只名叫饼干的仓鼠。",
+      "translated_word": "啮齿",
+      "display_order": 2
+    }
+  ]
+}

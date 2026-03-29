@@ -1,0 +1,40 @@
+{
+  "word": "undo",
+  "phonetic": "/ʌnˈduː/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "撤销；解开；毁掉",
+  "examples": [
+    {
+      "sentence": "Press Ctrl+Z to undo your last edit.",
+      "style": "Contextual",
+      "translation": "按下Ctrl+Z可撤销上一步编辑。",
+      "translated_word": "撤销",
+      "display_order": 1
+    },
+    {
+      "sentence": "Some words, once spoken, cannot be undone.",
+      "style": "Philosophical",
+      "translation": "有些话一旦说出口，便再也无法收回。",
+      "translated_word": "收回",
+      "display_order": 3
+    },
+    {
+      "sentence": "She undid the ribbon slowly, savoring the anticipation.",
+      "style": "Intimate",
+      "translation": "她缓缓解开丝带，细细品味那份期待。",
+      "translated_word": "解开",
+      "display_order": 2
+    },
+    {
+      "sentence": "Years of trust can be undone by a single lie.",
+      "style": "Collocational",
+      "translation": "多年的信任，一句谎言便可毁于一旦。",
+      "translated_word": "毁",
+      "display_order": 4
+    }
+  ]
+}

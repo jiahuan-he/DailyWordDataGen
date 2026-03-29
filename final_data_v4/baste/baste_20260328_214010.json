@@ -1,0 +1,40 @@
+{
+  "word": "baste",
+  "phonetic": "/beɪst/",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "selected_pos": "verb",
+  "definition": "浇汁；润脂；假缝",
+  "examples": [
+    {
+      "sentence": "Every twenty minutes, she paused to baste the roasting turkey.",
+      "style": "Contextual",
+      "translation": "每隔二十分钟，她便停下手中的活，为烤箱里的火鸡浇上汤汁。",
+      "translated_word": "浇上汤汁",
+      "display_order": 4
+    },
+    {
+      "sentence": "Baste the lamb with rosemary butter for a fragrant, golden crust.",
+      "style": "Collocational",
+      "translation": "用迷迭香黄油为羊肉润脂，烤出金黄酥香的外皮。",
+      "translated_word": "润脂",
+      "display_order": 1
+    },
+    {
+      "sentence": "Watching my mother baste the holiday roast, I learned patience before I learned to cook.",
+      "style": "Intimate",
+      "translation": "看着母亲为节日烤肉细细浇汁，我在学会烹饪之前，先学会了耐心。",
+      "translated_word": "浇汁",
+      "display_order": 2
+    },
+    {
+      "sentence": "Professional chefs baste meats frequently to ensure even browning and optimal tenderness.",
+      "style": "Formal",
+      "translation": "专业厨师频繁为肉类浇汁润脂，以确保上色均匀、口感鲜嫩。",
+      "translated_word": "浇汁润脂",
+      "display_order": 3
+    }
+  ]
+}

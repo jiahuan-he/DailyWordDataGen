@@ -1,0 +1,39 @@
+{
+  "word": "elegant",
+  "phonetic": "/ˈelɪɡənt/",
+  "pos": [
+    "adjective"
+  ],
+  "selected_pos": "adjective",
+  "definition": "优雅的；精致的；简洁的；高雅的",
+  "examples": [
+    {
+      "sentence": "She moved through the crowded room, elegant and unhurried, as if time had cleared a path for her.",
+      "style": "Poetic",
+      "translation": "她穿过拥挤的房间，优雅而从容，仿佛时间为她让出一条路。",
+      "translated_word": "优雅",
+      "display_order": 2
+    },
+    {
+      "sentence": "The mathematician found an elegant solution that reduced fifty lines of code to five.",
+      "style": "Collocational",
+      "translation": "数学家找到了一个精妙的解法，将五十行代码缩减为五行。",
+      "translated_word": "精妙",
+      "display_order": 3
+    },
+    {
+      "sentence": "True elegance is knowing what to remove, not what to add.",
+      "style": "Philosophical",
+      "translation": "真正的优雅，在于懂得删减，而非堆砌。",
+      "translated_word": "优雅",
+      "display_order": 4
+    },
+    {
+      "sentence": "The restaurant was small but elegant, with white tablecloths and soft candlelight.",
+      "style": "Contextual",
+      "translation": "餐厅虽小却十分雅致，铺着白色桌布，烛光柔和。",
+      "translated_word": "雅致",
+      "display_order": 1
+    }
+  ]
+}
